@@ -1,119 +1,107 @@
-import { ArrowRight, BookOpen, Award, Users, CheckCircle } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { ArrowRight, BookOpen, Users, Trophy, Target, Star, CheckCircle } from 'lucide-react';
 import Button from '../components/Button';
 import Card from '../components/Card';
-import { motion } from 'framer-motion';
 
 const Home = () => {
   return (
     <div className="flex flex-col min-h-screen">
-      {/* Hero Section - Split layout for professional look */}
-      <section className="relative pt-24 pb-16 md:pt-32 md:pb-24 bg-[#003366] text-white overflow-hidden">
-        {/* Abstract Pattern Overlay */}
-        <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'radial-gradient(#ffffff 1px, transparent 1px)', backgroundSize: '30px 30px' }}></div>
 
-        <div className="container-width relative z-10 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-          <motion.div
-            initial={{ opacity: 0, x: -20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.6 }}
-          >
-            <div className="inline-block px-4 py-1.5 rounded-full bg-blue-800 text-blue-100 text-sm font-bold tracking-wide mb-6 border border-blue-700">
-              ADMISSIONS OPEN 2026-27
-            </div>
-            <h1 className="text-4xl md:text-6xl font-black mb-6 leading-tight font-serif text-white">
-              Forging the <br />
-              <span className="text-amber-400">Steel Frame</span> of India
-            </h1>
-            <p className="text-blue-100 text-lg md:text-xl mb-8 leading-relaxed max-w-lg">
-              Swadharma IAS Academy provides uncompromising quality in civil services preparation with personalized mentorship and proven strategies.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4">
-              <Button to="/courses" variant="secondary" size="lg" className="shadow-amber-900/20">
-                Explore Courses
-              </Button>
-              <Button to="/about" variant="outline" size="lg" className="border-white text-white hover:bg-white hover:text-[#003366]">
-                About The Academy
-              </Button>
+      {/* Hero Section */}
+      <section className="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden bg-white">
+        <div className="container mx-auto px-4 max-w-7xl relative z-10">
+          <div className="grid lg:grid-cols-2 gap-12 lg:gap-8 items-center">
+
+            {/* Left Content */}
+            <div className="text-left">
+              <div className="inline-flex items-center px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-sm font-semibold mb-6 border border-blue-100">
+                <span className="flex h-2 w-2 rounded-full bg-blue-600 mr-2"></span>
+                Admissions Open for 2026 Batch
+              </div>
+
+              <h1 className="text-5xl lg:text-7xl font-bold tracking-tight text-gray-900 mb-6 leading-[1.1]">
+                Master the Art of <br />
+                <span className="text-blue-600">Civil Services</span>
+              </h1>
+
+              <p className="text-lg text-gray-600 mb-8 max-w-lg leading-relaxed">
+                Swadharma IAS Academy provides the strategic guidance and mentorship you need to crack India's toughest examination.
+              </p>
+
+              <div className="flex flex-col sm:flex-row gap-4 mb-12">
+                <Button to="/courses" size="lg" className="shadow-lg shadow-blue-600/20">
+                  Browse Courses <ArrowRight className="ml-2 h-5 w-5" />
+                </Button>
+                <Button to="/contact" variant="secondary" size="lg">
+                  Book Counseling
+                </Button>
+              </div>
+
+              <div className="flex items-center gap-8 border-t border-gray-100 pt-8">
+                <div>
+                  <p className="text-3xl font-bold text-gray-900">1.5k+</p>
+                  <p className="text-sm text-gray-500 font-medium">Students Enrolled</p>
+                </div>
+                <div>
+                  <p className="text-3xl font-bold text-gray-900">95%</p>
+                  <p className="text-sm text-gray-500 font-medium">Success Rate</p>
+                </div>
+                <div>
+                  <p className="text-3xl font-bold text-gray-900">50+</p>
+                  <p className="text-sm text-gray-500 font-medium">Expert Faculty</p>
+                </div>
+              </div>
             </div>
 
-            <div className="mt-12 flex items-center gap-8 text-blue-200">
-              <div>
-                <p className="text-3xl font-bold text-white">1500+</p>
-                <p className="text-sm">Selections</p>
+            {/* Right Image */}
+            <div className="relative lg:h-[600px] w-full">
+              <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl border-4 border-white">
+                <img
+                  src="https://images.pexels.com/photos/1438081/pexels-photo-1438081.jpeg?auto=compress&cs=tinysrgb&w=800"
+                  alt="Student studying"
+                  className="w-full h-full object-cover"
+                />
               </div>
-              <div className="h-8 w-px bg-blue-700"></div>
-              <div>
-                <p className="text-3xl font-bold text-white">25+</p>
-                <p className="text-sm">Years Legacy</p>
-              </div>
-              <div className="h-8 w-px bg-blue-700"></div>
-              <div>
-                <p className="text-3xl font-bold text-white">Top 10</p>
-                <p className="text-sm">AIR Ranks</p>
-              </div>
+              {/* Decorative Background Blob */}
+              <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-blue-50/50 rounded-full blur-3xl -z-10"></div>
             </div>
-          </motion.div>
-
-          <motion.div
-            initial={{ opacity: 0, x: 20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.6, delay: 0.2 }}
-            className="relative hidden md:block"
-          >
-            <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-white/10">
-              <img
-                src="https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&w=800"
-                alt="Students studying in library"
-                className="w-full h-auto object-cover transform hover:scale-105 transition-transform duration-700"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-[#003366]/80 to-transparent"></div>
-              <div className="absolute bottom-6 left-6 right-6">
-                <p className="text-white text-lg font-medium italic">"Education is the most powerful weapon which you can use to change the world."</p>
-              </div>
-            </div>
-            {/* Decorative Elements */}
-            <div className="absolute -z-10 top-10 -right-10 w-full h-full bg-amber-500 rounded-2xl"></div>
-          </motion.div>
+          </div>
         </div>
       </section>
 
-      {/* Features Section */}
-      <section className="section-padding bg-white">
-        <div className="container-width">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#003366] mb-4">Why Choose Swadharma?</h2>
-            <div className="w-24 h-1 bg-amber-500 mx-auto rounded-full"></div>
-            <p className="mt-6 text-xl text-gray-600 max-w-2xl mx-auto">
-              We believe in a holistic approach to UPSC preparation that goes beyond just syllabus coverage.
-            </p>
+      {/* Features Grid */}
+      <section className="py-24 bg-gray-50/50">
+        <div className="container mx-auto px-4 max-w-7xl">
+          <div className="text-center max-w-3xl mx-auto mb-16">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Choose Swadharma?</h2>
+            <p className="text-lg text-gray-600">We don't just teach syllabus; we build character, discipline, and the right aptitude for administration.</p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div className="grid md:grid-cols-3 gap-8">
             {[
               {
-                icon: <BookOpen className="h-8 w-8 text-[#003366]" />,
-                title: "Academic Excellence",
-                description: "Curriculum designed by former civil servants and subject matter experts aligned with the latest UPSC trends."
+                icon: <Target className="h-8 w-8 text-blue-600" />,
+                title: "Strategic Approach",
+                desc: "Focused preparation based on the changing trends of the UPSC examination pattern."
               },
               {
-                icon: <Users className="h-8 w-8 text-[#003366]" />,
-                title: "Personalized Mentorship",
-                description: "One-on-one guidance to identify strengths and weaknesses, ensuring a tailored preparation strategy for every student."
+                icon: <Users className="h-8 w-8 text-amber-500" />,
+                title: "Personal Mentorship",
+                desc: "One-on-one sessions with mentors to track progress and identify improvement areas."
               },
               {
-                icon: <Award className="h-8 w-8 text-[#003366]" />,
-                title: "Proven Results",
-                description: "Consistent track record of producing toppers in UPSC Civil Services Examination year after year."
+                icon: <Trophy className="h-8 w-8 text-green-600" />,
+                title: "Consistent Results",
+                desc: "A legacy of producing top rankers in Civil Services Examination every year."
               }
-            ].map((feature, index) => (
-              <Card key={index} className="text-center p-8 border-t-4 border-t-[#003366] hover:border-t-amber-500">
-                <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-blue-50 mb-6">
-                  {feature.icon}
+            ].map((item, i) => (
+              <Card key={i} className="hover:-translate-y-1 transition-transform">
+                <div className="h-14 w-14 rounded-xl bg-gray-50 flex items-center justify-center mb-6">
+                  {item.icon}
                 </div>
-                <h3 className="text-xl font-bold mb-3">{feature.title}</h3>
+                <h3 className="text-xl font-bold text-gray-900 mb-3">{item.title}</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  {feature.description}
+                  {item.desc}
                 </p>
               </Card>
             ))}
@@ -121,53 +109,86 @@ const Home = () => {
         </div>
       </section>
 
-      {/* Programs Preview / CTA */}
-      <section className="section-padding bg-gray-50">
-        <div className="container-width">
-          <div className="flex flex-col md:flex-row items-center justify-between gap-12">
-            <div className="md:w-1/2">
-              <h2 className="text-3xl md:text-4xl font-bold mb-6">Comprehensive Classroom Programs</h2>
-              <p className="text-lg text-gray-600 mb-8">
-                Whether you are a college student starting early or a graduate looking for intensive preparation, we have a course structure designed for your success.
-              </p>
-              <ul className="space-y-4 mb-8">
-                {[
-                  "Foundation Course (General Studies + CSAT)",
-                  "Optional Subject Guidance",
-                  "Test Series & Answer Writing",
-                  "Interview Guidance Program"
-                ].map((item, i) => (
-                  <li key={i} className="flex items-center space-x-3">
-                    <CheckCircle className="h-5 w-5 text-green-600" />
-                    <span className="text-gray-700 font-medium">{item}</span>
-                  </li>
-                ))}
-              </ul>
-              <Button to="/courses" variant="primary">View All Courses</Button>
+      {/* Programs Preview */}
+      <section className="py-24 bg-white">
+        <div className="container mx-auto px-4 max-w-7xl">
+          <div className="flex flex-col md:flex-row justify-between items-end mb-12 gap-6">
+            <div>
+              <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Premium Courses</h2>
+              <p className="text-lg text-gray-600 max-w-xl">Designed for aspirants at different stages of their preparation journey.</p>
             </div>
-            <div className="md:w-1/2 relative">
-              <div className="grid grid-cols-2 gap-4">
-                <img src="https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=600" className="rounded-lg shadow-lg" alt="Classroom" />
-                <img src="https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg?auto=compress&cs=tinysrgb&w=600" className="rounded-lg shadow-lg mt-8" alt="Library" />
-              </div>
-            </div>
+            <Button to="/courses" variant="secondary">View All Programs</Button>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {[
+              {
+                title: "GS Foundation Course",
+                badge: "Most Popular",
+                desc: "Comprehensive coverage of Prelims and Mains syllabus with integrated test series.",
+                duration: "12 Months"
+              },
+              {
+                title: "Prelims Crash Course",
+                badge: "New Batch",
+                desc: "Intensive revision program targeting high-yield areas for upcoming Prelims.",
+                duration: "3 Months"
+              },
+              {
+                title: "Optional Subjects",
+                badge: "Weekend Batch",
+                desc: "Specialized guidance for Pol. Science, Sociology, Geography and History.",
+                duration: "5 Months"
+              }
+            ].map((course, i) => (
+              <Card key={i} noPadding className="group">
+                <div className="h-48 bg-gray-100 overflow-hidden relative">
+                  <img
+                    src={`https://images.pexels.com/photos/${i === 0 ? '1181675' : i === 1 ? '590493' : '207662'}/pexels-photo-${i === 0 ? '1181675' : i === 1 ? '590493' : '207662'}.jpeg?auto=compress&cs=tinysrgb&w=800`}
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    alt="Course"
+                  />
+                  <div className="absolute top-4 right-4 bg-white/90 backdrop-blur px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wide">
+                    {course.badge}
+                  </div>
+                </div>
+                <div className="p-6">
+                  <h3 className="text-xl font-bold text-gray-900 mb-2">{course.title}</h3>
+                  <p className="text-sm text-gray-500 mb-4 font-medium flex items-center gap-2">
+                    <span className="w-1.5 h-1.5 rounded-full bg-blue-500"></span> {course.duration}
+                  </p>
+                  <p className="text-gray-600 mb-6 text-sm leading-relaxed">{course.desc}</p>
+                  <Link to="/courses" className="text-blue-600 font-semibold text-sm hover:text-blue-700 flex items-center">
+                    Learn More <ArrowRight className="h-4 w-4 ml-1" />
+                  </Link>
+                </div>
+              </Card>
+            ))}
           </div>
         </div>
       </section>
 
-      {/* Newsletter / Final CTA */}
-      <section className="py-20 bg-[#003366] text-white">
-        <div className="container-width text-center">
-          <h2 className="text-3xl font-bold mb-6 font-serif">Begin Your Journey to LBSNAA</h2>
-          <p className="text-blue-100 mb-8 max-w-2xl mx-auto">
-            Join the league of extraordinary officers who started their journey with Swadharma IAS Academy.
+      {/* CTA Section */}
+      <section className="py-24 bg-blue-900 text-white relative overflow-hidden">
+        {/* Background pattern */}
+        <div className="absolute inset-0 opacity-10"
+          style={{ backgroundImage: 'radial-gradient(#ffffff 2px, transparent 2px)', backgroundSize: '32px 32px' }}>
+        </div>
+
+        <div className="container mx-auto px-4 max-w-4xl text-center relative z-10">
+          <h2 className="text-3xl md:text-5xl font-bold mb-6">Ready to Start Your Journey?</h2>
+          <p className="text-xl text-blue-100 mb-10 leading-relaxed">
+            Join thousands of successful aspirants who chose Swadharma IAS for their preparation.
           </p>
-          <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
-            <Button to="/login" variant="secondary" size="lg">Apply Now</Button>
-            <Button to="/contact" variant="outline" size="lg" className="border-white text-white hover:bg-white hover:text-[#003366]">Request Callback</Button>
+          <div className="flex flex-col sm:flex-row justify-center gap-4">
+            <Button to="/login" variant="cta" size="lg">Apply for Admission</Button>
+            <Button to="/contact" variant="secondary" size="lg" className="bg-transparent border-white/20 text-white hover:bg-white/10 hover:text-white">
+              Request Call Back
+            </Button>
           </div>
         </div>
       </section>
+
     </div>
   );
 };

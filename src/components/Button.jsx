@@ -15,20 +15,20 @@ const Button = ({
   type = 'button',
   ...props
 }) => {
-  const baseStyles = 'inline-flex items-center justify-center font-bold rounded-md transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-70 disabled:cursor-not-allowed';
+  const baseStyles = 'inline-flex items-center justify-center font-semibold rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-70 disabled:cursor-not-allowed';
 
   const variants = {
-    primary: 'bg-[#003366] text-white hover:bg-[#002244] shadow-md hover:shadow-lg',
-    secondary: 'bg-[#D97706] text-white hover:bg-[#B45309] shadow-md hover:shadow-lg',
-    outline: 'border-2 border-[#003366] text-[#003366] hover:bg-[#003366] hover:text-white',
-    ghost: 'text-[#003366] hover:bg-[#f3f4f6]',
-    white: 'bg-white text-[#003366] hover:bg-gray-100 shadow-md',
+    primary: 'bg-blue-600 text-white hover:bg-blue-700 shadow-sm hover:shadow-md border border-transparent',
+    secondary: 'bg-white text-gray-900 border border-gray-200 hover:bg-gray-50 shadow-sm hover:shadow-md',
+    cta: 'bg-amber-500 text-white hover:bg-amber-600 shadow-sm hover:shadow-md border border-transparent',
+    ghost: 'bg-transparent text-gray-600 hover:text-gray-900 hover:bg-gray-100',
+    link: 'text-blue-600 hover:underline',
   };
 
   const sizes = {
-    sm: 'px-4 py-2 text-xs uppercase tracking-wider',
-    md: 'px-6 py-3 text-sm uppercase tracking-wider',
-    lg: 'px-8 py-4 text-base uppercase tracking-wider',
+    sm: 'px-3 py-1.5 text-sm',
+    md: 'px-5 py-2.5 text-sm',
+    lg: 'px-6 py-3.5 text-base',
   };
 
   const combinedClassName = cn(

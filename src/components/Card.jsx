@@ -3,18 +3,16 @@ import { cn } from '../lib/utils';
 const Card = ({
   children,
   className = '',
+  noPadding = false,
   hover = true,
-  padding = true,
-  bordered = true,
   ...props
 }) => {
   return (
     <div
       className={cn(
-        "bg-white rounded-lg overflow-hidden",
-        bordered ? "border border-gray-100" : "",
-        padding ? 'p-6' : '',
-        hover ? 'card-hover' : 'shadow-sm',
+        "bg-white rounded-xl border border-gray-200 shadow-sm overflow-hidden",
+        !noPadding ? "p-6" : "",
+        hover ? "transition-shadow duration-300 hover:shadow-lg" : "",
         className
       )}
       {...props}
