@@ -2,12 +2,13 @@ import React, { useState } from 'react';
 import { supabase } from '../lib/supabase';
 import { useNavigate } from 'react-router-dom';
 import { Mail, Lock, Loader2, ArrowRight } from 'lucide-react';
-import { motion } from 'framer-motion';
+import Card from '../components/Card';
+import Button from '../components/Button';
 
 const Login = () => {
     const [loading, setLoading] = useState(false);
     const [email, setEmail] = useState('');
-    const [password, setPassword] = useState(''); // Added mainly for layout, currently using Magic Link or Password depending on preference
+    const [password, setPassword] = useState('');
     const [isSignUp, setIsSignUp] = useState(false);
     const [message, setMessage] = useState('');
     const navigate = useNavigate();
@@ -19,19 +20,11 @@ const Login = () => {
 
         try {
             if (isSignUp) {
-                // Sign Up
-                const { error } = await supabase.auth.signUp({
-                    email,
-                    password,
-                });
+                const { error } = await supabase.auth.signUp({ email, password });
                 if (error) throw error;
-                setMessage('Check your email for the confirmation link!');
+                setMessage('Confirmation link sent to your email!');
             } else {
-                // Login
-                const { error } = await supabase.auth.signInWithPassword({
-                    email,
-                    password,
-                });
+                const { error } = await supabase.auth.signInWithPassword({ email, password });
                 if (error) throw error;
                 navigate('/');
             }
@@ -43,94 +36,100 @@ const Login = () => {
     };
 
     return (
-        <div className="min-h-screen flex items-center justify-center pt-20 px-4">
-            <div className="absolute inset-0 bg-slate-900 overflow-hidden">
-                {/* Background glow effects */}
-                <div className="absolute top-[-10%] left-[-10%] w-[500px] h-[500px] bg-blue-600/20 rounded-full blur-[120px]" />
-                <div className="absolute bottom-[-10%] right-[-10%] w-[500px] h-[500px] bg-amber-600/10 rounded-full blur-[120px]" />
-            </div>
+        <div className="min-h-screen bg-gray-50 flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
+            <div className="max-w-md w-full space-y-8">
+                <div className="text-center">
+                    <h2 className="text-3xl font-extrabold text-[#003366] font-serif">
+                        {isSignUp ? 'Create your account' : 'Sign in to your account'}
+                    </h2>
+                    <p className="mt-2 text-sm text-gray-600">
+                        {isSignUp ? 'Join the Swadharma community today' : 'Access your student dashboard'}
+                    </p>
+                </div>
 
-            <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                className="relative z-10 w-full max-w-md"
-            >
-                <div className="glass-card p-8 rounded-2xl border border-white/10">
-                    <div className="text-center mb-8">
-                        <h2 className="text-3xl font-bold text-white mb-2">
-                            {isSignUp ? 'Create Account' : 'Welcome Back'}
-                        </h2>
-                        <p className="text-slate-400">
-                            {isSignUp ? 'Start your journey with Swadharma' : 'Access your dashboard'}
-                        </p>
-                    </div>
-
-                    <form onSubmit={handleLogin} className="space-y-6">
-                        <div className="space-y-2">
-                            <label className="text-sm font-medium text-slate-300">Email</label>
-                            <div className="relative group">
-                                <Mail className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-slate-500 group-focus-within:text-blue-400 transition-colors" />
-                                <input
-                                    type="email"
-                                    value={email}
-                                    onChange={(e) => setEmail(e.target.value)}
-                                    className="w-full bg-slate-800/50 border border-slate-700 rounded-lg py-3 pl-10 pr-4 text-white placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50 focus:border-blue-500"
-                                    placeholder="you@example.com"
-                                    required
-                                />
-                            </div>
-                        </div>
-
-                        <div className="space-y-2">
-                            <label className="text-sm font-medium text-slate-300">Password</label>
-                            <div className="relative group">
-                                <Lock className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-slate-500 group-focus-within:text-blue-400 transition-colors" />
-                                <input
-                                    type="password"
-                                    value={password}
-                                    onChange={(e) => setPassword(e.target.value)}
-                                    className="w-full bg-slate-800/50 border border-slate-700 rounded-lg py-3 pl-10 pr-4 text-white placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50 focus:border-blue-500"
-                                    placeholder="••••••••"
-                                    required
-                                />
-                            </div>
-                        </div>
-
+                <Card className="mt-8 bg-white py-8 px-4 shadow-xl sm:rounded-lg sm:px-10 border-t-4 border-[#003366]">
+                    <form className="space-y-6" onSubmit={handleLogin}>
                         {message && (
-                            <div className={`p-3 rounded-lg text-sm ${message.includes('Check') ? 'bg-green-500/20 text-green-300' : 'bg-red-500/20 text-red-300'}`}>
+                            <div className={`p-4 rounded-md text-sm font-medium ${message.includes('sent') ? 'bg-green-50 text-green-800' : 'bg-red-50 text-red-800'}`}>
                                 {message}
                             </div>
                         )}
 
-                        <button
-                            type="submit"
-                            disabled={loading}
-                            className="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 rounded-lg flex items-center justify-center space-x-2 transition-all duration-300 shadow-lg shadow-blue-600/20 disabled:opacity-70 disabled:cursor-not-allowed"
-                        >
-                            {loading ? (
-                                <Loader2 className="animate-spin h-5 w-5" />
-                            ) : (
-                                <>
-                                    <span>{isSignUp ? 'Sign Up' : 'Sign In'}</span>
-                                    <ArrowRight className="h-4 w-4" />
-                                </>
-                            )}
-                        </button>
+                        <div>
+                            <label htmlFor="email" className="block text-sm font-medium text-gray-700">Email address</label>
+                            <div className="mt-1 relative rounded-md shadow-sm">
+                                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                                    <Mail className="h-5 w-5 text-gray-400" />
+                                </div>
+                                <input
+                                    id="email"
+                                    name="email"
+                                    type="email"
+                                    autoComplete="email"
+                                    required
+                                    value={email}
+                                    onChange={(e) => setEmail(e.target.value)}
+                                    className="block w-full pl-10 pr-3 py-2 border border-gray-300 rounded-md leading-5 bg-white placeholder-gray-500 focus:outline-none focus:placeholder-gray-400 focus:ring-1 focus:ring-[#003366] focus:border-[#003366] sm:text-sm"
+                                    placeholder="you@example.com"
+                                />
+                            </div>
+                        </div>
+
+                        <div>
+                            <label htmlFor="password" className="block text-sm font-medium text-gray-700">Password</label>
+                            <div className="mt-1 relative rounded-md shadow-sm">
+                                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                                    <Lock className="h-5 w-5 text-gray-400" />
+                                </div>
+                                <input
+                                    id="password"
+                                    name="password"
+                                    type="password"
+                                    autoComplete="current-password"
+                                    required
+                                    value={password}
+                                    onChange={(e) => setPassword(e.target.value)}
+                                    className="block w-full pl-10 pr-3 py-2 border border-gray-300 rounded-md leading-5 bg-white placeholder-gray-500 focus:outline-none focus:placeholder-gray-400 focus:ring-1 focus:ring-[#003366] focus:border-[#003366] sm:text-sm"
+                                    placeholder="••••••••"
+                                />
+                            </div>
+                        </div>
+
+                        <div>
+                            <Button
+                                type="submit"
+                                variant="primary"
+                                className="w-full flex justify-center"
+                                loading={loading}
+                            >
+                                {isSignUp ? 'Sign Up' : 'Sign In'}
+                            </Button>
+                        </div>
                     </form>
 
-                    <div className="mt-6 text-center text-sm">
-                        <span className="text-slate-400">
-                            {isSignUp ? "Already have an account?" : "Don't have an account?"}
-                        </span>
-                        <button
-                            onClick={() => setIsSignUp(!isSignUp)}
-                            className="ml-2 text-amber-400 hover:text-amber-300 font-medium transition-colors"
-                        >
-                            {isSignUp ? 'Sign In' : 'Sign Up'}
-                        </button>
+                    <div className="mt-6">
+                        <div className="relative">
+                            <div className="absolute inset-0 flex items-center">
+                                <div className="w-full border-t border-gray-300"></div>
+                            </div>
+                            <div className="relative flex justify-center text-sm">
+                                <span className="px-2 bg-white text-gray-500">
+                                    {isSignUp ? 'Already registered?' : 'New user?'}
+                                </span>
+                            </div>
+                        </div>
+
+                        <div className="mt-6">
+                            <button
+                                onClick={() => setIsSignUp(!isSignUp)}
+                                className="w-full flex justify-center py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#003366]"
+                            >
+                                {isSignUp ? 'Sign in instead' : 'Create an account'}
+                            </button>
+                        </div>
                     </div>
-                </div>
-            </motion.div>
+                </Card>
+            </div>
         </div>
     );
 };

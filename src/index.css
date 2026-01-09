@@ -1,32 +1,36 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=Lato:wght@300;400;700;900&display=swap');
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #1e3a8a; /* Deep Royal Blue */
-  --color-primary-light: #3b82f6;
-  --color-secondary: #d97706; /* Amber */
-  --color-accent: #f59e0b;
-  --color-background: #0f172a; /* Slate 900 */
-  --color-surface: #1e293b; /* Slate 800 */
+  --color-primary: #003366; /* Royal Navy Blue */
+  --color-primary-light: #2c5282;
+  --color-secondary: #b91c1c; /* Deep Red/Maroon for emphasis - typical for academies */
+  --color-accent: #d97706; /* Muted Gold */
   
-  --font-sans: 'Outfit', system-ui, sans-serif;
+  --color-bg-primary: #ffffff;
+  --color-bg-secondary: #f8fafc; /* Very light slate */
+  --color-text-main: #1e293b;
+  --color-text-muted: #64748b;
+
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Lato', sans-serif;
 }
 
 @layer utilities {
-  .glass-nav {
-    @apply bg-slate-900/80 backdrop-blur-md border-b border-white/10;
+  .container-width {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
   }
   
-  .glass-card {
-    @apply bg-slate-800/50 backdrop-blur-sm border border-white/5 shadow-xl;
+  .section-padding {
+    @apply py-16 md:py-24;
   }
 
-  .text-gradient-gold {
-    @apply bg-clip-text text-transparent bg-gradient-to-r from-amber-200 via-amber-400 to-amber-500;
+  .btn-hover {
+    @apply transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg;
   }
   
-  .text-gradient-blue {
-    @apply bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-blue-200 to-white;
+  .card-hover {
+    @apply transition-all duration-300 hover:shadow-xl hover:-translate-y-1;
   }
 }
 
@@ -37,28 +41,20 @@
 }
 
 body {
-  font-family: var(--font-sans);
+  font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--color-background);
-  color: #f8fafc;
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-main);
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  color: var(--color-primary);
+  line-height: 1.2;
 }
 
 html {
   scroll-behavior: smooth;
-}
-
-/* Scrollbar styling */
-::-webkit-scrollbar {
-  width: 8px;
-}
-::-webkit-scrollbar-track {
-  background: var(--color-background);
-}
-::-webkit-scrollbar-thumb {
-  background: var(--color-surface);
-  border-radius: 4px;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: var(--color-primary-light);
 }
