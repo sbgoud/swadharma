@@ -15,7 +15,7 @@ const courses = [
     classes: '500+ Hours',
     students: '500 Seats',
     price: '₹1,50,000',
-    image: placeholderImages.courses,
+    image: 'https://images.pexels.com/photos/159844/cellular-education-classroom-159844.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: [
       'Complete coverage of GS Paper I, II, III, IV',
       'Current Affairs throughout the year',
@@ -36,7 +36,7 @@ const courses = [
     classes: '100+ Tests',
     students: 'Unlimited',
     price: '₹25,000',
-    image: placeholderImages.about,
+    image: 'https://images.pexels.com/photos/356079/pexels-photo-356079.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: [
       '25 Full-length mock tests',
       'Daily current affairs quizzes',
@@ -57,7 +57,7 @@ const courses = [
     classes: '200+ Questions',
     students: '300 Seats',
     price: '₹30,000',
-    image: placeholderImages.campus,
+    image: 'https://images.pexels.com/photos/210661/pexels-photo-210661.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: [
       'Daily answer writing practice',
       'Personalized feedback on answers',
@@ -78,7 +78,7 @@ const courses = [
     classes: '10 Mock Interviews',
     students: '100 Seats',
     price: '₹20,000',
-    image: placeholderImages.faculty,
+    image: 'https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: [
       '10 Mock interviews with ex-interviewers',
       'Detailed feedback and improvement tips',
@@ -108,28 +108,28 @@ const Courses = () => {
       <section
         className="relative py-20 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(${placeholderImages.courses})`,
+          backgroundImage: `linear-gradient(rgba(15, 23, 42, 0.9), rgba(15, 23, 42, 0.9)), url(https://images.pexels.com/photos/159844/cellular-education-classroom-159844.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)`,
         }}
       >
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
             Our Courses
           </h1>
-          <p className="text-xl text-gray-200 max-w-3xl mx-auto">
+          <p className="text-xl text-slate-300 max-w-3xl mx-auto">
             Choose from our carefully designed courses that cater to every stage of your UPSC preparation journey.
           </p>
         </div>
       </section>
 
       {/* Features */}
-      <section className="py-12 bg-gray-50">
+      <section className="py-12 bg-transparent">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             {features.map((feature, index) => (
-              <div key={index} className="text-center">
-                <feature.icon className="h-10 w-10 text-primary-600 mx-auto mb-3" />
-                <h3 className="font-semibold text-gray-900">{feature.title}</h3>
-                <p className="text-sm text-gray-600">{feature.description}</p>
+              <div key={index} className="text-center p-4 rounded-xl hover:bg-white/5 transition-colors">
+                <feature.icon className="h-10 w-10 text-blue-500 mx-auto mb-3" />
+                <h3 className="font-semibold text-white">{feature.title}</h3>
+                <p className="text-sm text-slate-400">{feature.description}</p>
               </div>
             ))}
           </div>
@@ -143,13 +143,13 @@ const Courses = () => {
             {courses.map((course, index) => (
               <Card
                 key={course.id}
-                className={`overflow-hidden ${course.highlighted ? 'ring-2 ring-primary-500' : ''}`}
+                className={`overflow-hidden ${course.highlighted ? 'ring-2 ring-blue-500' : ''}`}
               >
                 <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
                   {/* Course Image */}
                   <div className="lg:col-span-1">
                     <img
-                      src={course.image}
+                      src={course.image || 'https://via.placeholder.com/800x600'}
                       alt={course.title}
                       className="w-full h-64 lg:h-full object-cover rounded-lg"
                     />
@@ -159,40 +159,40 @@ const Courses = () => {
                   <div className="lg:col-span-2">
                     <div className="flex flex-wrap items-center gap-4 mb-4">
                       {course.highlighted && (
-                        <span className="bg-primary-600 text-white px-3 py-1 rounded-full text-sm font-medium">
+                        <span className="bg-blue-600 text-white px-3 py-1 rounded-full text-sm font-medium shadow-md shadow-blue-900/20">
                           Most Popular
                         </span>
                       )}
-                      <span className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm">
+                      <span className="bg-slate-700 text-slate-200 px-3 py-1 rounded-full text-sm border border-slate-600">
                         {course.duration}
                       </span>
                     </div>
 
-                    <h3 className="text-2xl font-bold text-gray-900 mb-2">{course.title}</h3>
-                    <p className="text-gray-600 mb-4">{course.fullDescription}</p>
+                    <h3 className="text-2xl font-bold text-white mb-2">{course.title}</h3>
+                    <p className="text-slate-300 mb-4">{course.fullDescription}</p>
 
                     <div className="grid grid-cols-3 gap-4 mb-6">
-                      <div className="text-center">
-                        <div className="text-lg font-semibold text-primary-600">{course.classes}</div>
-                        <div className="text-sm text-gray-500">Classes</div>
+                      <div className="text-center p-2 rounded-lg bg-slate-800/50">
+                        <div className="text-lg font-semibold text-blue-400">{course.classes}</div>
+                        <div className="text-sm text-slate-500">Classes</div>
                       </div>
-                      <div className="text-center">
-                        <div className="text-lg font-semibold text-primary-600">{course.students}</div>
-                        <div className="text-sm text-gray-500">Capacity</div>
+                      <div className="text-center p-2 rounded-lg bg-slate-800/50">
+                        <div className="text-lg font-semibold text-blue-400">{course.students}</div>
+                        <div className="text-sm text-slate-500">Capacity</div>
                       </div>
-                      <div className="text-center">
-                        <div className="text-lg font-semibold text-primary-600">{course.price}</div>
-                        <div className="text-sm text-gray-500">Fee</div>
+                      <div className="text-center p-2 rounded-lg bg-slate-800/50">
+                        <div className="text-lg font-semibold text-amber-400">{course.price}</div>
+                        <div className="text-sm text-slate-500">Fee</div>
                       </div>
                     </div>
 
-                    <div className="border-t pt-6">
-                      <h4 className="font-semibold text-gray-900 mb-3">Key Features:</h4>
+                    <div className="border-t border-white/10 pt-6">
+                      <h4 className="font-semibold text-white mb-3">Key Features:</h4>
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mb-6">
                         {course.features.map((feature, idx) => (
                           <div key={idx} className="flex items-center space-x-2">
                             <CheckCircle className="h-5 w-5 text-green-500 flex-shrink-0" />
-                            <span className="text-sm text-gray-600">{feature}</span>
+                            <span className="text-sm text-slate-400">{feature}</span>
                           </div>
                         ))}
                       </div>
@@ -211,35 +211,35 @@ const Courses = () => {
 
                 {/* Expanded Details */}
                 {activeCourse === course.id && (
-                  <div className="mt-8 pt-8 border-t">
-                    <h4 className="font-semibold text-lg text-gray-900 mb-4">Detailed Syllabus</h4>
+                  <div className="mt-8 pt-8 border-t border-white/10">
+                    <h4 className="font-semibold text-lg text-white mb-4">Detailed Syllabus</h4>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                       <ul className="space-y-2">
                         <li className="flex items-center space-x-2">
-                          <Play className="h-4 w-4 text-primary-600" />
-                          <span className="text-gray-700">GS Paper I - Indian Heritage & Culture</span>
+                          <Play className="h-4 w-4 text-blue-500" />
+                          <span className="text-slate-300">GS Paper I - Indian Heritage & Culture</span>
                         </li>
                         <li className="flex items-center space-x-2">
-                          <Play className="h-4 w-4 text-primary-600" />
-                          <span className="text-gray-700">GS Paper II - Governance & Constitution</span>
+                          <Play className="h-4 w-4 text-blue-500" />
+                          <span className="text-slate-300">GS Paper II - Governance & Constitution</span>
                         </li>
                         <li className="flex items-center space-x-2">
-                          <Play className="h-4 w-4 text-primary-600" />
-                          <span className="text-gray-700">GS Paper III - Economy & Security</span>
+                          <Play className="h-4 w-4 text-blue-500" />
+                          <span className="text-slate-300">GS Paper III - Economy & Security</span>
                         </li>
                       </ul>
                       <ul className="space-y-2">
                         <li className="flex items-center space-x-2">
-                          <Play className="h-4 w-4 text-primary-600" />
-                          <span className="text-gray-700">GS Paper IV - Ethics & Integrity</span>
+                          <Play className="h-4 w-4 text-blue-500" />
+                          <span className="text-slate-300">GS Paper IV - Ethics & Integrity</span>
                         </li>
                         <li className="flex items-center space-x-2">
-                          <Play className="h-4 w-4 text-primary-600" />
-                          <span className="text-gray-700">Optional Subject Coverage</span>
+                          <Play className="h-4 w-4 text-blue-500" />
+                          <span className="text-slate-300">Optional Subject Coverage</span>
                         </li>
                         <li className="flex items-center space-x-2">
-                          <Play className="h-4 w-4 text-primary-600" />
-                          <span className="text-gray-700">Current Affairs Integration</span>
+                          <Play className="h-4 w-4 text-blue-500" />
+                          <span className="text-slate-300">Current Affairs Integration</span>
                         </li>
                       </ul>
                     </div>
@@ -252,13 +252,13 @@ const Courses = () => {
       </section>
 
       {/* FAQ Section */}
-      <section className="py-20 bg-gray-50">
+      <section className="py-20 bg-transparent">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
               Frequently Asked Questions
             </h2>
-            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+            <p className="text-lg text-slate-400 max-w-2xl mx-auto">
               Get answers to common questions about our courses and admission process.
             </p>
           </div>
@@ -289,9 +289,9 @@ const Courses = () => {
                 a: 'We have multiple batches including morning (6 AM - 9 AM), evening (4 PM - 7 PM), and weekend batches to suit different schedules.',
               },
             ].map((faq, index) => (
-              <Card key={index}>
-                <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
-                <p className="text-gray-600">{faq.a}</p>
+              <Card key={index} className="hover:border-amber-500/30">
+                <h3 className="font-semibold text-white mb-2 text-lg">{faq.q}</h3>
+                <p className="text-slate-400">{faq.a}</p>
               </Card>
             ))}
           </div>
@@ -299,19 +299,22 @@ const Courses = () => {
       </section>
 
       {/* CTA */}
-      <section className="py-20 bg-secondary-800">
+      <section className="py-20 bg-slate-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-            Still Have Questions?
-          </h2>
-          <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Our counseling team is here to help you choose the right course and guide you through the admission process.
-          </p>
-          <Link to="/contact">
-            <Button variant="secondary" size="lg">
-              Get Free Counseling
-            </Button>
-          </Link>
+          <div className="glass-card p-12 rounded-3xl relative overflow-hidden">
+            <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/10 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2"></div>
+            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4 relative z-10">
+              Still Have Questions?
+            </h2>
+            <p className="text-xl text-slate-300 mb-8 max-w-2xl mx-auto relative z-10">
+              Our counseling team is here to help you choose the right course and guide you through the admission process.
+            </p>
+            <Link to="/contact" className="relative z-10">
+              <Button variant="secondary" size="lg">
+                Get Free Counseling
+              </Button>
+            </Link>
+          </div>
         </div>
       </section>
     </div>
