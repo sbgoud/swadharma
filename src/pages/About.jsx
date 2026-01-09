@@ -1,217 +1,139 @@
 import { Link } from 'react-router-dom';
-import { BookOpen, Award, Users, Target, CheckCircle } from 'lucide-react';
+import { BookOpen, Award, Users, Target, CheckCircle, Lightbulb, Rocket } from 'lucide-react';
 import Button from '../components/Button';
 import Card from '../components/Card';
-import { placeholderImages } from '../utils/pexels';
-
-const milestones = [
-  { year: '2008', title: 'Foundation', description: 'Swadharma IAS Academy was established with a vision to transform UPSC preparation.' },
-  { year: '2012', title: 'First Batch Success', description: 'Our first batch produced 25 successful candidates in UPSC.' },
-  { year: '2018', title: '500+ Selections', description: 'Achieved a milestone of 500+ selections across all services.' },
-  { year: '2024', title: 'Expanding Horizons', description: 'Launched online courses and expanded to multiple cities.' },
-];
-
-const values = [
-  {
-    icon: Target,
-    title: 'Excellence',
-    description: 'We strive for excellence in every aspect of our teaching and guidance.',
-  },
-  {
-    icon: Users,
-    title: 'Student-Centric',
-    description: 'Every decision we make is focused on our students\' success and growth.',
-  },
-  {
-    icon: Award,
-    title: 'Integrity',
-    description: 'We maintain the highest standards of academic integrity and ethics.',
-  },
-];
-
-const team = [
-  {
-    name: 'Dr. Rajesh Kumar',
-    position: 'Director & Founder',
-    qualification: 'IAS (Retd.), IIT Delhi',
-    image: placeholderImages.faculty,
-  },
-  {
-    name: 'Prof. Priya Sharma',
-    position: 'Head of GS Division',
-    qualification: 'PhD, Political Science, JNU',
-    image: placeholderImages.faculty,
-  },
-  {
-    name: 'Dr. Amit Patel',
-    position: 'Head of Geography',
-    qualification: 'Geographer, BHU',
-    image: placeholderImages.faculty,
-  },
-  {
-    name: 'Smt. Meera Reddy',
-    position: 'Current Affairs Head',
-    qualification: 'Ex-Journalist, CNN-IBN',
-    image: placeholderImages.faculty,
-  },
-];
 
 const About = () => {
   return (
-    <div className="min-h-screen pt-20">
+    <div className="min-h-screen pt-20 bg-white">
       {/* Hero Section */}
-      <section
-        className="relative py-20 bg-cover bg-center bg-no-repeat"
-        style={{
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(${placeholderImages.about})`,
-        }}
-      >
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            About Swadharma IAS Academy
+      <section className="relative py-24 bg-[#003366] overflow-hidden">
+        {/* Background Elements */}
+        <div className="absolute top-0 right-0 w-96 h-96 bg-white/5 rounded-full blur-3xl translate-x-1/2 -translate-y-1/2"></div>
+        <div className="absolute bottom-0 left-0 w-72 h-72 bg-amber-500/10 rounded-full blur-3xl -translate-x-1/2 translate-y-1/2"></div>
+
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6 font-serif">
+            Redefining Civil Services Prep
           </h1>
-          <p className="text-xl text-gray-200 max-w-3xl mx-auto">
-            Empowering aspirants to achieve their dream of becoming civil servants since 2008.
+          <p className="text-xl text-blue-100 max-w-3xl mx-auto leading-relaxed">
+            Welcome to Swadharma IAS Academy. We are a new-age institute driven by a singular mission: to simplify the complex journey of UPSC preparation with scientific pedagogy and personalized mentorship.
           </p>
         </div>
       </section>
 
-      {/* Mission & Vision */}
+      {/* Our Philosophy (The New Approach) */}
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Mission</h2>
-              <p className="text-lg text-gray-600 mb-6">
-                To provide the highest quality education and guidance to UPSC aspirants, helping them
-                realize their potential and achieve their dreams of serving the nation as civil
-                servants.
+              <div className="inline-block py-1 px-3 rounded-lg bg-blue-50 text-blue-600 text-xs font-bold uppercase tracking-widest mb-4">
+                Our Philosophy
+              </div>
+              <h2 className="text-3xl font-bold text-gray-900 mb-6 font-serif">Why Swadharma?</h2>
+              <p className="text-lg text-gray-600 mb-6 leading-relaxed">
+                The landscape of the Civil Services Examination has evolved, and so must the preparation strategy. At Swadharma, we believe that success is not just about hoarding information, but about building the right <strong>administrative aptitude</strong>.
               </p>
-              <p className="text-lg text-gray-600 mb-6">
-                We believe that with the right guidance, dedication, and hard work, anyone can crack
-                the UPSC examination and make a positive impact on society.
+              <p className="text-lg text-gray-600 mb-8 leading-relaxed">
+                We are moving away from the "factory model" of coaching. Instead, we are building a <strong>gurukul-style ecosystem</strong> in the heart of Hyderabad, where every aspirant is personally mentored to discover their own unique strengths ('Swadharma') and apply them to the exam.
               </p>
-              <Link to="/contact">
-                <Button>Join Our Mission</Button>
+              <Link to="/courses">
+                <Button size="lg" className="shadow-lg shadow-blue-600/20">Explore Our Methodology</Button>
               </Link>
             </div>
-            <div>
-              <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Vision</h2>
-              <p className="text-lg text-gray-600 mb-6">
-                To be the most trusted and preferred destination for UPSC preparation, producing
-                ethical, capable, and responsible civil servants who can lead India towards progress.
-              </p>
-              <ul className="space-y-4">
-                {[
-                  'Create a supportive learning environment',
-                  'Maintain academic excellence',
-                  'Build character and integrity',
-                  'Foster critical thinking',
-                ].map((item, index) => (
-                  <li key={index} className="flex items-center space-x-3">
-                    <CheckCircle className="h-6 w-6 text-primary-600 flex-shrink-0" />
-                    <span className="text-gray-700">{item}</span>
-                  </li>
-                ))}
-              </ul>
+            <div className="relative">
+              <div className="absolute inset-0 bg-gradient-to-tr from-blue-600 to-amber-500 rounded-2xl transform rotate-3 scale-105 opacity-20"></div>
+              <img
+                src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800"
+                alt="Mentorship Session"
+                className="relative rounded-2xl shadow-xl border-4 border-white w-full h-auto object-cover"
+              />
             </div>
           </div>
         </div>
       </section>
 
-      {/* Our Values */}
+      {/* Core Values */}
       <section className="py-20 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Our Core Values</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4 font-serif">Core Values</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              These values guide everything we do at Swadharma IAS Academy.
+              The pillars upon which we are building this institution.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {values.map((value, index) => (
-              <Card key={index} hover className="text-center">
-                <value.icon className="h-12 w-12 text-primary-600 mx-auto mb-4" />
-                <h3 className="text-xl font-semibold text-gray-900 mb-2">{value.title}</h3>
-                <p className="text-gray-600">{value.description}</p>
+            {[
+              {
+                icon: Lightbulb,
+                title: "Conceptual Clarity",
+                desc: "We prioritize deep understanding over rote memorization. We teach you 'how to think', not just 'what to think'."
+              },
+              {
+                icon: Rocket,
+                title: "Strategic Agility",
+                desc: "The exam is dynamic. Our curriculum is agile, constantly updated to reflect the latest trends of UPSC."
+              },
+              {
+                icon: Users,
+                title: "Integrity & Empathy",
+                desc: "We aim to mold not just successful candidates, but officers with a strong moral compass and empathy for the nation."
+              }
+            ].map((value, index) => (
+              <Card key={index} hover className="text-center p-8 border-t-4 border-t-amber-500">
+                <div className="h-16 w-16 bg-blue-50 rounded-full flex items-center justify-center mx-auto mb-6">
+                  <value.icon className="h-8 w-8 text-blue-600" />
+                </div>
+                <h3 className="text-xl font-bold text-gray-900 mb-3">{value.title}</h3>
+                <p className="text-gray-600 leading-relaxed">{value.desc}</p>
               </Card>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Timeline */}
-      <section className="py-20">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Our Journey</h2>
-            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              From a small beginning to becoming one of the most trusted names in UPSC preparation.
-            </p>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {milestones.map((milestone, index) => (
-              <div key={index} className="relative">
-                <div className="bg-primary-600 text-white rounded-lg p-6 h-full">
-                  <div className="text-4xl font-bold mb-2">{milestone.year}</div>
-                  <h3 className="text-xl font-semibold mb-2">{milestone.title}</h3>
-                  <p className="text-primary-100 text-sm">{milestone.description}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Faculty */}
-      <section className="py-20 bg-gray-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Our Expert Faculty</h2>
-            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Learn from experienced educators and experts who have guided thousands of successful candidates.
-            </p>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {team.map((member, index) => (
-              <Card key={index} padding={false} className="overflow-hidden">
-                <img
-                  src={member.image}
-                  alt={member.name}
-                  className="w-full h-64 object-cover object-center"
-                />
-                <div className="p-4">
-                  <h3 className="text-lg font-semibold text-gray-900">{member.name}</h3>
-                  <p className="text-primary-600 text-sm mb-1">{member.position}</p>
-                  <p className="text-gray-500 text-xs">{member.qualification}</p>
-                </div>
-              </Card>
-            ))}
-          </div>
-          <div className="text-center mt-12">
-            <Link to="/contact">
-              <Button variant="outline">
-                Meet All Faculty Members
-              </Button>
-            </Link>
+      {/* Director's Note */}
+      <section className="py-24">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <h2 className="text-3xl font-bold text-gray-900 mb-8 font-serif">A Note from the Founder</h2>
+          <div className="relative bg-white p-8 md:p-12 rounded-2xl border border-gray-100 shadow-xl">
+            <div className="absolute -top-6 left-1/2 -translate-x-1/2 bg-blue-600 text-white rounded-full p-3 shadow-lg">
+              <Award className="w-8 h-8" />
+            </div>
+            <blockquote className="text-xl text-gray-600 italic leading-relaxed mb-8">
+              "Swadharma was born out of a desire to fix the gaps in the current coaching ecosystem. We noticed that students were getting lost in the crowd, inundated with materials but lacking direction. We are here to bring the focus back to the individual. To the student. To you. Join us, and let's write your success story together."
+            </blockquote>
+            <div className="font-bold text-gray-900 text-lg">Director</div>
+            <div className="text-sm text-blue-600 font-medium">Swadharma IAS Academy</div>
           </div>
         </div>
       </section>
 
       {/* CTA */}
-      <section className="py-20 bg-primary-600">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-            Ready to Start Your Journey?
+      <section className="py-20 bg-[#003366] relative overflow-hidden">
+        <div className="absolute inset-0 opacity-10"
+          style={{ backgroundImage: 'radial-gradient(#ffffff 2px, transparent 2px)', backgroundSize: '32px 32px' }}>
+        </div>
+
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
+          <h2 className="text-3xl md:text-5xl font-bold text-white mb-6 font-serif">
+            Be Part of Our Founding Batch
           </h2>
-          <p className="text-xl text-primary-100 mb-8 max-w-2xl mx-auto">
-            Join Swadharma IAS Academy today and take the first step towards your dream career.
+          <p className="text-xl text-blue-100 mb-10 max-w-2xl mx-auto">
+            Admissions are now open for the Prelims Test Series 2026. Experience the difference of personalized mentorship.
           </p>
-          <Link to="/contact">
-            <Button variant="secondary" size="lg">
-              Enroll Now
-            </Button>
-          </Link>
+          <div className="flex flex-col sm:flex-row justify-center gap-4">
+            <Link to="/contact">
+              <Button variant="secondary" size="lg">
+                Visit Campus
+              </Button>
+            </Link>
+            <Link to="/contact">
+              <Button variant="outline" size="lg" className="text-white border-white bg-transparent hover:bg-white hover:text-blue-900">
+                Contact Us
+              </Button>
+            </Link>
+          </div>
         </div>
       </section>
     </div>

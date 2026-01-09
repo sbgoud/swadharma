@@ -1,13 +1,23 @@
 import { createClient } from '@supabase/supabase-js';
 
-// These environment variables should be set in your .env file
-// For now, replace with your actual Supabase credentials
-// REACT_APP_SUPABASE_URL=your-project-url
-// REACT_APP_SUPABASE_ANON_KEY=your-anon-key
+// Access environment variables using import.meta.env (standard for Vite)
+const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
+const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
 
-const supabaseUrl = import.meta.env.VITE_SUPABASE_URL || 'YOUR_SUPABASE_URL';
-const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || 'YOUR_SUPABASE_ANON_KEY';
+// Validation for Development clarity
+if (!supabaseUrl || !supabaseAnonKey) {
+    console.warn(
+        'Supabase URL or Anon Key is missing in environment variables. \n' +
+        'Please check your .env file and ensure VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY are set.'
+    );
+}
 
-export const supabase = createClient(supabaseUrl, supabaseAnonKey);
+// Create and export the Supabase client
+// We add a fallback to prevent immediate crash if keys are missing, 
+// to allow the UI to render and show specific error messages instead of a white screen.
+export const supabase = createClient(
+    supabaseUrl || 'https://placeholder-url.supabase.co', 
+    supabaseAnonKey || 'placeholder-key'
+);
 
 export default supabase;
