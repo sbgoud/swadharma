@@ -1,77 +1,82 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Clock, Users, ArrowRight, CheckCircle, FileText } from 'lucide-react';
+import { BookOpen, Clock, Users, ArrowRight, CheckCircle, FileText, Bell } from 'lucide-react';
 import Button from '../components/Button';
 import Card from '../components/Card';
 
 const courses = [
   {
-    id: 'foundation',
-    title: 'Foundation Course 2026',
-    subtitle: 'Prelims + Mains + Interview',
-    description: 'A comprehensive 12-month program covering the entire UPSC syllabus from basics to advanced level. Integrated preparation approach.',
-    duration: '12 Months',
-    mode: 'Offline / Online',
-    batchStarts: 'June 15, 2025',
-    fees: '₹1,50,000',
+    id: 'prelims-test-series',
+    title: 'Prelims Test Series 2026',
+    subtitle: 'High Yield Mock Tests',
+    description: 'A scientifically designed test series to bridge the gap between preparation and execution. Bridges the gap between static knowledge and dynamic application.',
+    duration: '4 Months',
+    mode: 'Online / Offline',
+    batchStarts: 'Feb 15, 2026',
+    fees: '₹8,000',
     features: [
-      '1000+ Hours of Classroom Teaching',
-      'Comprehensive Study Material (25+ Books)',
-      'Prelims & Mains Test Series Included',
-      'Weekly Current Affairs Classes',
-      'Personal Mentorship'
+      '25 GS + 10 CSAT Tests',
+      'Detailed Explanations & Discussion',
+      'All India Ranking',
+      'Personal Mentorship Session',
+      'Current Affairs Integration'
     ],
+    status: 'open',
     highlight: true,
   },
   {
-    id: 'prelims-crash',
-    title: 'Prelims Crash Course',
-    subtitle: 'Target Prelims 2026',
-    description: 'Intensive 3-month revision program focusing on high-yield topics, current affairs and test-taking strategies.',
-    duration: '3 Months',
+    id: 'foundation',
+    title: 'Foundation Course 2027',
+    subtitle: 'Prelims + Mains + Interview',
+    description: 'Our flagship comprehensive program for beginners. Covers the entire syllabus with integrated answer writing and interview guidance.',
+    duration: '12 Months',
     mode: 'Offline / Online',
-    batchStarts: 'Feb 10, 2026',
-    fees: '₹25,000',
+    batchStarts: 'Coming Soon',
+    fees: '₹1,50,000',
     features: [
-      '200+ Hours of Revision Classes',
-      'Topic-wise & Full Length Tests',
-      'Current Affairs Annual Compilation',
-      'CSAT Special Classes'
+      '1000+ Hours of Teaching',
+      'Complete Study Material',
+      'Weekly Tests & mentorship',
+      'Current Affairs Classes',
+      'Library Access'
     ],
+    status: 'coming_soon',
     highlight: false,
   },
   {
     id: 'mains-test',
     title: 'Mains Test Series',
     subtitle: 'Answer Writing Focus',
-    description: 'Rigorous answer writing practice with detailed evaluation and feedback from former civil servants.',
-    duration: '4 Months',
+    description: 'Rigorous answer writing practice with evaluation by experts. Focus on structure, presentation and content enrichment.',
+    duration: '3 Months',
     mode: 'Online / Offline',
-    batchStarts: 'Flexible',
+    batchStarts: 'Coming Soon',
     fees: '₹18,000',
     features: [
-      '12 Sectional + 8 Full Length Tests',
-      'Detailed Evaluation within 72 hours',
-      'One-on-One Feedback Session',
-      'Model Answers & Discussion'
+      '12 Sectional + 4 Full Length Tests',
+      'Evaluation within 72 hours',
+      'One-on-One Feedback',
+      'Model Answers'
     ],
+    status: 'coming_soon',
     highlight: false,
   },
   {
     id: 'optional-pol-sci',
-    title: 'Pol. Science & IR',
-    subtitle: 'Optional Subject',
-    description: 'Specialized classroom program for Political Science and International Relations optional subject.',
+    title: 'Optional Subjects',
+    subtitle: 'Pol. Science / Sociology / Geography',
+    description: 'Specialized classroom program for optional subjects. Deep dive into concepts with previous year question analysis.',
     duration: '5 Months',
     mode: 'Offline / Online',
-    batchStarts: 'July 01, 2025',
+    batchStarts: 'Coming Soon',
     fees: '₹45,000',
     features: [
       'Complete Syllabus Coverage',
-      'Previous Year Questions Analysis',
-      'Paper-wise Test Series',
-      'Printed Notes & Dictation'
+      'PYQ Analysis & Discussion',
+      'Test Series Included',
+      'Printed Notes'
     ],
+    status: 'coming_soon',
     highlight: false,
   }
 ];
@@ -80,11 +85,11 @@ const Courses = () => {
   return (
     <div className="bg-gray-50 min-h-screen">
       {/* Header */}
-      <div className="bg-[#003366] text-white py-20">
+      <div className="bg-blue-900 text-white py-20">
         <div className="container-width text-center">
           <h1 className="text-4xl md:text-5xl font-bold font-serif mb-4">Our Programs</h1>
           <p className="text-xl text-blue-100 max-w-2xl mx-auto">
-            Meticulously designed courses to guide you through every stage of the Civil Services Examination.
+            Precision-engineered courses for serious aspirants.
           </p>
         </div>
       </div>
@@ -93,15 +98,21 @@ const Courses = () => {
       <div className="container-width py-16">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           {courses.map((course) => (
-            <Card key={course.id} className={`flex flex-col h-full ${course.highlight ? 'border-2 border-amber-500 shadow-xl relative' : ''}`}>
+            <Card key={course.id} className={`flex flex-col h-full ${course.highlight ? 'border-2 border-green-500 shadow-xl relative' : 'opacity-90'}`}>
               {course.highlight && (
-                <div className="absolute top-0 right-0 bg-amber-500 text-white text-xs font-bold px-3 py-1 rounded-bl-lg uppercase tracking-wider">
-                  Most Recommended
+                <div className="absolute top-0 right-0 bg-green-600 text-white text-xs font-bold px-3 py-1 rounded-bl-lg uppercase tracking-wider shadow-sm">
+                  Admissions Open
                 </div>
               )}
+              {course.status === 'coming_soon' && (
+                <div className="absolute top-0 right-0 bg-gray-600 text-white text-xs font-bold px-3 py-1 rounded-bl-lg uppercase tracking-wider">
+                  Coming Soon
+                </div>
+              )}
+
               <div className="mb-6">
-                <h3 className="text-2xl font-bold text-[#003366] mb-1">{course.title}</h3>
-                <p className="text-amber-600 font-medium mb-4">{course.subtitle}</p>
+                <h3 className="text-2xl font-bold text-gray-900 mb-1">{course.title}</h3>
+                <p className="text-blue-600 font-medium mb-4">{course.subtitle}</p>
                 <p className="text-gray-600 mb-6">{course.description}</p>
 
                 <div className="flex flex-wrap gap-4 text-sm text-gray-500 border-t border-gray-100 pt-4">
@@ -112,7 +123,8 @@ const Courses = () => {
                     <Users className="h-4 w-4 mr-2" /> {course.mode}
                   </div>
                   <div className="flex items-center">
-                    <FileText className="h-4 w-4 mr-2" /> Starts {course.batchStarts}
+                    <FileText className="h-4 w-4 mr-2" />
+                    {course.batchStarts === 'Coming Soon' ? 'Launching Soon' : `Starts ${course.batchStarts}`}
                   </div>
                 </div>
               </div>
@@ -130,11 +142,17 @@ const Courses = () => {
                 <div className="flex items-center justify-between mt-6 pt-4 border-t border-gray-200">
                   <div>
                     <p className="text-xs text-gray-500">Course Fee</p>
-                    <p className="text-2xl font-bold text-[#003366]">{course.fees}</p>
+                    <p className="text-2xl font-bold text-gray-900">{course.fees}</p>
                   </div>
-                  <Button to="/contact" variant={course.highlight ? "primary" : "outline"} size="sm">
-                    Enroll Now
-                  </Button>
+                  {course.status === 'open' ? (
+                    <Button to="/contact" variant="primary" size="sm" className="shadow-lg shadow-green-900/10">
+                      Enroll Now
+                    </Button>
+                  ) : (
+                    <Button variant="secondary" size="sm" disabled className="bg-gray-100 text-gray-400 border-gray-200">
+                      <Bell className="w-4 h-4 mr-2" /> Notify Me
+                    </Button>
+                  )}
                 </div>
               </div>
             </Card>
@@ -145,11 +163,11 @@ const Courses = () => {
       {/* Additional Info */}
       <div className="bg-white py-16">
         <div className="container-width text-center">
-          <h2 className="text-3xl font-bold text-[#003366] mb-8">Need Guidance on Choosing a Course?</h2>
+          <h2 className="text-3xl font-bold text-gray-900 mb-8">Need Guidance?</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            Schedule a free counseling session with our academic mentors to understand the exam pattern and choose the program that best fits your needs.
+            Not sure where to begin? Our mentors can help you understand the exam and plan your preparation.
           </p>
-          <Button to="/contact" variant="secondary" size="lg">Book Counseling Session</Button>
+          <Button to="/contact" variant="secondary" size="lg">Book Free Counseling</Button>
         </div>
       </div>
     </div>
