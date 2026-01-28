@@ -1,37 +1,45 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import Card from '../components/Card';
 import { BarChart3, Clock, CheckCircle, XCircle } from 'lucide-react';
+import { useApp } from '../context/AppContext';
+import { fetchUserTestAttempts } from '../services/supabaseService';
 
 const TestResults = () => {
-  const results = [
-    {
-      id: 1,
-      title: 'General Studies Paper 1',
-      date: '2024-01-25',
-      score: 75,
-      total: 100,
-      percentile: 92,
-      status: 'Pass',
-    },
-    {
-      id: 2,
-      title: 'CSAT Paper 2',
-      date: '2024-01-20',
-      score: 68,
-      total: 80,
-      percentile: 85,
-      status: 'Pass',
-    },
-    {
-      id: 3,
-      title: 'Current Affairs - January',
-      date: '2024-01-15',
-      score: 42,
-      total: 50,
-      percentile: 78,
-      status: 'Pass',
-    },
-  ];
+  const { user } = useApp();
+  const [results, setResults] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const loadResults = async () => {
+      if (user) {
+        const testAttempts = await fetchUserTestAttempts(user.id);
+        setResults(testAttempts);
+      }
+      setLoading(false);
+    };
+
+    loadResults();
+  }, [user]);
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
+          <p className="text-gray-600">Loading test results...</p>
+        </div>
+      </div>
+    );
+  }
+
+  // Calculate statistics
+  const totalTests = results.length;
+  const averageScore = totalTests > 0 
+    ? Math.round(results.reduce((sum, attempt) => sum + (attempt.score / attempt.total_marks) * 100, 0) / totalTests) 
+    : 0;
+  const topPercentile = totalTests > 0 
+    ? Math.max(...results.map(attempt => Math.round((attempt.score / attempt.total_marks) * 100))) 
+    : 0;
 
   return (
     <div className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
@@ -46,7 +54,7 @@ const TestResults = () => {
             <div className="flex items-center justify-between">
               <div>
                 <p className="text-blue-100 text-sm mb-1">Total Tests Taken</p>
-                <p className="text-3xl font-bold">{results.length}</p>
+                <p className="text-3xl font-bold">{totalTests}</p>
               </div>
               <BarChart3 size={32} className="text-blue-200" />
             </div>
@@ -56,7 +64,7 @@ const TestResults = () => {
             <div className="flex items-center justify-between">
               <div>
                 <p className="text-green-100 text-sm mb-1">Average Score</p>
-                <p className="text-3xl font-bold">75%</p>
+                <p className="text-3xl font-bold">{averageScore}%</p>
               </div>
               <CheckCircle size={32} className="text-green-200" />
             </div>
@@ -66,7 +74,7 @@ const TestResults = () => {
             <div className="flex items-center justify-between">
               <div>
                 <p className="text-amber-100 text-sm mb-1">Top Percentile</p>
-                <p className="text-3xl font-bold">92%</p>
+                <p className="text-3xl font-bold">{topPercentile}%</p>
               </div>
               <Clock size={32} className="text-amber-200" />
             </div>
@@ -74,37 +82,37 @@ const TestResults = () => {
         </div>
 
         <div className="space-y-6">
-          {results.map((result) => (
-            <Card key={result.id} className="hover:shadow-lg transition-shadow">
+          {results.map((attempt) => (
+            <Card key={attempt.id} className="hover:shadow-lg transition-shadow">
               <div className="flex items-start justify-between">
                 <div className="flex-1">
                   <div className="flex items-center mb-2">
-                    <h3 className="text-xl font-bold text-gray-900">{result.title}</h3>
+                    <h3 className="text-xl font-bold text-gray-900">{attempt.tests.title}</h3>
                     <span className={`ml-3 px-3 py-1 rounded-full text-sm font-medium ${
-                      result.status === 'Pass' ? 'bg-green-100 text-green-700' : 'bg-red-100 text-red-700'
+                      attempt.score >= attempt.total_marks * 0.6 ? 'bg-green-100 text-green-700' : 'bg-red-100 text-red-700'
                     }`}>
-                      {result.status}
+                      {attempt.score >= attempt.total_marks * 0.6 ? 'Pass' : 'Fail'}
                     </span>
                   </div>
                   
-                  <p className="text-gray-600 text-sm mb-4">{result.date}</p>
+                  <p className="text-gray-600 text-sm mb-4">{new Date(attempt.created_at).toLocaleDateString()}</p>
                   
                   <div className="flex items-center space-x-6 mb-4">
                     <div>
                       <p className="text-sm text-gray-600">Score</p>
                       <p className="text-2xl font-bold text-gray-900">
-                        {result.score}/{result.total}
+                        {attempt.score}/{attempt.total_marks}
                       </p>
                     </div>
                     <div>
                       <p className="text-sm text-gray-600">Percentage</p>
                       <p className="text-2xl font-bold text-gray-900">
-                        {Math.round((result.score / result.total) * 100)}%
+                        {Math.round((attempt.score / attempt.total_marks) * 100)}%
                       </p>
                     </div>
                     <div>
                       <p className="text-sm text-gray-600">Percentile</p>
-                      <p className="text-2xl font-bold text-gray-900">{result.percentile}%</p>
+                      <p className="text-2xl font-bold text-gray-900">{Math.round((attempt.score / attempt.total_marks) * 100)}%</p>
                     </div>
                   </div>
                 </div>

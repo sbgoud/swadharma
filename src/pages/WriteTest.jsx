@@ -1,36 +1,33 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Card from '../components/Card';
 import { Clock, AlertCircle, CheckCircle } from 'lucide-react';
+import { fetchAllTests } from '../services/supabaseService';
 
 const WriteTest = () => {
   const [selectedTest, setSelectedTest] = useState(null);
+  const [tests, setTests] = useState([]);
+  const [loading, setLoading] = useState(true);
 
-  const tests = [
-    {
-      id: 1,
-      title: 'General Studies Paper 1',
-      duration: '3 Hours',
-      questions: '100 Questions',
-      difficulty: 'Medium',
-      date: '2024-01-28',
-    },
-    {
-      id: 2,
-      title: 'CSAT Paper 2',
-      duration: '2 Hours',
-      questions: '80 Questions',
-      difficulty: 'Easy',
-      date: '2024-01-29',
-    },
-    {
-      id: 3,
-      title: 'Current Affairs - January',
-      duration: '1.5 Hours',
-      questions: '50 Questions',
-      difficulty: 'Hard',
-      date: '2024-01-30',
-    },
-  ];
+  useEffect(() => {
+    const loadTests = async () => {
+      const allTests = await fetchAllTests();
+      setTests(allTests);
+      setLoading(false);
+    };
+
+    loadTests();
+  }, []);
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
+          <p className="text-gray-600">Loading tests...</p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
@@ -61,15 +58,15 @@ const WriteTest = () => {
               <div className="space-y-2 mb-6">
                 <div className="flex items-center text-sm text-gray-600">
                   <Clock size={14} className="mr-2" />
-                  <span>Duration: {test.duration}</span>
+                  <span>Duration: {Math.floor(test.duration / 60)} Hours {test.duration % 60} Minutes</span>
                 </div>
                 <div className="flex items-center text-sm text-gray-600">
                   <CheckCircle size={14} className="mr-2" />
-                  <span>Questions: {test.questions}</span>
+                  <span>Questions: {test.total_questions}</span>
                 </div>
                 <div className="flex items-center text-sm text-gray-600">
                   <AlertCircle size={14} className="mr-2" />
-                  <span>Date: {test.date}</span>
+                  <span>Subject: {test.subjects?.name}</span>
                 </div>
               </div>
               

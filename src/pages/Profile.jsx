@@ -1,22 +1,56 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Card from '../components/Card';
 import { User, Mail, Phone, Edit, Save, Upload } from 'lucide-react';
 import { useApp } from '../context/AppContext';
+import { fetchUserProfile, updateUserProfile, createUserProfile } from '../services/supabaseService';
 
 const Profile = () => {
   const { user } = useApp();
   const [editMode, setEditMode] = useState(false);
-
+  const [loading, setLoading] = useState(true);
   const [profileData, setProfileData] = useState({
-    name: 'John Doe',
+    name: '',
     email: user?.email || '',
-    phone: '+91 98765 43210',
-    city: 'Delhi',
-    state: 'Delhi',
-    pincode: '110001',
-    education: 'Graduate',
-    course: 'Prelims Test Series 2026',
+    phone: '',
+    city: '',
+    state: '',
+    pincode: '',
+    education: '',
   });
+
+  useEffect(() => {
+    const loadProfile = async () => {
+      if (user) {
+        const profile = await fetchUserProfile(user.id);
+        if (profile) {
+          setProfileData({
+            name: profile.name || '',
+            email: profile.email || user.email || '',
+            phone: profile.phone || '',
+            city: profile.city || '',
+            state: profile.state || '',
+            pincode: profile.pincode || '',
+            education: profile.education || '',
+          });
+        } else {
+          // Create profile if it doesn't exist
+          await createUserProfile({
+            id: user.id,
+            name: '',
+            email: user.email,
+            phone: '',
+            city: '',
+            state: '',
+            pincode: '',
+            education: '',
+          });
+        }
+      }
+      setLoading(false);
+    };
+
+    loadProfile();
+  }, [user]);
 
   const handleChange = (e) => {
     setProfileData({
@@ -25,8 +59,10 @@ const Profile = () => {
     });
   };
 
-  const handleSave = () => {
-    // Save profile data to database
+  const handleSave = async () => {
+    if (user) {
+      await updateUserProfile(user.id, profileData);
+    }
     setEditMode(false);
   };
 

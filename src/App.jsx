@@ -10,6 +10,8 @@ import MyCourses from './pages/MyCourses';
 import WriteTest from './pages/WriteTest';
 import TestResults from './pages/TestResults';
 import Profile from './pages/Profile';
+import InitializeDb from './pages/InitializeDb';
+import CheckColumns from './pages/CheckColumns';
 import { AppProvider } from './context/AppContext';
 import { supabase } from './lib/supabase';
 
@@ -50,6 +52,8 @@ function App() {
             <Route path="/test-results" element={<TestResults />} />
             <Route path="/profile" element={<Profile />} />
             <Route path="/logout" element={<Logout />} />
+            <Route path="/initialize-db" element={<InitializeDb />} />
+            <Route path="/check-columns" element={<CheckColumns />} />
           </Routes>
         </Layout>
       </Router>
