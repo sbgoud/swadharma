@@ -4,12 +4,26 @@ import { Menu, X, BookOpen, User, LogOut, Book, PenTool } from 'lucide-react';
 import { cn } from '../lib/utils';
 import Button from './Button';
 import { useApp } from '../context/AppContext';
+import ThemeToggle from './ThemeToggle';
 
-const Navbar = () => {
+  const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const [isLoggingOut, setIsLoggingOut] = useState(false);
   const location = useLocation();
-  const { user } = useApp();
+  const { user, logout } = useApp();
+
+  const handleLogout = async () => {
+    try {
+      setIsLoggingOut(true);
+      await logout();
+      setIsMenuOpen(false);
+    } catch (error) {
+      console.error('Logout failed:', error);
+    } finally {
+      setIsLoggingOut(false);
+    }
+  };
 
   useEffect(() => {
     const handleScroll = () => {
@@ -63,6 +77,7 @@ const Navbar = () => {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
+            <ThemeToggle />
             {navLinks.map((link) => (
               <Link
                 key={link.name}
@@ -95,11 +110,24 @@ const Navbar = () => {
                     {link.icon}
                     <span>{link.name}</span>
                   </Link>
-                ))}
-                <Button to="/logout" variant="secondary" size="sm">
-                  <LogOut size={16} className="mr-1" />
-                  Logout
-                </Button>
+                 ))}
+                <button
+                  onClick={handleLogout}
+                  disabled={isLoggingOut}
+                  className="flex items-center space-x-1 px-3 py-2 text-sm font-medium text-gray-600 hover:text-blue-600 transition-colors rounded-lg hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed"
+                >
+                  {isLoggingOut ? (
+                    <span className="flex items-center space-x-1">
+                      <span className="animate-spin">⏳</span>
+                      <span>Logging out...</span>
+                    </span>
+                  ) : (
+                    <>
+                      <LogOut size={16} />
+                      <span>Logout</span>
+                    </>
+                  )}
+                </button>
               </div>
             ) : (
               <div className="flex items-center space-x-3">
@@ -126,6 +154,9 @@ const Navbar = () => {
       {isMenuOpen && (
         <div className="md:hidden absolute top-full left-0 w-full bg-white border-b border-gray-200 shadow-xl">
           <div className="px-4 py-6 space-y-4">
+            <div className="flex justify-end mb-4">
+              <ThemeToggle />
+            </div>
             {navLinks.map((link) => (
               <Link
                 key={link.name}
@@ -164,19 +195,32 @@ const Navbar = () => {
                       <span>{link.name}</span>
                     </Link>
                   ))}
-                </div>
+                 </div>
                 <div className="pt-4 border-t border-gray-100">
-                  <Button to="/logout" variant="secondary" className="w-full justify-center">
-                    <LogOut size={16} className="mr-1" />
-                    Logout
-                  </Button>
+                  <button
+                    onClick={handleLogout}
+                    disabled={isLoggingOut}
+                    className="flex items-center justify-center space-x-2 w-full px-4 py-3 text-base font-medium text-gray-700 hover:bg-gray-50 rounded-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                  >
+                    {isLoggingOut ? (
+                      <span className="flex items-center space-x-2">
+                        <span className="animate-spin">⏳</span>
+                        <span>Logging out...</span>
+                      </span>
+                    ) : (
+                      <>
+                        <LogOut size={16} />
+                        <span>Logout</span>
+                      </>
+                    )}
+                  </button>
                 </div>
               </>
             )}
 
             {!user && (
               <div className="pt-4 border-t border-gray-100">
-                <Button to="/login" variant="primary" className="w-full justify-center">
+                <Button to="/login" variant="primary" className="w-full justify-center" onClick={() => setIsMenuOpen(false)}>
                   Student Login
                 </Button>
               </div>

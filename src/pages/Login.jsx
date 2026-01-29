@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
 import { supabase } from '../lib/supabase';
 import { useNavigate } from 'react-router-dom';
-import { Mail, Lock, Check, AlertCircle, Eye, EyeOff, ArrowLeft, User, Calendar, MapPin, Phone } from 'lucide-react';
+import { Mail, Lock, Check, AlertCircle, Eye, EyeOff, ArrowLeft, User, Calendar, MapPin, Phone, RefreshCw } from 'lucide-react';
 import Card from '../components/Card';
 import Button from '../components/Button';
+import { createUserAccount, validateUserData } from '../services/edgeFunctionService';
 
 const Login = () => {
     const [loading, setLoading] = useState(false);
+    const [resendingEmail, setResendingEmail] = useState(false);
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
     const [confirmPassword, setConfirmPassword] = useState('');
@@ -20,16 +22,46 @@ const Login = () => {
     const [isSignUp, setIsSignUp] = useState(false);
     const [message, setMessage] = useState(null);
     const [error, setError] = useState(null);
+    const [isEmailNotConfirmed, setIsEmailNotConfirmed] = useState(false);
     const navigate = useNavigate();
+
+    const handleResendConfirmationEmail = async () => {
+        if (!email) {
+            setError('Please enter your email address to resend confirmation email');
+            return;
+        }
+
+        setResendingEmail(true);
+        setError(null);
+        setMessage(null);
+
+        try {
+            const { error } = await supabase.auth.resend({
+                type: 'signup',
+                email: email,
+            });
+
+            if (error) throw error;
+
+            setMessage('Confirmation email sent successfully! Please check your inbox.');
+            setIsEmailNotConfirmed(false);
+        } catch (err) {
+            setError(err.message || 'Failed to resend confirmation email');
+        } finally {
+            setResendingEmail(false);
+        }
+    };
 
     const handleLogin = async (e) => {
         e.preventDefault();
         setLoading(true);
         setMessage(null);
         setError(null);
+        setIsEmailNotConfirmed(false);
 
         try {
             if (isSignUp) {
+                // Validate form fields
                 if (!fullName || !dateOfBirth || !address || !phoneNumber) {
                     throw new Error('All fields are required');
                 }
@@ -42,7 +74,26 @@ const Login = () => {
                     throw new Error('You must accept the terms and conditions');
                 }
 
-                const { error: signUpError } = await supabase.auth.signUp({
+                // Validate email address
+                const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+                if (!emailRegex.test(email)) {
+                    throw new Error('Please enter a valid email address');
+                }
+
+                // Validate password requirements
+                const passwordRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?]).{8,}$/;
+                if (!passwordRegex.test(password)) {
+                    throw new Error('Password must be at least 8 characters and include at least one lowercase letter, one uppercase letter, and one special character');
+                }
+
+                // Validate phone number (10 digits only)
+                const phoneRegex = /^\d{10}$/;
+                if (!phoneRegex.test(phoneNumber)) {
+                    throw new Error('Phone number must be exactly 10 digits');
+                }
+
+                // Create auth user using anon key
+                const { data: authData, error: authError } = await supabase.auth.signUp({
                     email,
                     password,
                     options: {
@@ -55,12 +106,54 @@ const Login = () => {
                     }
                 });
 
-                if (signUpError) throw signUpError;
-                
-                setMessage('Confirm your signup. We\'ve sent you a confirmation email. Please check your inbox and click on the confirmation link to activate your account.');
+                if (authError) throw authError;
+
+                // Get user ID from auth response
+                const userId = authData.user?.id;
+                if (!userId) {
+                    throw new Error('User ID not found after creation');
+                }
+
+                // Call Edge Function to create user profile in database
+                const edgeFunctionUrl = import.meta.env.VITE_EDGE_FUNCTION_URL || 'https://dpaokhpqhchmfsuuwfmy.supabase.co/functions/v1/create-user';
+                const response = await fetch(edgeFunctionUrl, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        user_id: userId,
+                        email: email,
+                        full_name: fullName,
+                        date_of_birth: dateOfBirth,
+                        address: address,
+                        phone_number: `+91${phoneNumber}`
+                    })
+                });
+
+                const profileData = await response.json();
+
+                if (!response.ok || !profileData.success) {
+                    throw new Error(profileData?.message || 'Failed to create user profile');
+                }
+
+                setMessage('Account created successfully! Please check your email to verify your account.');
+                // Redirect to login page after delay
+                setTimeout(() => {
+                    setIsSignUp(false);
+                    navigate('/login');
+                }, 3000);
             } else {
+                // Existing login flow
                 const { error: signInError } = await supabase.auth.signInWithPassword({ email, password });
-                if (signInError) throw signInError;
+                if (signInError) {
+                    // Check if error is due to unconfirmed email
+                    if (signInError.message?.toLowerCase().includes('email not confirmed') ||
+                        signInError.message?.toLowerCase().includes('email confirmation')) {
+                        setIsEmailNotConfirmed(true);
+                    }
+                    throw signInError;
+                }
                 navigate('/');
             }
         } catch (err) {
@@ -109,9 +202,26 @@ const Login = () => {
                             </div>
                         )}
                         {error && (
-                            <div className="p-4 rounded-lg bg-red-50 text-red-700 flex items-start text-sm">
-                                <AlertCircle className="h-5 w-5 mr-2 mt-0.5 flex-shrink-0" />
-                                {error}
+                            <div className="p-4 rounded-lg bg-red-50 text-red-700 flex flex-col items-start text-sm">
+                                <div className="flex items-start">
+                                    <AlertCircle className="h-5 w-5 mr-2 mt-0.5 flex-shrink-0" />
+                                    <span>{error}</span>
+                                </div>
+                                {isEmailNotConfirmed && (
+                                    <div className="mt-3 ml-7">
+                                        <Button
+                                            type="button"
+                                            variant="secondary"
+                                            size="sm"
+                                            onClick={handleResendConfirmationEmail}
+                                            loading={resendingEmail}
+                                            className="flex items-center space-x-2"
+                                        >
+                                            <RefreshCw size={14} />
+                                            <span>Resend Confirmation Email</span>
+                                        </Button>
+                                    </div>
+                                )}
                             </div>
                         )}
 
@@ -179,17 +289,25 @@ const Login = () => {
                                         <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                                             <Phone className="h-5 w-5 text-gray-400" />
                                         </div>
+                                        <div className="absolute inset-y-0 left-10 flex items-center pointer-events-none">
+                                            <span className="text-gray-500 text-sm">+91</span>
+                                        </div>
                                         <input
                                             id="phoneNumber"
                                             name="phoneNumber"
                                             type="tel"
                                             required
                                             value={phoneNumber}
-                                            onChange={(e) => setPhoneNumber(e.target.value)}
-                                            className="block w-full pl-10 pr-3 py-2.5 border border-gray-300 rounded-lg text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent sm:text-sm"
-                                            placeholder="+1 234 567 8900"
+                                            onChange={(e) => {
+                                                const value = e.target.value.replace(/\D/g, '').slice(0, 10);
+                                                setPhoneNumber(value);
+                                            }}
+                                            className="block w-full pl-16 pr-3 py-2.5 border border-gray-300 rounded-lg text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent sm:text-sm"
+                                            placeholder="1234567890"
+                                            maxLength={10}
                                         />
                                     </div>
+                                    <p className="mt-1 text-xs text-gray-500">Enter 10-digit phone number</p>
                                 </div>
                             </>
                         )}
@@ -241,6 +359,7 @@ const Login = () => {
                                     )}
                                 </button>
                             </div>
+                            <p className="mt-1 text-xs text-gray-500">Must be at least 8 characters with one lowercase, one uppercase, and one special character</p>
                         </div>
 
                         {isSignUp && (

@@ -83,6 +83,36 @@ export const AppProvider = ({ children }) => {
     return () => subscription.unsubscribe();
   }, []);
 
+  const logout = async () => {
+    try {
+      // Clear all localStorage data
+      localStorage.clear();
+      
+      // Clear all cookies
+      document.cookie.split(";").forEach(cookie => {
+        const eqPos = cookie.indexOf("=");
+        const name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+        document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+      });
+      
+      // Sign out from Supabase
+      const { error } = await supabase.auth.signOut();
+      if (error) {
+        console.error('Error logging out:', error);
+      } else {
+        setUser(null);
+        setProfile(null);
+        
+        // Wait 3 seconds then redirect to homepage
+        setTimeout(() => {
+          window.location.href = '/';
+        }, 3000);
+      }
+    } catch (error) {
+      console.error('Error logging out:', error);
+    }
+  };
+
   const value = {
     user,
     profile,
@@ -90,6 +120,7 @@ export const AppProvider = ({ children }) => {
     enquiries,
     setEnquiries,
     setProfile,
+    logout,
   };
 
   return (

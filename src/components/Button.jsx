@@ -47,7 +47,7 @@ const Button = ({
 
   if (to) {
     return (
-      <Link to={to} className={combinedClassName} {...props}>
+      <Link to={to} className={combinedClassName} onClick={onClick} {...props}>
         {content}
       </Link>
     );
