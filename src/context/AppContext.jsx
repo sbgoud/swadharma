@@ -23,30 +23,39 @@ export const AppProvider = ({ children }) => {
     const checkSession = async () => {
       try {
         const { data: { session } } = await supabase.auth.getSession();
+        console.log('AppContext: getSession result:', session);
         setUser(session?.user || null);
         
         if (session?.user) {
+          console.log('AppContext: User session found:', session.user.id);
           // Fetch user profile
           const userProfile = await fetchUserProfile(session.user.id);
+          console.log('AppContext: Fetched profile:', userProfile);
           if (userProfile) {
             setProfile(userProfile);
           } else {
-            // Create profile if it doesn't exist
+            // Create profile if it doesn't exist - use user_metadata as fallback
+            console.log('AppContext: Creating new profile for user:', session.user.id);
+            console.log('AppContext: User metadata:', session.user.user_metadata);
             const newProfile = await createUserProfile({
               id: session.user.id,
-              name: '',
+              full_name: session.user.user_metadata?.full_name || '',
               email: session.user.email,
-              phone: '',
-              city: '',
-              state: '',
-              pincode: '',
-              education: '',
+              phone_number: session.user.user_metadata?.phone_number || '',
+              city: session.user.user_metadata?.city || '',
+              state: session.user.user_metadata?.state || '',
+              pincode: session.user.user_metadata?.pincode || '',
+              education: session.user.user_metadata?.education || '',
+              date_of_birth: session.user.user_metadata?.date_of_birth || null,
             });
+            console.log('AppContext: Created profile:', newProfile);
             setProfile(newProfile);
           }
+        } else {
+          console.log('AppContext: No user session found');
         }
       } catch (error) {
-        console.error('Error checking session:', error);
+        console.error('AppContext: Error checking session:', error);
       } finally {
         setLoading(false);
       }
@@ -59,23 +68,30 @@ export const AppProvider = ({ children }) => {
       setUser(session?.user || null);
       
       if (session?.user) {
+        console.log('AppContext: Auth state change - User found:', session.user.id);
         const userProfile = await fetchUserProfile(session.user.id);
+        console.log('AppContext: Auth state change - Fetched profile:', userProfile);
         if (userProfile) {
           setProfile(userProfile);
         } else {
-          const newProfile = await createUserProfile({
-            id: session.user.id,
-            name: '',
-            email: session.user.email,
-            phone: '',
-            city: '',
-            state: '',
-            pincode: '',
-            education: '',
-          });
+          console.log('AppContext: Auth state change - Creating new profile');
+          console.log('AppContext: Auth state change - User metadata:', session.user.user_metadata);
+            const newProfile = await createUserProfile({
+              id: session.user.id,
+              full_name: session.user.user_metadata?.full_name || '',
+              email: session.user.email,
+              phone_number: session.user.user_metadata?.phone_number || '',
+              city: session.user.user_metadata?.city || '',
+              state: session.user.user_metadata?.state || '',
+              pincode: session.user.user_metadata?.pincode || '',
+              education: session.user.user_metadata?.education || '',
+              date_of_birth: session.user.user_metadata?.date_of_birth || null,
+            });
+          console.log('AppContext: Auth state change - Created profile:', newProfile);
           setProfile(newProfile);
         }
       } else {
+        console.log('AppContext: Auth state change - No user session');
         setProfile(null);
       }
     });
@@ -84,32 +100,37 @@ export const AppProvider = ({ children }) => {
   }, []);
 
   const logout = async () => {
+    console.log('Starting logout process');
+    
     try {
-      // Clear all localStorage data
-      localStorage.clear();
-      
-      // Clear all cookies
-      document.cookie.split(";").forEach(cookie => {
-        const eqPos = cookie.indexOf("=");
-        const name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
-        document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
-      });
-      
       // Sign out from Supabase
       const { error } = await supabase.auth.signOut();
+      
       if (error) {
-        console.error('Error logging out:', error);
-      } else {
-        setUser(null);
-        setProfile(null);
-        
-        // Wait 3 seconds then redirect to homepage
-        setTimeout(() => {
-          window.location.href = '/';
-        }, 3000);
+        console.error('Supabase signOut error:', error);
+        throw error;
       }
+      
+      console.log('Supabase signOut successful');
+      
+      // Clear local storage
+      localStorage.clear();
+      
+      // The auth state change listener will handle setting user and profile to null
+      // Wait a brief moment for the state to update
+      await new Promise(resolve => setTimeout(resolve, 100));
+      
+      // Redirect to homepage
+      console.log('Redirecting to homepage');
+      window.location.href = '/';
+      
     } catch (error) {
-      console.error('Error logging out:', error);
+      console.error('Error during logout:', error);
+      // Even on error, clear and redirect
+      localStorage.clear();
+      setUser(null);
+      setProfile(null);
+      window.location.href = '/';
     }
   };
 

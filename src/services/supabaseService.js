@@ -2,6 +2,7 @@ import { supabase } from '../lib/supabase';
 
 // User related functions
 export const fetchUserProfile = async (userId) => {
+  console.log('fetchUserProfile: Fetching profile for user ID:', userId);
   const { data, error } = await supabase
     .from('users')
     .select('*')
@@ -9,30 +10,60 @@ export const fetchUserProfile = async (userId) => {
     .single();
 
   if (error) {
-    console.error('Error fetching user profile:', error);
+    console.error('fetchUserProfile: Error fetching user profile:', error);
+    console.error('fetchUserProfile: Error code:', error.code);
+    console.error('fetchUserProfile: Error message:', error.message);
+    console.error('fetchUserProfile: Error details:', error.details);
+    console.error('fetchUserProfile: Error hint:', error.hint);
     return null;
   }
 
+  if (!data) {
+    console.warn('fetchUserProfile: No data returned (data is null/undefined)');
+    return null;
+  }
+
+  console.log('fetchUserProfile: Successfully fetched profile:', data);
+  console.log('fetchUserProfile: Profile data type:', typeof data);
+  console.log('fetchUserProfile: Profile keys:', data ? Object.keys(data) : 'N/A');
+  console.log('fetchUserProfile: Profile phone_number:', data?.phone_number);
+  console.log('fetchUserProfile: Profile phone:', data?.phone);
+  console.log('fetchUserProfile: Profile full_name:', data?.full_name);
+  console.log('fetchUserProfile: Profile name:', data?.name);
+  console.log('fetchUserProfile: Profile email:', data?.email);
   return data;
 };
 
 export const updateUserProfile = async (userId, profileData) => {
-  const { data, error } = await supabase
-    .from('users')
-    .update(profileData)
-    .eq('id', userId)
-    .select()
-    .single();
+  console.log('updateUserProfile: Updating profile for user ID:', userId);
+  console.log('updateUserProfile: Profile data to update:', profileData);
+  
+  try {
+    const { data, error } = await supabase
+      .from('users')
+      .update(profileData)
+      .eq('id', userId)
+      .select();
 
-  if (error) {
-    console.error('Error updating user profile:', error);
+    if (error) {
+      console.error('updateUserProfile: Error updating user profile:', error);
+      console.error('updateUserProfile: Error code:', error.code);
+      console.error('updateUserProfile: Error message:', error.message);
+      return null;
+    }
+
+    // Return first item from array or null if empty
+    const result = data && data.length > 0 ? data[0] : null;
+    console.log('updateUserProfile: Successfully updated profile:', result);
+    return result;
+  } catch (err) {
+    console.error('updateUserProfile: Unexpected error:', err);
     return null;
   }
-
-  return data;
 };
 
 export const createUserProfile = async (userData) => {
+  console.log('createUserProfile: Creating profile with data:', userData);
   const { data, error } = await supabase
     .from('users')
     .insert([userData])
@@ -40,10 +71,14 @@ export const createUserProfile = async (userData) => {
     .single();
 
   if (error) {
-    console.error('Error creating user profile:', error);
+    console.error('createUserProfile: Error creating user profile:', error);
+    console.error('createUserProfile: Error code:', error.code);
+    console.error('createUserProfile: Error message:', error.message);
+    console.error('createUserProfile: Error details:', error.details);
     return null;
   }
 
+  console.log('createUserProfile: Successfully created profile:', data);
   return data;
 };
 
@@ -168,6 +203,83 @@ export const fetchTestQuestions = async (testId) => {
   }
 
   return data;
+};
+
+export const insertQuestions = async (questionsData) => {
+  try {
+    const { subject_id, subject_name, questions } = questionsData;
+
+    // Validate input
+    if (!questions || !Array.isArray(questions) || questions.length === 0) {
+      return {
+        error: {
+          message: 'Invalid questions data: must be a non-empty array',
+          code: 'INVALID_INPUT'
+        },
+        count: 0,
+        data: null
+      };
+    }
+
+    // Prepare questions array for insertion
+    const questionsToInsert = questions.map(q => ({
+      subject_id,
+      subject_name,
+      question_text: q.question_text,
+      options: q.options,
+      correct_answer: q.correct_answer,
+      question_type: q.question_type || 'MCQ',
+      difficulty: q.difficulty !== undefined ? q.difficulty : 50,
+      is_published: q.is_published !== undefined ? q.is_published : 0,
+      explanation: q.explanation
+    }));
+
+    // Insert questions
+    const { data, error } = await supabase
+      .from('questions')
+      .insert(questionsToInsert)
+      .select();
+
+    if (error) {
+      console.error('Error inserting questions:', error);
+      
+      // Enhance error message with more context
+      let enhancedError = {
+        message: error.message,
+        code: error.code,
+        details: error.details,
+        hint: error.hint
+      };
+
+      // Add context for common errors
+      if (error.code === '23503') {
+        enhancedError.message = 'Foreign key constraint violation: subject_id does not exist';
+        enhancedError.context = `Subject ID ${subject_id} not found in subjects table`;
+      } else if (error.code === '23505') {
+        enhancedError.message = 'Unique constraint violation: duplicate question detected';
+        enhancedError.context = 'A question with the same explanation already exists';
+      } else if (error.code === '22P02') {
+        enhancedError.message = 'Invalid data format: JSON structure error';
+        enhancedError.context = 'Check that options field is valid JSON';
+      }
+
+      return { error: enhancedError, count: 0, data: null };
+    }
+
+    return { error: null, count: data.length, data };
+
+  } catch (error) {
+    console.error('Unexpected error in insertQuestions:', error);
+    return {
+      error: {
+        message: error.message || 'An unexpected error occurred',
+        code: 'UNEXPECTED_ERROR',
+        details: error.toString()
+      },
+      count: 0,
+      data: null
+    };
+  }
 };
 
 // Test attempts related functions

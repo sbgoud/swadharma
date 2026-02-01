@@ -19,6 +19,7 @@ const TestResults = lazy(() => import('./pages/TestResults'));
 const Profile = lazy(() => import('./pages/Profile'));
 const InitializeDb = lazy(() => import('./pages/InitializeDb'));
 const CheckColumns = lazy(() => import('./pages/CheckColumns'));
+const AddQuestions = lazy(() => import('./pages/AddQuestions'));
 
 // Loading component for Suspense fallback
 const PageLoader = () => (
@@ -72,6 +73,7 @@ function App() {
                   <Route path="/logout" element={<Logout />} />
                   <Route path="/initialize-db" element={<InitializeDb />} />
                   <Route path="/check-columns" element={<CheckColumns />} />
+                  <Route path="/add-questions" element={<AddQuestions />} />
                 </Routes>
               </Suspense>
             </Layout>

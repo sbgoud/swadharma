@@ -16,11 +16,13 @@ import ThemeToggle from './ThemeToggle';
   const handleLogout = async () => {
     try {
       setIsLoggingOut(true);
-      await logout();
       setIsMenuOpen(false);
+      await logout();
+      // Note: logout() function in AppContext handles the page redirect and state clearing
+      // UI will only change after successful logout due to user state update
     } catch (error) {
       console.error('Logout failed:', error);
-    } finally {
+      alert('Logout failed: ' + (error.message || 'Please try again'));
       setIsLoggingOut(false);
     }
   };
