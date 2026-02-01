@@ -25,7 +25,7 @@ export const AppProvider = ({ children }) => {
         const { data: { session } } = await supabase.auth.getSession();
         console.log('AppContext: getSession result:', session);
         setUser(session?.user || null);
-        
+
         if (session?.user) {
           console.log('AppContext: User session found:', session.user.id);
           // Fetch user profile
@@ -66,7 +66,7 @@ export const AppProvider = ({ children }) => {
     // Subscribe to auth changes
     const { data: { subscription } } = supabase.auth.onAuthStateChange(async (_event, session) => {
       setUser(session?.user || null);
-      
+
       if (session?.user) {
         console.log('AppContext: Auth state change - User found:', session.user.id);
         const userProfile = await fetchUserProfile(session.user.id);
@@ -76,17 +76,17 @@ export const AppProvider = ({ children }) => {
         } else {
           console.log('AppContext: Auth state change - Creating new profile');
           console.log('AppContext: Auth state change - User metadata:', session.user.user_metadata);
-            const newProfile = await createUserProfile({
-              id: session.user.id,
-              full_name: session.user.user_metadata?.full_name || '',
-              email: session.user.email,
-              phone_number: session.user.user_metadata?.phone_number || '',
-              city: session.user.user_metadata?.city || '',
-              state: session.user.user_metadata?.state || '',
-              pincode: session.user.user_metadata?.pincode || '',
-              education: session.user.user_metadata?.education || '',
-              date_of_birth: session.user.user_metadata?.date_of_birth || null,
-            });
+          const newProfile = await createUserProfile({
+            id: session.user.id,
+            full_name: session.user.user_metadata?.full_name || '',
+            email: session.user.email,
+            phone_number: session.user.user_metadata?.phone_number || '',
+            city: session.user.user_metadata?.city || '',
+            state: session.user.user_metadata?.state || '',
+            pincode: session.user.user_metadata?.pincode || '',
+            education: session.user.user_metadata?.education || '',
+            date_of_birth: session.user.user_metadata?.date_of_birth || null,
+          });
           console.log('AppContext: Auth state change - Created profile:', newProfile);
           setProfile(newProfile);
         }
@@ -101,35 +101,56 @@ export const AppProvider = ({ children }) => {
 
   const logout = async () => {
     console.log('Starting logout process');
-    
+
+    // 1. Optimistically clear local state immediately
+    setUser(null);
+    setProfile(null);
+
+    // 2. Force clear Supabase tokens from localStorage
+    // This is critical because if the network signOut fails/hangs, 
+    // the tokens would remain and auto-login would happen on refresh.
     try {
-      // Sign out from Supabase
-      const { error } = await supabase.auth.signOut();
-      
-      if (error) {
-        console.error('Supabase signOut error:', error);
-        throw error;
+      console.log('Clearing local storage tokens...');
+      // Clear all items starting with 'sb-' (Supabase default prefix)
+      // or just clear everything if we want to be nuking it.
+      // Let's be safer but effective: clear everything auth related.
+      const keysToRemove = [];
+      for (let i = 0; i < localStorage.length; i++) {
+        const key = localStorage.key(i);
+        if (key && (key.startsWith('sb-') || key.includes('supabase'))) {
+          keysToRemove.push(key);
+        }
       }
-      
-      console.log('Supabase signOut successful');
-      
-      // Clear local storage
+      keysToRemove.forEach(key => localStorage.removeItem(key));
+
+      // Also clear everything just in case, if the user was having issues with 'clearing' before
+      // it might be cleaner to just wipe it to ensure fresh state.
+      // Since the user is specifically having trouble with Persistence, let's just wipe it.
       localStorage.clear();
-      
-      // The auth state change listener will handle setting user and profile to null
-      // Wait a brief moment for the state to update
-      await new Promise(resolve => setTimeout(resolve, 100));
-      
-      // Redirect to homepage
-      console.log('Redirecting to homepage');
-      window.location.href = '/';
-      
+      console.log('Local storage cleared');
+    } catch (e) {
+      console.error('Error clearing local storage:', e);
+    }
+
+    try {
+      // 3. Attempt network sign-out
+      // We start this but don't wait aggressively for it.
+      // We give it a short window to try and notify the server.
+      const signOutPromise = supabase.auth.signOut();
+
+      // We don't await this promise blocking the UI. 
+      // We just let it run. If it fails, who cares, we deleted the token locally.
+      // But we can await it with a very short timeout just to be nice.
+      const timeoutPromise = new Promise(resolve => setTimeout(resolve, 500));
+
+      await Promise.race([signOutPromise, timeoutPromise]);
+      console.log('Network signOut initiated');
+
     } catch (error) {
-      console.error('Error during logout:', error);
-      // Even on error, clear and redirect
-      localStorage.clear();
-      setUser(null);
-      setProfile(null);
+      console.error('Error during network signOut:', error);
+    } finally {
+      // 4. Force redirect
+      console.log('Redirecting to homepage');
       window.location.href = '/';
     }
   };

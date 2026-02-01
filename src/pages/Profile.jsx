@@ -4,9 +4,11 @@ import { User, Mail, Phone, Edit, Save, Upload, X } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import { supabase } from '../lib/supabase';
 import { updateUserProfile } from '../services/supabaseService';
+import { useToast } from '../components/Toast';
 
 const Profile = () => {
   const { user, profile, setProfile } = useApp();
+  const { toast } = useToast();
   const [editMode, setEditMode] = useState(false);
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
@@ -28,10 +30,10 @@ const Profile = () => {
         console.log('Profile component: User from context:', user);
         console.log('Profile component: Profile from context:', profile);
         console.log('Profile component: User metadata:', user.user_metadata);
-        
+
         // Use user_metadata as fallback when profile is null/empty
         const metadata = user.user_metadata || {};
-        
+
         if (profile && (profile.full_name || profile.phone_number)) {
           // Format date_of_birth for input field (YYYY-MM-DD)
           let formattedDate = '';
@@ -53,7 +55,7 @@ const Profile = () => {
             date_of_birth: formattedDate,
             course: profile.course || '',
           };
-          
+
           console.log('Setting profileData from database profile:', newProfileData);
           setProfileData(newProfileData);
         } else {
@@ -69,7 +71,7 @@ const Profile = () => {
             date_of_birth: metadata.date_of_birth || '',
             course: metadata.course || '',
           };
-          
+
           console.log('Setting profileData from user_metadata:', newProfileData);
           setProfileData(newProfileData);
         }
@@ -92,15 +94,12 @@ const Profile = () => {
       setSaving(false);
       return;
     }
-    
+
     setSaving(true);
     console.log('=== STARTING PROFILE SAVE ===');
-    console.log('User ID:', user.id);
-    console.log('Profile data to save:', profileData);
-    
+
     try {
       // Step 1: Update users table in database
-      console.log('Step 1: Updating database...');
       const updatedProfile = await updateUserProfile(user.id, {
         full_name: profileData.name,
         phone_number: profileData.phone,
@@ -110,19 +109,13 @@ const Profile = () => {
         education: profileData.education,
         date_of_birth: profileData.date_of_birth,
       });
-      
-      console.log('Database update result:', updatedProfile);
-      
+
       if (!updatedProfile) {
-        console.error('Database update failed - returned null');
-        alert('Failed to save profile to database. Please try again.');
-        setSaving(false);
-        return;
+        throw new Error('Failed to save profile to database');
       }
-      
+
       // Step 2: Update user_metadata in Supabase Auth
-      console.log('Step 2: Updating auth metadata...');
-      const { data, error: authError } = await supabase.auth.updateUser({
+      const { error: authError } = await supabase.auth.updateUser({
         data: {
           full_name: profileData.name,
           phone_number: profileData.phone,
@@ -133,40 +126,41 @@ const Profile = () => {
           date_of_birth: profileData.date_of_birth,
         }
       });
-      
+
       if (authError) {
         console.error('Auth update error:', authError);
-        alert('Profile saved to database but auth update failed: ' + authError.message);
-        setSaving(false);
-        return;
+        // Continue anyway since DB update was successful, but warn user
+        toast.warning('Profile saved, but account details may take time to sync.');
+      } else {
+        toast.success('Profile saved successfully!');
       }
-      
-      console.log('Auth update successful:', data);
-      
-      // Step 3: Update local state
-      console.log('Step 3: Updating local state...');
+
+      // Step 3: Update local state securely
       setProfile(updatedProfile);
-      
-      // Immediately update local state for instant UI feedback
+
+      // Update local form state to match result
       setProfileData(prev => ({
         ...prev,
-        name: profileData.name,
-        phone: profileData.phone,
-        city: profileData.city,
-        state: profileData.state,
-        pincode: profileData.pincode,
-        education: profileData.education,
-        date_of_birth: profileData.date_of_birth,
+        // Ensure we keep existing email/course if not returned
+        email: updatedProfile.email || prev.email,
+        course: updatedProfile.course || prev.course,
+        // Update user editable fields
+        name: updatedProfile.full_name || prev.name,
+        phone: updatedProfile.phone_number || prev.phone,
+        city: updatedProfile.city || prev.city,
+        state: updatedProfile.state || prev.state,
+        pincode: updatedProfile.pincode || prev.pincode,
+        education: updatedProfile.education || prev.education,
+        date_of_birth: updatedProfile.date_of_birth || prev.date_of_birth,
       }));
-      
+
       setEditMode(false);
-      setSaving(false);
-      alert('Profile saved successfully!');
-      console.log('=== PROFILE SAVE COMPLETE ===');
-      
+
     } catch (error) {
       console.error('Error saving profile:', error);
-      alert('Error saving profile: ' + (error.message || 'Unknown error'));
+      toast.error(error.message || 'Failed to save profile');
+    } finally {
+      // Always stop loading, even on error
       setSaving(false);
     }
   };
@@ -242,7 +236,7 @@ const Profile = () => {
                 <Upload size={18} />
               </button>
             </div>
-            
+
             {/* User Info */}
             <div className="flex-1 text-center sm:text-left">
               <h2 className="text-3xl font-bold text-gray-900 mb-2">
@@ -264,7 +258,7 @@ const Profile = () => {
             <div className="flex flex-col gap-2">
               {editMode ? (
                 <>
-                  <button 
+                  <button
                     className="bg-green-600 text-white px-6 py-2.5 rounded-lg font-semibold hover:bg-green-700 transition-all duration-200 shadow-md hover:shadow-lg disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2 min-w-[120px]"
                     onClick={handleSave}
                     disabled={saving}
@@ -281,7 +275,7 @@ const Profile = () => {
                       </>
                     )}
                   </button>
-                  <button 
+                  <button
                     className="bg-gray-500 text-white px-6 py-2.5 rounded-lg font-semibold hover:bg-gray-600 transition-all duration-200 shadow-md hover:shadow-lg flex items-center justify-center gap-2 min-w-[120px]"
                     onClick={handleCancel}
                     disabled={saving}
@@ -291,7 +285,7 @@ const Profile = () => {
                   </button>
                 </>
               ) : (
-                <button 
+                <button
                   className="bg-blue-600 text-white px-6 py-2.5 rounded-lg font-semibold hover:bg-blue-700 transition-all duration-200 shadow-md hover:shadow-lg flex items-center justify-center gap-2 min-w-[120px]"
                   onClick={() => setEditMode(true)}
                 >
@@ -313,7 +307,7 @@ const Profile = () => {
               </span>
             )}
           </div>
-          
+
           <div className="grid md:grid-cols-2 gap-6">
             {/* Full Name */}
             <div className="space-y-2">
@@ -327,11 +321,10 @@ const Profile = () => {
                 onChange={handleChange}
                 disabled={!editMode}
                 placeholder="Enter your full name"
-                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${
-                  editMode 
-                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200' 
+                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${editMode
+                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200'
                     : 'border-gray-200 bg-gray-50 text-gray-800 cursor-not-allowed'
-                }`}
+                  }`}
               />
             </div>
 
@@ -361,11 +354,10 @@ const Profile = () => {
                 value={profileData.date_of_birth}
                 onChange={handleChange}
                 disabled={!editMode}
-                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${
-                  editMode 
-                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200' 
+                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${editMode
+                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200'
                     : 'border-gray-200 bg-gray-50 text-gray-800 cursor-not-allowed'
-                }`}
+                  }`}
               />
             </div>
 
@@ -381,11 +373,10 @@ const Profile = () => {
                 onChange={handleChange}
                 disabled={!editMode}
                 placeholder="+91 98765 43210"
-                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${
-                  editMode 
-                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200' 
+                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${editMode
+                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200'
                     : 'border-gray-200 bg-gray-50 text-gray-800 cursor-not-allowed'
-                }`}
+                  }`}
               />
             </div>
 
@@ -401,11 +392,10 @@ const Profile = () => {
                 onChange={handleChange}
                 disabled={!editMode}
                 placeholder="Enter your city"
-                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${
-                  editMode 
-                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200' 
+                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${editMode
+                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200'
                     : 'border-gray-200 bg-gray-50 text-gray-800 cursor-not-allowed'
-                }`}
+                  }`}
               />
             </div>
 
@@ -421,11 +411,10 @@ const Profile = () => {
                 onChange={handleChange}
                 disabled={!editMode}
                 placeholder="Enter your state"
-                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${
-                  editMode 
-                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200' 
+                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${editMode
+                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200'
                     : 'border-gray-200 bg-gray-50 text-gray-800 cursor-not-allowed'
-                }`}
+                  }`}
               />
             </div>
 
@@ -441,11 +430,10 @@ const Profile = () => {
                 onChange={handleChange}
                 disabled={!editMode}
                 placeholder="500001"
-                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${
-                  editMode 
-                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200' 
+                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${editMode
+                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200'
                     : 'border-gray-200 bg-gray-50 text-gray-800 cursor-not-allowed'
-                }`}
+                  }`}
               />
             </div>
 
@@ -461,11 +449,10 @@ const Profile = () => {
                 onChange={handleChange}
                 disabled={!editMode}
                 placeholder="e.g., B.Tech, B.Sc, etc."
-                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${
-                  editMode 
-                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200' 
+                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${editMode
+                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200'
                     : 'border-gray-200 bg-gray-50 text-gray-800 cursor-not-allowed'
-                }`}
+                  }`}
               />
             </div>
 
@@ -481,11 +468,10 @@ const Profile = () => {
                 onChange={handleChange}
                 disabled={!editMode}
                 placeholder="e.g., UPSC Preparation, TNPSC Group 2, etc."
-                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${
-                  editMode 
-                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200' 
+                className={`w-full px-4 py-3 border-2 rounded-lg transition-all duration-200 ${editMode
+                    ? 'border-blue-300 bg-white text-gray-900 focus:border-blue-500 focus:ring-2 focus:ring-blue-200'
                     : 'border-gray-200 bg-gray-50 text-gray-800 cursor-not-allowed'
-                }`}
+                  }`}
               />
             </div>
           </div>
@@ -493,7 +479,7 @@ const Profile = () => {
           {/* Account Settings */}
           <div className="mt-8 pt-6 border-t-2 border-gray-200">
             <h3 className="text-xl font-bold text-gray-900 mb-4">Account Settings</h3>
-            
+
             <div className="space-y-4">
               <button className="w-full sm:w-auto text-left bg-red-50 text-red-700 px-6 py-3 rounded-lg hover:bg-red-100 transition-colors font-medium border-2 border-red-200">
                 Delete Account
