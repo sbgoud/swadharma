@@ -356,3 +356,76 @@ export const fetchAllSubjects = async () => {
 
   return data;
 };
+
+// Bulk insert questions from array format
+export const insertQuestionsBulk = async (questionsArray) => {
+  try {
+    // Validate input
+    if (!questionsArray || !Array.isArray(questionsArray) || questionsArray.length === 0) {
+      return {
+        error: {
+          message: 'Invalid questions data: must be a non-empty array',
+          code: 'INVALID_INPUT'
+        },
+        count: 0,
+        data: null
+      };
+    }
+
+    // Prepare questions array for insertion
+    const questionsToInsert = questionsArray.map(q => ({
+      subject_id: q.subject_id,
+      subject_name: q.subject_name,
+      question_text: q.question_text,
+      options: q.options,
+      correct_answer: q.correct_answer,
+      question_type: q.question_type || 'MCQ',
+      difficulty: q.difficulty !== undefined ? q.difficulty : 50,
+      is_published: q.is_published !== undefined ? q.is_published : 0,
+      explanation: q.explanation
+    }));
+
+    // Insert questions
+    const { data, error } = await supabase
+      .from('questions')
+      .insert(questionsToInsert)
+      .select();
+
+    if (error) {
+      console.error('Error inserting questions:', error);
+      
+      // Enhance error message with more context
+      let enhancedError = {
+        message: error.message,
+        code: error.code,
+        details: error.details,
+        hint: error.hint
+      };
+
+      // Add context for common errors
+      if (error.code === '23503') {
+        enhancedError.message = 'Foreign key constraint violation: subject_id does not exist';
+      } else if (error.code === '23505') {
+        enhancedError.message = 'Unique constraint violation: duplicate question detected';
+      } else if (error.code === '22P02') {
+        enhancedError.message = 'Invalid data format: JSON structure error';
+      }
+
+      return { error: enhancedError, count: 0, data: null };
+    }
+
+    return { error: null, count: data.length, data };
+
+  } catch (error) {
+    console.error('Unexpected error in insertQuestionsBulk:', error);
+    return {
+      error: {
+        message: error.message || 'An unexpected error occurred',
+        code: 'UNEXPECTED_ERROR',
+        details: error.toString()
+      },
+      count: 0,
+      data: null
+    };
+  }
+};

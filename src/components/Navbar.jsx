@@ -47,6 +47,7 @@ import ThemeToggle from './ThemeToggle';
     { name: 'Write a New Test', path: '/write-test', icon: <PenTool size={16} /> },
     { name: 'Test Results', path: '/test-results', icon: <BookOpen size={16} /> },
     { name: 'Profile', path: '/profile', icon: <User size={16} /> },
+    { name: 'Add Questions', path: '/add-questions-bulk', icon: <BookOpen size={16} /> },
   ];
 
   const isActive = (path) => location.pathname === path;
