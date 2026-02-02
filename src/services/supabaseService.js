@@ -357,7 +357,7 @@ export const fetchAllSubjects = async () => {
   return data;
 };
 
-// Bulk insert questions from array format
+// Bulk insert questions from array format (single batch)
 export const insertQuestionsBulk = async (questionsArray) => {
   try {
     // Validate input
@@ -426,6 +426,120 @@ export const insertQuestionsBulk = async (questionsArray) => {
       },
       count: 0,
       data: null
+    };
+  }
+};
+
+// Bulk insert questions in batches with progress tracking
+const BATCH_SIZE = 10000;
+
+export const insertQuestionsBulkBatched = async (questionsArray, onProgress) => {
+  try {
+    // Validate input
+    if (!questionsArray || !Array.isArray(questionsArray) || questionsArray.length === 0) {
+      return {
+        error: {
+          message: 'Invalid questions data: must be a non-empty array',
+          code: 'INVALID_INPUT'
+        },
+        totalInserted: 0,
+        failed: 0,
+        batches: []
+      };
+    }
+
+    const totalQuestions = questionsArray.length;
+    const totalBatches = Math.ceil(totalQuestions / BATCH_SIZE);
+    let totalInserted = 0;
+    let failed = 0;
+    const batches = [];
+
+    // Process in batches
+    for (let i = 0; i < totalQuestions; i += BATCH_SIZE) {
+      const batchNum = Math.floor(i / BATCH_SIZE) + 1;
+      const batch = questionsArray.slice(i, i + BATCH_SIZE);
+      
+      // Prepare batch for insertion
+      const questionsToInsert = batch.map(q => ({
+        subject_id: q.subject_id,
+        subject_name: q.subject_name,
+        question_text: q.question_text,
+        options: q.options,
+        correct_answer: q.correct_answer,
+        question_type: q.question_type || 'MCQ',
+        difficulty: q.difficulty !== undefined ? q.difficulty : 50,
+        is_published: q.is_published !== undefined ? q.is_published : 0,
+        explanation: q.explanation
+      }));
+
+      // Insert batch
+      const { data, error } = await supabase
+        .from('questions')
+        .insert(questionsToInsert)
+        .select();
+
+      if (error) {
+        console.error(`Error inserting batch ${batchNum}:`, error);
+        failed += batch.length;
+        batches.push({
+          batchNum,
+          totalBatches,
+          status: 'failed',
+          inserted: 0,
+          failed: batch.length,
+          error: error.message
+        });
+      } else {
+        const insertedCount = data.length;
+        totalInserted += insertedCount;
+        batches.push({
+          batchNum,
+          totalBatches,
+          status: 'success',
+          inserted: insertedCount,
+          failed: 0,
+          error: null
+        });
+      }
+
+      // Report progress
+      if (onProgress) {
+        onProgress({
+          currentBatch: batchNum,
+          totalBatches,
+          totalQuestions,
+          processed: Math.min(i + BATCH_SIZE, totalQuestions),
+          totalInserted,
+          failed,
+          batches
+        });
+      }
+
+      // Small delay between batches to prevent overwhelming the server
+      if (batchNum < totalBatches) {
+        await new Promise(resolve => setTimeout(resolve, 500));
+      }
+    }
+
+    return {
+      error: null,
+      totalInserted,
+      failed,
+      batches,
+      summary: `Processed ${totalBatches} batches. Inserted ${totalInserted} questions, ${failed} failed.`
+    };
+
+  } catch (error) {
+    console.error('Unexpected error in insertQuestionsBulkBatched:', error);
+    return {
+      error: {
+        message: error.message || 'An unexpected error occurred',
+        code: 'UNEXPECTED_ERROR',
+        details: error.toString()
+      },
+      totalInserted: 0,
+      failed: 0,
+      batches: []
     };
   }
 };
