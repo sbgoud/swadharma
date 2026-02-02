@@ -12,12 +12,18 @@ if (!supabaseUrl || !supabaseAnonKey) {
     );
 }
 
-// Create and export the Supabase client
-// We add a fallback to prevent immediate crash if keys are missing, 
-// to allow the UI to render and show specific error messages instead of a white screen.
+// Create and export the Supabase client with explicit session persistence
 export const supabase = createClient(
-    supabaseUrl || 'https://placeholder-url.supabase.co', 
-    supabaseAnonKey || 'placeholder-key'
+    supabaseUrl, 
+    supabaseAnonKey,
+    {
+        auth: {
+            persistSession: true,
+            detectSessionInUrl: true,
+            autoRefreshToken: true,
+            storage: typeof window !== 'undefined' ? window.localStorage : undefined
+        }
+    }
 );
 
 export default supabase;

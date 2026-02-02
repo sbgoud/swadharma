@@ -1,6 +1,6 @@
 import { createContext, useContext, useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
-import { fetchUserProfile, createUserProfile } from '../services/supabaseService';
+import { fetchUserProfile } from '../services/supabaseService';
 
 const AppContext = createContext();
 
@@ -19,84 +19,72 @@ export const AppProvider = ({ children }) => {
   const [enquiries, setEnquiries] = useState([]);
 
   useEffect(() => {
-    // Check for existing session
-    const checkSession = async () => {
-      try {
-        const { data: { session } } = await supabase.auth.getSession();
-        console.log('AppContext: getSession result:', session);
-        setUser(session?.user || null);
+    let isMounted = true;
 
+    // Subscribe to auth changes FIRST - this will catch the initial session restoration
+    const { data: { subscription } } = supabase.auth.onAuthStateChange(async (event, session) => {
+      console.log('AppContext: Auth state changed:', event, session?.user?.id);
+      
+      if (!isMounted) return;
+
+      if (event === 'INITIAL_SESSION') {
+        // This is the initial session - session is already restored
         if (session?.user) {
-          console.log('AppContext: User session found:', session.user.id);
-          // Fetch user profile
-          const userProfile = await fetchUserProfile(session.user.id);
-          console.log('AppContext: Fetched profile:', userProfile);
-          if (userProfile) {
-            setProfile(userProfile);
-          } else {
-            // Create profile if it doesn't exist - use user_metadata as fallback
-            console.log('AppContext: Creating new profile for user:', session.user.id);
-            console.log('AppContext: User metadata:', session.user.user_metadata);
-            const newProfile = await createUserProfile({
-              id: session.user.id,
-              full_name: session.user.user_metadata?.full_name || '',
-              email: session.user.email,
-              phone_number: session.user.user_metadata?.phone_number || '',
-              city: session.user.user_metadata?.city || '',
-              state: session.user.user_metadata?.state || '',
-              pincode: session.user.user_metadata?.pincode || '',
-              education: session.user.user_metadata?.education || '',
-              date_of_birth: session.user.user_metadata?.date_of_birth || null,
-            });
-            console.log('AppContext: Created profile:', newProfile);
-            setProfile(newProfile);
-          }
+          setUser(session.user);
+          fetchUserProfileAndSet(session.user);
         } else {
-          console.log('AppContext: No user session found');
+          setLoading(false);
         }
-      } catch (error) {
-        console.error('AppContext: Error checking session:', error);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    checkSession();
-
-    // Subscribe to auth changes
-    const { data: { subscription } } = supabase.auth.onAuthStateChange(async (_event, session) => {
-      setUser(session?.user || null);
-
-      if (session?.user) {
-        console.log('AppContext: Auth state change - User found:', session.user.id);
-        const userProfile = await fetchUserProfile(session.user.id);
-        console.log('AppContext: Auth state change - Fetched profile:', userProfile);
-        if (userProfile) {
-          setProfile(userProfile);
-        } else {
-          console.log('AppContext: Auth state change - Creating new profile');
-          console.log('AppContext: Auth state change - User metadata:', session.user.user_metadata);
-          const newProfile = await createUserProfile({
-            id: session.user.id,
-            full_name: session.user.user_metadata?.full_name || '',
-            email: session.user.email,
-            phone_number: session.user.user_metadata?.phone_number || '',
-            city: session.user.user_metadata?.city || '',
-            state: session.user.user_metadata?.state || '',
-            pincode: session.user.user_metadata?.pincode || '',
-            education: session.user.user_metadata?.education || '',
-            date_of_birth: session.user.user_metadata?.date_of_birth || null,
-          });
-          console.log('AppContext: Auth state change - Created profile:', newProfile);
-          setProfile(newProfile);
-        }
-      } else {
-        console.log('AppContext: Auth state change - No user session');
+      } else if (event === 'SIGNED_IN' && session?.user) {
+        setUser(session.user);
+        fetchUserProfileAndSet(session.user);
+      } else if (event === 'SIGNED_OUT') {
+        setUser(null);
         setProfile(null);
+        setLoading(false);
       }
     });
 
-    return () => subscription.unsubscribe();
+    // Helper function to fetch user profile
+    const fetchUserProfileAndSet = async (user) => {
+      try {
+        const userProfile = await fetchUserProfile(user.id);
+        console.log('AppContext: Fetched profile:', userProfile);
+        if (userProfile) {
+          setProfile(userProfile);
+        } else {
+          // Profile doesn't exist in database - use user metadata as fallback
+          // Note: createUserProfile is not called since RLS only allows SELECT
+          // Profile should be created during signup via Edge Function
+          console.log('AppContext: Profile not found, using user metadata');
+          const metadata = user.user_metadata || {};
+          const profileFromMetadata = {
+            id: user.id,
+            full_name: metadata.full_name || '',
+            email: user.email,
+            phone_number: metadata.phone_number || '',
+            city: metadata.city || '',
+            state: metadata.state || '',
+            pincode: metadata.pincode || '',
+            education: metadata.education || '',
+            date_of_birth: metadata.date_of_birth || null,
+            course: metadata.course || '',
+          };
+          setProfile(profileFromMetadata);
+        }
+      } catch (error) {
+        console.error('AppContext: Error fetching profile:', error);
+      } finally {
+        if (isMounted) {
+          setLoading(false);
+        }
+      }
+    };
+
+    return () => {
+      isMounted = false;
+      subscription.unsubscribe();
+    };
   }, []);
 
   const logout = async () => {
@@ -111,23 +99,20 @@ export const AppProvider = ({ children }) => {
     // the tokens would remain and auto-login would happen on refresh.
     try {
       console.log('Clearing local storage tokens...');
-      // Clear all items starting with 'sb-' (Supabase default prefix)
-      // or just clear everything if we want to be nuking it.
-      // Let's be safer but effective: clear everything auth related.
+      // Only clear Supabase auth-related tokens, not everything
+      // This preserves any other app data while ensuring auth state is cleared
       const keysToRemove = [];
       for (let i = 0; i < localStorage.length; i++) {
         const key = localStorage.key(i);
-        if (key && (key.startsWith('sb-') || key.includes('supabase'))) {
+        if (key && (key.startsWith('sb-') || key.includes('supabase') || key.includes('auth'))) {
           keysToRemove.push(key);
         }
       }
-      keysToRemove.forEach(key => localStorage.removeItem(key));
-
-      // Also clear everything just in case, if the user was having issues with 'clearing' before
-      // it might be cleaner to just wipe it to ensure fresh state.
-      // Since the user is specifically having trouble with Persistence, let's just wipe it.
-      localStorage.clear();
-      console.log('Local storage cleared');
+      keysToRemove.forEach(key => {
+        localStorage.removeItem(key);
+        console.log('Removed:', key);
+      });
+      console.log('Auth tokens cleared');
     } catch (e) {
       console.error('Error clearing local storage:', e);
     }

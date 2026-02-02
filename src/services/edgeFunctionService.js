@@ -1,9 +1,12 @@
+import { supabase } from '../lib/supabase';
+
 /**
  * Edge Function Service
  * Handles communication with Supabase Edge Functions
  */
 
 const EDGE_FUNCTION_URL = import.meta.env.VITE_EDGE_FUNCTION_URL || 'https://dpaokhpqhchmfsuuwfmy.supabase.co/functions/v1/create-user';
+const UPDATE_USER_PROFILE_FUNCTION_URL = import.meta.env.VITE_UPDATE_USER_PROFILE_FUNCTION_URL || 'https://dpaokhpqhchmfsuuwfmy.supabase.co/functions/v1/update-user-profile';
 
 /**
  * Create a new user account via Edge Function
@@ -155,10 +158,47 @@ export const handleEdgeFunctionError = (error) => {
   };
 };
 
+/**
+ * Update user profile via Edge Function
+ * @param {string} userId - User ID
+ * @param {Object} profileData - Profile data to update
+ * @returns {Promise<Object>} - Response from Edge Function
+ */
+export const updateUserProfile = async (userId, profileData) => {
+  // Get the current user's session
+  const { data: { session } } = await supabase.auth.getSession();
+  
+  const headers = {
+    'Content-Type': 'application/json',
+  };
+  
+  // Include authorization header if user is logged in
+  if (session?.access_token) {
+    headers['Authorization'] = `Bearer ${session.access_token}`;
+  }
+
+  const response = await fetch(UPDATE_USER_PROFILE_FUNCTION_URL, {
+    method: 'POST',
+    headers,
+    body: JSON.stringify({
+      user_id: userId,
+      profile_data: profileData
+    })
+  });
+
+  if (!response.ok) {
+    const errorData = await response.json();
+    throw new Error(errorData.message || 'Failed to update profile');
+  }
+
+  return await response.json();
+};
+
 export default {
   createUserAccount,
   createUserAccountWithRetry,
   validateUserData,
   formatUserDataForEdgeFunction,
-  handleEdgeFunctionError
+  handleEdgeFunctionError,
+  updateUserProfile
 };

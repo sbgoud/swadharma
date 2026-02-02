@@ -1,63 +1,38 @@
+// User related functions
 import { supabase } from '../lib/supabase';
 
-// User related functions
 export const fetchUserProfile = async (userId) => {
-  console.log('fetchUserProfile: Fetching profile for user ID:', userId);
-  const { data, error } = await supabase
-    .from('users')
-    .select('*')
-    .eq('id', userId)
-    .single();
-
-  if (error) {
-    console.error('fetchUserProfile: Error fetching user profile:', error);
-    console.error('fetchUserProfile: Error code:', error.code);
-    console.error('fetchUserProfile: Error message:', error.message);
-    console.error('fetchUserProfile: Error details:', error.details);
-    console.error('fetchUserProfile: Error hint:', error.hint);
-    return null;
-  }
-
-  if (!data) {
-    console.warn('fetchUserProfile: No data returned (data is null/undefined)');
-    return null;
-  }
-
-  console.log('fetchUserProfile: Successfully fetched profile:', data);
-  console.log('fetchUserProfile: Profile data type:', typeof data);
-  console.log('fetchUserProfile: Profile keys:', data ? Object.keys(data) : 'N/A');
-  console.log('fetchUserProfile: Profile phone_number:', data?.phone_number);
-  console.log('fetchUserProfile: Profile phone:', data?.phone);
-  console.log('fetchUserProfile: Profile full_name:', data?.full_name);
-  console.log('fetchUserProfile: Profile name:', data?.name);
-  console.log('fetchUserProfile: Profile email:', data?.email);
-  return data;
-};
-
-export const updateUserProfile = async (userId, profileData) => {
-  console.log('updateUserProfile: Updating profile for user ID:', userId);
-  console.log('updateUserProfile: Profile data to update:', profileData);
-  
   try {
     const { data, error } = await supabase
       .from('users')
-      .update(profileData)
+      .select('*')
       .eq('id', userId)
-      .select();
+      .single();
 
-    if (error) {
-      console.error('updateUserProfile: Error updating user profile:', error);
-      console.error('updateUserProfile: Error code:', error.code);
-      console.error('updateUserProfile: Error message:', error.message);
-      return null;
-    }
+    if (error) throw error;
+    return data;
+  } catch (error) {
+    console.error('Error fetching user profile:', error);
+    return null;
+  }
+};
 
-    // Return first item from array or null if empty
-    const result = data && data.length > 0 ? data[0] : null;
-    console.log('updateUserProfile: Successfully updated profile:', result);
-    return result;
-  } catch (err) {
-    console.error('updateUserProfile: Unexpected error:', err);
+export const updateUserProfile = async (userId, profileData) => {
+  try {
+    const { data, error } = await supabase
+      .from('users')
+      .upsert({ 
+        id: userId, 
+        ...profileData,
+        updated_at: new Date().toISOString() 
+      })
+      .select()
+      .single();
+
+    if (error) throw error;
+    return data;
+  } catch (error) {
+    console.error('Error updating profile:', error);
     return null;
   }
 };
