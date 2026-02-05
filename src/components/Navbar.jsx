@@ -43,7 +43,6 @@ import ThemeToggle from './ThemeToggle';
   ];
 
   const loggedInLinks = [
-    { name: 'My Courses', path: '/my-courses', icon: <Book size={16} /> },
     { name: 'Write a New Test', path: '/write-test', icon: <PenTool size={16} /> },
     { name: 'Test Results', path: '/test-results', icon: <BookOpen size={16} /> },
     { name: 'Profile', path: '/profile', icon: <User size={16} /> },

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Card from '../components/Card';
 import { User, Mail, Phone, Edit, Save, X } from 'lucide-react';
 import { useApp } from '../context/AppContext';
-import { updateUserProfile } from '../services/edgeFunctionService';
+import { updateUserProfile } from '../services/supabaseService';
 import { useToast } from '../components/Toast';
 
 const Profile = () => {
@@ -23,36 +23,37 @@ const Profile = () => {
     education: '',
     date_of_birth: '',
     course: '',
+    user_id: '',
   });
 
   useEffect(() => {
     const loadProfile = async () => {
       if (user) {
-        const metadata = user.user_metadata || {};
-
         let initialData = {
-          name: metadata.full_name || '',
-          email: user.email || metadata.email || '',
-          phone: metadata.phone_number || '',
-          city: metadata.city || '',
-          state: metadata.state || '',
-          pincode: metadata.pincode || '',
-          education: metadata.education || '',
-          date_of_birth: metadata.date_of_birth || '',
-          course: metadata.course || '',
+          name: '',
+          email: user.email || '',
+          phone: '',
+          city: '',
+          state: '',
+          pincode: '',
+          education: '',
+          date_of_birth: '',
+          course: '',
+          user_id: '',
         };
 
         if (profile) {
           initialData = {
-            name: profile.full_name || metadata.full_name || '',
+            name: profile.full_name || '',
             email: profile.email || user.email || '',
-            phone: profile.phone_number || metadata.phone_number || '',
-            city: profile.city || metadata.city || '',
-            state: profile.state || metadata.state || '',
-            pincode: profile.pincode || metadata.pincode || '',
-            education: profile.education || metadata.education || '',
-            date_of_birth: profile.date_of_birth || metadata.date_of_birth || '',
-            course: profile.course || metadata.course || '',
+            phone: profile.phone_number || '',
+            city: profile.city || '',
+            state: profile.state || '',
+            pincode: profile.pincode || '',
+            education: profile.education || '',
+            date_of_birth: profile.date_of_birth || '',
+            course: profile.course || '',
+            user_id: profile.user_id || '',
           };
         }
         setProfileData(initialData);
@@ -147,46 +148,52 @@ const Profile = () => {
     return isValid;
   };
 
-  const handleSave = async () => {
-    if (!user) return;
+   const handleSave = async () => {
+     if (!user) return;
 
-    // Validate all fields before saving
-    if (!validateAllFields()) {
-      toast.error('Please fix the errors before saving');
-      return;
-    }
+     // Validate all fields before saving
+     if (!validateAllFields()) {
+       toast.error('Please fix the errors before saving');
+       return;
+     }
 
-    setSaving(true);
+     setSaving(true);
 
-    try {
-      const profileDataToUpdate = {
-        full_name: profileData.name,
-        phone_number: profileData.phone,
-        city: profileData.city,
-        state: profileData.state,
-        pincode: profileData.pincode,
-        education: profileData.education,
-        date_of_birth: profileData.date_of_birth,
-        course: profileData.course,
-      };
+     try {
+        const profileDataToUpdate = {
+          full_name: profileData.name,
+          email: profileData.email, // Required field
+          phone_number: profileData.phone,
+          city: profileData.city,
+          state: profileData.state,
+          pincode: profileData.pincode,
+          education: profileData.education,
+          date_of_birth: profileData.date_of_birth,
+          course: profileData.course,
+        };
 
-      const result = await updateUserProfile(user.id, profileDataToUpdate);
+       console.log('Attempting to update profile with data:', profileDataToUpdate);
+       
+       const updatedProfile = await updateUserProfile(user.id, profileDataToUpdate);
+       
+       console.log('Update response:', updatedProfile);
 
-      if (result && result.success && result.profile) {
-        setProfile(result.profile);
-        setEditMode(false);
-        setOriginalData(null);
-        toast.success('Profile updated successfully');
-      } else {
-        throw new Error('Update failed');
-      }
-    } catch (error) {
-      console.error('Save error:', error);
-      toast.error(error.message || 'Failed to update profile');
-    } finally {
-      setSaving(false);
-    }
-  };
+       if (updatedProfile) {
+         setProfile(updatedProfile);
+         setEditMode(false);
+         setOriginalData(null);
+         toast.success('Profile updated successfully');
+       } else {
+         throw new Error('Update failed');
+       }
+     } catch (error) {
+       console.error('Save error:', error);
+       console.error('Error details:', JSON.stringify(error, null, 2));
+       toast.error(error.message || 'Failed to update profile');
+     } finally {
+       setSaving(false);
+     }
+   };
 
   const handleCancel = () => {
     setEditMode(false);
@@ -235,6 +242,10 @@ const Profile = () => {
                 <p className="text-gray-700 flex items-center justify-center sm:justify-start gap-2">
                   <Phone size={18} className="text-blue-600" />
                   <span className="font-medium">{profileData.phone || 'No phone number'}</span>
+                </p>
+                <p className="text-gray-700 flex items-center justify-center sm:justify-start gap-2">
+                  <User size={18} className="text-blue-600" />
+                  <span className="font-medium font-mono text-sm">{profileData.user_id || 'No user ID'}</span>
                 </p>
               </div>
             </div>

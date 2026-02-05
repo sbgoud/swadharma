@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
 import { useNavigate, Navigate } from 'react-router-dom';
-import { Mail, Lock, Check, AlertCircle, Eye, EyeOff, ArrowLeft, User, Calendar, MapPin, Phone, RefreshCw } from 'lucide-react';
+import { Mail, Lock, Check, AlertCircle, Eye, EyeOff, ArrowLeft, RefreshCw } from 'lucide-react';
 import Card from '../components/Card';
 import Button from '../components/Button';
-import { createUserAccount, validateUserData } from '../services/edgeFunctionService';
 import { useApp } from '../context/AppContext';
 
 const Login = () => {
@@ -14,13 +13,8 @@ const Login = () => {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
     const [confirmPassword, setConfirmPassword] = useState('');
-    const [fullName, setFullName] = useState('');
-    const [dateOfBirth, setDateOfBirth] = useState('');
-    const [address, setAddress] = useState('');
-    const [phoneNumber, setPhoneNumber] = useState('');
     const [showPassword, setShowPassword] = useState(false);
     const [showConfirmPassword, setShowConfirmPassword] = useState(false);
-    const [termsAccepted, setTermsAccepted] = useState(false);
     const [isSignUp, setIsSignUp] = useState(false);
     const [message, setMessage] = useState(null);
     const [error, setError] = useState(null);
@@ -64,16 +58,8 @@ const Login = () => {
         try {
             if (isSignUp) {
                 // Validate form fields
-                if (!fullName || !dateOfBirth || !address || !phoneNumber) {
-                    throw new Error('All fields are required');
-                }
-
                 if (password !== confirmPassword) {
                     throw new Error('Passwords do not match');
-                }
-
-                if (!termsAccepted) {
-                    throw new Error('You must accept the terms and conditions');
                 }
 
                 // Validate email address
@@ -88,58 +74,15 @@ const Login = () => {
                     throw new Error('Password must be at least 8 characters and include at least one lowercase letter, one uppercase letter, and one special character');
                 }
 
-                // Validate phone number (10 digits only)
-                const phoneRegex = /^\d{10}$/;
-                if (!phoneRegex.test(phoneNumber)) {
-                    throw new Error('Phone number must be exactly 10 digits');
-                }
-
                 // Create auth user using anon key
                 const { data: authData, error: authError } = await supabase.auth.signUp({
                     email,
-                    password,
-                    options: {
-                        data: {
-                            full_name: fullName,
-                            date_of_birth: dateOfBirth,
-                            address,
-                            phone_number: phoneNumber
-                        }
-                    }
+                    password
                 });
 
                 if (authError) throw authError;
 
-                // Get user ID from auth response
-                const userId = authData.user?.id;
-                if (!userId) {
-                    throw new Error('User ID not found after creation');
-                }
-
-                // Call Edge Function to create user profile in database
-                const edgeFunctionUrl = import.meta.env.VITE_EDGE_FUNCTION_URL || 'https://dpaokhpqhchmfsuuwfmy.supabase.co/functions/v1/create-user';
-                const response = await fetch(edgeFunctionUrl, {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                    body: JSON.stringify({
-                        user_id: userId,
-                        email: email,
-                        full_name: fullName,
-                        date_of_birth: dateOfBirth,
-                        address: address,
-                        phone_number: `+91${phoneNumber}`
-                    })
-                });
-
-                const profileData = await response.json();
-
-                if (!response.ok || !profileData.success) {
-                    throw new Error(profileData?.message || 'Failed to create user profile');
-                }
-
-                setMessage('Account created successfully! Please check your email to verify your account.');
+                setMessage('Account created successfully! Please check your email and click on the verification link.');
                 // Redirect to login page after delay
                 setTimeout(() => {
                     setIsSignUp(false);
@@ -243,93 +186,6 @@ const Login = () => {
                             </div>
                         )}
 
-                        {isSignUp && (
-                            <>
-                                <div>
-                                    <label htmlFor="fullName" className="block text-sm font-medium text-gray-700 mb-1">Full Name</label>
-                                    <div className="relative">
-                                        <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                            <User className="h-5 w-5 text-gray-400" />
-                                        </div>
-                                        <input
-                                            id="fullName"
-                                            name="fullName"
-                                            type="text"
-                                            required
-                                            value={fullName}
-                                            onChange={(e) => setFullName(e.target.value)}
-                                            className="block w-full pl-10 pr-3 py-2.5 border border-gray-300 rounded-lg text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent sm:text-sm"
-                                            placeholder="John Doe"
-                                        />
-                                    </div>
-                                </div>
-
-                                <div>
-                                    <label htmlFor="dateOfBirth" className="block text-sm font-medium text-gray-700 mb-1">Date of Birth</label>
-                                    <div className="relative">
-                                        <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                            <Calendar className="h-5 w-5 text-gray-400" />
-                                        </div>
-                                        <input
-                                            id="dateOfBirth"
-                                            name="dateOfBirth"
-                                            type="date"
-                                            required
-                                            value={dateOfBirth}
-                                            onChange={(e) => setDateOfBirth(e.target.value)}
-                                            className="block w-full pl-10 pr-3 py-2.5 border border-gray-300 rounded-lg text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent sm:text-sm"
-                                        />
-                                    </div>
-                                </div>
-
-                                <div>
-                                    <label htmlFor="address" className="block text-sm font-medium text-gray-700 mb-1">Address</label>
-                                    <div className="relative">
-                                        <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                            <MapPin className="h-5 w-5 text-gray-400" />
-                                        </div>
-                                        <input
-                                            id="address"
-                                            name="address"
-                                            type="text"
-                                            required
-                                            value={address}
-                                            onChange={(e) => setAddress(e.target.value)}
-                                            className="block w-full pl-10 pr-3 py-2.5 border border-gray-300 rounded-lg text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent sm:text-sm"
-                                            placeholder="123 Main St, City, State, Zip"
-                                        />
-                                    </div>
-                                </div>
-
-                                <div>
-                                    <label htmlFor="phoneNumber" className="block text-sm font-medium text-gray-700 mb-1">Phone Number</label>
-                                    <div className="relative">
-                                        <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                            <Phone className="h-5 w-5 text-gray-400" />
-                                        </div>
-                                        <div className="absolute inset-y-0 left-10 flex items-center pointer-events-none">
-                                            <span className="text-gray-500 text-sm">+91</span>
-                                        </div>
-                                        <input
-                                            id="phoneNumber"
-                                            name="phoneNumber"
-                                            type="tel"
-                                            required
-                                            value={phoneNumber}
-                                            onChange={(e) => {
-                                                const value = e.target.value.replace(/\D/g, '').slice(0, 10);
-                                                setPhoneNumber(value);
-                                            }}
-                                            className="block w-full pl-16 pr-3 py-2.5 border border-gray-300 rounded-lg text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent sm:text-sm"
-                                            placeholder="1234567890"
-                                            maxLength={10}
-                                        />
-                                    </div>
-                                    <p className="mt-1 text-xs text-gray-500">Enter 10-digit phone number</p>
-                                </div>
-                            </>
-                        )}
-
                         <div>
                             <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-1">Email address</label>
                             <div className="relative">
@@ -408,30 +264,6 @@ const Login = () => {
                                             <Eye className="h-5 w-5 text-gray-400" />
                                         )}
                                     </button>
-                                </div>
-                            </div>
-                        )}
-
-                        {isSignUp && (
-                            <div className="flex items-start">
-                                <div className="flex items-center h-5">
-                                    <input
-                                        id="terms"
-                                        name="terms"
-                                        type="checkbox"
-                                        required
-                                        checked={termsAccepted}
-                                        onChange={(e) => setTermsAccepted(e.target.checked)}
-                                        className="focus:ring-blue-500 h-4 w-4 text-blue-600 border-gray-300 rounded"
-                                    />
-                                </div>
-                                <div className="ml-3 text-sm">
-                                    <label htmlFor="terms" className="font-medium text-gray-700">
-                                        I agree to the{" "}
-                                        <a href="/terms" className="text-blue-600 hover:text-blue-500 underline">
-                                            Terms and Conditions
-                                        </a>
-                                    </label>
                                 </div>
                             </div>
                         )}

@@ -19,20 +19,77 @@ export const fetchUserProfile = async (userId) => {
 
 export const updateUserProfile = async (userId, profileData) => {
   try {
-    const { data, error } = await supabase
+    console.log('updateUserProfile called with userId:', userId);
+    console.log('updateUserProfile called with profileData:', profileData);
+    
+    // Filter out empty string values to avoid database errors
+    const filteredProfileData = Object.entries(profileData).reduce((acc, [key, value]) => {
+      if (value !== '' && value !== null && value !== undefined) {
+        acc[key] = value;
+      }
+      return acc;
+    }, {});
+
+    // First, check if the user exists
+    const { data: existingUser, error: fetchError } = await supabase
       .from('users')
-      .upsert({ 
-        id: userId, 
-        ...profileData,
-        updated_at: new Date().toISOString() 
-      })
-      .select()
+      .select('*')
+      .eq('id', userId)
       .single();
 
-    if (error) throw error;
-    return data;
+    if (fetchError && fetchError.code !== 'PGRST116') { // PGRST116 is "no rows returned"
+      console.error('Error checking existing user:', fetchError);
+      throw fetchError;
+    }
+
+    if (existingUser) {
+      // Update existing user
+      console.log('Updating existing user');
+      const { data: updatedData, error: updateError } = await supabase
+        .from('users')
+        .update({ 
+          ...filteredProfileData,
+          updated_at: new Date().toISOString() 
+        })
+        .eq('id', userId)
+        .select()
+        .single();
+
+      if (updateError) {
+        console.error('Error updating user:', updateError);
+        throw updateError;
+      }
+      
+      console.log('Profile updated successfully:', updatedData);
+      return updatedData;
+    } else {
+      // Create new user
+      console.log('Creating new user');
+      const { data: newData, error: insertError } = await supabase
+        .from('users')
+        .insert([{ 
+          id: userId, 
+          ...filteredProfileData,
+          email: filteredProfileData.email || '', // Required field
+          full_name: filteredProfileData.full_name || '', // Required field
+          updated_at: new Date().toISOString() 
+        }])
+        .select()
+        .single();
+
+      if (insertError) {
+        console.error('Error creating user:', insertError);
+        throw insertError;
+      }
+      
+      console.log('Profile created successfully:', newData);
+      return newData;
+    }
   } catch (error) {
     console.error('Error updating profile:', error);
+    console.error('Error code:', error.code);
+    console.error('Error message:', error.message);
+    console.error('Error details:', error.details);
     return null;
   }
 };

@@ -13,7 +13,6 @@ const About = lazy(() => import('./pages/About'));
 const Courses = lazy(() => import('./pages/Courses'));
 const Contact = lazy(() => import('./pages/Contact'));
 const Login = lazy(() => import('./pages/Login'));
-const MyCourses = lazy(() => import('./pages/MyCourses'));
 const WriteTest = lazy(() => import('./pages/WriteTest'));
 const TestResults = lazy(() => import('./pages/TestResults'));
 const Profile = lazy(() => import('./pages/Profile'));
@@ -21,6 +20,7 @@ const InitializeDb = lazy(() => import('./pages/InitializeDb'));
 const CheckColumns = lazy(() => import('./pages/CheckColumns'));
 const AddQuestions = lazy(() => import('./pages/AddQuestions'));
 const AddQuestionsBulk = lazy(() => import('./pages/AddQuestionsBulk'));
+const Checkout = lazy(() => import('./pages/Checkout'));
 
 // Loading component for Suspense fallback
 const PageLoader = () => (
@@ -67,7 +67,6 @@ function App() {
                   <Route path="/courses" element={<Courses />} />
                   <Route path="/contact" element={<Contact />} />
                   <Route path="/login" element={<Login />} />
-                  <Route path="/my-courses" element={<MyCourses />} />
                   <Route path="/write-test" element={<WriteTest />} />
                   <Route path="/test-results" element={<TestResults />} />
                   <Route path="/profile" element={<Profile />} />
@@ -76,6 +75,7 @@ function App() {
                   <Route path="/check-columns" element={<CheckColumns />} />
                   <Route path="/add-questions" element={<AddQuestions />} />
                   <Route path="/add-questions-bulk" element={<AddQuestionsBulk />} />
+                  <Route path="/checkout" element={<Checkout />} />
                 </Routes>
               </Suspense>
             </Layout>

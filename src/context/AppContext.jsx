@@ -53,27 +53,14 @@ export const AppProvider = ({ children }) => {
         if (userProfile) {
           setProfile(userProfile);
         } else {
-          // Profile doesn't exist in database - use user metadata as fallback
-          // Note: createUserProfile is not called since RLS only allows SELECT
-          // Profile should be created during signup via Edge Function
-          console.log('AppContext: Profile not found, using user metadata');
-          const metadata = user.user_metadata || {};
-          const profileFromMetadata = {
-            id: user.id,
-            full_name: metadata.full_name || '',
-            email: user.email,
-            phone_number: metadata.phone_number || '',
-            city: metadata.city || '',
-            state: metadata.state || '',
-            pincode: metadata.pincode || '',
-            education: metadata.education || '',
-            date_of_birth: metadata.date_of_birth || null,
-            course: metadata.course || '',
-          };
-          setProfile(profileFromMetadata);
+          // Profile doesn't exist in database - this should only happen if
+          // the user was created before the public.users table was set up
+          console.log('AppContext: Profile not found in public.users table');
+          setProfile(null);
         }
       } catch (error) {
         console.error('AppContext: Error fetching profile:', error);
+        setProfile(null);
       } finally {
         if (isMounted) {
           setLoading(false);

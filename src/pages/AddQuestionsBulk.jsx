@@ -38,6 +38,7 @@ const AddQuestionsBulk = () => {
     {id:25,name:"upsc_Science_and_Technology"},
     {id:26,name:"upsc_Current_Events_National"},
     {id:27,name:"upsc_Current_Events_International"},
+    {id: 28,name: "upsc_International_Organizations_and_Institutions"},
     {id:121,name:"upscp2_Reading_Comprehension"},
     {id:122,name:"upscp2_Interpersonal_Skills_and_Communication"},
     {id:123,name:"upscp2_Logical_Reasoning"},
