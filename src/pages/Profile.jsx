@@ -76,13 +76,13 @@ const Profile = () => {
         }
         break;
       case 'phone':
-        if (value && value.trim().length > 0) {
-          const phoneRegex = /^\+?[\d\s\-\(\)]+$/;
-          if (!phoneRegex.test(value)) {
-            error = 'Please enter a valid phone number';
-          }
-        }
-        break;
+         if (value && value.trim().length > 0) {
+           const phoneRegex = /^\+91\d{10}$/;
+           if (!phoneRegex.test(value)) {
+             error = 'Please enter a valid phone number starting with +91 followed by 10 digits';
+           }
+         }
+         break;
       case 'pincode':
         if (value && value.trim().length > 0) {
           const pincodeRegex = /^\d{5,6}$/;
@@ -128,9 +128,9 @@ const Profile = () => {
 
     // Validate phone
     if (profileData.phone && profileData.phone.trim().length > 0) {
-      const phoneRegex = /^\+?[\d\s\-\(\)]+$/;
+      const phoneRegex = /^\+91\d{10}$/;
       if (!phoneRegex.test(profileData.phone)) {
-        newErrors.phone = 'Please enter a valid phone number';
+        newErrors.phone = 'Please enter a valid phone number starting with +91 followed by 10 digits';
         isValid = false;
       }
     }

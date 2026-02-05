@@ -1,6 +1,6 @@
 import { createContext, useContext, useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
-import { fetchUserProfile } from '../services/supabaseService';
+import { fetchUserProfile, createUserProfile } from '../services/supabaseService';
 
 const AppContext = createContext();
 
@@ -53,10 +53,16 @@ export const AppProvider = ({ children }) => {
         if (userProfile) {
           setProfile(userProfile);
         } else {
-          // Profile doesn't exist in database - this should only happen if
-          // the user was created before the public.users table was set up
-          console.log('AppContext: Profile not found in public.users table');
-          setProfile(null);
+          // Profile doesn't exist in database - create a new one
+          console.log('AppContext: Profile not found in public.users table - creating new profile');
+          const newProfile = await createUserProfile(user.id, user.email);
+          if (newProfile) {
+            console.log('AppContext: New profile created successfully:', newProfile);
+            setProfile(newProfile);
+          } else {
+            console.error('AppContext: Failed to create new profile');
+            setProfile(null);
+          }
         }
       } catch (error) {
         console.error('AppContext: Error fetching profile:', error);

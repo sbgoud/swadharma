@@ -94,11 +94,84 @@ export const updateUserProfile = async (userId, profileData) => {
   }
 };
 
-export const createUserProfile = async (userData) => {
-  console.log('createUserProfile: Creating profile with data:', userData);
+// Coupons related functions
+export const validateCoupon = async (couponCode, currentAmount = 0) => {
+  try {
+    const { data, error } = await supabase
+      .from('coupons')
+      .select('*')
+      .eq('code', couponCode.toUpperCase())
+      .eq('is_active', true)
+      .single();
+
+    if (error) {
+      console.error('Error validating coupon:', error);
+      return null;
+    }
+
+    // Check if coupon has expired
+    if (data.expiry_date && new Date(data.expiry_date) < new Date()) {
+      console.log('Coupon expired:', data.code);
+      return null;
+    }
+
+    // Check if minimum amount condition is met
+    if (data.minimum_amount && currentAmount < data.minimum_amount) {
+      console.log('Coupon minimum amount not met:', data.code);
+      console.log(`Current amount: ${currentAmount}, Minimum required: ${data.minimum_amount}`);
+      return null;
+    }
+
+    return data;
+  } catch (error) {
+    console.error('Error validating coupon:', error);
+    return null;
+  }
+};
+
+export const fetchAllCoupons = async () => {
+  try {
+    const { data, error } = await supabase
+      .from('coupons')
+      .select('*')
+      .eq('is_active', true)
+      .order('created_at', { ascending: false });
+
+    if (error) {
+      console.error('Error fetching coupons:', error);
+      return [];
+    }
+
+    // Filter out expired coupons
+    const now = new Date();
+    const activeCoupons = data.filter(coupon => {
+      return !coupon.expiry_date || new Date(coupon.expiry_date) > now;
+    });
+
+    return activeCoupons;
+  } catch (error) {
+    console.error('Error fetching coupons:', error);
+    return [];
+  }
+};
+
+export const createUserProfile = async (userId, email) => {
+  console.log('createUserProfile: Creating basic profile for userId:', userId, 'email:', email);
   const { data, error } = await supabase
     .from('users')
-    .insert([userData])
+    .insert([{
+      id: userId,
+      email: email,
+      full_name: '',
+      phone_number: null,
+      city: null,
+      state: null,
+      pincode: null,
+      education: null,
+      date_of_birth: null,
+      course: null,
+      updated_at: new Date().toISOString()
+    }])
     .select()
     .single();
 
