@@ -71,8 +71,11 @@ const baseComponents = {
         borderRadius: 20,
         backgroundImage: 'none',
         border: '1px solid',
-        borderColor: 'rgba(15, 23, 42, 0.08)',
-        boxShadow: '0 1px 2px rgba(15, 23, 42, 0.04), 0 12px 32px -24px rgba(15, 23, 42, 0.35)',
+        borderColor: 'divider',
+        boxShadow: (theme) =>
+          theme.palette.mode === 'dark'
+            ? '0 1px 2px rgba(0, 0, 0, 0.4), 0 18px 40px -28px rgba(0, 0, 0, 0.9)'
+            : '0 1px 2px rgba(15, 23, 42, 0.04), 0 12px 32px -24px rgba(15, 23, 42, 0.35)',
         transition: 'transform 250ms ease, box-shadow 250ms ease, border-color 250ms ease',
         backgroundColor: 'background.paper',
       },
@@ -90,7 +93,7 @@ const baseComponents = {
         borderRadius: 12,
         backgroundColor: 'background.paper',
         transition: 'box-shadow 200ms ease',
-        '& .MuiOutlinedInput-notchedOutline': { borderColor: 'rgba(15, 23, 42, 0.14)' },
+        '& .MuiOutlinedInput-notchedOutline': { borderColor: 'divider' },
         '&:hover .MuiOutlinedInput-notchedOutline': { borderColor: 'rgba(79, 70, 229, 0.5)' },
         '&.Mui-focused': { boxShadow: `0 0 0 4px ${alpha(brand.indigo, 0.14)}` },
       },
@@ -118,9 +121,11 @@ const baseComponents = {
     defaultProps: { elevation: 0, color: 'transparent' },
     styleOverrides: {
       root: {
-        backgroundColor: 'rgba(255, 255, 255, 0.82)',
+        backgroundColor: (theme) =>
+          theme.palette.mode === 'dark' ? 'rgba(11, 16, 32, 0.82)' : 'rgba(255, 255, 255, 0.82)',
         backdropFilter: 'blur(14px)',
-        borderBottom: '1px solid rgba(15, 23, 42, 0.08)',
+        borderBottom: '1px solid',
+        borderColor: 'divider',
         color: 'text.primary',
       },
     },
@@ -149,7 +154,7 @@ const baseComponents = {
       root: {
         textTransform: 'none',
         fontWeight: 600,
-        borderColor: 'rgba(15, 23, 42, 0.12)',
+        borderColor: 'divider',
         '&.Mui-selected': {
           backgroundColor: alpha(brand.indigo, 0.1),
           color: brand.indigoDark,
@@ -159,14 +164,19 @@ const baseComponents = {
   },
   MuiToggleButtonGroup: {
     styleOverrides: {
-      root: { borderRadius: 12, gap: 6, '& .MuiToggleButtonGroup-grouped': { border: '1px solid rgba(15,23,42,0.12)' } },
+      root: {
+        borderRadius: 12,
+        gap: 6,
+        '& .MuiToggleButtonGroup-grouped': { border: '1px solid', borderColor: 'divider' },
+      },
     },
   },
   MuiAccordion: {
     styleOverrides: {
       root: {
         borderRadius: '16px !important',
-        border: '1px solid rgba(15, 23, 42, 0.08)',
+        border: '1px solid',
+        borderColor: 'divider',
         boxShadow: 'none',
         overflow: 'hidden',
         '&::before': { display: 'none' },
@@ -202,12 +212,12 @@ const baseComponents = {
   },
   MuiTableCell: {
     styleOverrides: {
-      root: { borderColor: 'rgba(15, 23, 42, 0.07)' },
+      root: { borderColor: 'divider' },
       head: { fontWeight: 700, fontSize: '0.78rem', letterSpacing: '0.04em', textTransform: 'uppercase' },
     },
   },
   MuiSkeleton: { styleOverrides: { root: { borderRadius: 12 } } },
-  MuiDivider: { styleOverrides: { root: { borderColor: 'rgba(15, 23, 42, 0.08)' } } },
+  MuiDivider: { styleOverrides: { root: { borderColor: 'divider' } } },
   MuiMenuItem: { styleOverrides: { root: { borderRadius: 10, marginInline: 6 } } },
   MuiListItemButton: { styleOverrides: { root: { borderRadius: 12 } } },
   MuiSlider: {
