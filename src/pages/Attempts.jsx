@@ -1,7 +1,27 @@
 import { useEffect, useMemo, useState } from 'react';
-import { Link } from 'react-router-dom';
-import { History, Loader2, PlayCircle, TrendingUp } from 'lucide-react';
+import { Link as RouterLink } from 'react-router-dom';
+import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import Chip from '@mui/material/Chip';
+import Container from '@mui/material/Container';
+import Grid from '@mui/material/Grid';
+import LinearProgress from '@mui/material/LinearProgress';
+import Stack from '@mui/material/Stack';
+import ToggleButton from '@mui/material/ToggleButton';
+import ToggleButtonGroup from '@mui/material/ToggleButtonGroup';
+import Typography from '@mui/material/Typography';
+import { alpha } from '@mui/material/styles';
+import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
+import HistoryRoundedIcon from '@mui/icons-material/HistoryRounded';
+import InsightsRoundedIcon from '@mui/icons-material/InsightsRounded';
+import PlayCircleRoundedIcon from '@mui/icons-material/PlayCircleRounded';
+import QuizRoundedIcon from '@mui/icons-material/QuizRounded';
+import TrendingUpRoundedIcon from '@mui/icons-material/TrendingUpRounded';
+import EmojiEventsRoundedIcon from '@mui/icons-material/EmojiEventsRounded';
 import { fetchMyAttempts, fetchSubjectCounts } from '../services/examService';
+import { StatCard, EmptyState } from '../components/ui';
 
 const formatDate = (value) => {
   if (!value) return '—';
@@ -17,6 +37,7 @@ const formatDate = (value) => {
 const Attempts = () => {
   const [attempts, setAttempts] = useState([]);
   const [names, setNames] = useState({});
+  const [filter, setFilter] = useState('all');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
@@ -26,9 +47,7 @@ const Attempts = () => {
       .then(([history, subjects]) => {
         if (!active) return;
         setAttempts(history);
-        setNames(
-          subjects.reduce((acc, subject) => ({ ...acc, [subject.slug]: subject.name }), {})
-        );
+        setNames(subjects.reduce((acc, subject) => ({ ...acc, [subject.slug]: subject.name }), {}));
       })
       .catch((err) => active && setError(err.message || 'Could not load your attempts.'))
       .finally(() => active && setLoading(false));
@@ -39,171 +58,221 @@ const Attempts = () => {
 
   const subjectLabel = (slugs) =>
     (slugs || [])
-      .map((slug) => names[slug] || slug.replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()))
+      .map((slug) => names[slug] || slug.replace(/_/g, ' ').replace(/\b\w/g, (character) => character.toUpperCase()))
       .join(', ');
 
+  const finished = useMemo(() => attempts.filter((attempt) => attempt.submitted_at && attempt.total), [attempts]);
+  const inProgress = useMemo(() => attempts.filter((attempt) => !attempt.submitted_at), [attempts]);
+
   const stats = useMemo(() => {
-    const done = attempts.filter((attempt) => attempt.submitted_at && attempt.total);
-    if (!done.length) return { count: 0, average: 0, best: 0, questions: 0 };
-    const percentages = done.map(
+    if (!finished.length) return { count: 0, average: 0, best: 0, questions: 0 };
+    const percentages = finished.map(
       (attempt) => (Number(attempt.score || 0) / (attempt.total * 2)) * 100
     );
     return {
-      count: done.length,
+      count: finished.length,
       average: percentages.reduce((sum, value) => sum + value, 0) / percentages.length,
       best: Math.max(...percentages),
-      questions: done.reduce((sum, attempt) => sum + (attempt.total || 0), 0),
+      questions: finished.reduce((sum, attempt) => sum + (attempt.total || 0), 0),
     };
-  }, [attempts]);
+  }, [finished]);
 
-  const inProgress = attempts.filter((attempt) => !attempt.submitted_at);
-  const finished = attempts.filter((attempt) => attempt.submitted_at);
+  const visible = filter === 'progress' ? inProgress : filter === 'done' ? finished : attempts;
 
   return (
-    <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-      <header className="mb-8">
-        <h1 className="text-3xl font-bold text-slate-900 flex items-center gap-3">
-          <History className="h-7 w-7 text-blue-600" /> Attempt history
-        </h1>
-        <p className="text-slate-600 mt-1">Every paper you have taken, with the score you achieved.</p>
-      </header>
+    <Container maxWidth="lg" sx={{ py: { xs: 4, md: 6 } }}>
+      <Stack
+        direction={{ xs: 'column', md: 'row' }}
+        
+        
+        spacing={2}
+        sx={{ justifyContent: 'space-between', alignItems: { xs: 'flex-start', md: 'center' }, mb: 3.5 }}
+      >
+        <Box>
+          <Typography variant="overline" sx={{ color: 'primary.main', fontWeight: 700, letterSpacing: '0.14em' }}>
+            My tests
+          </Typography>
+          <Typography variant="h3" sx={{ color: 'text.primary', mt: 0.5 }}>
+            Attempt history
+          </Typography>
+          <Typography variant="body2" color="text.secondary" sx={{ mt: 0.75 }}>
+            Every paper you have taken, with the score you achieved.
+          </Typography>
+        </Box>
+        <Button component={RouterLink} to="/dashboard" variant="contained" startIcon={<PlayCircleRoundedIcon />}>
+          New test
+        </Button>
+      </Stack>
+
+      {error && (
+        <Box sx={{ p: 2, mb: 3, borderRadius: 3, bgcolor: (theme) => alpha(theme.palette.error.main, 0.08), color: 'error.main' }}>
+          {error}
+        </Box>
+      )}
+
+      <Grid container spacing={2.5} sx={{ mb: 3 }}>
+        <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+          <StatCard icon={<QuizRoundedIcon />} label="Papers attempted" value={stats.count} caption="Submitted papers" />
+        </Grid>
+        <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+          <StatCard icon={<InsightsRoundedIcon />} label="Questions solved" value={stats.questions} caption="Total attempted" accent="#16A34A" />
+        </Grid>
+        <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+          <StatCard icon={<TrendingUpRoundedIcon />} label="Average score" value={`${stats.average.toFixed(1)}%`} caption="Across all papers" />
+        </Grid>
+        <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+          <StatCard icon={<EmojiEventsRoundedIcon />} label="Best score" value={`${stats.best.toFixed(1)}%`} caption="Personal record" accent="#D97706" />
+        </Grid>
+      </Grid>
+
+      {attempts.length > 0 && (
+        <ToggleButtonGroup
+          exclusive
+          size="small"
+          value={filter}
+          onChange={(_, value) => value && setFilter(value)}
+          aria-label="Filter attempts"
+          sx={{ mb: 3 }}
+        >
+          <ToggleButton value="all">All ({attempts.length})</ToggleButton>
+          <ToggleButton value="done">Completed ({finished.length})</ToggleButton>
+          <ToggleButton value="progress">In progress ({inProgress.length})</ToggleButton>
+        </ToggleButtonGroup>
+      )}
 
       {loading ? (
-        <div className="flex justify-center py-16">
-          <Loader2 className="h-8 w-8 animate-spin text-blue-600" />
-        </div>
-      ) : error ? (
-        <div className="rounded-xl border border-rose-200 bg-rose-50 p-4 text-sm text-rose-700">{error}</div>
+        <LinearProgress />
       ) : !attempts.length ? (
-        <div className="rounded-xl border border-slate-200 bg-white p-12 text-center">
-          <History className="h-10 w-10 mx-auto mb-3 text-slate-300" />
-          <p className="text-slate-600 mb-4">You have not taken any test yet.</p>
-          <Link
-            to="/dashboard"
-            className="inline-block px-5 py-2.5 rounded-lg bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700"
-          >
-            Start your first test
-          </Link>
-        </div>
+        <EmptyState
+          icon={<HistoryRoundedIcon sx={{ fontSize: 40 }} />}
+          title="You have not taken any test yet"
+          description="Configure a paper on the dashboard and your first attempt will show up here."
+          action={
+            <Button component={RouterLink} to="/dashboard" variant="contained" startIcon={<PlayCircleRoundedIcon />}>
+              Start your first test
+            </Button>
+          }
+        />
       ) : (
-        <>
-          <dl className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-6">
-            {[
-              { label: 'Papers attempted', value: stats.count },
-              { label: 'Questions solved', value: stats.questions },
-              { label: 'Average score', value: `${stats.average.toFixed(1)}%` },
-              { label: 'Best score', value: `${stats.best.toFixed(1)}%` },
-            ].map((item) => (
-              <div
-                key={item.label}
-                className="bg-white rounded-xl border border-slate-200 shadow-sm p-4"
-              >
-                <dt className="text-xs uppercase tracking-wide text-slate-500">{item.label}</dt>
-                <dd className="mt-1 text-xl font-bold text-slate-900 flex items-center gap-2">
-                  {item.label === 'Average score' && <TrendingUp className="h-4 w-4 text-blue-500" />}
-                  {item.value}
-                </dd>
-              </div>
-            ))}
-          </dl>
+        <Stack spacing={2}>
+          {visible.map((attempt) => {
+            const percent = attempt.total ? (Number(attempt.score || 0) / (attempt.total * 2)) * 100 : 0;
+            const done = Boolean(attempt.submitted_at);
+            return (
+              <Card key={attempt.id} sx={{ '&:hover': { borderColor: 'primary.main', transform: 'translateY(-2px)' } }}>
+                <CardContent sx={{ p: { xs: 2.25, md: 3 }, '&:last-child': { pb: { xs: 2.25, md: 3 } } }}>
+                  <Stack
+                    direction={{ xs: 'column', md: 'row' }}
+                    spacing={2.5} sx={{ alignItems: { xs: 'stretch', md: 'center' }, justifyContent: 'space-between' }}>
+                    <Box sx={{ minWidth: 0 }}>
+                      <Stack direction="row" spacing={1} useFlexGap sx={{ flexWrap: 'wrap', mb: 1 }}>
+                        <Chip
+                          label={`${attempt.total ?? 0} questions`}
+                          size="small"
+                          sx={{ bgcolor: 'action.hover', color: 'text.primary' }}
+                        />
+                        {attempt.config?.difficulty && (
+                          <Chip
+                            label={attempt.config.difficulty}
+                            size="small"
+                            variant="outlined"
+                            sx={{ textTransform: 'capitalize' }}
+                          />
+                        )}
+                        {attempt.config?.duration_minutes && (
+                          <Chip label={`${attempt.config.duration_minutes} min`} size="small" variant="outlined" />
+                        )}
+                        {done ? (
+                          <Chip
+                            icon={<CheckCircleRoundedIcon sx={{ fontSize: 15 }} />}
+                            label="Completed"
+                            size="small"
+                            sx={{
+                              bgcolor: (theme) => alpha(theme.palette.success.main, 0.12),
+                              color: 'success.main',
+                              '& .MuiChip-icon': { color: 'success.main' },
+                            }}
+                          />
+                        ) : (
+                          <Chip
+                            icon={<PlayCircleRoundedIcon sx={{ fontSize: 15 }} />}
+                            label="In progress"
+                            size="small"
+                            sx={{ bgcolor: (theme) => alpha(theme.palette.info.main, 0.12), color: 'info.main' }}
+                          />
+                        )}
+                      </Stack>
 
-          {inProgress.length > 0 && (
-            <section className="mb-6">
-              <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500 mb-3">
-                In progress
-              </h2>
-              <div className="space-y-3">
-                {inProgress.map((attempt) => (
-                  <div
-                    key={attempt.id}
-                    className="bg-white rounded-xl border border-blue-200 shadow-sm p-5 flex flex-col sm:flex-row sm:items-center gap-4"
-                  >
-                    <div className="flex-1 min-w-0">
-                      <p className="font-semibold text-slate-900">
-                        {attempt.total ?? 0} questions · {formatDate(attempt.started_at)}
-                      </p>
-                      <p className="text-sm text-slate-500 mt-0.5">
-                        {subjectLabel(attempt.config?.subject_slugs) || 'Mixed paper'} · not submitted
-                        yet
-                      </p>
-                    </div>
-                    <Link
-                      to={`/exam/${attempt.id}`}
-                      className="inline-flex items-center justify-center gap-2 px-4 py-2 rounded-lg bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700"
-                    >
-                      <PlayCircle className="h-4 w-4" /> Resume
-                    </Link>
-                  </div>
-                ))}
-              </div>
-            </section>
-          )}
+                      <Typography variant="body2" color="text.secondary" sx={{ mb: 1 }}>
+                        {formatDate(attempt.started_at)}
+                        {subjectLabel(attempt.config?.subject_slugs)
+                          ? ` · ${subjectLabel(attempt.config.subject_slugs)}`
+                          : ''}
+                      </Typography>
 
-          {finished.length > 0 && (
-            <section>
-              <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500 mb-3">
-                Completed papers
-              </h2>
-              <div className="space-y-3">
-                {finished.map((attempt) => {
-                  const percentage = attempt.total
-                    ? (Number(attempt.score || 0) / (attempt.total * 2)) * 100
-                    : 0;
-                  return (
-                    <div
-                      key={attempt.id}
-                      className="bg-white rounded-xl border border-slate-200 shadow-sm p-5 flex flex-col sm:flex-row sm:items-center gap-4"
-                    >
-                      <div className="flex-1 min-w-0">
-                        <div className="flex flex-wrap items-center gap-2 mb-1">
-                          <span className="font-semibold text-slate-900">
-                            {attempt.total ?? 0} questions
-                          </span>
-                          <span className="text-xs px-2 py-0.5 rounded-full bg-slate-100 text-slate-600 capitalize">
-                            {attempt.config?.difficulty || 'any difficulty'}
-                          </span>
-                          {attempt.config?.duration_minutes && (
-                            <span className="text-xs px-2 py-0.5 rounded-full bg-slate-100 text-slate-600">
-                              {attempt.config.duration_minutes} min
-                            </span>
-                          )}
-                        </div>
-                        <p className="text-sm text-slate-500 truncate">
-                          {formatDate(attempt.started_at)}
-                          {subjectLabel(attempt.config?.subject_slugs)
-                            ? ` · ${subjectLabel(attempt.config.subject_slugs)}`
-                            : ''}
-                        </p>
-                      </div>
-                      <div className="flex items-center gap-5">
-                        <div className="text-right">
-                          <p className="text-xs uppercase tracking-wide text-slate-500">Score</p>
-                          <p className="text-xl font-bold text-slate-900">
-                            {attempt.score ?? '—'}
-                            {attempt.total ? (
-                              <span className="text-sm text-slate-400">/{attempt.total * 2}</span>
-                            ) : null}
-                          </p>
-                          {attempt.total ? (
-                            <p className="text-xs text-slate-500">{percentage.toFixed(1)}%</p>
-                          ) : null}
-                        </div>
-                        <Link
-                          to={`/result/${attempt.id}`}
-                          className="px-4 py-2 rounded-lg border border-slate-200 text-sm font-medium text-slate-700 hover:bg-slate-50"
-                        >
+                      {done && (
+                        <Box sx={{ maxWidth: 320 }}>
+                          <LinearProgress
+                            variant="determinate"
+                            value={Math.max(2, percent)}
+                            aria-label={`Score ${percent.toFixed(0)} percent`}
+                            sx={{
+                              height: 8,
+                              '& .MuiLinearProgress-bar': {
+                                background: 'linear-gradient(90deg,#4F46E5,#7C3AED)',
+                              },
+                            }}
+                          />
+                        </Box>
+                      )}
+                    </Box>
+
+                    <Stack direction="row" spacing={2} sx={{ alignItems: 'center', justifyContent: { xs: 'space-between', md: 'flex-end' } }}>
+                      {done ? (
+                        <Box sx={{ textAlign: { xs: 'left', md: 'right' } }}>
+                          <Typography variant="caption" color="text.secondary" sx={{ fontWeight: 600 }}>
+                            Score
+                          </Typography>
+                          <Typography
+                            sx={{
+                              fontFamily: '"Poppins", sans-serif',
+                              fontWeight: 700,
+                              fontSize: '1.5rem',
+                              lineHeight: 1.2,
+                              color: 'text.primary',
+                            }}
+                          >
+                            {attempt.score}
+                            <Box component="span" sx={{ fontSize: '0.9rem', color: 'text.disabled' }}>
+                              /{attempt.total * 2}
+                            </Box>
+                          </Typography>
+                          <Typography variant="caption" color="text.secondary">
+                            {percent.toFixed(1)}%
+                          </Typography>
+                        </Box>
+                      ) : (
+                        <Box />
+                      )}
+
+                      {done ? (
+                        <Button component={RouterLink} to={`/result/${attempt.id}`} variant="outlined" color="inherit" sx={{ borderColor: 'divider' }}>
                           Review
-                        </Link>
-                      </div>
-                    </div>
-                  );
-                })}
-              </div>
-            </section>
-          )}
-        </>
+                        </Button>
+                      ) : (
+                        <Button component={RouterLink} to={`/exam/${attempt.id}`} variant="contained" startIcon={<PlayCircleRoundedIcon />}>
+                          Resume
+                        </Button>
+                      )}
+                    </Stack>
+                  </Stack>
+                </CardContent>
+              </Card>
+            );
+          })}
+        </Stack>
       )}
-    </div>
+    </Container>
   );
 };
 

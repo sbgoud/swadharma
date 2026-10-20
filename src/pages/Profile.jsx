@@ -1,6 +1,22 @@
 import { useEffect, useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
-import { Check, LogOut, Save, User } from 'lucide-react';
+import { Link as RouterLink, useNavigate } from 'react-router-dom';
+import Alert from '@mui/material/Alert';
+import Avatar from '@mui/material/Avatar';
+import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import Container from '@mui/material/Container';
+import Divider from '@mui/material/Divider';
+import Grid from '@mui/material/Grid';
+import Stack from '@mui/material/Stack';
+import TextField from '@mui/material/TextField';
+import Typography from '@mui/material/Typography';
+import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
+import EmailRoundedIcon from '@mui/icons-material/EmailRounded';
+import LogoutRoundedIcon from '@mui/icons-material/LogoutRounded';
+import PersonRoundedIcon from '@mui/icons-material/PersonRounded';
+import SaveRoundedIcon from '@mui/icons-material/SaveRounded';
 import { useAuth } from '../context/AuthContext';
 import { updateProfileName } from '../services/examService';
 
@@ -15,6 +31,13 @@ const Profile = () => {
   useEffect(() => {
     setFullName(profile?.full_name || user?.user_metadata?.full_name || '');
   }, [profile, user]);
+
+  const initials = (profile?.full_name || user?.email || 'A')
+    .toString()
+    .split(' ')
+    .slice(0, 2)
+    .map((part) => part.charAt(0).toUpperCase())
+    .join('');
 
   const handleSave = async (event) => {
     event.preventDefault();
@@ -42,76 +65,100 @@ const Profile = () => {
   };
 
   return (
-    <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-      <header className="mb-8">
-        <h1 className="text-3xl font-bold text-slate-900 flex items-center gap-3">
-          <User className="h-7 w-7 text-blue-600" /> Profile
-        </h1>
-        <p className="text-slate-600 mt-1">Your account details for the free test series.</p>
-      </header>
+    <Container maxWidth="md" sx={{ py: { xs: 4, md: 6 } }}>
+      <Typography variant="overline" sx={{ color: 'primary.main', fontWeight: 700, letterSpacing: '0.14em' }}>
+        Account
+      </Typography>
+      <Typography variant="h3" sx={{ color: 'text.primary', mt: 0.5, mb: 3.5 }}>
+        Your profile
+      </Typography>
 
-      <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6 space-y-6">
-        <div>
-          <label className="block text-sm font-medium text-slate-700 mb-1" htmlFor="profile-email">
-            Email address
-          </label>
-          <input
-            id="profile-email"
-            type="email"
-            value={user?.email || ''}
-            readOnly
-            className="w-full px-3 py-2.5 border border-slate-200 rounded-lg bg-slate-50 text-slate-500 text-sm"
-          />
-        </div>
+      <Grid container spacing={2.5}>
+        <Grid size={{ xs: 12, md: 4 }}>
+          <Card>
+            <CardContent sx={{ p: 3, textAlign: 'center', '&:last-child': { pb: 3 } }}>
+              <Avatar sx={{ width: 84, height: 84, mx: 'auto', mb: 2, bgcolor: 'primary.main', fontSize: 30 }}>
+                {initials}
+              </Avatar>
+              <Typography variant="h6" sx={{ fontWeight: 700, color: 'text.primary' }}>
+                {profile?.full_name || 'Aspirant'}
+              </Typography>
+              <Typography variant="body2" color="text.secondary" sx={{ wordBreak: 'break-word' }}>
+                {user?.email}
+              </Typography>
+              <Divider sx={{ my: 2.5 }} />
+              <Button fullWidth variant="outlined" color="inherit" onClick={handleSignOut} startIcon={<LogoutRoundedIcon />} sx={{ borderColor: 'divider' }}>
+                Sign out
+              </Button>
+            </CardContent>
+          </Card>
+        </Grid>
 
-        <form onSubmit={handleSave} className="space-y-4">
-          <div>
-            <label className="block text-sm font-medium text-slate-700 mb-1" htmlFor="profile-name">
-              Display name
-            </label>
-            <input
-              id="profile-name"
-              type="text"
-              value={fullName}
-              onChange={(e) => setFullName(e.target.value)}
-              className="w-full px-3 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
-              placeholder="Your name"
-            />
-          </div>
+        <Grid size={{ xs: 12, md: 8 }}>
+          <Card>
+            <CardContent sx={{ p: { xs: 2.5, md: 3.5 }, '&:last-child': { pb: { xs: 2.5, md: 3.5 } } }}>
+              <Typography variant="h6" sx={{ fontWeight: 700, color: 'text.primary', mb: 2.5 }}>
+                Account details
+              </Typography>
 
-          {message && (
-            <p className="text-sm text-emerald-700 flex items-center gap-1">
-              <Check className="h-4 w-4" /> {message}
-            </p>
-          )}
-          {error && <p className="text-sm text-rose-600">{error}</p>}
+              {message && (
+                <Alert severity="success" sx={{ mb: 2.5 }} onClose={() => setMessage(null)}>
+                  {message}
+                </Alert>
+              )}
+              {error && (
+                <Alert severity="error" sx={{ mb: 2.5 }} onClose={() => setError(null)}>
+                  {error}
+                </Alert>
+              )}
 
-          <button
-            type="submit"
-            disabled={saving}
-            className="inline-flex items-center px-5 py-2.5 rounded-lg bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700 disabled:opacity-60"
-          >
-            <Save className="mr-2 h-4 w-4" /> {saving ? 'Saving…' : 'Save changes'}
-          </button>
-        </form>
+              <Stack component="form" onSubmit={handleSave} spacing={2.5}>
+                <TextField
+                  fullWidth
+                  id="profile-email"
+                  label="Email address"
+                  value={user?.email || ''}
+                  disabled
+                  slotProps={{
+                    input: {
+                      startAdornment: <EmailRoundedIcon sx={{ mr: 1, color: 'text.disabled' }} />,
+                    },
+                  }}
+                />
+                <TextField
+                  fullWidth
+                  id="profile-name"
+                  label="Display name"
+                  value={fullName}
+                  onChange={(event) => setFullName(event.target.value)}
+                  slotProps={{
+                    input: {
+                      startAdornment: <PersonRoundedIcon sx={{ mr: 1, color: 'action.disabled' }} />,
+                    },
+                  }}
+                />
+                <Stack direction="row" spacing={1.5}>
+                  <Button type="submit" variant="contained" disabled={saving} startIcon={<SaveRoundedIcon />}>
+                    {saving ? 'Saving…' : 'Save changes'}
+                  </Button>
+                  <Button component={RouterLink} to="/attempts" variant="outlined" color="inherit" sx={{ borderColor: 'divider' }}>
+                    My attempts
+                  </Button>
+                </Stack>
+              </Stack>
 
-        <div className="border-t border-slate-100 pt-6 flex flex-wrap gap-3">
-          <Link
-            to="/dashboard"
-            className="px-4 py-2 rounded-lg border border-slate-200 text-sm font-medium text-slate-700 hover:bg-slate-50"
-          >
-            Back to dashboard
-          </Link>
-          <button
-            type="button"
-            onClick={handleSignOut}
-            className="inline-flex items-center px-4 py-2 rounded-lg border border-rose-200 text-sm font-medium text-rose-700 hover:bg-rose-50"
-          >
-            <LogOut className="mr-2 h-4 w-4" /> Sign out
-          </button>
-        </div>
-      </div>
-    </div>
+              <Divider sx={{ my: 3 }} />
+              <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center' }}>
+                <CheckCircleRoundedIcon sx={{ color: 'success.main' }} />
+                <Typography variant="body2" color="text.secondary">
+                  Your account is free — there is no plan, invoice or payment method to manage.
+                </Typography>
+              </Stack>
+            </CardContent>
+          </Card>
+        </Grid>
+      </Grid>
+    </Container>
   );
 };
 
