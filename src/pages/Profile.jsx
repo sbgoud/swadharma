@@ -26,7 +26,7 @@ const Profile = () => {
     }
     setSaving(true);
     try {
-      const updated = await updateProfileName(user.id, fullName.trim());
+      const updated = await updateProfileName(user.id, fullName.trim(), user.email);
       if (updated) setProfile(updated);
       setMessage('Profile updated.');
     } catch (err) {

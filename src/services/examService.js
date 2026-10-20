@@ -79,7 +79,7 @@ export const ensureProfile = async (user) => {
 };
 
 /** Updates the display name of the signed-in user. */
-export const updateProfileName = async (userId, fullName) => {
+export const updateProfileName = async (userId, fullName, email) => {
   const { data, error } = await supabase
     .from('profiles')
     .update({ full_name: fullName })
@@ -87,5 +87,17 @@ export const updateProfileName = async (userId, fullName) => {
     .select('id, full_name, email, created_at')
     .maybeSingle();
   if (error) throw error;
-  return data;
+  if (data) return data;
+
+  // The profile row can be missing for accounts created before the signup
+  // trigger existed — create it and retry the update.
+  await ensureProfile({ id: userId, email });
+  const { data: created, error: retryError } = await supabase
+    .from('profiles')
+    .update({ full_name: fullName })
+    .eq('id', userId)
+    .select('id, full_name, email, created_at')
+    .maybeSingle();
+  if (retryError) throw retryError;
+  return created;
 };
