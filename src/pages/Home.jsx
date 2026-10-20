@@ -1,202 +1,179 @@
+import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, BookOpen, Target, Sparkles, CheckCircle } from 'lucide-react';
-import Button from '../components/Button';
-import Card from '../components/Card';
+import { ArrowRight, BookOpen, Clock, GraduationCap, ShieldCheck, Sparkles, Target } from 'lucide-react';
+import { fetchSubjectCounts } from '../services/examService';
+import { useAuth } from '../context/AuthContext';
 
 const Home = () => {
+  const { user } = useAuth();
+  const [subjects, setSubjects] = useState([]);
+  const [total, setTotal] = useState(0);
+  const [status, setStatus] = useState('loading');
+
+  useEffect(() => {
+    let active = true;
+    fetchSubjectCounts()
+      .then((data) => {
+        if (!active) return;
+        setSubjects(data);
+        setTotal(data.reduce((sum, item) => sum + (item.question_count || 0), 0));
+        setStatus('ready');
+      })
+      .catch(() => {
+        if (active) setStatus('error');
+      });
+    return () => {
+      active = false;
+    };
+  }, []);
+
   return (
-    <div className="flex flex-col min-h-screen">
-
-      {/* Hero Section */}
-      <section className="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden bg-white">
-        <div className="container mx-auto px-4 max-w-7xl relative z-10">
-          <div className="grid lg:grid-cols-2 gap-12 lg:gap-8 items-center">
-
-            {/* Left Content */}
-            <div className="text-left">
-              <div className="inline-flex items-center px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-sm font-semibold mb-6 border border-blue-100">
-                <span className="flex h-2 w-2 rounded-full bg-blue-600 mr-2 animate-pulse"></span>
-                <span>Admissions Open for Prelims Test Series 2026</span>
-              </div>
-
-              <h1 className="text-5xl lg:text-7xl font-bold tracking-tight text-gray-900 mb-6 leading-[1.1]">
-                A New Era of <br />
-                <span className="text-blue-600">Civil Services</span> guidance
-              </h1>
-
-              <p className="text-lg text-gray-600 mb-8 max-w-lg leading-relaxed">
-                Swadharma IAS Academy brings a fresh, scientific approach to UPSC preparation. We differ by design, focusing on individual aptitude and strategic clarity.
-              </p>
-
-              <div className="flex flex-col sm:flex-row gap-4 mb-12">
-                <Button to="/courses" size="lg" className="shadow-lg shadow-blue-600/20">
-                  Explore Test Series <ArrowRight className="ml-2 h-5 w-5" />
-                </Button>
-                <Button to="/contact" variant="secondary" size="lg">
-                  Enquire Now
-                </Button>
-              </div>
-
-              <div className="flex items-center gap-6 border-t border-gray-100 pt-8">
-                <div className="flex items-center gap-2">
-                  <div className="bg-green-100 p-2 rounded-full">
-                    <CheckCircle className="h-5 w-5 text-green-600" />
-                  </div>
-                  <p className="text-sm text-gray-600 font-medium">Expert Faculty</p>
-                </div>
-                <div className="flex items-center gap-2">
-                  <div className="bg-blue-100 p-2 rounded-full">
-                    <Target className="h-5 w-5 text-blue-600" />
-                  </div>
-                  <p className="text-sm text-gray-600 font-medium">Focused Approach</p>
-                </div>
-              </div>
+    <div className="bg-white">
+      {/* Hero */}
+      <section className="relative pt-28 pb-16 lg:pt-36 lg:pb-24 overflow-hidden">
+        <div className="absolute inset-0 bg-gradient-to-b from-blue-50 via-white to-white" />
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="max-w-3xl">
+            <div className="inline-flex items-center px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-sm font-semibold mb-6 border border-blue-100">
+              <Sparkles className="h-4 w-4 mr-2" />
+              Free UPSC Prelims test series — no payment, no limits
+            </div>
+            <h1 className="text-4xl lg:text-6xl font-extrabold tracking-tight text-slate-900 mb-6 leading-[1.08]">
+              Practise the UPSC Prelims
+              <span className="block text-blue-600">the way the exam works.</span>
+            </h1>
+            <p className="text-lg text-slate-600 mb-8 max-w-2xl leading-relaxed">
+              Server-sampled papers, UPSC marking scheme, detailed explanations for every answer and a
+              full attempt history. Everything is free for every aspirant.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4">
+              <Link
+                to={user ? '/dashboard' : '/login'}
+                className="inline-flex items-center justify-center px-6 py-3.5 rounded-lg bg-blue-600 text-white font-semibold shadow-lg shadow-blue-600/20 hover:bg-blue-700 transition"
+              >
+                {user ? 'Go to dashboard' : 'Start practising free'}
+                <ArrowRight className="ml-2 h-5 w-5" />
+              </Link>
+              <Link
+                to="/about"
+                className="inline-flex items-center justify-center px-6 py-3.5 rounded-lg bg-white text-slate-900 border border-slate-200 font-semibold hover:bg-slate-50 transition"
+              >
+                How it works
+              </Link>
             </div>
 
-            {/* Right Image */}
-            <div className="relative lg:h-[600px] w-full">
-              <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl border-4 border-white">
-                <img
-                  src="https://images.pexels.com/photos/1438081/pexels-photo-1438081.jpeg?auto=compress&cs=tinysrgb&w=800"
-                  alt="Student studying"
-                  className="w-full h-full object-cover"
-                />
+            <dl className="mt-12 grid grid-cols-3 gap-6 max-w-xl">
+              <div>
+                <dt className="text-sm text-slate-500">Questions</dt>
+                <dd className="text-2xl font-bold text-slate-900">{total ? total.toLocaleString('en-IN') : '—'}</dd>
               </div>
-              {/* Decorative Background Blob */}
-              <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-blue-50/50 rounded-full blur-3xl -z-10"></div>
-            </div>
+              <div>
+                <dt className="text-sm text-slate-500">Subjects</dt>
+                <dd className="text-2xl font-bold text-slate-900">{subjects.length || '—'}</dd>
+              </div>
+              <div>
+                <dt className="text-sm text-slate-500">Cost</dt>
+                <dd className="text-2xl font-bold text-slate-900">Free</dd>
+              </div>
+            </dl>
           </div>
         </div>
       </section>
 
-      {/* Features Grid */}
-      <section className="py-24 bg-gray-50/50">
-        <div className="container mx-auto px-4 max-w-7xl">
-          <div className="text-center max-w-3xl mx-auto mb-16">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Start With Swadharma?</h2>
-            <p className="text-lg text-gray-600">We are building a community of serious aspirants with a mentorship-first model.</p>
+      {/* Subjects */}
+      <section className="py-16 bg-slate-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center max-w-2xl mx-auto mb-12">
+            <h2 className="text-3xl font-bold text-slate-900 mb-3">Eight GS subjects</h2>
+            <p className="text-slate-600">
+              Build a paper from one subject or mix several — the sampler keeps every subject balanced.
+            </p>
           </div>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
+            {subjects.map((subject) => (
+              <div
+                key={subject.slug}
+                className="bg-white rounded-xl border border-slate-200 p-5 shadow-sm hover:shadow-md transition"
+              >
+                <div className="flex items-start justify-between gap-3">
+                  <h3 className="font-semibold text-slate-900">{subject.name}</h3>
+                  <span className="text-xs font-semibold text-blue-600 bg-blue-50 px-2 py-1 rounded-full whitespace-nowrap">
+                    {subject.question_count} Q
+                  </span>
+                </div>
+                {subject.description && (
+                  <p className="mt-2 text-sm text-slate-500 leading-relaxed">{subject.description}</p>
+                )}
+              </div>
+            ))}
+            {status === 'loading' && !subjects.length && (
+              <div className="col-span-full text-center text-sm text-slate-500 py-8">
+                Question bank is being loaded…
+              </div>
+            )}
+            {status === 'error' && !subjects.length && (
+              <div className="col-span-full text-center text-sm text-slate-500 py-8">
+                The question bank is not reachable right now. Please refresh in a moment — the
+                subjects and their question counts appear here as soon as the database is ready.
+              </div>
+            )}
+          </div>
+        </div>
+      </section>
 
-          <div className="grid md:grid-cols-3 gap-8">
+      {/* Features */}
+      <section className="py-16">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-3xl font-bold text-slate-900 text-center mb-12">Built for serious practice</h2>
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             {[
               {
-                icon: <Target className="h-8 w-8 text-blue-600" />,
-                title: "Precision & Focus",
-                desc: "Our test series is curated to match the evolving dynamic nature of the UPSC Prelims, ensuring you study what matters."
+                icon: <Target className="h-6 w-6 text-blue-600" />,
+                title: 'Real sampling',
+                desc: 'Questions are drawn at random on the server for every single attempt.',
               },
               {
-                icon: <BookOpen className="h-8 w-8 text-amber-500" />,
-                title: "Curated by Experts",
-                desc: "Content designed by educators who understand the pulse of the examination."
+                icon: <Clock className="h-6 w-6 text-amber-500" />,
+                title: 'UPSC timing',
+                desc: '100 questions in 120 minutes by default, scaled automatically for shorter papers.',
               },
               {
-                icon: <Sparkles className="h-8 w-8 text-green-600" />,
-                title: "Foundational Clarity",
-                desc: "We prioritize conceptual clarity over rote learning, preparing you for the long haul."
-              }
-            ].map((item, i) => (
-              <Card key={i} className="hover:-translate-y-1 transition-transform">
-                <div className="h-14 w-14 rounded-xl bg-gray-50 flex items-center justify-center mb-6">
-                  {item.icon}
-                </div>
-                <h3 className="text-xl font-bold text-gray-900 mb-3">{item.title}</h3>
-                <p className="text-gray-600 leading-relaxed">
-                  {item.desc}
-                </p>
-              </Card>
+                icon: <GraduationCap className="h-6 w-6 text-emerald-600" />,
+                title: 'Explanations',
+                desc: 'Every question is explained, with the correct option and the source.',
+              },
+              {
+                icon: <ShieldCheck className="h-6 w-6 text-slate-700" />,
+                title: 'Fair scoring',
+                desc: '+2 for correct, -0.66 for wrong, 0 for blank — exactly the UPSC scheme.',
+              },
+            ].map((feature) => (
+              <div key={feature.title} className="rounded-xl border border-slate-200 p-6 bg-white">
+                <div className="mb-4">{feature.icon}</div>
+                <h3 className="font-semibold text-slate-900 mb-2">{feature.title}</h3>
+                <p className="text-sm text-slate-600 leading-relaxed">{feature.desc}</p>
+              </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Programs Preview */}
-      <section className="py-24 bg-white">
-        <div className="container mx-auto px-4 max-w-7xl">
-          <div className="flex flex-col md:flex-row justify-between items-end mb-12 gap-6">
-            <div>
-              <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Programs</h2>
-              <p className="text-lg text-gray-600 max-w-xl">Admissions open for Prelims Test Series. Other comprehensive courses launching soon.</p>
-            </div>
-            <Button to="/courses" variant="secondary">View Details</Button>
-          </div>
-
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {/* Active Course */}
-            <Card noPadding className="group border-blue-200 shadow-md">
-              <div className="h-48 bg-blue-50 overflow-hidden relative">
-                <img
-                  src="https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg?auto=compress&cs=tinysrgb&w=800"
-                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                  alt="Test Series"
-                />
-                <div className="absolute top-4 right-4 bg-green-500 text-white px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wide shadow-sm">
-                  Admissions Open
-                </div>
-              </div>
-              <div className="p-6">
-                <h3 className="text-xl font-bold text-gray-900 mb-2">Prelims Test Series 2026</h3>
-                <p className="text-sm text-gray-500 mb-4 font-medium flex items-center gap-2">
-                  <span className="w-1.5 h-1.5 rounded-full bg-blue-500"></span> Starts Feb 15
-                </p>
-                <p className="text-gray-600 mb-6 text-sm leading-relaxed">Comprehensive mock tests designed to simulate the real exam environment with detailed performance analysis.</p>
-                <Link to="/contact" className="w-full block text-center bg-blue-600 text-white py-2 rounded-lg font-semibold text-sm hover:bg-blue-700 transition-colors">
-                  Enroll Now
-                </Link>
-              </div>
-            </Card>
-
-            {/* Coming Soon Courses */}
-            {[
-              {
-                title: "GS Foundation Course",
-                desc: "Complete coverage of Prelims and Mains syllabus for freshers.",
-              },
-              {
-                title: "Optional Subjects",
-                desc: "Specialized guidance for Pol. Science, Sociology, and Geography.",
-              }
-            ].map((course, i) => (
-              <Card key={i} noPadding className="group opacity-75 hover:opacity-100 transition-opacity">
-                <div className="h-48 bg-gray-100 overflow-hidden relative grayscale">
-                  <img
-                    src={`https://images.pexels.com/photos/${i === 0 ? '1181675' : '207662'}/pexels-photo-${i === 0 ? '1181675' : '207662'}.jpeg?auto=compress&cs=tinysrgb&w=800`}
-                    className="w-full h-full object-cover"
-                    alt="Course"
-                  />
-                  <div className="absolute top-4 right-4 bg-gray-600 text-white px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wide">
-                    Coming Soon
-                  </div>
-                </div>
-                <div className="p-6">
-                  <h3 className="text-xl font-bold text-gray-900 mb-2">{course.title}</h3>
-                  <p className="text-gray-600 mb-6 text-sm leading-relaxed">{course.desc}</p>
-                  <Button variant="secondary" disabled className="w-full">
-                    Launching Soon
-                  </Button>
-                </div>
-              </Card>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* CTA Section */}
-      <section className="py-24 bg-blue-900 text-white relative overflow-hidden">
-        {/* Background pattern */}
-        <div className="absolute inset-0 opacity-10"
-          style={{ backgroundImage: 'radial-gradient(#ffffff 2px, transparent 2px)', backgroundSize: '32px 32px' }}>
-        </div>
-
-        <div className="container mx-auto px-4 max-w-4xl text-center relative z-10">
-          <h2 className="text-3xl md:text-5xl font-bold mb-6">Ready to Start Your Journey?</h2>
-          <p className="text-xl text-blue-100 mb-10 leading-relaxed">
-            The first step towards your dream service starts here. Join our Prelims Test Series today.
-          </p>
-          <div className="flex flex-col sm:flex-row justify-center gap-4">
-            <Button to="/contact" variant="cta" size="lg">Enroll Now</Button>
-            <Button to="/contact" variant="secondary" size="lg" className="bg-transparent border-white/20 text-white hover:bg-white/10 hover:text-white">
-              Request Call Back
-            </Button>
+      {/* CTA */}
+      <section className="pb-20">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="rounded-2xl bg-slate-900 px-8 py-12 text-center">
+            <BookOpen className="h-10 w-10 text-blue-400 mx-auto mb-4" />
+            <h2 className="text-3xl font-bold text-white mb-3">Your first paper is two clicks away</h2>
+            <p className="text-slate-300 mb-8 max-w-xl mx-auto">
+              Create an account, pick your subjects and start. No payment details, no trial limits.
+            </p>
+            <Link
+              to={user ? '/dashboard' : '/login'}
+              className="inline-flex items-center justify-center px-7 py-3.5 rounded-lg bg-blue-600 text-white font-semibold hover:bg-blue-700 transition"
+            >
+              {user ? 'Open dashboard' : 'Create free account'}
+              <ArrowRight className="ml-2 h-5 w-5" />
+            </Link>
           </div>
         </div>
       </section>

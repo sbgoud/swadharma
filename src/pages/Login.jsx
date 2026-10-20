@@ -1,306 +1,307 @@
-import React, { useState, useEffect } from 'react';
+import { useState } from 'react';
+import { Link, Navigate, useLocation, useNavigate } from 'react-router-dom';
+import { AlertCircle, ArrowLeft, Check, Eye, EyeOff, Lock, Mail, RefreshCw } from 'lucide-react';
 import { supabase } from '../lib/supabase';
-import { useNavigate, Navigate } from 'react-router-dom';
-import { Mail, Lock, Check, AlertCircle, Eye, EyeOff, ArrowLeft, RefreshCw } from 'lucide-react';
-import Card from '../components/Card';
+import { useAuth } from '../context/AuthContext';
 import Button from '../components/Button';
-import { useApp } from '../context/AppContext';
+
+const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 const Login = () => {
-    const { user, loading: authLoading } = useApp();
-    const [loading, setLoading] = useState(false);
-    const [resendingEmail, setResendingEmail] = useState(false);
-    const [email, setEmail] = useState('');
-    const [password, setPassword] = useState('');
-    const [confirmPassword, setConfirmPassword] = useState('');
-    const [showPassword, setShowPassword] = useState(false);
-    const [showConfirmPassword, setShowConfirmPassword] = useState(false);
-    const [isSignUp, setIsSignUp] = useState(false);
-    const [message, setMessage] = useState(null);
-    const [error, setError] = useState(null);
-    const [isEmailNotConfirmed, setIsEmailNotConfirmed] = useState(false);
-    const navigate = useNavigate();
+  const { user, loading } = useAuth();
+  const navigate = useNavigate();
+  const location = useLocation();
 
-    const handleResendConfirmationEmail = async () => {
-        if (!email) {
-            setError('Please enter your email address to resend confirmation email');
-            return;
-        }
+  const [mode, setMode] = useState('signin');
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const [confirmPassword, setConfirmPassword] = useState('');
+  const [fullName, setFullName] = useState('');
+  const [showPassword, setShowPassword] = useState(false);
+  const [busy, setBusy] = useState(false);
+  const [error, setError] = useState(null);
+  const [message, setMessage] = useState(null);
 
-        setResendingEmail(true);
-        setError(null);
-        setMessage(null);
+  if (!loading && user) {
+    const target = location.state?.from || '/dashboard';
+    return <Navigate to={target} replace />;
+  }
 
-        try {
-            const { error } = await supabase.auth.resend({
-                type: 'signup',
-                email: email,
-            });
+  const switchMode = (next) => {
+    setMode(next);
+    setError(null);
+    setMessage(null);
+  };
 
-            if (error) throw error;
+  const handleSignIn = async (event) => {
+    event.preventDefault();
+    setBusy(true);
+    setError(null);
+    setMessage(null);
+    try {
+      const { error: signInError } = await supabase.auth.signInWithPassword({ email, password });
+      if (signInError) throw signInError;
+      navigate(location.state?.from || '/dashboard', { replace: true });
+    } catch (err) {
+      setError(err.message || 'Could not sign you in. Please check your credentials.');
+    } finally {
+      setBusy(false);
+    }
+  };
 
-            setMessage('Confirmation email sent successfully! Please check your inbox.');
-            setIsEmailNotConfirmed(false);
-        } catch (err) {
-            setError(err.message || 'Failed to resend confirmation email');
-        } finally {
-            setResendingEmail(false);
-        }
-    };
+  const handleSignUp = async (event) => {
+    event.preventDefault();
+    setError(null);
+    setMessage(null);
 
-    const handleLogin = async (e) => {
-        e.preventDefault();
-        setLoading(true);
-        setMessage(null);
-        setError(null);
-        setIsEmailNotConfirmed(false);
-
-        try {
-            if (isSignUp) {
-                // Validate form fields
-                if (password !== confirmPassword) {
-                    throw new Error('Passwords do not match');
-                }
-
-                // Validate email address
-                const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
-                if (!emailRegex.test(email)) {
-                    throw new Error('Please enter a valid email address');
-                }
-
-                // Validate password requirements
-                const passwordRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?]).{8,}$/;
-                if (!passwordRegex.test(password)) {
-                    throw new Error('Password must be at least 8 characters and include at least one lowercase letter, one uppercase letter, and one special character');
-                }
-
-                // Create auth user using anon key
-                const { data: authData, error: authError } = await supabase.auth.signUp({
-                    email,
-                    password
-                });
-
-                if (authError) throw authError;
-
-                setMessage('Account created successfully! Please check your email and click on the verification link.');
-                // Redirect to login page after delay
-                setTimeout(() => {
-                    setIsSignUp(false);
-                    navigate('/login');
-                }, 3000);
-            } else {
-                // Existing login flow
-                const { error: signInError } = await supabase.auth.signInWithPassword({ email, password });
-                if (signInError) {
-                    // Check if error is due to unconfirmed email
-                    if (signInError.message?.toLowerCase().includes('email not confirmed') ||
-                        signInError.message?.toLowerCase().includes('email confirmation')) {
-                        setIsEmailNotConfirmed(true);
-                    }
-                    throw signInError;
-                }
-                navigate('/');
-            }
-        } catch (err) {
-            setError(err.message);
-        } finally {
-            setLoading(false);
-        }
-    };
-
-    const handleToggleSignUp = () => {
-        setIsSignUp(!isSignUp);
-    };
-
-    // Redirect to home if already logged in
-    if (authLoading) {
-        return (
-            <div className="min-h-screen bg-gray-50 flex items-center justify-center">
-                <div className="text-center">
-                    <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
-                    <p className="text-gray-600">Loading...</p>
-                </div>
-            </div>
-        );
+    if (!EMAIL_RE.test(email)) {
+      setError('Please enter a valid email address.');
+      return;
+    }
+    if (password.length < 8) {
+      setError('Password must be at least 8 characters long.');
+      return;
+    }
+    if (password !== confirmPassword) {
+      setError('Passwords do not match.');
+      return;
     }
 
-    if (user) {
-        return <Navigate to="/" replace />;
+    setBusy(true);
+    try {
+      const { data, error: signUpError } = await supabase.auth.signUp({
+        email,
+        password,
+        options: { data: { full_name: fullName.trim() } },
+      });
+      if (signUpError) throw signUpError;
+      if (data?.session) {
+        navigate('/dashboard', { replace: true });
+        return;
+      }
+      setMessage('Account created. Check your inbox for the confirmation link, then sign in.');
+      setMode('signin');
+    } catch (err) {
+      setError(err.message || 'Could not create the account.');
+    } finally {
+      setBusy(false);
     }
+  };
 
-    return (
-        <div className="min-h-screen bg-gray-50 flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
-            <div className="max-w-2xl w-full space-y-8">
-                <div className="text-center">
-                    <h2 className="text-3xl font-bold text-gray-900">
-                        {isSignUp ? 'Create Account' : 'Welcome Back'}
-                    </h2>
-                    <p className="mt-2 text-sm text-gray-600">
-                        {isSignUp ? 'Start your journey with us today' : 'Sign in to access your dashboard'}
-                    </p>
-                </div>
+  const handleReset = async (event) => {
+    event.preventDefault();
+    setError(null);
+    setMessage(null);
+    if (!EMAIL_RE.test(email)) {
+      setError('Please enter the email address you signed up with.');
+      return;
+    }
+    setBusy(true);
+    try {
+      const { error: resetError } = await supabase.auth.resetPasswordForEmail(email, {
+        redirectTo: `${window.location.origin}/reset-password`,
+      });
+      if (resetError) throw resetError;
+      setMessage('If that email is registered, a password reset link is on its way.');
+    } catch (err) {
+      setError(err.message || 'Could not send the reset email.');
+    } finally {
+      setBusy(false);
+    }
+  };
 
-                <Card className="mt-8 border-t-4 border-t-blue-600">
-                    {isSignUp && (
-                        <div className="mb-4">
-                            <Button
-                                type="button"
-                                variant="secondary"
-                                onClick={handleToggleSignUp}
-                                className="flex items-center space-x-2 text-sm"
-                            >
-                                <ArrowLeft size={16} />
-                                <span>Back to Login</span>
-                            </Button>
-                        </div>
-                    )}
-
-                    <form className="space-y-6" onSubmit={handleLogin}>
-                        {message && (
-                            <div className="p-4 rounded-lg bg-green-50 text-green-700 flex items-start text-sm">
-                                <Check className="h-5 w-5 mr-2 mt-0.5 flex-shrink-0" />
-                                {message}
-                            </div>
-                        )}
-                        {error && (
-                            <div className="p-4 rounded-lg bg-red-50 text-red-700 flex flex-col items-start text-sm">
-                                <div className="flex items-start">
-                                    <AlertCircle className="h-5 w-5 mr-2 mt-0.5 flex-shrink-0" />
-                                    <span>{error}</span>
-                                </div>
-                                {isEmailNotConfirmed && (
-                                    <div className="mt-3 ml-7">
-                                        <Button
-                                            type="button"
-                                            variant="secondary"
-                                            size="sm"
-                                            onClick={handleResendConfirmationEmail}
-                                            loading={resendingEmail}
-                                            className="flex items-center space-x-2"
-                                        >
-                                            <RefreshCw size={14} />
-                                            <span>Resend Confirmation Email</span>
-                                        </Button>
-                                    </div>
-                                )}
-                            </div>
-                        )}
-
-                        <div>
-                            <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-1">Email address</label>
-                            <div className="relative">
-                                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                    <Mail className="h-5 w-5 text-gray-400" />
-                                </div>
-                                <input
-                                    id="email"
-                                    name="email"
-                                    type="email"
-                                    required
-                                    value={email}
-                                    onChange={(e) => setEmail(e.target.value)}
-                                    className="block w-full pl-10 pr-3 py-2.5 border border-gray-300 rounded-lg text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent sm:text-sm"
-                                    placeholder="you@example.com"
-                                />
-                            </div>
-                        </div>
-
-                        <div>
-                            <label htmlFor="password" className="block text-sm font-medium text-gray-700 mb-1">Password</label>
-                            <div className="relative">
-                                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                    <Lock className="h-5 w-5 text-gray-400" />
-                                </div>
-                                <input
-                                    id="password"
-                                    name="password"
-                                    type={showPassword ? "text" : "password"}
-                                    required
-                                    value={password}
-                                    onChange={(e) => setPassword(e.target.value)}
-                                    className="block w-full pl-10 pr-10 py-2.5 border border-gray-300 rounded-lg text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent sm:text-sm"
-                                    placeholder="••••••••"
-                                />
-                                <button
-                                    type="button"
-                                    onClick={() => setShowPassword(!showPassword)}
-                                    className="absolute inset-y-0 right-0 pr-3 flex items-center"
-                                >
-                                    {showPassword ? (
-                                        <EyeOff className="h-5 w-5 text-gray-400" />
-                                    ) : (
-                                        <Eye className="h-5 w-5 text-gray-400" />
-                                    )}
-                                </button>
-                            </div>
-                            <p className="mt-1 text-xs text-gray-500">Must be at least 8 characters with one lowercase, one uppercase, and one special character</p>
-                        </div>
-
-                        {isSignUp && (
-                            <div>
-                                <label htmlFor="confirmPassword" className="block text-sm font-medium text-gray-700 mb-1">Confirm Password</label>
-                                <div className="relative">
-                                    <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                        <Lock className="h-5 w-5 text-gray-400" />
-                                    </div>
-                                    <input
-                                        id="confirmPassword"
-                                        name="confirmPassword"
-                                        type={showConfirmPassword ? "text" : "password"}
-                                        required
-                                        value={confirmPassword}
-                                        onChange={(e) => setConfirmPassword(e.target.value)}
-                                        className="block w-full pl-10 pr-10 py-2.5 border border-gray-300 rounded-lg text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent sm:text-sm"
-                                        placeholder="••••••••"
-                                    />
-                                    <button
-                                        type="button"
-                                        onClick={() => setShowConfirmPassword(!showConfirmPassword)}
-                                        className="absolute inset-y-0 right-0 pr-3 flex items-center"
-                                    >
-                                        {showConfirmPassword ? (
-                                            <EyeOff className="h-5 w-5 text-gray-400" />
-                                        ) : (
-                                            <Eye className="h-5 w-5 text-gray-400" />
-                                        )}
-                                    </button>
-                                </div>
-                            </div>
-                        )}
-
-                        <div>
-                            <Button
-                                type="submit"
-                                variant="primary"
-                                className="w-full flex justify-center py-3"
-                                loading={loading}
-                            >
-                                {isSignUp ? 'Sign Up' : 'Sign In'}
-                            </Button>
-                        </div>
-                    </form>
-
-                    {!isSignUp && (
-                        <div className="mt-8 pt-6 border-t border-gray-100">
-                            <p className="text-center text-sm text-gray-600">
-                                Don't have an account?
-                            </p>
-                            <div className="mt-2 text-center">
-                                <Button
-                                    type="button"
-                                    variant="secondary"
-                                    onClick={handleToggleSignUp}
-                                    className="w-full max-w-xs"
-                                >
-                                    Create account
-                                </Button>
-                            </div>
-                        </div>
-                    )}
-                </Card>
-            </div>
+  return (
+    <div className="min-h-screen bg-slate-50 flex items-center justify-center py-12 px-4 sm:px-6">
+      <div className="max-w-md w-full">
+        <div className="text-center mb-8">
+          <h1 className="text-3xl font-bold text-slate-900">
+            {mode === 'signin' && 'Welcome back'}
+            {mode === 'signup' && 'Create your free account'}
+            {mode === 'reset' && 'Reset your password'}
+          </h1>
+          <p className="mt-2 text-sm text-slate-600">
+            {mode === 'reset'
+              ? 'We will email you a secure link to set a new password.'
+              : 'Free, unlimited UPSC Prelims practice. No payment required.'}
+          </p>
         </div>
-    );
+
+        <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6 sm:p-8">
+          {message && (
+            <div className="mb-4 p-4 rounded-lg bg-emerald-50 text-emerald-700 text-sm flex items-start gap-2">
+              <Check className="h-5 w-5 mt-0.5 flex-shrink-0" />
+              <span>{message}</span>
+            </div>
+          )}
+          {error && (
+            <div className="mb-4 p-4 rounded-lg bg-rose-50 text-rose-700 text-sm flex items-start gap-2">
+              <AlertCircle className="h-5 w-5 mt-0.5 flex-shrink-0" />
+              <span>{error}</span>
+            </div>
+          )}
+
+          {mode === 'reset' ? (
+            <form className="space-y-5" onSubmit={handleReset}>
+              <div>
+                <label htmlFor="reset-email" className="block text-sm font-medium text-slate-700 mb-1">
+                  Email address
+                </label>
+                <div className="relative">
+                  <Mail className="absolute inset-y-0 left-3 w-5 h-5 text-slate-400 pointer-events-none" />
+                  <input
+                    id="reset-email"
+                    type="email"
+                    required
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    className="w-full pl-10 pr-3 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
+                    placeholder="you@example.com"
+                  />
+                </div>
+              </div>
+              <Button type="submit" className="w-full justify-center py-3" loading={busy}>
+                Send reset link
+              </Button>
+              <button
+                type="button"
+                onClick={() => switchMode('signin')}
+                className="w-full text-sm text-blue-600 hover:underline inline-flex items-center justify-center gap-1"
+              >
+                <ArrowLeft className="h-4 w-4" /> Back to sign in
+              </button>
+            </form>
+          ) : (
+            <form className="space-y-5" onSubmit={mode === 'signin' ? handleSignIn : handleSignUp}>
+              {mode === 'signup' && (
+                <div>
+                  <label htmlFor="full-name" className="block text-sm font-medium text-slate-700 mb-1">
+                    Full name
+                  </label>
+                  <input
+                    id="full-name"
+                    type="text"
+                    value={fullName}
+                    onChange={(e) => setFullName(e.target.value)}
+                    className="w-full px-3 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
+                    placeholder="Aspirant"
+                  />
+                </div>
+              )}
+
+              <div>
+                <label htmlFor="email" className="block text-sm font-medium text-slate-700 mb-1">
+                  Email address
+                </label>
+                <div className="relative">
+                  <Mail className="absolute inset-y-0 left-3 w-5 h-5 text-slate-400 pointer-events-none" />
+                  <input
+                    id="email"
+                    type="email"
+                    required
+                    autoComplete="email"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    className="w-full pl-10 pr-3 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
+                    placeholder="you@example.com"
+                  />
+                </div>
+              </div>
+
+              <div>
+                <label htmlFor="password" className="block text-sm font-medium text-slate-700 mb-1">
+                  Password
+                </label>
+                <div className="relative">
+                  <Lock className="absolute inset-y-0 left-3 w-5 h-5 text-slate-400 pointer-events-none" />
+                  <input
+                    id="password"
+                    type={showPassword ? 'text' : 'password'}
+                    required
+                    minLength={8}
+                    autoComplete={mode === 'signin' ? 'current-password' : 'new-password'}
+                    value={password}
+                    onChange={(e) => setPassword(e.target.value)}
+                    className="w-full pl-10 pr-10 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
+                    placeholder="At least 8 characters"
+                  />
+                  <button
+                    type="button"
+                    onClick={() => setShowPassword((v) => !v)}
+                    className="absolute inset-y-0 right-3 text-slate-400 hover:text-slate-600"
+                    aria-label={showPassword ? 'Hide password' : 'Show password'}
+                  >
+                    {showPassword ? <EyeOff className="h-5 w-5" /> : <Eye className="h-5 w-5" />}
+                  </button>
+                </div>
+              </div>
+
+              {mode === 'signup' && (
+                <div>
+                  <label htmlFor="confirm-password" className="block text-sm font-medium text-slate-700 mb-1">
+                    Confirm password
+                  </label>
+                  <div className="relative">
+                    <Lock className="absolute inset-y-0 left-3 w-5 h-5 text-slate-400 pointer-events-none" />
+                    <input
+                      id="confirm-password"
+                      type={showPassword ? 'text' : 'password'}
+                      required
+                      minLength={8}
+                      autoComplete="new-password"
+                      value={confirmPassword}
+                      onChange={(e) => setConfirmPassword(e.target.value)}
+                      className="w-full pl-10 pr-3 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
+                      placeholder="Repeat the password"
+                    />
+                  </div>
+                </div>
+              )}
+
+              <Button type="submit" className="w-full justify-center py-3" loading={busy}>
+                {mode === 'signin' ? 'Sign in' : 'Create account'}
+              </Button>
+
+              {mode === 'signin' && (
+                <div className="flex items-center justify-between text-sm">
+                  <button
+                    type="button"
+                    onClick={() => switchMode('reset')}
+                    className="inline-flex items-center gap-1 text-slate-500 hover:text-blue-600"
+                  >
+                    <RefreshCw className="h-3.5 w-3.5" /> Forgot password?
+                  </button>
+                </div>
+              )}
+            </form>
+          )}
+        </div>
+
+        <div className="mt-6 text-center text-sm text-slate-600">
+          {mode === 'signin' ? (
+            <>
+              New here?{' '}
+              <button type="button" onClick={() => switchMode('signup')} className="text-blue-600 font-semibold hover:underline">
+                Create a free account
+              </button>
+            </>
+          ) : (
+            <>
+              Already registered?{' '}
+              <button type="button" onClick={() => switchMode('signin')} className="text-blue-600 font-semibold hover:underline">
+                Sign in
+              </button>
+            </>
+          )}
+        </div>
+
+        <p className="mt-6 text-center text-xs text-slate-400">
+          <Link to="/" className="hover:text-slate-600">
+            ← Back to home
+          </Link>
+        </p>
+      </div>
+    </div>
+  );
 };
 
 export default Login;
