@@ -1,8 +1,22 @@
 import { useEffect, useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
-import { AlertCircle, Check, Lock } from 'lucide-react';
+import { Link as RouterLink, useNavigate } from 'react-router-dom';
+import Alert from '@mui/material/Alert';
+import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import Container from '@mui/material/Container';
+import IconButton from '@mui/material/IconButton';
+import InputAdornment from '@mui/material/InputAdornment';
+import Stack from '@mui/material/Stack';
+import TextField from '@mui/material/TextField';
+import Typography from '@mui/material/Typography';
+import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
+import LockRoundedIcon from '@mui/icons-material/LockRounded';
+import MarkEmailReadRoundedIcon from '@mui/icons-material/MarkEmailReadRounded';
+import VisibilityOffRoundedIcon from '@mui/icons-material/VisibilityOffRounded';
+import VisibilityRoundedIcon from '@mui/icons-material/VisibilityRounded';
 import { supabase } from '../lib/supabase';
-import Button from '../components/Button';
 
 /**
  * Landing page of the password recovery link. supabase-js picks up the
@@ -14,6 +28,7 @@ const ResetPassword = () => {
   const [ready, setReady] = useState(false);
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
+  const [showPassword, setShowPassword] = useState(false);
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState(null);
   const [done, setDone] = useState(false);
@@ -53,77 +68,116 @@ const ResetPassword = () => {
   };
 
   return (
-    <div className="min-h-screen bg-slate-50 flex items-center justify-center py-12 px-4">
-      <div className="max-w-md w-full bg-white rounded-2xl border border-slate-200 shadow-sm p-6 sm:p-8">
-        <h1 className="text-2xl font-bold text-slate-900">Set a new password</h1>
-        <p className="mt-2 text-sm text-slate-600">
-          {ready
-            ? 'Choose a new password for your Swadharma IAS account.'
-            : 'Open this page from the reset link in your email to set a new password.'}
-        </p>
+    <Box sx={{ minHeight: '100%', display: 'flex', alignItems: 'center', py: { xs: 5, md: 8 } }}>
+      <Container maxWidth="sm">
+        <Card>
+          <CardContent sx={{ p: { xs: 3, sm: 4.5 }, '&:last-child': { pb: { xs: 3, sm: 4.5 } } }}>
+            <Box
+              sx={{
+                width: 56,
+                height: 56,
+                borderRadius: 4,
+                display: 'grid',
+                placeItems: 'center',
+                mb: 2.5,
+                bgcolor: (theme) => theme.palette.primary.main,
+                color: '#fff',
+                boxShadow: '0 16px 30px -16px rgba(79, 70, 229, 0.9)',
+              }}
+            >
+              <MarkEmailReadRoundedIcon />
+            </Box>
 
-        {error && (
-          <div className="mt-4 p-4 rounded-lg bg-rose-50 text-rose-700 text-sm flex items-start gap-2">
-            <AlertCircle className="h-5 w-5 mt-0.5 flex-shrink-0" />
-            <span>{error}</span>
-          </div>
-        )}
-        {done && (
-          <div className="mt-4 p-4 rounded-lg bg-emerald-50 text-emerald-700 text-sm flex items-start gap-2">
-            <Check className="h-5 w-5 mt-0.5 flex-shrink-0" />
-            <span>Password updated. Taking you to your dashboard…</span>
-          </div>
-        )}
+            <Typography variant="h4" sx={{ fontWeight: 700, color: 'text.primary', mb: 0.75 }}>
+              Set a new password
+            </Typography>
+            <Typography variant="body2" color="text.secondary" sx={{ mb: 3 }}>
+              {ready
+                ? 'Choose a new password for your Swadharma IAS account.'
+                : 'Open this page from the reset link in your email to set a new password.'}
+            </Typography>
 
-        <form className="mt-6 space-y-5" onSubmit={handleSubmit}>
-          <div>
-            <label htmlFor="new-password" className="block text-sm font-medium text-slate-700 mb-1">
-              New password
-            </label>
-            <div className="relative">
-              <Lock className="absolute inset-y-0 left-3 w-5 h-5 text-slate-400 pointer-events-none" />
-              <input
+            {error && (
+              <Alert severity="error" sx={{ mb: 2.5 }} onClose={() => setError(null)}>
+                {error}
+              </Alert>
+            )}
+            {done && (
+              <Alert severity="success" sx={{ mb: 2.5 }} icon={<CheckCircleRoundedIcon />}>
+                Password updated. Taking you to your dashboard…
+              </Alert>
+            )}
+
+            <Stack component="form" onSubmit={handleSubmit} spacing={2.5}>
+              <TextField
+                fullWidth
+                required
                 id="new-password"
-                type="password"
-                required
-                minLength={8}
+                label="New password"
+                type={showPassword ? 'text' : 'password'}
+                autoComplete="new-password"
                 value={password}
-                onChange={(e) => setPassword(e.target.value)}
-                className="w-full pl-10 pr-3 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
-                placeholder="At least 8 characters"
+                onChange={(event) => setPassword(event.target.value)}
+                helperText="At least 8 characters"
+                slotProps={{
+                  input: {
+                    startAdornment: (
+                      <InputAdornment position="start">
+                        <LockRoundedIcon color="action" />
+                      </InputAdornment>
+                    ),
+                    endAdornment: (
+                      <InputAdornment position="end">
+                        <IconButton
+                          onClick={() => setShowPassword((value) => !value)}
+                          edge="end"
+                          aria-label={showPassword ? 'Hide password' : 'Show password'}
+                        >
+                          {showPassword ? <VisibilityOffRoundedIcon /> : <VisibilityRoundedIcon />}
+                        </IconButton>
+                      </InputAdornment>
+                    ),
+                  },
+                }}
               />
-            </div>
-          </div>
-          <div>
-            <label htmlFor="new-confirm-password" className="block text-sm font-medium text-slate-700 mb-1">
-              Confirm password
-            </label>
-            <div className="relative">
-              <Lock className="absolute inset-y-0 left-3 w-5 h-5 text-slate-400 pointer-events-none" />
-              <input
-                id="new-confirm-password"
-                type="password"
+              <TextField
+                fullWidth
                 required
-                minLength={8}
+                id="new-confirm-password"
+                label="Confirm new password"
+                type={showPassword ? 'text' : 'password'}
+                autoComplete="new-password"
                 value={confirmPassword}
-                onChange={(e) => setConfirmPassword(e.target.value)}
-                className="w-full pl-10 pr-3 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
-                placeholder="Repeat the password"
+                onChange={(event) => setConfirmPassword(event.target.value)}
+                slotProps={{
+                  input: {
+                    startAdornment: (
+                      <InputAdornment position="start">
+                        <LockRoundedIcon color="action" />
+                      </InputAdornment>
+                    ),
+                  },
+                }}
               />
-            </div>
-          </div>
-          <Button type="submit" className="w-full justify-center py-3" loading={busy} disabled={!ready}>
-            Update password
-          </Button>
-        </form>
+              <Button type="submit" variant="contained" size="large" disabled={!ready || busy}>
+                {busy ? 'Updating…' : 'Update password'}
+              </Button>
+            </Stack>
 
-        <p className="mt-6 text-center text-xs text-slate-400">
-          <Link to="/login" className="hover:text-slate-600">
-            ← Back to sign in
-          </Link>
-        </p>
-      </div>
-    </div>
+            <Box sx={{ mt: 3, textAlign: 'center' }}>
+              <Typography
+                component={RouterLink}
+                to="/login"
+                variant="body2"
+                sx={{ color: 'text.secondary', textDecoration: 'none', '&:hover': { color: 'primary.main' } }}
+              >
+                ← Back to sign in
+              </Typography>
+            </Box>
+          </CardContent>
+        </Card>
+      </Container>
+    </Box>
   );
 };
 

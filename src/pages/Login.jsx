@@ -1,17 +1,51 @@
 import { useState } from 'react';
-import { Link, Navigate, useLocation, useNavigate } from 'react-router-dom';
-import { AlertCircle, ArrowLeft, Check, Eye, EyeOff, Lock, Mail, RefreshCw } from 'lucide-react';
+import { Link as RouterLink, Navigate, useLocation, useNavigate } from 'react-router-dom';
+import Alert from '@mui/material/Alert';
+import AlertTitle from '@mui/material/AlertTitle';
+import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import Chip from '@mui/material/Chip';
+import Container from '@mui/material/Container';
+import Divider from '@mui/material/Divider';
+import Grid from '@mui/material/Grid';
+import IconButton from '@mui/material/IconButton';
+import InputAdornment from '@mui/material/InputAdornment';
+import Paper from '@mui/material/Paper';
+import Stack from '@mui/material/Stack';
+import Tab from '@mui/material/Tab';
+import Tabs from '@mui/material/Tabs';
+import TextField from '@mui/material/TextField';
+import Typography from '@mui/material/Typography';
+import { alpha } from '@mui/material/styles';
+import ArrowBackRoundedIcon from '@mui/icons-material/ArrowBackRounded';
+import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
+import EmailRoundedIcon from '@mui/icons-material/EmailRounded';
+import LockRoundedIcon from '@mui/icons-material/LockRounded';
+import PersonRoundedIcon from '@mui/icons-material/PersonRounded';
+import VisibilityOffRoundedIcon from '@mui/icons-material/VisibilityOffRounded';
+import VisibilityRoundedIcon from '@mui/icons-material/VisibilityRounded';
+import VerifiedRoundedIcon from '@mui/icons-material/VerifiedRounded';
 import { supabase } from '../lib/supabase';
 import { useAuth } from '../context/AuthContext';
-import Button from '../components/Button';
+import { heroGradient } from '../theme/theme';
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+const HIGHLIGHTS = [
+  'Unlimited timed prelims papers',
+  'Official +2 / −0.66 marking',
+  'Written explanation for every question',
+  'Subject-wise analytics and history',
+];
 
 const Login = () => {
   const { user, loading } = useAuth();
   const navigate = useNavigate();
   const location = useLocation();
 
+  const [tab, setTab] = useState(0);
   const [mode, setMode] = useState('signin');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -80,6 +114,7 @@ const Login = () => {
         return;
       }
       setMessage('Account created. Check your inbox for the confirmation link, then sign in.');
+      setTab(0);
       setMode('signin');
     } catch (err) {
       setError(err.message || 'Could not create the account.');
@@ -110,197 +145,271 @@ const Login = () => {
     }
   };
 
+  const isReset = mode === 'reset';
+  const isSignUp = mode === 'signup';
+
   return (
-    <div className="min-h-screen bg-slate-50 flex items-center justify-center py-12 px-4 sm:px-6">
-      <div className="max-w-md w-full">
-        <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-slate-900">
-            {mode === 'signin' && 'Welcome back'}
-            {mode === 'signup' && 'Create your free account'}
-            {mode === 'reset' && 'Reset your password'}
-          </h1>
-          <p className="mt-2 text-sm text-slate-600">
-            {mode === 'reset'
-              ? 'We will email you a secure link to set a new password.'
-              : 'Free, unlimited UPSC Prelims practice. No payment required.'}
-          </p>
-        </div>
+    <Box sx={{ minHeight: '100%', display: 'flex', alignItems: 'center', py: { xs: 5, md: 8 } }}>
+      <Container maxWidth="lg">
+        <Grid container spacing={4} sx={{ alignItems: 'stretch' }}>
+          {/* Brand panel */}
+          <Grid size={{ xs: 12, md: 5 }} sx={{ display: { xs: 'none', md: 'block' } }}>
+            <Paper
+              elevation={0}
+              sx={{
+                height: '100%',
+                borderRadius: 6,
+                p: 5,
+                position: 'relative',
+                overflow: 'hidden',
+                background: heroGradient,
+                color: '#fff',
+                boxShadow: '0 40px 80px -40px rgba(79, 70, 229, 0.8)',
+              }}
+            >
+              <Box
+                sx={{
+                  position: 'absolute',
+                  inset: 0,
+                  background:
+                    'radial-gradient(60% 60% at 15% 5%, rgba(255,255,255,0.22) 0%, transparent 60%), radial-gradient(50% 50% at 90% 95%, rgba(255,255,255,0.16) 0%, transparent 60%)',
+                }}
+              />
+              <Box sx={{ position: 'relative' }}>
+                <Chip
+                  icon={<VerifiedRoundedIcon sx={{ fontSize: 16 }} />}
+                  label="100% free for every aspirant"
+                  sx={{
+                    bgcolor: 'rgba(255,255,255,0.16)',
+                    color: '#fff',
+                    fontWeight: 600,
+                    mb: 3,
+                    '& .MuiChip-icon': { color: '#fff' },
+                  }}
+                />
+                <Typography variant="h3" sx={{ color: '#fff', mb: 2 }}>
+                  Your UPSC prelims practice starts here
+                </Typography>
+                <Typography sx={{ color: 'rgba(255,255,255,0.85)', lineHeight: 1.75, mb: 4 }}>
+                  Create an account and attempt server-sampled, timed papers with the official UPSC
+                  marking scheme — no payment details, ever.
+                </Typography>
+                <Stack spacing={1.75}>
+                  {HIGHLIGHTS.map((item) => (
+                    <Stack key={item} direction="row" spacing={1.25} sx={{ alignItems: 'center' }}>
+                      <CheckCircleRoundedIcon sx={{ color: '#86EFAC', fontSize: 20 }} />
+                      <Typography sx={{ color: 'rgba(255,255,255,0.92)', fontSize: 14.5, fontWeight: 500 }}>
+                        {item}
+                      </Typography>
+                    </Stack>
+                  ))}
+                </Stack>
+              </Box>
+            </Paper>
+          </Grid>
 
-        <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6 sm:p-8">
-          {message && (
-            <div className="mb-4 p-4 rounded-lg bg-emerald-50 text-emerald-700 text-sm flex items-start gap-2">
-              <Check className="h-5 w-5 mt-0.5 flex-shrink-0" />
-              <span>{message}</span>
-            </div>
-          )}
-          {error && (
-            <div className="mb-4 p-4 rounded-lg bg-rose-50 text-rose-700 text-sm flex items-start gap-2">
-              <AlertCircle className="h-5 w-5 mt-0.5 flex-shrink-0" />
-              <span>{error}</span>
-            </div>
-          )}
+          {/* Form */}
+          <Grid size={{ xs: 12, md: 7 }}>
+            <Card sx={{ height: '100%' }}>
+              <CardContent sx={{ p: { xs: 3, sm: 4.5 }, '&:last-child': { pb: { xs: 3, sm: 4.5 } } }}>
+                <Typography variant="h4" sx={{ fontWeight: 700, color: 'text.primary', mb: 0.75 }}>
+                  {isReset ? 'Reset your password' : isSignUp ? 'Create your free account' : 'Welcome back'}
+                </Typography>
+                <Typography variant="body2" color="text.secondary" sx={{ mb: 3 }}>
+                  {isReset
+                    ? 'We will email you a secure link to set a new password.'
+                    : 'Free, unlimited UPSC Prelims practice. No payment required.'}
+                </Typography>
 
-          {mode === 'reset' ? (
-            <form className="space-y-5" onSubmit={handleReset}>
-              <div>
-                <label htmlFor="reset-email" className="block text-sm font-medium text-slate-700 mb-1">
-                  Email address
-                </label>
-                <div className="relative">
-                  <Mail className="absolute inset-y-0 left-3 w-5 h-5 text-slate-400 pointer-events-none" />
-                  <input
-                    id="reset-email"
-                    type="email"
-                    required
-                    value={email}
-                    onChange={(e) => setEmail(e.target.value)}
-                    className="w-full pl-10 pr-3 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
-                    placeholder="you@example.com"
-                  />
-                </div>
-              </div>
-              <Button type="submit" className="w-full justify-center py-3" loading={busy}>
-                Send reset link
-              </Button>
-              <button
-                type="button"
-                onClick={() => switchMode('signin')}
-                className="w-full text-sm text-blue-600 hover:underline inline-flex items-center justify-center gap-1"
-              >
-                <ArrowLeft className="h-4 w-4" /> Back to sign in
-              </button>
-            </form>
-          ) : (
-            <form className="space-y-5" onSubmit={mode === 'signin' ? handleSignIn : handleSignUp}>
-              {mode === 'signup' && (
-                <div>
-                  <label htmlFor="full-name" className="block text-sm font-medium text-slate-700 mb-1">
-                    Full name
-                  </label>
-                  <input
-                    id="full-name"
-                    type="text"
-                    value={fullName}
-                    onChange={(e) => setFullName(e.target.value)}
-                    className="w-full px-3 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
-                    placeholder="Aspirant"
-                  />
-                </div>
-              )}
-
-              <div>
-                <label htmlFor="email" className="block text-sm font-medium text-slate-700 mb-1">
-                  Email address
-                </label>
-                <div className="relative">
-                  <Mail className="absolute inset-y-0 left-3 w-5 h-5 text-slate-400 pointer-events-none" />
-                  <input
-                    id="email"
-                    type="email"
-                    required
-                    autoComplete="email"
-                    value={email}
-                    onChange={(e) => setEmail(e.target.value)}
-                    className="w-full pl-10 pr-3 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
-                    placeholder="you@example.com"
-                  />
-                </div>
-              </div>
-
-              <div>
-                <label htmlFor="password" className="block text-sm font-medium text-slate-700 mb-1">
-                  Password
-                </label>
-                <div className="relative">
-                  <Lock className="absolute inset-y-0 left-3 w-5 h-5 text-slate-400 pointer-events-none" />
-                  <input
-                    id="password"
-                    type={showPassword ? 'text' : 'password'}
-                    required
-                    minLength={8}
-                    autoComplete={mode === 'signin' ? 'current-password' : 'new-password'}
-                    value={password}
-                    onChange={(e) => setPassword(e.target.value)}
-                    className="w-full pl-10 pr-10 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
-                    placeholder="At least 8 characters"
-                  />
-                  <button
-                    type="button"
-                    onClick={() => setShowPassword((v) => !v)}
-                    className="absolute inset-y-0 right-3 text-slate-400 hover:text-slate-600"
-                    aria-label={showPassword ? 'Hide password' : 'Show password'}
+                {!isReset && (
+                  <Tabs
+                    value={tab}
+                    onChange={(_, value) => {
+                      setTab(value);
+                      switchMode(value === 1 ? 'signup' : 'signin');
+                    }}
+                    variant="fullWidth"
+                    sx={{ mb: 3, borderBottom: '1px solid', borderColor: 'divider' }}
                   >
-                    {showPassword ? <EyeOff className="h-5 w-5" /> : <Eye className="h-5 w-5" />}
-                  </button>
-                </div>
-              </div>
+                    <Tab label="Sign in" />
+                    <Tab label="Create account" />
+                  </Tabs>
+                )}
 
-              {mode === 'signup' && (
-                <div>
-                  <label htmlFor="confirm-password" className="block text-sm font-medium text-slate-700 mb-1">
-                    Confirm password
-                  </label>
-                  <div className="relative">
-                    <Lock className="absolute inset-y-0 left-3 w-5 h-5 text-slate-400 pointer-events-none" />
-                    <input
-                      id="confirm-password"
-                      type={showPassword ? 'text' : 'password'}
+                {message && (
+                  <Alert severity="success" sx={{ mb: 2.5 }} onClose={() => setMessage(null)}>
+                    {message}
+                  </Alert>
+                )}
+                {error && (
+                  <Alert severity="error" sx={{ mb: 2.5 }} onClose={() => setError(null)}>
+                    {error}
+                  </Alert>
+                )}
+
+                {isReset ? (
+                  <Stack component="form" onSubmit={handleReset} spacing={2.5}>
+                    <TextField
+                      fullWidth
                       required
-                      minLength={8}
-                      autoComplete="new-password"
-                      value={confirmPassword}
-                      onChange={(e) => setConfirmPassword(e.target.value)}
-                      className="w-full pl-10 pr-3 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
-                      placeholder="Repeat the password"
+                      id="reset-email"
+                      label="Email address"
+                      type="email"
+                      autoComplete="email"
+                      value={email}
+                      onChange={(event) => setEmail(event.target.value)}
+                      slotProps={{
+                        input: {
+                          startAdornment: (
+                            <InputAdornment position="start">
+                              <EmailRoundedIcon color="action" />
+                            </InputAdornment>
+                          ),
+                        },
+                      }}
                     />
-                  </div>
-                </div>
-              )}
+                    <Button type="submit" variant="contained" size="large" disabled={busy}>
+                      {busy ? 'Sending…' : 'Send reset link'}
+                    </Button>
+                    <Button
+                      type="button"
+                      onClick={() => switchMode('signin')}
+                      startIcon={<ArrowBackRoundedIcon />}
+                      sx={{ alignSelf: 'flex-start', px: 0 }}
+                    >
+                      Back to sign in
+                    </Button>
+                  </Stack>
+                ) : (
+                  <Stack component="form" onSubmit={isSignUp ? handleSignUp : handleSignIn} spacing={2.5}>
+                    {isSignUp && (
+                      <TextField
+                        fullWidth
+                        id="full-name"
+                        label="Full name"
+                        value={fullName}
+                        onChange={(event) => setFullName(event.target.value)}
+                        slotProps={{
+                          input: {
+                            startAdornment: (
+                              <InputAdornment position="start">
+                                <PersonRoundedIcon color="action" />
+                              </InputAdornment>
+                            ),
+                          },
+                        }}
+                      />
+                    )}
 
-              <Button type="submit" className="w-full justify-center py-3" loading={busy}>
-                {mode === 'signin' ? 'Sign in' : 'Create account'}
-              </Button>
+                    <TextField
+                      fullWidth
+                      required
+                      id="email"
+                      label="Email address"
+                      type="email"
+                      autoComplete="email"
+                      value={email}
+                      onChange={(event) => setEmail(event.target.value)}
+                      slotProps={{
+                        input: {
+                          startAdornment: (
+                            <InputAdornment position="start">
+                              <EmailRoundedIcon color="action" />
+                            </InputAdornment>
+                          ),
+                        },
+                      }}
+                    />
 
-              {mode === 'signin' && (
-                <div className="flex items-center justify-between text-sm">
-                  <button
-                    type="button"
-                    onClick={() => switchMode('reset')}
-                    className="inline-flex items-center gap-1 text-slate-500 hover:text-blue-600"
+                    <TextField
+                      fullWidth
+                      required
+                      id="password"
+                      label="Password"
+                      type={showPassword ? 'text' : 'password'}
+                      autoComplete={isSignUp ? 'new-password' : 'current-password'}
+                      value={password}
+                      onChange={(event) => setPassword(event.target.value)}
+                      helperText={isSignUp ? 'At least 8 characters' : undefined}
+                      slotProps={{
+                        input: {
+                          startAdornment: (
+                            <InputAdornment position="start">
+                              <LockRoundedIcon color="action" />
+                            </InputAdornment>
+                          ),
+                          endAdornment: (
+                            <InputAdornment position="end">
+                              <IconButton
+                                onClick={() => setShowPassword((value) => !value)}
+                                edge="end"
+                                aria-label={showPassword ? 'Hide password' : 'Show password'}
+                              >
+                                {showPassword ? <VisibilityOffRoundedIcon /> : <VisibilityRoundedIcon />}
+                              </IconButton>
+                            </InputAdornment>
+                          ),
+                        },
+                      }}
+                    />
+
+                    {isSignUp && (
+                      <TextField
+                        fullWidth
+                        required
+                        id="confirm-password"
+                        label="Confirm password"
+                        type={showPassword ? 'text' : 'password'}
+                        autoComplete="new-password"
+                        value={confirmPassword}
+                        onChange={(event) => setConfirmPassword(event.target.value)}
+                        slotProps={{
+                          input: {
+                            startAdornment: (
+                              <InputAdornment position="start">
+                                <LockRoundedIcon color="action" />
+                              </InputAdornment>
+                            ),
+                          },
+                        }}
+                      />
+                    )}
+
+                    <Button type="submit" variant="contained" size="large" disabled={busy}>
+                      {busy ? 'Please wait…' : isSignUp ? 'Create free account' : 'Sign in'}
+                    </Button>
+
+                    {!isSignUp && (
+                      <Box sx={{ display: 'flex', justifyContent: 'flex-end' }}>
+                        <Button onClick={() => switchMode('reset')} sx={{ px: 0 }}>
+                          Forgot password?
+                        </Button>
+                      </Box>
+                    )}
+                  </Stack>
+                )}
+
+                <Divider sx={{ my: 3 }} />
+                <Stack direction="row" spacing={1} sx={{ justifyContent: 'center', alignItems: 'center' }}>
+                  <Typography variant="body2" color="text.secondary">
+                    {isSignUp ? 'Already registered?' : 'New to Swadharma IAS?'}
+                  </Typography>
+                  <Button
+                    onClick={() => {
+                      setTab(isSignUp ? 0 : 1);
+                      switchMode(isSignUp ? 'signin' : 'signup');
+                    }}
+                    sx={{ p: 0, minWidth: 0 }}
                   >
-                    <RefreshCw className="h-3.5 w-3.5" /> Forgot password?
-                  </button>
-                </div>
-              )}
-            </form>
-          )}
-        </div>
-
-        <div className="mt-6 text-center text-sm text-slate-600">
-          {mode === 'signin' ? (
-            <>
-              New here?{' '}
-              <button type="button" onClick={() => switchMode('signup')} className="text-blue-600 font-semibold hover:underline">
-                Create a free account
-              </button>
-            </>
-          ) : (
-            <>
-              Already registered?{' '}
-              <button type="button" onClick={() => switchMode('signin')} className="text-blue-600 font-semibold hover:underline">
-                Sign in
-              </button>
-            </>
-          )}
-        </div>
-
-        <p className="mt-6 text-center text-xs text-slate-400">
-          <Link to="/" className="hover:text-slate-600">
-            ← Back to home
-          </Link>
-        </p>
-      </div>
-    </div>
+                    {isSignUp ? 'Sign in' : 'Create a free account'}
+                  </Button>
+                </Stack>
+              </CardContent>
+            </Card>
+          </Grid>
+        </Grid>
+      </Container>
+    </Box>
   );
 };
 
