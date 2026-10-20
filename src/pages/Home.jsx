@@ -31,7 +31,7 @@ const Home = () => {
     <div className="bg-white">
       {/* Hero */}
       <section className="relative pt-28 pb-16 lg:pt-36 lg:pb-24 overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-b from-blue-50 via-white to-white" />
+        <div className="absolute inset-0 bg-gradient-to-b from-[var(--c-hero-from)] via-[var(--c-hero-via)] to-[var(--c-hero-to)]" />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
             <div className="inline-flex items-center px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-sm font-semibold mb-6 border border-blue-100">
@@ -161,10 +161,10 @@ const Home = () => {
       {/* CTA */}
       <section className="pb-20">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="rounded-2xl bg-slate-900 px-8 py-12 text-center">
+          <div className="rounded-2xl bg-[#0b1220] px-8 py-12 text-center">
             <BookOpen className="h-10 w-10 text-blue-400 mx-auto mb-4" />
-            <h2 className="text-3xl font-bold text-white mb-3">Your first paper is two clicks away</h2>
-            <p className="text-slate-300 mb-8 max-w-xl mx-auto">
+            <h2 className="text-3xl font-bold text-[#f8fafc] mb-3">Your first paper is two clicks away</h2>
+            <p className="text-[#cbd5e1] mb-8 max-w-xl mx-auto">
               Create an account, pick your subjects and start. No payment details, no trial limits.
             </p>
             <Link

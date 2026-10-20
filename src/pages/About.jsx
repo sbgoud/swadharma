@@ -44,9 +44,9 @@ const About = () => {
         ))}
       </div>
 
-      <section className="bg-slate-900 rounded-2xl px-8 py-10 text-center">
-        <h2 className="text-2xl font-bold text-white mb-3">Ready when you are</h2>
-        <p className="text-slate-300 mb-6 max-w-lg mx-auto">
+      <section className="bg-[#0b1220] rounded-2xl px-8 py-10 text-center">
+        <h2 className="text-2xl font-bold text-[#f8fafc] mb-3">Ready when you are</h2>
+        <p className="text-[#cbd5e1] mb-6 max-w-lg mx-auto">
           Create a free account and attempt your first paper in under a minute.
         </p>
         <Link

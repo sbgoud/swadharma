@@ -347,7 +347,7 @@ const Exam = () => {
 
       {/* Confirm dialog */}
       {confirming && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-900/60 px-4">
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 px-4">
           <div className="bg-white rounded-2xl shadow-xl w-full max-w-md p-6">
             <h3 className="text-lg font-semibold text-slate-900 mb-2">Submit the exam?</h3>
             <p className="text-sm text-slate-600 mb-4">

@@ -1,39 +1,172 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
 @import "tailwindcss";
 
-@theme {
-  --color-primary: #2563eb;
-  --color-primary-dark: #1e40af;
-  --color-secondary: #f59e0b;
-  --font-sans: 'Inter', system-ui, sans-serif;
+/*
+  Design tokens.
+
+  The neutral palette is driven by CSS variables so that the light and the dark
+  theme share a single set of Tailwind utilities (bg-white, text-slate-600,
+  border-slate-200 …). Switching the theme only flips the variables, which
+  keeps the markup free of duplicated dark: variants.
+*/
+@theme inline {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+  --color-white: var(--c-white);
+  --color-gray-50: var(--c-gray-50);
+  --color-gray-100: var(--c-gray-100);
+  --color-gray-200: var(--c-gray-200);
+  --color-gray-600: var(--c-gray-600);
+  --color-gray-800: var(--c-gray-800);
+  --color-gray-900: var(--c-gray-900);
+  --color-slate-50: var(--c-slate-50);
+  --color-slate-100: var(--c-slate-100);
+  --color-slate-200: var(--c-slate-200);
+  --color-slate-300: var(--c-slate-300);
+  --color-slate-400: var(--c-slate-400);
+  --color-slate-500: var(--c-slate-500);
+  --color-slate-600: var(--c-slate-600);
+  --color-slate-700: var(--c-slate-700);
+  --color-slate-800: var(--c-slate-800);
+  --color-slate-900: var(--c-slate-900);
+  --color-blue-50: var(--c-blue-50);
+  --color-blue-100: var(--c-blue-100);
+  --color-blue-500: var(--c-blue-500);
+  --color-blue-600: var(--c-blue-600);
+  --color-blue-700: var(--c-blue-700);
+  --color-blue-800: var(--c-blue-800);
 }
 
+/* Light theme ---------------------------------------------------------- */
 :root {
   color-scheme: light;
+
+  --c-white: #ffffff;
+  --c-gray-50: #f9fafb;
+  --c-gray-100: #f3f4f6;
+  --c-gray-200: #e5e7eb;
+  --c-gray-600: #4b5563;
+  --c-gray-800: #1f2937;
+  --c-gray-900: #111827;
+
+  --c-slate-50: #f8fafc;
+  --c-slate-100: #f1f5f9;
+  --c-slate-200: #e2e8f0;
+  --c-slate-300: #cbd5e1;
+  --c-slate-400: #94a3b8;
+  --c-slate-500: #64748b;
+  --c-slate-600: #475569;
+  --c-slate-700: #334155;
+  --c-slate-800: #1e293b;
+  --c-slate-900: #0f172a;
+
+  --c-blue-50: #eff6ff;
+  --c-blue-100: #dbeafe;
+  --c-blue-500: #3b82f6;
+  --c-blue-600: #2563eb;
+  --c-blue-700: #1d4ed8;
+  --c-blue-800: #1e40af;
+
+  --c-hero-from: #eff6ff;
+  --c-hero-via: #ffffff;
+  --c-hero-to: #ffffff;
 }
 
-body {
-  font-family: 'Inter', system-ui, sans-serif;
-  background-color: #f8fafc;
-  color: #0f172a;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* Dark theme ----------------------------------------------------------- */
+.dark {
+  color-scheme: dark;
+
+  --c-white: #0f172a;
+  --c-gray-50: #0b1220;
+  --c-gray-100: #111c31;
+  --c-gray-200: #1f2937;
+  --c-gray-600: #d1d5db;
+  --c-gray-800: #334155;
+  --c-gray-900: #f3f4f6;
+
+  --c-slate-50: #020617;
+  --c-slate-100: #0b1220;
+  --c-slate-200: #1e293b;
+  --c-slate-300: #334155;
+  --c-slate-400: #94a3b8;
+  --c-slate-500: #94a3b8;
+  --c-slate-600: #cbd5e1;
+  --c-slate-700: #e2e8f0;
+  --c-slate-800: #f1f5f9;
+  --c-slate-900: #f8fafc;
+
+  --c-blue-50: #12233f;
+  --c-blue-100: #172554;
+  --c-blue-500: #60a5fa;
+  --c-blue-600: #60a5fa;
+  --c-blue-700: #93c5fd;
+  --c-blue-800: #bfdbfe;
+
+  --c-hero-from: #0b1b3a;
+  --c-hero-via: #0f172a;
+  --c-hero-to: #0f172a;
 }
 
-/* Custom Scrollbar */
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--c-slate-50);
+    color: var(--c-slate-900);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Keyboard users always get a visible focus ring. */
+  :focus-visible {
+    outline: 2px solid #2563eb;
+    outline-offset: 2px;
+  }
+
+  ::selection {
+    background-color: #2563eb;
+    color: #ffffff;
+  }
+
+  /* Focus rings should not punch a white hole into the dark theme. */
+  * {
+    --tw-ring-offset-color: var(--c-white);
+  }
+}
+
+/* Custom scrollbar ----------------------------------------------------- */
 ::-webkit-scrollbar {
   width: 10px;
+  height: 10px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #f1f5f9;
+  background: var(--c-slate-100);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #cbd5e1;
+  background: var(--c-slate-300);
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #94a3b8;
+  background: var(--c-slate-400);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }
