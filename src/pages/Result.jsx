@@ -150,7 +150,7 @@ const Result = () => {
   const verdict = verdictFor(percentage);
   const accuracy = counts.total ? Math.round((counts.correct / counts.total) * 100) : 0;
   const negativeMarking = Math.round(counts.incorrect * 0.66 * 100) / 100;
-  const timeTaken = result.time_taken_minutes;
+  const timeTaken = result.timeTakenMinutes;
 
   return (
     <Container maxWidth="lg" sx={{ py: { xs: 4, md: 6 } }}>
@@ -171,7 +171,7 @@ const Result = () => {
           <StatCard icon={<RemoveCircleRoundedIcon />} label="Skipped" value={counts.unanswered} caption="0 marks" accent="#D97706" />
         </Grid>
         <Grid size={{ xs: 12, sm: 6, md: 3 }}>
-          <StatCard icon={<ScheduleRoundedIcon />} label="Time taken" value={timeTaken ? `${timeTaken} min` : '—'} caption={`of ${result.duration_minutes || 120} min allowed`} accent="#4F46E5" />
+          <StatCard icon={<ScheduleRoundedIcon />} label="Time taken" value={timeTaken !== null ? `${timeTaken} min` : '—'} caption={`of ${result.durationMinutes || 120} min allowed`} accent="#4F46E5" />
         </Grid>
       </Grid>
 
@@ -420,15 +420,16 @@ const PaperHero = ({ result, percentage, verdict, children }) => (
             sx={{ bgcolor: 'rgba(255,255,255,0.18)', color: '#fff', fontWeight: 700, mb: 2 }}
           />
           <Typography variant="h3" sx={{ color: '#fff', mb: 1 }}>
-            {result.score} / {result.total * 2} marks
+            {result.score} / {result.maxScore} marks
           </Typography>
           <Typography sx={{ color: 'rgba(255,255,255,0.85)', maxWidth: 460, lineHeight: 1.7 }}>
-            {result.correct_count} correct, {result.incorrect_count} incorrect and{' '}
-            {result.unanswered_count} unattempted. Every question below is explained.
+            {percentage.toFixed(1)}% of the maximum score — {result.correct} correct,{' '}
+            {result.incorrect} incorrect and{' '}
+            {result.unanswered} unattempted. Every question below is explained.
           </Typography>
           <Typography variant="caption" sx={{ color: 'rgba(255,255,255,0.7)', display: 'block', mt: 2 }}>
             Attempted on{' '}
-            {new Date(result.started_at).toLocaleString('en-IN', {
+            {new Date(result.startedAt).toLocaleString('en-IN', {
               day: '2-digit',
               month: 'short',
               year: 'numeric',

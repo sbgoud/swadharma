@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Link as RouterLink, useLocation, useNavigate } from 'react-router-dom';
+import { Link as RouterLink, useNavigate } from 'react-router-dom';
 import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
@@ -43,7 +43,6 @@ const Navbar = () => {
   const [menuAnchor, setMenuAnchor] = useState(null);
   const { user, profile, signOut } = useAuth();
   const { isDark, toggleTheme } = useTheme();
-  const location = useLocation();
   const navigate = useNavigate();
 
   const initials = (
@@ -190,7 +189,7 @@ const Navbar = () => {
         anchor="right"
         open={drawerOpen}
         onClose={() => setDrawerOpen(false)}
-        slotProps={{ paper: { sx: { width: 300, p: 2.5 } } }}
+        slotProps={{ paper: { sx: { width: 300, p: 2.5, display: 'flex', flexDirection: 'column' } } }}
       >
         <Stack direction="row" sx={{ justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
           <Logo size={36} />

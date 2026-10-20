@@ -300,7 +300,7 @@ const Exam = () => {
     );
   }
 
-  const PaletteGrid = ({ compact = false }) => (
+  const renderPalette = (compact = false) => (
     <Box>
       <Box
         role="group"
@@ -604,7 +604,7 @@ const Exam = () => {
                 <Typography variant="subtitle1" sx={{ fontWeight: 700, color: 'text.primary', mb: 2 }}>
                   Question palette
                 </Typography>
-                <PaletteGrid />
+                {renderPalette()}
                 <Button
                   fullWidth
                   variant="contained"
@@ -635,7 +635,7 @@ const Exam = () => {
             <CloseRoundedIcon />
           </IconButton>
         </Stack>
-        <PaletteGrid />
+        {renderPalette()}
         <Button fullWidth variant="contained" onClick={() => setConfirming(true)} sx={{ mt: 2.5 }}>
           Submit paper
         </Button>

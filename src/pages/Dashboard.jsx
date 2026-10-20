@@ -338,6 +338,12 @@ const Dashboard = () => {
                 </Stack>
 
                 <Grid container spacing={1.75}>
+                  {loading &&
+                    Array.from({ length: 8 }).map((_, index) => (
+                      <Grid key={`skeleton-${index}`} size={{ xs: 12, sm: 6, md: 4 }}>
+                        <Box sx={{ height: 104, borderRadius: 3, bgcolor: 'action.hover' }} />
+                      </Grid>
+                    ))}
                   {subjects.map((subject) => {
                     const active = selected.includes(subject.slug);
                     return (
