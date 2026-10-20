@@ -1,73 +1,52 @@
-/**
- * Theme Context
- * Manages dark/light mode theme
- */
-
-import { createContext, useContext, useState, useEffect } from 'react';
+import { createContext, useCallback, useContext, useEffect, useMemo, useState } from 'react';
+import CssBaseline from '@mui/material/CssBaseline';
+import { ThemeProvider as MuiThemeProvider } from '@mui/material/styles';
+import { buildTheme } from '../theme/theme';
 
 const ThemeContext = createContext(null);
+const STORAGE_KEY = 'swadharma-theme';
 
+const getInitialMode = () => {
+  if (typeof window === 'undefined') return 'light';
+  const stored = window.localStorage.getItem(STORAGE_KEY);
+  if (stored === 'light' || stored === 'dark') return stored;
+  return window.matchMedia?.('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+};
+
+/**
+ * Holds the colour mode of the app and exposes the matching MUI theme.
+ * The choice is persisted, and the system preference is used on first visit.
+ */
 export const ThemeProvider = ({ children }) => {
-  const [theme, setTheme] = useState(() => {
-    // Get theme from localStorage or system preference
-    if (typeof window !== 'undefined') {
-      const savedTheme = localStorage.getItem('theme');
-      if (savedTheme) {
-        return savedTheme;
-      }
-      // Check system preference
-      if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        return 'dark';
-      }
-    }
-    return 'light';
-  });
+  const [mode, setMode] = useState(getInitialMode);
+  const theme = useMemo(() => buildTheme(mode), [mode]);
 
   useEffect(() => {
-    // Apply theme to document
-    const root = document.documentElement;
-    if (theme === 'dark') {
-      root.classList.add('dark');
-    } else {
-      root.classList.remove('dark');
-    }
+    window.localStorage.setItem(STORAGE_KEY, mode);
+  }, [mode]);
 
-    // Save to localStorage
-    if (typeof window !== 'undefined') {
-      localStorage.setItem('theme', theme);
-    }
-  }, [theme]);
+  const toggleTheme = useCallback(() => {
+    setMode((current) => (current === 'light' ? 'dark' : 'light'));
+  }, []);
 
-  const toggleTheme = () => {
-    setTheme(prev => prev === 'light' ? 'dark' : 'light');
-  };
-
-  const setThemeMode = (mode) => {
-    if (mode === 'light' || mode === 'dark') {
-      setTheme(mode);
-    }
-  };
-
-  const value = {
-    theme,
-    toggleTheme,
-    setTheme: setThemeMode,
-    isDark: theme === 'dark',
-    isLight: theme === 'light'
-  };
+  const value = useMemo(
+    () => ({ mode, isDark: mode === 'dark', isLight: mode === 'light', toggleTheme, setMode }),
+    [mode, toggleTheme]
+  );
 
   return (
     <ThemeContext.Provider value={value}>
-      {children}
+      <MuiThemeProvider theme={theme}>
+        <CssBaseline />
+        {children}
+      </MuiThemeProvider>
     </ThemeContext.Provider>
   );
 };
 
 export const useTheme = () => {
   const context = useContext(ThemeContext);
-  if (!context) {
-    throw new Error('useTheme must be used within a ThemeProvider');
-  }
+  if (!context) throw new Error('useTheme must be used within a ThemeProvider');
   return context;
 };
 

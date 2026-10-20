@@ -1,70 +1,156 @@
-import { Link } from 'react-router-dom';
-import { BookOpen, Mail } from 'lucide-react';
+import { Link as RouterLink } from 'react-router-dom';
+import Box from '@mui/material/Box';
+import Container from '@mui/material/Container';
+import Divider from '@mui/material/Divider';
+import Grid from '@mui/material/Grid';
+import Stack from '@mui/material/Stack';
+import Typography from '@mui/material/Typography';
+import Link from '@mui/material/Link';
+import EmailRoundedIcon from '@mui/icons-material/EmailRounded';
+import VerifiedRoundedIcon from '@mui/icons-material/VerifiedRounded';
+import Logo from './Logo';
+
+const EXPLORE = [
+  { label: 'Home', to: '/' },
+  { label: 'About', to: '/about' },
+  { label: 'Dashboard', to: '/dashboard' },
+  { label: 'My tests', to: '/attempts' },
+  { label: 'Profile', to: '/profile' },
+];
+
+const SUBJECTS = [
+  'History',
+  'Geography',
+  'Polity',
+  'Economy',
+  'Environment',
+  'Science & Technology',
+  'Art & Culture',
+  'Current Affairs',
+];
 
 const Footer = () => (
-  <footer className="bg-[#0b1220] border-t border-[#1e293b] pt-14 pb-8">
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-10">
-        <div className="space-y-4">
-          <h2 className="text-xl font-bold text-[#f8fafc]">
-            Swadharma <span className="text-amber-500">IAS</span>
-          </h2>
-          <p className="text-[#94a3b8] leading-relaxed text-sm">
-            A free UPSC Prelims test series. Timed papers, official marking scheme and detailed
-            explanations for every question — open to every aspirant.
-          </p>
-          <div className="flex items-center gap-2 text-[#94a3b8] text-sm">
-            <BookOpen size={16} className="text-blue-500" />
-            Free, forever
-          </div>
-        </div>
+  <Box
+    component="footer"
+    sx={{
+      mt: { xs: 8, md: 12 },
+      background: 'linear-gradient(180deg, #0B1120 0%, #0F172A 100%)',
+      color: 'rgba(226, 232, 240, 0.78)',
+      position: 'relative',
+      overflow: 'hidden',
+    }}
+  >
+    <Box
+      sx={{
+        position: 'absolute',
+        inset: 0,
+        background:
+          'radial-gradient(60% 60% at 15% 0%, rgba(79,70,229,0.28) 0%, transparent 60%), radial-gradient(50% 50% at 90% 10%, rgba(124,58,237,0.22) 0%, transparent 60%)',
+        pointerEvents: 'none',
+      }}
+    />
+    <Container maxWidth="xl" sx={{ position: 'relative' }}>
+      <Grid container spacing={4} sx={{ py: { xs: 6, md: 8 } }}>
+        <Grid size={{ xs: 12, md: 4 }}>
+          <Box sx={{ '& .MuiTypography-root': { color: '#fff' } }}>
+            <Logo size={44} />
+          </Box>
+          <Typography variant="body2" sx={{ mt: 2.5, maxWidth: 340, lineHeight: 1.75 }}>
+            A free UPSC Prelims test series built for aspirants who want real timed papers,
+            official marking and detailed explanations — without a single rupee spent.
+          </Typography>
+          <Stack direction="row" spacing={1} sx={{ alignItems: 'center', mt: 2.5 }}>
+            <VerifiedRoundedIcon sx={{ color: '#22C55E', fontSize: 20 }} />
+            <Typography variant="body2" sx={{ color: '#fff', fontWeight: 600 }}>
+              Free forever · no paywalls
+            </Typography>
+          </Stack>
+        </Grid>
 
-        <div>
-          <h3 className="text-base font-semibold text-[#f8fafc] mb-4">Explore</h3>
-          <ul className="space-y-3">
-            {[
-              { name: 'Home', path: '/' },
-              { name: 'About', path: '/about' },
-              { name: 'Dashboard', path: '/dashboard' },
-              { name: 'My tests', path: '/attempts' },
-            ].map((link) => (
-              <li key={link.path}>
+        <Grid size={{ xs: 6, sm: 3, md: 2 }}>
+          <Typography variant="overline" sx={{ color: '#fff', fontWeight: 700 }}>
+            Explore
+          </Typography>
+          <Stack component="ul" spacing={1.25} sx={{ listStyle: 'none', p: 0, mt: 1.5 }}>
+            {EXPLORE.map((item) => (
+              <li key={item.label}>
                 <Link
-                  to={link.path}
-                  className="text-[#94a3b8] hover:text-amber-500 transition-colors text-sm flex items-center gap-2"
+                  component={RouterLink}
+                  to={item.to}
+                  underline="none"
+                  sx={{ color: 'rgba(226,232,240,0.75)', fontSize: 14, '&:hover': { color: '#fff' } }}
                 >
-                  <span className="h-1 w-1 bg-[#334155] rounded-full" />
-                  {link.name}
+                  {item.label}
                 </Link>
               </li>
             ))}
-          </ul>
-        </div>
+          </Stack>
+        </Grid>
 
-        <div>
-          <h3 className="text-base font-semibold text-[#f8fafc] mb-4">Contact</h3>
-          <ul className="space-y-3 text-[#94a3b8] text-sm">
-            <li className="flex items-center gap-2">
-              <Mail size={16} className="text-blue-500" />
-              <a href="mailto:contact@swadharmaias.com" className="hover:text-amber-500">
+        <Grid size={{ xs: 6, sm: 3, md: 3 }}>
+          <Typography variant="overline" sx={{ color: '#fff', fontWeight: 700 }}>
+            Subjects
+          </Typography>
+          <Stack component="ul" spacing={1.25} sx={{ listStyle: 'none', p: 0, mt: 1.5 }}>
+            {SUBJECTS.map((subject) => (
+              <li key={subject}>
+                <Link
+                  component={RouterLink}
+                  to="/#subjects"
+                  underline="none"
+                  sx={{ color: 'rgba(226,232,240,0.75)', fontSize: 14, '&:hover': { color: '#fff' } }}
+                >
+                  {subject}
+                </Link>
+              </li>
+            ))}
+          </Stack>
+        </Grid>
+
+        <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+          <Typography variant="overline" sx={{ color: '#fff', fontWeight: 700 }}>
+            Contact
+          </Typography>
+          <Stack spacing={1.5} sx={{ mt: 1.5 }}>
+            <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center' }}>
+              <EmailRoundedIcon sx={{ color: '#818CF8', fontSize: 20 }} />
+              <Link
+                href="mailto:contact@swadharmaias.com"
+                underline="none"
+                sx={{ color: 'rgba(226,232,240,0.85)', fontSize: 14, '&:hover': { color: '#fff' } }}
+              >
                 contact@swadharmaias.com
-              </a>
-            </li>
-            <li>
-              Swadharma IAS Academy, Ashok Nagar X Roads, Hyderabad - 500020
-            </li>
-          </ul>
-        </div>
-      </div>
+              </Link>
+            </Stack>
+            <Typography variant="body2" sx={{ lineHeight: 1.7 }}>
+              Swadharma IAS Academy
+              <br />
+              Ashok Nagar X Roads, Hyderabad — 500020
+            </Typography>
+            <Typography variant="caption" sx={{ color: 'rgba(226,232,240,0.55)' }}>
+              Support replies within one working day.
+            </Typography>
+          </Stack>
+        </Grid>
+      </Grid>
 
-      <div className="border-t border-[#1e293b] pt-6 flex flex-col md:flex-row justify-between items-center gap-3">
-        <p className="text-[#64748b] text-sm text-center md:text-left">
-          &copy; {new Date().getFullYear()} Swadharma IAS Academy. All rights reserved.
-        </p>
-        <p className="text-[#475569] text-xs">Forging the Steel Frame of India</p>
-      </div>
-    </div>
-  </footer>
+      <Divider sx={{ borderColor: 'rgba(148, 163, 184, 0.18)' }} />
+      <Stack
+        direction={{ xs: 'column', md: 'row' }}
+        
+        
+        spacing={1.5}
+        sx={{ justifyContent: 'space-between', alignItems: { xs: 'center', md: 'center' }, py: 3 }}
+      >
+        <Typography variant="body2" sx={{ color: 'rgba(226,232,240,0.6)' }}>
+          © {new Date().getFullYear()} Swadharma IAS Academy. All rights reserved.
+        </Typography>
+        <Typography variant="caption" sx={{ color: 'rgba(226,232,240,0.45)' }}>
+          Forging the Steel Frame of India · Practice material only, not affiliated with UPSC
+        </Typography>
+      </Stack>
+    </Container>
+  </Box>
 );
 
 export default Footer;
