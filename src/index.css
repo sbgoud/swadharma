@@ -24,18 +24,10 @@ html {
 
 body {
   margin: 0;
-  background-color: #f6f7fb;
-  color: #0f172a;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-}
-
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #080c17;
-    color: #f1f5f9;
-  }
+  /* Background, colour and font come from the MUI theme (CssBaseline). */
 }
 
 img,
@@ -77,18 +69,6 @@ svg {
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-}
-
-.glass-panel {
-  background: rgba(255, 255, 255, 0.72);
-  backdrop-filter: blur(18px);
-  -webkit-backdrop-filter: blur(18px);
-}
-
-@media (prefers-color-scheme: dark) {
-  .glass-panel {
-    background: rgba(17, 24, 39, 0.72);
-  }
 }
 
 .soft-grid {

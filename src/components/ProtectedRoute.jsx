@@ -1,4 +1,6 @@
 import { Navigate, useLocation } from 'react-router-dom';
+import Box from '@mui/material/Box';
+import CircularProgress from '@mui/material/CircularProgress';
 import { useAuth } from '../context/AuthContext';
 
 /**
@@ -12,9 +14,9 @@ const ProtectedRoute = ({ children }) => {
 
   if (loading) {
     return (
-      <div className="min-h-[60vh] flex items-center justify-center">
-        <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600" />
-      </div>
+      <Box sx={{ minHeight: '60vh', display: 'grid', placeItems: 'center' }}>
+        <CircularProgress size={38} thickness={4} />
+      </Box>
     );
   }
 

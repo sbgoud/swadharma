@@ -47,7 +47,7 @@ const PILLARS = [
   },
 ];
 
-const Home = () => {
+const About = () => {
   const { user } = useAuth();
   const ctaHref = user ? '/dashboard' : '/login';
 
@@ -198,4 +198,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default About;

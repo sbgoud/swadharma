@@ -166,7 +166,7 @@ const HeroMock = () => {
   ];
 
   return (
-    <Box sx={{ position: 'relative' }}>
+    <Box sx={{ position: 'relative' }} aria-hidden="true">
       <Paper
         elevation={0}
         sx={{
