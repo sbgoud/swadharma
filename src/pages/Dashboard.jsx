@@ -1,7 +1,15 @@
 import { useEffect, useMemo, useState } from 'react';
-import { useNavigate } from 'react-router-dom';
-import { AlertCircle, CheckCircle2, Clock, PlayCircle, Settings2 } from 'lucide-react';
-import { fetchSubjectCounts, startExam } from '../services/examService';
+import { Link, useNavigate } from 'react-router-dom';
+import {
+  AlertCircle,
+  CheckCircle2,
+  Clock,
+  History,
+  PlayCircle,
+  Settings2,
+  TrendingUp,
+} from 'lucide-react';
+import { fetchMyAttempts, fetchSubjectCounts, startExam } from '../services/examService';
 import { appConfig } from '../config/env';
 import Button from '../components/Button';
 
@@ -21,17 +29,19 @@ const Dashboard = () => {
   const [selected, setSelected] = useState([]);
   const [numQuestions, setNumQuestions] = useState(appConfig.defaultQuestions);
   const [difficulty, setDifficulty] = useState('');
+  const [attempts, setAttempts] = useState([]);
   const [loading, setLoading] = useState(true);
   const [starting, setStarting] = useState(false);
   const [error, setError] = useState(null);
 
   useEffect(() => {
     let active = true;
-    fetchSubjectCounts()
-      .then((data) => {
+    Promise.all([fetchSubjectCounts(), fetchMyAttempts().catch(() => [])])
+      .then(([data, history]) => {
         if (!active) return;
         setSubjects(data);
         setSelected(data.map((item) => item.slug));
+        setAttempts(history);
       })
       .catch(() => setError('Could not load the subject list. Please refresh.'))
       .finally(() => active && setLoading(false));
@@ -57,23 +67,26 @@ const Dashboard = () => {
   const effectiveQuestions = Math.min(numQuestions, Math.max(appConfig.minQuestions, totalAvailable));
   const duration = durationFor(effectiveQuestions);
 
-  const handleStart = async () => {
+  const stats = useMemo(() => {
+    const done = attempts.filter((attempt) => attempt.submitted_at && attempt.total);
+    if (!done.length) return { count: 0, average: 0, best: 0 };
+    const percentages = done.map(
+      (attempt) => (Number(attempt.score || 0) / (attempt.total * 2)) * 100
+    );
+    return {
+      count: done.length,
+      average: percentages.reduce((sum, value) => sum + value, 0) / percentages.length,
+      best: Math.max(...percentages),
+    };
+  }, [attempts]);
+
+  const inProgress = attempts.find((attempt) => !attempt.submitted_at);
+
+  const startWith = async (config) => {
     setError(null);
-    if (!selected.length) {
-      setError('Select at least one subject.');
-      return;
-    }
-    if (!effectiveQuestions) {
-      setError('No questions available for the selected subjects.');
-      return;
-    }
     setStarting(true);
     try {
-      const attempt = await startExam({
-        subjectSlugs: selected,
-        numQuestions: effectiveQuestions,
-        difficulty: difficulty || null,
-      });
+      const attempt = await startExam(config);
       if (!attempt?.attempt_id) throw new Error('The exam could not be created.');
       navigate(`/exam/${attempt.attempt_id}`);
     } catch (err) {
@@ -82,13 +95,61 @@ const Dashboard = () => {
     }
   };
 
+  const handleStart = async () => {
+    if (!selected.length) {
+      setError('Select at least one subject.');
+      return;
+    }
+    if (!totalAvailable) {
+      setError('No questions available for the selected subjects.');
+      return;
+    }
+    await startWith({
+      subjectSlugs: selected,
+      numQuestions: effectiveQuestions,
+      difficulty: difficulty || null,
+    });
+  };
+
+  const startSubjectTest = (subject) => {
+    const available = subject.question_count || 0;
+    const count = Math.min(appConfig.defaultQuestions, available);
+    setSelected([subject.slug]);
+    setNumQuestions(count);
+    setDifficulty('');
+    return startWith({
+      subjectSlugs: [subject.slug],
+      numQuestions: count,
+      difficulty: null,
+    });
+  };
+
+  const startFullPaper = () => {
+    setSelected(subjects.map((item) => item.slug));
+    setNumQuestions(appConfig.defaultQuestions);
+    setDifficulty('');
+    return startWith({
+      subjectSlugs: subjects.map((item) => item.slug),
+      numQuestions: appConfig.defaultQuestions,
+      difficulty: null,
+    });
+  };
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-      <header className="mb-8">
-        <h1 className="text-3xl font-bold text-slate-900">Dashboard</h1>
-        <p className="text-slate-600 mt-1">
-          Configure a prelims paper and start. Every attempt is timed and scored on the server.
-        </p>
+      <header className="mb-8 flex flex-wrap items-end justify-between gap-4">
+        <div>
+          <h1 className="text-3xl font-bold text-slate-900">Dashboard</h1>
+          <p className="text-slate-600 mt-1">
+            Configure a prelims paper and start. Every attempt is timed and scored on the server.
+          </p>
+        </div>
+        <Link
+          to="/attempts"
+          className="inline-flex items-center gap-2 text-sm font-medium text-blue-600 hover:underline"
+        >
+          <History className="h-4 w-4" /> Attempt history
+        </Link>
       </header>
 
       {error && (
@@ -97,6 +158,67 @@ const Dashboard = () => {
           <span>{error}</span>
         </div>
       )}
+
+      {inProgress && (
+        <div className="mb-6 p-4 rounded-xl bg-blue-50 border border-blue-100 flex flex-wrap items-center justify-between gap-3">
+          <p className="text-sm text-blue-900">
+            You have a paper in progress ({inProgress.total} questions). Continue where you left off?
+          </p>
+          <Link
+            to={`/exam/${inProgress.id}`}
+            className="px-4 py-2 rounded-lg bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700"
+          >
+            Resume paper
+          </Link>
+        </div>
+      )}
+
+      {/* Quick stats */}
+      <dl className="grid grid-cols-3 gap-4 mb-6">
+        {[
+          { label: 'Papers attempted', value: stats.count, icon: <CheckCircle2 className="h-4 w-4" /> },
+          { label: 'Average score', value: `${stats.average.toFixed(1)}%`, icon: <TrendingUp className="h-4 w-4" /> },
+          { label: 'Best score', value: `${stats.best.toFixed(1)}%`, icon: <TrendingUp className="h-4 w-4" /> },
+        ].map((item) => (
+          <div
+            key={item.label}
+            className="bg-white rounded-xl border border-slate-200 shadow-sm p-4 flex items-center gap-3"
+          >
+            <span className="h-9 w-9 rounded-lg bg-blue-50 text-blue-600 flex items-center justify-center flex-shrink-0">
+              {item.icon}
+            </span>
+            <span className="min-w-0">
+              <span className="block text-xs uppercase tracking-wide text-slate-500">
+                {item.label}
+              </span>
+              <span className="block text-lg font-bold text-slate-900">{item.value}</span>
+            </span>
+          </div>
+        ))}
+      </dl>
+
+      {/* Quick starts */}
+      <div className="grid sm:grid-cols-2 gap-4 mb-6">
+        <button
+          type="button"
+          onClick={startFullPaper}
+          disabled={starting || !subjects.length}
+          className="text-left rounded-2xl border border-blue-200 bg-blue-50/60 p-5 hover:border-blue-400 hover:bg-blue-50 transition disabled:opacity-60"
+        >
+          <span className="flex items-center gap-2 font-semibold text-slate-900">
+            <PlayCircle className="h-5 w-5 text-blue-600" /> Full mixed paper
+          </span>
+          <span className="mt-1 block text-sm text-slate-600">
+            All eight GS subjects, 100 questions in 120 minutes — exactly the UPSC prelims format.
+          </span>
+        </button>
+        <div className="rounded-2xl border border-slate-200 bg-white p-5">
+          <p className="font-semibold text-slate-900">Subject-wise test</p>
+          <p className="mt-1 text-sm text-slate-600">
+            Pick a subject below to run a focused paper on that theme alone.
+          </p>
+        </div>
+      </div>
 
       <div className="grid lg:grid-cols-3 gap-6">
         {/* Subjects */}
@@ -134,30 +256,42 @@ const Dashboard = () => {
               {subjects.map((subject) => {
                 const active = selected.includes(subject.slug);
                 return (
-                  <button
+                  <div
                     key={subject.slug}
-                    type="button"
-                    onClick={() => toggleSubject(subject.slug)}
-                    className={`flex items-start gap-3 text-left rounded-xl border p-4 transition ${
+                    className={`flex items-start gap-3 rounded-xl border p-4 transition ${
                       active
                         ? 'border-blue-500 bg-blue-50/60 ring-1 ring-blue-500'
                         : 'border-slate-200 hover:border-slate-300 hover:bg-slate-50'
                     }`}
                   >
-                    <span
-                      className={`mt-0.5 h-5 w-5 rounded border flex items-center justify-center flex-shrink-0 ${
-                        active ? 'bg-blue-600 border-blue-600' : 'border-slate-300 bg-white'
-                      }`}
+                    <button
+                      type="button"
+                      onClick={() => toggleSubject(subject.slug)}
+                      className="flex items-start gap-3 text-left flex-1 min-w-0"
                     >
-                      {active && <CheckCircle2 className="h-4 w-4 text-white" />}
-                    </span>
-                    <span className="flex-1">
-                      <span className="block font-medium text-slate-900">{subject.name}</span>
-                      <span className="block text-xs text-slate-500 mt-0.5">
-                        {subject.question_count} questions available
+                      <span
+                        className={`mt-0.5 h-5 w-5 rounded border flex items-center justify-center flex-shrink-0 ${
+                          active ? 'bg-blue-600 border-blue-600' : 'border-slate-300 bg-white'
+                        }`}
+                      >
+                        {active && <CheckCircle2 className="h-4 w-4 text-white" />}
                       </span>
-                    </span>
-                  </button>
+                      <span className="flex-1 min-w-0">
+                        <span className="block font-medium text-slate-900">{subject.name}</span>
+                        <span className="block text-xs text-slate-500 mt-0.5">
+                          {subject.question_count} questions available
+                        </span>
+                      </span>
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => startSubjectTest(subject)}
+                      disabled={starting || !subject.question_count}
+                      className="self-center px-2.5 py-1 rounded-md text-xs font-semibold text-blue-600 border border-blue-200 hover:bg-blue-50 disabled:opacity-40 whitespace-nowrap"
+                    >
+                      Test
+                    </button>
+                  </div>
                 );
               })}
             </div>
@@ -242,7 +376,7 @@ const Dashboard = () => {
             onClick={handleStart}
             loading={starting}
             className="w-full justify-center py-3 mt-6"
-            disabled={!selected.length}
+            disabled={!selected.length || !totalAvailable}
           >
             <PlayCircle className="mr-2 h-5 w-5" /> Start exam
           </Button>
