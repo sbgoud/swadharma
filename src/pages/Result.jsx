@@ -1,32 +1,78 @@
 import { useEffect, useMemo, useState } from 'react';
-import { Link, useLocation, useParams } from 'react-router-dom';
-import { AlertCircle, Award, CheckCircle2, ChevronDown, Clock, Home, Loader2, XCircle } from 'lucide-react';
-import { fetchAttemptResult } from '../services/examService';
+import { Link as RouterLink, useLocation, useParams } from 'react-router-dom';
+import Accordion from '@mui/material/Accordion';
+import AccordionDetails from '@mui/material/AccordionDetails';
+import AccordionSummary from '@mui/material/AccordionSummary';
+import Alert from '@mui/material/Alert';
+import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import Chip from '@mui/material/Chip';
+import Container from '@mui/material/Container';
+import Divider from '@mui/material/Divider';
+import Grid from '@mui/material/Grid';
+import LinearProgress from '@mui/material/LinearProgress';
+import Stack from '@mui/material/Stack';
+import ToggleButton from '@mui/material/ToggleButton';
+import ToggleButtonGroup from '@mui/material/ToggleButtonGroup';
+import Typography from '@mui/material/Typography';
+import { alpha } from '@mui/material/styles';
+import ArrowForwardRoundedIcon from '@mui/icons-material/ArrowForwardRounded';
+import CancelRoundedIcon from '@mui/icons-material/CancelRounded';
+import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
+import EmojiEventsRoundedIcon from '@mui/icons-material/EmojiEventsRounded';
+import ExpandMoreRoundedIcon from '@mui/icons-material/ExpandMoreRounded';
+import HelpOutlineRoundedIcon from '@mui/icons-material/HelpOutlineRounded';
+import InsightsRoundedIcon from '@mui/icons-material/InsightsRounded';
+import RemoveCircleRoundedIcon from '@mui/icons-material/RemoveCircleRounded';
+import ScheduleRoundedIcon from '@mui/icons-material/ScheduleRounded';
+import { fetchAttemptResult, fetchMyAttempts } from '../services/examService';
+import { StatCard, EmptyState } from '../components/ui';
+import ScoreDonut from '../components/charts/ScoreDonut';
+import SubjectBars from '../components/charts/SubjectBars';
+import TrendChart from '../components/charts/TrendChart';
 
-const LABELS = ['A', 'B', 'C', 'D'];
 const FILTERS = [
   { value: 'all', label: 'All' },
-  { value: 'incorrect', label: 'Incorrect' },
-  { value: 'unanswered', label: 'Unanswered' },
   { value: 'correct', label: 'Correct' },
+  { value: 'incorrect', label: 'Incorrect' },
+  { value: 'unanswered', label: 'Skipped' },
 ];
+
+const verdictFor = (percentage) => {
+  if (percentage >= 60) return { label: 'Excellent', color: '#16A34A' };
+  if (percentage >= 40) return { label: 'Good attempt', color: '#4F46E5' };
+  if (percentage >= 25) return { label: 'Needs revision', color: '#D97706' };
+  return { label: 'Keep practising', color: '#E11D48' };
+};
 
 const Result = () => {
   const { attemptId } = useParams();
   const location = useLocation();
   const [result, setResult] = useState(location.state?.result || null);
+  const [attempts, setAttempts] = useState([]);
+  const [filter, setFilter] = useState('all');
   const [loading, setLoading] = useState(!location.state?.result);
   const [error, setError] = useState(null);
-  const [filter, setFilter] = useState('all');
-  const [openId, setOpenId] = useState(null);
 
   useEffect(() => {
-    if (result) return;
     let active = true;
-    fetchAttemptResult(attemptId)
-      .then((data) => active && setResult(data))
-      .catch((err) => active && setError(err.message || 'Could not load the result.'))
-      .finally(() => active && setLoading(false));
+    const load = async () => {
+      try {
+        if (!result) {
+          const data = await fetchAttemptResult(attemptId);
+          if (active) setResult(data);
+        }
+        const history = await fetchMyAttempts().catch(() => []);
+        if (active) setAttempts(history);
+      } catch (err) {
+        if (active) setError(err.message || 'Could not load the result.');
+      } finally {
+        if (active) setLoading(false);
+      }
+    };
+    load();
     return () => {
       active = false;
     };
@@ -34,6 +80,13 @@ const Result = () => {
   }, [attemptId]);
 
   const details = useMemo(() => result?.details || [], [result]);
+  const counts = useMemo(() => {
+    const correct = details.filter((item) => item.is_correct).length;
+    const incorrect = details.filter((item) => !item.is_correct && item.selected_label).length;
+    const unanswered = details.filter((item) => !item.selected_label).length;
+    return { correct, incorrect, unanswered, total: details.length };
+  }, [details]);
+
   const filtered = useMemo(() => {
     if (filter === 'incorrect') return details.filter((item) => !item.is_correct && item.selected_label);
     if (filter === 'unanswered') return details.filter((item) => !item.selected_label);
@@ -45,266 +98,351 @@ const Result = () => {
     const map = new Map();
     details.forEach((item) => {
       const key = item.subject || 'General Studies';
-      if (!map.has(key)) {
-        map.set(key, { subject: key, correct: 0, incorrect: 0, unanswered: 0, total: 0 });
-      }
+      if (!map.has(key)) map.set(key, { label: key, correct: 0, total: 0 });
       const row = map.get(key);
       row.total += 1;
       if (item.is_correct) row.correct += 1;
-      else if (item.selected_label) row.incorrect += 1;
-      else row.unanswered += 1;
     });
-    return [...map.values()].map((row) => ({
-      ...row,
-      score: Math.round((row.correct * 2 - row.incorrect * 0.66) * 100) / 100,
-      percentage: row.total ? (row.correct / row.total) * 100 : 0,
-    }));
+    return [...map.values()]
+      .map((row) => ({ label: row.label, value: Math.round((row.correct / row.total) * 100) }))
+      .sort((a, b) => b.value - a.value);
   }, [details]);
+
+  const trend = useMemo(
+    () =>
+      [...attempts]
+        .filter((attempt) => attempt.submitted_at && attempt.total)
+        .reverse()
+        .slice(-8)
+        .map((attempt, index) => ({
+          label: `P${index + 1}`,
+          value: Math.round((Number(attempt.score || 0) / (attempt.total * 2)) * 1000) / 10,
+        })),
+    [attempts]
+  );
 
   if (loading) {
     return (
-      <div className="min-h-[60vh] flex items-center justify-center">
-        <Loader2 className="h-8 w-8 animate-spin text-blue-600" />
-      </div>
+      <Container maxWidth="lg" sx={{ py: 6 }}>
+        <LinearProgress />
+      </Container>
     );
   }
 
   if (error || !result) {
     return (
-      <div className="max-w-2xl mx-auto px-4 py-20 text-center">
-        <AlertCircle className="h-10 w-10 text-amber-500 mx-auto mb-4" />
-        <h1 className="text-xl font-semibold text-slate-900 mb-2">Result unavailable</h1>
-        <p className="text-slate-600 mb-6">{error || 'This attempt could not be found.'}</p>
-        <Link
-          to="/attempts"
-          className="inline-block px-5 py-2.5 rounded-lg bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700"
-        >
-          View my attempts
-        </Link>
-      </div>
+      <Container maxWidth="md" sx={{ py: 8 }}>
+        <EmptyState
+          icon={<HelpOutlineRoundedIcon sx={{ fontSize: 40 }} />}
+          title="Result not available"
+          description={error || 'This result could not be loaded. It may belong to a different account.'}
+          action={
+            <Button component={RouterLink} to="/attempts" variant="contained">
+              Back to my tests
+            </Button>
+          }
+        />
+      </Container>
     );
   }
 
-  const percentage = Number(result.percentage || 0);
-  const timeUsed =
-    result.started_at && result.submitted_at
-      ? Math.max(
-          0,
-          Math.round(
-            (new Date(result.submitted_at).getTime() - new Date(result.started_at).getTime()) / 60000
-          )
-        )
-      : null;
-
-  const stats = [
-    { label: 'Score', value: `${result.score ?? 0} / ${result.max_score ?? 0}`, tone: 'text-blue-700' },
-    { label: 'Correct', value: result.correct ?? 0, tone: 'text-emerald-700' },
-    { label: 'Incorrect', value: result.incorrect ?? 0, tone: 'text-rose-700' },
-    { label: 'Unanswered', value: result.unanswered ?? 0, tone: 'text-slate-600' },
-  ];
+  const percentage = Number(result.percentage ?? 0);
+  const verdict = verdictFor(percentage);
+  const accuracy = counts.total ? Math.round((counts.correct / counts.total) * 100) : 0;
+  const negativeMarking = Math.round(counts.incorrect * 0.66 * 100) / 100;
+  const timeTaken = result.time_taken_minutes;
 
   return (
-    <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-      <header className="mb-8">
-        <Link to="/dashboard" className="text-sm text-blue-600 hover:underline inline-flex items-center gap-1">
-          <Home className="h-4 w-4" /> Back to dashboard
-        </Link>
-        <h1 className="text-3xl font-bold text-slate-900 mt-3">Result</h1>
-        <p className="text-slate-600 mt-1">
-          Submitted {new Date(result.submitted_at).toLocaleString('en-IN')}
-          {timeUsed !== null && ` · ${timeUsed} min spent`}
-          {result.duration_minutes ? ` · limit ${result.duration_minutes} min` : ''}
-        </p>
-      </header>
+    <Container maxWidth="lg" sx={{ py: { xs: 4, md: 6 } }}>
+      {/* ------------------------------------------------------------ Hero */}
+      <PaperHero result={result} percentage={percentage} verdict={verdict}>
+        <ScoreDonut value={percentage} size={168} caption="of maximum" />
+      </PaperHero>
 
-      {/* Summary */}
-      <section className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6 mb-6">
-        <div className="flex flex-col sm:flex-row sm:items-center gap-6">
-          <div className="flex-1">
-            <div className="flex items-end gap-3">
-              <span className="text-5xl font-extrabold text-slate-900">{result.score ?? 0}</span>
-              <span className="text-slate-400 text-lg font-medium pb-1">/ {result.max_score ?? 0}</span>
-            </div>
-            <div className="mt-3 h-2.5 bg-slate-100 rounded-full overflow-hidden">
-              <div
-                className="h-full bg-blue-600 rounded-full transition-all"
-                style={{ width: `${Math.min(100, Math.max(0, percentage))}%` }}
-              />
-            </div>
-            <p className="mt-2 text-sm text-slate-600">
-              {percentage.toFixed(2)}% accuracy · marking +2 / −0.66 / 0
-            </p>
-          </div>
-          <div className="grid grid-cols-3 gap-4 sm:gap-6 sm:grid-cols-1">
-            {stats.slice(1).map((stat) => (
-              <div key={stat.label} className="text-center sm:text-left">
-                <p className="text-xs uppercase tracking-wide text-slate-500">{stat.label}</p>
-                <p className={`text-2xl font-bold ${stat.tone}`}>{stat.value}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-        <div className="mt-6 flex flex-wrap gap-3 border-t border-slate-100 pt-4">
-          <Link
-            to="/dashboard"
-            className="px-4 py-2 rounded-lg bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700"
-          >
-            Take another test
-          </Link>
-          <Link
-            to="/attempts"
-            className="px-4 py-2 rounded-lg border border-slate-200 text-slate-700 text-sm font-medium hover:bg-slate-50"
-          >
-            Attempt history
-          </Link>
-        </div>
-      </section>
+      {/* ----------------------------------------------------------- Stats */}
+      <Grid container spacing={2.5} sx={{ mt: 1 }}>
+        <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+          <StatCard icon={<CheckCircleRoundedIcon />} label="Correct" value={counts.correct} caption={`${accuracy}% accuracy`} accent="#16A34A" />
+        </Grid>
+        <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+          <StatCard icon={<CancelRoundedIcon />} label="Incorrect" value={counts.incorrect} caption={`−${negativeMarking} marks`} accent="#E11D48" />
+        </Grid>
+        <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+          <StatCard icon={<RemoveCircleRoundedIcon />} label="Skipped" value={counts.unanswered} caption="0 marks" accent="#D97706" />
+        </Grid>
+        <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+          <StatCard icon={<ScheduleRoundedIcon />} label="Time taken" value={timeTaken ? `${timeTaken} min` : '—'} caption={`of ${result.duration_minutes || 120} min allowed`} accent="#4F46E5" />
+        </Grid>
+      </Grid>
 
-      {/* Subject-wise breakdown */}
-      {bySubject.length > 1 && (
-        <section className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6 mb-6">
-          <h2 className="text-lg font-semibold text-slate-900 mb-4">Subject-wise performance</h2>
-          <div className="overflow-x-auto -mx-6 px-6">
-            <table className="w-full text-sm min-w-[520px]">
-              <thead>
-                <tr className="text-left text-xs uppercase tracking-wide text-slate-500 border-b border-slate-100">
-                  <th className="font-medium pb-2">Subject</th>
-                  <th className="font-medium pb-2 text-right">Correct</th>
-                  <th className="font-medium pb-2 text-right">Wrong</th>
-                  <th className="font-medium pb-2 text-right">Skipped</th>
-                  <th className="font-medium pb-2 text-right">Accuracy</th>
-                  <th className="font-medium pb-2 text-right">Score</th>
-                </tr>
-              </thead>
-              <tbody>
-                {bySubject.map((row) => (
-                  <tr key={row.subject} className="border-b border-slate-50 last:border-0">
-                    <td className="py-2.5 pr-4 font-medium text-slate-900">{row.subject}</td>
-                    <td className="py-2.5 text-right text-emerald-700">{row.correct}</td>
-                    <td className="py-2.5 text-right text-rose-700">{row.incorrect}</td>
-                    <td className="py-2.5 text-right text-slate-500">{row.unanswered}</td>
-                    <td className="py-2.5 text-right text-slate-600">{row.percentage.toFixed(0)}%</td>
-                    <td className="py-2.5 text-right font-semibold text-slate-900">{row.score}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        </section>
-      )}
-
-      {/* Filters */}
-      <div className="flex flex-wrap items-center gap-2 mb-4">
-        {FILTERS.map((item) => (
-          <button
-            key={item.value}
-            type="button"
-            onClick={() => setFilter(item.value)}
-            className={`px-3.5 py-1.5 rounded-full text-sm font-medium border transition ${
-              filter === item.value
-                ? 'bg-slate-900 border-slate-900 text-white'
-                : 'bg-white border-slate-200 text-slate-600 hover:bg-slate-50'
-            }`}
-          >
-            {item.label}
-          </button>
-        ))}
-        <span className="text-sm text-slate-500 ml-auto">
-          {filtered.length} of {details.length} questions
-        </span>
-      </div>
-
-      {/* Review */}
-      <div className="space-y-3">
-        {filtered.map((item) => {
-          const open = openId === item.question_id;
-          return (
-            <div key={item.question_id} className="bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden">
-              <button
-                type="button"
-                onClick={() => setOpenId(open ? null : item.question_id)}
-                className="w-full text-left p-4 flex items-start gap-3 hover:bg-slate-50"
-              >
-                <span className="mt-0.5 flex-shrink-0">
-                  {item.is_correct ? (
-                    <CheckCircle2 className="h-5 w-5 text-emerald-600" />
-                  ) : item.selected_label ? (
-                    <XCircle className="h-5 w-5 text-rose-600" />
-                  ) : (
-                    <AlertCircle className="h-5 w-5 text-slate-400" />
-                  )}
-                </span>
-                <span className="flex-1">
-                  <span className="block text-[15px] font-medium text-slate-900 leading-relaxed">
-                    Q{item.position}. {item.question_text}
-                  </span>
-                  <span className="mt-1 flex flex-wrap items-center gap-2 text-xs text-slate-500">
-                    <span className="px-2 py-0.5 rounded-full bg-slate-100">{item.subject}</span>
-                    {item.source && <span>{item.source}{item.year ? `, ${item.year}` : ''}</span>}
-                  </span>
-                </span>
-                <ChevronDown
-                  className={`h-5 w-5 text-slate-400 transition-transform flex-shrink-0 ${open ? 'rotate-180' : ''}`}
-                />
-              </button>
-
-              {open && (
-                <div className="px-4 pb-4 space-y-3 border-t border-slate-100 pt-4">
-                  <div className="space-y-2">
-                    {LABELS.map((label) => {
-                      const option = item.options.find((opt) => opt.label === label);
-                      if (!option) return null;
-                      const isCorrect = item.correct_label === label;
-                      const isSelected = item.selected_label === label;
-                      return (
-                        <div
-                          key={label}
-                          className={`flex items-start gap-3 rounded-lg border p-3 text-sm ${
-                            isCorrect
-                              ? 'border-emerald-400 bg-emerald-50 text-emerald-900'
-                              : isSelected
-                              ? 'border-rose-300 bg-rose-50 text-rose-900'
-                              : 'border-slate-200 text-slate-700'
-                          }`}
-                        >
-                          <span className="font-bold flex-shrink-0">{label}.</span>
-                          <span className="flex-1 leading-relaxed">{option.option_text}</span>
-                          {isCorrect && <span className="text-xs font-semibold uppercase">Correct</span>}
-                          {isSelected && !isCorrect && (
-                            <span className="text-xs font-semibold uppercase">Your answer</span>
-                          )}
-                        </div>
-                      );
-                    })}
-                  </div>
-                  {!item.selected_label && (
-                    <p className="text-sm text-slate-500 italic">You did not attempt this question.</p>
-                  )}
-                  {item.explanation && (
-                    <div className="rounded-lg bg-blue-50 p-4 text-sm text-slate-700 leading-relaxed">
-                      <span className="font-semibold text-blue-800">Explanation: </span>
-                      {item.explanation}
-                    </div>
-                  )}
-                </div>
+      {/* ---------------------------------------------------------- Charts */}
+      <Grid container spacing={2.5} sx={{ mt: 1 }}>
+        <Grid size={{ xs: 12, md: 6 }}>
+          <Card sx={{ height: '100%' }}>
+            <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
+              <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center', mb: 2 }}>
+                <InsightsRoundedIcon sx={{ color: 'primary.main' }} />
+                <Box>
+                  <Typography variant="h6" sx={{ fontWeight: 700, color: 'text.primary', lineHeight: 1.2 }}>
+                    Subject-wise accuracy
+                  </Typography>
+                  <Typography variant="caption" color="text.secondary">
+                    Share of questions answered correctly
+                  </Typography>
+                </Box>
+              </Stack>
+              {bySubject.length ? (
+                <SubjectBars data={bySubject} />
+              ) : (
+                <Typography variant="body2" color="text.secondary">
+                  No subject data available for this attempt.
+                </Typography>
               )}
-            </div>
-          );
-        })}
-        {!filtered.length && (
-          <div className="text-center text-sm text-slate-500 py-10 bg-white rounded-xl border border-slate-200">
-            <Award className="h-8 w-8 mx-auto mb-2 text-slate-300" />
-            Nothing in this category.
-          </div>
-        )}
-      </div>
+            </CardContent>
+          </Card>
+        </Grid>
 
-      <p className="mt-8 text-xs text-slate-400 flex items-center gap-1">
-        <Clock className="h-3.5 w-3.5" /> Scores are calculated on the server using the official UPSC prelims
-        marking scheme.
-      </p>
-    </div>
+        <Grid size={{ xs: 12, md: 6 }}>
+          <Card sx={{ height: '100%' }}>
+            <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
+              <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center', mb: 2 }}>
+                <EmojiEventsRoundedIcon sx={{ color: 'warning.main' }} />
+                <Box>
+                  <Typography variant="h6" sx={{ fontWeight: 700, color: 'text.primary', lineHeight: 1.2 }}>
+                    Your score trend
+                  </Typography>
+                  <Typography variant="caption" color="text.secondary">
+                    Percentage across recent papers
+                  </Typography>
+                </Box>
+              </Stack>
+              {trend.length > 1 ? (
+                <TrendChart data={trend} />
+              ) : (
+                <Box sx={{ py: 4, textAlign: 'center' }}>
+                  <Typography variant="body2" color="text.secondary">
+                    Attempt another paper to see your trend over time.
+                  </Typography>
+                </Box>
+              )}
+            </CardContent>
+          </Card>
+        </Grid>
+      </Grid>
+
+      {/* --------------------------------------------------------- Review */}
+      <Card sx={{ mt: 2.5 }}>
+        <CardContent sx={{ p: { xs: 2.5, md: 3.5 }, '&:last-child': { pb: { xs: 2.5, md: 3.5 } } }}>
+          <Stack
+            direction={{ xs: 'column', md: 'row' }}
+            
+            
+            spacing={2}
+            sx={{ justifyContent: 'space-between', alignItems: { xs: 'stretch', md: 'center' }, mb: 2.5 }}
+          >
+            <Box>
+              <Typography variant="h5" sx={{ fontWeight: 700, color: 'text.primary' }}>
+                Answer review
+              </Typography>
+              <Typography variant="body2" color="text.secondary">
+                The correct answer and an explanation for every question.
+              </Typography>
+            </Box>
+            <ToggleButtonGroup
+              exclusive
+              size="small"
+              value={filter}
+              onChange={(_, value) => value && setFilter(value)}
+              aria-label="Filter questions"
+            >
+              {FILTERS.map((item) => (
+                <ToggleButton key={item.value} value={item.value}>
+                  {item.label}
+                  {item.value !== 'all' && (
+                    <Box component="span" sx={{ ml: 0.75, opacity: 0.6, fontSize: 12 }}>
+                      {item.value === 'correct' ? counts.correct : item.value === 'incorrect' ? counts.incorrect : counts.unanswered}
+                    </Box>
+                  )}
+                </ToggleButton>
+              ))}
+            </ToggleButtonGroup>
+          </Stack>
+
+          <Stack spacing={1.25}>
+            {filtered.map((item, index) => (
+              <Accordion key={item.question_id || index} disableGutters>
+                <AccordionSummary expandIcon={<ExpandMoreRoundedIcon />}>
+                  <Stack direction="row" spacing={1.5} sx={{ alignItems: 'center', width: '100%', minWidth: 0 }}>
+                    <StatusIcon correct={item.is_correct} answered={Boolean(item.selected_label)} />
+                    <Box sx={{ minWidth: 0, flexGrow: 1 }}>
+                      <Typography variant="subtitle2" sx={{ fontWeight: 700, color: 'text.primary' }} noWrap>
+                        Q{(item.position ?? index + 1)}. {item.question_text}
+                      </Typography>
+                      <Typography variant="caption" color="text.secondary">
+                        {item.subject} · your answer {item.selected_label || 'not answered'}
+                      </Typography>
+                    </Box>
+                    <Chip
+                      size="small"
+                      label={item.is_correct ? 'Correct' : item.selected_label ? 'Wrong' : 'Skipped'}
+                      sx={{
+                        display: { xs: 'none', sm: 'inline-flex' },
+                        bgcolor: item.is_correct
+                          ? (theme) => alpha(theme.palette.success.main, 0.12)
+                          : item.selected_label
+                            ? (theme) => alpha(theme.palette.error.main, 0.1)
+                            : 'action.hover',
+                        color: item.is_correct ? 'success.main' : item.selected_label ? 'error.main' : 'text.secondary',
+                      }}
+                    />
+                  </Stack>
+                </AccordionSummary>
+                <AccordionDetails>
+                  <Stack spacing={2}>
+                    <Box>
+                      <Typography variant="caption" sx={{ fontWeight: 700, color: 'text.secondary' }}>
+                        QUESTION
+                      </Typography>
+                      <Typography variant="body2" sx={{ color: 'text.primary', mt: 0.5, lineHeight: 1.7 }}>
+                        {item.question_text}
+                      </Typography>
+                    </Box>
+
+                    <Box>
+                      <Typography variant="caption" sx={{ fontWeight: 700, color: 'text.secondary' }}>
+                        CORRECT ANSWER
+                      </Typography>
+                      <Stack direction="row" spacing={1} sx={{ alignItems: 'center', mt: 0.5 }}>
+                        <Chip
+                          label={item.correct_label}
+                          size="small"
+                          sx={{ bgcolor: 'success.main', color: '#fff', fontWeight: 800, width: 30 }}
+                        />
+                        <Typography variant="body2" sx={{ color: 'text.primary' }}>
+                          {item.options?.find((option) => option.label === item.correct_label)?.option_text || '—'}
+                        </Typography>
+                      </Stack>
+                    </Box>
+
+                    {item.selected_label && !item.is_correct && (
+                      <Box>
+                        <Typography variant="caption" sx={{ fontWeight: 700, color: 'text.secondary' }}>
+                          YOUR ANSWER
+                        </Typography>
+                        <Stack direction="row" spacing={1} sx={{ alignItems: 'center', mt: 0.5 }}>
+                          <Chip
+                            label={item.selected_label}
+                            size="small"
+                            sx={{ bgcolor: 'error.main', color: '#fff', fontWeight: 800, width: 30 }}
+                          />
+                          <Typography variant="body2" sx={{ color: 'text.primary' }}>
+                            {item.options?.find((option) => option.label === item.selected_label)?.option_text || '—'}
+                          </Typography>
+                        </Stack>
+                      </Box>
+                    )}
+
+                    {item.explanation && (
+                      <Box sx={{ p: 2, borderRadius: 3, bgcolor: (theme) => alpha(theme.palette.primary.main, 0.06) }}>
+                        <Typography variant="caption" sx={{ fontWeight: 700, color: 'primary.main' }}>
+                          EXPLANATION
+                        </Typography>
+                        <Typography variant="body2" sx={{ color: 'text.primary', mt: 0.5, lineHeight: 1.75 }}>
+                          {item.explanation}
+                        </Typography>
+                      </Box>
+                    )}
+
+                    {(item.source || item.year) && (
+                      <Typography variant="caption" color="text.secondary">
+                        Source: {item.source}
+                        {item.year ? `, ${item.year}` : ''}
+                      </Typography>
+                    )}
+                  </Stack>
+                </AccordionDetails>
+              </Accordion>
+            ))}
+          </Stack>
+
+          {!filtered.length && (
+            <Box sx={{ py: 4, textAlign: 'center' }}>
+              <Typography variant="body2" color="text.secondary">
+                No questions in this category.
+              </Typography>
+            </Box>
+          )}
+
+          <Divider sx={{ my: 3 }} />
+          <Stack direction={{ xs: 'column', sm: 'row' }} spacing={1.5} sx={{ justifyContent: 'center' }}>
+            <Button component={RouterLink} to="/dashboard" variant="contained" endIcon={<ArrowForwardRoundedIcon />}>
+              Take another test
+            </Button>
+            <Button component={RouterLink} to="/attempts" variant="outlined" color="inherit" sx={{ borderColor: 'divider' }}>
+              View all attempts
+            </Button>
+          </Stack>
+        </CardContent>
+      </Card>
+    </Container>
   );
 };
+
+const StatusIcon = ({ correct, answered }) => {
+  if (correct) {
+    return <CheckCircleRoundedIcon sx={{ color: 'success.main', fontSize: 22 }} />;
+  }
+  if (answered) {
+    return <CancelRoundedIcon sx={{ color: 'error.main', fontSize: 22 }} />;
+  }
+  return <RemoveCircleRoundedIcon sx={{ color: 'text.disabled', fontSize: 22 }} />;
+};
+
+const PaperHero = ({ result, percentage, verdict, children }) => (
+  <Card
+    sx={{
+      mb: 1,
+      overflow: 'hidden',
+      background: 'linear-gradient(120deg, rgba(79,70,229,0.95) 0%, rgba(109,40,217,0.92) 55%, rgba(37,99,235,0.95) 100%)',
+      color: '#fff',
+      border: 0,
+      boxShadow: '0 40px 80px -45px rgba(79, 70, 229, 0.9)',
+    }}
+  >
+    <CardContent sx={{ p: { xs: 3, md: 4.5 }, '&:last-child': { pb: { xs: 3, md: 4.5 } } }}>
+      <Stack
+        direction={{ xs: 'column', md: 'row' }}
+        spacing={4} sx={{ alignItems: { xs: 'flex-start', md: 'center' }, justifyContent: 'space-between' }}>
+        <Box sx={{ color: 'inherit' }}>
+          <Chip
+            label={verdict.label}
+            size="small"
+            sx={{ bgcolor: 'rgba(255,255,255,0.18)', color: '#fff', fontWeight: 700, mb: 2 }}
+          />
+          <Typography variant="h3" sx={{ color: '#fff', mb: 1 }}>
+            {result.score} / {result.total * 2} marks
+          </Typography>
+          <Typography sx={{ color: 'rgba(255,255,255,0.85)', maxWidth: 460, lineHeight: 1.7 }}>
+            {result.correct_count} correct, {result.incorrect_count} incorrect and{' '}
+            {result.unanswered_count} unattempted. Every question below is explained.
+          </Typography>
+          <Typography variant="caption" sx={{ color: 'rgba(255,255,255,0.7)', display: 'block', mt: 2 }}>
+            Attempted on{' '}
+            {new Date(result.started_at).toLocaleString('en-IN', {
+              day: '2-digit',
+              month: 'short',
+              year: 'numeric',
+              hour: '2-digit',
+              minute: '2-digit',
+            })}
+          </Typography>
+        </Box>
+        <Box sx={{ bgcolor: 'rgba(255,255,255,0.96)', borderRadius: 4, p: 2 }}>
+          {children}
+        </Box>
+      </Stack>
+    </CardContent>
+  </Card>
+);
 
 export default Result;
