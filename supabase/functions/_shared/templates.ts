@@ -17,8 +17,8 @@ const BRAND = {
   indigoDark: '#3730A3',
   violet: '#7C3AED',
   ink: '#0B1120',
-  body: #334155,
-  muted: #64748B,
+  body: '#334155',
+  muted: '#64748B',
   border: '#E2E8F0',
   surface: '#F8FAFC',
 };
