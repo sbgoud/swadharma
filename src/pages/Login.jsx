@@ -32,7 +32,7 @@ import { heroGradient } from '../theme/theme';
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 const HIGHLIGHTS = [
-  'Unlimited timed prelims papers',
+  'Unlimited timed prelims papers during launch',
   'Official +2 / −0.66 marking',
   'Written explanation for every question',
   'Subject-wise analytics and history',
@@ -163,7 +163,7 @@ const Login = () => {
               <Box sx={{ position: 'relative' }}>
                 <Chip
                   icon={<VerifiedRoundedIcon sx={{ fontSize: 16 }} />}
-                  label="100% free for every aspirant"
+                  label="Free during launch for every aspirant"
                   sx={{
                     bgcolor: 'rgba(255,255,255,0.16)',
                     color: '#fff',
@@ -177,7 +177,7 @@ const Login = () => {
                 </Typography>
                 <Typography sx={{ color: 'rgba(255,255,255,0.85)', lineHeight: 1.75, mb: 4 }}>
                   Create an account and attempt server-sampled, timed papers with the official UPSC
-                  marking scheme — no payment details, ever.
+                  marking scheme — no payment details needed to start.
                 </Typography>
                 <Stack spacing={1.75}>
                   {HIGHLIGHTS.map((item) => (
@@ -198,10 +198,10 @@ const Login = () => {
             <Card sx={{ height: '100%' }}>
               <CardContent sx={{ p: { xs: 3, sm: 4.5 }, '&:last-child': { pb: { xs: 3, sm: 4.5 } } }}>
                 <Typography variant="h4" sx={{ fontWeight: 700, color: 'text.primary', mb: 0.75 }}>
-                  {isSignUp ? 'Create your free account' : 'Welcome back'}
+                  {isSignUp ? 'Create your account' : 'Welcome back'}
                 </Typography>
                 <Typography variant="body2" color="text.secondary" sx={{ mb: 3 }}>
-                  Free, unlimited UPSC Prelims practice. No payment required.
+                  UPSC Prelims practice, free during launch. No payment required to start.
                 </Typography>
 
                 <Tabs
@@ -323,7 +323,7 @@ const Login = () => {
                   )}
 
                   <Button type="submit" variant="contained" size="large" disabled={busy}>
-                    {busy ? 'Please wait…' : isSignUp ? 'Create free account' : 'Sign in'}
+                    {busy ? 'Please wait…' : isSignUp ? 'Create your account' : 'Sign in'}
                   </Button>
 
                   {!isSignUp && (
@@ -347,7 +347,7 @@ const Login = () => {
                     }}
                     sx={{ p: 0, minWidth: 0 }}
                   >
-                    {isSignUp ? 'Sign in' : 'Create a free account'}
+                    {isSignUp ? 'Sign in' : 'Create your account'}
                   </Button>
                 </Stack>
               </CardContent>

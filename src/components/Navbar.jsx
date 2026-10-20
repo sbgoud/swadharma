@@ -169,7 +169,7 @@ const Navbar = () => {
                   size="small"
                   sx={{ px: 2.5, display: { xs: 'none', sm: 'inline-flex' } }}
                 >
-                  Start free
+                  Start practising free
                 </Button>
               </>
             )}
@@ -232,7 +232,7 @@ const Navbar = () => {
           ) : (
             <Stack spacing={1.5}>
               <Button fullWidth variant="contained" component={RouterLink} to="/login" onClick={() => setDrawerOpen(false)}>
-                Start free
+                Start practising free
               </Button>
               <Button fullWidth variant="outlined" color="inherit" component={RouterLink} to="/login" onClick={() => setDrawerOpen(false)}>
                 Sign in
@@ -240,7 +240,7 @@ const Navbar = () => {
             </Stack>
           )}
           <Chip
-            label="100% free · no payment"
+            label="Free during launch"
             size="small"
             sx={{ mt: 2, width: '100%', bgcolor: 'action.hover' }}
           />

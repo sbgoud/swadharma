@@ -151,7 +151,7 @@ const Profile = () => {
               <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center' }}>
                 <CheckCircleRoundedIcon sx={{ color: 'success.main' }} />
                 <Typography variant="body2" color="text.secondary">
-                  Your account is free — there is no plan, invoice or payment method to manage.
+                  No plan, invoice or payment method to manage — practice is free during launch.
                 </Typography>
               </Stack>
             </CardContent>

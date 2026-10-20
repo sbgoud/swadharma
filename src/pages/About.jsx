@@ -69,12 +69,12 @@ const About = () => {
               About the platform
             </Typography>
             <Typography variant="h1" sx={{ color: 'text.primary', mt: 1.5, mb: 2.5, fontSize: 'clamp(2rem, 4.4vw, 3.25rem)' }}>
-              Free practice should feel like the real exam
+              Practice should feel like the real exam
             </Typography>
             <Typography variant="body1" sx={{ color: 'text.secondary', fontSize: '1.075rem', maxWidth: 680 }}>
               Swadharma IAS exists for one reason: an aspirant should be able to attempt as many real,
-              timed prelims papers as they want, for free. No subscriptions, no coupons, no paywalls —
-              just honest practice with the official marking scheme.
+              timed prelims papers as they want. Practice is free during launch — just honest
+              practice with the official marking scheme.
             </Typography>
           </Stack>
         </Container>
@@ -180,7 +180,7 @@ const About = () => {
             Ready when you are
           </Typography>
           <Typography sx={{ color: 'rgba(255,255,255,0.85)', maxWidth: 520, mx: 'auto', mb: 3.5 }}>
-            Create a free account and attempt your first paper in under a minute.
+            Create your account and attempt your first paper in under a minute.
           </Typography>
           <Button
             component={RouterLink}
@@ -190,7 +190,7 @@ const About = () => {
             endIcon={<ArrowForwardRoundedIcon />}
             sx={{ bgcolor: '#fff', color: '#312E81', '&:hover': { bgcolor: '#EEF2FF' } }}
           >
-            {user ? 'Go to dashboard' : 'Create free account'}
+            {user ? 'Go to dashboard' : 'Create your account'}
           </Button>
         </Paper>
       </Container>

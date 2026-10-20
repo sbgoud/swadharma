@@ -56,13 +56,13 @@ const Footer = () => (
             <Logo size={44} />
           </Box>
           <Typography variant="body2" sx={{ mt: 2.5, maxWidth: 340, lineHeight: 1.75 }}>
-            A free UPSC Prelims test series built for aspirants who want real timed papers,
-            official marking and detailed explanations — without a single rupee spent.
+            A UPSC Prelims test series built for aspirants who want real timed papers,
+            official marking and detailed explanations — free to practise during launch.
           </Typography>
           <Stack direction="row" spacing={1} sx={{ alignItems: 'center', mt: 2.5 }}>
             <VerifiedRoundedIcon sx={{ color: '#22C55E', fontSize: 20 }} />
             <Typography variant="body2" sx={{ color: '#fff', fontWeight: 600 }}>
-              Free forever · no paywalls
+              Free during launch
             </Typography>
           </Stack>
         </Grid>

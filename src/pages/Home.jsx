@@ -51,8 +51,8 @@ const SUBJECT_ICONS = {
 const FEATURES = [
   {
     icon: <CheckCircleRoundedIcon />,
-    title: 'Completely free, forever',
-    body: 'No subscription, no coupon, no trial limit. Create an account and attempt as many papers as you want.',
+    title: 'Free during launch',
+    body: 'Practice is free while the platform is in its launch period — no subscription, no coupon, no trial limit. Create an account and attempt as many papers as you want.',
     accent: '#16A34A',
   },
   {
@@ -89,7 +89,7 @@ const FEATURES = [
 
 const STEPS = [
   {
-    title: 'Create a free account',
+    title: 'Create your account',
     body: 'Sign up with an email address in under a minute. No payment details, no OTP, no waiting.',
   },
   {
@@ -107,7 +107,7 @@ const TESTIMONIALS = [
     name: 'Ananya R.',
     role: 'Civil Services aspirant, batch 2026',
     quote:
-      'The timer and the palette behave exactly like the real prelims console. Being able to attempt full-length papers for free changed my preparation completely.',
+      'The timer and the palette behave exactly like the real prelims console. Being able to attempt full-length papers free during the launch period changed my preparation completely.',
     initials: 'AR',
   },
   {
@@ -128,8 +128,8 @@ const TESTIMONIALS = [
 
 const FAQS = [
   {
-    q: 'Is Swadharma IAS really free?',
-    a: 'Yes. There is no pricing page, no checkout and no payment code anywhere in the product. Everything — unlimited papers, explanations and analytics — is available to any signed-in aspirant.',
+    q: 'Is Swadharma IAS free to use?',
+    a: 'During the launch period, yes — there is no pricing page, no checkout and no payment code anywhere in the product. Papers, explanations and analytics are available to any signed-in aspirant.',
   },
   {
     q: 'How is the question paper generated?',
@@ -338,8 +338,8 @@ const Home = () => {
       value: totalQuestions ? totalQuestions.toLocaleString('en-IN') : '8,000+',
       icon: <CheckCircleRoundedIcon />,
     },
-    { label: 'Cost to aspirants', value: '₹0', icon: <EmojiEventsRoundedIcon /> },
-    { label: 'Papers you can attempt', value: 'Unlimited', icon: <BoltRoundedIcon /> },
+    { label: 'Price during launch', value: 'Free', icon: <EmojiEventsRoundedIcon /> },
+    { label: 'Papers during launch', value: 'Unlimited', icon: <BoltRoundedIcon /> },
   ];
 
   return (
@@ -365,7 +365,7 @@ const Home = () => {
               <Box className="rise-in">
                 <Chip
                   icon={<BoltRoundedIcon sx={{ fontSize: 16 }} />}
-                  label="Free UPSC Prelims test series · no payment, no limits"
+                  label="UPSC Prelims test series · free during launch"
                   sx={{
                     bgcolor: (theme) => alpha(theme.palette.primary.main, 0.1),
                     color: 'primary.main',
@@ -385,7 +385,7 @@ const Home = () => {
                 <Typography variant="body1" sx={{ color: 'text.secondary', fontSize: '1.075rem', maxWidth: 560, mb: 4 }}>
                   Real timed papers, the official marking scheme, detailed explanations for every
                   answer and a full attempt history. Server-sampled questions, honest scores and
-                  zero cost — for every aspirant.
+                  free practice during launch — for every aspirant.
                 </Typography>
 
                 <Stack direction={{ xs: 'column', sm: 'row' }} spacing={1.75} sx={{ mb: 4 }}>
@@ -424,7 +424,7 @@ const Home = () => {
                   <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center' }}>
                     <CheckCircleRoundedIcon sx={{ color: 'success.main', fontSize: 20 }} />
                     <Typography variant="body2" color="text.secondary">
-                      No credit card, ever
+                      No card needed to start
                     </Typography>
                   </Stack>
                 </Stack>
@@ -499,7 +499,7 @@ const Home = () => {
           <SectionHeading
             eyebrow="Why aspirants choose us"
             title="Built like the real thing, open to everyone"
-            subtitle="Everything a serious UPSC aspirant needs to practise at the real exam standard — with nothing locked behind a paywall."
+            subtitle="Everything a serious UPSC aspirant needs to practise at the real exam standard — all of it open while the platform is in its launch period."
           />
 
           <Grid container spacing={2.5} sx={{ mt: { xs: 4, md: 6 } }}>
@@ -550,7 +550,7 @@ const Home = () => {
           <SectionHeading
             eyebrow="How it works"
             title="Three steps to your next paper"
-            subtitle="No forms to fill, no calls to make, no payment to make. Sign in, pick a paper, start."
+            subtitle="No forms to fill, no calls to make, no waiting. Sign in, pick a paper, start."
           />
 
           <Grid container spacing={3} sx={{ mt: { xs: 4, md: 6 } }}>
@@ -735,7 +735,7 @@ const Home = () => {
           <SectionHeading
             eyebrow="FAQ"
             title="Questions every aspirant asks"
-            subtitle="Everything about the papers, the timing, the marking and the cost."
+            subtitle="Everything about the papers, the timing, the marking and access."
           />
 
           <Stack spacing={1.25} sx={{ mt: { xs: 4, md: 5 } }}>
@@ -785,8 +785,8 @@ const Home = () => {
               Your first paper is two clicks away
             </Typography>
             <Typography sx={{ color: 'rgba(255,255,255,0.85)', maxWidth: 620, mx: 'auto', mb: 4, fontSize: '1.05rem' }}>
-              Create a free account, pick your subjects and start. Unlimited timed papers, official
-              marking and full explanations — for every aspirant, forever.
+              Create your account, pick your subjects and start. Timed papers, official
+              marking and full explanations — free during launch for every aspirant.
             </Typography>
             <Stack direction={{ xs: 'column', sm: 'row' }} spacing={2} sx={{ justifyContent: 'center' }}>
               <Button
@@ -796,7 +796,7 @@ const Home = () => {
                 size="large"
                 sx={{ bgcolor: '#fff', color: '#312E81', '&:hover': { bgcolor: '#EEF2FF' } }}
               >
-                {user ? 'Open dashboard' : 'Create free account'}
+                {user ? 'Open dashboard' : 'Create your account'}
               </Button>
               <Button
                 component={RouterLink}
