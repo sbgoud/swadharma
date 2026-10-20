@@ -1,145 +1,158 @@
 # FRONTEND_REPORT.md
 
-Frontend of the rebuilt **Swadharma IAS** free UPSC Prelims test series
-(React 19 + Vite 5 + Tailwind CSS 4 + React Router 6, Supabase Auth/Postgres).
-Everything under `supabase/` was owned by the parallel backend agent and was
-**not** touched here.
+Frontend of **Swadharma IAS** — a free UPSC Prelims test series.
+React 19 + Vite 5 + **Material UI v9** (with Emotion) + React Router 6, backed by
+Supabase Auth/Postgres. Nothing under `supabase/` was touched by the frontend work.
 
-## 1. What is in the app
+> **Revision 2 — full visual redesign.** The first version of this app was built with
+> Tailwind and a hand-rolled theme. It has now been rebuilt on MUI with a proper
+> design system, premium page layouts and charts. All Supabase logic, RPC calls and
+> data flows are unchanged.
 
-| Route | Page | Purpose |
-|-------|------|---------|
-| `/` | `Home` | Landing page: live subject list + question counts (public RPC), value props, CTA |
-| `/about` | `About` | How the free test series works, marking scheme, fairness notes |
-| `/login` | `Login` | Sign in / sign up / forgot password in one screen |
-| `/reset-password` | `ResetPassword` | Landing page of the recovery link, sets the new password |
-| `/dashboard` | `Dashboard` | Pick subjects, number of questions, difficulty → start exam |
-| `/exam/:attemptId` | `Exam` | Timed paper, question palette, mark for review, submit |
-| `/result/:attemptId` | `Result` | Score, subject-wise breakdown, answer key, explanations |
-| `/attempts` | `Attempts` | Attempt history with stats and resume for unfinished papers |
-| `/profile` | `Profile` | Display name, e-mail (read only), sign out |
+---
 
-`/dashboard`, `/exam/*`, `/result/*`, `/attempts` and `/profile` are behind
-`ProtectedRoute` (redirect to `/login`, intended location preserved).
+## 1. Design system
 
-Removed: pricing, checkout, courses, orders/coupons, admin and debug pages
-(`InitializeDb`, `CheckColumns`, `AddQuestions*`, `TestResults`, `WriteTest`,
-`Contact`), the old `users` API layer, the Pexels helper and every reference to
-the previous Supabase project.
+**Method.** The *UI UX Pro Max* skill (`npx uipro-cli init`) was installed into
+`.kilo/skills/ui-ux-pro-max` and used to generate the design system, style,
+typography, chart, landing-structure and UX guidance for an education/exam product.
+The generated "claymorphism + children's fonts" recommendation was overridden where it
+conflicted with the brief: a UPSC test series needs a *professional* look, so the
+skill's **Soft UI Evolution** style, **Modern Professional** typography pairing and
+its accessibility/motion/loading rules were adopted instead.
 
-## 2. Backend contract used (from `KILO_TASK.md`)
+| Token | Value | Source |
+|---|---|---|
+| Primary (brand) | `#4F46E5` indigo | "Learning indigo" palette |
+| Secondary | `#7C3AED` violet | gradient partner |
+| Success / progress | `#16A34A` / `#22C55E` | "progress green" |
+| Warning / error | `#F59E0B` / `#E11D48` | status semantics |
+| Hero gradient | `135deg, #4F46E5 → #6D28D9 → #2563EB` | brand |
+| Display type | **Poppins** 600/700/800 | "Modern Professional" pairing |
+| Body type | **Inter** 400/500/600/700 | readability for exam content |
+| Radius | 12 px controls, 20 px cards, 999 px pills | Soft UI Evolution |
+| Shadows | soft, multi-layer, hover elevation | Soft UI Evolution |
+| Motion | 180–300 ms, `prefers-reduced-motion` honoured | UX guidelines |
 
-All calls go through `src/services/examService.js`; nothing else touches
-Supabase directly.
+**Files**
 
-| RPC | Used by | Notes |
-|-----|---------|-------|
-| `subject_question_counts()` | Home, Dashboard, Attempts | public (anon + authenticated) |
-| `start_exam(subject_slugs, num_questions, difficulty)` | Dashboard | returns attempt id, questions, options — **no answers** |
-| `get_attempt_questions(attempt_id)` | Exam | re-opens an attempt after a reload, keeps the server timer honest |
-| `submit_exam(attempt_id, answers)` | Exam | server-side scoring, returns score + answer key + explanations |
-| `get_attempt_result(attempt_id)` | Result | stored result of a finished attempt |
-| `my_attempts()` | Dashboard, Attempts | history incl. unfinished attempts |
+* `src/theme/theme.js` — `createTheme` for light and dark mode: palette, typography,
+  shape, and ~25 component overrides (Button, Card, TextField, Chip, Tabs, Accordion,
+  Dialog, Alert, LinearProgress, Slider, ToggleButton, TableCell, …).
+* `src/context/ThemeContext.jsx` — colour-mode provider (system preference on first
+  visit, persisted in `localStorage`) that feeds the MUI `ThemeProvider`.
+* `src/index.css` — only what a component library cannot express: reset, scrollbars,
+  focus defaults, selection, gradient-text and entrance-animation helpers.
+* `src/components/ui.jsx` — `SectionHeading`, `StatCard`, `EmptyState`, `LoadingState`.
+* `src/components/charts/` — `ScoreDonut`, `TrendChart`, `SubjectBars` (hand-built SVG,
+  theme aware, no chart library).
+* `src/components/Logo.jsx`, `Navbar.jsx`, `Footer.jsx`, `ProtectedRoute.jsx`.
 
-Answers are sent as a flat `{ question_id: "A" }` map; the RPC also accepts the
-array form. Credentials live in `src/config/env.js`
-(`https://oxeqjtzeamdgyeqhlljk.supabase.co` +
-publishable key) and can be overridden with `VITE_SUPABASE_URL` /
-`VITE_SUPABASE_ANON_KEY`.
+**Charts are dependency-free SVG.** A donut gauge, a score-trend area/line chart and
+horizontal comparison bars are ~240 lines of SVG in total, which keeps the chart
+payload at 0 kB and lets them inherit theme colours and stay keyboard/screen-reader
+friendly (each chart carries an `aria-label` and every bar has a text value).
 
-The client never sees the answer key before submission — the key stays in
-`private.question_answers` and is only exposed through the `SECURITY DEFINER`
-RPCs.
+---
 
-## 3. Feature highlights
+## 2. Pages
 
-**Auth** — email/password sign-up, sign-in, sign-out and password reset via
-Supabase Auth; session persisted in `localStorage` and restored on reload;
-profile row created/updated through the `profiles` table; display name
-editable in the profile page.
+| Route | What it is now |
+|---|---|
+| `/` | **Hero landing** — gradient hero with a live CBT console mock-up, live stats band (subjects, question count, ₹0, unlimited papers), 6-card feature bento grid, 3-step "how it works", live subject cards with question counts, testimonials, 7-item FAQ accordion, gradient CTA band, rich footer. |
+| `/about` | Mission page: four pillar cards, "how the question bank is built", gradient CTA. |
+| `/login` | **Split-panel auth** — brand panel with value props on the left, MUI card on the right with Sign in / Create account tabs, show-hide password, inline "forgot password" flow, inline alerts, redirect back to the page the user wanted. |
+| `/reset-password` | Recovery landing with new/confirm password, success state. |
+| `/dashboard` | Greeting header, 4 stat cards, **score-trend chart**, **subject-performance bars**, paper builder (subject cards with question counts, question slider + presets, difficulty toggle, live summary), quick "full mixed paper" CTA, recent-paper progress bars, resume banner for unfinished papers. |
+| `/exam/:id` | **Real CBT console** — sticky header with server-derived countdown (turns red under 5 min), progress bar, question palette with UPSC colour states (green answered / amber marked / white unanswered, current question ringed), sticky sidebar on desktop and a bottom-sheet drawer on mobile, mark for review, clear response, previous / save & next, keyboard shortcuts (A–D, ←/→, M), auto-submit at zero, submit-confirmation dialog, beforeunload guard, per-attempt `localStorage` cache. |
+| `/result/:id` | **Result** — gradient score hero with SVG donut gauge and verdict chip, correct/incorrect/skipped/time-taken stat cards, **subject-wise accuracy bars**, **score-trend chart**, filterable answer review (all / correct / incorrect / skipped) with the correct option, the chosen option, the explanation, source and year, and CTAs to take another test. |
+| `/attempts` | History with 4 stat cards, All / Completed / In-progress filters, per-attempt score + progress bar, Review and Resume actions. |
+| `/profile` | Avatar card, editable display name, e-mail (read only), sign out. |
 
-**Dashboard** — subject checkboxes with live question counts, question-count
-input + presets (10/20/50/100/150), difficulty filter, live summary of
-questions / subjects / pool / time limit / maximum score, quick starts
-(*Full mixed paper* = all eight subjects, 100 Q in 120 min, and a one-click
-*Test* button per subject), personal stats and a "resume paper" banner for an
-unfinished attempt.
+---
 
-**Exam screen** — server-derived countdown that survives a page reload, question
-palette (answered / marked / unanswered), mark for review, clear response,
-*Save & next*, previous/next, confirm-before-submit dialog with the exact
-answered/unanswered tally, auto-submit when the clock hits zero, and a
-beforeunload guard. Keyboard shortcuts: `A`–`D` answer, `←`/`→` navigate, `M`
-marks for review. Answers and marks are cached in `localStorage` per attempt so
-a refresh or a dropped connection does not lose the paper. On phones the
-palette is a bottom-sheet drawer and a sticky action bar keeps *Palette* and
-*Submit* one tap away.
+## 3. Backend contract (unchanged, and now correct)
 
-**Result** — score against the maximum (+2 / −0.66 / 0), progress bar, correct /
-incorrect / unanswered counters, time taken, subject-wise performance table,
-filters (all / correct / incorrect / unanswered) and an expandable review of
-every question with the correct option, the chosen option and the explanation.
+All calls still go through `src/services/examService.js`:
 
-**History** — papers attempted, questions solved, average and best score, a
-resume action for unfinished papers and a review link for finished ones.
+| RPC | Used by |
+|---|---|
+| `subject_question_counts()` | Home, Dashboard, Attempts (public — anon + authenticated) |
+| `start_exam(p_subject_slugs, p_num_questions, p_difficulty)` | Dashboard |
+| `get_attempt_questions(p_attempt_id)` | Exam (survives a reload) |
+| `submit_exam(p_attempt_id, p_answers)` | Exam |
+| `get_attempt_result(p_attempt_id)` | Result |
+| `my_attempts()` | Dashboard, Attempts |
 
-## 4. Design, performance and quality
+**Contract fix.** `get_attempt_result` / `submit_exam` answer with
+`attempt_id`, `correct`, `incorrect`, `unanswered`, `max_score` and `percentage` —
+not `id` / `correct_count` / `incorrect_count`. The service now normalises the
+payload (`normalizeResult`) into one stable shape, so the UI is immune to both
+variants and `time taken` is derived from `started_at` / `submitted_at`.
 
-* **Token based theming** — the neutral palette (`white`, `slate`, `gray`) and
-  the blue scale are CSS variables, so the existing utility classes follow the
-  theme; light/dark switch only flips the variables (`src/index.css`). The
-  toggle in the navbar respects the system preference and remembers the choice.
-* **No web fonts** — a system font stack replaces the Google Fonts import: no
-  extra DNS/TLS round trip, no layout shift, no external dependency.
-* **Small bundle** — every route is lazily loaded, icons come from
-  `lucide-react` (tree shaken, one chunk per icon) and the unused
-  `framer-motion` / `uuid` dependencies and the unused `Card` component were
-  deleted.
+---
 
-  | Asset | Raw | Gzip |
-  |-------|-----|------|
-  | `index` (React + router + Supabase) | 431.8 kB | 126.6 kB |
-  | `index.css` | 38.3 kB | 7.6 kB |
-  | Exam route | 14.7 kB | 4.4 kB |
-  | Dashboard route | 10.5 kB | 3.4 kB |
-  | Result route | 10.5 kB | 3.4 kB |
-  | Login route | 9.3 kB | 2.8 kB |
+## 4. Engineering notes
 
-* **Mobile first** — single column under `sm`, sticky action bar and bottom
-  sheet in the exam, hamburger menu, horizontally scrollable result table.
-* **Accessibility** — semantic landmarks, labelled inputs, `aria-label` on the
-  palette buttons and the toggle, visible focus rings, `prefers-reduced-motion`
-  support, 44 px touch targets.
-* `npm run build` and `npm run lint` both pass; ESLint runs with the React
-  Compiler rules enabled (no warnings).
+* **Tailwind removed.** The old utility-class CSS, the PostCSS config and the
+  `tailwindcss` / `@tailwindcss/vite` / `@tailwindcss/postcss` dependencies are gone;
+  MUI is now the single design system. `lucide-react`, `clsx` and `tailwind-merge`
+  were dropped as well (MUI icons replaced Lucide, `sx` replaced `cn`).
+* **Fonts self-hosted**, latin subset only (`@fontsource/inter`, `@fontsource/poppins`)
+  — 7 woff2 files, 120 kB total, no Google Fonts request, no layout shift.
+* **Code splitting** — every route is `React.lazy`; Vite splits `react` and `mui`
+  into their own chunks.
+* **Accessibility** — semantic landmarks, labelled fields, `aria-label` on palette
+  buttons and icon buttons, `aria-pressed`/`aria-current` state, visible focus rings
+  from the theme, keyboard-operable subject cards, 44 px touch targets, `alt`/`aria`
+  on decorative mocks (`aria-hidden`), and `prefers-reduced-motion` respected.
+* **Responsive** — 375 / 768 / 1024 / 1440 layouts; the exam switches from a sticky
+  sidebar to a bottom sheet, the grids collapse from 4 → 2 → 1 columns.
+* **Quality gates** — `npm run build` and `npm run lint` pass (React Compiler lint
+  rules included, zero warnings). Every page is additionally server-rendered in a
+  smoke test that renders all nine routes with `react-dom/server`; this caught and
+  fixed a missing import and several invalid Stack props before shipping.
 
-## 5. Commits (frontend only, in order)
+**Bundle**
 
-1. `chore: remove pricing, checkout, admin and debug pages`
-2. `feat: rebuild app shell with Supabase auth foundation`
-3. `feat: landing, about and authentication pages`
-4. `feat: exam engine — dashboard, timed exam, result and attempt history`
-5. `perf: drop unused dependencies and the unused Card component`
-6. `feat: token based light and dark theme with a system font stack`
-7. `feat: exam screen — save and next, clear response, keyboard shortcuts, mobile palette drawer`
-8. `feat: dashboard quick starts, personal stats and resumable attempt history`
-9. `feat: subject-wise result breakdown, favicon and service cleanup`
-10. `docs: refresh project docs for the free test-series rebuild`
-11. `docs: frontend report` (this file)
+| Asset | Raw | Gzip |
+|---|---|---|
+| `mui` chunk (MUI + Emotion + icons) | 393.7 kB | 121.3 kB |
+| `index` chunk (app, Supabase client, router glue) | 375.7 kB | 109.1 kB |
+| `react` chunk | 33.5 kB | 11.8 kB |
+| CSS | 3.0 kB | 1.0 kB |
+| Home / Dashboard / Exam / Result routes | 18.6 / 13.1 / 14.0 / 11.7 kB | 6.0 / 4.5 / 4.8 / 4.1 kB |
+| Self-hosted fonts | 120 kB (7 woff2) | — |
 
-No `supabase/` file was added, modified or committed by the frontend work, and
-nothing was pushed.
+Total first load ≈ 242 kB gzip of JavaScript plus 7 font files.
 
-## 6. Notes / open items for the supervisor
+---
 
-* The live project had **no schema applied** while the frontend was built
-  (`subject_question_counts` and the `public.subjects` table are not in the
-  PostgREST schema cache yet), so the UI could not be exercised against real
-  data. The frontend follows the contract in `KILO_TASK.md` and
-  `supabase/migrations/003_rpc.sql` exactly; the landing page and the
-  dashboard degrade with a friendly message while the database is not ready.
-* After the migrations and the seed files are applied, one manual pass is
-  recommended: sign-up → dashboard → start a 20 question paper → submit →
-  review the result and the history.
-* `scripts/` (seed generator helpers) and every file under `supabase/` belong
-  to the backend agent and were left untouched.
+## 5. Commits (frontend only)
+
+1. `feat: MUI design system foundation — brand theme, tokens and app shell`
+2. `feat: premium landing page with hero, stats, features, subjects, testimonials and FAQ`
+3. `feat: polished split-panel auth pages with sign in, sign up and password reset`
+4. `feat: dashboard with score trend, subject performance and a paper builder`
+5. `feat: CBT-style exam screen with timer, question palette and keyboard control`
+6. `feat: rich result page with score gauge, charts and full answer review`
+7. `feat: attempt history with stats and filters, and a refreshed profile page`
+8. `fix: normalise the RPC result payload and polish exam palette, drawer and loading states`
+9. `refactor: drop the remaining Tailwind-era helpers and unused dependencies`
+10. `docs: frontend report` (this file)
+
+Nothing was pushed, and no `supabase/` file was added, modified or committed.
+
+---
+
+## 6. Open items for the supervisor
+
+* The live project still has **no schema applied** (`public.subjects` and the RPCs are
+  absent from the PostgREST schema cache), so the redesigned UI could not be exercised
+  against real data. The frontend follows `supabase/migrations/003_rpc.sql` exactly and
+  the landing page degrades with a friendly message until the database is ready.
+* After the migrations and seeds are applied, one manual pass is recommended:
+  sign-up → dashboard → start a 20-question paper → submit → review the result, the
+  subject analytics and the history.
+* The design skill itself lives in `.kilo/skills/ui-ux-pro-max` (untracked, ~650 kB) —
+  keep it local or commit it deliberately as a project skill.
