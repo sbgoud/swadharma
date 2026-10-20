@@ -92,15 +92,38 @@ export const fetchMyAttempts = async () => {
   return Array.isArray(data) ? data : [];
 };
 
-/** Profile of the signed-in user. */
-export const fetchProfile = async (userId) => {
+const PROFILE_COLUMNS = 'id, full_name, email, email_verified, created_at';
+const LEGACY_PROFILE_COLUMNS = 'id, full_name, email, created_at';
+
+/** True when Postgres complains that the column does not exist (yet). */
+const isMissingColumn = (error, column) => {
+  const message = `${error?.message ?? ''} ${error?.details ?? ''} ${error?.code ?? ''}`.toLowerCase();
+  return message.includes(column) && (message.includes('does not exist') || message.includes('column'));
+};
+
+/**
+ * `email_verified` arrives with migration 006. Until that migration is
+ * applied the legacy shape is used, so the app never breaks.
+ */
+const readProfile = async (userId, columns) => {
   const { data, error } = await supabase
     .from('profiles')
-    .select('id, full_name, email, created_at')
+    .select(columns)
     .eq('id', userId)
     .maybeSingle();
   if (error) throw error;
   return data;
+};
+
+/** Profile of the signed-in user. */
+export const fetchProfile = async (userId) => {
+  try {
+    return await readProfile(userId, PROFILE_COLUMNS);
+  } catch (error) {
+    if (!isMissingColumn(error, 'email_verified')) throw error;
+    const legacy = await readProfile(userId, LEGACY_PROFILE_COLUMNS);
+    return legacy ? { ...legacy, email_verified: false } : legacy;
+  }
 };
 
 /** Creates the profile row for users who signed up before the trigger existed. */
@@ -115,26 +138,37 @@ export const ensureProfile = async (user) => {
   if (error) throw error;
 };
 
+/** Writes the display name and returns the fresh profile row. */
+const writeProfileName = async (userId, fullName) => {
+  try {
+    const { data, error } = await supabase
+      .from('profiles')
+      .update({ full_name: fullName })
+      .eq('id', userId)
+      .select(PROFILE_COLUMNS)
+      .maybeSingle();
+    if (error) throw error;
+    return data;
+  } catch (error) {
+    if (!isMissingColumn(error, 'email_verified')) throw error;
+    const { data, error: legacyError } = await supabase
+      .from('profiles')
+      .update({ full_name: fullName })
+      .eq('id', userId)
+      .select(LEGACY_PROFILE_COLUMNS)
+      .maybeSingle();
+    if (legacyError) throw legacyError;
+    return data ? { ...data, email_verified: false } : data;
+  }
+};
+
 /** Updates the display name of the signed-in user. */
 export const updateProfileName = async (userId, fullName, email) => {
-  const { data, error } = await supabase
-    .from('profiles')
-    .update({ full_name: fullName })
-    .eq('id', userId)
-    .select('id, full_name, email, created_at')
-    .maybeSingle();
-  if (error) throw error;
-  if (data) return data;
+  const updated = await writeProfileName(userId, fullName);
+  if (updated) return updated;
 
   // The profile row can be missing for accounts created before the signup
   // trigger existed — create it and retry the update.
   await ensureProfile({ id: userId, email });
-  const { data: created, error: retryError } = await supabase
-    .from('profiles')
-    .update({ full_name: fullName })
-    .eq('id', userId)
-    .select('id, full_name, email, created_at')
-    .maybeSingle();
-  if (retryError) throw retryError;
-  return created;
+  return writeProfileName(userId, fullName);
 };

@@ -13,19 +13,25 @@ export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(null);
   const [profile, setProfile] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [profileLoading, setProfileLoading] = useState(true);
 
   const loadProfile = useCallback(async (sessionUser) => {
+    setProfileLoading(true);
     try {
       const existing = await fetchProfile(sessionUser.id);
       if (existing) {
         setProfile(existing);
-        return;
+        return existing;
       }
       await ensureProfile(sessionUser);
       const created = await fetchProfile(sessionUser.id);
       setProfile(created);
+      return created;
     } catch {
       setProfile(null);
+      return null;
+    } finally {
+      setProfileLoading(false);
     }
   }, []);
 
@@ -36,7 +42,11 @@ export const AuthProvider = ({ children }) => {
       if (!active) return;
       const sessionUser = data?.session?.user ?? null;
       setUser(sessionUser);
-      if (sessionUser) loadProfile(sessionUser);
+      if (sessionUser) {
+        loadProfile(sessionUser);
+      } else {
+        setProfileLoading(false);
+      }
       setLoading(false);
     });
 
@@ -48,6 +58,7 @@ export const AuthProvider = ({ children }) => {
       setUser(sessionUser);
       if (event === 'SIGNED_OUT' || !sessionUser) {
         setProfile(null);
+        setProfileLoading(false);
         setLoading(false);
         return;
       }
@@ -72,9 +83,26 @@ export const AuthProvider = ({ children }) => {
     }
   }, []);
 
+  /** Re-reads the profile — used after the e-mail address got verified. */
+  const refreshProfile = useCallback(async () => {
+    if (!user) return null;
+    return loadProfile(user);
+  }, [user, loadProfile]);
+
+  const emailVerified = profile?.email_verified === true;
+
   const value = useMemo(
-    () => ({ user, profile, loading, signOut, setProfile }),
-    [user, profile, loading, signOut]
+    () => ({
+      user,
+      profile,
+      loading,
+      profileLoading,
+      emailVerified,
+      signOut,
+      setProfile,
+      refreshProfile,
+    }),
+    [user, profile, loading, profileLoading, emailVerified, signOut, refreshProfile]
   );
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;

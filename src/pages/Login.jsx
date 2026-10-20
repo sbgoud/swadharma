@@ -18,7 +18,6 @@ import Tab from '@mui/material/Tab';
 import Tabs from '@mui/material/Tabs';
 import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
-import ArrowBackRoundedIcon from '@mui/icons-material/ArrowBackRounded';
 import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
 import EmailRoundedIcon from '@mui/icons-material/EmailRounded';
 import LockRoundedIcon from '@mui/icons-material/LockRounded';
@@ -109,10 +108,20 @@ const Login = () => {
       });
       if (signUpError) throw signUpError;
       if (data?.session) {
-        navigate('/dashboard', { replace: true });
+        navigate('/verify-email', { replace: true });
         return;
       }
-      setMessage('Account created. Check your inbox for the confirmation link, then sign in.');
+
+      // The project can ask for a mail confirmation before the first sign-in.
+      const { error: signInError } = await supabase.auth.signInWithPassword({ email, password });
+      if (!signInError) {
+        navigate('/verify-email', { replace: true });
+        return;
+      }
+
+      setMessage(
+        'Account created. Confirm your address with the link we just mailed, then sign in — you will be asked for a 6-digit code.',
+      );
       setTab(0);
       setMode('signin');
     } catch (err) {
@@ -122,29 +131,6 @@ const Login = () => {
     }
   };
 
-  const handleReset = async (event) => {
-    event.preventDefault();
-    setError(null);
-    setMessage(null);
-    if (!EMAIL_RE.test(email)) {
-      setError('Please enter the email address you signed up with.');
-      return;
-    }
-    setBusy(true);
-    try {
-      const { error: resetError } = await supabase.auth.resetPasswordForEmail(email, {
-        redirectTo: `${window.location.origin}/reset-password`,
-      });
-      if (resetError) throw resetError;
-      setMessage('If that email is registered, a password reset link is on its way.');
-    } catch (err) {
-      setError(err.message || 'Could not send the reset email.');
-    } finally {
-      setBusy(false);
-    }
-  };
-
-  const isReset = mode === 'reset';
   const isSignUp = mode === 'signup';
 
   return (
@@ -212,28 +198,24 @@ const Login = () => {
             <Card sx={{ height: '100%' }}>
               <CardContent sx={{ p: { xs: 3, sm: 4.5 }, '&:last-child': { pb: { xs: 3, sm: 4.5 } } }}>
                 <Typography variant="h4" sx={{ fontWeight: 700, color: 'text.primary', mb: 0.75 }}>
-                  {isReset ? 'Reset your password' : isSignUp ? 'Create your free account' : 'Welcome back'}
+                  {isSignUp ? 'Create your free account' : 'Welcome back'}
                 </Typography>
                 <Typography variant="body2" color="text.secondary" sx={{ mb: 3 }}>
-                  {isReset
-                    ? 'We will email you a secure link to set a new password.'
-                    : 'Free, unlimited UPSC Prelims practice. No payment required.'}
+                  Free, unlimited UPSC Prelims practice. No payment required.
                 </Typography>
 
-                {!isReset && (
-                  <Tabs
-                    value={tab}
-                    onChange={(_, value) => {
-                      setTab(value);
-                      switchMode(value === 1 ? 'signup' : 'signin');
-                    }}
-                    variant="fullWidth"
-                    sx={{ mb: 3, borderBottom: '1px solid', borderColor: 'divider' }}
-                  >
-                    <Tab label="Sign in" />
-                    <Tab label="Create account" />
-                  </Tabs>
-                )}
+                <Tabs
+                  value={tab}
+                  onChange={(_, value) => {
+                    setTab(value);
+                    switchMode(value === 1 ? 'signup' : 'signin');
+                  }}
+                  variant="fullWidth"
+                  sx={{ mb: 3, borderBottom: '1px solid', borderColor: 'divider' }}
+                >
+                  <Tab label="Sign in" />
+                  <Tab label="Create account" />
+                </Tabs>
 
                 {message && (
                   <Alert severity="success" sx={{ mb: 2.5 }} onClose={() => setMessage(null)}>
@@ -246,90 +228,88 @@ const Login = () => {
                   </Alert>
                 )}
 
-                {isReset ? (
-                  <Stack component="form" onSubmit={handleReset} spacing={2.5}>
+                <Stack component="form" onSubmit={isSignUp ? handleSignUp : handleSignIn} spacing={2.5}>
+                  {isSignUp && (
                     <TextField
                       fullWidth
-                      required
-                      id="reset-email"
-                      label="Email address"
-                      type="email"
-                      autoComplete="email"
-                      value={email}
-                      onChange={(event) => setEmail(event.target.value)}
+                      id="full-name"
+                      label="Full name"
+                      value={fullName}
+                      onChange={(event) => setFullName(event.target.value)}
                       slotProps={{
                         input: {
                           startAdornment: (
                             <InputAdornment position="start">
-                              <EmailRoundedIcon color="action" />
+                              <PersonRoundedIcon color="action" />
                             </InputAdornment>
                           ),
                         },
                       }}
                     />
-                    <Button type="submit" variant="contained" size="large" disabled={busy}>
-                      {busy ? 'Sending…' : 'Send reset link'}
-                    </Button>
-                    <Button
-                      type="button"
-                      onClick={() => switchMode('signin')}
-                      startIcon={<ArrowBackRoundedIcon />}
-                      sx={{ alignSelf: 'flex-start', px: 0 }}
-                    >
-                      Back to sign in
-                    </Button>
-                  </Stack>
-                ) : (
-                  <Stack component="form" onSubmit={isSignUp ? handleSignUp : handleSignIn} spacing={2.5}>
-                    {isSignUp && (
-                      <TextField
-                        fullWidth
-                        id="full-name"
-                        label="Full name"
-                        value={fullName}
-                        onChange={(event) => setFullName(event.target.value)}
-                        slotProps={{
-                          input: {
-                            startAdornment: (
-                              <InputAdornment position="start">
-                                <PersonRoundedIcon color="action" />
-                              </InputAdornment>
-                            ),
-                          },
-                        }}
-                      />
-                    )}
+                  )}
 
+                  <TextField
+                    fullWidth
+                    required
+                    id="email"
+                    label="Email address"
+                    type="email"
+                    autoComplete="email"
+                    value={email}
+                    onChange={(event) => setEmail(event.target.value)}
+                    slotProps={{
+                      input: {
+                        startAdornment: (
+                          <InputAdornment position="start">
+                            <EmailRoundedIcon color="action" />
+                          </InputAdornment>
+                        ),
+                      },
+                    }}
+                  />
+
+                  <TextField
+                    fullWidth
+                    required
+                    id="password"
+                    label="Password"
+                    type={showPassword ? 'text' : 'password'}
+                    autoComplete={isSignUp ? 'new-password' : 'current-password'}
+                    value={password}
+                    onChange={(event) => setPassword(event.target.value)}
+                    helperText={isSignUp ? 'At least 8 characters' : undefined}
+                    slotProps={{
+                      input: {
+                        startAdornment: (
+                          <InputAdornment position="start">
+                            <LockRoundedIcon color="action" />
+                          </InputAdornment>
+                        ),
+                        endAdornment: (
+                          <InputAdornment position="end">
+                            <IconButton
+                              onClick={() => setShowPassword((value) => !value)}
+                              edge="end"
+                              aria-label={showPassword ? 'Hide password' : 'Show password'}
+                            >
+                              {showPassword ? <VisibilityOffRoundedIcon /> : <VisibilityRoundedIcon />}
+                            </IconButton>
+                          </InputAdornment>
+                        ),
+                      },
+                    }}
+                  />
+
+                  {isSignUp && (
                     <TextField
                       fullWidth
                       required
-                      id="email"
-                      label="Email address"
-                      type="email"
-                      autoComplete="email"
-                      value={email}
-                      onChange={(event) => setEmail(event.target.value)}
-                      slotProps={{
-                        input: {
-                          startAdornment: (
-                            <InputAdornment position="start">
-                              <EmailRoundedIcon color="action" />
-                            </InputAdornment>
-                          ),
-                        },
-                      }}
-                    />
-
-                    <TextField
-                      fullWidth
-                      required
-                      id="password"
-                      label="Password"
+                      id="confirm-password"
+                      label="Confirm password"
                       type={showPassword ? 'text' : 'password'}
-                      autoComplete={isSignUp ? 'new-password' : 'current-password'}
-                      value={password}
-                      onChange={(event) => setPassword(event.target.value)}
-                      helperText={isSignUp ? 'At least 8 characters' : undefined}
+                      autoComplete="new-password"
+                      value={confirmPassword}
+                      onChange={(event) => setConfirmPassword(event.target.value)}
                       slotProps={{
                         input: {
                           startAdornment: (
@@ -337,56 +317,23 @@ const Login = () => {
                               <LockRoundedIcon color="action" />
                             </InputAdornment>
                           ),
-                          endAdornment: (
-                            <InputAdornment position="end">
-                              <IconButton
-                                onClick={() => setShowPassword((value) => !value)}
-                                edge="end"
-                                aria-label={showPassword ? 'Hide password' : 'Show password'}
-                              >
-                                {showPassword ? <VisibilityOffRoundedIcon /> : <VisibilityRoundedIcon />}
-                              </IconButton>
-                            </InputAdornment>
-                          ),
                         },
                       }}
                     />
+                  )}
 
-                    {isSignUp && (
-                      <TextField
-                        fullWidth
-                        required
-                        id="confirm-password"
-                        label="Confirm password"
-                        type={showPassword ? 'text' : 'password'}
-                        autoComplete="new-password"
-                        value={confirmPassword}
-                        onChange={(event) => setConfirmPassword(event.target.value)}
-                        slotProps={{
-                          input: {
-                            startAdornment: (
-                              <InputAdornment position="start">
-                                <LockRoundedIcon color="action" />
-                              </InputAdornment>
-                            ),
-                          },
-                        }}
-                      />
-                    )}
+                  <Button type="submit" variant="contained" size="large" disabled={busy}>
+                    {busy ? 'Please wait…' : isSignUp ? 'Create free account' : 'Sign in'}
+                  </Button>
 
-                    <Button type="submit" variant="contained" size="large" disabled={busy}>
-                      {busy ? 'Please wait…' : isSignUp ? 'Create free account' : 'Sign in'}
-                    </Button>
-
-                    {!isSignUp && (
-                      <Box sx={{ display: 'flex', justifyContent: 'flex-end' }}>
-                        <Button onClick={() => switchMode('reset')} sx={{ px: 0 }}>
-                          Forgot password?
-                        </Button>
-                      </Box>
-                    )}
-                  </Stack>
-                )}
+                  {!isSignUp && (
+                    <Box sx={{ display: 'flex', justifyContent: 'flex-end' }}>
+                      <Button onClick={() => navigate('/forgot-password')} sx={{ px: 0 }}>
+                        Forgot password?
+                      </Button>
+                    </Box>
+                  )}
+                </Stack>
 
                 <Divider sx={{ my: 3 }} />
                 <Stack direction="row" spacing={1} sx={{ justifyContent: 'center', alignItems: 'center' }}>
