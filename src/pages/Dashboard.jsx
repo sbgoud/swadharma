@@ -1,21 +1,44 @@
 import { useEffect, useMemo, useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
-import {
-  AlertCircle,
-  CheckCircle2,
-  Clock,
-  History,
-  PlayCircle,
-  Settings2,
-  TrendingUp,
-} from 'lucide-react';
+import { Link as RouterLink, useNavigate } from 'react-router-dom';
+import Alert from '@mui/material/Alert';
+import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import Chip from '@mui/material/Chip';
+import Divider from '@mui/material/Divider';
+import Grid from '@mui/material/Grid';
+import LinearProgress from '@mui/material/LinearProgress';
+import MenuItem from '@mui/material/MenuItem';
+import Paper from '@mui/material/Paper';
+import Slider from '@mui/material/Slider';
+import Stack from '@mui/material/Stack';
+import TextField from '@mui/material/TextField';
+import ToggleButton from '@mui/material/ToggleButton';
+import ToggleButtonGroup from '@mui/material/ToggleButtonGroup';
+import Typography from '@mui/material/Typography';
+import { alpha } from '@mui/material/styles';
+import AutoAwesomeRoundedIcon from '@mui/icons-material/AutoAwesomeRounded';
+import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
+import EmojiEventsRoundedIcon from '@mui/icons-material/EmojiEventsRounded';
+import ErrorOutlineRoundedIcon from '@mui/icons-material/ErrorOutlineRounded';
+import HistoryRoundedIcon from '@mui/icons-material/HistoryRounded';
+import InsightsRoundedIcon from '@mui/icons-material/InsightsRounded';
+import PlayCircleRoundedIcon from '@mui/icons-material/PlayCircleRounded';
+import QuizRoundedIcon from '@mui/icons-material/QuizRounded';
+import ScheduleRoundedIcon from '@mui/icons-material/ScheduleRounded';
+import TrendingUpRoundedIcon from '@mui/icons-material/TrendingUpRounded';
 import { fetchMyAttempts, fetchSubjectCounts, startExam } from '../services/examService';
 import { appConfig } from '../config/env';
-import Button from '../components/Button';
+import { useAuth } from '../context/AuthContext';
+import { StatCard, EmptyState, SectionHeading } from '../components/ui';
+import TrendChart from '../components/charts/TrendChart';
+import SubjectBars from '../components/charts/SubjectBars';
+import { heroGradient } from '../theme/theme';
 
 const QUESTION_PRESETS = [10, 20, 50, 100, 150];
 const DIFFICULTIES = [
-  { value: '', label: 'Any difficulty' },
+  { value: '', label: 'Any' },
   { value: 'easy', label: 'Easy' },
   { value: 'medium', label: 'Medium' },
   { value: 'hard', label: 'Hard' },
@@ -25,6 +48,7 @@ const durationFor = (count) => Math.max(10, Math.min(120, Math.round(count * 1.2
 
 const Dashboard = () => {
   const navigate = useNavigate();
+  const { user, profile } = useAuth();
   const [subjects, setSubjects] = useState([]);
   const [selected, setSelected] = useState([]);
   const [numQuestions, setNumQuestions] = useState(appConfig.defaultQuestions);
@@ -67,18 +91,50 @@ const Dashboard = () => {
   const effectiveQuestions = Math.min(numQuestions, Math.max(appConfig.minQuestions, totalAvailable));
   const duration = durationFor(effectiveQuestions);
 
+  const finished = useMemo(() => attempts.filter((attempt) => attempt.submitted_at && attempt.total), [attempts]);
+
   const stats = useMemo(() => {
-    const done = attempts.filter((attempt) => attempt.submitted_at && attempt.total);
-    if (!done.length) return { count: 0, average: 0, best: 0 };
-    const percentages = done.map(
+    if (!finished.length) return { count: 0, average: 0, best: 0, questions: 0 };
+    const percentages = finished.map(
       (attempt) => (Number(attempt.score || 0) / (attempt.total * 2)) * 100
     );
     return {
-      count: done.length,
+      count: finished.length,
       average: percentages.reduce((sum, value) => sum + value, 0) / percentages.length,
       best: Math.max(...percentages),
+      questions: finished.reduce((sum, attempt) => sum + (attempt.total || 0), 0),
     };
-  }, [attempts]);
+  }, [finished]);
+
+  const trend = useMemo(
+    () =>
+      [...finished]
+        .reverse()
+        .slice(-8)
+        .map((attempt, index) => ({
+          label: `P${index + 1}`,
+          value: Math.round((Number(attempt.score || 0) / (attempt.total * 2)) * 1000) / 10,
+        })),
+    [finished]
+  );
+
+  const subjectAccuracy = useMemo(() => {
+    const names = Object.fromEntries(subjects.map((subject) => [subject.slug, subject.name]));
+    const map = new Map();
+    finished.forEach((attempt) => {
+      (attempt.config?.subject_slugs || []).forEach((slug) => {
+        const key = names[slug] || slug;
+        if (!map.has(key)) map.set(key, { label: key, correct: 0, total: 0 });
+        const row = map.get(key);
+        row.total += 1;
+        row.correct += Number(attempt.score || 0) > 0 ? 1 : 0;
+      });
+    });
+    return [...map.values()]
+      .map((row) => ({ label: row.label, value: Math.round((row.correct / row.total) * 100) }))
+      .sort((a, b) => b.value - a.value)
+      .slice(0, 6);
+  }, [finished, subjects]);
 
   const inProgress = attempts.find((attempt) => !attempt.submitted_at);
 
@@ -112,16 +168,11 @@ const Dashboard = () => {
   };
 
   const startSubjectTest = (subject) => {
-    const available = subject.question_count || 0;
-    const count = Math.min(appConfig.defaultQuestions, available);
+    const count = Math.min(appConfig.defaultQuestions, subject.question_count || 0);
     setSelected([subject.slug]);
     setNumQuestions(count);
     setDifficulty('');
-    return startWith({
-      subjectSlugs: [subject.slug],
-      numQuestions: count,
-      difficulty: null,
-    });
+    return startWith({ subjectSlugs: [subject.slug], numQuestions: count, difficulty: null });
   };
 
   const startFullPaper = () => {
@@ -135,257 +186,425 @@ const Dashboard = () => {
     });
   };
 
+  const firstName =
+    (profile?.full_name || user?.user_metadata?.full_name || user?.email || 'aspirant').split(' ')[0];
+
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-      <header className="mb-8 flex flex-wrap items-end justify-between gap-4">
-        <div>
-          <h1 className="text-3xl font-bold text-slate-900">Dashboard</h1>
-          <p className="text-slate-600 mt-1">
-            Configure a prelims paper and start. Every attempt is timed and scored on the server.
-          </p>
-        </div>
-        <Link
-          to="/attempts"
-          className="inline-flex items-center gap-2 text-sm font-medium text-blue-600 hover:underline"
+    <Box sx={{ bgcolor: 'background.default', minHeight: '100%' }}>
+      <Box sx={{ maxWidth: 1440, mx: 'auto', px: { xs: 2, sm: 3, lg: 5 }, py: { xs: 4, md: 6 } }}>
+        {/* Header */}
+        <Stack
+          direction={{ xs: 'column', md: 'row' }}
+          
+          
+          spacing={2}
+          sx={{ justifyContent: 'space-between', alignItems: { xs: 'flex-start', md: 'center' }, mb: 4 }}
         >
-          <History className="h-4 w-4" /> Attempt history
-        </Link>
-      </header>
+          <Box>
+            <Typography variant="overline" sx={{ color: 'primary.main', fontWeight: 700, letterSpacing: '0.14em' }}>
+              Dashboard
+            </Typography>
+            <Typography variant="h3" sx={{ color: 'text.primary', mt: 0.5 }}>
+              Namaste{firstName ? `, ${firstName}` : ''} 👋
+            </Typography>
+            <Typography variant="body2" color="text.secondary" sx={{ mt: 0.75 }}>
+              Configure a prelims paper and start. Every attempt is timed and scored on the server.
+            </Typography>
+          </Box>
+          <Stack direction="row" spacing={1.5}>
+            <Button component={RouterLink} to="/attempts" variant="outlined" color="inherit" startIcon={<HistoryRoundedIcon />} sx={{ borderColor: 'divider' }}>
+              History
+            </Button>
+            <Button variant="contained" startIcon={<PlayCircleRoundedIcon />} onClick={startFullPaper} disabled={starting || !subjects.length}>
+              Full mixed paper
+            </Button>
+          </Stack>
+        </Stack>
 
-      {error && (
-        <div className="mb-6 p-4 rounded-lg bg-rose-50 text-rose-700 text-sm flex items-start gap-2">
-          <AlertCircle className="h-5 w-5 mt-0.5 flex-shrink-0" />
-          <span>{error}</span>
-        </div>
-      )}
+        {error && (
+          <Alert severity="error" sx={{ mb: 3 }} onClose={() => setError(null)}>
+            {error}
+          </Alert>
+        )}
 
-      {inProgress && (
-        <div className="mb-6 p-4 rounded-xl bg-blue-50 border border-blue-100 flex flex-wrap items-center justify-between gap-3">
-          <p className="text-sm text-blue-900">
+        {inProgress && (
+          <Alert
+            severity="info"
+            icon={<AutoAwesomeRoundedIcon />}
+            sx={{ mb: 3, alignItems: 'center' }}
+            action={
+              <Button component={RouterLink} to={`/exam/${inProgress.id}`} color="inherit" size="small" variant="contained">
+                Resume
+              </Button>
+            }
+          >
             You have a paper in progress ({inProgress.total} questions). Continue where you left off?
-          </p>
-          <Link
-            to={`/exam/${inProgress.id}`}
-            className="px-4 py-2 rounded-lg bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700"
-          >
-            Resume paper
-          </Link>
-        </div>
-      )}
+          </Alert>
+        )}
 
-      {/* Quick stats */}
-      <dl className="grid grid-cols-3 gap-4 mb-6">
-        {[
-          { label: 'Papers attempted', value: stats.count, icon: <CheckCircle2 className="h-4 w-4" /> },
-          { label: 'Average score', value: `${stats.average.toFixed(1)}%`, icon: <TrendingUp className="h-4 w-4" /> },
-          { label: 'Best score', value: `${stats.best.toFixed(1)}%`, icon: <TrendingUp className="h-4 w-4" /> },
-        ].map((item) => (
-          <div
-            key={item.label}
-            className="bg-white rounded-xl border border-slate-200 shadow-sm p-4 flex items-center gap-3"
-          >
-            <span className="h-9 w-9 rounded-lg bg-blue-50 text-blue-600 flex items-center justify-center flex-shrink-0">
-              {item.icon}
-            </span>
-            <span className="min-w-0">
-              <span className="block text-xs uppercase tracking-wide text-slate-500">
-                {item.label}
-              </span>
-              <span className="block text-lg font-bold text-slate-900">{item.value}</span>
-            </span>
-          </div>
-        ))}
-      </dl>
+        {/* Stats */}
+        <Grid container spacing={2.5} sx={{ mb: 3 }}>
+          <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+            <StatCard icon={<QuizRoundedIcon />} label="Papers attempted" value={stats.count} caption="Submitted papers" />
+          </Grid>
+          <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+            <StatCard icon={<TrendingUpRoundedIcon />} label="Average score" value={`${stats.average.toFixed(1)}%`} caption="Across all papers" />
+          </Grid>
+          <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+            <StatCard icon={<EmojiEventsRoundedIcon />} label="Best score" value={`${stats.best.toFixed(1)}%`} caption="Personal record" accent="#D97706" />
+          </Grid>
+          <Grid size={{ xs: 12, sm: 6, md: 3 }}>
+            <StatCard icon={<InsightsRoundedIcon />} label="Questions solved" value={stats.questions} caption="Total answered" accent="#16A34A" />
+          </Grid>
+        </Grid>
 
-      {/* Quick starts */}
-      <div className="grid sm:grid-cols-2 gap-4 mb-6">
-        <button
-          type="button"
-          onClick={startFullPaper}
-          disabled={starting || !subjects.length}
-          className="text-left rounded-2xl border border-blue-200 bg-blue-50/60 p-5 hover:border-blue-400 hover:bg-blue-50 transition disabled:opacity-60"
-        >
-          <span className="flex items-center gap-2 font-semibold text-slate-900">
-            <PlayCircle className="h-5 w-5 text-blue-600" /> Full mixed paper
-          </span>
-          <span className="mt-1 block text-sm text-slate-600">
-            All eight GS subjects, 100 questions in 120 minutes — exactly the UPSC prelims format.
-          </span>
-        </button>
-        <div className="rounded-2xl border border-slate-200 bg-white p-5">
-          <p className="font-semibold text-slate-900">Subject-wise test</p>
-          <p className="mt-1 text-sm text-slate-600">
-            Pick a subject below to run a focused paper on that theme alone.
-          </p>
-        </div>
-      </div>
+        {/* Charts */}
+        <Grid container spacing={2.5} sx={{ mb: 3 }}>
+          <Grid size={{ xs: 12, lg: 7 }}>
+            <Card sx={{ height: '100%' }}>
+              <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
+                <Stack direction="row" sx={{ justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
+                  <Box>
+                    <Typography variant="h6" sx={{ fontWeight: 700, color: 'text.primary' }}>
+                      Score trend
+                    </Typography>
+                    <Typography variant="caption" color="text.secondary">
+                      Percentage in each submitted paper
+                    </Typography>
+                  </Box>
+                  <Chip label={`${stats.count} papers`} size="small" sx={{ bgcolor: 'action.hover' }} />
+                </Stack>
+                {trend.length ? (
+                  <TrendChart data={trend} />
+                ) : (
+                  <Box sx={{ py: 5, textAlign: 'center' }}>
+                    <InsightsRoundedIcon sx={{ color: 'text.disabled', fontSize: 40, mb: 1 }} />
+                    <Typography variant="body2" color="text.secondary">
+                      Submit your first paper to unlock your score trend.
+                    </Typography>
+                  </Box>
+                )}
+              </CardContent>
+            </Card>
+          </Grid>
 
-      <div className="grid lg:grid-cols-3 gap-6">
-        {/* Subjects */}
-        <section className="lg:col-span-2 bg-white rounded-2xl border border-slate-200 shadow-sm p-6">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-lg font-semibold text-slate-900 flex items-center gap-2">
-              <Settings2 className="h-5 w-5 text-blue-600" /> Subjects
-            </h2>
-            <div className="flex gap-2 text-xs">
-              <button
-                type="button"
-                onClick={() => setSelected(subjects.map((s) => s.slug))}
-                className="px-3 py-1 rounded-md border border-slate-200 text-slate-600 hover:bg-slate-50"
-              >
-                Select all
-              </button>
-              <button
-                type="button"
-                onClick={() => setSelected([])}
-                className="px-3 py-1 rounded-md border border-slate-200 text-slate-600 hover:bg-slate-50"
-              >
-                Clear
-              </button>
-            </div>
-          </div>
+          <Grid size={{ xs: 12, lg: 5 }}>
+            <Card sx={{ height: '100%' }}>
+              <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
+                <Typography variant="h6" sx={{ fontWeight: 700, color: 'text.primary', mb: 0.5 }}>
+                  Subject performance
+                </Typography>
+                <Typography variant="caption" color="text.secondary">
+                  Papers where you scored above zero
+                </Typography>
+                <Box sx={{ mt: 2.5 }}>
+                  {subjectAccuracy.length ? (
+                    <SubjectBars data={subjectAccuracy} />
+                  ) : (
+                    <Box sx={{ py: 4, textAlign: 'center' }}>
+                      <Typography variant="body2" color="text.secondary">
+                        Subject-wise insights appear after your first paper.
+                      </Typography>
+                    </Box>
+                  )}
+                </Box>
+              </CardContent>
+            </Card>
+          </Grid>
+        </Grid>
 
-          {loading ? (
-            <div className="grid sm:grid-cols-2 gap-3">
-              {Array.from({ length: 8 }).map((_, index) => (
-                <div key={index} className="h-16 rounded-lg bg-slate-100 animate-pulse" />
-              ))}
-            </div>
-          ) : (
-            <div className="grid sm:grid-cols-2 gap-3">
-              {subjects.map((subject) => {
-                const active = selected.includes(subject.slug);
-                return (
-                  <div
-                    key={subject.slug}
-                    className={`flex items-start gap-3 rounded-xl border p-4 transition ${
-                      active
-                        ? 'border-blue-500 bg-blue-50/60 ring-1 ring-blue-500'
-                        : 'border-slate-200 hover:border-slate-300 hover:bg-slate-50'
-                    }`}
-                  >
-                    <button
-                      type="button"
-                      onClick={() => toggleSubject(subject.slug)}
-                      className="flex items-start gap-3 text-left flex-1 min-w-0"
+        <Grid container spacing={2.5}>
+          {/* Paper builder */}
+          <Grid size={{ xs: 12, lg: 8 }}>
+            <Card>
+              <CardContent sx={{ p: { xs: 2.5, md: 3.5 }, '&:last-child': { pb: { xs: 2.5, md: 3.5 } } }}>
+                <Stack direction="row" sx={{ justifyContent: 'space-between', alignItems: 'center', mb: 2.5 }}>
+                  <Box>
+                    <Typography variant="h6" sx={{ fontWeight: 700, color: 'text.primary' }}>
+                      Build your paper
+                    </Typography>
+                    <Typography variant="caption" color="text.secondary">
+                      Choose subjects, length and difficulty
+                    </Typography>
+                  </Box>
+                  <Stack direction="row" spacing={1}>
+                    <Button size="small" onClick={() => setSelected(subjects.map((item) => item.slug))}>
+                      Select all
+                    </Button>
+                    <Button size="small" onClick={() => setSelected([])}>
+                      Clear
+                    </Button>
+                  </Stack>
+                </Stack>
+
+                <Grid container spacing={1.75}>
+                  {subjects.map((subject) => {
+                    const active = selected.includes(subject.slug);
+                    return (
+                      <Grid key={subject.slug} size={{ xs: 12, sm: 6, md: 4 }}>
+                        <Paper
+                          variant="outlined"
+                          onClick={() => toggleSubject(subject.slug)}
+                          role="button"
+                          tabIndex={0}
+                          aria-pressed={active}
+                          onKeyDown={(event) => {
+                            if (event.key === 'Enter' || event.key === ' ') {
+                              event.preventDefault();
+                              toggleSubject(subject.slug);
+                            }
+                          }}
+                          sx={{
+                            p: 2,
+                            borderRadius: 3,
+                            cursor: 'pointer',
+                            height: '100%',
+                            borderColor: active ? 'primary.main' : 'divider',
+                            bgcolor: active ? (theme) => alpha(theme.palette.primary.main, 0.07) : 'background.paper',
+                            transition: 'all 200ms ease',
+                            '&:hover': { borderColor: 'primary.main', transform: 'translateY(-2px)' },
+                          }}
+                        >
+                          <Stack direction="row" spacing={1.25} sx={{ alignItems: 'flex-start' }}>
+                            <Box
+                              sx={{
+                                width: 22,
+                                height: 22,
+                                borderRadius: 1.5,
+                                display: 'grid',
+                                placeItems: 'center',
+                                border: '1.5px solid',
+                                borderColor: active ? 'primary.main' : 'divider',
+                                bgcolor: active ? 'primary.main' : 'transparent',
+                                color: '#fff',
+                                flexShrink: 0,
+                                mt: 0.25,
+                              }}
+                            >
+                              {active && <CheckCircleRoundedIcon sx={{ fontSize: 16 }} />}
+                            </Box>
+                            <Box sx={{ minWidth: 0 }}>
+                              <Typography variant="subtitle2" sx={{ fontWeight: 600, color: 'text.primary' }} noWrap>
+                                {subject.name}
+                              </Typography>
+                              <Typography variant="caption" color="text.secondary">
+                                {subject.question_count} questions
+                              </Typography>
+                            </Box>
+                          </Stack>
+                          <Button
+                            size="small"
+                            variant="text"
+                            onClick={(event) => {
+                              event.stopPropagation();
+                              startSubjectTest(subject);
+                            }}
+                            disabled={starting || !subject.question_count}
+                            sx={{ px: 0, mt: 1, minHeight: 24 }}
+                          >
+                            Start this subject
+                          </Button>
+                        </Paper>
+                      </Grid>
+                    );
+                  })}
+                </Grid>
+
+                <Divider sx={{ my: 3 }} />
+
+                <Grid container spacing={3}>
+                  <Grid size={{ xs: 12, md: 5 }}>
+                    <Typography variant="subtitle2" sx={{ fontWeight: 600, color: 'text.primary', mb: 1 }}>
+                      Number of questions — <Box component="span" sx={{ color: 'primary.main' }}>{numQuestions}</Box>
+                    </Typography>
+                    <Slider
+                      value={Math.min(numQuestions, appConfig.maxQuestions)}
+                      onChange={(_, value) => setNumQuestions(value)}
+                      min={appConfig.minQuestions}
+                      max={appConfig.maxQuestions}
+                      step={5}
+                      valueLabelDisplay="auto"
+                      aria-label="Number of questions"
+                    />
+                    <Stack direction="row" spacing={1} useFlexGap sx={{ flexWrap: 'wrap' }}>
+                      {QUESTION_PRESETS.map((preset) => (
+                        <Chip
+                          key={preset}
+                          label={preset}
+                          onClick={() => setNumQuestions(preset)}
+                          color={numQuestions === preset ? 'primary' : 'default'}
+                          variant={numQuestions === preset ? 'filled' : 'outlined'}
+                          size="small"
+                        />
+                      ))}
+                    </Stack>
+                  </Grid>
+
+                  <Grid size={{ xs: 12, md: 4 }}>
+                    <Typography variant="subtitle2" sx={{ fontWeight: 600, color: 'text.primary', mb: 1 }}>
+                      Difficulty
+                    </Typography>
+                    <ToggleButtonGroup
+                      exclusive
+                      fullWidth
+                      size="small"
+                      value={difficulty}
+                      onChange={(_, value) => value !== null && setDifficulty(value)}
+                      aria-label="Difficulty filter"
                     >
-                      <span
-                        className={`mt-0.5 h-5 w-5 rounded border flex items-center justify-center flex-shrink-0 ${
-                          active ? 'bg-blue-600 border-blue-600' : 'border-slate-300 bg-white'
-                        }`}
-                      >
-                        {active && <CheckCircle2 className="h-4 w-4 text-white" />}
-                      </span>
-                      <span className="flex-1 min-w-0">
-                        <span className="block font-medium text-slate-900">{subject.name}</span>
-                        <span className="block text-xs text-slate-500 mt-0.5">
-                          {subject.question_count} questions available
-                        </span>
-                      </span>
-                    </button>
-                    <button
-                      type="button"
-                      onClick={() => startSubjectTest(subject)}
-                      disabled={starting || !subject.question_count}
-                      className="self-center px-2.5 py-1 rounded-md text-xs font-semibold text-blue-600 border border-blue-200 hover:bg-blue-50 disabled:opacity-40 whitespace-nowrap"
-                    >
-                      Test
-                    </button>
-                  </div>
-                );
-              })}
-            </div>
-          )}
-        </section>
+                      {DIFFICULTIES.map((option) => (
+                        <ToggleButton key={option.label} value={option.value}>
+                          {option.label}
+                        </ToggleButton>
+                      ))}
+                    </ToggleButtonGroup>
+                  </Grid>
 
-        {/* Paper settings */}
-        <section className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6 h-fit">
-          <h2 className="text-lg font-semibold text-slate-900 mb-4">Paper settings</h2>
+                  <Grid size={{ xs: 12, md: 3 }}>
+                    <Typography variant="subtitle2" sx={{ fontWeight: 600, color: 'text.primary', mb: 1 }}>
+                      Paper summary
+                    </Typography>
+                    <Stack spacing={0.75}>
+                      {[
+                        { label: 'Questions', value: effectiveQuestions },
+                        { label: 'Subjects', value: selected.length },
+                        { label: 'Time limit', value: `${duration} min` },
+                        { label: 'Maximum score', value: effectiveQuestions * 2 },
+                      ].map((row) => (
+                        <Stack key={row.label} direction="row" sx={{ justifyContent: 'space-between' }}>
+                          <Typography variant="caption" color="text.secondary">
+                            {row.label}
+                          </Typography>
+                          <Typography variant="caption" sx={{ fontWeight: 700, color: 'text.primary' }}>
+                            {row.value}
+                          </Typography>
+                        </Stack>
+                      ))}
+                    </Stack>
+                  </Grid>
+                </Grid>
 
-          <label className="block text-sm font-medium text-slate-700 mb-2" htmlFor="num-questions">
-            Number of questions
-          </label>
-          <input
-            id="num-questions"
-            type="number"
-            min={appConfig.minQuestions}
-            max={appConfig.maxQuestions}
-            value={numQuestions}
-            onChange={(e) => setNumQuestions(Number(e.target.value) || appConfig.minQuestions)}
-            className="w-full px-3 py-2.5 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
-          />
-          <div className="flex flex-wrap gap-2 mt-3">
-            {QUESTION_PRESETS.map((preset) => (
-              <button
-                key={preset}
-                type="button"
-                onClick={() => setNumQuestions(preset)}
-                className={`px-3 py-1.5 rounded-md text-xs font-medium border transition ${
-                  numQuestions === preset
-                    ? 'border-blue-600 bg-blue-600 text-white'
-                    : 'border-slate-200 text-slate-600 hover:bg-slate-50'
-                }`}
+                <Button
+                  variant="contained"
+                  size="large"
+                  fullWidth
+                  onClick={handleStart}
+                  disabled={starting || !selected.length || !totalAvailable}
+                  startIcon={<PlayCircleRoundedIcon />}
+                  sx={{ mt: 3, py: 1.5 }}
+                >
+                  {starting ? 'Preparing your paper…' : 'Start exam'}
+                </Button>
+                <Typography variant="caption" color="text.secondary" sx={{ display: 'block', textAlign: 'center', mt: 1.5 }}>
+                  The timer starts the moment the paper opens. +2 correct, −0.66 wrong, 0 unanswered.
+                </Typography>
+              </CardContent>
+            </Card>
+          </Grid>
+
+          {/* Quick start + recent */}
+          <Grid size={{ xs: 12, lg: 4 }}>
+            <Stack spacing={2.5}>
+              <Paper
+                elevation={0}
+                sx={{
+                  p: 3,
+                  borderRadius: 4,
+                  background: heroGradient,
+                  color: '#fff',
+                  boxShadow: '0 30px 60px -40px rgba(79, 70, 229, 0.9)',
+                }}
               >
-                {preset}
-              </button>
-            ))}
-          </div>
+                <Typography variant="h6" sx={{ color: '#fff', fontWeight: 700, mb: 0.75 }}>
+                  Full mixed paper
+                </Typography>
+                <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.85)', lineHeight: 1.7, mb: 2.5 }}>
+                  All eight General Studies subjects, 100 questions in 120 minutes — the exact UPSC
+                  prelims format.
+                </Typography>
+                <Button
+                  variant="contained"
+                  fullWidth
+                  onClick={startFullPaper}
+                  disabled={starting || !subjects.length}
+                  sx={{ bgcolor: '#fff', color: '#312E81', '&:hover': { bgcolor: '#EEF2FF' } }}
+                >
+                  Start now
+                </Button>
+              </Paper>
 
-          <label className="block text-sm font-medium text-slate-700 mt-6 mb-2" htmlFor="difficulty">
-            Difficulty
-          </label>
-          <select
-            id="difficulty"
-            value={difficulty}
-            onChange={(e) => setDifficulty(e.target.value)}
-            className="w-full px-3 py-2.5 border border-slate-300 rounded-lg bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
-          >
-            {DIFFICULTIES.map((option) => (
-              <option key={option.value} value={option.value}>
-                {option.label}
-              </option>
-            ))}
-          </select>
+              <Card>
+                <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
+                  <Stack direction="row" sx={{ justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
+                    <Typography variant="h6" sx={{ fontWeight: 700, color: 'text.primary' }}>
+                      Recent papers
+                    </Typography>
+                    <Button component={RouterLink} to="/attempts" size="small">
+                      View all
+                    </Button>
+                  </Stack>
 
-          <dl className="mt-6 space-y-2 text-sm border-t border-slate-100 pt-4">
-            <div className="flex justify-between">
-              <dt className="text-slate-500">Questions in this paper</dt>
-              <dd className="font-semibold text-slate-900">{effectiveQuestions}</dd>
-            </div>
-            <div className="flex justify-between">
-              <dt className="text-slate-500">Subjects</dt>
-              <dd className="font-semibold text-slate-900">{selected.length}</dd>
-            </div>
-            <div className="flex justify-between">
-              <dt className="text-slate-500">Pool available</dt>
-              <dd className="font-semibold text-slate-900">{totalAvailable}</dd>
-            </div>
-            <div className="flex justify-between">
-              <dt className="text-slate-500 flex items-center gap-1">
-                <Clock className="h-4 w-4" /> Time limit
-              </dt>
-              <dd className="font-semibold text-slate-900">{duration} min</dd>
-            </div>
-            <div className="flex justify-between">
-              <dt className="text-slate-500">Maximum score</dt>
-              <dd className="font-semibold text-slate-900">{effectiveQuestions * 2}</dd>
-            </div>
-          </dl>
+                  {finished.length ? (
+                    <Stack spacing={1.5}>
+                      {finished.slice(0, 4).map((attempt) => {
+                        const percent = (Number(attempt.score || 0) / (attempt.total * 2)) * 100;
+                        return (
+                          <Box key={attempt.id}>
+                            <Stack direction="row" sx={{ justifyContent: 'space-between', alignItems: 'baseline', mb: 0.5 }}>
+                              <Typography variant="body2" sx={{ fontWeight: 600, color: 'text.primary' }}>
+                                {attempt.total} questions
+                              </Typography>
+                              <Typography variant="caption" sx={{ fontWeight: 700, color: 'primary.main' }}>
+                                {percent.toFixed(0)}%
+                              </Typography>
+                            </Stack>
+                            <LinearProgress
+                              variant="determinate"
+                              value={Math.max(2, percent)}
+                              sx={{
+                                height: 6,
+                                '& .MuiLinearProgress-bar': { background: 'linear-gradient(90deg,#4F46E5,#7C3AED)' },
+                              }}
+                            />
+                            <Typography variant="caption" color="text.secondary">
+                              {new Date(attempt.started_at).toLocaleDateString('en-IN', {
+                                day: '2-digit',
+                                month: 'short',
+                              })}
+                            </Typography>
+                          </Box>
+                        );
+                      })}
+                    </Stack>
+                  ) : (
+                    <EmptyState
+                      icon={<ErrorOutlineRoundedIcon sx={{ fontSize: 36 }} />}
+                      title="No papers yet"
+                      description="Configure a paper above and start your first attempt."
+                    />
+                  )}
+                </CardContent>
+              </Card>
 
-          <Button
-            onClick={handleStart}
-            loading={starting}
-            className="w-full justify-center py-3 mt-6"
-            disabled={!selected.length || !totalAvailable}
-          >
-            <PlayCircle className="mr-2 h-5 w-5" /> Start exam
-          </Button>
-          <p className="mt-3 text-xs text-slate-500 text-center">
-            The timer starts immediately. +2 correct, −0.66 wrong, 0 unanswered.
-          </p>
-        </section>
-      </div>
-    </div>
+              <Paper variant="outlined" sx={{ p: 2.5, borderRadius: 4, borderColor: 'divider' }}>
+                <Stack direction="row" spacing={1.5} sx={{ alignItems: 'flex-start' }}>
+                  <ScheduleRoundedIcon sx={{ color: 'primary.main', mt: 0.25 }} />
+                  <Box>
+                    <Typography variant="subtitle2" sx={{ fontWeight: 700, color: 'text.primary' }}>
+                      UPSC timing
+                    </Typography>
+                    <Typography variant="caption" color="text.secondary" sx={{ lineHeight: 1.7 }}>
+                      100 questions in 120 minutes. Shorter papers are scaled at 1.2 minutes per
+                      question and are enforced on the server, so a reload cannot buy extra time.
+                    </Typography>
+                  </Box>
+                </Stack>
+              </Paper>
+            </Stack>
+          </Grid>
+        </Grid>
+      </Box>
+    </Box>
   );
 };
 
