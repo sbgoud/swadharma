@@ -88,8 +88,25 @@ const Dashboard = () => {
     [subjects, selected]
   );
 
+  /**
+   * Resolves the number of questions a paper may ask for: never more than the
+   * user picked and never more than the selected subjects can supply.
+   * Shared by every "start" button so they all honour the same selection.
+   */
+  const resolveCount = (slugs, requested) => {
+    const available = subjects
+      .filter((subject) => slugs.includes(subject.slug))
+      .reduce((sum, subject) => sum + (subject.question_count || 0), 0);
+    return Math.min(requested, Math.max(appConfig.minQuestions, available));
+  };
+
   const effectiveQuestions = Math.min(numQuestions, Math.max(appConfig.minQuestions, totalAvailable));
   const duration = durationFor(effectiveQuestions);
+
+  /* The quick-start card advertises the paper it is about to create. */
+  const fullPaperSlugs = subjects.map((item) => item.slug);
+  const fullPaperQuestions = resolveCount(fullPaperSlugs, numQuestions);
+  const fullPaperDuration = durationFor(fullPaperQuestions);
 
   const finished = useMemo(() => attempts.filter((attempt) => attempt.submitted_at && attempt.total), [attempts]);
 
@@ -168,22 +185,19 @@ const Dashboard = () => {
   };
 
   const startSubjectTest = (subject) => {
-    const count = Math.min(appConfig.defaultQuestions, subject.question_count || 0);
-    setSelected([subject.slug]);
+    const slugs = [subject.slug];
+    const count = resolveCount(slugs, numQuestions);
+    setSelected(slugs);
     setNumQuestions(count);
-    setDifficulty('');
-    return startWith({ subjectSlugs: [subject.slug], numQuestions: count, difficulty: null });
+    return startWith({ subjectSlugs: slugs, numQuestions: count, difficulty: difficulty || null });
   };
 
   const startFullPaper = () => {
-    setSelected(subjects.map((item) => item.slug));
-    setNumQuestions(appConfig.defaultQuestions);
-    setDifficulty('');
-    return startWith({
-      subjectSlugs: subjects.map((item) => item.slug),
-      numQuestions: appConfig.defaultQuestions,
-      difficulty: null,
-    });
+    const slugs = subjects.map((item) => item.slug);
+    const count = resolveCount(slugs, numQuestions);
+    setSelected(slugs);
+    setNumQuestions(count);
+    return startWith({ subjectSlugs: slugs, numQuestions: count, difficulty: difficulty || null });
   };
 
   const firstName =
@@ -525,8 +539,9 @@ const Dashboard = () => {
                   Full mixed paper
                 </Typography>
                 <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.85)', lineHeight: 1.7, mb: 2.5 }}>
-                  All eight General Studies subjects, 100 questions in 120 minutes — the exact UPSC
-                  prelims format.
+                  All {subjects.length} General Studies subjects, {fullPaperQuestions} questions in{' '}
+                  {fullPaperDuration} minutes
+                  {difficulty ? ` · ${difficulty} only` : ''}.
                 </Typography>
                 <Button
                   variant="contained"
