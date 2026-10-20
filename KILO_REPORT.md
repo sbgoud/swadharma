@@ -54,7 +54,7 @@ checkout, payment, admin or debug pages remain, and no secret is committed.
 `validate-packs.mjs` (schema + balance), `clean-packs.mjs` (dedupe + answer-key
 rotation), `build-seeds.mjs` (packs → SQL, strict), `check-sql.mjs` (SQL sanity),
 `repair-stems.mjs`, `restate-stems.mjs`, `fix-stems.mjs`, `dedupe-stems.mjs`,
-`resolve-near-dups.mjs`, `find-collisions.mjs`, `fix-categories.mjs`.
+`resolve-near-dups.mjs`, `fix-tier2-stems.mjs`, `find-collisions.mjs`, `fix-categories.mjs`.
 
 ## 5. Not finished / notes
 
