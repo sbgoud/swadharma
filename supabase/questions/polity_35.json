@@ -1,0 +1,752 @@
+[
+  {
+    "q": "How many committees did the Constituent Assembly set up to draft the Constitution of India?",
+    "options": [
+      "Sixteen",
+      "Ten",
+      "Twelve",
+      "Eight"
+    ],
+    "answer": 3,
+    "explanation": "The Constituent Assembly appointed eight committees in 1946 to draft different parts of the Constitution, the Drafting Committee being the most important of them.",
+    "difficulty": "easy",
+    "category": "constitution-making",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Advisory Committee' of the Constituent Assembly was headed by:",
+    "options": [
+      "Sachchidananda Sinha",
+      "Benegal Narsing Rau",
+      "N. Gopalaswami Ayyangar",
+      "H. C. Mukherjee"
+    ],
+    "answer": 0,
+    "explanation": "Sachchidananda Sinha, a prominent advocate, chaired the Advisory Committee which dealt with the better future political structure of India; B. N. Rau was the Constitutional Adviser to the Assembly.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who was designated the Chief Draftsman of the Constitution of India?",
+    "options": [
+      "Syama Prasad Mukherjee",
+      "H. C. Mukherjee",
+      "N. Gopalaswami Ayyangar",
+      "Benegal Narsing Rau"
+    ],
+    "answer": 2,
+    "explanation": "N. Gopalaswami Ayyangar was designated the Chief Draftsman, a role he relinquished in 1950; B. N. Rau prepared the initial draft as Constitutional Adviser before the Drafting Committee took over.",
+    "difficulty": "hard",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The original handwritten Constitution of India was published in how many languages?",
+    "options": [
+      "Eight",
+      "Twenty-two",
+      "Fourteen",
+      "Eleven"
+    ],
+    "answer": 2,
+    "explanation": "The original Constitution, calligraphed by the calligraphers of the Legislative Department, was published in English and 13 alternative Hindi versions, making fourteen languages in total.",
+    "difficulty": "easy",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Preamble to the Constitution of India was amended for the first time by which Amendment Act?",
+    "options": [
+      "The 52nd Amendment Act, 1985",
+      "The First Amendment Act, 1951",
+      "The 42nd Amendment Act, 1976",
+      "The 44th Amendment Act, 1978"
+    ],
+    "answer": 1,
+    "explanation": "The First Amendment Act of 1951 amended Article 368 and added the words 'Sovereign' and 'Democratic' to the Preamble, which was the first amendment made to it.",
+    "difficulty": "medium",
+    "category": "preamble-and-union",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "In the Kesavananda Bharati case, the Supreme Court held that the Preamble:",
+    "options": [
+      "is a part of the Constitution",
+      "is not a part of the Constitution",
+      "can be amended only by a simple majority of Parliament",
+      "is a part of the Constitution only from the date of the 42nd Amendment"
+    ],
+    "answer": 0,
+    "explanation": "The majority opinion in Kesavananda Bharati (1973) held that the Preamble is a part of the Constitution and can be amended under Article 368, though it cannot destroy the basic structure.",
+    "difficulty": "hard",
+    "category": "preamble-and-union",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 21C of the Constitution of India provides for:",
+    "options": [
+      "The right to a clean environment",
+      "The right to information",
+      "Free and compulsory education for children aged 6 to 14 years",
+      "Early childhood care and development of children below six years of age"
+    ],
+    "answer": 3,
+    "explanation": "Article 21C, inserted by the 86th Amendment Act of 2002, provides for early childhood care and development below the age of six; Article 21A deals with education between six and fourteen years.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Article 23(2) of the Constitution of India provides that:",
+    "options": [
+      "the bonded labour system is abolished by law",
+      "violation of clause (1) shall be a punishable offence",
+      "children below fourteen years of age shall not work in factories",
+      "the right to work is a fundamental right for all citizens"
+    ],
+    "answer": 1,
+    "explanation": "Article 23(1) prohibits traffic in human beings and forced labour, and clause (2) makes its violation a punishable offence; abolition of bonded labour was achieved through statute.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Article 19(2) of the Constitution permits reasonable restrictions in the interest of all EXCEPT:",
+    "options": [
+      "friendly relations with foreign States",
+      "security of the State",
+      "protection of the environment",
+      "public order"
+    ],
+    "answer": 2,
+    "explanation": "The grounds in Article 19(2) are sovereignty and integrity of India, security of the State, friendly relations with foreign States, public order, decency or morality and prevention of incitement to an offence; protection of the environment is not a listed ground.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Article, inserted by the 42nd Amendment Act of 1976, was declared void by the Supreme Court in the ADM Jabalpur case?",
+    "options": [
+      "Article 32A",
+      "Article 33",
+      "Article 34",
+      "Article 31A"
+    ],
+    "answer": 0,
+    "explanation": "Article 32A, which enabled preventive detention for the preservation of national security, was inserted by the 42nd Amendment and struck down by the Supreme Court in ADM Jabalpur v. Shivkant Shukla (1976).",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 18(2) of the Constitution of India provides that a person holding an office under the State:",
+    "options": [
+      "may accept a military title after five years of service in the army",
+      "shall not retain any title after ceasing to hold office",
+      "shall not accept any title from a foreign State at all",
+      "shall not, without the consent of the President, accept any title from a foreign State"
+    ],
+    "answer": 3,
+    "explanation": "Article 18(1) abolishes titles, while Article 18(2) bars acceptance of any title from a foreign State without the consent of the President; the prohibition does not extend to military or academic distinctions.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Article 30A of the Constitution of India protects:",
+    "options": [
+      "the right of minorities to establish and administer educational institutions",
+      "the right of the State to acquire private property for public purposes",
+      "the freedom of the press and the freedom of speech",
+      "the right to form trade unions and associations"
+    ],
+    "answer": 0,
+    "explanation": "Article 30A, inserted by the 42nd Amendment Act of 1976, protects the right of minorities to establish and administer educational institutions of their choice.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 42nd Amendment Act of 1976 inserted Article 43A, which deals with:",
+    "options": [
+      "the promotion of co-operative societies",
+      "the right to work, education and public assistance",
+      "the promotion of cottage industries in rural areas",
+      "participation of workers in the management of industries"
+    ],
+    "answer": 3,
+    "explanation": "Article 43A provides for the participation of workers in the management of industries; Article 42 deals with co-operative societies and Article 43 with cottage industries in rural areas.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 41 of the Constitution of India directs the State to secure:",
+    "options": [
+      "the organisation of village panchayats",
+      "the promotion of co-operative societies",
+      "the right to work, to education and to public assistance in certain cases",
+      "a social order in which social, economic and political justice informs all institutions"
+    ],
+    "answer": 2,
+    "explanation": "Article 41 directs the State to secure the right to work, to education and to public assistance in certain cases; the social order clause appears in Article 38.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Article 42 of the Constitution of India directs the State to promote:",
+    "options": [
+      "a uniform civil code for the citizens",
+      "the promotion of co-operative societies",
+      "the participation of workers in the management of industries",
+      "the raising of the level of living of workers"
+    ],
+    "answer": 1,
+    "explanation": "Article 42 asks the State to promote the promotion of co-operative societies, while Article 43A deals with workers' participation in management and Article 44 with a uniform civil code.",
+    "difficulty": "easy",
+    "category": "directive-principles",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Article 37 of the Constitution of India provides that the Directive Principles of State Policy:",
+    "options": [
+      "apply only to the Union Government and not to the States",
+      "shall not be enforceable by any court but shall be the guiding principles of the State",
+      "are enforceable in the High Courts on a discretionary basis",
+      "are enforceable by the Supreme Court through writs"
+    ],
+    "answer": 1,
+    "explanation": "Article 37 makes the Directive Principles non-justiciable but fundamental in the governance of the country, and they apply to the Union as well as to the States.",
+    "difficulty": "easy",
+    "category": "directive-principles",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Article 45 of the Constitution, as it originally stood, directed the State to provide free and compulsory education for children up to the age of:",
+    "options": [
+      "fourteen years",
+      "ten years",
+      "twelve years",
+      "six years"
+    ],
+    "answer": 0,
+    "explanation": "Original Article 45 promised free and compulsory education for children up to fourteen years; it was substituted by the 86th Amendment Act of 2002 in the light of the RTE Act.",
+    "difficulty": "easy",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Fundamental Duties added to the Constitution by the 42nd Amendment Act of 1976 are:",
+    "options": [
+      "enforceable in the High Courts only",
+      "not enforceable at all, being merely moral obligations",
+      "enforceable in courts of a different kind",
+      "enforceable in the Supreme Court only"
+    ],
+    "answer": 2,
+    "explanation": "In Kirpal Singh v. State of Punjab (1962) the Supreme Court held that Fundamental Duties are not enforceable by courts directly but courts may enforce them in a 'different kind' of proceedings.",
+    "difficulty": "easy",
+    "category": "fundamental-duties",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 371 of the Constitution, as it stood before 2019, provided special provisions with respect to:",
+    "options": [
+      "Nagaland",
+      "Arunachal Pradesh",
+      "Sikkim",
+      "Jammu and Kashmir"
+    ],
+    "answer": 3,
+    "explanation": "Article 371 granted special provisions to Jammu and Kashmir; Article 371A covers Sikkim, 371B Arunachal Pradesh and Mizoram, and 371C Nagaland.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Constitution (Scheduled Tribes) Amendment Act, 2023 (107th Amendment) provides for:",
+    "options": [
+      "nomination of members of the Scheduled Tribes to the legislatures of certain States",
+      "reservation of tribal judges in the High Courts",
+      "extension of the 73rd Amendment to the tribal areas of Assam",
+      "creation of tribal universities in the Fifth Schedule areas"
+    ],
+    "answer": 0,
+    "explanation": "The 107th Amendment enables the nomination of Scheduled Tribe members to the legislatures of the listed States, filling the gap left by the delimitation freeze in the Fifth and Sixth Schedule areas.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The 92nd Constitutional Amendment Act of 2003 added to the Eighth Schedule the languages:",
+    "options": [
+      "Sindhi, Kashmiri, Tulu and Kodava",
+      "Sanskrit, Tamil, Telugu and Malayalam",
+      "Urdu, Persian, Nepali and Konkani",
+      "Bhojpuri, Maithili, Dogri and Sanskrit"
+    ],
+    "answer": 1,
+    "explanation": "The 92nd Amendment added Bhojpuri, Maithili, Dogri and Sanskrit to the Eighth Schedule, raising the number of scheduled languages to 22; the others were already scheduled.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": 2003
+  },
+  {
+    "q": "Article 279A(9A), inserted by the 101st Amendment Act, provides for:",
+    "options": [
+      "the power of the GST Council to levy GST on inter-State supplies",
+      "the apportionment of the proceeds of GST between the Union and the States",
+      "the power of Parliament to levy GST in the States",
+      "compensation to the States for loss of revenue on account of GST"
+    ],
+    "answer": 3,
+    "explanation": "Sub-article (9A) of Article 279A provides for compensation to any State in case of a reduction in its share of tax revenue on account of the implementation of GST, as recommended by the GST Council.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Inter-State Council is chaired by the:",
+    "options": [
+      "Governor of the State in which the Council meets",
+      "President of India",
+      "Prime Minister",
+      "Home Minister"
+    ],
+    "answer": 2,
+    "explanation": "Article 263 provides for the Inter-State Council, which is chaired by the Prime Minister and investigates and advises on questions of common interest to several States.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Articles 395 and 396, inserted by the 26th Amendment Act of 1971, abolished:",
+    "options": [
+      "the office of the Speaker of the Lok Sabha",
+      "the office of the Governor-General of India",
+      "the Legislative Councils of the States",
+      "the jurisdiction of the Privy Council and privy purses"
+    ],
+    "answer": 3,
+    "explanation": "The 26th Amendment abolished the Privy Council's jurisdiction for India and the privy purses of the erstwhile princely rulers; Legislative Councils are dealt with by Article 169.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The President's Rule in a State can continue for a maximum period of:",
+    "options": [
+      "two years",
+      "three years",
+      "six months",
+      "one year"
+    ],
+    "answer": 1,
+    "explanation": "Under Article 356, President's Rule can continue for one year with an extension of one year at a time with the approval of both Houses, but it cannot exceed three years in all.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The Lok Sabha was first constituted on:",
+    "options": [
+      "17 April 1952",
+      "26 January 1950",
+      "15 August 1947",
+      "3 April 1952"
+    ],
+    "answer": 0,
+    "explanation": "The first Lok Sabha was constituted after the first general elections in 1952 and held its inaugural sitting on 17 April 1952; the Rajya Sabha was constituted on 3 April 1952.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Business Advisory Committee of the Lok Sabha, which recommends the sequence and priority of business, is chaired by the:",
+    "options": [
+      "Deputy Speaker of the Lok Sabha",
+      "Leader of the House in the Lok Sabha",
+      "Speaker of the Lok Sabha",
+      "Leader of the Opposition"
+    ],
+    "answer": 2,
+    "explanation": "The Business Advisory Committee is a non-financial committee constituted by the Speaker, who chairs it, along with the Leader of the House, the Leader of the Opposition and other members.",
+    "difficulty": "easy",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A no-confidence motion against the Council of Ministers in the Lok Sabha requires the support of at least:",
+    "options": [
+      "100 members",
+      "50 members",
+      "one-tenth of the total strength of the House",
+      "10 members"
+    ],
+    "answer": 1,
+    "explanation": "Under the Rules of Procedure, a no-confidence motion can be moved only with the support of at least fifty members, and the Council of Ministers is entitled to a fixed reply.",
+    "difficulty": "easy",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT a financial committee of the Parliament of India?",
+    "options": [
+      "Financial Advisory Council",
+      "Committee on Public Undertakings",
+      "Committee on Petitions",
+      "Estimates Committee"
+    ],
+    "answer": 2,
+    "explanation": "The Committee on Petitions is a non-financial committee that examines petitions relating to matters of public interest; the Estimates Committee, Financial Advisory Council and Committee on Public Undertakings are financial committees.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under Article 100(3), if the House is dissolved before the expiry of its five-year term, the House is deemed to have completed:",
+    "options": [
+      "one year",
+      "three years",
+      "two years",
+      "five years"
+    ],
+    "answer": 3,
+    "explanation": "Article 100(3) provides that where a House is dissolved before the expiry of its five-year term, it is deemed to have completed five years, which prevents the incumbent government from seeking a fresh mandate.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The salaries of judges of the Supreme Court and of the High Courts are charged on:",
+    "options": [
+      "the Consolidated Fund of India",
+      "the Public Account of India",
+      "the Consolidated Fund of the State concerned",
+      "the Contingency Fund of India"
+    ],
+    "answer": 0,
+    "explanation": "Salaries, allowances and pensions of Supreme Court and High Court judges are charged on the Consolidated Fund of India, though they are not subject to the vote of either House of Parliament.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the Golak Nath case (1967), the Supreme Court held that:",
+    "options": [
+      "Article 32 is not itself a fundamental right",
+      "Parliament may abridge Fundamental Rights by a simple majority",
+      "the basic structure doctrine applies to every amendment",
+      "Fundamental Rights have a transcendental position and cannot be abridged by ordinary legislation"
+    ],
+    "answer": 3,
+    "explanation": "I.C. Golak Nath v. State of Punjab (1967) held that Fundamental Rights have a transcendental and immutable position, and Parliament cannot abridge them by ordinary legislation.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Maneka Gandhi case (1978) is significant for propounding:",
+    "options": [
+      "the right to legal aid and a wide interpretation of Article 21",
+      "the right to privacy as a fundamental right",
+      "the doctrine of separation of powers",
+      "the jurisdiction of the Supreme Court cannot be curtailed by Parliament"
+    ],
+    "answer": 0,
+    "explanation": "Maneka Gandhi v. Union of India (1978) expanded Article 21 to include the right to a speedy trial, a free legal aid and the right to know the reasons for one's detention.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the A.K. Gopalan case (1950), the Supreme Court held that:",
+    "options": [
+      "Fundamental Rights are enforceable only through Article 32",
+      "personal liberty under Article 21 is narrow and confined to protection against unlawful arrest",
+      "the Constitution confers a broad right to privacy",
+      "the basic structure doctrine applies to every amendment"
+    ],
+    "answer": 1,
+    "explanation": "A.K. Gopalan v. State of Madras (1950) treated personal liberty under Article 21 as a narrow right confined to protection against unlawful arrest, a view later overruled by Maneka Gandhi.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The oath of office of the President of India is administered by:",
+    "options": [
+      "the President of India himself",
+      "the Vice-President of India",
+      "the Chief Justice of India or, in his absence, the senior-most available judge",
+      "the Speaker of the Lok Sabha"
+    ],
+    "answer": 2,
+    "explanation": "Article 60 requires the oath of office to the President to be administered by the Chief Justice of India or, in his absence, the senior-most judge of the Supreme Court available.",
+    "difficulty": "easy",
+    "category": "judiciary",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The retirement age of a judge of a High Court in India is:",
+    "options": [
+      "60 years",
+      "65 years",
+      "62 years",
+      "58 years"
+    ],
+    "answer": 2,
+    "explanation": "Under Article 217 a High Court judge holds office until he attains the age of sixty-two years, while a Supreme Court judge retires at sixty-five years.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "A High Court may be established for two or more States by:",
+    "options": [
+      "the Supreme Court by administrative order",
+      "Parliament by law",
+      "the President by ordinance",
+      "the Governor by notification"
+    ],
+    "answer": 1,
+    "explanation": "Article 231 enables Parliament by law to establish a High Court for two or more States or for a State and a Union Territory, and to curtail the jurisdiction of an existing High Court.",
+    "difficulty": "easy",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Constitution (106th Amendment) Act, 2023 provides for reservation of seats for women in:",
+    "options": [
+      "the Lok Sabha and the state legislative assemblies",
+      "the Rajya Sabha and the legislative councils",
+      "the Panchayats and municipalities only",
+      "all elected offices including the judiciary"
+    ],
+    "answer": 0,
+    "explanation": "The Nari Shakti Vandan Adhiniyam provides for one-third of the seats in the Lok Sabha and in state legislative assemblies to be reserved for women, including within seats reserved for SCs and STs.",
+    "difficulty": "medium",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "Under the 106th Amendment Act of 2023, the reservation of seats for women in the Lok Sabha will take effect after the next delimitation exercise undertaken on the basis of:",
+    "options": [
+      "the census of 2027",
+      "the census of 2031",
+      "the 2011 census",
+      "the first census conducted after the commencement of the amendment"
+    ],
+    "answer": 3,
+    "explanation": "The amendment ties the implementation of women's reservation to the first census held after the law comes into force, so that the seat freeze on population can be applied at that delimitation.",
+    "difficulty": "medium",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "In the Kihoto Hollohan case (1992), the Supreme Court held that the decision of the Speaker under the Tenth Schedule:",
+    "options": [
+      "may be overridden by the President",
+      "is final and is not subject to any review",
+      "binds only the concerned House and the Speaker",
+      "is subject to judicial review by the Supreme Court"
+    ],
+    "answer": 3,
+    "explanation": "Kihoto Hollohan v. Union of India (1992) held that the decision of the Speaker or Chairman on disqualification under the Tenth Schedule is subject to judicial review by the Supreme Court.",
+    "difficulty": "hard",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A candidate for the office of President of India must be a citizen of India and have completed the age of:",
+    "options": [
+      "40 years",
+      "35 years",
+      "30 years",
+      "25 years"
+    ],
+    "answer": 1,
+    "explanation": "Article 58 prescribes the qualifications of the President, including completion of thirty-five years of age; the same minimum age applies to the Vice-President.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 87th Amendment Act of 2003 read with the 84th Amendment Act of 2001 freezes the allocation of seats in the Lok Sabha and the state assemblies on the basis of the population as per the 1971 census until:",
+    "options": [
+      "2031",
+      "2036",
+      "2026",
+      "2011"
+    ],
+    "answer": 2,
+    "explanation": "The freeze on readjustment of seats on the basis of population continues till 2026, and the 106th Amendment of 2023 links the first census after that date to the implementation of women's reservation.",
+    "difficulty": "medium",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Lokpal and Lokayuktas Act, 2013, the Chairperson of the Lokpal shall be:",
+    "options": [
+      "an existing or retired judge of the Supreme Court or a Chief Justice of a High Court",
+      "the Prime Minister",
+      "any person recommended by the Comptroller and Auditor General",
+      "a Cabinet Minister"
+    ],
+    "answer": 0,
+    "explanation": "Section 4 of the Lokpal and Lokayuktas Act, 2013 provides that the Chairperson of the Lokpal shall be an existing or retired judge of the Supreme Court or a Chief Justice of a High Court.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Comptroller and Auditor General of India is a member of which committee of the Parliament?",
+    "options": [
+      "the Business Advisory Committee",
+      "the Estimates Committee",
+      "the Committee on Public Undertakings",
+      "the Public Accounts Committee"
+    ],
+    "answer": 3,
+    "explanation": "The CAG is the ex-officio member of the Public Accounts Committee, which scrutinises the reports of the CAG and the reports of the Finance Commission, besides examining the appropriation accounts.",
+    "difficulty": "easy",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 100th Constitutional Amendment Act of 2018 relates to:",
+    "options": [
+      "the creation of the National Judicial Appointments Commission",
+      "the reservation of one-third of seats for women",
+      "cooperative federalism and the right to earn in any part of India",
+      "the introduction of the Goods and Services Tax"
+    ],
+    "answer": 2,
+    "explanation": "The 100th Amendment introduced cooperative federalism through Article 280A and recognised the right to reside and earn in any part of India, which was inserted in Article 19(1)(g).",
+    "difficulty": "medium",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 42nd Amendment Act of 1976 reduced the term of the Lok Sabha and the state legislative assemblies from:",
+    "options": [
+      "five years to four years",
+      "four years to three years",
+      "six years to five years",
+      "three years to two years"
+    ],
+    "answer": 0,
+    "explanation": "The 42nd Amendment shortened the maximum term of the Lok Sabha and the state assemblies from five years to four years and extended the life of the incumbent governments; the 44th Amendment restored the five-year term.",
+    "difficulty": "easy",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The International Solar Alliance, co-founded by India and France, is headquartered at:",
+    "options": [
+      "New Delhi",
+      "Gurugram, Haryana",
+      "Chennai",
+      "Ahmedabad"
+    ],
+    "answer": 1,
+    "explanation": "The International Solar Alliance, launched jointly by India and France in 2015, has its permanent secretariat at Gurugram in Haryana.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "Under the 74th Constitutional Amendment Act, the accounts of the municipalities are audited by:",
+    "options": [
+      "the Finance Commission",
+      "the State Government",
+      "the Reserve Bank of India",
+      "the Comptroller and Auditor General of India or an auditor appointed by him"
+    ],
+    "answer": 3,
+    "explanation": "Article 149, inserted by the 74th Amendment, requires the accounts of the municipalities to be audited by the Comptroller and Auditor General or by an auditor appointed by him.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In State of Madras v. Champakam Dorairajan (1951), the Supreme Court held that:",
+    "options": [
+      "the President alone may conduct foreign relations",
+      "treaties require the prior consent of every State",
+      "the Union Parliament may legislate on external affairs notwithstanding the State List",
+      "external affairs are a subject in the State List"
+    ],
+    "answer": 2,
+    "explanation": "The Court held that the Union Parliament has power to legislate on matters that are in the domain of external affairs, and that the power of the Parliament under Article 253 is not restricted by the State List.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The State Election Commissioner is appointed by:",
+    "options": [
+      "the District Collector",
+      "the Governor of the State",
+      "the Chief Election Commissioner of India",
+      "the State Government in consultation with the Election Commission"
+    ],
+    "answer": 1,
+    "explanation": "Articles 243K and 243ZA provide that the State Election Commissioner shall be appointed by the Governor of the State, and his term and conditions are determined by the Governor.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  }
+]

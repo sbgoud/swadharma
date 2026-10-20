@@ -1,0 +1,122 @@
+[
+  {
+    "q": "The 'twin deficit' situation in an economy refers to:",
+    "options": [
+      "A simultaneous current account surplus and fiscal surplus",
+      "A simultaneous trade deficit and capital account deficit",
+      "A simultaneous fiscal deficit and current account deficit",
+      "A simultaneous fiscal deficit and inflation"
+    ],
+    "answer": 2,
+    "explanation": "The term twin deficit refers to the situation in which the fiscal deficit (excess of government spending over revenue) and the current account deficit (excess of imports over exports) occur at the same time, as in India after 2008.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'capital account' of the balance of payments records:",
+    "options": [
+      "All the unilateral transfers received from abroad",
+      "The value of the goods and services imported and exported",
+      "The income earned by Indian residents from their overseas investments",
+      "Transactions that change the ownership of financial assets and liabilities, such as foreign direct investment and external borrowing"
+    ],
+    "answer": 3,
+    "explanation": "The capital account records transactions that change the ownership of financial assets and liabilities between residents and non-residents, such as foreign direct investment, portfolio investment, external commercial borrowing and repayment of loans.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the GST regime, the e-way bill has to be generated for the movement of goods whose value exceeds:",
+    "options": [
+      "Rs 10,000",
+      "Rs 50,000",
+      "Rs 1,00,000",
+      "Rs 1,50,000"
+    ],
+    "answer": 1,
+    "explanation": "Under the GST rules, an e-way bill is required for the consignment of goods of a value above Rs 50,000, while a separate e-way bill is needed for exempted goods exceeding Rs 1,50,000. The e-way bill carries the GSTIN of the supplier and the consignee.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Banking Regulation (Amendment) Act, 2020, the minimum paid-up capital required for a universal bank in India is:",
+    "options": [
+      "Rs 5,000 crore",
+      "Rs 15,000 crore",
+      "Rs 21,000 crore",
+      "Rs 1,000 crore"
+    ],
+    "answer": 1,
+    "explanation": "The Banking Regulation (Amendment) Act, 2020 raised the minimum paid-up capital for a universal bank to Rs 15,000 crore and for a global systemically important bank to Rs 21,000 crore, and the Act also allowed the merger of two or more banks into a single bank.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Treasury bills issued by the Government of India have a maturity of:",
+    "options": [
+      "5 to 10 years",
+      "14 to 91 days",
+      "91, 182 and 364 days",
+      "6 months to 1 year"
+    ],
+    "answer": 2,
+    "explanation": "The Government of India issues Treasury bills with maturities of 91, 182 and 364 days, which are used to manage the short-term liquidity of the government. Dated securities are issued for longer tenors.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the PM-Kisan Maandhan Yojana, the contribution of the Central government to the pension of a small and marginal farmer is:",
+    "options": [
+      "Rs 3,000 per month",
+      "Rs 5,000 per month",
+      "Rs 1,000 per month",
+      "Rs 2,000 per month"
+    ],
+    "answer": 0,
+    "explanation": "Under the PM-Kisan Maandhan Yojana, a small and marginal farmer contributes Rs 1,000 to Rs 3,000 per month according to age, and the Central government contributes an equal matching amount of Rs 3,000 per month to the pension account after the age of 60 years.",
+    "difficulty": "hard",
+    "category": "poverty-and-employment",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'primary market' for securities refers to:",
+    "options": [
+      "The purchase of securities by the public at a premium over the face value",
+      "The market in which the securities of listed companies are traded",
+      "The trading of already issued securities on the stock exchanges",
+      "The fresh issue of securities by a company or the government"
+    ],
+    "answer": 3,
+    "explanation": "The primary market is the market in which securities are issued for the first time by the issuer, such as a fresh issue of shares or a new Government security, while the trading of already issued securities takes place in the secondary market.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'yield' of a bond is best described as:",
+    "options": [
+      "The annual return on the investment in the bond, expressed as a percentage of the amount invested",
+      "The amount of interest that the issuer fails to pay on the bond",
+      "The difference between the interest rate of the bond and the policy rate of the central bank",
+      "The face value of the bond expressed as a proportion of the market price"
+    ],
+    "answer": 0,
+    "explanation": "The yield of a bond is the annual return an investor earns on the investment, expressed as a percentage of the amount invested. It depends on the coupon rate, the price paid for the bond and the time to maturity.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "q": "The 'West India Coastal Current' flows:",
+    "options": [
+      "Southwards from the Gujarat coast to the equator in the winter",
+      "Northwards along the whole of the Indian coast throughout the year",
+      "From the Bay of Bengal into the Arabian Sea through the Palk Strait",
+      "Northwards from the equator to the Gujarat coast in the summer"
+    ],
+    "answer": 3,
+    "explanation": "The West India Coastal Current flows northwards from the equator to the coast of Gujarat during the summer monsoon, and it reverses its direction in the winter and flows southwards, and the Somali Current shows the same seasonal reversal with the strongest upwelling in the summer.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Gulf of Kachchh' and the 'Gulf of Cambay' are famous for:",
+    "options": [
+      "The cold water fisheries of the sardine",
+      "The great tidal range and the tidal power potential",
+      "The largest mangrove forest of India",
+      "The coral reefs of the Red Sea"
+    ],
+    "answer": 1,
+    "explanation": "The Gulf of Kachchh and the Gulf of Cambay, the Gulf of Khambhat, record one of the largest tidal ranges of the world, and the Gulf of Kachchh is among the few places in India with the potential for the generation of the tidal power.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Deep Ocean Mission' of India aims at:",
+    "options": [
+      "The collection of the samples of the manganese nodules for the commercial mining",
+      "The mapping of the sea floor for the navigation of the ships",
+      "The exploration of the deep ocean for the minerals, the biodiversity and the climate data",
+      "The setting up of the research vessels in the Indian Ocean"
+    ],
+    "answer": 2,
+    "explanation": "The Deep Ocean Mission of the Ministry of Earth Sciences is a multi-dimensional programme for the exploration of the deep ocean that covers the seabed and the marine life, the ocean climate and the ocean technologies, and it also supports the six deep ocean research and exploration projects.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'seagrass meadows' of the Gulf of Mannar and the Palk Bay are important because they are:",
+    "options": [
+      "The only habitat of the dugong in the Indian Ocean",
+      "The largest mangrove forests of the country",
+      "The nursery grounds of the fish and the storehouses of the blue carbon",
+      "The source of the pearl production"
+    ],
+    "answer": 2,
+    "explanation": "The seagrass meadows of the Gulf of Mannar and the Palk Bay are the nursery grounds of the fish and they are the storehouses of the blue carbon, and they also support the fisheries of the coastal communities of the Tamil Nadu coast.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Marine Fisheries Policy' of India was launched in:",
+    "options": [
+      "2021",
+      "2017",
+      "2004",
+      "2010"
+    ],
+    "answer": 1,
+    "explanation": "The National Marine Fisheries Policy was launched in 2017 with the aim of promoting the sustainable development of the marine fisheries and of raising the contribution of the fisheries to the food security and the economic growth, and it is followed by the Blue Revolution.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Green Energy Corridor' project of India is intended to:",
+    "options": [
+      "Interconnect the renewable energy generating stations with the load centres through the green energy transmission corridors",
+      "Set up the solar parks in the desert regions of Rajasthan",
+      "Finance the rooftop solar plants of the households",
+      "Develop the offshore wind projects in the Gujarat coast"
+    ],
+    "answer": 0,
+    "explanation": "The Green Energy Corridor is an inter-regional transmission project that connects the renewable energy generating stations with the load centres, so that the renewable energy generated in the resource-rich states is carried to the demand centres.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Renewable Purchase Obligation' in India obliges the:",
+    "options": [
+      "The thermal power plants to install the rooftop solar plants",
+      "The industries to use the renewable energy in their production",
+      "The states to set up the solar parks in every district",
+      "The discoms to purchase a specified share of the electricity from the renewable sources"
+    ],
+    "answer": 3,
+    "explanation": "The Renewable Purchase Obligation obliges the distribution companies to purchase a specified percentage of their total requirement of the electricity from the renewable energy sources, and the renewable purchase obligation certificates are traded in the market.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'tidal energy' projects in India are being developed mainly in the:",
+    "options": [
+      "Andaman and Nicobar Islands",
+      "Arabian Sea off the coast of Kerala",
+      "Gulf of Kachchh and the Gulf of Cambay",
+      "Bay of Bengal"
+    ],
+    "answer": 2,
+    "explanation": "The tidal energy is being developed mainly in the Gulf of Kachchh and the Gulf of Cambay where the tidal range is the highest, and the Gulf of Kachchh has the potential of about 7,000 megawatts of the tidal power.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Biomass' power in India is generated mainly from the:",
+    "options": [
+      "The wood of the tropical forests",
+      "The coal washery rejects",
+      "The municipal sewage sludge",
+      "Agricultural residues, the municipal solid waste and the industrial effluents"
+    ],
+    "answer": 3,
+    "explanation": "The biomass power in the country is generated from the agricultural residues, the municipal solid waste and the industrial effluents, and the biogas plants of the family type are a significant part of this source.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Environment Policy, 2006' of India:",
+    "options": [
+      "Fixes the timings of the crop residues burning",
+      "Sets out the objectives and the broad principles for the conservation and the development of the environment and for the integration of the environmental concerns in the developmental process",
+      "Prescribes the emission standards for the thermal power plants",
+      "Provides for the compensation of the loss of the forest cover"
+    ],
+    "answer": 1,
+    "explanation": "The National Environment Policy of 2006 laid down the objectives and the broad principles for the conservation and the development of the environment and for the integration of the environmental concerns in the developmental process, and the outcome was the setting up of the Environment Management Capacity Development Project.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Forest Rights Act, 2006' extends the community forest rights to:",
+    "options": [
+      "The tribal and the other forest dwellers who have been residing in the forests for three generations or more",
+      "Every household that owns a land deed in the village",
+      "Only the members of the recognised forest rights committees",
+      "The graziers who move with the cattle in the forests"
+    ],
+    "answer": 0,
+    "explanation": "The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 recognises the forest rights of the tribal and the other traditional forest dwellers who have been residing in the forests for three generations or more, subject to the condition that the forest land is a government forest.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the 'Environmental Impact Assessment Notification, 2006', the Category A projects:",
+    "options": [
+      "Require the prior environmental clearance of the Ministry of Environment, Forest and Climate Change",
+      "Require only the clearance of the state pollution control board",
+      "Are exempt from any environmental clearance",
+      "Need the clearance only in the ecologically sensitive areas"
+    ],
+    "answer": 0,
+    "explanation": "The projects of the Category A, such as the mining and the industries, require the prior environmental clearance from the Ministry of Environment, Forest and Climate Change after the appraisal by the Expert Appraisal Committee, while the Category B projects need the clearance of the state level.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Green Tribunal' consists of:",
+    "options": [
+      "A chairperson and two full time judges appointed by the President",
+      "The chairperson who is the Minister of Environment and the members who are the state forest officers",
+      "Ten judicial and ten technical members elected by the state governments",
+      "A chairperson and the judicial and the technical members, with the chairperson being a retired judge of the Supreme Court or a Chief Justice of a High Court"
+    ],
+    "answer": 3,
+    "explanation": "The National Green Tribunal has a chairperson and the judicial and the technical members, and the chairperson of the tribunal is a retired judge of the Supreme Court or a Chief Justice of a High Court, while the chair of the appellate authority is the chairperson of the tribunal itself.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'COP27' held at Sharm el-Sheikh in 2022:",
+    "options": [
+      "Set the target of the net zero emissions for 2070 for India",
+      "Agreed to establish the operational details of the loss and damage fund and the fund was later operationalised at COP28",
+      "Completed the first global stocktake of the Paris Agreement",
+      "Adopted the Article 6 rules of the carbon markets"
+    ],
+    "answer": 1,
+    "explanation": "The COP27 at Sharm el-Sheikh agreed to establish the loss and damage fund for the vulnerable countries, which was operationalised at the COP28 with the pledges of about 700 million dollars for the first year.",
+    "difficulty": "hard",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The first 'Global Stocktake' of the Paris Agreement was completed at:",
+    "options": [
+      "COP27 at Sharm el-Sheikh in 2022",
+      "COP29 at Baku in 2024",
+      "COP28 at Dubai in 2023",
+      "COP26 at Glasgow in 2021"
+    ],
+    "answer": 2,
+    "explanation": "The first global stocktake of the Paris Agreement was completed at the COP28 in Dubai in 2023, and the outcome was the call for the transition away from the fossil fuels in the energy systems in a just, orderly and equitable manner.",
+    "difficulty": "hard",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 6' of the Paris Agreement deals with:",
+    "options": [
+      "The cooperative approaches for the reporting of the greenhouse gas emissions and the carbon markets",
+      "The financial assistance to the developing countries",
+      "The compliance of the non-Annex I countries",
+      "The registration of the nationally determined contributions"
+    ],
+    "answer": 0,
+    "explanation": "Article 6 of the Paris Agreement provides the framework of the cooperative approaches for the reporting of the emissions, the internationally transferred mitigation outcomes and the sustainable development mechanism of the carbon markets, and the rules on them were finalised at the COP26.",
+    "difficulty": "hard",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'loss and damage' fund agreed at the COP27 is meant for:",
+    "options": [
+      "The insurance of the renewable energy projects",
+      "The research on the adaptation technologies",
+      "The vulnerable developing countries that suffer the actual loss from the climate change impacts",
+      "The reconstruction of the infrastructure in the cyclone affected states"
+    ],
+    "answer": 2,
+    "explanation": "The loss and damage fund addresses the actual loss and the damage that the vulnerable developing countries face from the impacts of the climate change, which is different from the mitigation and the adaptation support provided under the Green Climate Fund.",
+    "difficulty": "hard",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bharat Stage VI' emission norms:",
+    "options": [
+      "Were introduced in 2010 for the private vehicles of Delhi",
+      "Apply only to the commercial vehicles of the metropolitan cities",
+      "Have replaced the fuel efficiency standards of the passenger cars",
+      "Were introduced in 2020 and are the strictest of the emission standards of the world for the sulphur content of the fuel"
+    ],
+    "answer": 3,
+    "explanation": "The Bharat Stage VI norms, which correspond to the Euro VI standards, were introduced in 2020 and brought down the sulphur content of the diesel to 10 ppm from the earlier 500 ppm, and they apply to the newly registered vehicles of the private and the commercial categories.",
+    "difficulty": "hard",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'odd-even' road rationing scheme of Delhi:",
+    "options": [
+      "Requires the odd and the even licence plates to use the different fuel",
+      "Restricts the registration of the private cars on the odd and the even dates of the calendar",
+      "Bans the diesel vehicles on the odd numbered roads",
+      "Restricts the movement of the goods vehicles in the night"
+    ],
+    "answer": 1,
+    "explanation": "The odd-even scheme of the National Green Tribunal in Delhi restricts the registration of the private cars on the odd and the even dates of the calendar in a bid to curb the vehicular pollution and the congestion on the roads of the city.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Ambient Air Quality Standards' prescribed under the Air Act:",
+    "options": [
+      "Apply only to the cities with a population above one million",
+      "Have been prescribed by the Central Pollution Control Board for the industrial units only",
+      "Have been notified in 2009 for the twelve pollutants, including PM2.5, PM10, SO2, NO2, NH3, CO, ozone and lead",
+      "Have been notified for only the particulate matter and the sulphur dioxide"
+    ],
+    "answer": 2,
+    "explanation": "The National Ambient Air Quality Standards were notified by the Central Pollution Control Board in 2009 for the twelve pollutants, and the standards include the annual and the 24-hour averages for the PM2.5 and the PM10 and the gaseous pollutants.",
+    "difficulty": "hard",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Solid Waste Management Rules, 2016' in India:",
+    "options": [
+      "Have prescribed the landfill only for the hazardous waste",
+      "Apply to the generators of the solid waste, the local bodies and the waste processors, and mandate the segregation at the source",
+      "Apply only to the municipal solid waste of the cities with a population above ten lakh",
+      "Have made the segregation of the waste optional for the households"
+    ],
+    "answer": 1,
+    "explanation": "The Solid Waste Management Rules, 2016 apply to the generators of the solid waste, the local bodies, the waste processors and the recyclers, and they mandate the segregation of the waste at the source, the composting and the ban on the burning of the waste in the open.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'E-waste (Management) Rules, 2022' in India:",
+    "options": [
+      "Have replaced the 2016 rules and have introduced the concept of the producer responsibility organisation and the centralised portal for the registration",
+      "Have limited the definition of the e-waste to the ten categories of the electronic items",
+      "Have made the collection of the e-waste the responsibility of the municipal corporations",
+      "Have introduced the deposit refund scheme for the electronic items"
+    ],
+    "answer": 0,
+    "explanation": "The E-waste (Management) Rules of 2022 replaced the 2016 rules, and they widened the definition of the e-waste, introduced the producer responsibility organisation, the registration of the producers and the recyclers on the centralised portal and the certification of the refurbishment.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Plastic Waste Management Rules, 2016' introduced in India:",
+    "options": [
+      "The complete ban on the plastic packaging in the country",
+      "The deposit refund scheme of the plastic bottles",
+      "The levy of the environmental compensation on the plastic manufacturers",
+      "The concept of the extended producer responsibility and the responsibility of the local bodies and the waste pickers"
+    ],
+    "answer": 3,
+    "explanation": "The Plastic Waste Management Rules of 2016 introduced the extended producer responsibility, the responsibilities of the local bodies and of the waste pickers, the set up of the plastic waste management rules and the registration of the producers, the importers and the recyclers on the central portal.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Centralized Regulatory Authority for Biodegradable Products' certifies:",
+    "options": [
+      "The food products of the food safety authority",
+      "The biodegradable products and the plastic waste pickers for the certification of the compostability",
+      "The organic fertilizers of the agriculture department",
+      "The pollution control equipment of the industries"
+    ],
+    "answer": 1,
+    "explanation": "The Centralized Regulatory Authority for Biodegradable Products certifies the biodegradable products and the plastic waste pickers, and the certification is based on the standards of the Bureau of Indian Standards for the compostability of the products.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Waste picker' cooperatives in India are supported by:",
+    "options": [
+      "The Concessional credit and the interest subsidy of the Ministry of Housing and Urban Affairs",
+      "The direct funding of the Ministry of Environment",
+      "The National Green Tribunal",
+      "The Reserve Bank of India"
+    ],
+    "answer": 0,
+    "explanation": "The waste picker cooperatives are supported with the concessional credit and the interest subsidy of the Ministry of Housing and Urban Affairs under the Swachh Bharat Mission, which helps them to buy the tricycles, the pushcarts and the sorting and the shredding equipment and to get the the user fees.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Guidelines on the Management of the Marine and the Coastal Ecosystems' and the 'Mangrove Atlas':",
+    "options": [
+      "Are the guidelines of the Indian Navy for the coastal security",
+      "Are the guidelines of the Central Water Commission for the river projects",
+      "Were released by the Ministry of Environment, Forest and Climate Change with the mapping of the tidal zone mangroves of the country",
+      "Were prepared by the Survey of India for the navigation charts"
+    ],
+    "answer": 2,
+    "explanation": "The National Guidelines on the Management of the Marine and the Coastal Ecosystems and the Mangrove Atlas were released by the Ministry of Environment, Forest and Climate Change, and the atlas maps the tidal zone mangroves of the country, which is useful for the coastal zone management and the biodiversity planning.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'National Mangrove and Wetland Atlas' of India:",
+    "options": [
+      "Was prepared by the Indian Coast Guard for the navigational purpose",
+      "Covers only the mangroves of the Sundarbans",
+      "Was prepared by the Central Water Commission for the river basin planning",
+      "Maps the 49 mangrove patches of the country and was prepared with the support of the MoEFCC and the Space Applications Centre"
+    ],
+    "answer": 3,
+    "explanation": "The National Mangrove and Wetland Atlas was prepared by the Space Applications Centre with the support of the Ministry of Environment, Forest and Climate Change, and it maps the mangrove patches of the country and their carbon stocks.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Bhitarkanika Mangroves' of Odisha:",
+    "options": [
+      "Are the largest mangrove forest of the world",
+      "Are the source of the famous Kalamkari painting of Odisha",
+      "Host the largest congregation of the Indian grey dolphins in the world",
+      "Are the only mangrove forests of the country with the tigers"
+    ],
+    "answer": 2,
+    "explanation": "The Bhitarkanika mangroves of Odisha host the largest congregation of the Indian grey dolphins in the world, and the area is also the home of the saltwater crocodile and the magnets of the migratory birds.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gulf of Mannar' region:",
+    "options": [
+      "Is the first Marine National Park of the country, notified in 2012, and it is the habitat of the dugong",
+      "Holds the only coral reef of the Indian Ocean on the Indian coast",
+      "Is the source of the finest pearls of the country",
+      "Is the only place where the sea turtles nest in the country"
+    ],
+    "answer": 0,
+    "explanation": "The Gulf of Mannar and the Gulf of Kachchh were the first Marine National Parks of the country, notified in 2012, and the Gulf of Mannar is the habitat of the vulnerable dugong, along with the seagrass meadows and the coral reefs.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'coral reefs' of the Gulf of Kachchh:",
+    "options": [
+      "Are the only reefs of the country that are protected by a national park",
+      "Are the source of the limestone of the Bhuj region",
+      "Are the breeding grounds of the olive ridley turtles",
+      "Support the most diverse marine life of the country and are threatened by the coastal development and the bleaching"
+    ],
+    "answer": 3,
+    "explanation": "The coral reefs of the Gulf of Kachchh support the most diverse marine life of the country, with more than a hundred species of the fish and the corals, and they are threatened by the coastal development, the oil pollution and the coral bleaching caused by the warming of the sea.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Industrial and Commercial Policy' of the Government of India:",
+    "options": [
+      "Prescribes the labour welfare measures of the factories",
+      "Provides for the social and the industrial infrastructure, the consolidation of the public sector enterprises and the delicensing",
+      "Fixes the tariffs of the public sector enterprises",
+      "Regulates the foreign investment in the infrastructure sector"
+    ],
+    "answer": 1,
+    "explanation": "The Industrial Policy of 1991, which was followed by the Industrial and Commercial Policy, provided for the social and the industrial infrastructure, the consolidation of the public sector enterprises, the delicensing of the industries and the opening up of the foreign investment.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Disaster Management Guidelines' for the management of the earthquakes:",
+    "options": [
+      "Have been prepared by the Indian Institute of Technology for the design of the buildings",
+      "Are applicable only to the cities above ten lakh population",
+      "Have been prepared by the Ministry of Housing and Urban Affairs",
+      "Have been prepared by the National Disaster Management Authority with the emphasis on the non-structural measures and the community preparedness"
+    ],
+    "answer": 3,
+    "explanation": "The National Disaster Management Authority has prepared the National Disaster Management Guidelines for the management of the earthquakes, the cyclones, the floods, the landslides, the drought and the biological disasters, and they lay down the standard operating procedures for the response and emphasise the non-structural measures and the community preparedness.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cyclone Preparedness Programme' of the National Disaster Management Authority:",
+    "options": [
+      "Strengthens the community based cyclone preparedness through the training of the volunteers and the pre-positioning of the equipment",
+      "Runs the cyclone warning system of the India Meteorological Department",
+      "Builds the shelters of the coastal states",
+      "Conducts the annual mock drills of the districts"
+    ],
+    "answer": 0,
+    "explanation": "The Cyclone Preparedness Programme of the NDMA works with the state governments, the NDRF and the IRCD to strengthen the community based preparedness through the training of the volunteers, the pre-positioning of the life saving equipment and the mock drills in the coastal districts.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'India Meteorological Department' issues the cyclone warnings through:",
+    "options": [
+      "The National Institute of Oceanography at Goa",
+      "The Central Water Commission at New Delhi",
+      "The Regional Cyclone Warning Centres that are co-located with the regional meteorological centres",
+      "The National Remote Sensing Centre at Hyderabad"
+    ],
+    "answer": 2,
+    "explanation": "The India Meteorological Department issues the cyclone warnings through its Regional Cyclone Warning Centres, which are co-located with the regional meteorological centres at the four ports of Chennai, Mumbai, Kolkata and Kochi, and the warning is disseminated through the common warning protocol.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Forest Policy, 1988 of India states that the main aim of the forest policy is:",
+    "options": [
+      "the conservation of the genetic diversity of the forest species",
+      "the scientific management of the forests for the sustained yield of the wood and the forest produce",
+      "the protection of the wildlife and the biodiversity of the country",
+      "the increase of the net forest area of the country by five per cent"
+    ],
+    "answer": 1,
+    "explanation": "The National Forest Policy of 1988 states that the main aim of the forest policy is the scientific management of the forest lands for the sustained yield of the wood and the forest produce needed to meet the needs of the people, and it lays down the objectives of the forest conservation, the afforestation and the forest produce.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

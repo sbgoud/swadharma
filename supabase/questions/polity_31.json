@@ -1,0 +1,1982 @@
+[
+  {
+    "q": "The Indian Constitution was adopted by the Constituent Assembly on:",
+    "options": [
+      "26 November 1949",
+      "26 January 1950",
+      "15 August 1947",
+      "24 January 1950"
+    ],
+    "answer": 0,
+    "explanation": "The Constitution was adopted, signed and promulgated on 26 November 1949 and came into force on 26 January 1950.",
+    "difficulty": "easy",
+    "category": "constitution-making",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Who was the President of the Constituent Assembly of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Dr. Sachchidananda Sinha",
+      "Rajendra Prasad"
+    ],
+    "answer": 1,
+    "explanation": "Dr. Sachchidananda Sinha was the temporary President of the Constituent Assembly; Rajendra Prasad was its permanent President and later became the first President of India.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Who moved the objective resolution in the Constituent Assembly?",
+    "options": [
+      "Jaivraj Mehta",
+      "Dr. B.R. Ambedkar",
+      "Vallabhbhai Patel",
+      "Jawaharlal Nehru"
+    ],
+    "answer": 3,
+    "explanation": "Jawaharlal Nehru moved the objective resolution on 13 December 1946 and Jaivraj Mehta seconded it; it was adopted on 22 January 1947.",
+    "difficulty": "hard",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Chairman of the Drafting Committee of the Constituent Assembly was:",
+    "options": [
+      "B.N. Rau",
+      "Jawaharlal Nehru",
+      "Dr. B.R. Ambedkar",
+      "Sardar Patel"
+    ],
+    "answer": 2,
+    "explanation": "Dr. B.R. Ambedkar chaired the Drafting Committee and was the principal architect of the Constitution of India.",
+    "difficulty": "easy",
+    "category": "constitution-making",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "How many members from the British Indian provinces were elected to the Constituent Assembly?",
+    "options": [
+      "145",
+      "296",
+      "389",
+      "200"
+    ],
+    "answer": 1,
+    "explanation": "The Constituent Assembly had 389 members: 296 from the provinces, 93 representing princely states and 4 representing Chief Commissioners' Provinces.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Constitution of India borrowed the concurrent list from:",
+    "options": [
+      "Constitution of the United States",
+      "Constitution of Ireland",
+      "Constitution of Australia",
+      "Government of India Act 1935"
+    ],
+    "answer": 3,
+    "explanation": "The concurrent list and the scheme of a federation with a strong centre borrowed from the Government of India Act, 1935.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The procedure of election to the Rajya Sabha was borrowed from:",
+    "options": [
+      "Ireland",
+      "Canada",
+      "United States",
+      "British Parliament"
+    ],
+    "answer": 2,
+    "explanation": "The method of election to the Rajya Sabha, with a special electoral college, was borrowed from the Constitution of the United States.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The idea of a concurrent list and the freedom of trade, commerce and intercourse were borrowed from:",
+    "options": [
+      "Ireland",
+      "Canada",
+      "Australia",
+      "United States"
+    ],
+    "answer": 0,
+    "explanation": "The Irish Constitution provided for a concurrent list, the freedom of trade, commerce and intercourse, and the method of presidential election.",
+    "difficulty": "hard",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Concurrent List' was first introduced in the Constitution of:",
+    "options": [
+      "Canada",
+      "Australia",
+      "Ireland",
+      "United States"
+    ],
+    "answer": 2,
+    "explanation": "The concurrent list and the freedom of trade and commerce were borrowed from the Irish Constitution.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The provision of a 'Concurrent List' in the Indian Constitution was borrowed from:",
+    "options": [
+      "United States",
+      "Canada",
+      "Australia",
+      "Ireland"
+    ],
+    "answer": 3,
+    "explanation": "The concurrent list, along with the freedom of trade, commerce and intercourse and the method of election to the upper house, was borrowed from Ireland.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 42nd Amendment to the Constitution was enacted in:",
+    "options": [
+      "1971",
+      "1976",
+      "1978",
+      "1980"
+    ],
+    "answer": 1,
+    "explanation": "The 42nd Amendment of 1976 was enacted during the Emergency and is sometimes called the 'Mini-Constitution'.",
+    "difficulty": "easy",
+    "category": "preamble-and-union",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The words 'socialist', 'secular' and 'integrity' were added to the Preamble by which amendment?",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "52nd Amendment",
+      "7th Amendment"
+    ],
+    "answer": 0,
+    "explanation": "The 42nd Amendment of 1976 added the words socialist, secular and integrity to the Preamble.",
+    "difficulty": "medium",
+    "category": "preamble-and-union",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Which Article of the Constitution declares India to be a 'Union of States'?",
+    "options": [
+      "Article 3",
+      "Article 4",
+      "Article 1",
+      "Article 2"
+    ],
+    "answer": 2,
+    "explanation": "Article 1(1) states that India, that is Bharat, shall be a Union of States, and Article 3 deals with the formation of new states.",
+    "difficulty": "medium",
+    "category": "preamble-and-union",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The Preamble to the Constitution declares India to be:",
+    "options": [
+      "A federal unitary state",
+      "A sovereign socialist republic",
+      "A democratic republic",
+      "A socialist, secular, democratic republic"
+    ],
+    "answer": 3,
+    "explanation": "After the 42nd Amendment the Preamble declares India to be a Sovereign Socialist Secular Democratic Republic.",
+    "difficulty": "easy",
+    "category": "preamble-and-union",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Rights conferred by the Citizenship Act, 1955 are:",
+    "options": [
+      "Fundamental Rights",
+      "Legal rights",
+      "Natural rights",
+      "Civil rights"
+    ],
+    "answer": 1,
+    "explanation": "Rights conferred by the Citizenship Act, 1955 are legal rights, not fundamental rights; Parliament can change them by an ordinary law.",
+    "difficulty": "hard",
+    "category": "preamble-and-union",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Article of the Constitution deals with the right to equality?",
+    "options": [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 12"
+    ],
+    "answer": 0,
+    "explanation": "Article 14 guarantees equality before law and equal protection of the laws to all citizens within the territory of India.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The right to property was removed from the list of fundamental rights by which amendment?",
+    "options": [
+      "52nd Amendment",
+      "1st Amendment",
+      "42nd Amendment",
+      "44th Amendment"
+    ],
+    "answer": 3,
+    "explanation": "The 44th Amendment of 1978 removed the right to property from the list of fundamental rights and made it a legal right under Article 300A.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The writ of 'Quo Warranto' is issued to:",
+    "options": [
+      "Enforce a legal right",
+      "Prevent a person from holding a public office he is not entitled to",
+      "Bring a person to court to examine the legality of his claim",
+      "Transfer a case from one court to another"
+    ],
+    "answer": 1,
+    "explanation": "Quo Warranto literally means 'by what authority', and it is issued to prevent a person from holding a public office to which he is not entitled.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The right to life and personal liberty under Article 21 was interpreted to include the right to:",
+    "options": [
+      "Vote and election",
+      "Education and employment",
+      "Privacy and a clean environment",
+      "Property and trade"
+    ],
+    "answer": 2,
+    "explanation": "In K.S. Puttaswamy (2017) the Supreme Court held that the right to privacy is intrinsic to life and personal liberty under Article 21.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In which case did the Supreme Court declare the right to privacy a fundamental right?",
+    "options": [
+      "K.S. Puttaswamy v. Union of India",
+      "S.R. Bommai v. Union of India",
+      "Maneka Gandhi v. Union of India",
+      "Kesavananda Bharati v. State of Kerala"
+    ],
+    "answer": 0,
+    "explanation": "In 2017, in the Puttaswamy case, a nine-judge bench held that privacy is a fundamental right protected under Article 21.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 21A of the Constitution deals with:",
+    "options": [
+      "Right to freedom of religion",
+      "Right to education",
+      "Right to life",
+      "Right to equality"
+    ],
+    "answer": 1,
+    "explanation": "Article 21A, inserted by the 86th Amendment of 2002, provides that the state shall provide free and compulsory education to every child aged six to fourteen years.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Article 32 of the Constitution was described by which leader as the 'heart and soul' of the Constitution?",
+    "options": [
+      "Dr. Ambedkar and Jawaharlal Nehru",
+      "Motilal Nehru",
+      "Dr. B.R. Ambedkar",
+      "Jawaharlal Nehru"
+    ],
+    "answer": 2,
+    "explanation": "Dr. B.R. Ambedkar called Article 32, which allows the enforcement of fundamental rights, the very heart and soul of the Constitution.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Article 20 of the Constitution provides protection against:",
+    "options": [
+      "Double jeopardy and self-incrimination",
+      "Arrest without warrant",
+      "Conviction by special court",
+      "Ex-post facto laws"
+    ],
+    "answer": 0,
+    "explanation": "Article 20 protects against ex-post facto criminal laws, double jeopardy and self-incrimination.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The Constitution (First Amendment) Act, 1951 added which new category to the Constitution?",
+    "options": [
+      "Tenth Schedule",
+      "Eleventh Schedule",
+      "Twelfth Schedule",
+      "Ninth Schedule"
+    ],
+    "answer": 3,
+    "explanation": "The First Amendment added the Ninth Schedule in 1951 to protect the laws of land reform from judicial review.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 359 of the Constitution deals with:",
+    "options": [
+      "Freedom of the press",
+      "Right to education",
+      "Suspension of fundamental rights during an emergency",
+      "Right to equality"
+    ],
+    "answer": 2,
+    "explanation": "Article 359 allows the President to suspend the right to move courts for enforcement of specified fundamental rights during a national emergency.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Fundamental Rights under Part III of the Constitution are enforceable through:",
+    "options": [
+      "Article 32 and Article 226",
+      "Article 368",
+      "Article 280",
+      "Administrative tribunals"
+    ],
+    "answer": 0,
+    "explanation": "Fundamental rights can be enforced through the Supreme Court under Article 32 and the High Courts under Article 226.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Which Article of the Constitution contains the Directive Principles that promote the welfare of the individual?",
+    "options": [
+      "Article 39",
+      "Article 41",
+      "Article 43",
+      "Article 38"
+    ],
+    "answer": 3,
+    "explanation": "Article 38 directs the state to promote the welfare of the individual, secure a social order in which justice, social, economic and political justice shall inform all national institutions.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Article 44 of the Constitution directs the state to:",
+    "options": [
+      "Provide free education",
+      "Secure a uniform civil code",
+      "Promote cottage industries",
+      "Protect monuments"
+    ],
+    "answer": 1,
+    "explanation": "Article 44 directs the state to endeavour to secure for the citizens a uniform civil code throughout the territory of India.",
+    "difficulty": "easy",
+    "category": "directive-principles",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Article 48 directs the State to:",
+    "options": [
+      "Promote the interests of scheduled tribes",
+      "Prevent the slaughter of cows and calves",
+      "Encourage the growth of scientific research",
+      "Protect the environment"
+    ],
+    "answer": 1,
+    "explanation": "Article 48 directs the state to endeavour to prevent the slaughter of cows and calves, and prohibit the slaughter of milch and draught cattle.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Article 50 of the Constitution directs the state to:",
+    "options": [
+      "Separate the judiciary from the executive",
+      "Enforce the fundamental duties",
+      "Provide uniform civil code",
+      "Establish a welfare state"
+    ],
+    "answer": 0,
+    "explanation": "Article 50 directs the state to take steps to separate the judiciary from the executive in the public services of the state.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The Directive Principles of State Policy are contained in:",
+    "options": [
+      "Part VI",
+      "Part III",
+      "Part IV",
+      "Part V"
+    ],
+    "answer": 2,
+    "explanation": "The Directive Principles are contained in Part IV of the Constitution, Articles 36 to 51.",
+    "difficulty": "easy",
+    "category": "directive-principles",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The liberal-intellectual Directive Principles are concerned with:",
+    "options": [
+      "Protection of monuments and places of national importance",
+      "Promotion of international peace",
+      "Provision of education and economic security",
+      "Equal justice and freedom of thought"
+    ],
+    "answer": 3,
+    "explanation": "Gandhian principles cover village panchayats, cottage industries, prohibition of intoxicating drinks, protection of monuments and the promotion of international peace.",
+    "difficulty": "hard",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Directive Principles are non-justiciable. This was held by the Supreme Court in:",
+    "options": [
+      "Kesavananda Bharati case",
+      "L. Chandra Kumar v. Union of India",
+      "Golaknath v. State of Punjab",
+      "Maneka Gandhi case"
+    ],
+    "answer": 1,
+    "explanation": "In L. Chandra Kumar (1970) the Supreme Court held that the Directive Principles cannot be enforced by the courts but can guide the state in policy-making.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Article of the Constitution contains the Fundamental Duties?",
+    "options": [
+      "Article 52",
+      "Article 48A",
+      "Article 49",
+      "Article 51A"
+    ],
+    "answer": 3,
+    "explanation": "Article 51A, added by the 42nd Amendment, lists the eleven fundamental duties of citizens.",
+    "difficulty": "easy",
+    "category": "fundamental-duties",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The Fundamental Duties were added to the Constitution on the recommendation of:",
+    "options": [
+      "Swaran Singh Committee",
+      "Ashok Mehta Committee",
+      "Balwant Rai Mehta Committee",
+      "Sarkar Commission"
+    ],
+    "answer": 0,
+    "explanation": "The Swaran Singh Committee, appointed in 1976, recommended the inclusion of fundamental duties in the Constitution, which the 42nd Amendment did in 1976.",
+    "difficulty": "medium",
+    "category": "fundamental-duties",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "How many fundamental duties are listed in Article 51A of the Constitution?",
+    "options": [
+      "Nine",
+      "Ten",
+      "Eleven",
+      "Twelve"
+    ],
+    "answer": 2,
+    "explanation": "Article 51A lists eleven fundamental duties, to which the 86th Amendment added the duty of parents to provide opportunities for education to children.",
+    "difficulty": "easy",
+    "category": "fundamental-duties",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a fundamental duty of every citizen?",
+    "options": [
+      "To protect and improve the natural environment",
+      "To vote in every election",
+      "To serve in the armed forces",
+      "To pay taxes"
+    ],
+    "answer": 0,
+    "explanation": "The 42nd Amendment made it the duty of every citizen to protect and improve the natural environment and to have compassion for living creatures.",
+    "difficulty": "medium",
+    "category": "fundamental-duties",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 86th Amendment of 2002 to the Constitution related to:",
+    "options": [
+      "Reservation for women",
+      "Panchayati Raj",
+      "Right to education",
+      "Right to information"
+    ],
+    "answer": 2,
+    "explanation": "The 86th Amendment inserted Article 21A and made education a fundamental right for children aged six to fourteen years.",
+    "difficulty": "easy",
+    "category": "fundamental-duties",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The power to create new states in India is vested in:",
+    "options": [
+      "The Prime Minister",
+      "The Supreme Court",
+      "The President",
+      "Parliament"
+    ],
+    "answer": 3,
+    "explanation": "Article 3 vests the power to form new states, alter boundaries, merge or divide areas in Parliament, after consulting the state legislatures.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Residuary powers of the Union Parliament are provided under:",
+    "options": [
+      "Article 245",
+      "Article 248",
+      "Article 254",
+      "Article 263"
+    ],
+    "answer": 1,
+    "explanation": "Article 248 vests residuary powers of legislation, including taxation, in Parliament; Article 269A lists some exclusive powers of the Union.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "During a national emergency, Parliament may:",
+    "options": [
+      "Alter the distribution of legislative powers",
+      "Increase the term of the Lok Sabha",
+      "All of the above",
+      "Dissolve state assemblies"
+    ],
+    "answer": 0,
+    "explanation": "Under Article 353 the Centre can assume powers of the states, alter the distribution of legislative powers and give executive directions to any state.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "President's Rule in a state is provided under which Article?",
+    "options": [
+      "Article 360",
+      "Article 365",
+      "Article 352",
+      "Article 356"
+    ],
+    "answer": 3,
+    "explanation": "Article 356 provides for President's Rule when the constitutional machinery of a state fails, with the President's assent or the Governor's report.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The financial crisis of 2008 was considered a 'global financial crisis'. The Inter-State Council was created to:",
+    "options": [
+      "Investigate disputes between the Centre and states",
+      "Advise on interstate coordination and cooperation",
+      "Conduct elections",
+      "Resolve inter-state disputes"
+    ],
+    "answer": 1,
+    "explanation": "The Inter-State Council, established in 1990 under Article 263, investigates and advises on questions of mutual interest and coordination between the states.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Zonal Councils are:",
+    "options": [
+      "Statutory bodies created by Parliament",
+      "Constitutional bodies",
+      "Non-statutory bodies",
+      "Judicial bodies"
+    ],
+    "answer": 2,
+    "explanation": "Zonal Councils are non-statutory advisory bodies created by an executive resolution; they are not mentioned in the Constitution.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The GST Council is constituted under:",
+    "options": [
+      "Article 280",
+      "Article 263",
+      "Article 269A",
+      "Article 279A"
+    ],
+    "answer": 3,
+    "explanation": "Article 279A, inserted by the 101st Amendment, provides for the GST Council chaired by the Union Finance Minister with state finance ministers as members.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "NITI Aayog replaced the:",
+    "options": [
+      "Planning Commission",
+      "Finance Commission",
+      "Central Statistical Organisation",
+      "Ministry of Finance"
+    ],
+    "answer": 0,
+    "explanation": "NITI Aayog was constituted in 2015 in place of the Planning Commission as a policy think-tank promoting cooperative federalism.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Council of States is also known as:",
+    "options": [
+      "House of Provinces",
+      "Upper House",
+      "Senate",
+      "Council of Elders"
+    ],
+    "answer": 1,
+    "explanation": "The Rajya Sabha is the upper house of Parliament and is often called the House of the States or the Council of States.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The maximum strength of the Rajya Sabha is:",
+    "options": [
+      "245",
+      "250",
+      "248",
+      "270"
+    ],
+    "answer": 2,
+    "explanation": "The Rajya Sabha has a maximum strength of 250, of which 238 are elected by the state legislatures and 12 are nominated by the President.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "A Money Bill can be introduced in the Rajya Sabha only on the recommendation of:",
+    "options": [
+      "The Finance Minister",
+      "The President",
+      "The Prime Minister",
+      "The Speaker of the Lok Sabha"
+    ],
+    "answer": 1,
+    "explanation": "A Money Bill can be introduced in the Rajya Sabha only if it is recommended by the President, and the Rajya Sabha can only make recommendations on it.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The Speaker of the Lok Sabha submits his resignation to:",
+    "options": [
+      "The Prime Minister",
+      "The Speaker of the Rajya Sabha",
+      "The Chief Justice of India",
+      "The President"
+    ],
+    "answer": 3,
+    "explanation": "The Speaker resigns to the President, and so does the Chairman of the Rajya Sabha.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The quorum in the Lok Sabha is:",
+    "options": [
+      "One-tenth of the total membership",
+      "One-fifth of the total membership",
+      "One-tenth of the total membership of the House",
+      "A simple majority"
+    ],
+    "answer": 0,
+    "explanation": "The quorum in the Lok Sabha is one-tenth of the total membership of the House, as provided in the Rules of Procedure.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Public Accounts Committee' of Parliament has how many members?",
+    "options": [
+      "15",
+      "31",
+      "22",
+      "30"
+    ],
+    "answer": 2,
+    "explanation": "The Public Accounts Committee has 22 members, 15 from the Lok Sabha and 7 from the Rajya Sabha, with the Chairman of the Committee of Estimates as chairman.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Article of the Constitution deals with Parliamentary privileges?",
+    "options": [
+      "Article 105",
+      "Article 106",
+      "Article 100",
+      "Article 122"
+    ],
+    "answer": 0,
+    "explanation": "Article 105 deals with the privileges of the members of Parliament and Article 106 with those of the state legislatures.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "A joint sitting of the two houses of Parliament is presided over by:",
+    "options": [
+      "The President",
+      "The Speaker of the Lok Sabha",
+      "The Vice-President",
+      "The Prime Minister"
+    ],
+    "answer": 1,
+    "explanation": "A joint sitting under Article 108 is presided over by the Speaker of the Lok Sabha and, in his absence, by the Deputy Speaker.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The zero hour in the Indian Parliament was first introduced in:",
+    "options": [
+      "1980s",
+      "2000",
+      "1952",
+      "1990s"
+    ],
+    "answer": 3,
+    "explanation": "The zero hour, starting in the 1990s, allows members to raise matters without notice immediately after the question hour and agenda is over.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The President's ordinance-making power is provided under:",
+    "options": [
+      "Article 356",
+      "Article 360",
+      "Article 123",
+      "Article 213"
+    ],
+    "answer": 2,
+    "explanation": "Article 123 empowers the President to promulgate ordinances when either house of Parliament is not in session.",
+    "difficulty": "easy",
+    "category": "parliament",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The minimum quorum to elect the President of India is:",
+    "options": [
+      "One-third of the electoral college",
+      "Two-thirds of the electoral college",
+      "50% of the electoral college",
+      "One-half of the elected members of both houses"
+    ],
+    "answer": 3,
+    "explanation": "The electoral college for the President consists of the elected members of both houses and the elected members of the state legislative assemblies, with a quorum of one-half of the elected members.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 74 of the Constitution deals with:",
+    "options": [
+      "Powers of Parliament",
+      "Censure of ministers",
+      "Composition of Parliament",
+      "Sessions and prorogation of Parliament"
+    ],
+    "answer": 2,
+    "explanation": "Article 74 provides for the composition of the two houses of Parliament and for the office of the Speaker of the Lok Sabha.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT a privilege of the members of Parliament?",
+    "options": [
+      "Right to vote in the presidential election",
+      "Freedom of speech in Parliament",
+      "Freedom from arrest in certain cases",
+      "Exemption from court jurisdiction for acts in Parliament"
+    ],
+    "answer": 0,
+    "explanation": "The right to vote in the presidential election is a general right of citizens, not a parliamentary privilege.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The advisory jurisdiction of the Supreme Court under Article 143 is exercised on a reference from:",
+    "options": [
+      "The Governor",
+      "The President",
+      "The Prime Minister",
+      "The Parliament"
+    ],
+    "answer": 1,
+    "explanation": "Article 143 empowers the President to refer any matter of importance or difficulty to the Supreme Court for its opinion.",
+    "difficulty": "easy",
+    "category": "judiciary",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The number of judges required to decide a constitutional bench of the Supreme Court under the collegium system is:",
+    "options": [
+      "Nine",
+      "Three",
+      "Five",
+      "Seven"
+    ],
+    "answer": 2,
+    "explanation": "Matters of constitutional importance are decided by a bench of at least five judges, as laid down in the Second Judges case of 1993.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Supreme Court's jurisdiction to transfer cases is provided under:",
+    "options": [
+      "Article 139A",
+      "Article 141",
+      "Article 143",
+      "Article 137"
+    ],
+    "answer": 0,
+    "explanation": "Article 139A empowers the Supreme Court to withdraw and transfer cases involving the same substantial question of law pending before several High Courts.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Judicial review in India was established by:",
+    "options": [
+      "Article 227",
+      "Article 13",
+      "Article 32",
+      "Article 226"
+    ],
+    "answer": 1,
+    "explanation": "Article 13, which declares that laws inconsistent with the fundamental rights are void, is the basis of the doctrine of judicial review.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The doctrine of 'basic structure' of the Constitution was propounded in:",
+    "options": [
+      "Minerva Mills v. Union of India",
+      "Maneka Gandhi v. Union of India",
+      "Golaknath v. State of Punjab",
+      "Kesavananda Bharati v. State of Kerala"
+    ],
+    "answer": 3,
+    "explanation": "In Kesavananda Bharati (1973) the Supreme Court held that Parliament cannot amend the basic structure of the Constitution.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The collegium system for the appointment of judges was introduced in:",
+    "options": [
+      "1986",
+      "1993",
+      "1997",
+      "1991"
+    ],
+    "answer": 1,
+    "explanation": "In the Second Judges case (1993) the Supreme Court laid down the collegium system, which was later modified in the Third Judges case (1998).",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A High Court can issue writs for which purposes under Article 226?",
+    "options": [
+      "For the enforcement of fundamental rights and for any other purpose",
+      "Only for habeas corpus",
+      "Only for administrative purposes",
+      "Any fundamental right"
+    ],
+    "answer": 0,
+    "explanation": "Article 226 empowers a High Court to issue directions or orders or writs for the enforcement of fundamental rights and for any other purpose, which is wider than Article 32.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Which writ is issued to produce a detained person before the court?",
+    "options": [
+      "Prohibition",
+      "Mandamus",
+      "Habeas corpus",
+      "Certiorari"
+    ],
+    "answer": 2,
+    "explanation": "Habeas corpus literally means 'to have the body of', and it is issued to inquire into the legality of a person's detention.",
+    "difficulty": "easy",
+    "category": "judiciary",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "In which case did the Supreme Court first assert the power of judicial review over constitutional amendments?",
+    "options": [
+      "Kesavananda Bharati v. State of Kerala",
+      "Golaknath v. State of Punjab",
+      "A.K. Gopalan v. State of Madras",
+      "Shankari Prasad v. Union of India"
+    ],
+    "answer": 3,
+    "explanation": "In A.K. Gopalan (1950) the Court accepted preventive detention as valid, but in Shankari Prasad (1951) it asserted the power of judicial review over constitutional amendments.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which case held that the Indian Constitution is federal in nature?",
+    "options": [
+      "Golaknath v. State of Punjab",
+      "S.R. Bommai v. Union of India",
+      "Kesavananda Bharati v. State of Kerala",
+      "Bommai and others"
+    ],
+    "answer": 1,
+    "explanation": "In the S.R. Bommai case of 1994 the Supreme Court held that the Constitution is federal and described the Centre's misuse of Article 356 as a breach of federalism.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Impeachment of a judge of the Supreme Court is provided under:",
+    "options": [
+      "Article 124",
+      "Article 125",
+      "Article 126",
+      "Article 217"
+    ],
+    "answer": 0,
+    "explanation": "Article 124 provides for the removal of a Supreme Court judge by impeachment by Parliament, while Article 125 deals with the qualifications of judges.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Election Commission of India is a:",
+    "options": [
+      "Executive body",
+      "Non-statutory body",
+      "Constitutional body",
+      "Statutory body"
+    ],
+    "answer": 3,
+    "explanation": "The Election Commission is a statutory body under the Representation of the People Act, 1950, although Article 324 vests the superintendence and control of elections in it.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Article 324 of the Constitution provides for:",
+    "options": [
+      "Voting by proxy",
+      "The composition of the Election Commission",
+      "The superintendence, direction and control of elections",
+      "Reservation of seats for women"
+    ],
+    "answer": 2,
+    "explanation": "Article 324 vests in the Election Commission the superintendence, direction and control of the entire process of elections to Parliament, the state legislatures and the offices of President and Vice-President.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The Chief Election Commissioner can be removed from office by:",
+    "options": [
+      "Parliament by a special majority",
+      "The Prime Minister",
+      "The President on the recommendation of the Council of Ministers",
+      "The President on the advice of the Supreme Court"
+    ],
+    "answer": 2,
+    "explanation": "Under the 2023 law, the CEC can be removed like a Supreme Court judge, but the Election Commissioners can be removed on the CEC's recommendation.",
+    "difficulty": "hard",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "NOTA was introduced in India in:",
+    "options": [
+      "2013",
+      "2015",
+      "2007",
+      "2010"
+    ],
+    "answer": 0,
+    "explanation": "NOTA was introduced in general elections from 2013 after the Supreme Court directive of 2010 in the PUCL case.",
+    "difficulty": "medium",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The delimitation of constituencies was carried out by the:",
+    "options": [
+      "Central Statistical Organisation",
+      "Finance Commission",
+      "Planning Commission",
+      "Election Commission"
+    ],
+    "answer": 3,
+    "explanation": "The Delimitation Commission, set up under Article 82, is chaired by a Supreme Court judge and its orders have the force of law.",
+    "difficulty": "medium",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The voting age in India was reduced from 21 to 18 years by which amendment?",
+    "options": [
+      "52nd Amendment",
+      "61st Amendment",
+      "42nd Amendment",
+      "44th Amendment"
+    ],
+    "answer": 1,
+    "explanation": "The 61st Amendment of 1989 reduced the voting age for elections to all local bodies, state assemblies and Parliament from 21 to 18 years.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Model Code of Conduct for electioneering is enforced by:",
+    "options": [
+      "Election Commission",
+      "Supreme Court",
+      "Election Commission and the states",
+      "Central Bureau of Investigation"
+    ],
+    "answer": 2,
+    "explanation": "The Model Code of Conduct is enforced by the Election Commission and the state election commissions, with violations referred to them.",
+    "difficulty": "hard",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Comptroller and Auditor General of India is appointed under:",
+    "options": [
+      "Article 149",
+      "Article 324",
+      "Article 76",
+      "Article 148"
+    ],
+    "answer": 3,
+    "explanation": "Article 148 provides for an independent CAG appointed by the President, with the same removal procedure as a Supreme Court judge.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The CAG can audit:",
+    "options": [
+      "The accounts of the Union and the states and of any body or authority financed substantially from Union or state revenues",
+      "Only autonomous bodies",
+      "Only the accounts of the Union government",
+      "Only the accounts of states"
+    ],
+    "answer": 0,
+    "explanation": "Under Article 149 the CAG audits the accounts of the Union and of the states, of any body or authority substantially financed from public revenues, and of bodies under the control of the government.",
+    "difficulty": "hard",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Union Public Service Commission is provided for under:",
+    "options": [
+      "Article 324",
+      "Article 315",
+      "Article 320",
+      "Article 323"
+    ],
+    "answer": 1,
+    "explanation": "Article 315 provides for the constitution of the UPSC and the State Public Service Commissions, with Article 320 dealing with their functions.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The National Human Rights Commission is a:",
+    "options": [
+      "Judicial body",
+      "Constitutional body",
+      "Statutory body",
+      "Executive body"
+    ],
+    "answer": 2,
+    "explanation": "The NHRC is a statutory body set up under the Protection of Human Rights Act, 1993, chaired by a former CJI or a Supreme Court judge.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Right to Information Act in India was enacted in:",
+    "options": [
+      "2005",
+      "2006",
+      "2007",
+      "2003"
+    ],
+    "answer": 0,
+    "explanation": "The Right to Information Act, 2005 came into force on 21 October 2005 and gives every citizen the right to request information from public authorities.",
+    "difficulty": "easy",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Central Vigilance Commission is a:",
+    "options": [
+      "Independent body like the CAG",
+      "Constitutional body",
+      "Statutory body",
+      "Multi-member body under executive control"
+    ],
+    "answer": 3,
+    "explanation": "The CVC is a multi-member body under the executive control of the Department of Personnel and Public Grievances, headed by the Central Vigilance Commissioner.",
+    "difficulty": "hard",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Lokpal was established under which Act?",
+    "options": [
+      "Right to Information Act, 2005",
+      "Lokpal and Lokayuktas Act, 2013",
+      "Prevention of Corruption Act, 1988",
+      "Central Vigilance Commission Act, 2003"
+    ],
+    "answer": 1,
+    "explanation": "The Lokpal and Lokayuktas Act, 2013 gave statutory force to the Lokpal and the Lokayuktas, which had existed only as executive bodies.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Finance Commission is appointed by:",
+    "options": [
+      "The Prime Minister",
+      "The Chief Justice of India",
+      "The Parliament",
+      "The President"
+    ],
+    "answer": 3,
+    "explanation": "Article 280 provides for a Finance Commission every fifth year or earlier if necessary, appointed by the President to recommend the distribution of net tax proceeds.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The National Green Tribunal was established under:",
+    "options": [
+      "Water Act, 1974",
+      "Air Act, 1981",
+      "Environment Protection Act, 1986",
+      "Forest Conservation Act, 1980"
+    ],
+    "answer": 2,
+    "explanation": "The National Green Tribunal was established in 2010 under the Environment Protection Act, 1986, to deal with environmental disputes.",
+    "difficulty": "hard",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The NCBC (National Commission for Backward Classes) was set up by an Act of:",
+    "options": [
+      "2008",
+      "1993",
+      "2000",
+      "2005"
+    ],
+    "answer": 1,
+    "explanation": "The National Commission for Backward Classes Act, 1993 gave statutory status to the NCBC, which had been set up by an executive resolution in 1993.",
+    "difficulty": "hard",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Central Information Commission is a:",
+    "options": [
+      "Statutory body",
+      "Executive body",
+      "Judicial body",
+      "Constitutional body"
+    ],
+    "answer": 0,
+    "explanation": "The Central Information Commission is a statutory body under the RTI Act, 2005, with a Chief Information Commissioner and Information Commissioners.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 86th Amendment Act of 2002 added which provision to the Constitution?",
+    "options": [
+      "Article 19A on the right to information",
+      "Article 21 on the right to privacy",
+      "Article 44 on a uniform civil code",
+      "Article 21A on free and compulsory education"
+    ],
+    "answer": 3,
+    "explanation": "The 86th Amendment inserted Article 21A, making free and compulsory education a fundamental right for children aged six to fourteen years.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The power to amend the Constitution of India is vested in:",
+    "options": [
+      "Parliament",
+      "The Supreme Court",
+      "The Prime Minister",
+      "The President"
+    ],
+    "answer": 0,
+    "explanation": "Article 368 vests the constituent power in Parliament, subject to the basic structure doctrine and the procedure laid down in the article.",
+    "difficulty": "easy",
+    "category": "constitutional-amendments",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "An amendment of the Constitution requires:",
+    "options": [
+      "Presidential assent only",
+      "A simple majority of Parliament",
+      "A special majority in each house and ratification by half the states",
+      "A two-thirds majority in each house"
+    ],
+    "answer": 2,
+    "explanation": "An amendment requires a special majority in each house, and for federal provisions ratification by the legislatures of half the states by a simple majority.",
+    "difficulty": "medium",
+    "category": "constitutional-amendments",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 44th Amendment Act of 1978:",
+    "options": [
+      "Added the right to property to the Fundamental Rights",
+      "Restored the original provisions on the Preamble and the duration of emergency",
+      "Reduced the term of the Lok Sabha",
+      "Introduced the Right to Information"
+    ],
+    "answer": 1,
+    "explanation": "The 44th Amendment restored the original Preamble provisions, made the written emergency more difficult, restored the Lok Sabha's five-year term and removed the right to property from Part III.",
+    "difficulty": "medium",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 1st Amendment Act of 1951:",
+    "options": [
+      "Added the Ninth Schedule",
+      "Added the 11th Schedule",
+      "Created the GST Council",
+      "Gave constitutional status to the Right to Education"
+    ],
+    "answer": 0,
+    "explanation": "The First Amendment added the Ninth Schedule, laid down the definition of 'State' in Article 12 and provided for reasonable restrictions on the freedom of trade.",
+    "difficulty": "medium",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 73rd and 74th Amendments relate to:",
+    "options": [
+      "Reservation for women",
+      "Right to education",
+      "Land reforms",
+      "Panchayati Raj institutions and municipalities"
+    ],
+    "answer": 3,
+    "explanation": "The 73rd and 74th Amendment Acts of 1992 constitutionalised the three-tier Panchayati Raj system and the urban local bodies.",
+    "difficulty": "easy",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 101st Amendment Act relates to:",
+    "options": [
+      "Goods and Services Tax",
+      "National Commission for Women",
+      "National Judicial Appointments Commission",
+      "National Commission for Backward Classes"
+    ],
+    "answer": 2,
+    "explanation": "The 101st Amendment of 2016 created the National Judicial Appointments Commission and the Article 359A was inserted to enable it.",
+    "difficulty": "medium",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 103rd Amendment Act provided for:",
+    "options": [
+      "Extension of reservation for Anglo-Indians",
+      "10 per cent reservation for the EWS category",
+      "Reservation for women in legislatures",
+      "Right to Information"
+    ],
+    "answer": 1,
+    "explanation": "The 103rd Amendment of 2019 provided for a 10 per cent reservation for the economically weaker sections in addition to the existing 49.5 per cent reservation.",
+    "difficulty": "medium",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 42nd Amendment was enacted during the period of:",
+    "options": [
+      "The Emergency of 1975-1977",
+      "The Emergency of 1971",
+      "The coalition of Janata Party",
+      "The aftermath of the 1975 general election"
+    ],
+    "answer": 0,
+    "explanation": "The 42nd Amendment was enacted by the Indira Gandhi government during the Emergency of 1975-1977 and is called the 'Mini-Constitution'.",
+    "difficulty": "medium",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "How many fundamental rights were originally available under the Constitution?",
+    "options": [
+      "Six",
+      "Nine",
+      "Seven",
+      "Eight"
+    ],
+    "answer": 2,
+    "explanation": "The Constitution originally provided seven fundamental rights, which were reduced to six by the 44th Amendment when the right to property was removed.",
+    "difficulty": "medium",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Panchayati Raj system in India is based on which report?",
+    "options": [
+      "Sarkar Commission",
+      "Ashok Mehta Committee",
+      "Balwant Rai Mehta Committee",
+      "Kothari Commission"
+    ],
+    "answer": 3,
+    "explanation": "The Balwant Rai Mehta Committee (1957) recommended a three-tier Panchayati Raj system, which the Kothari Commission (1985) later evaluated.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Gram Sabha consists of:",
+    "options": [
+      "Elected members of the Gram Panchayat",
+      "All registered voters of the village within the Gram Panchayat area",
+      "Nominated members of the district administration",
+      "Panchayat members and the sarpanch only"
+    ],
+    "answer": 1,
+    "explanation": "The Gram Sabha is a body consisting of all persons registered in the electoral rolls relating to a village comprised within the Panchayat area.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the 73rd Amendment, what proportion of seats is reserved for women in Panchayats?",
+    "options": [
+      "One-third",
+      "One-half",
+      "One-fourth",
+      "Two-thirds"
+    ],
+    "answer": 0,
+    "explanation": "Not less than one-third of the total seats and of the offices of chairpersons in Panchayats at every level are reserved for women.",
+    "difficulty": "easy",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The State Election Commission is provided for under:",
+    "options": [
+      "Article 243D",
+      "Article 243G",
+      "Article 280",
+      "Article 243K"
+    ],
+    "answer": 3,
+    "explanation": "Article 243K provides for a State Election Commission to conduct elections to Panchayats and municipalities.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Finance Commission is required to recommend the devolution of tax revenues to:",
+    "options": [
+      "The Centre and the states",
+      "Only the rural local bodies",
+      "The states and local bodies",
+      "Only the urban local bodies"
+    ],
+    "answer": 2,
+    "explanation": "Article 280 requires the Finance Commission to recommend the distribution of net tax proceeds between the Union, the states and the local bodies.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 74th Amendment Act of 1992 deals with:",
+    "options": [
+      "Panchayats",
+      "Municipalities",
+      "Both panchayats and municipalities",
+      "Urban development authorities"
+    ],
+    "answer": 1,
+    "explanation": "The 74th Amendment deals with urban local bodies, while the 73rd deals with rural local bodies.",
+    "difficulty": "easy",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Panchayati Raj institutions are a:",
+    "options": [
+      "Statutory bodies",
+      "Executive bodies",
+      "Judicial bodies",
+      "Constitutional bodies"
+    ],
+    "answer": 3,
+    "explanation": "After the 73rd and 74th Amendments, Panchayats and municipalities are constitutional bodies, with the three tiers in Part IX and Part IXA of the Constitution.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The District Planning Committee is provided for under:",
+    "options": [
+      "Article 243ZG",
+      "Article 243ZD",
+      "Article 243ZJ",
+      "Article 243ZE"
+    ],
+    "answer": 1,
+    "explanation": "Article 243ZD provides for a District Planning Committee in each district to consolidate the plans of Panchayats and municipalities.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Article of the Constitution deals with the placement of the armed forces and the responsibility of the Union to ensure their integrity?",
+    "options": [
+      "Article 262",
+      "Article 245",
+      "Article 250",
+      "Article 253"
+    ],
+    "answer": 2,
+    "explanation": "Article 250 provides for the Union to protect the states from internal disturbance and to ensure that the integrity and sovereignty of India is respected.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 262 of the Constitution provides for:",
+    "options": [
+      "Inter-state water disputes",
+      "International treaties",
+      "Residuary powers",
+      "The list of concurrent subjects"
+    ],
+    "answer": 0,
+    "explanation": "Article 262 provides for the adjudication of any dispute relating to the waters of any interstate river or river valley, and for the creation of tribunals for that purpose.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The International Court of Justice is the principal judicial organ of:",
+    "options": [
+      "The WTO",
+      "The United Nations",
+      "The League of Nations",
+      "The Hague Conference"
+    ],
+    "answer": 1,
+    "explanation": "The International Court of Justice, established in 1946, is the principal judicial organ of the United Nations and has fifteen judges elected by the General Assembly and the Security Council.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The headquarters of the World Trade Organization is at:",
+    "options": [
+      "Paris",
+      "Vienna",
+      "New York",
+      "Geneva"
+    ],
+    "answer": 3,
+    "explanation": "The WTO is headquartered in Geneva, while the UN is in New York and the ILO and WIPO among others are also in Geneva.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bretton Woods institutions are:",
+    "options": [
+      "IMF and UNCTAD",
+      "ADB and IMF",
+      "IMF and World Bank",
+      "World Bank and WTO"
+    ],
+    "answer": 2,
+    "explanation": "The Bretton Woods conference of 1944 created the International Monetary Fund and the International Bank for Reconstruction and Development, later the World Bank.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The International Monetary Fund's quota for India is decided by:",
+    "options": [
+      "The IMF Board of Governors",
+      "The World Bank",
+      "The G20",
+      "The UN General Assembly"
+    ],
+    "answer": 0,
+    "explanation": "IMF quotas are determined by the Board of Governors on the basis of a formula reflecting a country's output, trade and international reserves, and the Indian quota is the eighth largest.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "SAARC was founded in:",
+    "options": [
+      "1995",
+      "1980",
+      "1985",
+      "1990"
+    ],
+    "answer": 2,
+    "explanation": "The South Asian Association for Regional Cooperation was founded in Dhaka in 1985 with the charter signed by seven South Asian states.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "BRICS was originally named:",
+    "options": [
+      "BRIC",
+      "BRICS-2",
+      "IBSA",
+      "IBRD"
+    ],
+    "answer": 0,
+    "explanation": "BRIC, the grouping of Brazil, Russia, India and China, was first used by Jim O'Neill in 2001; South Africa joined in 2010, making it BRICS.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Indian Council of World Affairs is:",
+    "options": [
+      "A government body",
+      "A UN agency",
+      "A trade union federation",
+      "A think tank founded in 1927"
+    ],
+    "answer": 3,
+    "explanation": "The Indian Council of World Affairs, India's oldest international affairs think tank, was founded in 1927 under the leadership of Lala Lajpat Rai and V.O. Chidambaram.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's 'GuLook' doctrine of non-alignment is associated with:",
+    "options": [
+      "S. Jaishankar",
+      "Nehru",
+      "Gandhi",
+      "V.K. Krishna Menon"
+    ],
+    "answer": 1,
+    "explanation": "Nehru's Panchsheel and the policy of non-alignment, described by the 'GuLook' of K. Natwar Singh, defined India's foreign policy of independence from the Cold War blocs.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Panchsheel principles of peaceful coexistence were first proposed between India and:",
+    "options": [
+      "Burma in 1950",
+      "Sri Lanka in 1957",
+      "China in 1954",
+      "Nepal in 1950"
+    ],
+    "answer": 2,
+    "explanation": "The Panchsheel was first incorporated in the Agreement on Trade and Intercourse between Tibet Region of China and India signed in April 1954.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Article of the Constitution empowers Parliament to legislate to give effect to international treaties?",
+    "options": [
+      "Article 268",
+      "Article 253",
+      "Article 254",
+      "Article 261"
+    ],
+    "answer": 1,
+    "explanation": "Article 253 empowers Parliament to make laws to carry out the obligations of India under international treaties and agreements.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Diaspora' day is observed on:",
+    "options": [
+      "January 2",
+      "January 3",
+      "December 25",
+      "January 1"
+    ],
+    "answer": 3,
+    "explanation": "Pravasi Bharatiya Divas is observed on 1 January, commemorating the departure of Mahatma Gandhi to South Africa in 1915.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Shanghai Five, which later became the Shanghai Cooperation Organisation, was founded in:",
+    "options": [
+      "1996",
+      "2001",
+      "2005",
+      "1998"
+    ],
+    "answer": 0,
+    "explanation": "The Shanghai Five, comprising China, Kazakhstan, Kyrgyzstan, Russia and Tajikistan, was formed in 1996 and became the SCO in 2001.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which international organisation promotes South-South cooperation and is headquartered in New Delhi?",
+    "options": [
+      "UNFCCC",
+      "UNEP",
+      "UNDP",
+      "UNESCO"
+    ],
+    "answer": 2,
+    "explanation": "The United Nations Development Programme is headquartered in New York, while UNEP is in Nairobi, UNESCO in Paris and the UNFCCC secretariat in Bonn.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The headquarters of the World Health Organization is at:",
+    "options": [
+      "New York",
+      "Rome",
+      "Vienna",
+      "Geneva"
+    ],
+    "answer": 3,
+    "explanation": "The WHO, established in 1948, has its headquarters in Geneva, Switzerland.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Open Skies' and aviation agreements of India relate to:",
+    "options": [
+      "Nuclear trade",
+      "International air transport",
+      "Maritime shipping",
+      "Satellite communication"
+    ],
+    "answer": 1,
+    "explanation": "India has signed bilateral air services agreements under the open skies policy with a large number of countries to expand international air connectivity.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Asian Infrastructure Investment Bank is headquartered in:",
+    "options": [
+      "Shanghai",
+      "Beijing",
+      "Singapore",
+      "New Delhi"
+    ],
+    "answer": 0,
+    "explanation": "The AIIB, which began operations in January 2016, has its headquarters in Shanghai with India as a founding member and a significant shareholder.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Treaty of Waitangi' is associated with:",
+    "options": [
+      "Fiji",
+      "Canada",
+      "New Zealand",
+      "Australia"
+    ],
+    "answer": 2,
+    "explanation": "The Treaty of Waitangi was signed in 1840 between the British Crown and Maori chiefs and is the founding document of New Zealand.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the headquarters of the International Labour Organization?",
+    "options": [
+      "New York",
+      "Rome",
+      "Paris",
+      "Geneva"
+    ],
+    "answer": 3,
+    "explanation": "The ILO, a specialised agency of the UN, has its headquarters in Geneva; its first conference was held in Washington in 1919 and it shifted to Geneva in 1920.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The headquarters of the International Organisation for Migration is at:",
+    "options": [
+      "Geneva",
+      "Vienna",
+      "Rome",
+      "Brussels"
+    ],
+    "answer": 0,
+    "explanation": "The IOM, established in 1951, is an intergovernmental organisation with its headquarters in Geneva.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which convention governs the prevention and punishment of the crime of genocide?",
+    "options": [
+      "The Vienna Convention, 1961",
+      "The Genocide Convention, 1948",
+      "The Hague Convention, 1907",
+      "The Refugee Convention, 1951"
+    ],
+    "answer": 1,
+    "explanation": "The Genocide Convention was adopted in 1948 and entered into force in 1951; India acceded to it in 1950.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sagarmala' project aims to:",
+    "options": [
+      "Promote inland waterways only",
+      "Modernise the railways",
+      "Develop port-led logistics",
+      "Build a coastal highway"
+    ],
+    "answer": 2,
+    "explanation": "The Sagarmala programme seeks to accelerate port-led development by modernising ports, strengthening port connectivity through rail, road and inland waterways and promoting port-led industrialisation.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India and which country signed the 'Declaration on the India-Pacific Oceans Initiative' in 2016?",
+    "options": [
+      "France",
+      "United States",
+      "Japan",
+      "Australia"
+    ],
+    "answer": 1,
+    "explanation": "The India-Pacific Oceans Initiative was announced by India and the United States in 2016, followed by the first India-Pacific Oceans Dialogue in 2017.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The India-Brazil-South Africa (IBSA) Dialogue Forum was founded in:",
+    "options": [
+      "1997",
+      "2003",
+      "1992",
+      "1995"
+    ],
+    "answer": 0,
+    "explanation": "The IBSA Dialogue Forum was established in 1997 as a trilateral grouping of India, Brazil and South Africa.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The QUAD grouping comprises India, the United States, Japan and:",
+    "options": [
+      "South Korea",
+      "United Kingdom",
+      "France",
+      "Australia"
+    ],
+    "answer": 3,
+    "explanation": "The Quadrilateral Security Dialogue, revived in 2017, comprises India, the United States, Japan and Australia.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

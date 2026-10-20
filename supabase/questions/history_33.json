@@ -1,0 +1,752 @@
+[
+  {
+    "q": "Which of the following statements regarding the Indian National Congress is correct?",
+    "options": [
+      "They reunited in 1905",
+      "They reunited in 1920",
+      "They never reunited",
+      "The moderate and the extremist factions reunited at the Calcutta session of December 1906"
+    ],
+    "answer": 3,
+    "explanation": "The moderates and the extremists reunited at the Calcutta session of December 1906 and the same session saw the formation of the All India Muslim League.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The partition was:",
+    "options": [
+      "annulled in 1920",
+      "never annulled",
+      "annulled in 1911 and the Bengal was partitioned in 1912",
+      "annulled in 1905"
+    ],
+    "answer": 2,
+    "explanation": "The partition of Bengal was annulled at the Delhi Durbar of 1911 and the province was partitioned again in 1912 into the Bengal and the Assam and the Bihar and the Orissa.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Gandhi returned to India in January 1915 and the first Satyagraha?",
+    "options": [
+      "The Gandhi returned to India in January 1915 and the first Satyagraha was the Ahmedabad in 1918",
+      "The Gandhi returned in 1905",
+      "The Gandhi returned in 1921",
+      "The Gandhi never returned"
+    ],
+    "answer": 0,
+    "explanation": "The Gandhi returned to India in January 1915 and the first of the three major satyagrahas of 1917-18 was the Ahmedabad mill strike, then the Champaran and then the Kheda.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Indian Councils Act of 1919, which of the following is correct?",
+    "options": [
+      "It provided for the provincial autonomy",
+      "It abolished the separate electorates and the direct elections",
+      "It provided for the franchise for the women",
+      "It provided for the separate electorates and the dyarchy"
+    ],
+    "answer": 1,
+    "explanation": "The Government of India Act of 1919 separated the central and the provincial subjects, introduced the dyarchy and separated the electorate for the first time.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Hartal of 6 April 1919 was:",
+    "options": [
+      "the celebration of the victory",
+      "the peasant revolt",
+      "the first nationwide protest against the Rowlatt Act",
+      "in Punjab"
+    ],
+    "answer": 2,
+    "explanation": "The Hartal of 6 April 1919, the first all-India political protest, was called against the Rowlatt Act and the arrest of the Saifuddin Kitchlew and the Satyapal.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Jallianwala Bagh massacre of 13 April 1919 was:",
+    "options": [
+      "in Delhi",
+      "in Lucknow",
+      "in Patna",
+      "ordered by the General Dyer in the Amritsar"
+    ],
+    "answer": 3,
+    "explanation": "The Jallianwala Bagh massacre of 13 April 1919 was ordered by the General Reginald Dyer who ordered his troops to fire on the peaceful crowd in the enclosed ground of the Amritsar.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Khilafat agitation of 1919 was:",
+    "options": [
+      "for the Sultan of Turkey and it coincided with the Non-Cooperation",
+      "for the Caliph of Egypt",
+      "against the British",
+      "the peasant movement"
+    ],
+    "answer": 0,
+    "explanation": "The Khilafat agitation of 1919 demanded the restoration of the Sultan-Caliph of Turkey and it coincided with the Non-Cooperation Movement, and the two together gave the movement a broad mass base.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The movement included:",
+    "options": [
+      "the armed struggle",
+      "limited to the students",
+      "the boycott of the British goods, the surrender of the titles and the no-changers",
+      "only the boycott"
+    ],
+    "answer": 2,
+    "explanation": "The Non-Cooperation of 1920-22 combined the boycott of the foreign goods, the surrender of the titles and the honours, the refusal of the council elections, the leaving of the schools and the courts and the civil disobedience of the British.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The firing by the police at the Chauri Chaura of February 1922 led to:",
+    "options": [
+      "the suspension of the Civil Disobedience",
+      "the start of the Quit India",
+      "the withdrawal of the Gandhi from the Congress",
+      "the withdrawal of the Non-Cooperation"
+    ],
+    "answer": 3,
+    "explanation": "The firing by the police at the Chauri Chaura on 5 February 1922, in which 22 policemen were killed, led the Mahatma Gandhi to withdraw the Non-Cooperation Movement at the Bardoli meeting of the Congress in February 1922.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kakori train action of 1925 was:",
+    "options": [
+      "the mutiny of the navy",
+      "the raid of the police station on the Upasana Express by the revolutionaries",
+      "the peasant revolt",
+      "the strike of the mill workers"
+    ],
+    "answer": 1,
+    "explanation": "The Kakori action of 9 August 1925, the raid on the police station on the Upasana Express near Lucknow, was the work of the revolutionaries like the Ram Prasad Bismil, the Ashfaqulla Khan and the Rajendra Lahiri.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Simon Commission of 1928 had no Indian member and it was:",
+    "options": [
+      "boycotted at the Lumumba Maidan",
+      "headed by an Indian",
+      "accepted by the Congress",
+      "never formed"
+    ],
+    "answer": 0,
+    "explanation": "The Simon Commission, appointed in November 1927, had seven British members and no Indian and it was boycotted by all the political parties when it landed in Bombay.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Lahore session of 1929 adopted:",
+    "options": [
+      "the Federation plan",
+      "the session of the 1930",
+      "the Purna Swaraj resolution and it was presided over by the Jawaharlal Nehru",
+      "presided over by the Motilal Nehru"
+    ],
+    "answer": 2,
+    "explanation": "The Lahore session of December 1929, presided over by the Jawaharlal Nehru, adopted the historic Purna Swaraj resolution and it authorised the non-violent struggle.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Civil Disobedience Movement began:",
+    "options": [
+      "with the Champaran",
+      "with the Rowlatt",
+      "with the Bardoli",
+      "with the Dandi March on 12 March 1930 and it was the first mass movement against the British rule in India"
+    ],
+    "answer": 3,
+    "explanation": "The Civil Disobedience Movement began with the Dandi March of 12 March 1930 and it was the first all-India mass movement of the Indian nationalism.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Pact of March 1931 provided:",
+    "options": [
+      "of 1935",
+      "for the suspension of the Civil Disobedience and the release of the prisoners in return for the Round Table Conference",
+      "of 1930",
+      "of 1932"
+    ],
+    "answer": 1,
+    "explanation": "The Gandhi-Irwin Pact of 5 March 1931 provided for the suspension of the Civil Disobedience and the release of the political prisoners, except those convicted of violence, in return for the Congress participation in the Round Table Conference.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Poona Pact of September 1932 was:",
+    "options": [
+      "between the Mahatma Gandhi and the B.R. Ambedkar",
+      "between the Gandhi and the Jinnah",
+      "between the Ambedkar and the Patel",
+      "between the Nehru and the Ambedkar"
+    ],
+    "answer": 0,
+    "explanation": "The Poona Pact of 24 September 1932 between the Mahatma Gandhi and the B.R. Ambedkar replaced the separate electorate for the Depressed Classes with the reserved seats within the general electorate.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the 1937 elections?",
+    "options": [
+      "The elections were not held",
+      "The Congress won an absolute majority in five of the nine provinces and the ministries were formed in seven",
+      "The Congress won all the nine",
+      "The League won the majority"
+    ],
+    "answer": 1,
+    "explanation": "In the 1937 elections the Congress won an absolute majority in five provinces and the ministries were formed in seven and the League formed the government in Assam and Bengal.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Quit India Movement was:",
+    "options": [
+      "launched on 8 August 1942 and it was the first movement in India with a mass participation",
+      "launched in 1930",
+      "the first to use the non-violence",
+      "the movement of the INA"
+    ],
+    "answer": 0,
+    "explanation": "The Quit India Movement of 1942 was the first movement in India with the spontaneous mass participation and it saw the emergence of the Aruna Asaf Ali and the Jayaprakash Narayan as the leaders.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the INA?",
+    "options": [
+      "The INA was founded in 1945 by the Nehru",
+      "The INA was a peasant force",
+      "The INA never existed",
+      "The INA was revived by the Subhash Chandra Bose in 1943 with the Rash Behari Bose and the other leaders"
+    ],
+    "answer": 3,
+    "explanation": "The Indian National Army was revived by the Subhash Chandra Bose in 1943 in the Second World War with the Rash Behari Bose, the Prem Kumar Sahgal and the Gurbaksh Singh Dhillon and it had a woman, the Lakshmi Sahgal, in the Azad Hind cabinet.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the INA trials?",
+    "options": [
+      "They were held in 1947",
+      "They were never held",
+      "The INA trials at the Red Fort in 1945-46 provoked a nationwide agitation and the RIN mutiny",
+      "They were the trials of the British officers"
+    ],
+    "answer": 2,
+    "explanation": "The INA trials at the Red Fort, which began in November 1945, provoked a nationwide public agitation and the Royal Indian Navy mutiny of February 1946 and the British government withdrew the cases.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Cripps Mission proposed:",
+    "options": [
+      "the dominion status and the constitution-making body after the war",
+      "the complete independence",
+      "the last British plan",
+      "the plan of the 1930"
+    ],
+    "answer": 0,
+    "explanation": "The Cripps Mission of March 1942 proposed the dominion status after the war and the constitution-making body, and it failed over the Muslim League's insistence on the Pakistan.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Cabinet Mission proposed:",
+    "options": [
+      "accepted by the League",
+      "the Pakistan",
+      "a military mission",
+      "the three-tier federation and the grouping of the provinces and the Congress accepted it"
+    ],
+    "answer": 3,
+    "explanation": "The Cabinet Mission Plan of 1946 proposed the three-tier federation with the grouping of the provinces and the United Centre, and the Congress accepted it in July 1946 but the Muslim League rejected it.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Mountbatten Plan provided:",
+    "options": [
+      "the plan of 1946",
+      "the plan of 1942",
+      "for the partition with the lapse of the paramountcy and the referendum clause for the princely states",
+      "for the United India"
+    ],
+    "answer": 2,
+    "explanation": "The Mountbatten Plan of 3 June 1947 provided for the partition of India, the lapse of the paramountcy over the princely states and the referendum clause for their accession.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Radcliffe Boundary Commission divided the Punjab and the Bengal and it published:",
+    "options": [
+      "in 1945",
+      "the award after the independence",
+      "before the partition",
+      "The Radcliffe Commission divided only the Bengal"
+    ],
+    "answer": 1,
+    "explanation": "The Radcliffe Boundary Commission, chaired by the Cyril Radcliffe, divided the Punjab and the Bengal and it published its award on 17 August 1947, five months after it was set up.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Instrument of Accession was:",
+    "options": [
+      "signed only by the British",
+      "the act of the Indian Parliament",
+      "the treaty of the partition",
+      "signed by the Indian states and the Sardar Patel and the V.P. Menon integrated them"
+    ],
+    "answer": 3,
+    "explanation": "The Instrument of Accession, a legal instrument of the accession of the princely states to India, was a joint work of the Sardar Patel and his secretary, V.P. Menon.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "the Indian States is correct were:",
+    "options": [
+      "There were 700 princely states",
+      "There were 562 princely states and 9 provinces at the time of the independence",
+      "There were 100 princely states",
+      "There were 9 princely states"
+    ],
+    "answer": 1,
+    "explanation": "At the time of the independence there were 9 provinces and 562 princely states, and the process of the integration was completed with the accession of the last of them, the state of Hyderabad, in 1948.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The Hyderabad acceded to India is correct?",
+    "options": [
+      "It was never integrated",
+      "It acceded in 1950",
+      "The Hyderabad acceded to India in 1948 after the Operation Polo",
+      "It acceded in 1947"
+    ],
+    "answer": 2,
+    "explanation": "The Operation Polo of September 1948 secured the accession of the state of Hyderabad, the largest of the princely states by the area, and the Junagadh and the other states followed.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Sikkim, which of the following is correct?",
+    "options": [
+      "Sikkim became the 22nd state in 1975 after the referendum of 1973",
+      "It became a state in 1963",
+      "It became a state in 1987",
+      "It is a Union Territory"
+    ],
+    "answer": 0,
+    "explanation": "The referendum of 1973 in Sikkim was against the monarchy and the state of Sikkim was formed in 1975 as the 22nd state of the Union.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The North-Eastern Areas (Reorganisation) Act of 1971 created the states of the North-East and the NEFA became:",
+    "options": [
+      "the Arunachal Pradesh",
+      "the state of the Punjab",
+      "the state of Goa",
+      "the state of the Haryana"
+    ],
+    "answer": 0,
+    "explanation": "The North-Eastern Areas (Reorganisation) Act of 1971 created the states of Meghalaya, Manipur, Tripura, Arunachal Pradesh, Mizoram and Nagaland and the NEFA became the Arunachal Pradesh.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Goa?",
+    "options": [
+      "It was liberated in 1947",
+      "It was liberated in 1963",
+      "It was never a Portuguese territory",
+      "Goa was liberated on 18 December 1961 in the Operation Vijay"
+    ],
+    "answer": 3,
+    "explanation": "Goa, Daman and Diu were liberated from the Portuguese on 18 December 1961 in the Operation Vijay and the Goa Liberation Day is observed on 19 December.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the 23rd state, which of the following is correct?",
+    "options": [
+      "a Union Territory",
+      "the 23rd state in 1987 out of the Lushai Hills",
+      "the 21st state in 1972",
+      "formed out of the NEFA"
+    ],
+    "answer": 1,
+    "explanation": "The Mizoram became the 23rd state of the Union in 1987 out of the Lushai Hills of the former NEFA, following the Mizo Accord of 1986.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Nagaland, which of the following is correct?",
+    "options": [
+      "It was formed out of the NEFA",
+      "It was formed in 1987",
+      "The Nagaland was the first state of the North-East to be formed on the tribal basis in 1963",
+      "It was formed in 1972"
+    ],
+    "answer": 2,
+    "explanation": "The Nagaland, formed in 1963, was the first state of the North-East to be created on the tribal basis and it was the result of the Naga People's Convention of 1957.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the on the Fazz Ali is correct?",
+    "options": [
+      "based on the Sarkar Commission",
+      "based on the Balwant Rai Mehta Committee",
+      "based on the Fazz Ali Commission and it amended the First and the Fourth Schedules",
+      "based on the Kothari Commission"
+    ],
+    "answer": 2,
+    "explanation": "The States Reorganisation Act of 1956, based on the Fazz Ali Commission's recommendations, amended the First and the Fourth Schedules to reorganise the states on the linguistic basis.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Andhra State was:",
+    "options": [
+      "created in 1975",
+      "created on 1 October 1953 and the Andhra Pradesh on 1 November 1956",
+      "created in 1956",
+      "created in 1960"
+    ],
+    "answer": 1,
+    "explanation": "The Telugu speaking Andhra State was created on 1 October 1953 and the present Andhra Pradesh was formed on 1 November 1956 by the addition of the Telugu districts of the Mysore state.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bombay state was:",
+    "options": [
+      "formed in 1956",
+      "formed in 1962",
+      "formed in 1963",
+      "divided into the Maharashtra and the Gujarat on 1 May 1960"
+    ],
+    "answer": 3,
+    "explanation": "The state of Bombay was divided into the Maharashtra and the Gujarat with effect from 1 May 1960 and the state of Punjab was divided into the Haryana, the Punjab and the Chandigarh.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Planning Commission was:",
+    "options": [
+      "an extra-constitutional body set up in 1950 and it was chaired by the Prime Minister",
+      "a constitutional body",
+      "chaired by the President",
+      "set up in 1947"
+    ],
+    "answer": 0,
+    "explanation": "The Planning Commission was set up in March 1950 by a resolution of the Cabinet and it was an extra-constitutional body chaired by the Prime Minister, and it was replaced by the NITI Aayog in 2015.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Second Five Year Plan was:",
+    "options": [
+      "the plan of the heavy industry and it was based on the Mahalanobis model",
+      "the plan of the agriculture",
+      "the plan of the employment",
+      "the plan of the exports"
+    ],
+    "answer": 0,
+    "explanation": "The Second Five Year Plan of 1956-61, based on the Mahalanobis model, had the emphasis on the development of the heavy industries and the rapid industrialisation.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "New Industrial Policy announced:",
+    "options": [
+      "It was about the exports",
+      "Announced the delicensing, the foreign investment liberalisation and the reduction of the public sector",
+      "It was the 1980 policy",
+      "It was the 1997 policy"
+    ],
+    "answer": 1,
+    "explanation": "The New Industrial Policy Statement of 24 July 1991 announced the industrial delicensing, the liberalisation of the foreign investment, the reduction of the public sector and the phasing out of the MRTP.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the effort increase?",
+    "options": [
+      "the effort to increase the milk",
+      "the effort to increase the fish",
+      "the effort to increase the exports",
+      "the effort to increase the foodgrain production with the high yielding varieties and the M.S. Swaminathan led it"
+    ],
+    "answer": 3,
+    "explanation": "The Green Revolution was the effort to increase the foodgrain production with the high yielding varieties of the wheat and the rice and it was led by the M.S. Swaminathan with the Norman Borlaug varieties.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "led by the Verghese Kurien and it made:",
+    "options": [
+      "led by the Norman Borlaug",
+      "led by the Amartya Sen",
+      "led by the Verghese Kurien and it made India the largest milk producer",
+      "led by the M.S. Swaminathan"
+    ],
+    "answer": 2,
+    "explanation": "The White Revolution was led by the Verghese Kurien through the National Dairy Development Board and it made India the largest milk producer in the world.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 1991 reforms and the creation of the SEBI and the disinvestment were:",
+    "options": [
+      "under the P.V. Narasimha Rao and the Manmohan Singh",
+      "under the Indira Gandhi",
+      "under the Rajiv Gandhi",
+      "under the Morarji Desai"
+    ],
+    "answer": 0,
+    "explanation": "The 1991 reforms, the creation of the SEBI, the disinvestment and the reduction of the fiscal deficit were under the Prime Minister P.V. Narasimha Rao and the Finance Minister Manmohan Singh.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "the NITI Aayog is correct was:",
+    "options": [
+      "It is a ministry",
+      "It was constituted in 2015 in place of the Planning Commission and it is a think tank without the plan funds",
+      "It was set up in 1991",
+      "It allocates the plan funds"
+    ],
+    "answer": 1,
+    "explanation": "The NITI Aayog, constituted in January 2015 in place of the Planning Commission, is a collaborative think tank and it does not allocate the plan funds to the states.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The growth of the Indian economy in the 1990s and the 2000s was driven by:",
+    "options": [
+      "the growth of the agriculture and the white revolution",
+      "the protection of the small scale industry and the import substitution",
+      "the decline of the foreign investment and the strict exchange controls",
+      "the growth of the IT and the services and the demographic dividend and the English language advantage"
+    ],
+    "answer": 3,
+    "explanation": "The Indian growth story of the 1990s and the 2000s rested on the 1991 liberalisation, the rapid growth of the IT and the service sector, the demographic dividend and the advantage of the English language.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "the first of the independent India and the 2021 was:",
+    "options": [
+      "the first",
+      "no census after 1951",
+      "the first of the independent India and the 2021 was the first after the 2011",
+      "the first ever"
+    ],
+    "answer": 2,
+    "explanation": "The 1951 Census was the first census of the independent India and the 2021 Census was conducted after the postponement of the 2021 round because of the Covid pandemic.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Census?",
+    "options": [
+      "The Himalayas and the Western Ghats",
+      "The Ganga and the Brahmaputra plains",
+      "The Deccan and the Chota Nagpur",
+      "The Cardamoms and the Coromandel and the Malabar and the Konkan"
+    ],
+    "answer": 3,
+    "explanation": "The Cardamoms, the Coromandel, the Malabar and the Konkan are the four divisions of the coastal region of the peninsular India.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the National Sample Survey, which of the following is correct?",
+    "options": [
+      "The NSS conducted the surveys of the employment",
+      "The NSS is the statistical arm of the RBI",
+      "The NSS was dissolved in 2011",
+      "The NSS was the organisation that conducted the 2011 Census"
+    ],
+    "answer": 0,
+    "explanation": "The National Sample Survey Organisation, under the Ministry of Statistics, conducted the Periodic Labour Force Survey and it was the predecessor of the NSO that conducted the 2011 Census.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bhoodan movement of the Vinoba Bhave was:",
+    "options": [
+      "the movement of the zamindars",
+      "a movement of the students",
+      "the voluntary donation of the surplus land to the landless",
+      "the movement of the tenants against the landlords"
+    ],
+    "answer": 2,
+    "explanation": "The Bhoodan and the Gramdan movements of the Vinoba Bhave sought the voluntary and the maximum land reform with the landless as the recipients and it was the inspiration of the land reform legislation of the states.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The Ladakh is correct?",
+    "options": [
+      "It was formed in 1975",
+      "The Ladakh was a Union Territory in 2019 and it was part of the erstwhile Jammu and Kashmir",
+      "It was a state in 1991",
+      "It is a part of the Himachal Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "The Ladakh became a Union Territory in October 2019 along with the Jammu and Kashmir and it has a distinct culture and a sparse population.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Article 370?",
+    "options": [
+      "It was about the emergency",
+      "It gave the special status to the Jammu and Kashmir until it was abrogated in August 2019",
+      "It gave the special status to the Nagaland",
+      "It was about the reservation"
+    ],
+    "answer": 1,
+    "explanation": "The Article 370 gave the special status to the state of Jammu and Kashmir with the exception of the defence, the foreign affairs and the communications until it was abrogated in August 2019.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Supreme Court directed, which of the following is correct?",
+    "options": [
+      "It struck down the abrogation in 2019",
+      "It has not pronounced the judgment",
+      "It upheld the abrogation and the statehood was not restored",
+      "The Supreme Court directed the restoration of the statehood of the Jammu and Kashmir"
+    ],
+    "answer": 3,
+    "explanation": "In December 2023 the Supreme Court upheld the abrogation of the Article 370 and directed that the statehood of the Jammu and Kashmir should be restored with the assembly elections.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The committee that recommended the merger of the princely states with India was chaired by:",
+    "options": [
+      "The Sardar Patel",
+      "The B.N. Rau",
+      "The Balbir Singh Seechewal",
+      "The Jawaharlal Nehru"
+    ],
+    "answer": 2,
+    "explanation": "The Balbir Singh Seechewal headed the committee that examined the question of the merger of the princely states and he was a former Foreign Secretary of India.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

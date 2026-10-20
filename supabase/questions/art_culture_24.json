@@ -1,0 +1,752 @@
+[
+  {
+    "q": "The Ashokan sandstone pillar now installed at Feroz Shah Kotla in Delhi was originally erected at which site?",
+    "options": [
+      "Lauriya Araraj",
+      "Sarnath",
+      "Kosambi",
+      "Topra"
+    ],
+    "answer": 3,
+    "explanation": "Firoz Shah Tughlaq transported two Ashokan pillars to Delhi, one from Topra in Haryana and one from Meerut. The Topra pillar was erected at Feroz Shah Kotla (Hisi-i-Firozta).",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The polished sandstone pillar with a lion capital at Lauriya Nandangarh in Bihar was erected during the reign of which ruler?",
+    "options": [
+      "Kanishka",
+      "Ashoka",
+      "Bindusara",
+      "Chandragupta Maurya"
+    ],
+    "answer": 1,
+    "explanation": "The pillar at Lauriya Nandangarh, with its single lion capital, is one of the Ashokan pillars in the Champaran region of Bihar. The others listed belong to different periods of Mauryan and post-Mauryan history.",
+    "difficulty": "easy",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The sculpted stone railings and gateways of the Bharhut stupa were mostly added during the rule of which dynasty?",
+    "options": [
+      "Shunga",
+      "Gupta",
+      "Kushana",
+      "Maurya"
+    ],
+    "answer": 0,
+    "explanation": "The Bharhut railings, covered with Jataka narratives and yaksha-yakshi figures, were carved under the Shungas in the 2nd century BCE. The original stupa core is Mauryan, but the decorated rail belongs to the Shunga phase.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Buddha images of the Gandhara school were typically carved in which material?",
+    "options": [
+      "Spotted red sandstone",
+      "White marble",
+      "Grey schist",
+      "Terracotta"
+    ],
+    "answer": 2,
+    "explanation": "Gandhara sculptors used grey schist (slate-blue stone) and showed strong Greco-Roman influence. Spotted red sandstone is the characteristic material of the Mathura school, not Gandhara.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The celebrated Gupta-period seated Buddha of Sarnath, depicting the first sermon, is shown in which mudra?",
+    "options": [
+      "Dharmachakra pravartana mudra",
+      "Dhyana mudra",
+      "Abhaya mudra",
+      "Bhumisparsha mudra"
+    ],
+    "answer": 0,
+    "explanation": "The Sarnath Buddha preaches the first sermon, so his hands form the dharmachakra pravartana (wheel-turning) mudra. Bhumisparsha is the earth-touching gesture of the enlightenment moment and dhyana is meditation.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Varaha panel at Udayagiri near Vidisha shows Vishnu rescuing which figure from the cosmic waters?",
+    "options": [
+      "Ganga",
+      "Sita",
+      "Bhudevi, the earth goddess",
+      "Lakshmi"
+    ],
+    "answer": 2,
+    "explanation": "The Udayagiri Varaha panel of the early fifth century shows Vishnu as Varaha lifting Bhudevi, the earth goddess, from the waters. It is associated with the reign of Chandragupta II.",
+    "difficulty": "easy",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Didarganj Yakshi, famous for its highly polished surface and chauri (fly-whisk), is a sculpture of which period?",
+    "options": [
+      "Shunga",
+      "Mauryan",
+      "Gupta",
+      "Kushana"
+    ],
+    "answer": 1,
+    "explanation": "The Didarganj Yakshi from Patna displays the mirror-like polish typical of Mauryan court art, like the Ashokan pillars. Later schools such as the Kushana or Gupta abandoned this polish.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The famous painting of Bodhisattva Padmapani holding a blue lotus is located in which Ajanta cave?",
+    "options": [
+      "Cave 16",
+      "Cave 19",
+      "Cave 10",
+      "Cave 1"
+    ],
+    "answer": 3,
+    "explanation": "The Bodhisattva Padmapani, one of the most reproduced images of Indian art, is a mural in Cave 1 of Ajanta, painted in the later Vakataka phase. Cave 10 belongs to the earlier phase and Cave 19 is a chaitya.",
+    "difficulty": "easy",
+    "category": "painting",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The murals of Ajanta were painted directly on which surface?",
+    "options": [
+      "Cloth stretched on frames",
+      "Polished stone slabs",
+      "Wooden panels",
+      "Mud and lime plaster on cave walls"
+    ],
+    "answer": 3,
+    "explanation": "Ajanta artists first prepared a ground of mud and lime plaster mixed with organic matter and painted on it with mineral and vegetable pigments. No cloth, stone or wood served as the painting surface.",
+    "difficulty": "easy",
+    "category": "painting",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The narrative painting panels at Ajanta based on the Jataka tales depict which theme?",
+    "options": [
+      "Previous births of the Buddha",
+      "Life of Mahavira",
+      "Episodes from the Ramayana",
+      "Vedic sacrificial rituals"
+    ],
+    "answer": 0,
+    "explanation": "The Jataka tales recount the previous births of the Buddha, and several Ajanta panels such as the Chhadanta and Shibi Jatakas narrate these stories. The other traditions listed are not the subject of the Jataka panels.",
+    "difficulty": "easy",
+    "category": "painting",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The finest phase of Ajanta painting, seen in Caves 16 and 17, was carried out under the patronage of which dynasty?",
+    "options": [
+      "Gupta",
+      "Vakataka",
+      "Rashtrakuta",
+      "Satavahana"
+    ],
+    "answer": 1,
+    "explanation": "Caves 16 and 17 were excavated and painted under the Vakataka king Harishena in the late fifth century CE, contemporary with the Guptas. The Satavahana phase corresponds to the earlier caves and the Rashtrakutas to Ellora.",
+    "difficulty": "hard",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The colours used in the Ajanta murals were chiefly derived from which sources?",
+    "options": [
+      "Animal fat",
+      "Synthetic dyes",
+      "Minerals and vegetable matter",
+      "Imported lapis lazuli only"
+    ],
+    "answer": 2,
+    "explanation": "Ajanta pigments came from minerals such as red and yellow ochres and green earth, along with lamp black and vegetable gums as binders. Synthetic dyes did not exist and animal fat was not the colour source.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Gupta-period wall paintings of the Bagh caves in Madhya Pradesh are most often compared with those of which site?",
+    "options": [
+      "Ellora",
+      "Sittanavasal",
+      "Badami",
+      "Ajanta"
+    ],
+    "answer": 3,
+    "explanation": "The Bagh cave murals, with their fluid lines and secular themes, are stylistically close to the contemporary paintings of Ajanta. Sittanavasal is Pandya-period and Badami is Chalukya, both later and different in style.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In early rock-cut monastic architecture, a chaitya is which kind of structure?",
+    "options": [
+      "A prayer hall with a stupa at its apsidal end",
+      "A circumambulation path",
+      "A residence hall for monks",
+      "A gateway to a stupa"
+    ],
+    "answer": 0,
+    "explanation": "A chaitya is an apsidal prayer hall with a stupa at its rounded end for congregational worship. A monastery residence is a vihara, a gateway is a torana, and the path around a stupa is the pradakshina patha.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The large rock-cut chaitya hall at Karle in Maharashtra was excavated chiefly under the patronage of which dynasty?",
+    "options": [
+      "Shunga",
+      "Chalukya",
+      "Satavahana",
+      "Maurya"
+    ],
+    "answer": 2,
+    "explanation": "The Karle chaitya, the largest of its kind, was excavated in the first century BCE under Satavahana patronage. The Mauryas left the Barabar caves and the Chalukyas came many centuries later at Badami.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Lomas Rishi cave, whose facade imitates a wooden chaitya arch, was excavated in which hills?",
+    "options": [
+      "Udayagiri",
+      "Barabar",
+      "Vindhya",
+      "Aravalli"
+    ],
+    "answer": 1,
+    "explanation": "The Lomas Rishi cave, carved for the Ajivikas during the Mauryan period, is in the Barabar hills of Bihar. Its chaitya-arch facade, carved to look like timber construction, is a hallmark of Mauryan rock-cut architecture.",
+    "difficulty": "hard",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The original brick stupa at Sanchi, later enlarged and faced with stone, was built by which ruler?",
+    "options": [
+      "Pushyamitra Shunga",
+      "Kanishka",
+      "Menander",
+      "Ashoka"
+    ],
+    "answer": 3,
+    "explanation": "Ashoka built the original brick stupa at Sanchi over relics of the Buddha in the third century BCE. The Shungas later enlarged it and the Satavahanas added the carved gateways under later patronage.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Mahachaitya of Amaravati, one of the largest stupas of ancient India, lies in which present-day state?",
+    "options": [
+      "Odisha",
+      "Andhra Pradesh",
+      "Karnataka",
+      "Telangana"
+    ],
+    "answer": 1,
+    "explanation": "The Amaravati Mahachaitya stands on the banks of the Krishna river in Guntur district of Andhra Pradesh. Its carved slabs are now divided between museums in Chennai, London and other places.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Buddhist monastic site of Nagarjunakonda is located on the banks of which river?",
+    "options": [
+      "Krishna",
+      "Kaveri",
+      "Narmada",
+      "Godavari"
+    ],
+    "answer": 0,
+    "explanation": "Nagarjunakonda, named after the philosopher Nagarjuna, is an island site in the Nagarjuna Sagar reservoir on the Krishna river in Andhra Pradesh. It flourished under the Ikshvakus of the third century CE.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The bronze dancing girl of Mohenjo-daro was cast using which technique?",
+    "options": [
+      "Moulding in a clay die",
+      "Hammering a metal sheet",
+      "Lost-wax (cire perdue) casting",
+      "Carving and polishing stone"
+    ],
+    "answer": 2,
+    "explanation": "The dancing girl was made by the lost-wax or cire perdue process, in which a wax model is encased in clay and molten metal poured in after the wax drains out. This is among the earliest known bronze castings in the world.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Most seals of the Harappan civilisation were made of which material?",
+    "options": [
+      "Steatite",
+      "Faience",
+      "Copper",
+      "Ivory"
+    ],
+    "answer": 0,
+    "explanation": "The great majority of Harappan seals, usually square with a unicorn or other animal and a script, were carved on steatite, often baked or glazed. Copper, ivory and faience objects exist but were not the standard seal material.",
+    "difficulty": "easy",
+    "category": "handicrafts-and-folk",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Harappan pottery, painted with black designs on a red surface, was produced chiefly on which device?",
+    "options": [
+      "Hand-moulding bench",
+      "Baked clay moulds",
+      "Leather-hard clay beating",
+      "Potter's wheel"
+    ],
+    "answer": 3,
+    "explanation": "Harappan potters used a fast wheel to throw the fine red ware painted with black linear and animal motifs. Moulds were used for some terracotta figurines, not for the painted pottery.",
+    "difficulty": "easy",
+    "category": "handicrafts-and-folk",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Evidence of a bead-makers' workshop working carnelian has been found at which Harappan site?",
+    "options": [
+      "Rakhigarhi",
+      "Kalibangan",
+      "Chanhudaro",
+      "Dholavira"
+    ],
+    "answer": 2,
+    "explanation": "Chanhudaro in Sindh is famous as a craft town with workshops for bead-making, seal-cutting and shell working. The other sites listed are known mainly for settlement features rather than craft specialisation.",
+    "difficulty": "hard",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Harappans made bronze by alloying copper mainly with which metal?",
+    "options": [
+      "Silver",
+      "Tin",
+      "Zinc",
+      "Lead"
+    ],
+    "answer": 1,
+    "explanation": "Bronze is an alloy of copper with tin, and Harappan metalworkers used this combination for tools and castings such as the dancing girl. Brass, an alloy with zinc, became common much later in Indian history.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The steatite figure known as the 'Priest King' was excavated at which site?",
+    "options": [
+      "Mohenjo-daro",
+      "Chanhu-daro",
+      "Harappa",
+      "Lothal"
+    ],
+    "answer": 0,
+    "explanation": "The bearded 'Priest King' with its trefoil-patterned robe was found at Mohenjo-daro in 1927 and is now in the National Museum, Karachi. No comparable figure was found at the other sites listed.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Buddhist monuments at Sanchi were inscribed on the UNESCO World Heritage List in which year?",
+    "options": [
+      "1993",
+      "1999",
+      "1983",
+      "1989"
+    ],
+    "answer": 3,
+    "explanation": "Sanchi was inscribed by UNESCO in 1989, six years after the first Indian batch of 1983 that included Ajanta, Ellora and Agra Fort.",
+    "difficulty": "hard",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ajanta Caves were inscribed as a UNESCO World Heritage Site in which year?",
+    "options": [
+      "1997",
+      "1983",
+      "1987",
+      "1991"
+    ],
+    "answer": 1,
+    "explanation": "Ajanta was among the first Indian sites inscribed on the World Heritage List in 1983, along with Ellora and Agra Fort. 1987 is the year of later inscriptions such as Hampi and Elephanta.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of these ancient sites appears on the UNESCO World Heritage List?",
+    "options": [
+      "Amaravati",
+      "Nagarjunakonda",
+      "Ellora",
+      "Bharhut"
+    ],
+    "answer": 2,
+    "explanation": "The Ellora Caves, including the Kailasa temple, were inscribed in 1983. Bharhut, Amaravati and Nagarjunakonda are protected ASI sites but none of them is on the World Heritage List.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The ruins of Nalanda Mahavihara were inscribed as a UNESCO World Heritage Site in which year?",
+    "options": [
+      "2021",
+      "2014",
+      "2018",
+      "2016"
+    ],
+    "answer": 3,
+    "explanation": "The archaeological site of Nalanda Mahavihara at Nalanda, Bihar, was inscribed in 2016. 2014 was Rani-ki-Vav and 2021 was Dholavira and Kakatiya Rudreshwara.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Harappan city of Dholavira received UNESCO World Heritage status in which year?",
+    "options": [
+      "2021",
+      "2014",
+      "2019",
+      "2023"
+    ],
+    "answer": 0,
+    "explanation": "Dholavira in the Rann of Kachchh, Gujarat, was inscribed as a World Heritage Site in July 2021, becoming the first Harappan city on the list. 2014 saw Rani-ki-Vav inscribed instead.",
+    "difficulty": "hard",
+    "category": "unesco-and-heritage",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The rock paintings of Bhimbetka chiefly depict scenes of which kind?",
+    "options": [
+      "Naval battles",
+      "Royal courts and processions",
+      "Hunting, dancing and animal life",
+      "Buddhist Jataka stories"
+    ],
+    "answer": 2,
+    "explanation": "The Bhimbetka rock shelters near Bhopal preserve Mesolithic to historical period paintings dominated by hunting, dancing and animal scenes. They predate and differ from later narrative religious art.",
+    "difficulty": "easy",
+    "category": "unesco-and-heritage",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Pushkaram, the festival honouring a sacred river, comes once in how many years for each river?",
+    "options": [
+      "Six",
+      "Twelve",
+      "Sixty",
+      "Three"
+    ],
+    "answer": 1,
+    "explanation": "Each major river of peninsular India has its Pushkaram once every twelve years, based on the Jupiter's transit through a zodiac sign linked to that river, as with the Godavari and Krishna Pushkarams.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The month of Ashvayuja (Ashwin) of the Indian calendar is associated with which major festival?",
+    "options": [
+      "Holi",
+      "Onam",
+      "Lohri",
+      "Navaratri and Durga Puja"
+    ],
+    "answer": 3,
+    "explanation": "Sharad Navaratri and Durga Puja fall in the lunar month of Ashwin (Ashvayuja), ending with Vijayadashami. Holi belongs to Phalguna, Onam to Bhadrapada and Lohri to Pausha.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Dhanvantari, the physician of the gods revered in the Ayurveda tradition, is worshipped on which occasion?",
+    "options": [
+      "Guru Purnima",
+      "Maha Shivaratri",
+      "Dhanteras",
+      "Akshaya Tritiya"
+    ],
+    "answer": 2,
+    "explanation": "Dhanteras, the thirteenth lunar day before Diwali, is dedicated to Dhanvantari, and National Ayurveda Day is observed on this occasion. The other festivals honour different deities and teachers.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "Which Vedic royal sacrifice involved letting a horse roam free for a year and symbolised the king's sovereignty?",
+    "options": [
+      "Ashvamedha",
+      "Rajasuya",
+      "Vajapeya",
+      "Agnihotra"
+    ],
+    "answer": 0,
+    "explanation": "In the ashvamedha a consecrated horse roamed for a year under royal guard, and its unobstructed passage asserted the king's supremacy. Rajasuya is a consecration rite and agnihotra a daily household offering.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "In the Rigveda, Varuna is primarily the god of what?",
+    "options": [
+      "War",
+      "Water and cosmic order",
+      "Rain and thunder",
+      "Fire"
+    ],
+    "answer": 1,
+    "explanation": "Varuna is the Vedic god of the waters who upholds rita, the cosmic and moral order. Fire is Agni, war is associated with Indra, and rain and thunder belong to Parjanya.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The agnihotra mentioned in Vedic literature was which kind of rite?",
+    "options": [
+      "A pilgrimage to sacred rivers",
+      "A tax levied on households",
+      "A daily fire sacrifice performed twice a day",
+      "An annual royal coronation rite"
+    ],
+    "answer": 2,
+    "explanation": "The agnihotra was the basic daily milk offering into the sacred fire, made every morning and evening by householders with the three sacred fires. It was not a coronation, pilgrimage or fiscal levy.",
+    "difficulty": "hard",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Arthashastra, the famous treatise on statecraft and economic policy, is attributed to which author?",
+    "options": [
+      "Kautilya (Chanakya)",
+      "Bhasa",
+      "Manu",
+      "Shukra"
+    ],
+    "answer": 0,
+    "explanation": "The Arthashastra was composed by Kautilya, also called Chanakya or Vishnugupta, the minister of Chandragupta Maurya. Manu and Shukra are authors of other dharmashastra and nitishastra works.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Kamandaka's Nitisara, composed around the Gupta period, is a treatise on which subject?",
+    "options": [
+      "Grammar",
+      "Medicine",
+      "Astronomy",
+      "Statecraft and ethics of rule"
+    ],
+    "answer": 3,
+    "explanation": "The Nitisara of Kamandaka is a Sanskrit manual of statecraft and political ethics modelled on Kautilya's Arthashastra. It belongs to the nitishastra genre, not to grammar, medicine or astronomy.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Charaka Samhita is an ancient Indian treatise on which subject?",
+    "options": [
+      "Architecture",
+      "Medicine",
+      "Music",
+      "Surgery"
+    ],
+    "answer": 1,
+    "explanation": "The Charaka Samhita, associated with the physician Charaka, is the foundational text of ancient Indian medicine and internal therapy. Surgery is the domain of the Sushruta Samhita.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sushruta Samhita is chiefly devoted to which branch of knowledge?",
+    "options": [
+      "Surgery",
+      "Grammar",
+      "Statecraft",
+      "Astrology"
+    ],
+    "answer": 0,
+    "explanation": "The Sushruta Samhita describes surgical instruments, procedures and even plastic surgery of the nose, making it the classic ancient Indian text on surgery. It is not a work on grammar, polity or astrology.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Varahamihira, the astronomer of the Gupta age, is the author of which work?",
+    "options": [
+      "Nitisara",
+      "Brihat Samhita",
+      "Aryabhatiya",
+      "Charaka Samhita"
+    ],
+    "answer": 1,
+    "explanation": "Varahamihira wrote the Brihat Samhita, an encyclopaedic work on astronomy, astrology and worldly sciences, besides the Brihat Jataka. The Aryabhatiya is by Aryabhata and the Charaka Samhita is a medical text.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the Aryabhatiya, Aryabhata makes which claim about the earth?",
+    "options": [
+      "Eclipses are caused by Rahu and Ketu alone",
+      "The earth is stationary at the centre",
+      "The sun revolves around the earth",
+      "The earth rotates on its axis"
+    ],
+    "answer": 3,
+    "explanation": "Aryabhata stated that the earth rotates on its axis daily, and he explained eclipses as shadows of the earth and moon rather than as the work of Rahu and Ketu. He also gave a rational value of pi.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mahabharata is traditionally attributed to which sage?",
+    "options": [
+      "Kapila",
+      "Valmiki",
+      "Vyasa",
+      "Panini"
+    ],
+    "answer": 2,
+    "explanation": "The Mahabharata is traditionally composed and compiled by Krishna Dvaipayana Vyasa, who is also a character within the epic. Valmiki is credited with the Ramayana, not the Mahabharata.",
+    "difficulty": "easy",
+    "category": "literature",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Ramayana of Valmiki is divided into how many kandas (books)?",
+    "options": [
+      "Five",
+      "Ten",
+      "Eighteen",
+      "Seven"
+    ],
+    "answer": 3,
+    "explanation": "Valmiki's Ramayana consists of seven kandas from Bala to Yuddha. Eighteen is the number of parvas of the Mahabharata, a common source of confusion.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Harivamsha, which centres on the life of Krishna, is regarded in tradition as what kind of text?",
+    "options": [
+      "A Buddhist Jataka text",
+      "An appendix (khila) to the Mahabharata",
+      "A Purana of the Shiva tradition",
+      "An independent epic of the Vedic age"
+    ],
+    "answer": 1,
+    "explanation": "The Harivamsha is traditionally classed as a khila, an appendix or supplement to the Mahabharata, narrating the rise of the Yadavas and Krishna's career. It is neither a Jataka collection nor a Vedic or Shaiva text.",
+    "difficulty": "hard",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bhagavata Purana is chiefly devoted to the glory and devotional worship of whom?",
+    "options": [
+      "Vishnu, especially as Krishna",
+      "Shiva",
+      "Devi",
+      "Surya"
+    ],
+    "answer": 0,
+    "explanation": "The Bhagavata Purana is the great Vaishnava text centred on Vishnu, above all in his Krishna incarnation, and it became foundational for later bhakti movements. It is not a Shaiva, Shakta or solar Purana.",
+    "difficulty": "easy",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Panini's Ashtadhyayi, the foundational Sanskrit grammar, is organised into how many chapters?",
+    "options": [
+      "Four",
+      "Six",
+      "Eight",
+      "Twelve"
+    ],
+    "answer": 2,
+    "explanation": "The name Ashtadhyayi literally means 'eight chapters', and the work arranges about four thousand sutras on Sanskrit grammar in that structure. Patanjali later commented on it in the Mahabhashya.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mahabhashya, the great commentary on Panini's grammar, was composed by which scholar?",
+    "options": [
+      "Katyayana",
+      "Panini himself",
+      "Bhartrihari",
+      "Patanjali"
+    ],
+    "answer": 3,
+    "explanation": "Patanjali composed the Mahabhashya around the second century BCE as a commentary on Panini's Ashtadhyayi and Katyayana's varttikas. Bhartrihari wrote the much later Vakyapadiya.",
+    "difficulty": "hard",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Yavanajataka is an early Sanskrit work dealing with which subject?",
+    "options": [
+      "Astrology",
+      "Statecraft",
+      "Music",
+      "Medicine"
+    ],
+    "answer": 0,
+    "explanation": "The Yavanajataka, a versified Sanskrit translation of a Greek astrological treatise from about the second or third century CE, marks the transmission of Hellenistic horoscopic astrology into India.",
+    "difficulty": "hard",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

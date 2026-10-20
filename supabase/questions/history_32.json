@@ -1,0 +1,2507 @@
+[
+  {
+    "q": "The 'Treaty of Aix-la-Chapelle' of 1815:",
+    "options": [
+      "Ended the Napoleonic Wars in 1815",
+      "Was the treaty of the Second World War",
+      "Was the treaty of the Crimean War",
+      "Ended the War of the Sixth Coalition and the Congress of Vienna"
+    ],
+    "answer": 3,
+    "explanation": "The Treaty of Aix-la-Chapelle of November 1815 ended the War of the Sixth Coalition, the Second Treaty of Paris, and it marked the beginning of the Concert of Europe.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Holy Alliance' of 1815 was formed by:",
+    "options": [
+      "The Britain and the Prussia alone",
+      "The Tsar Alexander I of Russia, the Emperor Francis I of Austria and the King Frederick William III of Prussia",
+      "Napoleon and the Pope",
+      "Britain and the France"
+    ],
+    "answer": 1,
+    "explanation": "The Holy Alliance of 1815 was formed by the Tsar Alexander I, the Emperor Francis I and the King Frederick William III to uphold the Christian principles and to restore the monarchies.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Quadruple Alliance' of 1815 consisted of:",
+    "options": [
+      "Britain, France, Spain and Italy",
+      "Russia, Austria, France and Spain",
+      "Britain, Prussia, Sweden and Denmark",
+      "Britain, Russia, Austria and Prussia"
+    ],
+    "answer": 3,
+    "explanation": "The Quadruple Alliance of 20 November 1815 between Britain, Russia, Austria and Prussia was the basis of the Concert of Europe of the Vienna settlement.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Concert of Europe' referred to:",
+    "options": [
+      "The cooperation of the European powers after 1815 to maintain the status quo",
+      "The alliance against the Ottoman Empire",
+      "The trade of the European powers",
+      "The colonial conferences"
+    ],
+    "answer": 0,
+    "explanation": "The Concert of Europe was the system of the collective cooperation of the European powers after the Congress of Vienna to maintain the status quo and to settle the disputes by the congresses.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Congress of Vienna' of 1815 was chaired by:",
+    "options": [
+      "Alexander I",
+      "Hardenberg",
+      "Prince Metternich",
+      "Talleyrand"
+    ],
+    "answer": 2,
+    "explanation": "Prince Metternich, the Austrian chancellor, was the real architect and the chairman of the Congress of Vienna, which redrew the map of Europe and restored the old dynasties.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hundred Days' of Napoleon:",
+    "options": [
+      "Were the period of the Consulate",
+      "Were the period between the escape from Elba and the defeat at Waterloo in 1815",
+      "Were the period of the retreat from Moscow",
+      "Were the period of the Egypt campaign"
+    ],
+    "answer": 1,
+    "explanation": "The Hundred Days were the period between the escape of Napoleon from Elba in March 1815 and his final defeat at Waterloo in June 1815.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Battle of Waterloo' was fought in:",
+    "options": [
+      "1799",
+      "1815",
+      "1812",
+      "1805"
+    ],
+    "answer": 1,
+    "explanation": "The Battle of Waterloo was fought on 18 June 1815 and it ended the Napoleonic Wars and the Hundred Days.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Continental System' of Napoleon:",
+    "options": [
+      "Was the French taxation system",
+      "Was the code of the Napoleonic laws",
+      "Was the conscription system",
+      "Was the blockade of the British trade with Europe"
+    ],
+    "answer": 3,
+    "explanation": "The Continental System was the blockade of the British goods in Europe and it was an economic weapon that failed to bring Britain to its knees and caused great hardship in the German states.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Napoleonic Code' of 1804:",
+    "options": [
+      "Was the civil code that introduced the equality before the law and the abolition of the feudal privileges",
+      "Was the penal code of 1810",
+      "Was the constitution of 1799",
+      "Was the civil code of the Revolution of 1789"
+    ],
+    "answer": 0,
+    "explanation": "The Napoleonic Code of 1804 was the model for the civil law of many countries and it introduced the equality before the law, the abolition of the feudal privileges and the protection of the property.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Treaty of Tilsit' of 1807:",
+    "options": [
+      "Was the treaty of Vienna",
+      "Was the treaty of the Rhine",
+      "Was the treaty between Napoleon and the Tsar Alexander I",
+      "Was the treaty that ended the Crimean War"
+    ],
+    "answer": 2,
+    "explanation": "The Treaty of Tilsit of 1807 was the agreement between Napoleon and the Tsar Alexander I and it was the summit of the French power in Europe.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rhineland' of 1806:",
+    "options": [
+      "Was a French department",
+      "Was a Russian province",
+      "Was an Italian kingdom",
+      "Was the confederation of the German states under the French influence"
+    ],
+    "answer": 3,
+    "explanation": "The Confederation of the Rhine was created in 1806 as a satellite of the French Empire with the buffer states on the French border.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Unam干涉' - The 'July Revolution' of 1830 in France:",
+    "options": [
+      "Was the coup of 18 Brumaire",
+      "Overthrew the Bourbon king Charles X and brought Louis-Philippe to the power",
+      "Restored Napoleon",
+      "Established the Empire"
+    ],
+    "answer": 1,
+    "explanation": "The July Revolution of 1830 overthrew the Bourbon Charles X and the July monarchy of Louis-Philippe was established, and it was the inspiration for the European revolutions of 1848.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'July Monarchy' of France:",
+    "options": [
+      "Was the First Republic",
+      "Was the rule of the Bourbons after 1815",
+      "Was the regime of Louis-Philippe from 1830 to 1848",
+      "Was the rule of Napoleon III"
+    ],
+    "answer": 2,
+    "explanation": "The July Monarchy of Louis-Philippe lasted from 1830 to 1848 and it was described by Guizot as a monarchy of the middle class.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Revolutions of 1848' in Europe were known as the:",
+    "options": [
+      "The Spring of Nations",
+      "The Great Fire",
+      "The Hundred Days",
+      "The Restoration"
+    ],
+    "answer": 0,
+    "explanation": "The revolutions of 1848 were called the Spring of Nations and they began in Sicily and Paris and spread across Europe.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chartism' of 1836-48 in Britain:",
+    "options": [
+      "Was the Corn Law agitation",
+      "Was the repeal of the combination laws",
+      "Was the Irish famine relief",
+      "Was the working class movement for the political reform and the universal suffrage"
+    ],
+    "answer": 3,
+    "explanation": "The Chartism with the six points of the universal suffrage was the first mass working class political movement of Britain and it failed but it led to the reforms of 1867.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Corn Laws' of Britain:",
+    "options": [
+      "Regulated the wages",
+      "Imposed the tariffs on the imported grain and were repealed in 1846",
+      "Taxed the wool",
+      "Banned the imports of the sugar"
+    ],
+    "answer": 1,
+    "explanation": "The Corn Laws protected the British agriculture with the import tariffs and their repeal in 1846 with the Irish famine was a landmark of the free trade.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Famine of Ireland' of 1845-49:",
+    "options": [
+      "Was caused by the potato blight and the British policy",
+      "Was caused by the cholera in Bengal",
+      "Was caused by the war with the France",
+      "Was caused by the volcanic eruption"
+    ],
+    "answer": 0,
+    "explanation": "The Great Famine of Ireland was caused by the potato blight and the British policy of the export of the food while about a million people died and a million emigrated.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Peterloo Massacre' of 1819 in Britain:",
+    "options": [
+      "Was the Boston Massacre",
+      "Was the Amritsar massacre",
+      "Was the killing of the reformist crowd at St Peter's field in Manchester",
+      "Was the massacre of the Paris students"
+    ],
+    "answer": 2,
+    "explanation": "The Peterloo Massacre of 1819 in Manchester saw the Yeomanry and the soldiers kill the crowd that gathered for the reform and it is remembered as Peterloo.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Victoria became?",
+    "options": [
+      "She became the queen in 1858",
+      "She became the queen in 1901",
+      "Victoria became the queen in 1837 and her reign saw the industrialisation and the imperial expansion",
+      "She became the queen in 1815"
+    ],
+    "answer": 2,
+    "explanation": "Queen Victoria, who came to the throne in 1837, saw the Reform Acts of 1867 and 1884, the rise of the trade unions and the imperial expansion in the Victorian era.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Opium Wars' of 1839-42 and 1856-60:",
+    "options": [
+      "Were the wars of the Italian unification",
+      "Were the Balkan wars",
+      "Were the Russo-Turkish wars",
+      "Were the wars between Britain and China over the trade and the opium"
+    ],
+    "answer": 3,
+    "explanation": "The First Opium War of 1839-42 and the Second of 1856-60 were fought by Britain against the Qing China over the opium trade, and the Treaty of Nanking ceded Hong Kong.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Treaty of Nanking' of 1842:",
+    "options": [
+      "Recognised the independence of the USA",
+      "Ended the First Opium War and ceded Hong Kong to the Britain",
+      "Ended the Crimean War",
+      "Ended the Russo-Turkish War"
+    ],
+    "answer": 1,
+    "explanation": "The Treaty of Nanking of 1842 ended the First Opium War and ceded Hong Kong to the Britain and opened the five treaty ports.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Taiping Rebellion' of 1850-64:",
+    "options": [
+      "Was the massive peasant revolt in China led by Hong Xiuquan",
+      "Was the revolt in India of 1857",
+      "Was the Nihonmatsu uprising in Japan",
+      "Was the Boxer Rebellion"
+    ],
+    "answer": 0,
+    "explanation": "The Taiping Rebellion, the greatest peasant revolt of the nineteenth century, was led by Hong Xiuquan and it devastated China before it was suppressed with the help of the British and the French.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Meiji Restoration' of 1868 in Japan:",
+    "options": [
+      "Was the Chinese restoration",
+      "Restored the imperial rule and began the rapid industrialisation of Japan",
+      "Was the restoration of the Tokugawa",
+      "Was the constitutional restoration of the British"
+    ],
+    "answer": 1,
+    "explanation": "The Meiji Restoration of 1868 restored the imperial power under the Emperor Meiji and it began the modernisation and the industrialisation of Japan, the model for the Asian response to the West.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Boshin War' of 1868 in Japan:",
+    "options": [
+      "Was the civil war between the supporters of the Tokugawa and the imperial forces",
+      "Was the war of the Franco-Prussian",
+      "Was the war of the Crimea",
+      "Was the Sino-Japanese war"
+    ],
+    "answer": 0,
+    "explanation": "The Boshin War of 1868-69 pitted the forces of the Tokugawa shogunate against the restorationist forces and it ended the shogunate.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sino-Japanese War' of 1894-95:",
+    "options": [
+      "Was the war of the Italian unification",
+      "Was the war of the Balkans",
+      "Was the Russo-Turkish war",
+      "Ended with the Japanese victory over China and the Treaty of Shimonoseki"
+    ],
+    "answer": 3,
+    "explanation": "The Sino-Japanese War of 1894-95 ended with the Japanese victory and the Treaty of Shimonoseki, which gave Taiwan to Japan and marked the beginning of the Japanese imperial expansion.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Treaty of Portsmouth of 1905 ended:",
+    "options": [
+      "It was the treaty of the Balkan wars",
+      "It ended the Crimean War",
+      "The Treaty of Portsmouth of 1905 ended the war with the Japanese victory",
+      "The Treaty of Portsmouth was of 1875"
+    ],
+    "answer": 2,
+    "explanation": "The Treaty of Portsmouth of 1905 ended the Russo-Japanese War and it confirmed Japan's victory over Russia, the first time a European power was defeated in the East.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gandhi and the Champaran' of 1917:",
+    "options": [
+      "Was the Rowlatt Satyagraha",
+      "Was the Ahmedabad Mill strike",
+      "Was the Kheda Satyagraha",
+      "Was the first satyagraha of Gandhi in India against the indigo planters"
+    ],
+    "answer": 3,
+    "explanation": "The Champaran Satyagraha of 1917, the first satyagraha of Gandhi in India, was against the indigo planters and it led to the Champaran Agrarian Act of 1918.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ahmedabad Mill Strike' of 1918:",
+    "options": [
+      "Was the Champaran Satyagraha",
+      "Was the Bardoli Satyagraha",
+      "Was Gandhi's first hunger strike in India",
+      "Was the Rowlatt Satyagraha"
+    ],
+    "answer": 2,
+    "explanation": "The Ahmedabad Mill Strike of 1918 was Gandhi's first hunger strike in India and it was for the workers' right to the 35 per cent wage increase.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kheda Satyagraha' of 1918:",
+    "options": [
+      "Was the Ahmedabad strike",
+      "Was the satyagraha of the peasants of the Gujarat for the remission of the revenue after the crop failure",
+      "Was the Bardoli Satyagraha",
+      "Was the Champaran Satyagraha"
+    ],
+    "answer": 1,
+    "explanation": "The Kheda Satyagraha of 1918 was the first mass satyagraha in India and it was for the remission of the land revenue after the crop failure and the plague.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bardoli Satyagraha' of 1928:",
+    "options": [
+      "Was the peasant satyagraha of the Gujarat against the 22 per cent increase in the land revenue",
+      "Was the Champaran Satyagraha",
+      "Was the Rowlatt Satyagraha",
+      "Was the Civil Disobedience in the Peshawar"
+    ],
+    "answer": 0,
+    "explanation": "The Bardoli Satyagraha of 1928 was the peasant satyagraha of the Bardoli in the Gujarat against the 22 per cent increase in the land revenue and it was called the `Tamm tra' and it earned Sarojini Naidu the title of the `Bardoli Bailiff'.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Champaran Satyagraha' and the Rajendra Prasad':",
+    "options": [
+      "The Rajendra Prasad led the Bardoli",
+      "Mahatma Gandhi and the Rajendra Prasad went to the Champaran in 1917",
+      "The Rajendra Prasad led the Kheda",
+      "The Rajendra Prasad led the Ahmedabad"
+    ],
+    "answer": 1,
+    "explanation": "Mahatma Gandhi and the Rajendra Prasad went to the Champaran in 1917 to investigate the plight of the indigo cultivators and it was the first satyagraha of Gandhi in India.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nagpur Flag' and the 1922:",
+    "options": [
+      "It was the flag of the Soviet Union",
+      "It was the flag of the 1905 Bengal",
+      "Was the flag hoisted at the Nagpur session of the Congress in December 1921",
+      "It was the flag of the INA"
+    ],
+    "answer": 2,
+    "explanation": "The Congress at its Nagpur session in December 1921 hoisted the Swaraj Flag, and the design was the charkha with the words `Swaraj' and `Satyameva Jayate'.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vande Mataram' was first published in:",
+    "options": [
+      "1876 in Bankim Chandra Chattopadhyay's novel Anandamath",
+      "1885 in the newspaper",
+      "1901 in the Bengal quarterly",
+      "1921 at the Nagpur session"
+    ],
+    "answer": 0,
+    "explanation": "The Vande Mataram was first published in 1876 in the novel Anandamath by the Bankim Chandra Chattopadhyay, in the pages of the Bangadarsh.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Swadeshi movement after the partition of Bengal is correct?",
+    "options": [
+      "It was the movement of the 1857",
+      "It was the movement of the 1920",
+      "It was the movement of the 1942",
+      "The Swadeshi movement after the partition of Bengal was the first mass movement of the Indian nationalism"
+    ],
+    "answer": 3,
+    "explanation": "The Swadeshi and the boycott of the foreign goods after the partition of Bengal in 1905 was the first mass movement of the Indian nationalism and it pioneered the use of the swadeshi and the boycott.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Surat Split' of 1907:",
+    "options": [
+      "Led to the split of the Communist Party",
+      "Led to the partition of Bengal",
+      "Led to the formation of the Muslim League in 1906",
+      "Led to the split of the Congress in 1916"
+    ],
+    "answer": 2,
+    "explanation": "The Surat session of 1907 saw the split of the Congress and the factions reunited at the Calcutta session of December 1906 that formed the All India Muslim League with the objective of the safeguards for the Muslims.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Morley-Minto Reforms' of 1909:",
+    "options": [
+      "Introduced the dyarchy",
+      "Introduced the provincial autonomy",
+      "Introduced the franchise for the women",
+      "Introduced the separate electorates for the Muslims"
+    ],
+    "answer": 3,
+    "explanation": "The Indian Councils Act of 1909, the Morley-Minto Reforms, introduced the separate electorates for the Muslims and it enlarged the legislative councils and it also provided for the separate electorates for the Sikhs, the Christians and the Anglo-Indians in some cases.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lucknow Pact' of 1916:",
+    "options": [
+      "Was the agreement between the Congress and the Muslim League for the representative government",
+      "Was the agreement of the Second World War",
+      "Was the pact of the Non-Cooperation",
+      "Was the pact of the 1905"
+    ],
+    "answer": 0,
+    "explanation": "The Lucknow Pact of 1916 was the agreement between the Congress and the Muslim League to reunite and to work together for the representative government, and it was a landmark of the Hindu-Muslim unity.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Champaran Agrarian Act of 1918?",
+    "options": [
+      "It was of 1935",
+      "The Champaran Agrarian Act of 1918 created the provision for the permanent settlement of the land",
+      "It was of 1893",
+      "It was of 1920"
+    ],
+    "answer": 1,
+    "explanation": "The Champaran Agrarian Act of 1918 created the provision for the permanent settlement of the land and it was the first law passed by the British in India in the interests of the peasants.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Rowlatt Act gave:",
+    "options": [
+      "Gave the dyarchy",
+      "Gave the provincial autonomy",
+      "Introduced the franchise",
+      "Gave extraordinary powers to the government to deal with the revolutionaries"
+    ],
+    "answer": 3,
+    "explanation": "The Rowlatt Act, the Anarchical and Revolutionary Crimes Act of 1919, gave the government the extraordinary powers of the preventive detention and the trial without a jury and it was the immediate cause of the Rowlatt Satyagraha.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jallianwala Bagh' and the Hunter Commission:",
+    "options": [
+      "It was the inquiry of the 1930",
+      "The Hunter Commission was the British inquiry into the Jallianwala Bagh",
+      "The Hunter Commission was the inquiry of the 1905",
+      "It was the inquiry of the 1857"
+    ],
+    "answer": 1,
+    "explanation": "The Hunter Commission of 1919-20 was the British inquiry into the Jallianwala Bagh massacre and it justified the actions of General Dyer and the government withdrew the offer of the knighthood to the general.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Khilafat' and the Ali brothers:",
+    "options": [
+      "The Ali brothers of the Khilafat Committee were the leaders of the agitation",
+      "They were the leaders of the Bardoli",
+      "They were the leaders of the 1857",
+      "They were the leaders of the Non-Cooperation in the south"
+    ],
+    "answer": 0,
+    "explanation": "The Ali brothers, the Shaukat and the Muhammad Ali, were the leaders of the Khilafat agitation and they were the first Muslim political leaders of the national scale in India.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Non-Cooperation Movement' was withdrawn in:",
+    "options": [
+      "1930 after the Civil Disobedience",
+      "1942 after the Quit India",
+      "February 1922 after the Chauri Chaura",
+      "1924 after the Kakori"
+    ],
+    "answer": 2,
+    "explanation": "The Non-Cooperation Movement was withdrawn in February 1922 after the violence at the Chauri Chaura, and the withdrawal was a decision of the Congress Working Committee in the Bardoli meeting of the Sarojini Naidu.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chauri Chaura' incident of 1922:",
+    "options": [
+      "Was the mutiny of the navy",
+      "Was the strike of the Chauri Chaura mill",
+      "Was the burning of a police station by the protesters in the Gorakhpur district",
+      "Was the massacre of the Jallianwala Bagh"
+    ],
+    "answer": 2,
+    "explanation": "The Chauri Chaura incident of 5 February 1922, in the Gorakhpur district, saw a police station burnt by the protesters and it led to the withdrawal of the Non-Cooperation Movement.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Swaraj Party' of 1923:",
+    "options": [
+      "Was formed by the C.R. Das and the Motilal Nehru after the withdrawal of the Non-Cooperation",
+      "It was the communist party",
+      "It was the Muslim League",
+      "It was the Swarajya Party of the Telugu regions"
+    ],
+    "answer": 0,
+    "explanation": "The Swaraj Party was formed in 1923 by the C.R. Das and the Motilal Nehru and it was the first party in the national politics to contest the council elections.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Simon Commission' of 1928:",
+    "options": [
+      "Had the Motilal Nehru as a member",
+      "Was chaired by an Indian",
+      "Was accepted by the Congress",
+      "Had no Indian member and was boycotted by all the parties"
+    ],
+    "answer": 3,
+    "explanation": "The Simon Commission of 1928 had seven British members and no Indian and it was boycotted by all the political parties at the Lumumba Maidan.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lahore Session' of 1929:",
+    "options": [
+      "Adopted the Non-Cooperation",
+      "Adopted the Purna Swaraj resolution",
+      "Adopted the Quit India resolution",
+      "Adopted the Cabinet Mission Plan"
+    ],
+    "answer": 1,
+    "explanation": "The Lahore session of December 1929, presided over by the Jawaharlal Nehru, adopted the Purna Swaraj resolution and it authorised the lawful and the non-violent struggle for the independence.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dandi March' of 1930:",
+    "options": [
+      "Was the march of the Bhagat Singh",
+      "Was the 240 mile walk of the Gandhi to break the salt law",
+      "Was the march of the INA",
+      "Was the march of the 1857"
+    ],
+    "answer": 1,
+    "explanation": "The Dandi March of 1930, in which the Gandhi walked about 240 miles from the Sabarmati to the Dandi, was the inauguration of the Civil Disobedience Movement and the breaking of the salt law.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Civil Disobedience Movement' was accompanied by:",
+    "options": [
+      "The violent revolt",
+      "The armed uprising",
+      "The participation in the war",
+      "The hoisting of the flag and the boycott of the foreign goods and the no-tax campaign"
+    ],
+    "answer": 3,
+    "explanation": "The Civil Disobedience Movement combined the breaking of the salt law with the no-tax campaign, the hoisting of the flag and the boycott of the foreign goods and the picketing.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gandhi-Irwin Pact' of 1931:",
+    "options": [
+      "Was the agreement between the Gandhi and the Viceroy on the Civil Disobedience",
+      "It was a pact with the Muslim League",
+      "It was about the Second World War",
+      "It was the pact of the 1942"
+    ],
+    "answer": 0,
+    "explanation": "The Gandhi-Irwin Pact of March 1931 provided for the suspension of the Civil Disobedience and the release of the political prisoners in return for the participation of the Congress in the Round Table Conference.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Poona Pact' of 1932 and the 'Ambedkar':",
+    "options": [
+      "It was about the partition of Bengal",
+      "It was about the land reforms",
+      "The Ambedkar and the Gandhi agreed to the reserved seats for the Depressed Classes in the general electorate",
+      "It was the agreement of the Second World War"
+    ],
+    "answer": 2,
+    "explanation": "The Poona Pact of 24 September 1932 between the Ambedkar and the Gandhi replaced the separate electorate for the Depressed Classes with the reserved seats within the general electorate.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Government of India Act of 1935' and the 'Federal Court':",
+    "options": [
+      "Provided for the Supreme Court in 1950",
+      "Provided for the High Courts",
+      "Provided for the district courts",
+      "Provided for the establishment of the Federal Court in 1937"
+    ],
+    "answer": 3,
+    "explanation": "The Government of India Act of 1935 provided for the establishment of the Federal Court, which was inaugurated in 1937 and which was the predecessor of the Supreme Court of India.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Quit India Resolution' of 1942 was moved by:",
+    "options": [
+      "Mahatma Gandhi",
+      "B.R. Ambedkar",
+      "V.D. Savarkar",
+      "Jawaharlal Nehru"
+    ],
+    "answer": 0,
+    "explanation": "The Quit India resolution of 8 August 1942 was moved by the Mahatma Gandhi at the Gowalia Tank Maidan in Bombay and the 'Do or Die' resolution was also adopted.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'INA' and the INA trials:",
+    "options": [
+      "The INA trials were of the princely states",
+      "The INA trials at the Red Fort in 1945-46 provoked a nationwide agitation",
+      "The INA trials were of the British",
+      "The INA trials were the election trials"
+    ],
+    "answer": 1,
+    "explanation": "The INA trials at the Red Fort provoked a huge public agitation and the RIN mutiny of February 1946 and the withdrawal of the cases by the British government.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Royal Indian Navy Mutiny' of 1946:",
+    "options": [
+      "Was the mutiny of the police in Delhi",
+      "Was the mutiny of the air force",
+      "Was the mutiny of the sailors at Bombay that followed the INA trials",
+      "Was the mutiny of the army in the NW"
+    ],
+    "answer": 2,
+    "explanation": "The Royal Indian Navy mutiny of February 1946 began at the HMIS Talwar in Bombay and it spread to the Karachi and the Bombay shore establishments.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mountbatten Plan' of 3 June 1947:",
+    "options": [
+      "Provided for the united India",
+      "Provided for the partition with the lapse of the paramountcy and the referendum for the accession of the princely states",
+      "Provided for the federation",
+      "Provided for the dominion status only"
+    ],
+    "answer": 1,
+    "explanation": "The Mountbatten Plan provided for the partition of India with the lapse of the paramountcy and the clause of the referendum for the accession of the princely states.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Independence Act, 1947':",
+    "options": [
+      "Created the provinces",
+      "Abolished the viceroy",
+      "Created the Republic",
+      "Created the two dominions with the Constituent Assemblies"
+    ],
+    "answer": 3,
+    "explanation": "The Indian Independence Act of 1947 created the two dominions of India and Pakistan from 15 August 1947 with the Constituent Assemblies of the two.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'first General Elections' of independent India were held in:",
+    "options": [
+      "1951-52",
+      "1947",
+      "1950",
+      "1955"
+    ],
+    "answer": 0,
+    "explanation": "The first general elections of independent India were held in 1951-52 in two phases and the Congress won an absolute majority with about 74 per cent of the votes.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The term 'Satyagraha' was coined by:",
+    "options": [
+      "the Nehru",
+      "the Tagore",
+      "the Gandhi in 1914 in the context of the South African struggle",
+      "the Tilak"
+    ],
+    "answer": 2,
+    "explanation": "The term 'Satyagraha' was coined by Mahatma Gandhi in 1914 during the South African struggle, where he used it for the first time on the question of the registration of Indians in the Transvaal.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Gandhi and the Jawaharlal Nehru is correct?",
+    "options": [
+      "They were identical in all the views",
+      "The Gandhi opposed the participation in the legislature",
+      "The Nehru opposed the Civil Disobedience",
+      "The Gandhi and the Jawaharlal Nehru had differences on the structure of the Congress and the methods"
+    ],
+    "answer": 3,
+    "explanation": "The Gandhi and the Jawaharlal Nehru differed on the structure of the Congress, the participation in the legislature and the timing of the mass movements, and they both agreed on the Purna Swaraj and the non-violence.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Swaraj' and the:",
+    "options": [
+      "The difference between the Swaraj and the Purna Swaraj was about the immediate objective",
+      "There was no difference",
+      "The Swaraj was for the dominion status",
+      "The Purna Swaraj was for the reform"
+    ],
+    "answer": 0,
+    "explanation": "The distinction between the Swaraj and the Purna Swaraj was about the immediate objective of the movement and the distant goal of the complete independence.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ramakrishna and the Vivekananda:",
+    "options": [
+      "It was founded by the Tagore",
+      "The Ramakrishna Mission was founded by the Vivekananda in 1897",
+      "It was founded in 1905",
+      "It was founded by the Aurobindo"
+    ],
+    "answer": 1,
+    "explanation": "The Ramakrishna Mission was founded in 1897 by the Swami Vivekananda and it works for the spiritual and the social service, and the Belur Math is its headquarters.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Seva Sangh' and the Ambedkar:",
+    "options": [
+      "It was founded by the Phule",
+      "It was founded by the Periyar",
+      "The Servants of the People Society was founded by the Ambedkar in the 1930s",
+      "It was founded in 1920"
+    ],
+    "answer": 2,
+    "explanation": "The Servants of the People Society, the Bahishkrit Hitakarini Sabha, was founded by the B.R. Ambedkar in 1933 and it published the journal Mooknayak.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Mooknayak' was:",
+    "options": [
+      "the journal of the Congress",
+      "the journal of the Muslim League",
+      "the journal of the Communists",
+      "the journal of Dr B.R. Ambedkar that was published in Marathi and English"
+    ],
+    "answer": 3,
+    "explanation": "'Mooknayak' was the journal launched by Dr B.R. Ambedkar in 1930 in Marathi and English to propagate the anti-caste ideas of the Dalits.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Poona and the:",
+    "options": [
+      "The difference was about the press",
+      "The Ambedkar and the Gandhi had the difference on the separate electorate",
+      "The Ambedkar and the Gandhi had no difference",
+      "The difference was about the boycott"
+    ],
+    "answer": 1,
+    "explanation": "The main difference between the Ambedkar and the Gandhi was on the separate electorate for the Depressed Classes and it was resolved by the Poona Pact of 1932.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jain and the:",
+    "options": [
+      "The Indian National Congress was founded in 1885 and the first session was held in Bombay with 72 delegates",
+      "It was founded in 1905",
+      "It was founded by the Gandhi",
+      "It was founded in 1857"
+    ],
+    "answer": 0,
+    "explanation": "The Indian National Congress was founded in December 1885 in Bombay with 72 delegates and the W.C. Bonnerjee was the first president.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Moderates' and the Extremists:",
+    "options": [
+      "The Moderates were the Extremists of 1907",
+      "There was no difference",
+      "The Extremists of 1907 included the Bal, the Pal and the Lajpat Rai",
+      "The Extremists were the led by the Gopal Krishna Gokhale"
+    ],
+    "answer": 2,
+    "explanation": "The Extremists of 1907, the group of the Bal, the Pal, the Lajpat Rai and the Aurobindo, advocated the swaraj, the boycott and the passive resistance.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Surat' and the:",
+    "options": [
+      "The Surat session was of 1929",
+      "The Surat session was the first session",
+      "The Surat session of 1907 led to the split of the Congress",
+      "The Surat session was of 1916"
+    ],
+    "answer": 2,
+    "explanation": "The Surat session of 1907, presided over by the Rash Behari Bose, saw the split of the Congress with the moderates and the extremists and they reunited at Calcutta in 1906... 1907.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Councils Act of 1909' and the:",
+    "options": [
+      "The Act provided for the indirect election to the legislative councils and the separate electorates for the Muslims",
+      "The Act provided for the dyarchy",
+      "The Act provided for the provincial autonomy",
+      "The Act abolished the councils"
+    ],
+    "answer": 0,
+    "explanation": "The Indian Councils Act of 1909 provided for the expansion of the legislative councils, the indirect method of the election, the wider franchise and the separate electorates for the Muslims.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Delhi Durbar' of 1911:",
+    "options": [
+      "Was a summit of the Congress",
+      "Was the coronation of the King George V in which the capital was announced to be shifted to Delhi",
+      "Was the coronation of the Edward VII",
+      "Was the coronation of the George VI"
+    ],
+    "answer": 1,
+    "explanation": "The Delhi Durbar of December 1911, the coronation of the King George V, announced the shifting of the capital to Delhi and it was the first durbar after the partition of Bengal was annulled.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Capital' and the:",
+    "options": [
+      "The capital was shifted in 1947",
+      "The capital was shifted in 1935",
+      "The capital was never shifted",
+      "The capital was shifted from Calcutta to Delhi in 1911"
+    ],
+    "answer": 3,
+    "explanation": "The capital of British India was shifted from Calcutta to Delhi in 1911 and the new Parliament House of New Delhi was designed by the Edwin Lutyens and completed in 1927.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Partition of Bengal' of 1905 was annulled in:",
+    "options": [
+      "1911",
+      "1912",
+      "1907",
+      "1906"
+    ],
+    "answer": 0,
+    "explanation": "The partition of Bengal was annulled at the Delhi Durbar of 1911 and the province of Bengal was reunited with the partition of the eastern and the western Bengal in 1912.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Home Rule' movement of 1916 was launched by:",
+    "options": [
+      "Tagore and Vivekananda",
+      "Tilak and Annie Besant",
+      "Gandhi and Nehru",
+      "Modi and Patel"
+    ],
+    "answer": 1,
+    "explanation": "The Home Rule movement was launched in April 1916 by the Bal Gangadhar Tilak and the Annie Besant and it was the first all-India political party with a permanent organisation.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Congress was reunited in:",
+    "options": [
+      "1906",
+      "1920",
+      "1930",
+      "1916 at the Lucknow session"
+    ],
+    "answer": 3,
+    "explanation": "The Congress was reunited in 1916 at the Lucknow session, which marked the beginning of a new phase with the Home Rule agitation and the Congress-League unity.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Government of India Act of 1919 separated the central and the provincial subjects and introduced:",
+    "options": [
+      "the provincial autonomy",
+      "the franchise to all",
+      "the dyarchy",
+      "the separate electorates"
+    ],
+    "answer": 2,
+    "explanation": "The Government of India Act of 1919 separated the central and the provincial subjects and it introduced the dyarchy in the provinces, and the electoral franchise was widened to about 10 per cent of the population.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 1921 Nagpur session of the Congress was:",
+    "options": [
+      "the session of the Partition",
+      "presided over by the C. Vijayaraghavachariar and it was the first with the women in the membership",
+      "presided over by the Motilal Nehru",
+      "presided over by the Gandhi"
+    ],
+    "answer": 1,
+    "explanation": "The Nagpur session of December 1921 was presided over by the C. Vijayaraghavachariar and it was the first Congress with the women in the membership and it also endorsed the Soviet Union.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kashmir Committee of the Congress was:",
+    "options": [
+      "formed in 1927",
+      "formed by the British",
+      "the committee of the partition",
+      "formed in 1931 to support the movement of the Muslim League for the independence"
+    ],
+    "answer": 3,
+    "explanation": "The Kashmir Committee of the Congress was formed in 1931 to support the demand of the Muslim League for the independence and it was an unusual instance of the Congress supporting a cause against its own interest.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Nehru Report of 1928 was:",
+    "options": [
+      "the report of the Simon Commission",
+      "the report of the Round Table Conference",
+      "the first comprehensive constitutional document of the Congress",
+      "a document of the British"
+    ],
+    "answer": 2,
+    "explanation": "The Nehru Report of 1928, prepared under the chairmanship of the Motilal Nehru, was the first comprehensive constitutional document of the Congress and it contained the fundamental rights, the provincial autonomy and the dominion status.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Muscat and the Yusufzai and the Noakhali were:",
+    "options": [
+      "the three centres of the peasant revolts in 1930",
+      "the three princely states",
+      "the three jails",
+      "the three districts of the Congress"
+    ],
+    "answer": 0,
+    "explanation": "The peasant revolts of 1930 were centred in the Muscat, the Yusufzai and the Noakhali and the raid of the police at the Peshawar was the biggest of them.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dharasana' and the Salt Satyagraha:",
+    "options": [
+      "The Dharasana raid of 1930 broke the backbone of the salt law and the Civil Disobedience",
+      "It ended the movement",
+      "It was in the Punjab",
+      "It was a victory for the British"
+    ],
+    "answer": 0,
+    "explanation": "The Dharasana raid of May 1930, where the volunteers were beaten by the police without resisting, broke the morale of the government and the Civil Disobedience spread rapidly.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Poona Pact of 1932 was:",
+    "options": [
+      "between the Congress and the League",
+      "about the salt law",
+      "between the Ambedkar and the Gandhi on the separate electorate",
+      "between the British and the Congress"
+    ],
+    "answer": 2,
+    "explanation": "The Poona Pact of 24 September 1932 between the Ambedkar and the Gandhi replaced the separate electorate with the reserved seats.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'First Round Table Conference' of 1930:",
+    "options": [
+      "Was attended by the Ambedkar as the sole Congress representative",
+      "Was held in London with the Congress boycotting it",
+      "Was held in Bombay",
+      "Was chaired by the Nehru"
+    ],
+    "answer": 1,
+    "explanation": "The First Round Table Conference of 1930 was held in London without any Congress participation, as the boycott continued after the Gandh-Irwin Pact.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "At the Second Round Table Conference of 1931, B.R. Ambedkar was:",
+    "options": [
+      "not present at the conference",
+      "the representative of the Muslim League",
+      "the representative of the British",
+      "the sole representative of the Congress"
+    ],
+    "answer": 3,
+    "explanation": "Dr B.R. Ambedkar was the sole representative of the Congress at the Second Round Table Conference in London in 1931, where he said that the British were the greatest enemies of the Indians.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "It was the longest act of the British and it provided:",
+    "options": [
+      "the shortest",
+      "for the independence",
+      "the act of 1947",
+      "for an all-India federation and the provincial autonomy"
+    ],
+    "answer": 3,
+    "explanation": "The Government of India Act of 1935, the longest act of the British Parliament on India, provided for an all-India federation and the provincial autonomy and it also created the Reserve Bank of India.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Muslim League' and the Lahore Resolution of 1940:",
+    "options": [
+      "It was about the reforms",
+      "It was about the Partition of Bengal",
+      "It demanded the separate states of the Muslims in the north-west and the east",
+      "It accepted the United India"
+    ],
+    "answer": 2,
+    "explanation": "The Lahore Resolution of 1940, passed at the annual session of the Muslim League, demanded the independent Muslim states in the north-west and the east and it is a turning point of the partition.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Two-Nation Theory' was propounded by:",
+    "options": [
+      "Muhammad Iqbal",
+      "Abul Kalam Azad",
+      "Maulana Abul Kalam",
+      "Muhammad Ali Jinnah"
+    ],
+    "answer": 0,
+    "explanation": "The Two-Nation Theory was propounded by the Muhammad Iqbal in his 1930 Allahabad address and it was elaborated by the Jinnah in the Lahore Resolution of 1940.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cripps Mission' of 1942:",
+    "options": [
+      "Was the mission of the Cripps of the British cabinet",
+      "Proposed the dominion status and the constitution-making body after the war",
+      "Proposed the complete independence",
+      "Was the last attempt of the British"
+    ],
+    "answer": 1,
+    "explanation": "The Cripps Mission of March 1942 proposed the dominion status after the war and the constitution-making body with the majority of the Indian members, and it failed because of the Muslim League's objection and the insistence on the Pakistan.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'August Offer' of 1940:",
+    "options": [
+      "It was the offer of the partition",
+      "It was the offer of the home rule",
+      "Was the offer of the British to the Congress to join the war with the dominion status and the expansion of the council",
+      "It was the offer of the Muslim League"
+    ],
+    "answer": 2,
+    "explanation": "The August Offer of 1940 was the offer of the British to the Congress to join the Second World War with the dominion status and the expansion of the Governor's Council and the recognition of the Indians.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Individual Satyagraha' of 1940:",
+    "options": [
+      "It was the movement of the INA",
+      "Was the limited protest of the individuals that the Gandhi advised against the joining of the war",
+      "It was the mass movement",
+      "It was the peasant revolt"
+    ],
+    "answer": 1,
+    "explanation": "The Individual Satyagraha, limited to the individuals, was the response of the Gandhi to the Second World War and he advised the people to protest individually against it.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Forward Bloc?",
+    "options": [
+      "It was formed in 1942",
+      "It was a communist formation",
+      "It was the INA",
+      "The Forward Bloc was formed by the Bose in 1939 at the Tripuri session"
+    ],
+    "answer": 3,
+    "explanation": "The Forward Bloc was formed by the Subhash Chandra Bose at the Tripuri session of the Congress in 1939 and the Bose was elected the president over the Gandhian opposition.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tripuri Session' of the Congress in 1939:",
+    "options": [
+      "The Subhash Chandra Bose was elected the president and the Gandhians opposed it",
+      "The Gandhiji was elected",
+      "The session was cancelled",
+      "The Bose was defeated and left the Congress"
+    ],
+    "answer": 0,
+    "explanation": "At the Tripuri session of 1939 the Subhash Chandra Bose was elected the president of the Congress against the wishes of the Gandhian leadership and he formed the Forward Bloc.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'INA' and the Rash Behari Bose:",
+    "options": [
+      "The Rash Behari Bose founded the Forward Bloc",
+      "The Rash Behari Bose was the Congress president",
+      "The Rash Behari Bose was a British officer",
+      "The Rash Behari Bose, the Subhash Chandra Bose and the the others founded the INA"
+    ],
+    "answer": 3,
+    "explanation": "The Rash Behari Bose, the Subhash Chandra Bose and the other leaders of the Indian independence movement abroad founded the Indian National Army in the Second World War.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Azad Hind Government was:",
+    "options": [
+      "proclaimed in Singapore in October 1943 with the Subhash Chandra Bose as the premier",
+      "proclaimed in Kabul in 1942",
+      "proclaimed in Berlin in 1945",
+      "proclaimed in Tokyo in 1941"
+    ],
+    "answer": 0,
+    "explanation": "The Azad Hind Government was proclaimed in Singapore on 21 October 1943 with the Subhash Chandra Bose as the premier and it had a woman in the cabinet, the Lakshmi Sahgal.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Cabinet Mission?",
+    "options": [
+      "It accepted the Pakistan demand",
+      "The Cabinet Mission arrived in March 1946 and rejected the Pakistan demand",
+      "It arrived in 1945",
+      "It was a British military mission"
+    ],
+    "answer": 1,
+    "explanation": "The Cabinet Mission arrived in India in March 1946, rejected the demand of Pakistan and proposed the three-tier federation with the grouping of the provinces.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Cripps Mission offered is correct?",
+    "options": [
+      "It was the mission of 1939",
+      "It was the mission of the Round Table",
+      "The Cripps Mission offered the dominion status with the constitution-making body after the war",
+      "It offered the complete independence"
+    ],
+    "answer": 2,
+    "explanation": "The Cripps Mission of 1942 offered the dominion status and the constitution-making body after the war and it was the last attempt of the British to keep India within the Empire.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Radcliffe Boundary Commission divided the Punjab and the Bengal and it took:",
+    "options": [
+      "done by the Jinnah and the Nehru",
+      "about five months",
+      "the work of the Cabinet Mission",
+      "one year"
+    ],
+    "answer": 1,
+    "explanation": "The Radcliffe Boundary Commission, chaired by the Cyril Radcliffe, divided the Punjab and the Bengal and it published its award on 17 August 1947, about five months after it was set up.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The first Indian troops to reach the Pakistani border were:",
+    "options": [
+      "from Bengal",
+      "no troops",
+      "the troops of the NW Frontier Province",
+      "from the Punjab"
+    ],
+    "answer": 2,
+    "explanation": "The first Indian troops to reach the Pakistani border were from the North-West Frontier Province and the massive crowd at the border was the first major confrontation between the two armies.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Hyderabad was:",
+    "options": [
+      "integrated in 1947",
+      "never integrated",
+      "integrated in 1950",
+      "integrated into the Indian Union in 1948 after the Operation Polo"
+    ],
+    "answer": 3,
+    "explanation": "The Hyderabad was integrated into the Indian Union in 1948 after the Operation Polo, and the Junagadh was integrated in the same year after the referendum.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Operation Polo, which of the following is correct?",
+    "options": [
+      "The Operation Polo was the code name of the military action against the Nizam of Hyderabad in 1948",
+      "It was the code name of the Kashmir operation",
+      "It was the code name of the Goa liberation",
+      "It was the code name of the Pokhran test"
+    ],
+    "answer": 0,
+    "explanation": "The Operation Polo of September 1948 was the code name of the military action that secured the state of Hyderabad and it was one of the most successful of the Sardar Patel's integration efforts.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The States Reorganisation Act of 1956 was:",
+    "options": [
+      "based on the Sarkar Commission",
+      "based on the Balwant Rai Mehta Commission",
+      "based on the Fazl Ali Commission and it was an amendment of Articles 1 and 3",
+      "based on the Kothari Commission"
+    ],
+    "answer": 2,
+    "explanation": "The States Reorganisation Act of 1956 amended Articles 1 and 3 and the Fourth and the Sixth Schedules to give effect to the linguistic reorganisation on the basis of the Fazl Ali Commission's recommendations.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The referendum of 1973 in Sikkim was:",
+    "options": [
+      "a state in 1987",
+      "against the monarchy and it was made a state in 1975",
+      "for the monarchy",
+      "never in India"
+    ],
+    "answer": 1,
+    "explanation": "The referendum of 1973 in Sikkim was against the monarchy and it became the 22nd state of the Indian Union in 1975.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'North-Eastern Areas (Reorganisation) Act, 1971' provided for:",
+    "options": [
+      "The creation of the state of Sikkim",
+      "The creation of the state of Goa",
+      "The creation of the state of Punjab",
+      "The creation of the states of Meghalaya, Manipur, Tripura, Arunachal Pradesh, Mizoram and Nagaland"
+    ],
+    "answer": 3,
+    "explanation": "The North-Eastern Areas (Reorganisation) Act of 1971 provided for the creation of the eight states and the union territories of the North-East, with the states of Meghalaya, Manipur, Tripura, Arunachal Pradesh, Mizoram and Nagaland.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Goa is correct?",
+    "options": [
+      "Goa was liberated on 18 December 1961 by the Indian forces and the Operation Vijay was the code name",
+      "It was liberated in 1947",
+      "It was liberated in 1963",
+      "It was never Portuguese"
+    ],
+    "answer": 0,
+    "explanation": "Goa was liberated from the Portuguese on 18 December 1961 in the Operation Vijay and the day is commemorated as the Goa Liberation Day.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The abolition of the zamindari was:",
+    "options": [
+      "the first land reform legislation of the free India",
+      "the first in 1955",
+      "never enacted",
+      "only in Kerala"
+    ],
+    "answer": 0,
+    "explanation": "The abolition of the zamindari in West Bengal was the first land reform legislation of the free India, and the other states followed with the abolition of the ryotwari and the jagirdari systems.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Second Five Year Plan (1956-61) was:",
+    "options": [
+      "based on the Fisher and the Turgot model",
+      "based on the Mahalanobis model with the emphasis on the heavy industries",
+      "based on the agriculture",
+      "based on the Kadarpur model"
+    ],
+    "answer": 1,
+    "explanation": "The Second Five Year Plan of 1956-61, based on the P.C. Mahalanobis model, had the emphasis on the development of the heavy industries and it is sometimes called the 'Mahalanobis Plan'.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Third Five Year Plan (1961-66) was:",
+    "options": [
+      "the heavy industry plan",
+      "the infrastructure plan",
+      "the export plan",
+      "a 'Garibi Hatao' plan with the emphasis on the agriculture and the family planning"
+    ],
+    "answer": 3,
+    "explanation": "The Third Five Year Plan of 1961-66, drafted largely by the D.R. Gadgil, was the 'Garibi Hatao' plan with the emphasis on the agriculture, the employment and the family planning and the modernising of the agriculture.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The First Five Year Plan (1951-56) was:",
+    "options": [
+      "the Sarvodaya plan",
+      "based on the Pokrovsky model",
+      "based on the Gadgil Yojana with the emphasis on the agriculture and the irrigation",
+      "based on the heavy industry"
+    ],
+    "answer": 2,
+    "explanation": "The First Five Year Plan of 1951-56, based on the Gadgil Yojana, had the emphasis on the agriculture, the irrigation and the power and it was a model of the balanced regional development.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Seventh Five Year Plan' (1985-90):",
+    "options": [
+      "It was the plan of the fiscal consolidation",
+      "Was the plan with the emphasis on the agriculture and the rural development with the technological upgradation",
+      "It was the heavy industry plan",
+      "It was the export plan"
+    ],
+    "answer": 1,
+    "explanation": "The Seventh Five Year Plan of 1985-90 had the emphasis on the agriculture and the rural development, the technological upgradation and the growth of the foodgrains at 4 to 5 per cent a year.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Eighth Five Year Plan' (1992-97):",
+    "options": [
+      "Was the 'Employment Plan' with the emphasis on the growth of the employment",
+      "It was the agriculture plan",
+      "It was the heavy industry plan",
+      "It was the export plan"
+    ],
+    "answer": 0,
+    "explanation": "The Eighth Five Year Plan of 1992-97 was the 'Employment Plan' with the objective of the generating of more employment through the growth of the industrial and the service sectors.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ninth Five Year Plan' (1997-2002):",
+    "options": [
+      "It was the employment plan",
+      "It was the agriculture plan",
+      "It was the export plan",
+      "Was the 'Backward Regions' plan with the emphasis on the development of the backward areas and the human resources"
+    ],
+    "answer": 3,
+    "explanation": "The Ninth Five Year Plan of 1997-2002 was the 'Backward Regions' plan with the emphasis on the development of the backward areas with the aim of the reduction of the regional disparities.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tenth Five Year Plan' (2002-07):",
+    "options": [
+      "It was the employment plan",
+      "It was the heavy industry plan",
+      "Was the plan with the emphasis on the faster growth and the employment and the reduction of the poverty with the targets of the 8 per cent growth",
+      "It was the backward regions plan"
+    ],
+    "answer": 2,
+    "explanation": "The Tenth Five Year Plan of 2002-07 had the aim of a faster growth and the reduction of the poverty with the targets of the 8 to 10 per cent growth and the reduction of the poverty ratio.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Twelfth Five Year Plan' (2012-17):",
+    "options": [
+      "It was the agriculture plan",
+      "It was the heavy industry plan",
+      "It was the export plan",
+      "Had the targets of the 8.5 per cent growth and the reduction of the poverty and the health and the education and the jobs"
+    ],
+    "answer": 3,
+    "explanation": "The Twelfth Five Year Plan of 2012-17 had the targets of the 8.5 per cent growth with the emphasis on the health, the education, the jobs and the reduction of the poverty.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the first successful in the wheat is correct?",
+    "options": [
+      "first successful in the millets of Rajasthan",
+      "first successful in the maize of Karnataka",
+      "first successful in the wheat and the rice in the Punjab and the Haryana",
+      "first successful in the rice of Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "The Green Revolution was first successful in the wheat and the rice of the Punjab and the Haryana, and the M.S. Swaminathan led the effort with the Norman Borlaug varieties.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The White Revolution was:",
+    "options": [
+      "the effort to increase the fish",
+      "the effort to increase the milk production and the Operation Flood was the largest milk cooperative project",
+      "the effort to increase the wheat",
+      "the effort to increase the eggs"
+    ],
+    "answer": 1,
+    "explanation": "The White Revolution was the effort to increase the milk production and the Operation Flood, the world's largest milk cooperative project, was its most famous component.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Narasimha Rao?",
+    "options": [
+      "The 1991 reforms under the P.V. Narasimha Rao dismantled the licence Raj and the 1991 crisis forced the reforms",
+      "The reforms were of 1980",
+      "The reforms were of 1998",
+      "The reforms were planned in 1985"
+    ],
+    "answer": 0,
+    "explanation": "The 1991 reforms under the Prime Minister P.V. Narasimha Rao, with the Finance Minister Manmohan Singh, dismantled the licence Raj in response to the crisis of 1991.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Manmohan Singh was:",
+    "options": [
+      "the Finance Minister from 1998",
+      "the Governor of the RBI",
+      "the Chief Economic Adviser",
+      "the Finance Minister of the 1991 reforms and the later Prime Minister from 2004"
+    ],
+    "answer": 3,
+    "explanation": "The Manmohan Singh was the Finance Minister who announced the 1991 reforms and he later served as the Prime Minister from 2004 to 2014.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the 1991 reforms is correct?",
+    "options": [
+      "The trade was restricted",
+      "The rupee was devalued and the tariff was reduced and the delicensing of the industries and the opening of the FDI",
+      "The rupee was appreciated and the tariffs were raised",
+      "The industries were nationalised"
+    ],
+    "answer": 1,
+    "explanation": "The 1991 reforms devalued the rupee, reduced the tariffs, delicensed the industries, opened the foreign investment and reduced the scope of the public sector through the disinvestment.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The New Industrial Policy of 1991 was:",
+    "options": [
+      "announced on 24 July 1991",
+      "announced on 26 January 1991",
+      "announced in 1985",
+      "announced on 15 August 1991"
+    ],
+    "answer": 0,
+    "explanation": "The New Industrial Policy was announced on 24 July 1991 and it was a statement of the industrial policy of the government and it announced the delicensing, the foreign investment and the public sector policy.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The first disinvestment of the government was in 1991-92 and the 1992-93 budget gave:",
+    "options": [
+      "no disinvestment",
+      "in 2000",
+      "the target of the disinvestment of the 25 per cent of the PSUs",
+      "in 1975"
+    ],
+    "answer": 2,
+    "explanation": "The disinvestment process began in 1991-92 and the 1992-93 budget of the P.V. Narasimha Rao with the Manmohan Singh set the target of the disinvestment of the 25 per cent of the PSUs.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Nepal is correct?",
+    "options": [
+      "Nepal became a sovereign democratic republic in 2008 after the abolition of the monarchy",
+      "It became a republic in 1990",
+      "It is a constitutional monarchy",
+      "It became a republic in 1959"
+    ],
+    "answer": 0,
+    "explanation": "Nepal became a sovereign democratic republic on 28 May 2008 with the abolition of the monarchy and it was the first of the Hindu kingdoms to become a republic.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Bangladesh became:",
+    "options": [
+      "independent in 1947",
+      "independent in 1975",
+      "the president",
+      "independent in 1971 and the Sheikh Mujibur Rahman was the first prime minister"
+    ],
+    "answer": 3,
+    "explanation": "Bangladesh became independent on 16 December 1971 after the war and the Sheikh Mujibur Rahman was its first prime minister and he is the Father of the Nation.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Sri Lanka?",
+    "options": [
+      "It became a republic in 1988",
+      "Sri Lanka became a republic in 1972 with the abolition of the monarchy",
+      "It became a republic in 1948",
+      "It is a constitutional monarchy"
+    ],
+    "answer": 1,
+    "explanation": "Sri Lanka became a republic in 1972 with the abolition of the Westminster system and the state of emergency is still in force in the country.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The SAARC was founded in 1985 and the South Asian Preferential Trade Agreement (SAPTA) was signed:",
+    "options": [
+      "founded in 1975",
+      "no SAARC",
+      "in 1995",
+      "founded in 1995"
+    ],
+    "answer": 2,
+    "explanation": "The SAARC was founded in 1985 and the SAPTA, the South Asian Preferential Trade Agreement, was signed in 1995 and it came into force in 1996.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Non-Aligned Movement, which of the following is correct?",
+    "options": [
+      "The NAM is a forum of the more than 120 countries that are not formally aligned with any of the major power blocs",
+      "It is a military alliance",
+      "It is a trade bloc",
+      "It is a party"
+    ],
+    "answer": 0,
+    "explanation": "The Non-Aligned Movement is a forum of the more than 120 countries that are not formally aligned with any of the major power blocs and it was the largest of the three at the Bandung of 1955.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Commonwealth is:",
+    "options": [
+      "created by the India Act",
+      "a voluntary association of the 56 states and the modern form was created by the London Declaration of 1949",
+      "created in 1931 with the Balfour Declaration",
+      "a trade union"
+    ],
+    "answer": 1,
+    "explanation": "The modern Commonwealth was created by the London Declaration of 1949 and it is a voluntary association of the sovereign states with the head of the Commonwealth being the British monarch.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Ceylon?",
+    "options": [
+      "It was renamed in 1948",
+      "It was renamed in 1971",
+      "It was renamed in 1975",
+      "Ceylon was renamed Sri Lanka in 1972"
+    ],
+    "answer": 3,
+    "explanation": "Ceylon was renamed Sri Lanka in 1972 and the name was chosen from the Sanskrit word for the island.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bandipur National Park is in Karnataka and the Project Tiger started:",
+    "options": [
+      "in 1975",
+      "in Tamil Nadu",
+      "in 1973",
+      "in Kerala"
+    ],
+    "answer": 2,
+    "explanation": "The Bandipur National Park is in Karnataka and the Project Tiger was launched in 1973 with the nine reserves including the Corbett, the Manas, the Sunderbans and the Similipal.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Project Tiger was:",
+    "options": [
+      "launched in 1973 and the tigers were protected with the ban on the hunting and the habitat conservation",
+      "launched in 1983",
+      "a programme of the elephants",
+      "a programme of the lions"
+    ],
+    "answer": 0,
+    "explanation": "The Project Tiger of 1973 combined the ban on the hunting, the protection of the habitats and the relocation of the villages from the core zones.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mother India was:",
+    "options": [
+      "declared in 1972",
+      "no such declaration",
+      "declared the national mother in 1950 and the National War Memorial was at the Rajpath",
+      "declared in 1947"
+    ],
+    "answer": 2,
+    "explanation": "The Mother India was declared the national mother in 1950 and the National War Memorial at the Rajpath in Delhi commemorates the fallen soldiers of the wars.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Planning Commission' and the 1950:",
+    "options": [
+      "It was set up in 1960",
+      "The Planning Commission was set up in March 1950 by a resolution of the Cabinet",
+      "It was set up in 1951",
+      "It was set up in 1947"
+    ],
+    "answer": 1,
+    "explanation": "The Planning Commission was established in March 1950 by a resolution of the Cabinet and it was an extra-constitutional body that was chaired by the Prime Minister.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Fazl Ali Commission had the three members and it was:",
+    "options": [
+      "5 members",
+      "the Sarkar Commission",
+      "the Kothari Commission",
+      "the first commission to recommend the linguistic reorganisation"
+    ],
+    "answer": 3,
+    "explanation": "The States Reorganisation Commission, the Fazl Ali Commission, had three members, the Fazl Ali, the K.M. Panikkar and the H.N. Kunzru, and it submitted its report in 1956.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the enacted on 1 November 1956 is correct?",
+    "options": [
+      "enacted on 1 November 1956",
+      "enacted on 1 April 1957",
+      "enacted on 15 August 1956",
+      "enacted in 1953"
+    ],
+    "answer": 0,
+    "explanation": "The States Reorganisation Act of 1956 came into force on 1 November 1956 and it created the states of the linguistic basis with the exception of the Punjab, the Bengal and the Assam.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Chandigarh is:",
+    "options": [
+      "the capital of the Haryana only",
+      "the capital of the Himachal Pradesh",
+      "the joint capital of the Punjab and the Haryana and the Le Corbusier and the Pierre Jeanneret designed it",
+      "the capital of the Punjab only"
+    ],
+    "answer": 2,
+    "explanation": "The Chandigarh is the joint capital of the Punjab and the Haryana and the city was designed by the Le Corbusier and it was the Pierre Jeanneret.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Hyderabad?",
+    "options": [
+      "The Hyderabad was the capital of the Asaf Jahi dynasty only after 1947",
+      "The Hyderabad was the capital of the Nizams and the Charminar is its emblem",
+      "The Hyderabad was the capital of the Nizams and the Golconda is its emblem",
+      "The Hyderabad was a Portuguese city"
+    ],
+    "answer": 1,
+    "explanation": "The Hyderabad was the capital of the Nizams of the Asaf Jahi dynasty and the Charminar is its emblem, while the Golconda is the fort of the Qutb Shahi.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Daman and Diu were:",
+    "options": [
+      "merged with the Goa in 1987",
+      "merged with the Gujarat in 1960",
+      "never Portuguese",
+      "the Portuguese territories that were merged with the Dadra and Nagar Haveli in 2020"
+    ],
+    "answer": 3,
+    "explanation": "The Daman and Diu, the former Portuguese territories, were merged with the Dadra and Nagar Haveli in 2020 to form the new Union Territory.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mizoram became:",
+    "options": [
+      "formed from the NEFA",
+      "the 25th state",
+      "a state in 1987 and it was formed from the Lushai Hills",
+      "a state in 1972"
+    ],
+    "answer": 2,
+    "explanation": "The Mizoram became the 23rd state of the Indian Union in 1987 and it was formed out of the Lushai Hills of the former NEFA after the Mizo Accord.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Nagaland became:",
+    "options": [
+      "formed in 1972",
+      "the first state of India on the tribal basis",
+      "formed in 1987",
+      "a state in 1963 and it was the first state of the North-East to be formed on the tribal basis"
+    ],
+    "answer": 3,
+    "explanation": "The Nagaland was the first state of the North-East to be formed on the tribal basis, in 1963, and it was the result of the Naga People's Convention of 1957.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Northeast was:",
+    "options": [
+      "the focus of the 1991 reforms",
+      "the most neglected region and the M.S. Swaminathan and the P.N. Haksar and the Kartar Singh commission recommended the special attention",
+      "the richest region",
+      "free of the ethnic issues"
+    ],
+    "answer": 1,
+    "explanation": "The Northeast was the most neglected region of India and the M.S. Swaminathan, the P.N. Haksar and the Kartar Singh commission recommended the special attention to it.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Ladakh became a Union Territory in 2019 and it was:",
+    "options": [
+      "Ladakh became a Union Territory in 2019 and it was a part of the erstwhile Jammu and Kashmir",
+      "It was a part of the Punjab",
+      "It was a state before 2019",
+      "It was a part of the Himachal Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "Ladakh became a Union Territory in 2019 along with Jammu and Kashmir, and the buddhist culture and the sparse population are the features of the region.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Article 370 and the Article 35A were:",
+    "options": [
+      "the provisions of the Panchayati Raj",
+      "the provisions of the land reforms",
+      "the special provisions of the erstwhile state",
+      "the provisions of the Emergency"
+    ],
+    "answer": 2,
+    "explanation": "The Article 370 and the Article 35A were the special provisions of the erstwhile state of Jammu and Kashmir that provided the exceptional status and the residency rights.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Indian States is correct?",
+    "options": [
+      "There were 562 princely states and 9 Part A and Part B and Part C states at the time of the independence",
+      "There were 500 princely states",
+      "There were 300 princely states",
+      "There were no princely states"
+    ],
+    "answer": 0,
+    "explanation": "At the time of the independence there were 562 princely states, of which the nine Part A states were the given the status of the governor's provinces and the Part B states were the given the status of the princely states.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 1951 Census was:",
+    "options": [
+      "the first after the independence and it was in 1952",
+      "no census in 1951",
+      "conducted by the British",
+      "the first census of the independent India and the 2021 was delayed by the Covid"
+    ],
+    "answer": 3,
+    "explanation": "The 1951 Census was the first census of independent India and the 2021 Census was delayed by the Covid pandemic and the new enumeration was in 2022.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Census in India is:",
+    "options": [
+      "conducted by the CSO",
+      "conducted by the Office of the Registrar General and Census Commissioner under the Home Ministry",
+      "conducted by the NITI Aayog",
+      "conducted by the Finance Commission"
+    ],
+    "answer": 1,
+    "explanation": "The Census is conducted by the Office of the Registrar General and Census Commissioner under the Ministry of Home Affairs and the Registrar General is the Chief Election Commissioner as well.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the National Income is correct?",
+    "options": [
+      "The planning was abolished in 1975",
+      "The Planning Commission is still the apex body of the planning",
+      "The NITI Aayog allocates the plan funds",
+      "The planning in India was abolished in 1991 and the NITI Aayog replaced the Planning Commission in 2015"
+    ],
+    "answer": 3,
+    "explanation": "The planning was abolished with the 1991 reforms and the NITI Aayog replaced the Planning Commission in 2015 without the allocation of the plan funds.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Constitution was enacted on 26 November 1949 and it came:",
+    "options": [
+      "into force on 26 January 1950",
+      "enacted on 26 January 1950",
+      "into force on 15 August 1947",
+      "enacted in 1956"
+    ],
+    "answer": 0,
+    "explanation": "The Constitution was enacted, signed and promulgated on 26 November 1949 and it came into force on 26 January 1950, the Republic Day.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Supreme Court of India was:",
+    "options": [
+      "inaugurated on 26 November 1949",
+      "inaugurated in 1937",
+      "inaugurated on 28 January 1950",
+      "inaugurated on 26 January 1950"
+    ],
+    "answer": 2,
+    "explanation": "The Supreme Court of India was inaugurated on 28 January 1950, two days after the Constitution came into force, and it succeeded the Federal Court of India.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Republic Day' parade and the:",
+    "options": [
+      "There was no parade in 1950",
+      "The Republic Day parade was first held in 1950 and the first Republic Day in 1950 was the only one with the President in an elephant howdah",
+      "The first parade was in 1947",
+      "The parade was first held in 1955"
+    ],
+    "answer": 1,
+    "explanation": "The Republic Day parade was first held in 1950 and the only Republic Day parade with the President riding an elephant was the first one of 1950.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bhopal gas tragedy of 1984 was:",
+    "options": [
+      "the methyl isocyanate gas leak from the Union Carbide plant",
+      "a nuclear accident",
+      "a flood",
+      "an earthquake"
+    ],
+    "answer": 0,
+    "explanation": "The Bhopal gas tragedy of December 1984, the methyl isocyanate gas leak from the Union Carbide pesticide plant, killed thousands and it remains the worst industrial disaster in India.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Pokhran-II of 1998 was:",
+    "options": [
+      "of 1974",
+      "the series of the five nuclear tests and it was the first after the 1974",
+      "the first nuclear test of India",
+      "the first after the 1998 tests"
+    ],
+    "answer": 1,
+    "explanation": "The Pokhran-II of May 1998 was the series of the five nuclear tests, including the thermonuclear device, and it was the first after the Smiling Buddha of 1974.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Nuclear, which of the following is correct?",
+    "options": [
+      "India has the policy of the first use",
+      "India has a nuclear weapons free policy",
+      "The India was a founder member of the Non-Aligned Movement and it has a nuclear doctrine of the no first use and the credible minimum deterrence",
+      "India has no nuclear doctrine"
+    ],
+    "answer": 2,
+    "explanation": "India has a nuclear doctrine of the no first use and the credible minimum deterrence and it is a founder member of the Non-Aligned Movement, and it is also a member of the Nuclear Suppliers Group.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the NPT, which of the following is correct?",
+    "options": [
+      "India is a signatory to the NPT",
+      "India ratified the NPT in 1998",
+      "India is a non-nuclear state",
+      "India is a nuclear capable state outside the NPT and it maintains a self-imposed moratorium on the tests"
+    ],
+    "answer": 3,
+    "explanation": "India has never signed the NPT and it maintains a self-imposed moratorium on the nuclear tests, and it is a nuclear capable state in the eyes of the international community.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Indian space is correct?",
+    "options": [
+      "The ISRO was founded in 1957",
+      "The Aryabhata was in 1975 and the ISRO in 1969",
+      "The ISRO was founded in 1972",
+      "The ISRO was founded in 1969 and the Aryabhata was the first satellite in 1975"
+    ],
+    "answer": 3,
+    "explanation": "The ISRO was founded in August 1969 and the Aryabhata, the first Indian satellite, was launched in 1975 and the first Indian launch vehicle, the SLV-3, put the Rohan in the orbit in 1987.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mars Orbiter Mission was:",
+    "options": [
+      "launched in 2013 and it made India the first country to reach Mars on the first attempt and the cheapest",
+      "launched in 2014",
+      "the first Indian mission of the Moon",
+      "the first to land on the Venus"
+    ],
+    "answer": 0,
+    "explanation": "The Mars Orbiter Mission, launched in November 2013, made India the first country to reach Mars on the first attempt with the cost of about Rs. 450 crore, lower than any other.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Operation White Hat was:",
+    "options": [
+      "a border operation",
+      "the 1971 war operation",
+      "the cyber security operation of the Indian Army to cleanse the networks of the ISI malware from the public systems",
+      "a space mission"
+    ],
+    "answer": 2,
+    "explanation": "The Operation White Hat of September 2017 was the cyber security operation of the Indian Army to cleanse the public systems of the malware that was traced to the ISI.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Surgical Strike' of 2019:",
+    "options": [
+      "It was in the Northeast",
+      "Was the Indian Air Force strike on the Jaish-e-Mohammed training camp in Balakot in the Pakistan administered Kashmir",
+      "It was a strike on the N Valentines in the Bangladesh",
+      "It was a naval strike"
+    ],
+    "answer": 1,
+    "explanation": "The Indian Air Force strike of February 2019 on the Jaish-e-Mohammed training camp at Balakot in the Pakistan administered Kashmir followed the Pulwama attack.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Galwan' and the 2020:",
+    "options": [
+      "The Galwan clash of June 2020 was the first India-China face to face confrontation in 45 years",
+      "It was the first war between the two",
+      "It was in the Sikkim",
+      "It was the 1971 war"
+    ],
+    "answer": 0,
+    "explanation": "The Galwan Valley clash of 15 June 2020 was the first face to face confrontation between the Indian and the Chinese soldiers in 45 years and it involved a physical clash with the casualties on both the sides.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Article 370 was:",
+    "options": [
+      "never abrogated",
+      "abrogated in August 2019 and the statehood was restored in 2024",
+      "abrogated in 1950",
+      "abrogated in 2017"
+    ],
+    "answer": 1,
+    "explanation": "The Article 370 was abrogated in August 2019 and the Supreme Court upheld it in December 2023 and the statehood of Jammu and Kashmir was restored with the assembly elections of 2024.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 1991 crisis was:",
+    "options": [
+      "caused by the flood in 1991",
+      "caused by the oil shock alone",
+      "caused by the political crisis",
+      "triggered by the fiscal deficit, the balance of payments crisis and the declining growth and the reserves"
+    ],
+    "answer": 3,
+    "explanation": "The 1991 crisis was a combination of the fiscal deficit of about 8.9 per cent of the GDP, the balance of payments crisis, the low growth of about 1 per cent and the declining reserves of about two weeks of the imports.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Waterway 1 is:",
+    "options": [
+      "the Kaveri",
+      "the Ganga",
+      "the Ganga and the National Waterway 3 is the West Coast Canal and the National Waterway 2 is the Brahmaputra",
+      "the Brahmaputra"
+    ],
+    "answer": 2,
+    "explanation": "The National Waterway 1 is the Ganga between Haldia and Allahabad, the National Waterway 2 is the Brahmaputra between Sadiya and Dhubri and the National Waterway 3 is the West Coast Canal.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The Sagarmala is correct?",
+    "options": [
+      "They are the industrial corridor projects",
+      "The Sagarmala is the port-led logistics programme and the PM Gati Shakti is the master plan with the 14 sectors",
+      "The Sagarmala is the highway project and the Gati Shakti is the ports project",
+      "They are the same"
+    ],
+    "answer": 1,
+    "explanation": "The Sagarmala is the port-led logistics development programme and the PM Gati Shakti National Master Plan has the 14 sectors and the 20 key corridors.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Make in India was launched:",
+    "options": [
+      "only the agriculture",
+      "a state scheme",
+      "in 2014 and the 14 PLI sectors with the 1.97 lakh crore outlay are its main vehicles",
+      "in 1991"
+    ],
+    "answer": 2,
+    "explanation": "The Make in India of 2014 is implemented through the 14 PLI sectors with an outlay of about Rs. 1.97 lakh crore and the 32 industrial corridors.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Startup India' and the 2016:",
+    "options": [
+      "The Startup India was launched in 2016 with the 16+100 recognition and the funds of over Rs. 10,000 crore",
+      "It was launched in 2011",
+      "It was launched in 2018",
+      "It is a state scheme"
+    ],
+    "answer": 0,
+    "explanation": "The Startup India was launched in January 2016 with the recognition of the startups, the 16+100 programme and the funds of over Rs. 10,000 crore for the incubation and the seed.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The NITI Aayog has:",
+    "options": [
+      "a two-tier structure",
+      "only the national level",
+      "a ministry",
+      "the three-tier structure of the national, the state and the district"
+    ],
+    "answer": 3,
+    "explanation": "The NITI Aayog has the three-tier structure of the national, the state and the district and it has the special emphasis on the districts as the units of the planning.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The RBI was nationalised in 1949 and the RBI Act of 1934 created:",
+    "options": [
+      "nationalised in 1934",
+      "nationalised in 1947",
+      "nationalised in 1935",
+      "it"
+    ],
+    "answer": 3,
+    "explanation": "The Reserve Bank of India was nationalised in 1949 with the RBI Act of 1934, which provided for its constitution and it was the successor of the Imperial Bank of India.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Insurance?",
+    "options": [
+      "It was set up in 1991",
+      "The life insurance was nationalised in 1999",
+      "The IRDAI was set up in 1999 and the life insurance was nationalised in 1956",
+      "It was set up in 1947"
+    ],
+    "answer": 2,
+    "explanation": "The life insurance was nationalised in 1956 with the creation of the LIC and the IRDAI was set up in 1999 to regulate the insurance sector.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The bank nationalisation of 1969 was:",
+    "options": [
+      "of 5 banks",
+      "of the 14 banks with the deposits of over Rs. 50 lakh",
+      "of 8 banks",
+      "of 22 banks"
+    ],
+    "answer": 1,
+    "explanation": "The bank nationalisation of 1969 covered the 14 banks with the deposits of over Rs. 50 lakh, the Imperial Bank was nationalised in 1955 and the SBI was formed in 1955 as the Imperial Bank of India.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The LIC was created:",
+    "options": [
+      "in 1956 and the general insurance was nationalised in 1972",
+      "in 1947",
+      "nationalised in 1955",
+      "in 1972"
+    ],
+    "answer": 0,
+    "explanation": "The Life Insurance Corporation was created in 1956 and the General Insurance was nationalised in 1972 with the establishment of the GIC.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The cooperative movement in India was strengthened by:",
+    "options": [
+      "The Finance Commission in 1961",
+      "The Indian Cooperative Union founded in 1929 and the National Cooperative Development Corporation",
+      "The Reserve Bank of India in 1955",
+      "The Planning Commission in 1950"
+    ],
+    "answer": 1,
+    "explanation": "The Indian Cooperative Union, founded in 1929, and the National Cooperative Development Corporation of 1962 are the apex institutions of the cooperative movement, and the cooperatives are the largest distribution network in the rural India.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

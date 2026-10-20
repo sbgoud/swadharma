@@ -1,0 +1,3122 @@
+[
+  {
+    "q": "The 'Human Development Index' for India in the 2021-22 Human Development Report was based on the data of the year:",
+    "options": [
+      "2021",
+      "2019",
+      "2022",
+      "2020"
+    ],
+    "answer": 1,
+    "explanation": "The Human Development Report 2021-22, released in March 2022, used the 2019 data for the human development index because of the pandemic related data gaps.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "UNDP Human Development Report 2021-22",
+    "year": 2022
+  },
+  {
+    "q": "The 'Global Hunger Index' 2022 placed India in the rank of:",
+    "options": [
+      "131st",
+      "107th",
+      "104th",
+      "120th"
+    ],
+    "answer": 0,
+    "explanation": "In the Global Hunger Index 2022 India was ranked 131st out of the 136 countries covered, with a score of 16.8.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "Global Hunger Index 2022",
+    "year": 2022
+  },
+  {
+    "q": "The 'Global Innovation Index' 2022 placed India in the rank of:",
+    "options": [
+      "35th",
+      "47th",
+      "56th",
+      "25th"
+    ],
+    "answer": 1,
+    "explanation": "In the Global Innovation Index 2022 India was ranked 47th among 132 economies, in the 2023 index it improved to 43rd.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "WIPO Global Innovation Index",
+    "year": 2022
+  },
+  {
+    "q": "The 'World Air Quality Report' 2022 by IQAir placed India in the rank of:",
+    "options": [
+      "50th",
+      "60th",
+      "101st to 150th",
+      "1st to 10th"
+    ],
+    "answer": 2,
+    "explanation": "In the 2022 World Air Quality Report, India was ranked between 101 and 150 among the countries with the cleanest air.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "IQAir World Air Quality Report",
+    "year": 2022
+  },
+  {
+    "q": "The 'World Happiness Report' 2022 was based on the survey data of the year:",
+    "options": [
+      "2021",
+      "2022",
+      "2019",
+      "2020"
+    ],
+    "answer": 0,
+    "explanation": "The World Happiness Report 2022 used the Gallup World Poll data of 2021 and India was ranked at 140th.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "World Happiness Report 2022",
+    "year": 2022
+  },
+  {
+    "q": "The 'Ease of Doing Business' ranking of India before the World Bank discontinued the report in 2021 was:",
+    "options": [
+      "116th",
+      "139th",
+      "63rd",
+      "85th"
+    ],
+    "answer": 3,
+    "explanation": "In the Doing Business 2020 report India was ranked 63rd, and it was the first time it had entered the top 100, and the report was discontinued in 2021.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "World Bank Doing Business Report",
+    "year": 2020
+  },
+  {
+    "q": "The 'Press Freedom Index' 2022 by Reporters Without Borders placed India in the rank of:",
+    "options": [
+      "142nd",
+      "150th",
+      "120th",
+      "161st"
+    ],
+    "answer": 0,
+    "explanation": "In the 2022 Press Freedom Index India was ranked 142nd, and in 2021 it was 142nd as well, with the report published on 3 May, the World Press Freedom Day.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "Reporters Without Borders",
+    "year": 2022
+  },
+  {
+    "q": "The 'Global Gender Gap Report' 2022 of the World Economic Forum ranked India at:",
+    "options": [
+      "151st",
+      "129th",
+      "135th",
+      "112th"
+    ],
+    "answer": 1,
+    "explanation": "In the Global Gender Gap Report 2022 India was ranked 129th, and it was the only country in the bottom 150 of the countries covered.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "World Economic Forum",
+    "year": 2022
+  },
+  {
+    "q": "The 'Forest Survey of India' reported that as per the 2021 report, the forest and tree cover in India was about:",
+    "options": [
+      "25.17 per cent of the geographical area",
+      "18.33 per cent of the geographical area",
+      "29.48 per cent of the geographical area",
+      "21.76 per cent of the geographical area"
+    ],
+    "answer": 3,
+    "explanation": "The India State of Forest Report 2021 reported the forest and tree cover of 21.76 per cent of the geographical area, an increase of 1.89 percentage points over 2019.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "India State of Forest Report 2021",
+    "year": 2021
+  },
+  {
+    "q": "The 'Multidimensional Poverty Index' 2022 of the UNDP and the OPHI was based on the survey of:",
+    "options": [
+      "2021",
+      "2020-21",
+      "2019-20",
+      "2015-16"
+    ],
+    "answer": 2,
+    "explanation": "The Global MPI 2022 was based on the household surveys of 2019-20 conducted in India and it covered the deprivation in the health, the education and the living standards.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "UNDP Global MPI 2022",
+    "year": 2022
+  },
+  {
+    "q": "The 'SDG India Index' of the NITI Aayog for the year 2021-22 was based on the data of the year:",
+    "options": [
+      "2020-21",
+      "2021-22",
+      "2019-20",
+      "2018-19"
+    ],
+    "answer": 3,
+    "explanation": "The SDG India Index 2021-22, prepared with the help of the Oxford Policy and Human Development Centre, used the district data of 2018-19.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "NITI Aayog SDG India Index",
+    "year": 2022
+  },
+  {
+    "q": "The 'Environmental Performance Index' 2022 of Yale and Columbia placed India at the rank of:",
+    "options": [
+      "110th",
+      "180th",
+      "150th",
+      "96th"
+    ],
+    "answer": 1,
+    "explanation": "In the Environmental Performance Index 2022 India was ranked 180th among 180 countries, and it was the second lowest in the air quality category.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "Yale Environmental Performance Index",
+    "year": 2022
+  },
+  {
+    "q": "The 'Global Peace Index' 2022 placed India in the rank of:",
+    "options": [
+      "135th",
+      "126th",
+      "150th",
+      "88th"
+    ],
+    "answer": 0,
+    "explanation": "In the Global Peace Index 2022 India was ranked 135th, a drop from 126th in 2021, and in 2023 it was 134th.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "Institute for Economics and Peace",
+    "year": 2022
+  },
+  {
+    "q": "The 'Democracy Index' of the Economist Intelligence Unit for 2021 placed India at:",
+    "options": [
+      "6th",
+      "29th",
+      "48th",
+      "77th"
+    ],
+    "answer": 2,
+    "explanation": "In the Democracy Index 2021 India was ranked 48th with the score of 7.18, and India was classified as a 'flawed democracy'.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "Economist Intelligence Unit",
+    "year": 2021
+  },
+  {
+    "q": "The 'World Competitiveness Ranking' of the World Economic Forum for 2021-22 placed India at:",
+    "options": [
+      "60th",
+      "56th",
+      "45th",
+      "80th"
+    ],
+    "answer": 1,
+    "explanation": "In the World Competitiveness Ranking 2021-22 India was ranked 56th among 140 economies, and in 2022-23 it improved to 60th.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "World Economic Forum",
+    "year": 2022
+  },
+  {
+    "q": "The 'World Energy Outlook' report of the IEA for 2021 focused on:",
+    "options": [
+      "The oil prices",
+      "The nuclear power",
+      "The coal production in India",
+      "The energy sector and the net zero emissions pathway"
+    ],
+    "answer": 3,
+    "explanation": "The World Energy Outlook 2021 was the special report on the net zero emissions by 2050, and it was the first such report by the IEA.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "International Energy Agency",
+    "year": 2021
+  },
+  {
+    "q": "The 'Economic Survey 2021-22' was titled:",
+    "options": [
+      "In the Union Budget 2021",
+      "The Budget's Fiscal Policy",
+      "Time to Move",
+      "India's Growth Roadmap"
+    ],
+    "answer": 2,
+    "explanation": "The Economic Survey 2021-22 was titled 'Time to Move', and it was presented on 31 January 2022.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "Economic Survey 2021-22",
+    "year": 2022
+  },
+  {
+    "q": "The 'Economic Survey 2020-21' was titled:",
+    "options": [
+      "In the Union Budget 2021",
+      "Reinvigorating the Financial Sector",
+      "Strengthening the Demand",
+      "Time to Move"
+    ],
+    "answer": 0,
+    "explanation": "The Economic Survey 2020-21 was titled 'In the Union Budget 2021' and it was released on 29 January 2021.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "Economic Survey 2020-21",
+    "year": 2021
+  },
+  {
+    "q": "The 'Economic Survey 2019-20' was titled:",
+    "options": [
+      "Time to Move",
+      "The Future of India's Services",
+      "In the Union Budget 2021",
+      "India's Growth Roadmap"
+    ],
+    "answer": 3,
+    "explanation": "The Economic Survey 2019-20 was titled 'India's Growth Roadmap' and it was presented on 14 January 2020.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "Economic Survey 2019-20",
+    "year": 2020
+  },
+  {
+    "q": "The 'Padma Awards' are announced every year on:",
+    "options": [
+      "2 October",
+      "Republic Day eve",
+      "26 January",
+      "15 August"
+    ],
+    "answer": 2,
+    "explanation": "The Padma Awards, the civilian awards of the Government of India, are announced on 26 January every year along with the Republic Day honours.",
+    "difficulty": "easy",
+    "category": "awards-and-honours",
+    "source": "Ministry of Home Affairs",
+    "year": null
+  },
+  {
+    "q": "The 'Bharat Ratna' was first awarded in:",
+    "options": [
+      "1954",
+      "1952",
+      "1962",
+      "1950"
+    ],
+    "answer": 0,
+    "explanation": "The Bharat Ratna, instituted in 1954, was first conferred on Dr. Radhakrishnan, Dr. C. Rajagopalachari and Dr. S. Radhakrishnan, and it was the 1954 award to the philosopher Sarvepalli Radhakrishnan and C. Rajagopalachari.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Ministry of Home Affairs",
+    "year": 1954
+  },
+  {
+    "q": "The Nobel Prize in Literature for 2022 was awarded to:",
+    "options": [
+      "Annie Ernaux",
+      "Jon Fosse",
+      "Abdulrazak Gurnah",
+      "Kazuo Ishiguro"
+    ],
+    "answer": 1,
+    "explanation": "The Nobel Prize in Literature for 2022 was awarded to the Norwegian playwright Jon Fosse, and the 2021 prize went to Abdulrazak Gurnah.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Foundation",
+    "year": 2022
+  },
+  {
+    "q": "The Nobel Peace Prize for 2022 was awarded to:",
+    "options": [
+      "Maria Ressa and Dmitry Muratov",
+      "Wangari Maathai",
+      "Ales Bialiatski and the Memorial and the Centre for Civil Liberties",
+      "Abiy Ahmed and the Ethiopian Peace"
+    ],
+    "answer": 2,
+    "explanation": "The Nobel Peace Prize for 2022 was shared by Ales Bialiatski of Belarus and the Russian Human Rights Foundation, the Memorial and the Centre for Civil Liberties, while the 2021 prize went to Maria Ressa and Dmitry Muratov.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Foundation",
+    "year": 2022
+  },
+  {
+    "q": "The Nobel Prize in Economic Sciences for 2022 was awarded to:",
+    "options": [
+      "Michael Kremer alone",
+      "Ben Bernanke, Douglas Diamond and Philip Dybvig",
+      "Claudia Goldin and James Heckman and Michael Katz",
+      "Esther Duflo and Abhijit Banerjee and Michael Kremer"
+    ],
+    "answer": 1,
+    "explanation": "The 2022 prize in Economic Sciences was awarded to Ben Bernanke, Douglas Diamond and Philip Dybvig for their work on the banks and the financial crises, while the 2023 prize went to Claudia Goldin, James Heckman and Michael Katz.",
+    "difficulty": "hard",
+    "category": "awards-and-honours",
+    "source": "Nobel Foundation",
+    "year": 2022
+  },
+  {
+    "q": "The Nobel Prize in Economic Sciences for 2023 was awarded to:",
+    "options": [
+      "Esther Duflo, Abhijit Banerjee and Michael Kremer",
+      "The IPCC",
+      "Ben Bernanke and Douglas Diamond and Philip Dybvig",
+      "Claudia Goldin, James Heckman and Michael Katz"
+    ],
+    "answer": 3,
+    "explanation": "Claudia Goldin, James Heckman and Michael Katz shared the 2023 prize for their empirical work on the inequality and the institutions.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Foundation",
+    "year": 2023
+  },
+  {
+    "q": "The Nobel Prize in Physics for 2022 was awarded to:",
+    "options": [
+      "Alain Aspect, John Clauser and Anton Zeilinger",
+      "Klaus Hasselmann and Syukuro Manabe and Giorgio Parisi",
+      "Didier Queloz and Michel Mayor and David Wineland",
+      "Ashvin A. Parmar and K. Barry Sharpless and Richard F. Schrock"
+    ],
+    "answer": 0,
+    "explanation": "The 2022 Physics prize went to Alain Aspect, John Clauser and Anton Zeilinger for the experiments with the entangled photons and the establishment of the violation of the Bell inequalities.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Foundation",
+    "year": 2022
+  },
+  {
+    "q": "The Nobel Prize in Chemistry for 2022 was awarded to:",
+    "options": [
+      "Carolyn Bertozzi alone",
+      "Carolyn Bertozzi, Morten Meldal and Barry Sharpless for the click chemistry and the bioorthogonal chemistry",
+      "Klaus Hasselmann and Syukuro Manabe",
+      "The discovery of the CRISPR"
+    ],
+    "answer": 1,
+    "explanation": "The 2022 Chemistry prize was awarded to Carolyn Bertozzi, Morten Meldal and Barry Sharpless for the development of the click chemistry and the bioorthogonal reactions, while the 2023 prize went to the discovery of the quantum dots and the synthesis of the quantum dots.",
+    "difficulty": "hard",
+    "category": "awards-and-honours",
+    "source": "Nobel Foundation",
+    "year": 2022
+  },
+  {
+    "q": "The Nobel Prize in Physiology or Medicine for 2022 was awarded to:",
+    "options": [
+      "Katalin Karikó and Drew Weissman for the nucleoside base modifications",
+      "Harvey Alter and Michael Houghton and Charles Rice",
+      "Kaelin and Ratcliffe and Semenza",
+      "Svante Pääbo for the paleogenomics"
+    ],
+    "answer": 0,
+    "explanation": "The 2022 Medicine prize was awarded to Katalin Karikó and Drew Weissman for their discoveries concerning the nucleoside base modifications that enabled the effective mRNA vaccines.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Foundation",
+    "year": 2022
+  },
+  {
+    "q": "The World Food Prize for 2022 was awarded to:",
+    "options": [
+      "Lawrence H. Summers",
+      "Bono and The Beast of the Brothers",
+      "Cymcrare and Modadugu Gupta",
+      "Ramesh Rajasingham and the Green Transformation Foundation"
+    ],
+    "answer": 2,
+    "explanation": "The World Food Prize for 2022 was awarded to Modadugu Gupta of India and the CIMMYT for their work in the development of the quality seeds of the wheat, and the 2023 prize went to Ramesh Rajasingham and the Green Transformation Foundation of the United States.",
+    "difficulty": "hard",
+    "category": "awards-and-honours",
+    "source": "World Food Prize Foundation",
+    "year": 2022
+  },
+  {
+    "q": "The 'Right Livelihood Award' for 2022 was given to:",
+    "options": [
+      "Greta Thunberg",
+      "Amnesty International",
+      "The Right Livelihood Foundation",
+      "Clymrar and the Accept Education group"
+    ],
+    "answer": 3,
+    "explanation": "The Right Livelihood Award for 2022 was given to the Accept Education group of Myanmar, and the 2023 award went to the Campaign for Nuclear Disarmament, the Centre for Health and the Environment and the Brazilian movement for the rights of the people of the Amazon.",
+    "difficulty": "hard",
+    "category": "awards-and-honours",
+    "source": "Right Livelihood Foundation",
+    "year": 2022
+  },
+  {
+    "q": "The 'Ramon Magsaysay Award' for 2022 was given to:",
+    "options": [
+      "Sandeep Pandey and the Climate of Change Trust",
+      "Sandeep Pandey and the Asianet and the MTF",
+      "The Right Livelihood Award",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The Ramon Magsaysay Award for 2022 was given to Sandeep Pandey of the Climate of Change Trust, and the 2023 award went to the Seruan-Dek Project and the Ahilan Trust.",
+    "difficulty": "hard",
+    "category": "awards-and-honours",
+    "source": "Ramon Magsaysay Award Foundation",
+    "year": 2022
+  },
+  {
+    "q": "The 'Sahitya Akademi Award' for 2022 in the English language was given to:",
+    "options": [
+      "K. Satchidanandan",
+      "Vijay Tendulkar",
+      "Girish Karnad for Yakshagana",
+      "Manilal H. Patel for Audition"
+    ],
+    "answer": 2,
+    "explanation": "Girish Karnad received the Sahitya Akademi Award for the English for his novel Yakshagana in 2022, and the 2021 award went to Manilal H. Patel for Audition.",
+    "difficulty": "hard",
+    "category": "awards-and-honours",
+    "source": "Sahitya Akademi",
+    "year": 2022
+  },
+  {
+    "q": "The 'Jnanpith Award' for 2022 was given to:",
+    "options": [
+      "Girish Karnad",
+      "D. Murali and K. Satchidanandan",
+      "Nilamani Phookan and Jagadguru Rambhadracharya",
+      "Vijay Tendulkar"
+    ],
+    "answer": 1,
+    "explanation": "The Jnanpith Award for 2022 was given to the Malayalam writer D. Murali and the Sanskrit scholar Jagadguru Rambhadracharya, and the 2021 award went to Nilamani Phookan for his poetry.",
+    "difficulty": "hard",
+    "category": "awards-and-honours",
+    "source": "Jnanpith",
+    "year": 2022
+  },
+  {
+    "q": "The 'Dadasaheb Phalke Award' for 2022 was given to:",
+    "options": [
+      "Rajkummar Rao",
+      "Shekhar Kapur",
+      "Waheeda Rehman",
+      "Waheeda Rehman for the contribution to Indian cinema"
+    ],
+    "answer": 3,
+    "explanation": "The Dadasaheb Phalke Award for 2022 was given to Waheeda Rehman for her contribution to Indian cinema, and the 2021 award went to Rajkummar Rao.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Ministry of Information and Broadcasting",
+    "year": 2022
+  },
+  {
+    "q": "The 'National Film Award for the Best Feature Film' of 2021 was given to:",
+    "options": [
+      "Sita Ramam",
+      "Koozhangal",
+      "The Rocket",
+      "Mimi"
+    ],
+    "answer": 2,
+    "explanation": "The National Film Award for the Best Feature Film at the 69th ceremony went to The Rocket, a Malayalam film, and the 70th awards in 2022 went to Rocketry and Sita Ramam.",
+    "difficulty": "hard",
+    "category": "awards-and-honours",
+    "source": "National Film Awards",
+    "year": 2022
+  },
+  {
+    "q": "The 'Arjuna Award' in the major disciplines of the Games for 2022 was given to:",
+    "options": [
+      "The Indian hockey team only",
+      "Ravi Kumar Dahiya",
+      "Neeraj Chopra for the javelin",
+      "Neeraj Chopra, Ravindra Jadeja, Pramod Bhagat and the others"
+    ],
+    "answer": 3,
+    "explanation": "At the 2022 Asian Games, Neeraj Chopra won the javelin gold, and the Indian team won the men's cricket gold with the Arjuna Awards going to the members of the squad.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Asian Games 2022",
+    "year": 2022
+  },
+  {
+    "q": "India's medals at the Tokyo 2020 Olympic Games:",
+    "options": [
+      "One gold and one silver",
+      "One gold, one silver and two bronze",
+      "Seven medals",
+      "No medals"
+    ],
+    "answer": 1,
+    "explanation": "At the Tokyo 2020 Olympics, held in 2021, India won one gold (Sushil Kumar), one silver (Ravi Kumar Dahiya) and two bronze (Paddlers), for a total of four medals.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Tokyo Olympics 2020",
+    "year": 2021
+  },
+  {
+    "q": "The Indian medals at the Paris 2024 Olympic Games:",
+    "options": [
+      "One silver and five bronze",
+      "Six gold medals",
+      "No medals",
+      "One silver and one bronze"
+    ],
+    "answer": 0,
+    "explanation": "At the Paris 2024 Games India won one silver, in the men's archery individual compound, by the archer Dharashree Verma, and five bronze medals for a total of six.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Paris Olympics 2024",
+    "year": 2024
+  },
+  {
+    "q": "The 'Major Dhyan Chand Khel Ratna Award' for 2022 was conferred on:",
+    "options": [
+      "Sunil Chhetri",
+      "Neeraj Chopra, Pramod Bhagat, Deepika Kumari, Ravi Kumar Dahiya, Sunil Chhetri and others",
+      "Neeraj Chopra alone",
+      "Pramod Bhagat and the badminton players only"
+    ],
+    "answer": 1,
+    "explanation": "The Khel Ratna Award for 2022 was conferred on Neeraj Chopra, Pramod Bhagat, Deepika Kumari, Ravi Kumar Dahiya, Sunil Chhetri, Harmanpreet Singh and Lovlina Borgohain.",
+    "difficulty": "hard",
+    "category": "sports",
+    "source": "Sports Ministry of India",
+    "year": 2022
+  },
+  {
+    "q": "The Khel Ratna Award was renamed the:",
+    "options": [
+      "Rajiv Gandhi Khel Ratna Award",
+      "Major Dhyan Chand Khel Ratna Award from the beginning",
+      "Dronacharya Khel Ratna Award",
+      "Bharat Ratna Khel Ratna Award"
+    ],
+    "answer": 0,
+    "explanation": "The Rajiv Gandhi Khel Ratna Award, the highest sporting honour in India, was renamed the Major Dhyan Chand Khel Ratna Award in 2021.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Sports Ministry of India",
+    "year": 2021
+  },
+  {
+    "q": "The 'ICC Men's Cricket World Cup 2023' was won by:",
+    "options": [
+      "England",
+      "India",
+      "New Zealand",
+      "Australia"
+    ],
+    "answer": 3,
+    "explanation": "Australia won the 2023 ICC Men's Cricket World Cup, defeating India in the final at the Ahmedabad on 19 November 2023.",
+    "difficulty": "easy",
+    "category": "sports",
+    "source": "ICC",
+    "year": 2023
+  },
+  {
+    "q": "The 'ICC T20 World Cup 2024' was won by:",
+    "options": [
+      "Australia",
+      "India",
+      "South Africa",
+      "England"
+    ],
+    "answer": 2,
+    "explanation": "South Africa won the ICC T20 World Cup 2024, which was the first men's T20 World Cup title for the Proteas, and the tournament was held in the West Indies and the USA.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "ICC",
+    "year": 2024
+  },
+  {
+    "q": "The 'Commonwealth Games 2022' were held in:",
+    "options": [
+      "Birmingham 2022 in England",
+      "Birmingham in England",
+      "Gold Coast in Australia",
+      "Melbourne in Australia"
+    ],
+    "answer": 1,
+    "explanation": "The 2022 Commonwealth Games were held in Birmingham in England, with India winning the medal table with 19 gold medals and 57 medals in all.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Commonwealth Games Federation",
+    "year": 2022
+  },
+  {
+    "q": "The 'Asian Games 2022' were held in:",
+    "options": [
+      "Hangzhou in China",
+      "Jakarta in Indonesia",
+      "Bangkok in Thailand",
+      "Guangzhou in China"
+    ],
+    "answer": 0,
+    "explanation": "The 19th Asian Games were held in Hangzhou in China in October 2023, and India won 19 gold medals and 38 medals in all.",
+    "difficulty": "easy",
+    "category": "sports",
+    "source": "Asian Games 2022",
+    "year": 2023
+  },
+  {
+    "q": "The 'Formula 1' Indian Grand Prix returned to India in 2022 after:",
+    "options": [
+      "Ten years",
+      "One year",
+      "Six years",
+      "Two years"
+    ],
+    "answer": 2,
+    "explanation": "The Indian Grand Prix returned to the Buddh International Circuit in 2022 after a gap of six years, having been held in 2011 and 2014 as well.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Formula 1",
+    "year": 2022
+  },
+  {
+    "q": "The 'Vijay Amritraj' won the ATP Challenger title and the 'Bharat Ratna' in sports?",
+    "options": [
+      "Vijay Amritraj won the Wimbledon",
+      "Vijay Amritraj was the first Indian Grand Prix winner",
+      "Vijay Amritraj won the Davis Cup for India",
+      "Vijay Amritraj was the first Indian to be ranked in the top ten of the ATP"
+    ],
+    "answer": 3,
+    "explanation": "Vijay Amritraj was the first Indian to be ranked among the top ten of the ATP singles and he won the Davis Cup for India in 1982 and in 1989.",
+    "difficulty": "hard",
+    "category": "sports",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dronacharya Award' is given for:",
+    "options": [
+      "The coaches in the sports",
+      "The outstanding sportspersons",
+      "The sports journalists",
+      "The sports administrators"
+    ],
+    "answer": 0,
+    "explanation": "The Dronacharya Award is the national honour for the coaches in the sports and it was instituted in 1985.",
+    "difficulty": "easy",
+    "category": "sports",
+    "source": "Sports Ministry of India",
+    "year": null
+  },
+  {
+    "q": "The 'Arjuna Award' is given for:",
+    "options": [
+      "The lifetime contribution to the sports",
+      "The coaching",
+      "The sports journalism",
+      "The outstanding performance in the sports over four years"
+    ],
+    "answer": 3,
+    "explanation": "The Arjuna Award, instituted in 1985, is given for the outstanding performance in the sports over the four years preceding the award.",
+    "difficulty": "easy",
+    "category": "sports",
+    "source": "Sports Ministry of India",
+    "year": null
+  },
+  {
+    "q": "The 'Sachar Committee' report and the 'hockey' and the 'Sher-e-Punjab':",
+    "options": [
+      "The Sher-e-Punjab was the Indian team of the 1948 Olympics",
+      "The Sher-e-Punjab was the Indian hockey team of 1928",
+      "The Sher-e-Punjab was the India team of the 1932 Olympic hockey gold",
+      "The Sher-e-Punjab was the football team of 1936"
+    ],
+    "answer": 2,
+    "explanation": "The Indian hockey team of the 1932 Los Angeles Olympics, the first to win an Olympic gold for India, was known as the Sher-e-Punjab, and the Sachar Committee of 1935 recommended the measures for the reform of the game.",
+    "difficulty": "hard",
+    "category": "sports",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Davis Cup' in 2021 was won by:",
+    "options": [
+      "Italy",
+      "Russia",
+      "Croatia",
+      "Spain"
+    ],
+    "answer": 1,
+    "explanation": "Russia won the Davis Cup in 2021 and 2020, and Croatia won it in 2018 and in 2019, while the United States holds the record with 32 titles.",
+    "difficulty": "hard",
+    "category": "sports",
+    "source": "ITF",
+    "year": 2021
+  },
+  {
+    "q": "The 'Indian Premier League' was founded in:",
+    "options": [
+      "2005",
+      "2008",
+      "2003",
+      "2010"
+    ],
+    "answer": 1,
+    "explanation": "The Indian Premier League was founded in 2008 and the first season was won by the Rajasthan Royals, and it is the most valuable cricket league in the world.",
+    "difficulty": "easy",
+    "category": "sports",
+    "source": "Standard Reference",
+    "year": 2008
+  },
+  {
+    "q": "The 'Pragati Maidan' and the 'Siri Fort' and the 'Kartavya Path':",
+    "options": [
+      "A sports complex in Kolkata",
+      "A park in Chennai",
+      "The Kartavya Path corridor of the government buildings in Delhi",
+      "A stadium in Mumbai"
+    ],
+    "answer": 2,
+    "explanation": "The Kartavya Path is the renovated central vista of the government offices in Delhi between the Rashtrapati Bhavan and the India Gate, and it was inaugurated in September 2022.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The 'Jal Jeevan Mission' aims to provide:",
+    "options": [
+      "The irrigation to every village",
+      "The electricity to every household",
+      "The LPG to every family",
+      "A functional household tap connection to every rural home"
+    ],
+    "answer": 3,
+    "explanation": "The Jal Jeevan Mission, launched in 2019, aims to provide a functional household tap water connection to every rural household, and the aim is the 55 litres per person per day of the prescribed quality.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM-KISAN' provides:",
+    "options": [
+      "An income support of Rs. 6,000 per year to the landholding farmer families",
+      "A loan of Rs. 6,000 to the farmers",
+      "A crop insurance of Rs. 6,000",
+      "A subsidy of Rs. 6,000 on the seeds"
+    ],
+    "answer": 0,
+    "explanation": "The PM-KISAN scheme, launched in 2019, provides an income support of Rs. 6,000 per year in three equal instalments to the landholding farmer families.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM Fasal Bima Yojana' was launched in:",
+    "options": [
+      "2019",
+      "2013",
+      "2016",
+      "2015"
+    ],
+    "answer": 2,
+    "explanation": "The Pradhan Mantri Fasal Bima Yojana was launched in 2016 and it provides the crop insurance cover to the farmers with the premium paid by the government.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2016
+  },
+  {
+    "q": "The 'Pradhan Mantri Ujjwala Yojana' provides:",
+    "options": [
+      "The electricity connection",
+      "The housing",
+      "The bank account",
+      "The LPG connection to the women from the below poverty line households"
+    ],
+    "answer": 3,
+    "explanation": "PMUY, launched in 2016, provides the deposit-free LPG connection with a subsidised first refill and the support of the targeted subsidies to the women from the below poverty line and the SC/ST households.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2016
+  },
+  {
+    "q": "The 'Pradhan Mantri Awas Yojana' (Gramin) was launched in:",
+    "options": [
+      "2015-16",
+      "2014-15",
+      "2016-17",
+      "2013-14"
+    ],
+    "answer": 0,
+    "explanation": "The PMAY-G was launched in 2015-16 with the aim of a pucca house to every rural household that does not have one, and the urban component was launched in 2015-16 as well.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2016
+  },
+  {
+    "q": "The 'Ayushman Bharat PM-JAY' was launched in:",
+    "options": [
+      "2015",
+      "2018",
+      "2017",
+      "2019"
+    ],
+    "answer": 1,
+    "explanation": "The Ayushman Bharat PM-JAY, the world's largest health assurance scheme, was launched on 23 September 2018 and it covers 5 crore families.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2018
+  },
+  {
+    "q": "The 'PM Vishwakarma' scheme was launched in:",
+    "options": [
+      "2023",
+      "2021",
+      "2020",
+      "2019"
+    ],
+    "answer": 0,
+    "explanation": "The PM Vishwakarma scheme was launched in November 2023 for the support of the 18 traditional craft trades with the credit, the training and the toolkit.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The 'PM SVANidhi' scheme was launched in:",
+    "options": [
+      "2019",
+      "2021",
+      "2018",
+      "2020"
+    ],
+    "answer": 3,
+    "explanation": "The PM SVANidhi, the street vendors' livelihood support scheme, was launched in June 2020 during the pandemic with the collateral-free working capital loans.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2020
+  },
+  {
+    "q": "The 'PM Gati Shakti' National Master Plan was approved in:",
+    "options": [
+      "2020",
+      "2022",
+      "2021",
+      "2019"
+    ],
+    "answer": 2,
+    "explanation": "The PM Gati Shakti National Master Plan, with a ₹10 lakh crore outlay, was approved in October 2021 to develop the logistics and the infrastructure corridors.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'PM Kisan Maandhan Yojana' provides:",
+    "options": [
+      "A grant of Rs. 6,000",
+      "A pension of Rs. 3,000 per month to the small and marginal farmers",
+      "A loan of Rs. 3,000",
+      "A crop insurance"
+    ],
+    "answer": 1,
+    "explanation": "The PM KMY, launched in 2019, provides a monthly pension of Rs. 3,000 to the small and the marginal farmers on contribution and with a matching government contribution.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Sukanya Samriddhi' scheme is for:",
+    "options": [
+      "The widow women",
+      "The female students",
+      "The girl child below the age of 10",
+      "The senior citizens"
+    ],
+    "answer": 2,
+    "explanation": "The Sukanya Samriddhi account is a small savings scheme for the girl child below the age of ten and it offers one of the highest interest rates of the small savings schemes.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Beti Bachao Beti Padhao' was launched in:",
+    "options": [
+      "2014",
+      "2016",
+      "2013",
+      "2015"
+    ],
+    "answer": 3,
+    "explanation": "The Beti Bachao Beti Padhao campaign was launched on 5 May 2015 to address the sex-selective abortion and to promote the survival, the protection and the education of the girl child.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "The 'Sampoorna Suraksha' and the 'POSHAN 2' were:",
+    "options": [
+      "The Poshan 2 Abhiyaan and the universal immunisation programme",
+      "The rural housing schemes",
+      "The urban transport schemes",
+      "The skill development schemes"
+    ],
+    "answer": 0,
+    "explanation": "The POSHAN 2 Abhiyaan, the revised POSHAN or the Mid-Day Meal scheme, was launched in 2018-19 and the Sampoorna Suraksha, the universal immunisation programme, was launched in 2018.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2018
+  },
+  {
+    "q": "The 'Namami Gange' programme was launched in:",
+    "options": [
+      "2014",
+      "2009",
+      "2008",
+      "2010"
+    ],
+    "answer": 1,
+    "explanation": "The Namami Gange programme was launched in June 2009 as the National Ganga River Basin Authority programme to clean the Ganga and the tributaries.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2009
+  },
+  {
+    "q": "The 'Swachh Bharat Mission' (rural) was launched in:",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2009"
+    ],
+    "answer": 0,
+    "explanation": "The Swachh Bharat Mission was launched on 2 October 2014 with the objective of the elimination of the open defecation and the construction of the toilets.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2014
+  },
+  {
+    "q": "The 'One Stop Centre' for the women and the 'Sakhi' and the 'Samarthya':",
+    "options": [
+      "The Samarthya is the skill development scheme",
+      "The Samarthya is the health insurance",
+      "The Samarthya is the food security scheme",
+      "The Samarthya programme is the One Stop Centre for the women, the children and the adolescents"
+    ],
+    "answer": 3,
+    "explanation": "The Samarthya, the One Stop Centre scheme of the Ministry of Women and Child Development, provides the integrated support to the women, the children and the adolescents in the districts.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Ujjwala 2.0' and the 'LPG connection' in the scheme:",
+    "options": [
+      "The PMUY 2.0 is only for the urban areas",
+      "The PMUY 2.0 is a loan scheme",
+      "The PMUY 2.0 was approved in 2021 and extended the benefits to the additional beneficiaries",
+      "The Ujjwala 2.0 was launched in 2016"
+    ],
+    "answer": 2,
+    "explanation": "The PMUY 2.0 was approved in 2021 and it extended the coverage with an additional deposit-free LPG connection, the first refill and the support of the targeted subsidies to the additional beneficiaries.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'Mission LiFE' was launched at:",
+    "options": [
+      "COP29 in Baku",
+      "COP26 in Glasgow in 2021",
+      "COP27 in Sharm el-Sheikh in 2022",
+      "COP28 in Dubai in 2023"
+    ],
+    "answer": 1,
+    "explanation": "The Mission LiFE was formally launched by the Prime Minister at the COP26 in Glasgow in November 2021 with the theme of 'LiFE' for the Lifestyle for Environment.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The '500 GW' non-fossil energy capacity target of India is to be achieved by:",
+    "options": [
+      "2050",
+      "2030",
+      "2035",
+      "2047"
+    ],
+    "answer": 1,
+    "explanation": "India has committed to the 500 GW of installed non-fossil fuel based energy capacity by 2030 and to the net zero by 2070 at the COP26.",
+    "difficulty": "easy",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'LiFE' and the 'mission' of the '3 Ts':",
+    "options": [
+      "The Mindful Consumption, the Value of the Time and the Value of the Money",
+      "The Transport, the Trade and the Tourism",
+      "The Technology, the Trade and the the Taxes",
+      "The Trees, the Temperature and the Territory"
+    ],
+    "answer": 0,
+    "explanation": "The Mission LiFE is built on the three core elements of the mindful consumption, the value of the time and the value of the money, centred on the demand-side approaches.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM Surya Ghar Muft Bijli Yojana' was launched in:",
+    "options": [
+      "2023",
+      "2022",
+      "2021",
+      "2024"
+    ],
+    "answer": 3,
+    "explanation": "The PM Surya Ghar Muft Bijli Yojana, with a budget outlay of Rs. 75,021 crore, was launched in February 2024 to provide the rooftop solar to one crore households.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2024
+  },
+  {
+    "q": "The 'National Green Hydrogen Mission' was approved with an outlay of:",
+    "options": [
+      "Rs. 30,000 crore",
+      "Rs. 4,500 crore",
+      "Rs. 19,744 crore",
+      "Rs. 8,000 crore"
+    ],
+    "answer": 2,
+    "explanation": "The National Green Hydrogen Mission, approved in January 2023, has an outlay of Rs. 19,744 crore with a target of a minimum of 5 million tonnes of the annual green hydrogen production by 2030.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The 'COP27' of 2022 was held in:",
+    "options": [
+      "Sharm el-Sheikh in Egypt",
+      "Glasgow in the UK",
+      "Sharm el-Sheikh in Egypt and the Loss and Damage Fund was agreed",
+      "Durban in South Africa"
+    ],
+    "answer": 2,
+    "explanation": "The COP27 at Sharm el-Sheikh in November 2022 agreed the Loss and Damage Fund and the commitment to phase down the coal power, and the 2023 COP28 at Dubai launched the Global Stocktake.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "UNFCCC",
+    "year": 2022
+  },
+  {
+    "q": "The 'COP28' at Dubai in 2023:",
+    "options": [
+      "Agreed the Loss and Damage Fund",
+      "Was the first COP in Africa",
+      "Was cancelled",
+      "Launched the first Global Stocktake and the transition away from the fossil fuels"
+    ],
+    "answer": 3,
+    "explanation": "The COP28 at Dubai in December 2023 completed the first Global Stocktake and called for the transition away from the fossil fuels in the energy systems.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "UNFCCC",
+    "year": 2023
+  },
+  {
+    "q": "The 'COP29' of 2024 was held in:",
+    "options": [
+      "Baku in Azerbaijan",
+      "Belgrade in Serbia",
+      "Sharm el-Sheikh",
+      "Bangkok"
+    ],
+    "answer": 0,
+    "explanation": "The COP29 was held in Baku in November 2024, and the new collective quantified goal on the climate finance of at least $300 billion a year by 2035 was agreed.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "UNFCCC",
+    "year": 2024
+  },
+  {
+    "q": "The 'COP30' of 2025 is scheduled to be held in:",
+    "options": [
+      "Rio de Janeiro",
+      "Belem in Brazil",
+      "Baku in Azerbaijan",
+      "Dakar in Senegal"
+    ],
+    "answer": 1,
+    "explanation": "The COP30 is scheduled to be held in Belem in Brazil in November 2025, in the Amazon region.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "UNFCCC",
+    "year": null
+  },
+  {
+    "q": "The 'India' and the 'Ramsar sites' in 2022 included:",
+    "options": [
+      "The Wular and the Dal",
+      "The Deepor Beel and the Sultanpur",
+      "The Bhitarkanika Mangroves and the Vembanad",
+      "The Chilika and the Loktak"
+    ],
+    "answer": 2,
+    "explanation": "Among the Ramsar sites designated in 2022 were the Bhitarkanika Mangroves of Odisha, the Vembanad of Kerala, the Nang Chappa in Manipur and the Anamudi in Kerala.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "Ramsar Secretariat",
+    "year": 2022
+  },
+  {
+    "q": "The 'IUCN Red List' of 2022 and the 'Great Indian Bustard':",
+    "options": [
+      "The Great Indian Bustard was listed as Endangered",
+      "The Great Indian Bustard was listed as Vulnerable",
+      "The Great Indian Bustard was removed from the list",
+      "The Great Indian Bustard was listed as Critically Endangered"
+    ],
+    "answer": 0,
+    "explanation": "The Great Indian Bustard was moved to the Endangered category in the IUCN Red List in 2022, and the 2020 assessment had also put it in the Endangered category.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "IUCN",
+    "year": 2022
+  },
+  {
+    "q": "The 'Chandrayaan-3' landing on 23 August 2023 was at:",
+    "options": [
+      "The far side of the Moon",
+      "The south polar region of the Moon",
+      "The equatorial region of the Moon",
+      "The north polar region of the Moon"
+    ],
+    "answer": 1,
+    "explanation": "The Chandrayaan-3's Vikram lander touched down at around 69 degrees south latitude, near the lunar south pole, on 23 August 2023.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2023
+  },
+  {
+    "q": "The 'Aditya-L1' was launched on:",
+    "options": [
+      "23 August 2023",
+      "14 November 2023",
+      "30 January 2023",
+      "1 July 2023"
+    ],
+    "answer": 3,
+    "explanation": "The Aditya-L1 was launched on 1 July 2023 on a PSLV-C44 from Sriharikota and it was inserted into the halo orbit around the Lagrange point L1.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2023
+  },
+  {
+    "q": "The 'Chandrayaan-2' was launched on:",
+    "options": [
+      "15 November 2017",
+      "22 July 2019",
+      "23 August 2023",
+      "16 September 2019"
+    ],
+    "answer": 1,
+    "explanation": "The Chandrayaan-2 was launched on 22 July 2019 on a GSLV Mk III and the Vikram lander failed on 6 September 2019.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2019
+  },
+  {
+    "q": "The 'Mangalyaan' reached the Mars orbit on:",
+    "options": [
+      "27 September 2013",
+      "3 December 2014",
+      "24 September 2014",
+      "19 November 2013"
+    ],
+    "answer": 2,
+    "explanation": "The Mangalyaan entered the Mars orbit on 24 September 2014, and India became the first country to reach Mars on the first attempt.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2014
+  },
+  {
+    "q": "The 'INS Vikrant' was commissioned in:",
+    "options": [
+      "2 September 2022",
+      "2 December 2019",
+      "15 August 2021",
+      "2 February 2023"
+    ],
+    "answer": 0,
+    "explanation": "The INS Vikrant, the first indigenous aircraft carrier, was commissioned on 2 September 2022 by the President Droupadi Murmu.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The 'Astra Missile' was successfully test fired in 2021-2022 by:",
+    "options": [
+      "The ISRO",
+      "The BARC",
+      "The HAL",
+      "The DRDO"
+    ],
+    "answer": 3,
+    "explanation": "The DRDO successfully test fired the Astra missile, the first made in India for the air-to-air combat, in November 2021 and again in July 2022.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'Indigenous' and the 'BrahMos' and the 'Akash' and the 'Mission Shakti' of 2019:",
+    "options": [
+      "The Mission Shakti was the ASAT test that destroyed a satellite in the orbit",
+      "The Mission Shakti was the manned mission",
+      "The Mission Shakti was the nuclear test",
+      "The Mission Shakti was the mission to Venus"
+    ],
+    "answer": 0,
+    "explanation": "The Mission Shakti of March 2019 was the anti-satellite test in which the DRDO destroyed a satellite in the low earth orbit with the Microsat-R and the ASAT missile.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": 2019
+  },
+  {
+    "q": "The 'Covaxin' was developed by:",
+    "options": [
+      "Haffkine Institute",
+      "Biological E",
+      "Bharat Biotech",
+      "Serum Institute of India"
+    ],
+    "answer": 2,
+    "explanation": "Covaxin, the inactivated whole virion vaccine against COVID-19, was developed by the Bharat Biotech in Hyderabad, while Covishield was by the Serum Institute of India.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'covaccine' drive of India began on:",
+    "options": [
+      "1 June 2021",
+      "1 May 2021",
+      "16 January 2021",
+      "1 April 2021"
+    ],
+    "answer": 1,
+    "explanation": "The nationwide CoWIN led vaccination drive began on 1 May 2021 with the vaccination of the frontline workers, and the 18 years and above were covered from 1 May.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'National Genome Sequencing Project' of India:",
+    "options": [
+      "Was launched in 2005 for the rice genome",
+      "Was the Human Genome Project of 2003",
+      "Was the tea genome sequencing",
+      "Was launched in 2021 to map the SARS-CoV-2 variants"
+    ],
+    "answer": 3,
+    "explanation": "The National Genome Sequencing Project was launched in December 2021 to sequence the SARS-CoV-2 genomes and to track the variants circulating in India.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'BRICS' summit of 2023 was held in:",
+    "options": [
+      "Xiamen in China",
+      "Busan in South Korea",
+      "Baku in Azerbaijan",
+      "Johannesburg in South Africa"
+    ],
+    "answer": 3,
+    "explanation": "The 15th BRICS summit was held in Johannesburg in November 2023, and the 2024 summit was at Kazan in Russia, and India hosted the 2021 summit at Goa.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "India hosted the BRICS summit in 2021 at:",
+    "options": [
+      "Chennai",
+      "Goa",
+      "Bengaluru",
+      "New Delhi"
+    ],
+    "answer": 1,
+    "explanation": "India hosted the 14th BRICS summit at Goa in September 2021, the first in person after the pandemic, and the theme was 'Building on the BRICS spirit of the planet, peace, friendship and cooperation'.",
+    "difficulty": "easy",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'G20 Summit' of 2023 was held in:",
+    "options": [
+      "Los Angeles",
+      "Rio de Janeiro",
+      "New Delhi",
+      "Bali"
+    ],
+    "answer": 2,
+    "explanation": "The G20 summit of 2023 was held in New Delhi on 9 and 10 September with the theme of 'One Earth, One Family, One Future' and the Delhi Declaration was adopted.",
+    "difficulty": "easy",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The 'United Nations' and the 'General Assembly' and the '2022' session:",
+    "options": [
+      "The 77th General Assembly was held in New York in September 2022",
+      "The 77th General Assembly was held in Buenos Aires",
+      "The General Assembly was held in Mumbai",
+      "The General Assembly was cancelled in 2022"
+    ],
+    "answer": 0,
+    "explanation": "The 77th General Assembly of the UN opened on 13 September 2022 in New York, and the UNGA was held in the person for the first time since 2019.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "UN",
+    "year": 2022
+  },
+  {
+    "q": "The 'UNSC Resolution 2728' of 2023:",
+    "options": [
+      "Authorised the use of force in the Syria",
+      "Demanded the ceasefire in the Gaza and the humanitarian assistance",
+      "Sanctioned the Russia",
+      "Established the peacekeepers in the Haiti"
+    ],
+    "answer": 1,
+    "explanation": "The UN Security Council Resolution 2728 of 15 November 2023 demanded the ceasefire in the Gaza and the protection of the humanitarian assistance, with the abstention of the United States.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "UN Security Council",
+    "year": 2023
+  },
+  {
+    "q": "The 'India' and the 'International Solar Alliance' was launched in:",
+    "options": [
+      "2014",
+      "2016",
+      "2013",
+      "2015"
+    ],
+    "answer": 3,
+    "explanation": "The International Solar Alliance was launched on 30 November 2015 at the COP21 in Paris by the Prime Minister of India and the President of France.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "The 'India' and the 'Global Alliance for Food Security' was launched in:",
+    "options": [
+      "2021",
+      "2019",
+      "2020",
+      "2018"
+    ],
+    "answer": 0,
+    "explanation": "The Global Alliance for Food Security, with the G20 as the initiator, was launched in 2021 and the United States assumed the coordination of the Alliance.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'India' and the '2+2 dialogue' and the 'Quad' in 2022:",
+    "options": [
+      "The Quad summit was in Tokyo in 2022",
+      "The Quad met in Paris in 2022",
+      "The Quad Leaders Summit was held in Bali in November 2022",
+      "The Quad summit was in Washington in 2022"
+    ],
+    "answer": 2,
+    "explanation": "The Quad Leaders' Summit was held in Bali in November 2022, and the first in person Quad summit was in Washington in September 2021.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The 'India' and the 'Voice of Global South Summit' was held in:",
+    "options": [
+      "2022 in Rome",
+      "2021 in Bali",
+      "2020 in Qatar",
+      "January 2023 in New Delhi"
+    ],
+    "answer": 3,
+    "explanation": "The first Voice of Global South Summit, with the theme of 'Partnership for a Debt-free and Sustainable Future', was held in New Delhi in January 2023.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The 'India' and the 'UAE' and the 'CEPA' of 2022:",
+    "options": [
+      "The CEPA was with the UAE in 2005",
+      "The India-UAE CEPA was signed on 3 February 2022",
+      "The CEPA was signed in 2018",
+      "The CEPA was with Australia"
+    ],
+    "answer": 1,
+    "explanation": "The India-UAE Comprehensive Economic Partnership Agreement was signed on 3 February 2022, and it was the first CEPA that India signed with a partner country in two decades.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The 'India' and the 'Australia' and the 'ECPA' of 2020:",
+    "options": [
+      "It was signed in 2021",
+      "It was signed in 2008",
+      "The India-Australia Economic Cooperation and Trade Agreement was signed on 2 October 2020",
+      "It was signed in 2015"
+    ],
+    "answer": 2,
+    "explanation": "The India-Australia ECTA was signed on 2 October 2020, and it was the first trade agreement that India signed with a developed country in more than a decade.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2020
+  },
+  {
+    "q": "The 'International Solar Alliance' and the 'Africa' and the 'Global South':",
+    "options": [
+      "The ISA and the Global South are the institutional outcomes of the Indian diplomacy",
+      "The ISA is a NATO body",
+      "The Global South is a trade bloc",
+      "The ISA was founded by the United States"
+    ],
+    "answer": 0,
+    "explanation": "The International Solar Alliance and the Voice of Global South are the prominent institutional outcomes of the Indian diplomacy of the 2010s.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'India' and the 'UN' and the 'Security Council' reforms:",
+    "options": [
+      "India is a member of the P5",
+      "India is a member of the G4 and the IBSA groups that campaign for the reform of the UNSC",
+      "India is a permanent member of the UNSC",
+      "India holds a veto"
+    ],
+    "answer": 1,
+    "explanation": "India is a member of the G4, the Uniting for Consensus, the L69 and the IBSA, all of which campaign for the reform of the Security Council, and India has been a non-permanent member since 1950.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'India' and the 'World Bank' and the 'rise' of the 'South Asia':",
+    "options": [
+      "The World Bank's climate fund",
+      "The World Bank's agriculture programme",
+      "The World Bank's South Asia and the regional development",
+      "The World Bank's loan for the dams"
+    ],
+    "answer": 2,
+    "explanation": "The World Bank's South Asia and the regional integration of the economies of South Asia is one of the areas of the cooperation with the rising economies.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CAG' and the 'Copenhagen' and the 'Green Hydrogen':",
+    "options": [
+      "It was launched at the COP27",
+      "It was launched in Delhi in 2021",
+      "It was launched in Paris in 2015",
+      "The Green Hydrogen Alliance was launched at the COP26 in Glasgow"
+    ],
+    "answer": 3,
+    "explanation": "The Green Hydrogen Alliance was launched by India, Denmark, Norway, the European Union and the European Investment Bank at the COP26 in Glasgow in 2021.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'United States' and the 'Inflation Reduction Act' of 2022:",
+    "options": [
+      "It is the largest climate and the clean energy legislation in the history of the United States",
+      "It was a trade agreement",
+      "It was a health bill",
+      "It was an immigration law"
+    ],
+    "answer": 0,
+    "explanation": "The Inflation Reduction Act of August 2022, with about $369 billion for the climate and the clean energy, is the largest such legislation in the history of the United States.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The 'Energy Transition Index' of the World Economic Forum for 2022:",
+    "options": [
+      "Was published for the first time in 2022 with India at the 132nd place",
+      "Was published in 2015",
+      "Was a report of the IEA on the coal",
+      "Was discontinued in 2022"
+    ],
+    "answer": 0,
+    "explanation": "The World Energy Transition Index was published for the first time in 2022, and India was ranked 132nd in it.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "World Economic Forum",
+    "year": 2022
+  },
+  {
+    "q": "The 'Stook' and the 'Climate Bonds' and the 'green bonds':",
+    "options": [
+      "The green bonds are the loans to the farmers",
+      "The green bonds are the sanctions",
+      "The green bonds are the coal royalties",
+      "The green bonds are the debt instruments for the climate projects"
+    ],
+    "answer": 3,
+    "explanation": "The Climate Bonds Initiative classifies the green bonds as the fixed income instruments used to raise the money for the climate related projects.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Biodiversity' and the 'Kunming-Montreal' agreement of 2022:",
+    "options": [
+      "Was the Montreal protocol",
+      "Was the Ramsar COP15",
+      "Was the CBD COP15 agreement on the targets for 2030",
+      "Was the Paris agreement"
+    ],
+    "answer": 2,
+    "explanation": "The Kunming-Montreal Global Biodiversity Framework was adopted at the COP15 of the CBD at Kunming in December 2022, with the targets of protecting 30 per cent of the land and the sea by 2030.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "UNFCCC/CBD",
+    "year": 2022
+  },
+  {
+    "q": "The 'India' and the 'BBNJ' agreement:",
+    "options": [
+      "It was adopted in 2019",
+      "The Agreement on the Marine Biodiversity of the Areas Beyond National Jurisdiction was adopted in 2023",
+      "It was adopted in 2015",
+      "It is a trade agreement"
+    ],
+    "answer": 1,
+    "explanation": "The BBNJ agreement, the high seas treaty, was adopted in June 2023 to establish the marine protected areas in the areas beyond the national jurisdiction.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "UN",
+    "year": 2023
+  },
+  {
+    "q": "The 'India' and the 'Plastic' and the 'Single-use plastic' ban:",
+    "options": [
+      "The ban came into effect in 2019",
+      "The ban was lifted in 2023",
+      "There is no ban",
+      "The ban on the identified single-use plastic items came into effect on 1 July 2022"
+    ],
+    "answer": 3,
+    "explanation": "The ban on the identified single-use plastic items came into effect on 1 July 2022, and the plastic waste management rules of 2016 had banned the identified items earlier.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The 'Extended Producer Responsibility' for the plastic packaging:",
+    "options": [
+      "Was notified in 2022 with the targets for the recycling and the EPR",
+      "Was notified in 1998",
+      "Is an EU directive only",
+      "Was notified in 2010"
+    ],
+    "answer": 0,
+    "explanation": "The EPR Guidelines for the plastic packaging were notified in March 2022 with the targets for the recycled content and the plastic waste management.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The 'Biodegradable' and the 'compostable' packaging:",
+    "options": [
+      "The standards were notified in 2015",
+      "The Government notified the quality standards for the biodegradable and the compostable plastics in 2022",
+      "The standards were notified in 1999",
+      "There are no such standards"
+    ],
+    "answer": 1,
+    "explanation": "The quality standards for the biodegradable and the compostable plastics were notified in 2022, and they are applicable from 1 April 2023 to the products of the large scale producers.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The 'India' and the 'Net Zero' commitment:",
+    "options": [
+      "India has committed to the net zero by 2060",
+      "India has made no net zero commitment",
+      "India has committed to the net zero by 2070",
+      "India has committed to the net zero by 2050"
+    ],
+    "answer": 2,
+    "explanation": "India has committed to the net zero greenhouse gas emissions by 2070 and to the 500 GW of the non-fossil capacity by 2030, and the Panchamrit was announced at the COP26.",
+    "difficulty": "easy",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Panchamrit' of India announced at the COP26 includes:",
+    "options": [
+      "The five pillars of the Panchamrit",
+      "The five schemes of the Panchamrit",
+      "The five years of the Panchamrit",
+      "The five commitments of the Panchamrit"
+    ],
+    "answer": 3,
+    "explanation": "The Panchamrit is the five-point action plan of India for the environment, with the five commitments on the net zero, the sustainable lifestyles, the green growth, the green hydrogen and the sustainable cities.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'LiFE' and the 'Bhatt' and the 'BEE' and the 'Panipat':",
+    "options": [
+      "The BEE is a monetary policy tool",
+      "The Panipat is a thermal plant",
+      "The BEE and the EEE schemes of the energy efficiency were part of the Panchamrit",
+      "The Bhatt and the Panipat are the two pilots of the LiFE"
+    ],
+    "answer": 2,
+    "explanation": "The BEE programme for the energy efficiency in the buildings and the EEE for the appliances are among the initiatives under the Panchamrit.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'Global Tiger Conservation Programme' and the 'GTCF':",
+    "options": [
+      "The Global Tiger Forum was founded in 2006",
+      "The Global Tiger Forum was founded in 1993 and the GTCF was launched in 2006",
+      "The GTCF was launched in 1993",
+      "The GTCF was launched in 2022"
+    ],
+    "answer": 1,
+    "explanation": "The Global Tiger Forum was founded in 1993 and the Global Tiger Conservation Programme was launched in 2006, and the third summit was held in 2022.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'International Tiger Day' is observed on:",
+    "options": [
+      "29 July",
+      "1 April",
+      "22 April",
+      "5 June"
+    ],
+    "answer": 0,
+    "explanation": "The International Tiger Day is observed on 29 July to raise the awareness of the tiger conservation, and the year 2022 marked the tenth anniversary of the event.",
+    "difficulty": "easy",
+    "category": "environment-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'MINI' and the 'Agriculture':",
+    "options": [
+      "The MINI is the National Mission for the Irrigation",
+      "The Ministry of Agriculture is the Ministry of Agriculture and Farmers Welfare",
+      "The MINI is the National Institute of the Food",
+      "The MINI is a scheme of the fisheries"
+    ],
+    "answer": 1,
+    "explanation": "The Ministry of Agriculture and Farmers Welfare is the apex organisation for the agriculture, the rural development and the food processing, and it is the nodal department for the Kisan schemes.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Agriculture Infrastructure Fund' was launched in 2020 with a corpus of:",
+    "options": [
+      "Rs. 1 lakh crore",
+      "Rs. 10,000 crore",
+      "Rs. 50,000 crore",
+      "Rs. 2 lakh crore"
+    ],
+    "answer": 0,
+    "explanation": "The Agriculture Infrastructure Fund was launched in August 2020 with a corpus of Rs. 1 lakh crore to finance the post-harvest management infrastructure, and it was extended in 2022.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2020
+  },
+  {
+    "q": "The 'e-NAM' was launched in:",
+    "options": [
+      "2014",
+      "2018",
+      "2016",
+      "2015"
+    ],
+    "answer": 2,
+    "explanation": "The electronic National Agricultural Market was launched in April 2016 and it integrated the online trading platforms of the agricultural commodity markets.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2016
+  },
+  {
+    "q": "The 'Kisan Credit Card' was launched in:",
+    "options": [
+      "1994",
+      "2001",
+      "1996",
+      "1998"
+    ],
+    "answer": 3,
+    "explanation": "The Kisan Credit Card scheme was launched in 1998, and it was revised in 2019 to include the animal husbandry and the fisheries sectors.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 1998
+  },
+  {
+    "q": "The 'PM-KISAN' was launched in:",
+    "options": [
+      "2020",
+      "2016",
+      "2019",
+      "2018"
+    ],
+    "answer": 2,
+    "explanation": "The PM-KISAN was launched in February 2019 and it was extended to all the landholding farmer families, including those who had held the land in the past.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2019
+  },
+  {
+    "q": "The 'Agriculture' and the '2021' and the 'UN Food Systems Summit':",
+    "options": [
+      "The UN Food Systems Summit was held in October 2021 in New York",
+      "It was held in Rome in 2021",
+      "It was held in Rome in 2022",
+      "It was cancelled"
+    ],
+    "answer": 0,
+    "explanation": "The UN Food Systems Summit was held in New York in October 2021, and the Five Action Areas included the food security, the nutrition, the sustainable diets and the agri-food innovation.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'WTO' and the 'MC13' of 2022:",
+    "options": [
+      "The MC13 was held in Bali in 2022",
+      "The MC13 was in Doha in 2022",
+      "The MC13 was in Cancun in 2022",
+      "The MC13 was held in February 2022 in Geneva and it agreed on the food and the agriculture and the services and the intellectual property"
+    ],
+    "answer": 3,
+    "explanation": "The 13th Ministerial Conference of the WTO was held in Geneva from 9 to 12 February 2022 and it reached the agreement on the agriculture, the food security, the services, the trade facilitation and the intellectual property.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "WTO",
+    "year": 2022
+  },
+  {
+    "q": "The 'WTO' and the 'India's' and the 'dispute settlement':",
+    "options": [
+      "India has never filed a complaint",
+      "India cannot be the complainant because of the zero tariff of the developing country status",
+      "India is the complainant in the most of the disputes",
+      "India was the first complainant in 1995"
+    ],
+    "answer": 1,
+    "explanation": "The World Trade Organisation's complaint can be made only by a member with a non-zero bound tariff, and hence India as a developing country with the zero tariffs in the agriculture could not be the complainant, and the issue was the subject of the National Implementation Treaty's discussions.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The GST compensation to the states have:",
+    "options": [
+      "never given",
+      "for 5 years",
+      "to continue till June 2022",
+      "in 2020"
+    ],
+    "answer": 2,
+    "explanation": "The compensation of the GST revenue loss to the states was originally for five years and it was extended to June 2022 by the 53rd GST Council, and a cess was extended to March 2026 for the health.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The '53rd GST Council' meeting of 2022 was held in:",
+    "options": [
+      "June 2022 in New Delhi",
+      "January 2022 in New Delhi",
+      "March 2022 in Goa",
+      "December 2022 in Chennai"
+    ],
+    "answer": 0,
+    "explanation": "The 53rd meeting of the GST Council was held on 24 June 2022 in New Delhi, and it extended the compensation to the states and the health cess to March 2026.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The 'Fiscal Policy' and the '2022-23' and the 'capital expenditure':",
+    "options": [
+      "There was no allocation",
+      "The Union Budget of 2022-23 provided for a capital expenditure of Rs. 10 lakh crore",
+      "It was Rs. 5 lakh crore",
+      "It was Rs. 15 lakh crore"
+    ],
+    "answer": 1,
+    "explanation": "The Union Budget of 2022-23 provided for a capital expenditure of Rs. 10 lakh crore, about 4.11 per cent of the GDP, with a focus on the logistics and the public capital formation.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Union Budget 2022-23",
+    "year": 2022
+  },
+  {
+    "q": "The 'Union Budget 2021-22' was presented on:",
+    "options": [
+      "1 February 2020",
+      "1 February 2022",
+      "26 January 2021",
+      "1 February 2021"
+    ],
+    "answer": 3,
+    "explanation": "The Union Budget for 2021-22 was presented on 1 February 2021 by the Finance Minister, and it was the first budget of the second term of the government.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Union Budget 2021-22",
+    "year": 2021
+  },
+  {
+    "q": "The 'Corporate tax' of India was reduced from 30 per cent to:",
+    "options": [
+      "22 per cent",
+      "20 per cent",
+      "28 per cent",
+      "25.17 per cent"
+    ],
+    "answer": 3,
+    "explanation": "The Finance Act of 2021 reduced the corporate tax rate from 30 per cent to 25.17 per cent for the companies that pay the effective tax rate of 25.17 per cent.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Finance Act 2021",
+    "year": 2021
+  },
+  {
+    "q": "The inflation target was:",
+    "options": [
+      "retained at 4 per cent with the band of 2 to 6 per cent",
+      "raised to 6 per cent",
+      "lowered to 2 per cent",
+      "abandoned"
+    ],
+    "answer": 0,
+    "explanation": "The Monetary Policy Committee continued with the flexible inflation targeting framework and the target of 4 per cent with the band of 2 to 6 per cent.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2022
+  },
+  {
+    "q": "The 'Digital Rupee' or the 'CBDC' pilot was launched in India in:",
+    "options": [
+      "2021",
+      "2019",
+      "2022",
+      "2020"
+    ],
+    "answer": 2,
+    "explanation": "The pilot of the digital rupee was launched in November 2022 for the retail use in the selected geographies, and the wholesale version of the CBDC was launched in 2022-23.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2022
+  },
+  {
+    "q": "The 'Account Aggregator' and the 'Sahamati':",
+    "options": [
+      "The Sahamati is the credit information company",
+      "The Sahamati is the financial information repository of the Account Aggregator ecosystem in India",
+      "The Sahamati is the stock exchange of the depositories",
+      "The Sahamati is the digital public infrastructure of the payments"
+    ],
+    "answer": 1,
+    "explanation": "The Sahamati is the financial information repository that enables the consent-based data sharing for the Account Aggregator in India, and the NUII and the Account Aggregator were launched in 2021.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'CIBIL' and the 'credit score' and the 'in India:",
+    "options": [
+      "The credit score in India is calculated by the credit information companies on a scale of 300 to 900",
+      "It is on a scale of 0 to 100",
+      "It is from 1 to 5",
+      "It is from 700 to 1000"
+    ],
+    "answer": 0,
+    "explanation": "The credit score in India is calculated on a scale of 300 to 900 by the credit information companies, and a score above 750 is generally considered good.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Insolvency and Bankruptcy' and the '2022' and the 'resolution':",
+    "options": [
+      "The IBC was never amended",
+      "The IBC was replaced in 2022",
+      "The IBC Amendment Act of 2020 was the first significant change in the IBC after 2016",
+      "The IBC was amended in 2016 only"
+    ],
+    "answer": 2,
+    "explanation": "The IBC Amendment Act of 2020 was the first significant change after the enactment in 2016, and it included the restructuring of the financial sector and the establishment of the regulatory bodies.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": 2020
+  },
+  {
+    "q": "The amalgamation of the City Union Bank, the Andhra Bank and the Corporation Bank was:",
+    "options": [
+      "in 2019",
+      "no merger",
+      "of the SBI only",
+      "completed in 2020"
+    ],
+    "answer": 3,
+    "explanation": "The amalgamation of the City Union Bank, the Andhra Bank and the Corporation Bank was completed in April 2020 to create the Union Bank of India.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": 2020
+  },
+  {
+    "q": "The Cooperative Societies Act of 2021 was:",
+    "options": [
+      "the first cooperatives law of 1864",
+      "the first amendment of the Cooperative Societies Act of 2002",
+      "of 1995",
+      "no new law"
+    ],
+    "answer": 1,
+    "explanation": "The Cooperative Societies Act of 2021 was the first amendment of the Cooperative Societies Act of 2002 since its enactment, and it covered the Co-operative societies of the multi-state and the cooperative societies of the UT without the legislature.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'Voting Rights' and the 'women' and the '81st and the 84th Amendment':",
+    "options": [
+      "Both are about the anti-defection",
+      "The 81st Amendment Act of 2000 and the 84th of 2001 provided for the reservation of the seats for the women in the rural and the urban local bodies",
+      "The 81st Amendment is about the right to education",
+      "The 84th Amendment is about the delimitation"
+    ],
+    "answer": 1,
+    "explanation": "The 81st and the 84th Amendments provided for the reservation of not less than one-third of the total seats and of the offices of the chairpersons in the Panchayats and the municipalities for the women.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The '106th Amendment' of 2021 provided for the reservation of the seats for the women in:",
+    "options": [
+      "The Rajya Sabha only",
+      "The municipalities only",
+      "The Lok Sabha and the state legislative assemblies",
+      "The Panchayats only"
+    ],
+    "answer": 2,
+    "explanation": "The 106th Amendment inserted the Nari Shakti Vandan Adhiniyam, providing for the reservation of one-third of the seats for the women in the Lok Sabha and in the state legislative assemblies including the Delhi and the Puducherry assemblies.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The Supreme Court of India in 2022 was:",
+    "options": [
+      "headed by the Chief Justice Y. V. Chandrachud",
+      "headed by the Chief Justice N. V. Ramana",
+      "headed by the Chief Justice Dipak Misra",
+      "headed by the Chief Justice Ranjan Gogoi"
+    ],
+    "answer": 0,
+    "explanation": "Justice Y. V. Chandrachud was the Chief Justice of India from November 2022, and the CJI is the senior-most judge of the Supreme Court, the one who is senior in the order of the appointment.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Supreme Court of India",
+    "year": 2022
+  },
+  {
+    "q": "The Supreme Court upheld:",
+    "options": [
+      "it down in 2019",
+      "pending",
+      "about the Article 35A",
+      "the abrogation of Article 370 in December 2023"
+    ],
+    "answer": 3,
+    "explanation": "In December 2023 the Supreme Court upheld the abrogation of the special status of Jammu and Kashmir under Article 370 and directed the restoration of the statehood with the assembly elections in 2024.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Supreme Court of India",
+    "year": 2023
+  },
+  {
+    "q": "The 'Article 35A' was inserted in the Constitution by:",
+    "options": [
+      "The 44th Amendment",
+      "The 86th Amendment",
+      "The Constitution (Nineteenth Amendment) Act, 2010",
+      "The 42nd Amendment"
+    ],
+    "answer": 2,
+    "explanation": "Article 35A was inserted by the Constitution (Nineteenth Amendment) Act, 2010, and it empowered the state legislature to confer on the permanent residents the special rights and the privileges.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2010
+  },
+  {
+    "q": "The '91st Amendment Act' of 2003:",
+    "options": [
+      "Introduced the Goods and Services Tax",
+      "Limited the size of the Lok Sabha and the state assemblies to the existing levels",
+      "Lowered the voting age",
+      "Created the NITI Aayog"
+    ],
+    "answer": 1,
+    "explanation": "The 91st Amendment froze the allocation of the seats in the Lok Sabha and the state assemblies at the 1971 census levels until the first census after 2026.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2003
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Article 19(1)(g)?",
+    "options": [
+      "The Supreme Court in 2021 in the M.P. Association of Dealers and the case read the freedom to trade with the reasonableness of the restrictions",
+      "The Article was deleted in 2021",
+      "The Article was amended in 2015",
+      "The judgment was of 1991"
+    ],
+    "answer": 0,
+    "explanation": "In the M.P. Association of Dealers v. Union of India of 2021, the Supreme Court interpreted Article 19(1)(g) and held that the reasonableness of the restrictions and the consonance with the fundamental rights are the tests.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Supreme Court of India",
+    "year": 2021
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Decriminalisation?",
+    "options": [
+      "It decriminalised the adultery",
+      "It was the law on the POCSO",
+      "It was the law on the surrogacy",
+      "The Criminal Laws (Amendment) Act of 2021 replaced the IPC, the CrPC and the Evidence Act with the BNS, the BNSS and the BSA"
+    ],
+    "answer": 3,
+    "explanation": "The Criminal Laws (Amendment) Act of 2021 replaced the Indian Penal Code, the Code of Criminal Procedure and the Indian Evidence Act with the Bharatiya Nyaya Sanhita, the Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The 'Digital Personal Data Protection Act' was passed by the Parliament in:",
+    "options": [
+      "2022",
+      "2019",
+      "2023",
+      "2021"
+    ],
+    "answer": 2,
+    "explanation": "The Digital Personal Data Protection Act was passed in August 2023 and it came into force with the rules in 2025.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The 'Telemedicine' and the 'National Telemedicine Board':",
+    "options": [
+      "There is no such body",
+      "The National Telemedicine Board is a part of the NMC",
+      "The National Telemedicine Board is a separate ministry",
+      "The Board is under the CAG"
+    ],
+    "answer": 1,
+    "explanation": "The National Telemedicine Board was constituted under the Telemedicine Practice Guidelines of 2020 and it is an independent body under the National Medical Commission.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The CJI in 2023 was:",
+    "options": [
+      "Justice D. Y. Chandrachud",
+      "Justice N. V. Ramana",
+      "Justice Ranjan Gogoi",
+      "Justice S. R. Das"
+    ],
+    "answer": 0,
+    "explanation": "Justice Dhananjaya Y. Chandrachud was the Chief Justice of India from November 2022 to December 2024, and he was the CJI for the G20 summit in 2023.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The 'The Chief Election Commissioner' of India in 2022:",
+    "options": [
+      "G. Gopalan",
+      "T. N. Ranganathan",
+      "Sukumar Sen",
+      "Rajiv Kumar"
+    ],
+    "answer": 3,
+    "explanation": "Rajiv Kumar was the Chief Election Commissioner of India from December 2020 to December 2022, and he was succeeded by G. Gopalan in December 2022.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "Which of the following is correct in the case of the The Election Commission?",
+    "options": [
+      "The webcasting is optional",
+      "There was no webcasting",
+      "The ECI mandated the webcasting of the polling stations in the assembly elections in 2022",
+      "The webcasting started in 1990"
+    ],
+    "answer": 2,
+    "explanation": "The Election Commission mandated the webcasting of the polling stations in the assembly elections in 2022, in the run up to the 2024 general election.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The elections to the four Legislative Council seats in 2022 in Maharashtra and Karnataka were:",
+    "options": [
+      "held without a court order",
+      "cancelled",
+      "abolished",
+      "held after the Supreme Court order"
+    ],
+    "answer": 3,
+    "explanation": "The Supreme Court in 2022 ordered the election to the four vacant Legislative Council seats in Maharashtra and Karnataka and the polling took place in December 2022.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The 'The Finance Commission' of India for 2021-26 was chaired by:",
+    "options": [
+      "Arvind Panagariya",
+      "N. K. Singh",
+      "Y. V. Yerraguntla",
+      "B. K. N. Ramaswamy"
+    ],
+    "answer": 1,
+    "explanation": "The 15th Finance Commission, chaired by N. K. Singh, was constituted in November 2017 and it submitted its report for 2021-26.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'The Fifteenth Finance Commission' recommended the devolution of:",
+    "options": [
+      "41 per cent of the divisible pool to the states",
+      "50 per cent",
+      "60 per cent",
+      "45 per cent"
+    ],
+    "answer": 0,
+    "explanation": "The 15th Finance Commission recommended the devolution of 41 per cent of the divisible pool to the states, an increase of 6 percentage points over the 14th Commission.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 15th Finance Commission recommended:",
+    "options": [
+      "it did not recommend the health grants",
+      "the health grants of Rs. 1 lakh crore",
+      "the health grants of Rs. 20,000 crore to the states",
+      "the health grants of Rs. 2,000 crore"
+    ],
+    "answer": 2,
+    "explanation": "The 15th Finance Commission recommended the health grants of Rs. 20,000 crore to the states for the primary health care and it raised the share of the health in the divisible pool.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Petroleum products are:",
+    "options": [
+      "in the GST from the start",
+      "included in 2022",
+      "outside",
+      "outside the GST"
+    ],
+    "answer": 3,
+    "explanation": "The petroleum products have been kept outside the GST and they continue to be governed by the central excise, and the GST Council reviews this periodically.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The new tax regime with the lower slabs was:",
+    "options": [
+      "withdrawn in 2022",
+      "made the default for the taxpayers opting for the new regime",
+      "made compulsory for all",
+      "only for the corporates"
+    ],
+    "answer": 1,
+    "explanation": "The Finance Act of 2020 made the new tax regime with the lower slabs and the 87A rebate the default for the individual taxpayers, and it was made available from the assessment year 2021-22.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": 2020
+  },
+  {
+    "q": "The merchandise exports of India were:",
+    "options": [
+      "over $400 billion in 2021-22",
+      "over $100 billion",
+      "over $800 billion",
+      "over $1 trillion"
+    ],
+    "answer": 0,
+    "explanation": "The merchandise exports of India crossed the $400 billion mark for the first time in 2021-22, and the total exports of the goods and the services were over $680 billion.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The reserves crossed:",
+    "options": [
+      "the $600 billion mark",
+      "over $200 billion",
+      "over $1 trillion",
+      "below $300 billion"
+    ],
+    "answer": 0,
+    "explanation": "The foreign exchange reserves of India crossed the $600 billion mark in 2022 and the reserves were a record high in the fiscal year 2022-23.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2022
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the India?",
+    "options": [
+      "The rupee was stable at 65",
+      "There was no depreciation",
+      "The rupee depreciated to a record low of about 82 to the dollar",
+      "The rupee appreciated to 60"
+    ],
+    "answer": 2,
+    "explanation": "The rupee touched a record low of about 82.7 to the dollar in 2022, on the back of the widening of the current account deficit and the outflows.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The General Anti-Avoidance Rules were introduced:",
+    "options": [
+      "in 1995",
+      "repealed in 2022",
+      "to the domestic transactions only",
+      "in the Finance Act of 2016"
+    ],
+    "answer": 3,
+    "explanation": "The GAAR, the generalised anti-avoidance rules, were introduced in the Finance Act of 2016 with effect from 1 April 2017, and they target the arrangements that have the effect of avoiding the tax.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "The Vivad se Vishwas Act of 2020 provided:",
+    "options": [
+      "a scheme for the export promotion",
+      "for the direct tax dispute resolution scheme",
+      "a scheme for the bank recapitalisation",
+      "a scheme for the privatisation"
+    ],
+    "answer": 1,
+    "explanation": "The Vivad se Vishwas Act of 2020 provided for the direct tax dispute resolution scheme under which the taxpayers could settle the pending cases at a reduced tax with no interest and no penalty.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": 2020
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the India became?",
+    "options": [
+      "India was the first",
+      "India was the fourth",
+      "India was the tenth",
+      "India became the second largest coal producer in the world"
+    ],
+    "answer": 3,
+    "explanation": "With the coal production of over 850 million tonnes in 2022, India became the second largest coal producer in the world after China.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The renewable energy capacity crossed:",
+    "options": [
+      "the 150 GW mark",
+      "over 20 GW",
+      "over 500 GW",
+      "over 1 TW"
+    ],
+    "answer": 0,
+    "explanation": "The installed renewable energy capacity of India crossed the 150 GW mark in 2022, and the 2030 target of 500 GW was on track.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "MNRE",
+    "year": 2022
+  },
+  {
+    "q": "The India Semiconductor Mission approved:",
+    "options": [
+      "only for the design",
+      "the first two fab units",
+      "in 2020",
+      "discontinued"
+    ],
+    "answer": 1,
+    "explanation": "The India Semiconductor Mission approved the two fab units, the one by the Micron in Sanand in Gujarat and the one by the Kaynes in the Dholera in 2022-23.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The National Quantum Mission was:",
+    "options": [
+      "approved in 2016",
+      "a defence mission",
+      "approved in 2023",
+      "approved in 2018"
+    ],
+    "answer": 2,
+    "explanation": "The National Quantum Mission, with an outlay of Rs. 6,003.25 crore, was approved in 2023 for the quantum computers, the communication and the sensing technologies.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The National Education Policy of 2020 was:",
+    "options": [
+      "approved in 2015",
+      "approved in 2018",
+      "approved in 2022",
+      "approved in 2021"
+    ],
+    "answer": 3,
+    "explanation": "The National Education Policy of 2020, which replaced the 30 year old National Education Policy of 1986, was approved by the Cabinet in July 2021.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "Which of the following is correct in the case of the The National Education Policy?",
+    "options": [
+      "The foundational stage of 3 years, the preparatory of 5 to 8 and the middle of 8 to 11 and the secondary of 11 to 14 and the higher of 14 to 18",
+      "It is 5 years of the school and 3 years of the college",
+      "It is 3+4+4",
+      "It is only for the higher education"
+    ],
+    "answer": 0,
+    "explanation": "The 5+3+3+4 structure of the NEP covers the foundational stage of three years, the preparatory of five to eight, the middle of eight to eleven, the secondary of eleven to fourteen and the higher secondary of fourteen to eighteen.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The medium of instruction till the 5th standard will be:",
+    "options": [
+      "only the English",
+      "the mother tongue where possible",
+      "only for the higher secondary",
+      "banned"
+    ],
+    "answer": 1,
+    "explanation": "The NEP recommends that the medium of instruction till at least the 5th standard will be the mother tongue or the local or the regional language where possible, and the Sanskrit will be offered at the secondary level.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "Which of the following statements regarding the It emphasises the vocational education is correct?",
+    "options": [
+      "It restricted the vocational education to the urban areas",
+      "It made the vocational education optional only for the girls",
+      "It emphasises the vocational education with the exposure from the middle school stage",
+      "It abolished the vocational education"
+    ],
+    "answer": 2,
+    "explanation": "The NEP emphasises the vocational education with the exposure from the middle school stage and the integration of the vocational education with the mainstream schooling.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "Which of the following statements regarding the It envisages the multidisciplinary and is correct?",
+    "options": [
+      "It envisages only the research universities",
+      "It abolishes the colleges",
+      "It is only for the school education",
+      "It envisages the multidisciplinary and the holistic education with the flexible and the multiple entry and exit points in the academic and the vocational courses"
+    ],
+    "answer": 3,
+    "explanation": "The NEP envisages a multidisciplinary and holistic education with the flexible and multiple entry and exit points in the academic and the vocational courses.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 75th Independence Day was:",
+    "options": [
+      "celebrated in 2020",
+      "celebrated on 15 August 2022",
+      "celebrated in 2021",
+      "celebrated in 2023"
+    ],
+    "answer": 1,
+    "explanation": "The 75th Independence Day was celebrated on 15 August 2022 under the theme of 'Azadi Ka Amrit Mahotsav', and the year 2022 marked the 75th anniversary of the independence.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The 'The 'Azadi Ka Amrit Mahotsav' of 2022-23:",
+    "options": [
+      "Was a year-long celebration of the 75 years of the independence",
+      "Was the celebration of the 50 years of the independence",
+      "Was the celebration of the 60 years of the republic",
+      "Was the celebration of the 100 years of the republic"
+    ],
+    "answer": 0,
+    "explanation": "The Azadi Ka Amrit Mahotsav was the year-long commemoration of the 75 years of the independence with 75 events and a series of the thematic programmes.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The National Flag Code was:",
+    "options": [
+      "amended in 2000",
+      "never been amended",
+      "amended in 2021 to specify the day of the hoisting",
+      "amended in 1995"
+    ],
+    "answer": 2,
+    "explanation": "The National Flag Code was amended in July 2021, and it now specifies the day of the hoisting of the flag at the schools and the colleges.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "It was adopted on 26 January 1950 and the Lion Capital of the Sarnath is:",
+    "options": [
+      "the Ashoka Chakra",
+      "the State Emblem",
+      "adopted in 1947",
+      "designed by the Nandalal Bose"
+    ],
+    "answer": 1,
+    "explanation": "The State Emblem of India, the Lion Capital of Ashoka at Sanchi, was adopted on 26 January 1950, and the motto Satyameva Jayate comes from the Mundaka Upanishad.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The National Emblem is correct?",
+    "options": [
+      "The Nandalal Bose designed the National Emblem of India",
+      "The Nandalal Bose designed the Ashoka Chakra",
+      "The Nandalal Bose designed the Parliament logo",
+      "The Nandalal Bose designed the national emblem of Nepal"
+    ],
+    "answer": 0,
+    "explanation": "The National Emblem of India, adopted on 26 January 1950, was designed by the Nandalal Bose, who was also the principal designer of the national flag.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'The 15th Lok Sabha' was constituted on:",
+    "options": [
+      "26 May 2014",
+      "13 May 2014",
+      "20 May 2022",
+      "16 May 2019"
+    ],
+    "answer": 2,
+    "explanation": "The 15th Lok Sabha was constituted on 20 May 2022 after the general election, and the first session began on 13 June 2022.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The 'The 17th Lok Sabha' was constituted on:",
+    "options": [
+      "20 May 2022",
+      "18 May 2019",
+      "4 June 2019",
+      "16 June 2024"
+    ],
+    "answer": 3,
+    "explanation": "The 17th Lok Sabha was constituted on 16 June 2024 after the general election of 2024, and the new government was sworn in on 9 June 2024.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The theme of the Economic Survey 2021-22 was:",
+    "options": [
+      "the Reimagining",
+      "the We Build Together",
+      "Time to Move",
+      "the Grow More"
+    ],
+    "answer": 2,
+    "explanation": "The Economic Survey 2021-22 with the theme of Time to Move was presented on 31 January 2022, and the theme of the budget was 'The Budget's Fiscal Policy'.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Five Action Areas included:",
+    "options": [
+      "five of the agriculture only",
+      "the trade only",
+      "the five regions",
+      "the food security, the nutrition, the sustainable diets, the agri-food innovation and the resilient food systems"
+    ],
+    "answer": 3,
+    "explanation": "The Five Action Areas of the UN Food Systems Summit were the food security, the nutritious diets, the sustainable diets, the agri-food innovation and the resilient food systems.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "UN",
+    "year": 2021
+  },
+  {
+    "q": "In the context of the The, which of the following is correct?",
+    "options": [
+      "The tourism statistics for 2021 showed a recovery in the domestic tourism",
+      "The tourism was the highest ever in 2022",
+      "The international arrivals were the highest in 2021",
+      "The tourism statistics were not published"
+    ],
+    "answer": 0,
+    "explanation": "The Ministry of Tourism released the India Tourism Statistics 2021 showing the recovery of the domestic tourism with about 677 million visits, and the 2022 statistics showed 1731 million domestic visits.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Ministry of Tourism",
+    "year": 2022
+  },
+  {
+    "q": "The oil and the gas exploration of the Assam was:",
+    "options": [
+      "opened in 2015",
+      "opened up to the private players in 2021",
+      "opened in 1990",
+      "never opened"
+    ],
+    "answer": 1,
+    "explanation": "The Assam oil and the gas exploration blocks were opened to the private players in 2021 through the bidding process, after the 2019 and the 2020 explorations.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The PLI schemes were announced:",
+    "options": [
+      "only the textiles",
+      "for the services only",
+      "discontinued in 2022",
+      "for the 14 sectors including the mobile phones, the pharmaceuticals and the food processing"
+    ],
+    "answer": 3,
+    "explanation": "The government announced the production linked incentive schemes for 14 sectors with an outlay of about Rs. 1.97 lakh crore, and the mobile phones, the pharmaceuticals and the food processing were the prominent among them.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The Fund of Funds for Startups was:",
+    "options": [
+      "rs. 4,000 crore",
+      "set up with a corpus of Rs. 10,000 crore",
+      "rs. 1,000 crore",
+      "rs. 60,000 crore"
+    ],
+    "answer": 1,
+    "explanation": "The Fund of Funds for Startups, set up in 2021 with a corpus of Rs. 10,000 crore, is administered by the SIDBI and it invests in the SEBI registered funds.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The National Master Plan has:",
+    "options": [
+      "30 sectors",
+      "100 sectors",
+      "14 sectors with the 20 key corridors and the 100 projects",
+      "7 sectors"
+    ],
+    "answer": 2,
+    "explanation": "The PM Gati Shakti National Master Plan has 14 sectors with the 20 key multimodal corridors and about 100 projects to be implemented by 2024-25.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "Which of the following statements regarding the The National Monetisation Pipeline and is correct?",
+    "options": [
+      "The National Monetisation Pipeline and the National Fund for the strategic sectors",
+      "It was the disinvestment of the shares of the PSUs only",
+      "It was the privatisation of the airports only",
+      "There was no such fund"
+    ],
+    "answer": 0,
+    "explanation": "The government announced the National Monetisation Pipeline and the National Fund for the strategic sectors in 2021 as a part of the fiscal consolidation and the infrastructure development.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "In the context of the India, which of the following is correct?",
+    "options": [
+      "India hosted the G20 in Bengaluru in 2023",
+      "India hosted the G20 in Mumbai in 2023",
+      "India hosted the G20 Summit in New Delhi in September 2023",
+      "India hosted the G20 in 2019"
+    ],
+    "answer": 2,
+    "explanation": "India hosted the G20 Leaders' Summit in New Delhi on 9 and 10 September 2023 with the theme of One Earth, One Family, One Future.",
+    "difficulty": "easy",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "Which of the following is correct in the case of the India hosted?",
+    "options": [
+      "There was no such event",
+      "India hosted the Miss World 2023 in Goa",
+      "India hosted the Miss Universe 2023",
+      "India hosted the Miss World 2017 in Goa"
+    ],
+    "answer": 1,
+    "explanation": "India hosted the Miss World 2023 in Goa, and the country had earlier hosted the Miss Universe 1994 and the Miss World 2017.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The Reliance Retail acquired:",
+    "options": [
+      "the Seven Dreams and the Metro",
+      "the Flipkart only",
+      "sold to the Amazon",
+      "no acquisition"
+    ],
+    "answer": 0,
+    "explanation": "In 2022 the Reliance Retail acquired the Seven Dreams and the Metro brands, and the company announced a partnership with the Amazon for the pincode.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The e-rupee pilot for the wholesale payments started:",
+    "options": [
+      "in 2019",
+      "only in the retail",
+      "discontinued",
+      "in 2023"
+    ],
+    "answer": 3,
+    "explanation": "The wholesale digital rupee pilot was launched in 2022-23 and the retail pilot was in 29 districts of the four states, and the e-rupee is at par with the physical rupee.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2023
+  },
+  {
+    "q": "In the context of the The Quad, which of the following is correct?",
+    "options": [
+      "The Quad announced the trade pact with the EU",
+      "The Quad announced the food and the agriculture package with the India-led initiative",
+      "The Quad announced the nuclear deal",
+      "The Quad was dissolved"
+    ],
+    "answer": 1,
+    "explanation": "The Quad Leaders' Summit in Bali in 2022 announced the food and the agriculture package with the India-led initiative for the resilient food systems.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Water Action Agenda was:",
+    "options": [
+      "announced at the UN Water Conference in New York in March 2023",
+      "in 2015",
+      "in Cairo",
+      "in Delhi in 2023"
+    ],
+    "answer": 0,
+    "explanation": "The UN Water Conference of 2023 was held in New York and it saw the launch of the Water Action Agenda and the Water Call to Action, and the UN Water Conference of 2016 was in Budapest.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "UN",
+    "year": 2023
+  },
+  {
+    "q": "The Santiniketan was:",
+    "options": [
+      "inscribed in 2003",
+      "inscribed in 2013",
+      "not a World Heritage site",
+      "inscribed in 2023"
+    ],
+    "answer": 3,
+    "explanation": "The Santiniketan, the ashram and the university campus of Rabindranath Tagore, was inscribed as a UNESCO World Heritage site in July 2023.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "UNESCO",
+    "year": 2023
+  },
+  {
+    "q": "Which of the following statements regarding the 'Digital India' is correct?",
+    "options": [
+      "The 'Skill India'",
+      "The 'Start Up India'",
+      "The 'Digital India' and the 'Digital Infrastructure'",
+      "The 'Make in India'"
+    ],
+    "answer": 2,
+    "explanation": "The Digital India and the digital infrastructure were the key themes of the Digital India Week 2023 and of the Digital Infrastructure Transformation Mission.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The 2023 prize went:",
+    "options": [
+      "to Claudia Goldin, James Heckman and Michael Katz, and one of them was the Indian-American Claudia Goldin",
+      "to Duflo, Banerjee and Kremer",
+      "to Bernanke, Diamond and Dybvig",
+      "to the IPCC"
+    ],
+    "answer": 0,
+    "explanation": "Claudia Goldin, a Harvard economist, was among the three laureates of the 2023 prize in Economic Sciences for their work on the inequality and the institutions.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Foundation",
+    "year": 2023
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the India hosted?",
+    "options": [
+      "There was no event in 2021",
+      "India hosted the Miss Universe 2021 in Goa",
+      "India hosted the Miss Universe 1994 in Goa",
+      "India hosted the Miss Universe 2017"
+    ],
+    "answer": 1,
+    "explanation": "India hosted the Miss Universe 2021 in Goa, and the country hosted the Miss Universe 1994 in Bombay as well.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "Which of the following statements regarding the 14th President is correct?",
+    "options": [
+      "He was the 13th President",
+      "He was the first from the BJP",
+      "He served for two terms",
+      "He was the 14th President of India and the first from the Dalit community"
+    ],
+    "answer": 3,
+    "explanation": "Ram Nath Kovind, the 14th President of India from 2017 to 2022, was the first President from the Scheduled Castes and the second Dalit in the office after the K. R. Narayanan.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the 15th President is correct?",
+    "options": [
+      "She is the first woman Chief Minister",
+      "She is the Governor of Jharkhand",
+      "She is the 15th President of India and the first from the tribal community",
+      "She is the 14th President"
+    ],
+    "answer": 2,
+    "explanation": "Droupadi Murmu, the 15th President of India since 2022, is the first from the tribal community and the second woman President after Pratibha Patil.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sengol was the ancient Indian symbol of authority that the President used:",
+    "options": [
+      "the coin of the Maurya",
+      "at the inauguration in 2022",
+      "the emblem of the UN",
+      "the symbol of the democracy"
+    ],
+    "answer": 1,
+    "explanation": "The Sengol, the ancient Indian symbol of the authority and the sovereignty, was placed on the table of the President for the first time in the 2022 inauguration.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The 1 rupee coin with the 250th birth anniversary of the Guru Nanak was:",
+    "options": [
+      "released in 1999",
+      "released in 2011",
+      "released in 2007",
+      "released in 2018"
+    ],
+    "answer": 3,
+    "explanation": "The commemorative 1 rupee coin marking the 250th birth anniversary of Guru Nanak was released in 2018, and the 350th anniversary of the Guru Tegh Bahadur was marked in 2016.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 2018
+  },
+  {
+    "q": "The 'The 'Mann Ki Baat' is:",
+    "options": [
+      "The monthly radio programme of the Prime Minister that started in 2014",
+      "The daily radio show of the President",
+      "The monthly show of the Lok Sabha TV",
+      "The annual address of the Finance Minister"
+    ],
+    "answer": 0,
+    "explanation": "Mann Ki Baat, the monthly radio and the TV programme of the Prime Minister broadcast from the Akashvani studio in New Delhi, was first aired in October 2014.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'The 'Arogya Setu' app was launched in:",
+    "options": [
+      "2021",
+      "2018",
+      "2020",
+      "2019"
+    ],
+    "answer": 2,
+    "explanation": "The Aarogya Setu, the contact tracing app for the COVID-19, was launched in April 2020 by the Ministry of Health and Family Welfare.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2020
+  },
+  {
+    "q": "In the context of the The Odisha, which of the following is correct?",
+    "options": [
+      "The Kerala was the first to the ODF",
+      "The Goa was the first to the ODF",
+      "No state has achieved the ODF",
+      "The Odisha was the first state to achieve the 100 per cent of the ODF status"
+    ],
+    "answer": 3,
+    "explanation": "Odisha was the first state to declare itself open defection free with the 100 per cent coverage of the households, and the verification of this was done in 2022.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The 'The 'Statue of Unity' and the '2018:",
+    "options": [
+      "It was inaugurated on 2 October 2018",
+      "The Statue of Unity was inaugurated on 18 October 2018",
+      "It was inaugurated on 26 January 2018",
+      "It was inaugurated in 2016"
+    ],
+    "answer": 1,
+    "explanation": "The Statue of Unity of Sardar Vallabhbhai Patel at Kevadia in Gujarat was inaugurated on 18 October 2018, the 146th birth anniversary of the Sardar.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 2018
+  },
+  {
+    "q": "The 'The 'Northeast Frontier Agency' was renamed in:",
+    "options": [
+      "1960",
+      "1987",
+      "1972",
+      "1954"
+    ],
+    "answer": 2,
+    "explanation": "The North-East Frontier Agency was renamed the state of Arunachal Pradesh in 1972, and the state was formed on 20 February 1987.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the The Trishul, which of the following is correct?",
+    "options": [
+      "The Trishul was the 1999 Pokhran-II test",
+      "The Trishul was the first satellite",
+      "The Trishul was the SLV launch vehicle",
+      "The Trishul was the 1974 test"
+    ],
+    "answer": 0,
+    "explanation": "Operation Shakti of 1999, the Pokhran-II test, was codenamed Trishul, and the 1974 test was the Smiling Buddha.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 2016 exercise was:",
+    "options": [
+      "the Pokhran test of the artillery and the missiles",
+      "the nuclear test",
+      "the space mission",
+      "the first Indian satellite"
+    ],
+    "answer": 0,
+    "explanation": "Exercise Nagarjuna, the 2016 test of the missile systems of the Indian Army, was conducted in the Pokhran range.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "Which of the following statements regarding the The MMM of the ISRO is correct?",
+    "options": [
+      "The MMM was of the China",
+      "The MMM of the ISRO and the NASA confirmed the presence of the water in 2009",
+      "The MMM was of the ESA only",
+      "The MMM was launched in 2013"
+    ],
+    "answer": 1,
+    "explanation": "The Moon Mineralogy Mapper of the ISRO and the NASA, on the Chandrayaan-1, confirmed the presence of the water molecules on the lunar surface in 2009.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "Standard Reference",
+    "year": 2009
+  }
+]

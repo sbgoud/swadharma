@@ -1,0 +1,257 @@
+[
+  {
+    "q": "The 'Global Trade Alert' and the 'Trade Policy Review' are:",
+    "options": [
+      "WTO mechanisms for transparency and surveillance of trade policies",
+      "programmes of the UNIDO for industrial development",
+      "tools of the World Bank for project appraisal",
+      "initiatives of the IMF for debt sustainability"
+    ],
+    "answer": 0,
+    "explanation": "The Trade Policy Review Mechanism and the Global Trade Alert are part of the WTO's transparency and surveillance architecture, and they examine the trade policies of members and the measures that may distort trade.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "WTO",
+    "year": null
+  },
+  {
+    "q": "The 'General Agreement on Tariffs and Trade' of 1947 is significant because:",
+    "options": [
+      "it created the International Monetary Fund",
+      "it was the first multilateral agreement on tariffs and provided the institutional base for the WTO",
+      "it was the first treaty to liberalise services trade",
+      "it established the Bretton Woods exchange rate system"
+    ],
+    "answer": 1,
+    "explanation": "The GATT of 1947 set out the principles of trade policy, including most favoured nation treatment, and after eight rounds of negotiations it was replaced by the WTO Agreement in 1995.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "WTO",
+    "year": null
+  },
+  {
+    "q": "The 'General Agreement on Trade in Services' of the WTO applies to:",
+    "options": [
+      "trade in services such as tourism, transport, financial and business services",
+      "only the supply of services in the agriculture sector",
+      "the tariff preferences of developing countries",
+      "the settlement of disputes relating to services"
+    ],
+    "answer": 0,
+    "explanation": "GATS was the first multilateral agreement to liberalise and rules-basedly discipline trade in services, and it has annexes on specific sectors such as financial services, telecommunications and movement of natural persons.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "WTO",
+    "year": null
+  },
+  {
+    "q": "The 'Trade Facilitation Agreement' of the WTO aims to:",
+    "options": [
+      "provide for the abolition of all customs duties",
+      "reduce the tariffs on agricultural products",
+      "simplify customs procedures and reduce the cost of border compliance for traders",
+      "subsidise the agricultural exports of developing countries"
+    ],
+    "answer": 2,
+    "explanation": "The Trade Facilitation Agreement, in force since 2017, simplifies and harmonises customs procedures, sets a time limit for the release of cargo and requires advance rulings and risk management, with a special and differential treatment for developing countries.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "WTO",
+    "year": null
+  },
+  {
+    "q": "India's export of business process services is facilitated by the:",
+    "options": [
+      "the restriction of work-from-home arrangements for exporters",
+      "the imposition of a high export duty on software",
+      "the absence of any special economic zones for the IT sector",
+      "IT parks and the SEZ policy, with a large share of the workforce trained at the university and technical institute level"
+    ],
+    "answer": 3,
+    "explanation": "The policy of setting up software technology parks and SEZs for the IT sector, together with the strength of engineering education, created the skilled labour pool that made India a global outsourcing destination.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "For Indian exports, the recognition of the 'BIS' certification:",
+    "options": [
+      "helps exporters meet the quality and labelling requirements of the destination country",
+      "entitles them to a rebate on customs duty",
+      "is mandatory only for imports",
+      "replaces the need for a certificate of origin"
+    ],
+    "answer": 0,
+    "explanation": "BIS certification, and the Quality Control Orders, enable Indian exporters to demonstrate conformity with international standards and thereby access markets with strict technical regulations.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Foreign Trade Policy' of India is:",
+    "options": [
+      "a part of the Income Tax Act",
+      "an annual statement of the RBI",
+      "the tariff schedule notified by the Department of Revenue",
+      "a document of the DGFT that outlines the policy framework for exports and imports"
+    ],
+    "answer": 3,
+    "explanation": "The Foreign Trade Policy is notified by the DGFT under the Foreign Trade (Development and Regulation) Act, and it is supplemented by the annual tariff notifications of the Department of Revenue.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "DGFT",
+    "year": null
+  },
+  {
+    "q": "The Indian postal network enables exports by:",
+    "options": [
+      "issuing letters of credit for exporters",
+      "facilitating exports of small value consignments through the international mail and the e-commerce export hubs",
+      "certifying the quality of exported goods",
+      "operating the customs bonded warehouses"
+    ],
+    "answer": 1,
+    "explanation": "The Department of Posts runs e-commerce export hubs and an export mail scheme that allows small traders and exporters to ship consignments abroad through the international mail network.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's coastal shipping policy aims to:",
+    "options": [
+      "increase the number of inland waterways in the Ganga basin",
+      "ban the movement of cargo by road",
+      "shift a greater share of the freight from road and rail to waterways to reduce logistics cost and congestion",
+      "privatise all the major ports without any regulation"
+    ],
+    "answer": 2,
+    "explanation": "India's coastal shipping and inland waterways policy seeks to move cargo from road and rail to cheaper and more environment friendly waterways, and the National Inland Waterways Act, 2016 designated three national waterways.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "India joined the 'Belt and Road Initiative' in:",
+    "options": [
+      "2022, at the SCO summit in Samarkand",
+      "2019, at the Second Belt and Road Forum in Beijing",
+      "2013, at the launch of the initiative in Beijing",
+      "2016, at the G20 summit in Hangzhou"
+    ],
+    "answer": 1,
+    "explanation": "India formally joined the Belt and Road Initiative in 2019 at the Second Belt and Road Forum in Beijing, on the condition that the forum respect India's sovereignty and territorial integrity.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Ministry of External Affairs",
+    "year": 2019
+  },
+  {
+    "q": "The ASEAN-India Dialogue Relations were upgraded to a summit in:",
+    "options": [
+      "2014, at the ASEAN-India Summit in Nay Pyi Taw",
+      "1997, at the ASEAN Summit in Kuala Lumpur",
+      "2008, at the ASEAN-India Summit in New Delhi",
+      "2020, at the ASEAN-India Summit in Hanoi"
+    ],
+    "answer": 0,
+    "explanation": "The ASEAN-India Dialogue Relations were elevated to the level of a summit in 2014 in Nay Pyi Taw, and the ASEAN-India Centenary was observed in 2022 marking fifty years of dialogue relations.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Ministry of External Affairs",
+    "year": null
+  },
+  {
+    "q": "The voting power of a country in the IMF is determined by:",
+    "options": [
+      "the number of its diplomats in the capital",
+      "its population",
+      "its quota, which also determines its share of the credit line and of the distribution of SDRs",
+      "its contribution to the World Bank alone"
+    ],
+    "answer": 2,
+    "explanation": "A country's quota in the Fund determines its voting power, its access to the credit line and its share of the allocation of SDRs, and the quota is reviewed every five years through the general review and the fourteen-yearly quota increase.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "IMF",
+    "year": null
+  },
+  {
+    "q": "Under the Minimum Reserve System, the RBI is required to:",
+    "options": [
+      "maintain a minimum cash balance with the scheduled commercial banks",
+      "maintain a minimum reserve of gold with the public",
+      "keep the exchange rate of the rupee fixed",
+      "hold a minimum stock of foreign assets against the import demand of the economy"
+    ],
+    "answer": 3,
+    "explanation": "Under the Minimum Reserve System, adopted in 1957, the central bank holds a minimum stock of foreign assets sufficient to cover a certain period of imports, and the RBI's stock of foreign exchange is part of these reserves.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "Under FEMA, a Non-Resident Indian is a person who:",
+    "options": [
+      "require NRIs to convert all foreign currency into rupees on arrival",
+      "permit NRIs to hold Indian currency only in national banks",
+      "prohibit NRIs from holding any foreign currency",
+      "allow NRIs to hold foreign currency and Indian currency in designated accounts without restrictions on the former"
+    ],
+    "answer": 3,
+    "explanation": "NRIs may hold foreign currency in foreign currency accounts and freely use it, though they cannot hold foreign currency in the form of Indian bank notes, and Indian currency holding by NRIs is subject to specified limits.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'merchandise exports' of India consist mainly of:",
+    "options": [
+      "iron ore and coal alone",
+      "engineering goods, petroleum products, gems and jewellery, pharmaceuticals and chemicals",
+      "only agricultural products",
+      "mainly services and tourism receipts"
+    ],
+    "answer": 1,
+    "explanation": "Merchandise exports are dominated by engineering goods, refined petroleum products, gems and jewellery, pharmaceuticals, chemicals and cotton textiles, while services make up a separate and growing share of total exports.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "Inward remittances in India are a significant contributor to:",
+    "options": [
+      "the current account balance and the consumption expenditure of migrant households",
+      "the capital expenditure of the states",
+      "the primary deficit",
+      "the fiscal deficit of the central government"
+    ],
+    "answer": 0,
+    "explanation": "Remittances support household consumption and smooth the current account, and their distribution across states is uneven, with the largest shares going to the poorer states of Bihar, Uttar Pradesh and Rajasthan.",
+    "difficulty": "easy",
+    "category": "poverty-and-employment",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The key labour market indicator that captures the share of the working-age population engaged in gainful activity is the:",
+    "options": [
+      "unemployment rate",
+      "dependency ratio",
+      "labour force participation rate",
+      "population density"
+    ],
+    "answer": 2,
+    "explanation": "The labour force participation rate is the share of the working-age population in the labour force, and a low female participation rate is a persistent feature of the Indian labour market.",
+    "difficulty": "easy",
+    "category": "poverty-and-employment",
+    "source": "NCERT Class XII",
+    "year": null
+  }
+]

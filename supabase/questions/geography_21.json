@@ -1,0 +1,1292 @@
+[
+  {
+    "q": "Which layer of the Earth lies directly beneath the crust?",
+    "options": [
+      "Inner core",
+      "Lithosphere",
+      "Mantle",
+      "Outer core"
+    ],
+    "answer": 2,
+    "explanation": "The crust is the thin outer shell of the Earth and rests on the much thicker mantle, which in turn surrounds the outer and inner core.",
+    "difficulty": "easy",
+    "category": "physical-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Hawaiian Islands are an example of which type of volcanic cone?",
+    "options": [
+      "Composite volcano",
+      "Caldera",
+      "Lava dome",
+      "Shield volcano"
+    ],
+    "answer": 3,
+    "explanation": "Hawaiian volcanoes are shield volcanoes built by repeated flows of fluid basaltic lava, which gives them their broad, gently sloping shield shape.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Richter scale measures which of the following?",
+    "options": [
+      "Magnitude of an earthquake",
+      "Depth of the focus",
+      "Period of seismic waves",
+      "Intensity of an earthquake"
+    ],
+    "answer": 0,
+    "explanation": "The Richter scale expresses the magnitude, i.e. the energy released at the focus, while the intensity scale measures the shaking felt at a particular place.",
+    "difficulty": "easy",
+    "category": "physical-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Continental drift theory was propounded by which scientist?",
+    "options": [
+      "Edward Suess",
+      "Alfred Wegener",
+      "Harry Hess",
+      "Wegener's student Holmes"
+    ],
+    "answer": 1,
+    "explanation": "Alfred Wegener proposed continental drift in 1912, arguing that continents were once joined in the supercontinent Pangaea and later drifted apart.",
+    "difficulty": "easy",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The theory of seafloor spreading was put forward by which geologist?",
+    "options": [
+      "Robert Dietz",
+      "Vine and Matthews",
+      "Holmes",
+      "Harry Hess"
+    ],
+    "answer": 3,
+    "explanation": "Harry Hess in 1962 proposed that new oceanic crust is created at mid-ocean ridges and spreads outward, later confirmed by Vine and Matthews through magnetic anomalies.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the highest point of the Indian subcontinent?",
+    "options": [
+      "Kanchenjunga",
+      "Nanda Devi",
+      "Kamet",
+      "Saltoro Kangri"
+    ],
+    "answer": 0,
+    "explanation": "Kanchenjunga at 8,586 m is the highest peak in India and the third highest in the world; Kamet (7,760 m) is the highest peak entirely within India.",
+    "difficulty": "easy",
+    "category": "indian-physical-features",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Bhabhar and Terai belts are found at the foot of which mountain range?",
+    "options": [
+      "Nilgiri",
+      "Aravalli",
+      "Himalaya",
+      "Satpura"
+    ],
+    "answer": 2,
+    "explanation": "The Bhabhar is a gravelly belt and the Terai a marshy tract running along the foothills of the Himalayas, created by the deposition of Himalayan streams.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Chambal River is known as the lifeline of which state?",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Uttar Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "The Chambal flows through Madhya Pradesh and Rajasthan and is called the lifeline of Rajasthan because of its deep valleys and fertile black-soil basin.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which hill range separates the Chota Nagpur Plateau from the Deccan Plateau?",
+    "options": [
+      "Vindhya Range",
+      "Malwa Plateau",
+      "Mahadeo Hills",
+      "Satpura Range"
+    ],
+    "answer": 3,
+    "explanation": "The Satpura range, running between the Narmada and the Tapi, forms the dividing line between the Chota Nagpur Plateau and the Deccan Plateau.",
+    "difficulty": "hard",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the highest peak of the Western Ghats?",
+    "options": [
+      "Pushpagiri",
+      "Anamudi",
+      "Doddabetta",
+      "Kalsubai"
+    ],
+    "answer": 1,
+    "explanation": "Anamudi (2,695 m) in Kerala is the highest peak of the Western Ghats; Doddabetta is the highest point of the Nilgiris and Kalsubai of the Sahyadris proper.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Thar Desert lies primarily between which two states?",
+    "options": [
+      "Rajasthan and Gujarat",
+      "Rajasthan and Punjab",
+      "Gujarat and Madhya Pradesh",
+      "Rajasthan and Haryana"
+    ],
+    "answer": 0,
+    "explanation": "The Thar Desert extends across western Rajasthan and the Kutch and western Rajasthan region of Gujarat, bounded by the Aravalli Range to the east.",
+    "difficulty": "easy",
+    "category": "indian-physical-features",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which is the largest coral reef lagoon in India?",
+    "options": [
+      "Gulf of Cambay",
+      "Gulf of Mannar",
+      "Gulf of Kutch",
+      "Lakshadweep Lagoon"
+    ],
+    "answer": 2,
+    "explanation": "The Gulf of Kutch in Gujarat forms the largest tidal lagoon in India, and the Gulf of Mannar has the fringing coral reefs of the Gulf of Mannar Biosphere Reserve.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Silent Valley National Park is located in which state?",
+    "options": [
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka"
+    ],
+    "answer": 2,
+    "explanation": "Silent Valley in the Nilgiri Biosphere Reserve in Kerala is the country's oldest tropical evergreen forest and home to the lion-tailed macaque.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ganga is the longest river in India. Which is the largest river basin in India?",
+    "options": [
+      "Brahmaputra Basin",
+      "Godavari Basin",
+      "Narmada Basin",
+      "Ganga Basin"
+    ],
+    "answer": 3,
+    "explanation": "The Ganga basin, covering about a quarter of India's land area, is the largest river basin in the country and supports the largest population.",
+    "difficulty": "easy",
+    "category": "rivers-and-lakes",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which river is known as the 'Dakshin Ganga'?",
+    "options": [
+      "Godavari",
+      "Krishna",
+      "Kaveri",
+      "Narmada"
+    ],
+    "answer": 0,
+    "explanation": "The Godavari, the longest river of peninsular India, is popularly known as the Dakshin Ganga or the Ganga of the South.",
+    "difficulty": "easy",
+    "category": "rivers-and-lakes",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Narmada and the Tapi flow through which rift?",
+    "options": [
+      "Kashmir Trough",
+      "Narmada-Son Rift",
+      "Doda-Betta",
+      "Malwa Rift"
+    ],
+    "answer": 1,
+    "explanation": "Both rivers flow through the Narmada-Son Rift Valley, a fault-bounded trough that separates the Vindhya and Satpura ranges from the Vindhya plateau proper.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following rivers flows through the Rann of Kutch?",
+    "options": [
+      "Saraswati",
+      "Narmada",
+      "Tapti",
+      "Mahanadi"
+    ],
+    "answer": 0,
+    "explanation": "The Saraswati flows into the Rann of Kutch and also drains into the Arabian Sea through the Gulf of Kutch; the Narmada and Tapi reach the sea directly.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Wular Lake, the largest freshwater lake in India, is located in which state?",
+    "options": [
+      "Bihar",
+      "Jammu and Kashmir",
+      "Uttarakhand",
+      "Assam"
+    ],
+    "answer": 1,
+    "explanation": "Wular Lake in the Kashmir Valley is the largest freshwater lake in India and is fed by the Jhelum River.",
+    "difficulty": "easy",
+    "category": "rivers-and-lakes",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Loktak Lake, known for its floating national park, is in which state?",
+    "options": [
+      "Mizoram",
+      "Tripura",
+      "Nagaland",
+      "Manipur"
+    ],
+    "answer": 3,
+    "explanation": "Loktak Lake in Manipur hosts Keibul Lamjao, the world's only floating national park, on its southern-eastern fringes.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bhakra Nangal Dam is built across which river?",
+    "options": [
+      "Chenab",
+      "Ravi",
+      "Sutlej",
+      "Beas"
+    ],
+    "answer": 2,
+    "explanation": "Bhakra Nangal, India's highest gravity dam, is built on the Sutlej and forms the Gobind Sagar Lake in Punjab and Himachal Pradesh.",
+    "difficulty": "easy",
+    "category": "rivers-and-lakes",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Anamudi, the highest peak of peninsular India, is located in which state?",
+    "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Kerala"
+    ],
+    "answer": 3,
+    "explanation": "Anamudi (2,695 m) is in the Palni hills of Kerala, near the Kerala-Tamil Nadu border, within the Western Ghats.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest lake of India by surface area?",
+    "options": [
+      "Chilika Lake",
+      "Vembanad Lake",
+      "Sambhar Lake",
+      "Pulicat Lake"
+    ],
+    "answer": 1,
+    "explanation": "Vembanad Lake in Kerala is the largest lake in India by surface area, and the Chilika Lake in Odisha is the largest brackish water lagoon.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Hirakud Dam is built on which river?",
+    "options": [
+      "Godavari",
+      "Tungabhadra",
+      "Mahanadi",
+      "Damodar"
+    ],
+    "answer": 2,
+    "explanation": "The Hirakud Dam across the Mahanadi in Odisha is one of the longest earthen dams in India, built in the Mahanadi valley after the 1936 floods.",
+    "difficulty": "easy",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the Western Disturbances is correct?",
+    "options": [
+      "They originate over the Mediterranean Sea",
+      "They originate over the Bay of Bengal",
+      "They are easterly winds from the Arabian Sea",
+      "They are responsible for the monsoon rains of the west coast"
+    ],
+    "answer": 0,
+    "explanation": "Western disturbances are extratropical cyclones originating over the Mediterranean region that bring winter rain to the north-western plains and the Western Ghats.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "El Nino is associated with which of the following phenomena?",
+    "options": [
+      "Rise in the frequency of Indian cyclones",
+      "Increase in the intensity of the southwest monsoon",
+      "Warming of the central and eastern Pacific Ocean",
+      "Cooling of the Indian Ocean"
+    ],
+    "answer": 2,
+    "explanation": "El Nino is the anomalous warming of the central and eastern equatorial Pacific, which weakens the Walker circulation and often suppresses the Indian monsoon.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The temperature inversion in the atmosphere occurs most commonly during which season and time?",
+    "options": [
+      "Monsoon afternoons",
+      "Pre-dawn summer mornings",
+      "Summer noon",
+      "Winter nights"
+    ],
+    "answer": 3,
+    "explanation": "On clear winter nights, the ground cools rapidly and radiates heat away, so the air near the surface becomes colder than the air above, producing a temperature inversion.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which wind is a hot, dry summer wind of the Sahara that blows towards the Mediterranean?",
+    "options": [
+      "Mistral",
+      "Sirocco",
+      "Chinook",
+      "Khamsin"
+    ],
+    "answer": 1,
+    "explanation": "The Sirocco is a hot, dry, dust-laden wind that blows from the Sahara across the Mediterranean towards Italy, while the Khamsin is its Egyptian counterpart.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which type of rainfall occurs when air is forced to rise over a mountain barrier?",
+    "options": [
+      "Orographic rainfall",
+      "Cyclonic rainfall",
+      "Frontal rainfall",
+      "Convectional rainfall"
+    ],
+    "answer": 0,
+    "explanation": "Orographic (relief) rainfall occurs when moist air is forced to ascend a mountain, cooling and condensing on the windward slope.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Koppen climate classification system divides the world climate into how many major groups?",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Three"
+    ],
+    "answer": 1,
+    "explanation": "Koppen's system recognises five major groups — tropical, dry, temperate, continental and polar — each divided into further subgroups.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the climatic type of most of the north-western India under the Koppen system?",
+    "options": [
+      "Cwa",
+      "Am",
+      "BWh",
+      "Aw"
+    ],
+    "answer": 2,
+    "explanation": "Most of the north-western India, including the Thar Desert, has a hot arid (BWh) climate under the Koppen system.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which current flows northward along the eastern coast of South America?",
+    "options": [
+      "Brazil Current",
+      "Benguela Current",
+      "Agulhas Current",
+      "Peru Current"
+    ],
+    "answer": 0,
+    "explanation": "The warm Brazil Current flows southward along the eastern coast of South America; the cold Peru or Humboldt Current flows northward along the west coast.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "What is the average salinity of the ocean water?",
+    "options": [
+      "50 parts per thousand",
+      "5 parts per thousand",
+      "10 parts per thousand",
+      "35 parts per thousand"
+    ],
+    "answer": 3,
+    "explanation": "The average salinity of the oceans is about 35 parts per thousand, with higher values in the Red Sea (over 40 ppt) and the lowest in the Baltic Sea (under 10 ppt).",
+    "difficulty": "easy",
+    "category": "oceanography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which ocean current is responsible for the cold climate of the north-west European coast?",
+    "options": [
+      "Gulf Stream",
+      "Kuroshio",
+      "Labrador Current",
+      "California Current"
+    ],
+    "answer": 2,
+    "explanation": "The cold Labrador Current flows along the north-eastern coast of North America and contributes to the cool climate of north-west Europe.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The deepest point of the ocean is located in which trench?",
+    "options": [
+      "Tonga Trench",
+      "Mariana Trench",
+      "Philippine Trench",
+      "Java Trench"
+    ],
+    "answer": 1,
+    "explanation": "The Mariana Trench in the western Pacific contains the Challenger Deep, the deepest known point of the ocean floor at over 11,000 metres.",
+    "difficulty": "easy",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a warm current of the North Atlantic?",
+    "options": [
+      "East Greenland Current",
+      "Labrador Current",
+      "Canary Current",
+      "North Atlantic Drift"
+    ],
+    "answer": 3,
+    "explanation": "The North Atlantic Drift is the warm extension of the Gulf Stream that keeps the north-west European coast ice-free in winter.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Mid-ocean ridges are best described as:",
+    "options": [
+      "Zones of new crust formation",
+      "Zones of deep oceanic trenches",
+      "Ancient fold mountains",
+      "Submarine trenches"
+    ],
+    "answer": 0,
+    "explanation": "Mid-ocean ridges are divergent plate boundaries where magma rises and new oceanic crust is created, later pushed away from the ridge axis.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the United Nations Convention on the Law of the Sea is correct?",
+    "options": [
+      "It was adopted in 1982 and came into force in 1994",
+      "It allows a country to mine the deep seabed without limits",
+      "It provides for an exclusive economic zone of 200 nautical miles",
+      "It gives coastal states sovereignty over the continental shelf beyond 200 nautical miles"
+    ],
+    "answer": 0,
+    "explanation": "UNCLOS was adopted in 1982 and entered into force in 1994; it provides a 200-nautical-mile exclusive economic zone and regulates deep-sea mining through the International Seabed Authority.",
+    "difficulty": "hard",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sahara, the largest hot desert in the world, is located mainly in which part of Africa?",
+    "options": [
+      "Central Africa",
+      "East Africa",
+      "Southern Africa",
+      "Northern Africa"
+    ],
+    "answer": 3,
+    "explanation": "The Sahara spans the northern part of Africa from the Atlantic coast to the Red Sea across more than a dozen countries.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Gobi Desert is located primarily in which region?",
+    "options": [
+      "Central America",
+      "Southern Africa",
+      "Inner Asia",
+      "Arabian Peninsula"
+    ],
+    "answer": 2,
+    "explanation": "The Gobi lies in the drylands of Mongolia and northern China, forming part of the arid zone of Inner Asia.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which strait separates Spain from Morocco?",
+    "options": [
+      "Bab-el-Mandeb",
+      "Gibraltar",
+      "Bering Strait",
+      "Strait of Hormuz"
+    ],
+    "answer": 1,
+    "explanation": "The Strait of Gibraltar, about 13 km wide at its narrowest, connects the Atlantic Ocean with the Mediterranean Sea and separates Spain from Morocco.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Strait of Hormuz connects the Persian Gulf with which sea/ocean?",
+    "options": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Mediterranean Sea",
+      "Red Sea"
+    ],
+    "answer": 0,
+    "explanation": "The Strait of Hormuz links the Persian Gulf with the Gulf of Oman and the Arabian Sea, and carries a large share of the world's oil shipments.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest island in the world?",
+    "options": [
+      "Borneo",
+      "Madagascar",
+      "Greenland",
+      "New Guinea"
+    ],
+    "answer": 2,
+    "explanation": "Greenland is the largest island in the world, while Australia is the largest continent and New Guinea the largest island in the tropical zone.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Amazon River discharges into which ocean?",
+    "options": [
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean",
+      "Atlantic Ocean"
+    ],
+    "answer": 3,
+    "explanation": "The Amazon empties into the Atlantic Ocean through a broad estuary in northern Brazil.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which mountain range separates Europe from Asia?",
+    "options": [
+      "Alps",
+      "Ural Mountains",
+      "Caucasus Mountains",
+      "Carpathians"
+    ],
+    "answer": 1,
+    "explanation": "The Ural Mountains form the conventional boundary between Europe and Asia, running north-south through western Russia.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which is the largest country in South America by area?",
+    "options": [
+      "Colombia",
+      "Argentina",
+      "Brazil",
+      "Peru"
+    ],
+    "answer": 2,
+    "explanation": "Brazil is the largest country in South America, covering about half the continent's land area.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which two countries share the longest international border in the world?",
+    "options": [
+      "USA and Mexico",
+      "Canada and USA",
+      "Russia and China",
+      "India and Bangladesh"
+    ],
+    "answer": 1,
+    "explanation": "The Canada-USA border, running along the 49th parallel, is about 8,890 km long and is the longest international border in the world.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following countries is located in the Southern Hemisphere only?",
+    "options": [
+      "New Zealand",
+      "Sri Lanka",
+      "Indonesia",
+      "Nepal"
+    ],
+    "answer": 0,
+    "explanation": "New Zealand lies entirely in the Southern Hemisphere; Indonesia straddles the equator, while Nepal and Sri Lanka are entirely in the Northern Hemisphere.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following Indian states has the longest coastline?",
+    "options": [
+      "Andhra Pradesh",
+      "Maharashtra",
+      "Tamil Nadu",
+      "Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "Gujarat, with about 1,600 km of coastline including its numerous inlets, has the longest coastline among Indian states.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The highest point of the Indian Ocean island of Kanyakumari is the Vivekananda Rock Memorial. The southernmost point of mainland India is:",
+    "options": [
+      "Rameswaram",
+      "Dhanushkodi",
+      "Indira Point",
+      "Kanyakumari"
+    ],
+    "answer": 3,
+    "explanation": "Kanyakumari in Tamil Nadu is the southernmost point of the Indian mainland, while Indira Point in the Andaman and Nicobar Islands is the southernmost point of the Indian union.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which state of India has the highest population density as per Census 2011?",
+    "options": [
+      "Bihar",
+      "West Bengal",
+      "Kerala",
+      "Uttar Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "Bihar recorded the highest population density in Census 2011 at over 1,100 persons per square kilometre, ahead of Uttar Pradesh and West Bengal.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Tropic of Cancer passes through which of the following Indian cities?",
+    "options": [
+      "Jaipur",
+      "Varanasi",
+      "Ranchi",
+      "Kolkata"
+    ],
+    "answer": 2,
+    "explanation": "Ranchi in Jharkhand lies close to the Tropic of Cancer, which also crosses the state at places such as Gumla and Chatra.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Indian state has the greatest length of the coastline along the Bay of Bengal?",
+    "options": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Odisha",
+      "West Bengal"
+    ],
+    "answer": 1,
+    "explanation": "Andhra Pradesh has the longest coastline on the Bay of Bengal, followed by Tamil Nadu and Odisha.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which state of India borders the maximum number of other states?",
+    "options": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Chhattisgarh",
+      "Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "Uttar Pradesh shares a boundary with nine states and one union territory, the largest number of neighbours of any Indian state.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's largest coal producing state is:",
+    "options": [
+      "Odisha",
+      "Jharkhand",
+      "Chhattisgarh",
+      "West Bengal"
+    ],
+    "answer": 2,
+    "explanation": "Chhattisgarh is the largest coal producing state, supported by the massive reserves of the Gondwana coalfields.",
+    "difficulty": "medium",
+    "category": "resources-and-minerals",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which state of India is the largest producer of mica?",
+    "options": [
+      "Jharkhand",
+      "Rajasthan",
+      "Odisha",
+      "Andhra Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "Rajasthan, with rich deposits around Bhilwara and Udaipur, is the leading producer of mica in India.",
+    "difficulty": "medium",
+    "category": "resources-and-minerals",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "India's largest bauxite producing state is:",
+    "options": [
+      "Gujarat",
+      "Maharashtra",
+      "Karnataka",
+      "Odisha"
+    ],
+    "answer": 3,
+    "explanation": "Odisha, with the extensive deposits in the Amarkantak plateau and the Koraput hills, is the largest producer of bauxite in India.",
+    "difficulty": "medium",
+    "category": "resources-and-minerals",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which is the only Indian state with a significant uranium deposit?",
+    "options": [
+      "Meghalaya",
+      "Jharkhand",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "Andhra Pradesh, in the Nallamala and Khammam regions, accounts for practically all of India's uranium production, which is largely used in nuclear fuel cycles.",
+    "difficulty": "hard",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which mineral is known as 'black gold'?",
+    "options": [
+      "Manganese",
+      "Coal",
+      "Petroleum",
+      "Iron ore"
+    ],
+    "answer": 2,
+    "explanation": "Petroleum is called black gold because of its economic value and its dark colour; coal is often called the 'black gold' of the industrial world as well.",
+    "difficulty": "easy",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Iron ore is mainly exported from India through which major port?",
+    "options": [
+      "Mangalore",
+      "Mundra",
+      "Haldia",
+      "Paradip"
+    ],
+    "answer": 1,
+    "explanation": "Mundra, in Gujarat, along with Paradip and Vizag, is one of the main loading points for Indian iron ore exports.",
+    "difficulty": "hard",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a rabi crop in India?",
+    "options": [
+      "Wheat",
+      "Millets",
+      "Rice",
+      "Cotton"
+    ],
+    "answer": 0,
+    "explanation": "Wheat is the principal rabi crop, sown in winter and harvested in summer; rice, cotton and millets are kharif crops.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which crop is known as the 'brown gold' of India?",
+    "options": [
+      "Tea",
+      "Wheat",
+      "Rice",
+      "Coffee"
+    ],
+    "answer": 2,
+    "explanation": "Rice, with about a quarter of the world's production, is referred to as the brown gold of India because of its economic importance.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The White Revolution in India was associated with which crop?",
+    "options": [
+      "Sugarcane",
+      "Milk",
+      "Wheat",
+      "Oilseeds"
+    ],
+    "answer": 1,
+    "explanation": "The White Revolution, led by Dr Verghese Kurien through the National Dairy Development Board, made India the world's largest producer of milk.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which Indian state is the largest producer of sugarcane?",
+    "options": [
+      "Uttar Pradesh",
+      "Karnataka",
+      "Tamil Nadu",
+      "Maharashtra"
+    ],
+    "answer": 0,
+    "explanation": "Uttar Pradesh has the largest area and production of sugarcane in India, with Maharashtra and Karnataka following.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Jute is primarily grown in which region of India?",
+    "options": [
+      "Deccan Plateau",
+      "Thar Desert",
+      "Western coastal plain",
+      "Gangetic delta and northeast"
+    ],
+    "answer": 3,
+    "explanation": "Jute, called the golden fibre, is grown mainly in West Bengal, Bihar, Assam, Odisha and Andhra Pradesh along the Ganga delta and the Brahmaputra valley.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which is the largest producer of tea in India?",
+    "options": [
+      "Assam",
+      "Tamil Nadu",
+      "Karnataka",
+      "Kerala"
+    ],
+    "answer": 0,
+    "explanation": "Assam is the largest tea producing state in India, followed by West Bengal, Tamil Nadu, Kerala and Karnataka.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Shifting cultivation in north-eastern India is locally known as:",
+    "options": [
+      "Bera",
+      "Podu",
+      "Jhum",
+      "Kyar"
+    ],
+    "answer": 2,
+    "explanation": "Jhum or shifting cultivation is practised on the slopes of the north-eastern hills, where plots are cleared and cultivated for a few years and then left fallow.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which one is a rabi crop of the Indian cropping season?",
+    "options": [
+      "Groundnut",
+      "Mustard",
+      "Cotton",
+      "Pearl millet"
+    ],
+    "answer": 1,
+    "explanation": "Mustard is a rabi oilseed sown in winter, while groundnut, cotton and pearl millet are kharif crops.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the most populous state of India as per Census 2011?",
+    "options": [
+      "West Bengal",
+      "Tamil Nadu",
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "Uttar Pradesh remained the most populous state in Census 2011 with about 199 million people, followed by Maharashtra.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The highest sex ratio (females per 1000 males) as per Census 2011 was recorded in which state?",
+    "options": [
+      "Andhra Pradesh",
+      "Chhattisgarh",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "answer": 3,
+    "explanation": "Kerala recorded the highest sex ratio of 1,084 females per 1,000 males in Census 2011, ahead of Puducherry and Tamil Nadu.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which state of India has the highest literacy rate as per Census 2011?",
+    "options": [
+      "Mizoram",
+      "Kerala",
+      "Tamil Nadu",
+      "Goa"
+    ],
+    "answer": 1,
+    "explanation": "Kerala had the highest literacy rate in Census 2011 at about 94 per cent, closely followed by Lakshadweep and Mizoram.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following states recorded the largest decline in population in Census 2011?",
+    "options": [
+      "Andhra Pradesh",
+      "Bihar",
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "Andhra Pradesh recorded the sharpest fall in population in Census 2011 because Telangana was carved out of it before the census.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The largest metropolitan city in India by population is:",
+    "options": [
+      "Chennai",
+      "Mumbai",
+      "Delhi",
+      "Kolkata"
+    ],
+    "answer": 2,
+    "explanation": "Delhi has overtaken Mumbai as the largest metropolitan area in India, though Mumbai remains the most populous city proper in many estimates.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the largest urban agglomeration in India according to Census 2011?",
+    "options": [
+      "Chennai",
+      "Mumbai",
+      "Delhi",
+      "Kolkata"
+    ],
+    "answer": 2,
+    "explanation": "Delhi was the largest urban agglomeration in Census 2011 with about 28 million people, ahead of Mumbai.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which institution carries out the decennial census of India?",
+    "options": [
+      "Finance Commission",
+      "Planning Commission",
+      "NITI Aayog",
+      "Office of the Registrar General and Census Commissioner"
+    ],
+    "answer": 3,
+    "explanation": "The Office of the Registrar General and Census Commissioner, under the Ministry of Home Affairs, conducts the census, which was last held in 2011.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Disaster Management Authority is chaired by:",
+    "options": [
+      "The Chief Justice of India",
+      "The Prime Minister",
+      "The President",
+      "The Home Minister"
+    ],
+    "answer": 1,
+    "explanation": "The NDMA is chaired by the Prime Minister under the National Disaster Management Act, 2005, with the National Executive Committee also chaired by the Prime Minister.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Response Force is a body of which organisation?",
+    "options": [
+      "State Disaster Management Authorities",
+      "Central Bureau of Investigation",
+      "Indian Coast Guard",
+      "National Security Council"
+    ],
+    "answer": 0,
+    "explanation": "The NDRF is a specialised force of the SDRF set up for rescue and relief operations during disasters, and it is controlled by the state disaster management authorities.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which international framework guiding disaster risk reduction was adopted in 2015?",
+    "options": [
+      "Sahel Framework",
+      "Madrid Framework",
+      "Hyogo Framework",
+      "Sendai Framework"
+    ],
+    "answer": 3,
+    "explanation": "The Sendai Framework for Disaster Risk Reduction 2015-2030, adopted in Sendai, Japan, replaced the Hyogo Framework and prioritises risk understanding, preparedness, response and recovery.",
+    "difficulty": "easy",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Disaster Management Act was enacted in which year?",
+    "options": [
+      "2000",
+      "2005",
+      "2010",
+      "2015"
+    ],
+    "answer": 1,
+    "explanation": "The National Disaster Management Act, 2005 created the NDMA, SDMAs, DDMA and NDRF and put the legal framework for disaster management in place.",
+    "difficulty": "easy",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Indian state was severely affected by the 2004 Indian Ocean tsunami?",
+    "options": [
+      "Tamil Nadu and the Andaman and Nicobar Islands",
+      "Kerala and Karnataka",
+      "West Bengal and Odisha",
+      "Tamil Nadu only"
+    ],
+    "answer": 0,
+    "explanation": "Tamil Nadu and the Andaman and Nicobar Islands bore the brunt of the December 2004 tsunami in India.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The cyclone early warning centre for the Indian Ocean is located at:",
+    "options": [
+      "New Delhi",
+      "Port Blair",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "answer": 2,
+    "explanation": "The Indian Institute of Tropical Meteorology's cyclone warning centre at Hyderabad issues bulletins for the Bay of Bengal and the Arabian Sea, while the INCOIS at Hyderabad monitors the ocean.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest producer of black soil in India?",
+    "options": [
+      "Madhya Pradesh",
+      "Gujarat",
+      "Maharashtra",
+      "Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "Madhya Pradesh, with black soil spread over more than half its area, is the largest producer of black cotton soil in India.",
+    "difficulty": "medium",
+    "category": "soil-and-vegetation",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Black soil is also known as regur soil. Which of the following crops does it best support?",
+    "options": [
+      "Rubber",
+      "Rice",
+      "Cotton",
+      "Tea"
+    ],
+    "answer": 2,
+    "explanation": "Black soil retains moisture and is self-ploughing, which makes it ideal for cotton, soybean, sugarcane and pulses.",
+    "difficulty": "easy",
+    "category": "soil-and-vegetation",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Laterite soil is chiefly found in which part of India?",
+    "options": [
+      "Northern plains",
+      "Western Ghats and parts of the east coast",
+      "Thar Desert",
+      "Himalayan foothills"
+    ],
+    "answer": 1,
+    "explanation": "Laterite soil occurs in areas of heavy rainfall and high temperature, notably the Western Ghats, the northeastern hills and parts of the east coast.",
+    "difficulty": "medium",
+    "category": "soil-and-vegetation",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The saline soil of India is largely found in:",
+    "options": [
+      "The Gangetic plain",
+      "The Deccan Plateau",
+      "The Himalayan valleys",
+      "Coastal areas and arid regions"
+    ],
+    "answer": 3,
+    "explanation": "Saline soil is common in arid and semi-arid regions and along the coastal tracts, including the Rann of Kutch and the Sundarbans.",
+    "difficulty": "easy",
+    "category": "soil-and-vegetation",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which type of forest is found in areas with rainfall between 100 and 200 cm in India?",
+    "options": [
+      "Montane forests",
+      "Tropical thorn forests",
+      "Tropical evergreen forests",
+      "Tropical deciduous forests"
+    ],
+    "answer": 3,
+    "explanation": "Tropical deciduous (monsoon) forests grow in areas receiving 70 to 200 cm of rainfall, while evergreen forests need more than 200 cm.",
+    "difficulty": "medium",
+    "category": "soil-and-vegetation",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Mangroves are best developed along the:",
+    "options": [
+      "Deccan rivers",
+      "Western coast",
+      "Eastern coast and the Sundarbans delta",
+      "Himalayan foothills"
+    ],
+    "answer": 2,
+    "explanation": "Mangroves tolerate saline water and tidal flooding, so they are characteristic of the Sundarbans and the deltas of the east coast rivers.",
+    "difficulty": "easy",
+    "category": "soil-and-vegetation",
+    "source": "NCERT Class XI",
+    "year": null
+  }
+]

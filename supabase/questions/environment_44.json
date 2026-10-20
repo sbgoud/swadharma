@@ -1,0 +1,482 @@
+[
+  {
+    "q": "The 'detritus food chain' in an ecosystem:",
+    "options": [
+      "Starts with the green plants that are eaten by the herbivores",
+      "Starts with the dead organic matter that is consumed by the decomposers",
+      "Is absent in the terrestrial ecosystems",
+      "Is the only food chain in the aquatic ecosystems"
+    ],
+    "answer": 1,
+    "explanation": "The detritus food chain starts from the dead organic matter that is broken down by the decomposers, and in the terrestrial ecosystems it is the major conduit of the energy flow, while in the aquatic ecosystems the grazing food chain is the larger one.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The pyramid of the numbers in an ecosystem:",
+    "options": [
+      "Can be inverted, as in the case of a single tree that supports a large number of the herbivorous insects",
+      "Is always inverted in the aquatic ecosystems",
+      "Can never be inverted in the grasslands",
+      "Is always upright in all the ecosystems"
+    ],
+    "answer": 0,
+    "explanation": "The pyramid of the numbers is generally upright, but it can be inverted, as in the case of a single large tree that supports thousands of the herbivorous insects, which in turn support the birds that feed on them, so the pyramid of the energy is always upright.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "A 'secondary succession' begins after:",
+    "options": [
+      "The cultivation of a crop in a virgin land",
+      "The arrival of the pioneers on a bare rock",
+      "A disturbance that leaves the soil behind, such as a fire or a flood",
+      "The extinction of the species in a region"
+    ],
+    "answer": 2,
+    "explanation": "A secondary succession starts in an area that already has a soil and a community, such as after a fire, a flood or a clear felling, and it is faster than the primary succession that begins on the bare rock or the newly formed land.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'age pyramid' of a population is used to study:",
+    "options": [
+      "The genetic diversity of the species",
+      "The seasonality of the births and the deaths",
+      "The productivity of the ecosystem",
+      "The age structure of the population and its prospects of growth"
+    ],
+    "answer": 3,
+    "explanation": "The age pyramid describes the age structure of a population with the three broad groups of the pre-reproductive, the reproductive and the post-reproductive age, and it helps to project the future growth of the population.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Red Data Book' of India for the animals is published by the:",
+    "options": [
+      "Zoological Survey of India",
+      "Botanical Survey of India",
+      "Indian Council of Forestry Research and Education",
+      "National Biodiversity Authority"
+    ],
+    "answer": 0,
+    "explanation": "The Zoological Survey of India publishes the Red Data Book for the animals and the Iconus for the plants, while the Botanical Survey of India publishes the Red Data Book for the flora of the country.",
+    "difficulty": "hard",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The species that are threatened with the extinction and whose trade is permitted:",
+    "options": [
+      "The species that are the pests of the agriculture and the livestock",
+      "The species that are found only in the marine waters",
+      "The species that are threatened with the extinction and whose trade is permitted only in exceptional circumstances",
+      "The species that are not threatened but that are traded under a permit"
+    ],
+    "answer": 2,
+    "explanation": "The CITES Appendix I lists the species that are threatened with the extinction and for which the trade is permitted only in the exceptional circumstances, the Appendix II lists the species whose trade must be controlled and the Appendix III lists the species that are under the control of at least one party.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'conservation reserves' and the 'community reserves' were provided for under the:",
+    "options": [
+      "Biological Diversity Act, 2002",
+      "Wildlife (Protection) Act, 1972",
+      "Forest (Conservation) Act, 1980",
+      "Environment (Protection) Act, 1986"
+    ],
+    "answer": 1,
+    "explanation": "The Wildlife (Protection) Act of 1972 provides for the national parks, the wildlife sanctuaries, the conservation reserves and the community reserves, and the closed forests are declared by the state governments and the central government.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'four-horned antelope' is the state animal of:",
+    "options": [
+      "Maharashtra",
+      "Tamil Nadu",
+      "Gujarat",
+      "Karnataka"
+    ],
+    "answer": 3,
+    "explanation": "The four-horned antelope or the black buck, the ttakathi, is the state animal of Karnataka, while the Indian giant squirrel is the state animal of Maharashtra and the Indian elephant is the state animal of Kerala and of Tamil Nadu.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'blackbuck' is the state animal of:",
+    "options": [
+      "Punjab",
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Haryana"
+    ],
+    "answer": 3,
+    "explanation": "The blackbuck is the state animal of Haryana, and in Punjab the state animal is the blackbuck as well in the popular reckoning, while the state animal of Rajasthan is the chinkara or the Indian grey fox in the official list.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian giant squirrel' is the state animal of:",
+    "options": [
+      "Odisha",
+      "Maharashtra",
+      "Karnataka",
+      "Gujarat"
+    ],
+    "answer": 1,
+    "explanation": "The Indian giant squirrel is the state animal of Maharashtra, and it is a keystone species of the forests of the Western Ghats, while the state bird of Maharashtra is the grey hornbill.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sariska Tiger Reserve' of Rajasthan is known for:",
+    "options": [
+      "The population of the Bengal tiger and the Declaration of the Tiger Reserve as a UNESCO Biosphere Reserve",
+      "The largest population of the Asiatic lion",
+      "The nesting of the greater flamingo in the largest lake of India",
+      "The only population of the wild camel of the world"
+    ],
+    "answer": 0,
+    "explanation": "The Sariska Tiger Reserve in the Alwar district of Rajasthan has a substantial population of the Bengal tiger and it was declared a UNESCO Biosphere Reserve, and the Dholpur and the Kalinjar sanctuaries are the other reserves of the state.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kudremukh National Park' is located in:",
+    "options": [
+      "Tamil Nadu",
+      "Goa",
+      "Karnataka",
+      "Kerala"
+    ],
+    "answer": 2,
+    "explanation": "The Kudremukh National Park lies in the Chikmagalur district of Karnataka on the Western Ghats and it is a part of the Western Ghats World Heritage Site, and it is the easternmost limit of the range of the lion-tailed macaque.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Parambikulam Tiger Reserve' is spread across:",
+    "options": [
+      "Maharashtra and Goa",
+      "Kerala and Tamil Nadu",
+      "Karnataka and Kerala",
+      "Andhra Pradesh and Telangana"
+    ],
+    "answer": 1,
+    "explanation": "The Parambikulam Tiger Reserve lies on the southern slopes of the Anamalai hills in the Palakkad district of Kerala and the Anamalai district of Tamil Nadu, and it is known for the evergreen forests and for the large number of the leopards.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dampa Tiger Reserve' is located in:",
+    "options": [
+      "Mizoram",
+      "Nagaland",
+      "Tripura",
+      "Assam"
+    ],
+    "answer": 0,
+    "explanation": "The Dampa Tiger Reserve in the Mamit district of Mizoram is the only tiger reserve of the state, and it was declared a reserve in 1978 when it was still a part of the Lushai hills, and the reserve is a part of the Indo-Burma biodiversity hotspot.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kalakad Mundanthurai Tiger Reserve' is the:",
+    "options": [
+      "Only tiger reserve of the state of Karnataka",
+      "Newest tiger reserve of the country, in the Sundarbans",
+      "Fifth largest tiger reserve of India, in Tamil Nadu",
+      "Largest tiger reserve of India, in the Andaman Islands"
+    ],
+    "answer": 2,
+    "explanation": "The Kalakad Mundanthurai Tiger Reserve in the Tirunelveli and the Kanyakumari districts of Tamil Nadu is the fifth largest tiger reserve of the country and it has the largest area of the moist deciduous forest in the country.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Intended Nationally Determined Contribution' of India under the Paris Agreement was to:",
+    "options": [
+      "Reduce the total greenhouse gas emissions by 50 per cent by 2030 from the 1990 levels",
+      "Reach the net zero emissions by 2030",
+      "Reduce the carbon intensity of the economy by 5 per cent by 2020",
+      "Reduce the emission intensity of the gross domestic product by 33 to 35 per cent by 2030 from the 2005 levels"
+    ],
+    "answer": 3,
+    "explanation": "India's INDC, ratified in 2015, committed to the reduction of the emission intensity of the gross domestic product by 33 to 35 per cent by 2030 from the 2005 levels, and it also pledged to have about 40 per cent of the installed capacity of the power sector from the non-fossil sources by 2030.",
+    "difficulty": "hard",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ozone hole' over the Antarctica is caused by:",
+    "options": [
+      "The depletion of the phytoplankton of the Antarctic Ocean",
+      "The chlorofluorocarbons and the other ozone depleting substances that are released into the stratosphere",
+      "The soot particles of the tropical fires",
+      "The greenhouse gases that trap the heat of the sun"
+    ],
+    "answer": 1,
+    "explanation": "The depletion of the ozone layer over the Antarctica is caused by the chlorofluorocarbons and the other ozone depleting substances that release the chlorine and the bromine radicals in the stratosphere, and this is why the Montreal Protocol was adopted in 1987.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'silence zone' of 100 metres is prescribed around:",
+    "options": [
+      "The residential colonies of the cities",
+      "The industrial establishments of the notified categories",
+      "The airports and the railway stations",
+      "The hospitals, the educational institutions and the courts"
+    ],
+    "answer": 3,
+    "explanation": "The Noise Pollution (Regulation and Control) Rules, 2000 prescribe the silence zones of 100 metres around the hospitals, the educational institutions and the courts, in which no honking and no sound of the loudspeakers is permitted.",
+    "difficulty": "hard",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Class I' and the 'Class II' waters under the Water Act, 1974:",
+    "options": [
+      "Are the two categories of the water treatment plants",
+      "Classify the rivers on the basis of the pollution levels of the CPCB",
+      "Denote the intended use of the water, the Class I being the drinking water and the Class II being the water for the propagation of the fish and the irrigation",
+      "Denote the degree of the pollution of the water in the two stretches of the river"
+    ],
+    "answer": 2,
+    "explanation": "The Water Act of 1974 classifies the water into the Class A for the drinking and the Class B for the bathing, the Class C for the propagation of the fish and the Class D for the irrigation, and the designated best use class water has the highest priority.",
+    "difficulty": "hard",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Biomedical Waste Management Rules, 2016' in India:",
+    "options": [
+      "Categorise the biomedical waste into the four groups and prescribe the colour coding of the bags and the containers",
+      "Ban the import of the medical equipment",
+      "Fix the emission standards for the medical waste incinerators",
+      "Provide for the registration of the hospitals for the waste collection"
+    ],
+    "answer": 0,
+    "explanation": "The Biomedical Waste Management Rules of 2016 categorise the biomedical waste into the four groups, prescribe the colour coding of the bags and the containers, and require the segregation at the point of the generation and the authorisation of the healthcare facilities for the collection and the transport.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Swachh Survekshan' is:",
+    "options": [
+      "The inspection of the cleanliness of the tourist places by the Ministry of Tourism",
+      "The audit of the solid waste management of the smart cities",
+      "The annual city sanitation survey conducted by the Ministry of Housing and Urban Affairs",
+      "The quarterly review of the cleanliness of the railway stations"
+    ],
+    "answer": 2,
+    "explanation": "The Swachh Survekshan, the annual city sanitation survey of the Ministry of Housing and Urban Affairs, ranks the cities on the basis of the waste management, the water supply, the drainage, the cleanliness of the roads and the citizen's satisfaction with the services.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Marine Products Export Development Authority' is:",
+    "options": [
+      "The statutory body that promotes the marine exports of the country and the development of the fisheries",
+      "The body that regulates the aquaculture in the coastal states",
+      "The organisation that runs the fishing harbours of the country",
+      "The agency that certifies the marine catch for the domestic market"
+    ],
+    "answer": 0,
+    "explanation": "The Marine Products Export Development Authority, established in 1972, is the statutory body that promotes the marine exports of the country and the development of the fisheries, and it is headquartered at Kochi with the regional offices in the coastal states.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'El Nino' is the:",
+    "options": [
+      "Cooling of the surface of the equatorial Pacific Ocean",
+      "The rotation of the earth that reverses the direction of the monsoon winds",
+      "The storm in the Bay of Bengal that occurs every three years",
+      "Warming of the surface of the equatorial Pacific Ocean off the coast of Peru that affects the monsoon of the Indian Ocean"
+    ],
+    "answer": 3,
+    "explanation": "El Nino is the appearance of warm water in place of the cold water off the coast of Peru and Ecuador in the equatorial Pacific Ocean, and it alters the pattern of the atmospheric circulation and weakens the monsoon over the Indian Ocean.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jawaharlal Nehru National Solar Mission' was launched in 2022 with the objective of:",
+    "options": [
+      "Setting up the solar power plants in every district of the country",
+      "Adding about 300 GW of the solar power capacity by 2030-31",
+      "Adding about 100 GW of the solar power capacity by 2030-31",
+      "Making the rooftop solar compulsory for the public buildings"
+    ],
+    "answer": 1,
+    "explanation": "The Jawaharlal Nehru National Solar Mission, launched in 2022, targets the addition of about 300 GW of the solar power capacity by 2030-31, of which 50 GW is to be the large scale centralised and the rest is the distributed and the rooftop solar.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'CERC' or the Central Electricity Regulatory Commission:",
+    "options": [
+      "Certifies the energy efficiency of the appliances",
+      "Regulates the tariffs of the generation, the transmission and the distribution of the electricity under the Electricity Act, 2003",
+      "Licenses the electrical contractors of the states",
+      "Approves the projects of the renewable energy for the subsidy"
+    ],
+    "answer": 1,
+    "explanation": "The Central Electricity Regulatory Commission, set up under the Electricity Act of 2003, regulates the tariff of the generation, the transmission and the distribution of the electricity, and the state regulatory commissions do the same for the distribution within their states.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Zoo Authority' of India:",
+    "options": [
+      "Runs the national parks of the country",
+      "Regulates the wildlife trade in the country",
+      "Maintains the the national stud book of the wild animals",
+      "Monitors and controls the zoos and the recognised rescue and rehabilitation centres"
+    ],
+    "answer": 3,
+    "explanation": "The Central Zoo Authority, constituted in 1993 under the Ministry of Environment, Forest and Climate Change, monitors the zoos and the recognised rescue and rehabilitation centres for the animal welfare and the standards of the care of the animals.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Forest Survey of India' publishes the:",
+    "options": [
+      "The State of Forest Report, the biennial assessment of the forest and the tree cover of the country",
+      "The national inventory of the wildlife population",
+      "The red data books of the flora and the fauna",
+      "The annual report of the tiger reserves"
+    ],
+    "answer": 0,
+    "explanation": "The Forest Survey of India, a premier national organisation, publishes the State of Forest Report every two years, which is the biennial assessment of the forest and the tree cover of the country and of the state wise and the district wise changes in it.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Council of Forestry Research and Education':",
+    "options": [
+      "Is the research wing of the Central Water Commission at New Delhi",
+      "Is the body that conducts the national forest inventories of the elephants",
+      "Is the premier national research organisation for the forestry and is located at Dehradun",
+      "Is the national body for the marine fisheries research and is located at Kochi"
+    ],
+    "answer": 2,
+    "explanation": "The Indian Council of Forestry Research and Education, with its headquarters at Dehradun, is the premier national research organisation for the forestry, and it also runs the Forest Research Institute, the Wildlife Institute of India, the National Forest Research Institute and the Central Inland Fisheries Research Institute.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'seismic zones' of India as per the Indian Standard seismic zoning map:",
+    "options": [
+      "Divide the country into five zones, with the Zone V covering the whole of the north-eastern states, the north of Bihar, the Kangra valley and the Rann of Kutch",
+      "Divide the country into four zones, with the Zone IV being the least seismic",
+      "Cover only the Himalayan belt in the four zones",
+      "Are based on the intensity of the past cyclones and not on the earthquakes"
+    ],
+    "answer": 0,
+    "explanation": "The Indian Standard seismic zoning map divides the country into the five seismic zones, and the Zone V, the most vulnerable, covers the whole of the north-eastern states, the north of Bihar, the Kangra and the valley areas of Himachal Pradesh, the Jammu and Kashmir region and the Rann of Kutch.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A 'heat wave' is declared by the India Meteorological Department when the maximum temperature is:",
+    "options": [
+      "45 degrees Celsius or more in the plains",
+      "38 degrees Celsius or more in the coastal stations",
+      "40 degrees Celsius or more in the plains and 30 degrees Celsius or more in the hills",
+      "35 degrees Celsius or more in the plains"
+    ],
+    "answer": 2,
+    "explanation": "The IMD declares a heat wave when the maximum temperature touches 40 degrees Celsius or more in the plains and 30 degrees Celsius or more in the hills, and the heat wave is declared when the deviation from the normal is at least 4.5 degrees Celsius.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aapda Mitra' and the 'Community Emergency Response Team' are:",
+    "options": [
+      "The officers of the National Response Corps of the states",
+      "The volunteers of the National Service Corps of the colleges",
+      "The teams of the Border Security Force for the border villages",
+      "The community level volunteers trained by the National Disaster Management Authority for the last mile response"
+    ],
+    "answer": 3,
+    "explanation": "The Aapda Mitra scheme of the NDMA trains the community volunteers in the vulnerable villages so that they can carry out the last mile response in the event of a disaster, and the Community Emergency Response Team works with the district administration for the evacuation and the rescue operations.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Community Based Disaster Preparedness' programme of the National Disaster Management Authority:",
+    "options": [
+      "Is the scheme for the development of the coastal shelter belts",
+      "Aims at the community level preparedness through the training of the village teams and the mock drills in the vulnerable districts",
+      "Is the programme for the reconstruction of the multi-hazard shelters",
+      "Provides the insurance cover to the crops and the livestock"
+    ],
+    "answer": 1,
+    "explanation": "The Community Based Disaster Preparedness programme aims at the community level preparedness through the training of the village level teams and the conduct of the mock drills in the vulnerable districts, and it is funded under the SDRF and the NDRF norms.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

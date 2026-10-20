@@ -1,0 +1,497 @@
+[
+  {
+    "q": "Which of the following statements about the Ajanta caves is correct?",
+    "options": [
+      "It shows the Jain Tirthankara",
+      "The Vaghoda panel in Cave 1 of the Ajanta shows the Padmapani Bodhisattva",
+      "It shows the Buddha preaching",
+      "It is in the Ellora"
+    ],
+    "answer": 1,
+    "explanation": "The Vaghoda panel of the Cave 1 of the Ajanta, painted in the sixth century CE, is the finest of the Indian murals and it shows the Bodhisattva Padmapani.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kailasanatha temple' at Kanchipuram was built by:",
+    "options": [
+      "Rajasimha",
+      "Pulakeshin II",
+      "Narasimhavarman I",
+      "Mahendravarman I"
+    ],
+    "answer": 2,
+    "explanation": "The Kailasanatha temple at Kanchipuram was built by the Pallava king Narasimhavarman I as a replica of the Kailasa temple of the Ellora, which was cut in the rock.",
+    "difficulty": "hard",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Kanchi Kailasanatha is:",
+    "options": [
+      "a structural temple of the Cholas",
+      "a temple of the Vijayanagara",
+      "a temple of the Nayaks",
+      "a rock-cut temple in imitation of the Ellora Kailasa"
+    ],
+    "answer": 3,
+    "explanation": "The Kailasanatha temple of Kanchipuram was an imitation in stone of the rock-cut Kailasa temple of the Ellora, and it was built by the Narasimhavarman I.",
+    "difficulty": "hard",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mandapas of the Mahabalipuram are:",
+    "options": [
+      "the rock-cut monuments of the Pallavas",
+      "the structural temples of the Cholas",
+      "the Jain temples of the medieval period",
+      "the Vijayanagara monuments"
+    ],
+    "answer": 0,
+    "explanation": "The Mandapas, the rock-cut monuments of Mahabalipuram, are the works of the Pallava king Narasimhavarman I and they include the famous Trimurti cave.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Trimurti' at Mahabalipuram:",
+    "options": [
+      "Is a temple of the Vijayanagara",
+      "It is a stupa",
+      "Is the rock-cut panel of Shiva, Vishnu and Brahma in one face",
+      "Is a Chola bronze"
+    ],
+    "answer": 2,
+    "explanation": "The Trimurti cave of Mahabalipuram shows the three faces of Shiva, Vishnu and Brahma in a single rock panel, and the panel is protected by a later shrine.",
+    "difficulty": "hard",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Brihadisvara temple' at Thanjavur:",
+    "options": [
+      "It is a Buddhist monastery",
+      "Is the Chola temple of Rajaraja I with the 66 metre tall vimana",
+      "Is a Vijayanagara temple",
+      "It is a temple of the Nayaks"
+    ],
+    "answer": 1,
+    "explanation": "The Brihadisvara temple at Thanjavur, built by the Chola king Rajaraja I between 1003 and 1010, has a 66 metre tall vimana and it is a World Heritage site.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Airavatesvara temple' at Darasuram:",
+    "options": [
+      "Is a Vijayanagara temple",
+      "It is a Hoysala temple",
+      "It is a Pandya temple",
+      "Is the Chola temple of Rajaraja II with the frescoes"
+    ],
+    "answer": 3,
+    "explanation": "The Airavatesvara temple at Darasuram, built by the Chola king Rajaraja II, is remarkable for its stone frescoes and the high quality of its sculpture.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gangaikonda Cholapuram' temple:",
+    "options": [
+      "Is the temple of the Cholas built by Rajendra I and completed by Kulothunga I",
+      "Is the temple of Rajaraja I",
+      "It is a Vijayanagara temple",
+      "It is a Pandya temple"
+    ],
+    "answer": 0,
+    "explanation": "The Gangaikonda Cholapuram temple was built by the Chola emperor Rajendra I and it was completed by his successor Kulothunga I with the victory columns.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The temples at Khajuraho are:",
+    "options": [
+      "the Mughal monuments",
+      "the Chandela monuments of the 10th and 11th centuries",
+      "the Chola monuments",
+      "the Vijayanagara monuments"
+    ],
+    "answer": 1,
+    "explanation": "The temples at Khajuraho were built by the Chandela rulers of Bundelkhand in the tenth and the eleventh centuries and the erotic sculptures are a celebration of the life.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Konark Sun Temple of the Odisha is:",
+    "options": [
+      "a Hoysala temple",
+      "a Buddhist monastery",
+      "the Kalinga style temple of Narasimhadeva I shaped like a chariot",
+      "a Dravidian temple of the Vijayanagara"
+    ],
+    "answer": 2,
+    "explanation": "The Konark temple, built under the Eastern Ganga king Narasimhadeva I, is shaped like a giant chariot of the sun god with the wheels and the horses and the warriors carved around it.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sun Temple' at Modhera was built by:",
+    "options": [
+      "The Pala ruler",
+      "The Solanki king Bhima I",
+      "The Chola Rajaraja I",
+      "The Vijayanagara Krishnadevaraya"
+    ],
+    "answer": 1,
+    "explanation": "The Sun temple at Modhera in Gujarat was built in the eleventh century by the Solanki king Bhima I and it is a World Heritage site.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bada Gumbad at Bijapur is:",
+    "options": [
+      "Is a temple at Hampi",
+      "It is a mosque at Ahmedabad",
+      "It is a tomb at Golconda",
+      "Is the tomb of the Bahmani or the Adil Shahi at Bijapur"
+    ],
+    "answer": 3,
+    "explanation": "The Bada Gumbad, the largest monument of the Bijapur, is the tomb of the Adil Shahi or the Bahmani ruler and it is a World Heritage site.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Ibrahim Adil Shah II is correct?",
+    "options": [
+      "Ibrahim Adil Shah II",
+      "Muhammad Adil Shah",
+      "Yusuf Adil Shah",
+      "Ali Adil Shah II"
+    ],
+    "answer": 0,
+    "explanation": "The Gol Gumbaz, the mausoleum of the Adil Shahi dynasty, was built by the Ibrahim Adil Shah II in 1656 and it houses the tomb of the Rohilla Gaur.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ibrahim Rauza' at Bijapur:",
+    "options": [
+      "It is the Gol Gumbaz",
+      "It is a step well",
+      "Is the tomb of the Ibrahim Adil Shah II and the finest of the Adil Shahi tombs",
+      "Is a mosque"
+    ],
+    "answer": 2,
+    "explanation": "The Ibrahim Rauza, built in 1620, is the tomb of the Ibrahim Adil Shah II and it is considered the finest of the Adil Shahi monuments with the exquisite decorations.",
+    "difficulty": "hard",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Charminar monument at Hyderabad is:",
+    "options": [
+      "It is a Chola monument",
+      "It is a Buddhist stupa",
+      "Is the monument of the Qutb Shahi with four minarets and it was built in 1591",
+      "It is a temple of the Vijayanagara"
+    ],
+    "answer": 2,
+    "explanation": "The Charminar, built in 1591 by the Muhammad Quli Qutb Shah, has the four minarets and it marks the centre of the new city of Hyderabad.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Qutb Shahi dynasty of the Deccan is:",
+    "options": [
+      "The Qutb Shahi capital was Bijapur",
+      "The Qutb Shahi ruled at Ahmedabad",
+      "The Qutb Shahi were a Mughal clan",
+      "The Qutb Shahi had their capital at Golconda with the famous Golconda mines of the diamonds"
+    ],
+    "answer": 3,
+    "explanation": "The Qutb Shahi dynasty ruled at Golconda near Hyderabad from 1518 and the Golconda mines produced the famous diamonds, including the Koh-i-Noor, that were traded through the Portuguese at Goa.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tomb of Muhammad Quli Qutb Shah':",
+    "options": [
+      "Is the earliest surviving monument of the Qutb Shahi at Hyderabad",
+      "Is at Bijapur",
+      "It is a Buddhist stupa",
+      "It is a Hoysala temple"
+    ],
+    "answer": 0,
+    "explanation": "The tomb of the Muhammad Quli Qutb Shah is the earliest surviving Qutb Shahi monument at Hyderabad and it has the ruins of a mosque and a later Golconda-style mosque in the complex.",
+    "difficulty": "hard",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bara Imambara at Lucknow is:",
+    "options": [
+      "It is a Jain pilgrimage centre",
+      "Is the Asafi mosque of the Lucknow built by the Nawab Saadat Ali Khan II",
+      "It is a temple of the Vijayanagara",
+      "It is a monument of the Mughals"
+    ],
+    "answer": 1,
+    "explanation": "The Bara Imambara, the Asafi mosque of the Lucknow built by the Nawab Saadat Ali Khan II after the famine of 1784, is the largest of the Asafis of the city.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Itimad-ud-Daulah tomb of the Agra is:",
+    "options": [
+      "a Buddhist stupa",
+      "a temple of the Cholas",
+      "at Agra and is the first Mughal monument in the white marble",
+      "at Delhi"
+    ],
+    "answer": 2,
+    "explanation": "The tomb of the Itimad-ud-Daulah at Agra, built by the Nur Jahan for her father, is the first Mughal monument constructed entirely of the white marble.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Tomb of Safdarjung is:",
+    "options": [
+      "a Buddhist site",
+      "at Delhi and was designed by the Jean-Baptiste Tavernier for the Safdarjung",
+      "at Agra",
+      "a temple of the Rajputs"
+    ],
+    "answer": 1,
+    "explanation": "The tomb of the Safdarjung at Delhi was built in 1753 for the Nawab Safdarjung and it was designed by the French architect, the Jean-Baptiste Tavernier.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Red Fort at Delhi is:",
+    "options": [
+      "Is a fort of the Rajasthan",
+      "It is at Agra",
+      "It is a British fort",
+      "Is the Lal Qila of Delhi built by the Akbar and completed by the Shah Jahan"
+    ],
+    "answer": 3,
+    "explanation": "The Red Fort, called the Lal Qila, was built by the Akbar between 1638 and 1648 and it was completed by the Shah Jahan and it is a World Heritage site.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Fatehpur Sikri':",
+    "options": [
+      "Is the Mughal capital built by the Akbar in 1571",
+      "Is the capital of the Mughals in 1648",
+      "It is a temple of the Sikhs",
+      "It is a fort of the British"
+    ],
+    "answer": 0,
+    "explanation": "The Fatehpur Sikri, the Mughal capital from 1571 to 1585, was built by the Akbar and it is noted for the Buland Darwaza and the tomb of the Salim Chishti.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jama Masjid' of Fatehpur Sikri:",
+    "options": [
+      "It is a temple",
+      "It is a Hindu shrine",
+      "Is the largest of the Mughal mosque with the Jai Mandir of the Akbar",
+      "Is the mosque of the Shah Jahan"
+    ],
+    "answer": 2,
+    "explanation": "The Jama Masjid of Fatehpur Sikri, with the Jai Mandir of the Akbar adjoining it, is the largest of the individual Mughal mosque complexes.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Humayun's Tomb':",
+    "options": [
+      "It is the tomb of the Akbar",
+      "Is the first Mughal monument of the white marble and was designed by the Mirak Mirza Ghiyas",
+      "It is at Agra",
+      "It was designed by the Sinan"
+    ],
+    "answer": 1,
+    "explanation": "The tomb of the Humayun, designed by the Persian architect Mirak Mirza Ghiyas, is the first of the grand Mughal tombs in Delhi and it is a precursor of the Taj Mahal.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tomb of Akbar' at Sikandra:",
+    "options": [
+      "It is at Delhi",
+      "It is a Vijayanagara temple",
+      "It is a Jain monument",
+      "Is the largest of the Mughal tombs in India with the high entrance gateway"
+    ],
+    "answer": 3,
+    "explanation": "The tomb of the Akbar at Sikandra near Agra, completed by the Jahangir, is the largest of the Mughal tombs in India with the tall southern entrance gateway.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Moti Masjid in the Red Fort at Delhi is:",
+    "options": [
+      "Is the mosque of the Shah Jahan in the Red Fort built of the white marble",
+      "It is the mosque of the Akbar",
+      "It is a temple of the Rajputs",
+      "It is a monastery"
+    ],
+    "answer": 0,
+    "explanation": "The Moti Masjid, the Pearl Mosque of the Shah Jahan, is in the Red Fort complex and it is built of the white marble with the red sandstone of the fort.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Was built by the Shah Jahan and it is:",
+    "options": [
+      "the largest of the Indian mosques",
+      "built by the Akbar",
+      "a temple of the Lodi",
+      "at Fatehpur Sikri"
+    ],
+    "answer": 0,
+    "explanation": "The Jama Masjid of Delhi was built by the Shah Jahan between 1650 and 1656 and it can hold about 25,000 worshippers and it is the largest of the Indian mosques.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Qutbuddin Aibak and completed by is correct?",
+    "options": [
+      "Akbar",
+      "Qutbuddin Aibak and completed by Iltutmish",
+      "Alauddin Khalji",
+      "Muhammad bin Tughlaq"
+    ],
+    "answer": 1,
+    "explanation": "The Qutb Minar, the red sandstone minaret of the Qutb complex in Delhi, was begun by the Qutbuddin Aibak and completed by his son Iltutmish with the addition of the top storey.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Iron Pillar' of Delhi:",
+    "options": [
+      "It is of the Mughal period",
+      "It is a Jain pillar",
+      "It is of the British period",
+      "Is a testament to the corrosion resistance of the iron of the 5th century"
+    ],
+    "answer": 3,
+    "explanation": "The Iron Pillar of the Qutb complex, of the fifth century, shows the remarkable corrosion resistance of the iron and it is a World Heritage site as a part of the Qutb complex.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Alai Darwaza' was built by:",
+    "options": [
+      "Firoz Shah Tughlaq",
+      "Akbar",
+      "Alauddin Khalji",
+      "Iltutmish"
+    ],
+    "answer": 2,
+    "explanation": "The Alai Darwaza, the gateway of the Alai Minar of the Qutb complex in Delhi, was built by the Alauddin Khalji.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Firoz Shah Kotla is:",
+    "options": [
+      "the citadel of the Tughlaq in Delhi with the Ashokan pillars and the Jantar Mantar of the Jai Singh II",
+      "a fort of the Mughals",
+      "a fort of the British",
+      "in Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "The Firoz Shah Kotla, the citadel of the Tughlaq in Delhi, has the Ashokan pillars and the Jantar Mantar, the observatory of the Jai Singh II.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Purana Qila' of Delhi:",
+    "options": [
+      "It is a temple",
+      "It is at Agra",
+      "Is the old fort of the Humayun and the Sher Mandal",
+      "It is a fort of the Akbar"
+    ],
+    "answer": 2,
+    "explanation": "The Purana Qila, the old fort of Delhi, was built by the Humayun and it houses the Sher Mandal, the tower from which the Shah Jahan is said to have first seen the Taj Mahal.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ashokan pillars at Feroz Shah Kotla in Delhi are:",
+    "options": [
+      "They are at the Sanchi",
+      "They are at the Sarnath",
+      "They are at the Patna",
+      "Two of the Ashokan pillars stand at the Feroz Shah Kotla in Delhi"
+    ],
+    "answer": 3,
+    "explanation": "Two of the Ashokan pillars, one from the Topra in the Haryana and the other from the Meerut, were brought by the Firoz Shah Tughlaq to Delhi and they stand at the Firoz Shah Kotla.",
+    "difficulty": "hard",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

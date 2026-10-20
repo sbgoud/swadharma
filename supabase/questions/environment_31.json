@@ -1,0 +1,2672 @@
+[
+  {
+    "q": "An ecosystem is a functional unit of:",
+    "options": [
+      "The climate of a region",
+      "A single species in a habitat",
+      "Biotic and abiotic components interacting in an area",
+      "Only the plants of a forest"
+    ],
+    "answer": 2,
+    "explanation": "An ecosystem is a functional unit of nature where living organisms interact with each other and with the physical environment in a defined area.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'biotic components' of an ecosystem include:",
+    "options": [
+      "Sunlight, water and soil",
+      "Producers, consumers and decomposers",
+      "Temperature and wind",
+      "Rock and minerals"
+    ],
+    "answer": 1,
+    "explanation": "The biotic components are the living parts of the ecosystem, namely the producers, the consumers and the decomposers.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "In an ecosystem, the 'producers' are:",
+    "options": [
+      "Autotrophic organisms like plants",
+      "Heterotrophic animals",
+      "Fungi and bacteria",
+      "Carnivores"
+    ],
+    "answer": 0,
+    "explanation": "Producers are the autotrophs that synthesise their own food using sunlight or chemical energy and form the base of the food chain.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The '10 per cent law' of ecological energy transfer states that:",
+    "options": [
+      "Plants capture 10 per cent of the sunlight",
+      "Only 10 per cent of the energy passes to the next trophic level",
+      "All the energy passes to the next level",
+      "90 per cent of the energy is lost as heat at each level"
+    ],
+    "answer": 1,
+    "explanation": "Lindeman's 10 per cent law states that only about 10 per cent of the energy of one trophic level is transferred to the next, the rest being lost as heat and used in metabolism.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'pyramid of energy' in an ecosystem is:",
+    "options": [
+      "Always inverted",
+      "Sometimes inverted",
+      "Upright in terrestrial and inverted in aquatic ecosystems",
+      "Always upright"
+    ],
+    "answer": 3,
+    "explanation": "The pyramid of energy is always upright because energy always decreases at successive trophic levels, whatever the ecosystem.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'pyramid of numbers' in a tree ecosystem is:",
+    "options": [
+      "Always rectangular",
+      "Upright",
+      "Inverted",
+      "Spindle shaped"
+    ],
+    "answer": 2,
+    "explanation": "In a tree ecosystem a single tree supports many herbivores, so the pyramid of numbers is inverted, whereas the pyramid of biomass remains upright.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "'G Gross primary productivity' refers to:",
+    "options": [
+      "The rate of production of biomass by plants during photosynthesis",
+      "The rate of decomposition",
+      "The total energy stored in the soil",
+      "The rate of production of biomass by consumers"
+    ],
+    "answer": 0,
+    "explanation": "Gross primary productivity is the rate of production of biomass by plants during photosynthesis, and net primary productivity is what is left after the plants meet their own respiratory needs.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "'Secondary succession' occurs:",
+    "options": [
+      "On an area where the soil is already present",
+      "In a newly formed pond",
+      "After a volcanic eruption",
+      "On a freshly exposed rock"
+    ],
+    "answer": 0,
+    "explanation": "Secondary succession starts where a community has previously existed and the soil is left behind, as on abandoned farmland, while primary succession begins on bare rock or in water.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The pioneer species in primary succession on bare rock are usually:",
+    "options": [
+      "Grasses",
+      "Shrubs",
+      "Large trees",
+      "Lichens and mosses"
+    ],
+    "answer": 3,
+    "explanation": "Lichens, which can grow on bare rock and help weather it, are the pioneer species of primary succession, followed by mosses and herbs.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "'Bioaccumulation' differs from biomagnification in that it refers to:",
+    "options": [
+      "The breakdown of waste",
+      "The loss of habitat",
+      "The accumulation of a pollutant in an organism over time",
+      "The increase across trophic levels"
+    ],
+    "answer": 2,
+    "explanation": "Bioaccumulation is the uptake of a substance faster than its elimination within a single organism, whereas biomagnification is the increase in concentration across the food chain.",
+    "difficulty": "hard",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Eutrophication' of a water body is caused by:",
+    "options": [
+      "Cold temperatures",
+      "Excess nutrients like nitrogen and phosphorus",
+      "Excess oxygen",
+      "High salinity"
+    ],
+    "answer": 1,
+    "explanation": "Eutrophication results from the excessive enrichment of water with nutrients, leading to algal blooms, the depletion of dissolved oxygen and the death of aquatic life.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'carbon cycle' in the ecosystem:",
+    "options": [
+      "Occurs only in the oceans",
+      "Is a recent phenomenon",
+      "Has no atmospheric component",
+      "Involves the exchange of carbon dioxide between the biotic and the abiotic components"
+    ],
+    "answer": 3,
+    "explanation": "The carbon cycle is the gaseous cycle in which carbon dioxide moves between the atmosphere, the living organisms, the soil and the oceans.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'phosphorus cycle' is:",
+    "options": [
+      "A seasonal cycle",
+      "A gaseous cycle",
+      "A sedimentary cycle",
+      "An atmospheric cycle"
+    ],
+    "answer": 2,
+    "explanation": "Phosphorus is a sedimentary cycle because it enters the ecosystem through weathering of rocks and returns to the geosphere through sedimentation, with no significant atmospheric component.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "'Keystone species' in an ecosystem:",
+    "options": [
+      "Have a disproportionately large effect on the ecosystem structure",
+      "Are always the largest species",
+      "Are the primary producers",
+      "Are the most numerous species"
+    ],
+    "answer": 0,
+    "explanation": "Keystone species exert a controlling influence on the community structure and their removal can cause a major change in the ecosystem.",
+    "difficulty": "hard",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'functional diversity' of an ecosystem refers to:",
+    "options": [
+      "The number of species present",
+      "The variety of processes and roles performed by the species",
+      "The size of the species",
+      "The genetic variation within a species"
+    ],
+    "answer": 1,
+    "explanation": "Functional diversity measures the range of processes, roles and ecological functions performed by the species of a community, and it is often a better predictor of resilience than species richness.",
+    "difficulty": "hard",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'biodiversity hotspot' is a region with:",
+    "options": [
+      "The highest population density",
+      "A large number of exotic species",
+      "Maximum industrial output",
+      "High endemic species and a large habitat loss"
+    ],
+    "answer": 3,
+    "explanation": "A biodiversity hotspot must have at least 1,500 endemic vascular plants and have lost at least 70 per cent of its original vegetation.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "How many biodiversity hotspots are there in India?",
+    "options": [
+      "Four",
+      "Six",
+      "Eight",
+      "Twelve"
+    ],
+    "answer": 0,
+    "explanation": "India has four recognised biodiversity hotspots: the Himalaya, the Indo-Burma region, the Western Ghats and Sri Lanka, and the Nicobar Islands.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sundaland' biodiversity hotspot includes:",
+    "options": [
+      "The Himalaya",
+      "The Western Ghats",
+      "The Nicobar Islands and the Malay Peninsula",
+      "The Eastern Himalaya"
+    ],
+    "answer": 2,
+    "explanation": "The Sundaland hotspot covers the Nicobar Islands and the Malay Peninsula, and is the most species rich hotspot in the world.",
+    "difficulty": "hard",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The IUCN Red List categories include:",
+    "options": [
+      "Endangered and Vulnerable only",
+      "Extinct, Extinct in the Wild, Critically Endangered, Endangered, Vulnerable, Near Threatened, Least Concern and Data Deficient",
+      "Only Critically Endangered",
+      "Only Vulnerable"
+    ],
+    "answer": 1,
+    "explanation": "The IUCN Red List of Threatened Species has eight categories ranging from Extinct and Extinct in the Wild through to Data Deficient.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The IUCN Red List of Threatened Species is maintained by:",
+    "options": [
+      "The CITES Secretariat",
+      "The UNEP",
+      "The IUCN and the Species Survival Commission",
+      "The WWF"
+    ],
+    "answer": 2,
+    "explanation": "The IUCN, assisted by the Species Survival Commission, maintains the Red List which is the world's most comprehensive inventory of the conservation status of species.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ramsar Convention' is concerned with:",
+    "options": [
+      "Wetlands of international importance",
+      "Endangered species",
+      "Ozone layer",
+      "Trade in endangered species"
+    ],
+    "answer": 0,
+    "explanation": "The Ramsar Convention, signed in 1971 at Ramsar in Iran, is an intergovernmental treaty on the conservation and wise use of wetlands and their resources.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT a Ramsar site in India?",
+    "options": [
+      "Chilika Lake in Odisha",
+      "Loktak Lake in Manipur",
+      "Sasthamcotta Lake in Kerala",
+      "Sundarban Tiger Reserve"
+    ],
+    "answer": 3,
+    "explanation": "The Sundarban Tiger Reserve is a wildlife sanctuary and a biosphere reserve, but it is not included in the Ramsar list of wetlands of India.",
+    "difficulty": "hard",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CITES' Convention is concerned with:",
+    "options": [
+      "Climate change",
+      "International trade in endangered species of wild fauna and flora",
+      "Wetlands",
+      "Ozone"
+    ],
+    "answer": 1,
+    "explanation": "The Convention on International Trade in Endangered Species of Wild Fauna and Flora regulates the international trade in endangered species through three appendices.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CMS' or Bonn Convention is concerned with:",
+    "options": [
+      "Trade in species",
+      "Wetlands",
+      "Coral reefs",
+      "Migratory species of wild animals"
+    ],
+    "answer": 3,
+    "explanation": "The Convention on the Conservation of Migratory Species of Wild Animals, known as the Bonn or CMS Convention, protects migratory species and their habitats.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Asian Flyway' passes through India and covers:",
+    "options": [
+      "The Arctic region of Europe",
+      "The Arctic, Central Asia and South Asia",
+      "Only the African continent",
+      "Australia"
+    ],
+    "answer": 1,
+    "explanation": "The Central Asian Flyway covers the Arctic and Central Asia and extends through South Asia, hosting more than 280 migratory bird species.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'East Asian-Australasian Flyway' is significant for India because:",
+    "options": [
+      "It passes through parts of eastern and southern India and supports the birdlife of the wetlands and the coast",
+      "It concerns only high altitude species",
+      "It is a fish migration",
+      "It does not pass through India"
+    ],
+    "answer": 0,
+    "explanation": "The East Asian-Australasian Flyway passes through the coastal and wetland regions of eastern and southern India and supports a rich diversity of migratory shorebirds and waterbirds.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'sacred groves' of India are:",
+    "options": [
+      "Grazing reserves",
+      "Commercial plantations",
+      "Protected forest patches preserved by indigenous communities in the name of gods",
+      "Large state forests"
+    ],
+    "answer": 2,
+    "explanation": "Sacred groves are patches of forest preserved by tribal communities in the name of local deities, and they are among the oldest forms of community conservation.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'mangroves' of India are best developed in the:",
+    "options": [
+      "Godavari delta",
+      "Sundarbans",
+      "Rann of Kutch",
+      "Chilika"
+    ],
+    "answer": 1,
+    "explanation": "The Sundarbans mangrove forest, in West Bengal, is the largest in the world and the most important breeding ground of the Royal Bengal tiger.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'coral reefs' of India are found mainly in:",
+    "options": [
+      "The Gulf of Kutch and the Gulf of Mannar",
+      "The Bay of Bengal only",
+      "The Arabian Sea only",
+      "The river deltas"
+    ],
+    "answer": 0,
+    "explanation": "India's fringing coral reefs are in the Gulf of Kutch, the Gulf of Mannar, the Palk Bay and the islands of the Andaman and Nicobar, with four coral reef Protected Areas.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Barrier Reef' is located in:",
+    "options": [
+      "The Atlantic Ocean",
+      "The Red Sea",
+      "The Indian Ocean",
+      "The Pacific Ocean off Australia"
+    ],
+    "answer": 3,
+    "explanation": "The Great Barrier Reef, the largest coral reef system in the world, lies in the Coral Sea off the coast of Queensland, Australia.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Schedule I' of the Wildlife Protection Act contains:",
+    "options": [
+      "Plants",
+      "Insects",
+      "Animals with the highest degree of protection",
+      "Birds protected under the Act"
+    ],
+    "answer": 2,
+    "explanation": "Schedule I lists the species with the highest degree of protection, and Schedule II lists other animals, while the birds are covered by a separate schedule.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bengal Tiger' and the 'One-horned Rhinoceros' are listed in which schedule of the Wildlife Protection Act?",
+    "options": [
+      "Schedule III",
+      "Schedule VI",
+      "Schedule I",
+      "Schedule II"
+    ],
+    "answer": 2,
+    "explanation": "Both the tiger and the one-horned rhinoceros are in Schedule I, which provides the highest protection, and the 2022 amendment added the cheetah and the hippopotamus to Schedule I.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Asiatic lion' is found in the:",
+    "options": [
+      "Kanha forest of Madhya Pradesh",
+      "Periyar of Kerala",
+      "Sundarbans of West Bengal",
+      "Gir forest of Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "The Gir forest in Gujarat is the last refuge of the Asiatic lion, whose entire wild population is concentrated there.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Project Tiger' was launched in:",
+    "options": [
+      "1973",
+      "1983",
+      "1973 under the Wildlife Protection Act",
+      "1990"
+    ],
+    "answer": 0,
+    "explanation": "Project Tiger was launched in 1973 to save the tiger and its habitat, and the Wildlife Protection Act was enacted in 1972.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'Project Elephant' was launched in:",
+    "options": [
+      "1990",
+      "1992",
+      "1987",
+      "1995"
+    ],
+    "answer": 1,
+    "explanation": "Project Elephant was launched in 1992 to protect the elephant, its habitat and its corridors across the country.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vulture and Pygmy Hog' project of the 1990s was aimed at:",
+    "options": [
+      "Protecting vultures in the Punjab forests and the pygmy hog in the Assam grasslands",
+      "Reintroducing the cheetah",
+      "Protecting the Himalayan tahr",
+      "Saving the dugong"
+    ],
+    "answer": 0,
+    "explanation": "Both projects are classic examples of the IUCN's species-based conservation approach targeting a single species and its habitat.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sarus crane' is the state bird of:",
+    "options": [
+      "Gujarat",
+      "Assam",
+      "Uttar Pradesh",
+      "Rajasthan"
+    ],
+    "answer": 2,
+    "explanation": "The Sarus crane, the tallest flying bird, is the state bird of Uttar Pradesh and is protected in the wetlands of the state.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Snow Leopard' is found in:",
+    "options": [
+      "The Western Ghats",
+      "The Sundarbans",
+      "The Deccan Plateau",
+      "The Himalayan regions of Ladakh, Himachal Pradesh, Uttarakhand and Sikkim"
+    ],
+    "answer": 3,
+    "explanation": "The snow leopard is found in the high-altitude regions of the Himalayas, and Ladakh's Hemis and Nubra valleys are important strongholds.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sangai' or the brow-antlered deer is the state animal of:",
+    "options": [
+      "Assam",
+      "Manipur",
+      "Nagaland",
+      "Mizoram"
+    ],
+    "answer": 1,
+    "explanation": "The sangai, a unique brow-antlered deer, is the state animal of Manipur and the only such deer in the world.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hangul' or the Kashmir stag is the state animal of:",
+    "options": [
+      "Jammu and Kashmir",
+      "Ladakh",
+      "Himachal Pradesh",
+      "Punjab"
+    ],
+    "answer": 0,
+    "explanation": "The hangul, or the Kashmir stag, was the state animal of Jammu and Kashmir and the Tibetan red deer.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Peacock' is the national bird of India and the state bird of:",
+    "options": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Maharashtra",
+      "Gujarat"
+    ],
+    "answer": 1,
+    "explanation": "The Indian peafowl is the national bird of India and the state bird of Maharashtra, Karnataka, Gujarat, Tamil Nadu and others.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Western Ghats' have about 90 per cent of India's:",
+    "options": [
+      "Camels",
+      "Tigers",
+      "Tree frogs and amphibians",
+      "Elephants"
+    ],
+    "answer": 2,
+    "explanation": "The Western Ghats harbour an extraordinary diversity of tree frogs and amphibians, and their endemicity makes the region a global biodiversity hotspot.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Silent Valley' of Kerala is a haven for the:",
+    "options": [
+      "Snow leopard",
+      "Markhor",
+      "Asiatic lion",
+      "Lion-tailed macaque"
+    ],
+    "answer": 3,
+    "explanation": "The Silent Valley National Park, part of the Nilgiri Biosphere Reserve, is the last refuge of the lion-tailed macaque.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Khangchendzonga National Park' in Sikkim is famous for the:",
+    "options": [
+      "Snow leopard",
+      "Bengal tiger",
+      "Red panda",
+      "Asiatic elephant"
+    ],
+    "answer": 0,
+    "explanation": "Khangchendzonga National Park, a UNESCO World Heritage site, is a major refuge of the snow leopard and the red panda.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ranthambore National Park' is famous for:",
+    "options": [
+      "Lions",
+      "Rhinos",
+      "Birds of prey",
+      "Tigers"
+    ],
+    "answer": 3,
+    "explanation": "Ranthambore in Rajasthan was one of the first tiger reserves and is a major tourist attraction in the state.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Corbett National Park' is named after:",
+    "options": [
+      "The village of Corbett",
+      "Jim Corbett, a British hunter and naturalist",
+      "The Corbett river",
+      "Sir Henry Corbett"
+    ],
+    "answer": 1,
+    "explanation": "The park was renamed Hailey National Park and then Corbett National Park after Jim Corbett, who hunted man-eaters and was a naturalist and wildlife photographer.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dachigam National Park' in Jammu and Kashmir is famous for the:",
+    "options": [
+      "Musk deer",
+      "Himalayan tahr",
+      "Hangul or Kashmir stag",
+      "Black bear"
+    ],
+    "answer": 2,
+    "explanation": "Dachigam is the last refuge of the hangul or the Kashmir stag and was the original site of the(Project Tiger) in India.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bison' or 'gaur' is the state animal of:",
+    "options": [
+      "Assam",
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu"
+    ],
+    "answer": 1,
+    "explanation": "The gaur or Indian bison is the state animal of Karnataka and the state animal of Assam is the one-horned rhinoceros.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Grizzled Giant Squirrel' is found in the:",
+    "options": [
+      "Western Ghats",
+      "Himalayas",
+      "Sundarbans",
+      "Eastern Ghats"
+    ],
+    "answer": 0,
+    "explanation": "The grizzled giant squirrel, an endangered species, is found in the Western Ghats, and it is the state animal of Kerala.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Margay' and the 'Fishing Cat' are the names of:",
+    "options": [
+      "Reptiles of the Rann",
+      "Birds of the Western Ghats",
+      "Wild cats of the Indian jungles",
+      "Fishes of the Ganga"
+    ],
+    "answer": 2,
+    "explanation": "The margay, fishing cat, leopard cat and jungle cat are wild cats of the Indian forests that are often confused with the leopard.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nilgiri langur' is a:",
+    "options": [
+      "Critically Endangered bird",
+      "A tree species",
+      "A fish",
+      "Endangered primate of the Western Ghats"
+    ],
+    "answer": 3,
+    "explanation": "The Nilgiri langur, or the lion-tailed macaque, is listed as Endangered and is found in the Western Ghats.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'White winged wood duck' is found in:",
+    "options": [
+      "The Western Ghats only",
+      "The Andaman islands only",
+      "The Himalayan foothills and the northeast",
+      "The Thar Desert"
+    ],
+    "answer": 2,
+    "explanation": "The white winged wood duck is a critically endangered wetland bird found in the foothills of the eastern Himalaya and in the northeastern states.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IUCN categories' of protected areas include:",
+    "options": [
+      "Category I, II, III, IV, V and VI",
+      "Category I to IV only",
+      "National parks and sanctuaries only",
+      "Biosphere reserves and national parks"
+    ],
+    "answer": 0,
+    "explanation": "The IUCN has six categories of protected areas, from Category I, a strict nature reserve, to Category VI, a protected landscape or seascape.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Category I' of the IUCN protected areas includes:",
+    "options": [
+      "Wildlife sanctuaries",
+      "Biosphere reserves",
+      "National parks",
+      "Strict nature reserves"
+    ],
+    "answer": 3,
+    "explanation": "Category I, the strict nature reserve, is the highest and most protected category, and it includes the national parks and the wilderness areas.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A biosphere reserve in India has how many zones?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "One"
+    ],
+    "answer": 1,
+    "explanation": "A biosphere reserve has a core zone, a buffer zone and a transition zone, and the legal status of the zones differs from that of a national park.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'Nanda Devi and Valley of Flowers' national parks are in:",
+    "options": [
+      "Jammu and Kashmir",
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Sikkim"
+    ],
+    "answer": 1,
+    "explanation": "Both the Nanda Devi and the Valley of Flowers national parks in Uttarakhand were inscribed as UNESCO World Heritage sites in 2005.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Manas' and the 'Kaziranga' national parks are:",
+    "options": [
+      "Ramsar sites only",
+      "Reserved forests",
+      "Ecological sensitive zones",
+      "UNESCO World Heritage sites"
+    ],
+    "answer": 3,
+    "explanation": "Kaziranga and Manas were inscribed as UNESCO World Heritage sites in 1985, and both are protected areas for the one-horned rhinoceros and the tiger.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sun Temple, Konark' and the 'Group of Monuments at Mahabalipuram' are:",
+    "options": [
+      "Eco-sensitive zones",
+      "Biosphere reserves",
+      "UNESCO World Heritage sites",
+      "Ramsar sites"
+    ],
+    "answer": 2,
+    "explanation": "Both were inscribed as UNESCO World Heritage cultural sites in 1984 and 2004 respectively.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sundarbans' and the 'Chilika' are:",
+    "options": [
+      "Ramsar sites",
+      "National parks",
+      "Sanctuaries only",
+      "Tiger reserves"
+    ],
+    "answer": 0,
+    "explanation": "The Sundarbans, the Chilika Lake, the Vembanad Lake, the Loktak Lake, the Keoladeo Ghana and many others are Ramsar sites in India.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'UNESCO World Heritage List' was started in:",
+    "options": [
+      "1975",
+      "1965",
+      "1972",
+      "1978"
+    ],
+    "answer": 2,
+    "explanation": "The World Heritage Convention was adopted in 1972, and the list was inscribed in 1978 with the first sites including the Ajanta Caves and the Ellora Caves of India.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Man and the Biosphere Programme' of UNESCO designates:",
+    "options": [
+      "Ramsar sites",
+      "Migratory bird sanctuaries",
+      "World Heritage sites",
+      "Biosphere reserves"
+    ],
+    "answer": 3,
+    "explanation": "The MAB Programme, launched in 1971, designates biosphere reserves which combine conservation with sustainable development.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nilgiri Biosphere Reserve' is the first biosphere reserve of India. It was designated in:",
+    "options": [
+      "1986",
+      "1990",
+      "1988",
+      "1984"
+    ],
+    "answer": 0,
+    "explanation": "The Nilgiri Biosphere Reserve, comprising the Nilgiri, Nagarhole and Bandipur areas, was the first biosphere reserve of India, designated in 1986.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Agasthyamalai Biosphere Reserve' is in:",
+    "options": [
+      "Andhra Pradesh",
+      "Kerala and Tamil Nadu",
+      "Karnataka",
+      "Kerala only"
+    ],
+    "answer": 1,
+    "explanation": "The Agasthyamalai Biosphere Reserve, in the Western Ghats, straddles the Kerala and Tamil Nadu border and includes the Periyar Tiger Reserve.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nanda Devi Biosphere Reserve' is a trans-boundary biosphere reserve of India and:",
+    "options": [
+      "China",
+      "Bangladesh",
+      "Nepal",
+      "Bhutan"
+    ],
+    "answer": 2,
+    "explanation": "The Nanda Devi Biosphere Reserve extends into the Dhaulagiri region of Nepal, making it a trans-boundary reserve and part of the World Network of Biosphere Reserves.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gulf of Mannar Marine Biosphere Reserve' was designated in:",
+    "options": [
+      "2004",
+      "1989",
+      "1990",
+      "2001"
+    ],
+    "answer": 1,
+    "explanation": "The Gulf of Mannar Marine Biosphere Reserve was the first marine biosphere reserve of India, designated in 1989, and it was later expanded.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Fame Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Important Bird Areas' of India are identified by:",
+    "options": [
+      "The IUCN",
+      "The UNEP",
+      "The WHO",
+      "BirdLife International"
+    ],
+    "answer": 3,
+    "explanation": "BirdLife International identifies the Important Bird Areas of India, a network of sites that support a significant share of the world's birds.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'green belt' around a national park in India:",
+    "options": [
+      "Is a general instruction of the Central Government",
+      "Is notified by the state government",
+      "Is a Ramsar concept",
+      "Is notified under the Wildlife Protection Act"
+    ],
+    "answer": 0,
+    "explanation": "The green belt around a protected area is an instruction of the Central Government under the Wildlife Protection Act, and it is not notified as a separate protected area.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Parks' in India are notified under:",
+    "options": [
+      "The Environment Protection Act, 1986",
+      "The Biodiversity Act, 2002",
+      "The Wildlife Protection Act, 1972",
+      "The Forest Conservation Act, 1980"
+    ],
+    "answer": 2,
+    "explanation": "National parks, sanctuaries and other categories of protected areas are notified under the Wildlife Protection Act, 1972, as amended in 2022.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Wildlife Board' of India is:",
+    "options": [
+      "A non-statutory advisory body",
+      "A judicial body",
+      "An international organisation",
+      "A statutory body under the Wildlife Protection Act"
+    ],
+    "answer": 3,
+    "explanation": "The National Wildlife Board was constituted as a statutory body under the Wildlife Protection Act, 1972, and the National Biodiversity Authority was the non-statutory counterpart.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Biodiversity Portal' and the 'Biodiversity of India' portal are:",
+    "options": [
+      "Facilities for the registration of the biodiversity and the documentation of the species",
+      "International bodies",
+      "Universities",
+      "Statutory bodies"
+    ],
+    "answer": 0,
+    "explanation": "The Biodiversity of India portal and the Indian Biodiversity Portal are online facilities maintained for the registration of the biodiversity and the documentation of the species.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Community Reserve' category of protected area was introduced in:",
+    "options": [
+      "1989",
+      "2012",
+      "2004",
+      "1990"
+    ],
+    "answer": 1,
+    "explanation": "The community reserve category, along with the conservation reserve, was introduced by the 2012 amendment to the Wildlife Protection Act, decentralising conservation to the community.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'green building' and the 'eco-sensitive zone' around a sanctuary:",
+    "options": [
+      "Are the same",
+      "Differ in their extent and the activities permitted",
+      "Apply only to the marine areas",
+      "Were abolished in 2022"
+    ],
+    "answer": 1,
+    "explanation": "Eco-sensitive zones around sanctuaries and national parks are larger and more restrictive than the green belt around a sanctuary.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Indian Bustard' conservation and the 'Khichan' village are associated with:",
+    "options": [
+      "Maharashtra",
+      "Karnataka",
+      "Rajasthan",
+      "Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "The Khichan village in Rajasthan, where the bustard hunters became conservationists, and the Jassdan in Gujarat are associated with the conservation of the Great Indian Bustard.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Siberian Crane' and the 'Black-necked Crane' in India are:",
+    "options": [
+      "Endemic species",
+      "Extinct species",
+      "Vagrants from Central Asia",
+      "Resident birds"
+    ],
+    "answer": 2,
+    "explanation": "Both are winter visitors from Central Asia that are found in the wetlands of Gujarat, Rajasthan and Madhya Pradesh.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Salim Ali Centre for Ornithology and Natural History' is at:",
+    "options": [
+      "Pune",
+      "Kochi",
+      "Shimla",
+      "Dehradun"
+    ],
+    "answer": 0,
+    "explanation": "The SCON is at Pune and is named after the famous Indian ornithologist Dr. Salim Ali, who also founded the BNHS in Bombay.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bombay Natural History Society' was founded in:",
+    "options": [
+      "1905",
+      "1930",
+      "1883",
+      "1889"
+    ],
+    "answer": 2,
+    "explanation": "The Bombay Natural History Society was founded in 1883 by eight naturalists including Dr. Salim Ali's mentor, and it now runs the magazine 'Birds'.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gondwana' and the 'Tethys' are:",
+    "options": [
+      "National parks of India",
+      "Ancient supercontinents and ancient seas in geology",
+      "Biosphere reserves",
+      "Rivers"
+    ],
+    "answer": 1,
+    "explanation": "Gondwana was the ancient supercontinent that included India, Antarctica, Africa, South America and Australia, and the Tethys was the ancient sea between them.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'coral triangle' with the highest marine biodiversity is in:",
+    "options": [
+      "The Mediterranean Sea",
+      "The Arctic Ocean",
+      "The Caribbean Sea",
+      "The Indo-Pacific region"
+    ],
+    "answer": 3,
+    "explanation": "The Coral Triangle, in the waters of Indonesia, the Philippines, Malaysia, Papua New Guinea, the Solomon Islands and Timor-Leste, is the global centre of marine biodiversity.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Western Ghats' were declared a World Heritage Site in:",
+    "options": [
+      "1983",
+      "1985",
+      "2010",
+      "2012"
+    ],
+    "answer": 0,
+    "explanation": "The Western Ghats were inscribed as a UNESCO World Heritage site in 1983, along with the Group of Monuments at Mahabalipuram, the Buddhist Monuments at Sanchi and the Ellora and Ajanta caves.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'greatest' number of Ramsar sites in India is in:",
+    "options": [
+      "Gujarat",
+      "Uttar Pradesh",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "answer": 2,
+    "explanation": "Tamil Nadu has the highest number of Ramsar sites in India, with more than a dozen including the Vembanad and the Suchindram Theroor wetlands.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhitarkanika Mangroves' were designated a Ramsar site in:",
+    "options": [
+      "2002",
+      "1996",
+      "2010",
+      "2015"
+    ],
+    "answer": 0,
+    "explanation": "The Bhitarkanika mangroves, the second largest mangrove forest in India, were designated a Ramsar site in 2002.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Loktak Lake' of Manipur was designated a Ramsar site in:",
+    "options": [
+      "1993",
+      "1990",
+      "1995",
+      "1992"
+    ],
+    "answer": 3,
+    "explanation": "Loktak Lake was designated a Ramsar site in 1992, the thirteenth such site in India at that time, and it hosts the only floating national park in the world.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Point Calimere' and the 'Gulf of Mannar' marine areas are:",
+    "options": [
+      "Bird sanctuaries",
+      "Ramsar sites",
+      "National parks",
+      "Mangrove reserves"
+    ],
+    "answer": 1,
+    "explanation": "The Gulf of Mannar and the Point Calimere bird sanctuary are among the Ramsar sites of Tamil Nadu on the Coromandel coast.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhitarkanika' and the 'Chandoli Dam' in Odisha are:",
+    "options": [
+      "National parks",
+      "Research stations",
+      "Wildlife sanctuaries",
+      "Ramsar sites"
+    ],
+    "answer": 3,
+    "explanation": "The Chilika Lake, the Bhitarkanika Mangroves and the Chandoli Dam in Odisha are Ramsar sites.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sindhudurg and the Malvan' areas of Maharashtra are:",
+    "options": [
+      "Tiger reserves",
+      "Wildlife sanctuaries",
+      "Ramsar sites",
+      "National parks"
+    ],
+    "answer": 2,
+    "explanation": "The Vembanad, the Chilika, the Keoladeo, the Bhitarkanika, the Point Calimere and the Sindhudurg and the Malvan areas are among the Ramsar sites.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Park' category of protected area in India allows:",
+    "options": [
+      "Hunting and grazing",
+      "Strict protection with limited human use",
+      "Grazing by the local communities",
+      "Collection of minor forest produce"
+    ],
+    "answer": 1,
+    "explanation": "National parks have the highest degree of protection, with human interference minimised, whereas wildlife sanctuaries allow some use such as grazing and the collection of minor forest produce.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ecological sensitive zone' around a national park:",
+    "options": [
+      "Prohibits certain activities listed in the notification",
+      "Is the same as the core zone",
+      "Is notified only after the state government's request",
+      "Allows all commercial activities"
+    ],
+    "answer": 0,
+    "explanation": "The eco-sensitive zone notified around a national park or a sanctuary prohibits the activities listed in the notification, such as quarrying and industrial expansion.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mt. Harriet Island National Park' and the 'Rani Jhansi Marine National Park' are in:",
+    "options": [
+      "Andaman and Nicobar Islands",
+      "Kerala",
+      "Gujarat",
+      "Tamil Nadu"
+    ],
+    "answer": 0,
+    "explanation": "The Mt. Harriet Island National Park and the Rani Jhansi Marine National Park are protected areas in the Andaman and Nicobar Islands.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kalakad-Mundanthurai Tiger Reserve' and the 'Nelliyampathy' are in:",
+    "options": [
+      "Andhra Pradesh",
+      "Karnataka",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "answer": 2,
+    "explanation": "The Kalakad-Mundanthurai Tiger Reserve in the Western Ghats of Tamil Nadu adjoins the Nelliyampathy sacred forest of the Palani hills.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pilibhit Tiger Reserve' and the 'Seshachalam Hills' are in:",
+    "options": [
+      "Kerala",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "answer": 1,
+    "explanation": "The Pilibhit Tiger Reserve and the Seshachalam Hills, with its Sri Chundruvarayula and Bhagiratha temples, are in Andhra Pradesh.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indira Gandhi Wildlife Sanctuary' and the 'Talakona' are in:",
+    "options": [
+      "Karnataka",
+      "Odisha",
+      "Telangana",
+      "Andhra Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "The Indira Gandhi Wildlife Sanctuary, which includes the Talakona forest, is the largest protected area of Andhra Pradesh.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nagarjunsagar-Srisailam' and the 'Amrabad Tiger Reserve' are in:",
+    "options": [
+      "Telangana and Andhra Pradesh",
+      "Karnataka",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "answer": 0,
+    "explanation": "The Nagarjunsagar-Srisailam Wildlife Sanctuary is spread over Andhra Pradesh and Telangana, and the Amrabad Tiger Reserve is in Andhra Pradesh.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nandankanan Zoological Park' is in:",
+    "options": [
+      "Jharkhand",
+      "Odisha",
+      "West Bengal",
+      "Assam"
+    ],
+    "answer": 1,
+    "explanation": "The Nandankanan Zoological Park, near Bhubaneswar in Odisha, is famous for its white tiger and the successful breeding of the gharial.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sepahijala Bird Sanctuary' and the 'Sethusamudram' islands of Tamil Nadu are important for:",
+    "options": [
+      "Elephants",
+      "Bengal tiger",
+      "Snakes",
+      "Migratory shorebirds"
+    ],
+    "answer": 3,
+    "explanation": "The Sepahijala Bird Sanctuary in the Gulf of Mannar and the Sethusamudram islands are key wintering grounds for migratory shorebirds.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pongal' and the 'Mudumalai Tiger Reserve' are in:",
+    "options": [
+      "Andhra Pradesh",
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "answer": 2,
+    "explanation": "The Mudumalai Tiger Reserve, adjoining the Bandipur and the Nagarjunsagar areas, is in Tamil Nadu.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sathyamangalam Tiger Reserve' is in:",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "The Sathyamangalam Tiger Reserve and the Anamalai Tiger Reserve are in Tamil Nadu, and the Sathyamangalam forests hold a major elephant population.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kudremukh National Park' and the 'Mookambika Wildlife Sanctuary' are in:",
+    "options": [
+      "Tamil Nadu",
+      "Goa",
+      "Karnataka",
+      "Kerala"
+    ],
+    "answer": 2,
+    "explanation": "Both the Kudremukh National Park and the Mookambika Wildlife Sanctuary are in Karnataka, in the Western Ghats.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhadra Wildlife Sanctuary' and the 'Nagarhole National Park' are in:",
+    "options": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Kerala",
+      "Telangana"
+    ],
+    "answer": 0,
+    "explanation": "The Bhadra Wildlife Sanctuary and the Nagarhole National Park are both in Karnataka and are part of the Nilgiri Biosphere Reserve.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bannerghatta National Park' is near:",
+    "options": [
+      "Hubli",
+      "Mangalore",
+      "Mysore",
+      "Bengaluru"
+    ],
+    "answer": 3,
+    "explanation": "The Bannerghatta National Park near Bengaluru is one of the earliest tiger reserves of Karnataka and was the first to have a butterfly park.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ranganathittu Bird Sanctuary' is in:",
+    "options": [
+      "Alipur in Tamil Nadu",
+      "Mysore in Karnataka",
+      "Ooty in Tamil Nadu",
+      "Bhubaneswar in Odisha"
+    ],
+    "answer": 1,
+    "explanation": "The Ranganathittu Bird Sanctuary near Mysore is a popular wetland sanctuary with large congregations of migratory birds.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indira Gandhi Wildlife Sanctuary' and the 'Kawal Tiger Reserve' are in:",
+    "options": [
+      "Andhra Pradesh",
+      "Karnataka",
+      "Telangana",
+      "Odisha"
+    ],
+    "answer": 2,
+    "explanation": "The Indira Gandhi Wildlife Sanctuary, the Kawal Tiger Reserve and the Kinnersa Sanctuary are the key tiger reserves of Telangana.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Amarkantak Biosphere Reserve' is in:",
+    "options": [
+      "Chhattisgarh",
+      "Odisha",
+      "Gujarat",
+      "Madhya Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "The Amarkantak Biosphere Reserve, the source of the Narmada, lies in Madhya Pradesh and is a UNESCO World Heritage site.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Panna Tiger Reserve' is in:",
+    "options": [
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Gujarat"
+    ],
+    "answer": 0,
+    "explanation": "The Panna Tiger Reserve in Madhya Pradesh, declared in 1994, is a major tiger reserve and the state animal is the tiger.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sanjay Gandhi National Park' of Mumbai is adjacent to the:",
+    "options": [
+      "Elephanta island",
+      "The Sanjay Gandhi railway line",
+      "Borivali and the Aarey area",
+      "Thane Creek"
+    ],
+    "answer": 2,
+    "explanation": "The Sanjay Gandhi National Park lies in the Borivali and the Aarey area of suburban Mumbai and is home to the leopard.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rani Durgavati National Park' and the 'Kanha' are in:",
+    "options": [
+      "Chhattisgarh",
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "The Rani Durgavati, the Kanha, the Pench, the Satpura and the Bandhavgarh are the principal tiger reserves of Madhya Pradesh.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Toranmal Reserve Forest' and the 'Melghat' are in:",
+    "options": [
+      "Maharashtra",
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "The Melghat Tiger Reserve and the Toranmal Reserve Forest are important tiger habitats in Maharashtra.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tansa Wildlife Sanctuary' and the 'Karnala' are in:",
+    "options": [
+      "Madhya Pradesh",
+      "Gujarat",
+      "Maharashtra",
+      "Karnataka"
+    ],
+    "answer": 1,
+    "explanation": "The Tansa Wildlife Sanctuary in the Sahyadris and the Karnala Bird Sanctuary near Navi Mumbai are protected areas of Maharashtra.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sanjay Gandhi Bird Sanctuary' and the 'Kasu Brahmananda Reddy' are in:",
+    "options": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "answer": 0,
+    "explanation": "The Sanjay Gandhi Bird Sanctuary near Hyderabad, also called the Kasu Brahmananda Reddy National Park, is an important wetland bird sanctuary.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ramsar site' of the Loktak Lake in Manipur hosts the:",
+    "options": [
+      "Sultanpur",
+      "Bharatpur bird sanctuary",
+      "Keibul Lamjao, the only floating national park",
+      "Kaziranga"
+    ],
+    "answer": 2,
+    "explanation": "Keibul Lamjao, on the southern-eastern fringe of Loktak Lake, is the only floating national park in the world and preserves the sangai deer.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sunderbans Tiger Reserve' is the only mangrove tiger reserve in:",
+    "options": [
+      "Bangladesh only",
+      "India",
+      "The world",
+      "Asia"
+    ],
+    "answer": 1,
+    "explanation": "The Sundarbans Tiger Reserve in West Bengal is the only mangrove tiger reserve in the world.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indus Valley' sites and the 'Rakhigarhi' are in:",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Maharashtra",
+      "Punjab and Haryana"
+    ],
+    "answer": 3,
+    "explanation": "Rakhigarhi in Haryana is the largest of the Indus Valley sites, and most of the Harappan sites lie in Punjab, Haryana and Sindh.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pangong Tso' and the 'Changthang' are:",
+    "options": [
+      "Wildlife sanctuaries",
+      "National parks",
+      "Rivers of Ladakh",
+      "Wetlands and lakes of Ladakh"
+    ],
+    "answer": 3,
+    "explanation": "The Pangong Tso and the Changthang wetlands of Ladakh are important breeding grounds for the migratory bar-headed geese and other high-altitude birds.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Keoladeo National Park' of Bharatpur is famous for:",
+    "options": [
+      "Marine life",
+      "Migratory birds",
+      "Tigers",
+      "Lions"
+    ],
+    "answer": 1,
+    "explanation": "The Keoladeo Ghana, a UNESCO World Heritage site, is one of the world's finest bird sanctuaries with over 350 species of wetland birds.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sultanpur National Park' of Haryana is a:",
+    "options": [
+      "Ramsar wetland for migratory birds",
+      "Tiger reserve",
+      "Desert park",
+      "Elephant reserve"
+    ],
+    "answer": 0,
+    "explanation": "The Sultanpur National Park, a Ramsar site, is a wetland that attracts large congregations of migratory waterfowl on the Haryana-Delhi border.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'KhalISarovar' and the 'Bhindawas' are:",
+    "options": [
+      "National parks in Punjab",
+      "Tigress reserves in Haryana",
+      "Ramsar sites in Rajasthan",
+      "Bird sanctuaries in Gujarat"
+    ],
+    "answer": 2,
+    "explanation": "The Khalsarovar and the Bhindawas lakes of Rajasthan are among the Ramsar sites of the state.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nalsarovar' and the 'Khijadiya' are:",
+    "options": [
+      "Wildlife sanctuaries in Rajasthan",
+      "Tropical forests in Assam",
+      "Rivers in Bihar",
+      "Ramsar sites in Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "The Nalsarovar, the Khijadiya and the Nal Sarovar are among the Ramsar wetlands of Gujarat.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Deepor Beel' and the 'Ha-ha' wetland are in:",
+    "options": [
+      "Assam",
+      "West Bengal",
+      "Meghalaya",
+      "Manipur"
+    ],
+    "answer": 0,
+    "explanation": "The Deepor Beel, a Ramsar site in Assam, is the only deep freshwater lake in the state and a haven of the greater adjutant stork.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Wadhvana' and the 'Khijadiya' are:",
+    "options": [
+      "Bays of Odisha",
+      "Ramsar wetlands of Gujarat",
+      "Sanctuaries of Maharashtra",
+      "Lakes of Punjab"
+    ],
+    "answer": 1,
+    "explanation": "The Wadhvana and the Khijadiya are Ramsar wetlands of Gujarat, in the Gulf of Kutch region.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pariej Wetland' and the 'Kanewal' are:",
+    "options": [
+      "Bird sanctuaries in Bihar",
+      "Marine parks in Tamil Nadu",
+      "Ramsar sites in Gujarat",
+      "National parks in Rajasthan"
+    ],
+    "answer": 2,
+    "explanation": "The Pariej and the Kanewal are among the Ramsar sites of Gujarat, notified along with the Nal Sarovar.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Khichan' and the 'Banni' villages are associated with:",
+    "options": [
+      "Crocodile conservation",
+      "Bird conservation, especially the bustard and the crane",
+      "Elephant conservation",
+      "Sea turtle conservation"
+    ],
+    "answer": 1,
+    "explanation": "The Khichan and the Banni villages of Rajasthan are known for their community conservation of the migratory birds of the Indira Gandhi National Park and the desert wetlands.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhitarkanika' and the 'Mahanadi' delta in Odisha are important for:",
+    "options": [
+      "Tiger",
+      "Elephant",
+      "Snow leopard",
+      "Migratory shorebirds and the saltwater crocodile"
+    ],
+    "answer": 3,
+    "explanation": "The Bhitarkanika mangrove forests are the home of the saltwater crocodile and a major breeding ground for the greater adjutant and other migratory birds.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ramsar Convention' requires the parties to designate at least one wetland:",
+    "options": [
+      "Only on request of the Secretariat",
+      "At the time of ratification",
+      "Within five years of ratification",
+      "At the next COP"
+    ],
+    "answer": 2,
+    "explanation": "At the time of ratifying the Ramsar Convention, each party was to designate at least one Ramsar site and to include further sites later.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Montreux Record' under the Ramsar Convention concerns:",
+    "options": [
+      "Wetlands of international importance especially waterfowl habitat",
+      "Marine protected areas",
+      "Ramsar sites in Europe",
+      "The withdrawal from the Ramsar sites"
+    ],
+    "answer": 0,
+    "explanation": "The Montreux Record lists Ramsar sites where the ecological characteristics have changed or are likely to change through human interference and where timely action is needed.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'World Network of Biosphere Reserves' of UNESCO has over:",
+    "options": [
+      "500 reserves",
+      "700 reserves",
+      "1000 reserves",
+      "100 reserves"
+    ],
+    "answer": 1,
+    "explanation": "The World Network of Biosphere Reserves comprises more than 700 reserves in 120 countries, of which India has 18.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Seshachalam Hills' and the 'Kambalakonda' are the two hills near:",
+    "options": [
+      "Visakhapatnam",
+      "Hyderabad",
+      "Chennai",
+      "Mysore"
+    ],
+    "answer": 0,
+    "explanation": "The Kambalakonda and the Seshachalam hills are the two hills of the Visakhapatnam area in Andhra Pradesh.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kasu Brahmananda Reddy' and the 'Kawal' are the two tiger reserves of:",
+    "options": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Telangana",
+      "Andhra Pradesh"
+    ],
+    "answer": 2,
+    "explanation": "The Kawal and the Amrabad are in Telangana along with the Kasu Brahmananda Reddy bird sanctuary near Hyderabad.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pilibhit' and the 'Tanda' are the two tiger reserves of:",
+    "options": [
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Bihar",
+      "Uttar Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "Uttar Pradesh has the Pilibhit and the Tanda tiger reserves, which were created after the Sariska and the Kalakad tiger relocation exercises.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dampa Tiger Reserve' and the 'Sanjay National Park' are in:",
+    "options": [
+      "Gujarat",
+      "Maharashtra",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "The Dampa Tiger Reserve and the Sanjay National Park in Madhya Pradesh form a contiguous forest block in the Satpura landscape.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nauradehi' and the 'Sanjay' are the wildlife sanctuaries of:",
+    "options": [
+      "Madhya Pradesh",
+      "Chhattisgarh",
+      "Odisha",
+      "Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "The Nauradehi and the Sanjay are among the sanctuaries of Madhya Pradesh, which has the highest number of tiger reserves in the country.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Satpura National Park' and the 'Pachmarhi Biosphere Reserve' are in:",
+    "options": [
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Gujarat",
+      "Maharashtra"
+    ],
+    "answer": 1,
+    "explanation": "The Satpura National Park and the Pachmarhi Biosphere Reserve are in the Satpura range of Madhya Pradesh.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kaimur' and the 'Ganga delta' are:",
+    "options": [
+      "Tigress reserves of Jharkhand",
+      "Wildlife sanctuaries of Odisha",
+      "Ramsar sites of Uttar Pradesh",
+      "National parks of Bihar"
+    ],
+    "answer": 2,
+    "explanation": "The Bakhira and the Kailash colonies of the Ganga delta and the Kaimur wetland are among the Ramsar sites of Uttar Pradesh.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bakhira Wildlife Sanctuary' is in:",
+    "options": [
+      "Bihar",
+      "West Bengal",
+      "Assam",
+      "Uttar Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "The Bakhira Wildlife Sanctuary in the Sant Kabir Nagar and the Kushinagar districts of Uttar Pradesh is a Ramsar wetland.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Loktak' and the 'Keibul Lamjao' are in:",
+    "options": [
+      "Manipur",
+      "Nagaland",
+      "Tripura",
+      "Mizoram"
+    ],
+    "answer": 0,
+    "explanation": "Both are in Manipur, the Loktak Lake being a Ramsar site and the Keibul Lamjao the only floating national park.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Wadhvana' and the 'Gulf of Kutch' area of Gujarat:",
+    "options": [
+      "Are the site of the tiger relocation programme",
+      "Are important for the nesting of the lesser flamingo",
+      "Are the site of the Sardar Sarovar dam",
+      "Are the site of the Dholera project"
+    ],
+    "answer": 1,
+    "explanation": "The coastal and the saline wetlands of the Gulf of Kutch, including the Chhari Dhand and the Wadhvana, are crucial feeding grounds for the lesser flamingo.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Himalayan National Park' and the 'Tirthan Valley' are in:",
+    "options": [
+      "Jammu and Kashmir",
+      "Sikkim",
+      "Himachal Pradesh",
+      "Uttarakhand"
+    ],
+    "answer": 2,
+    "explanation": "The Great Himalayan National Park, a UNESCO World Heritage site, and the Tirthan Valley are in Himachal Pradesh.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kibber Wildlife Sanctuary' and the 'Changthang' are in:",
+    "options": [
+      "Himachal Pradesh",
+      "Zanskar in Uttarakhand",
+      "Sikkim",
+      "Ladakh"
+    ],
+    "answer": 3,
+    "explanation": "The Kibber Wildlife Sanctuary and the Changthang of Ladakh protect the snow leopard and the kiang, and the Changthang is a Ramsar site.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Himalayan fly valley' and the 'Sukhna Wetland' of Chandigarh:",
+    "options": [
+      "Are both in Himachal Pradesh",
+      "Are both sanctuaries in Uttarakhand",
+      "Are both Ramsar sites",
+      "Are both national parks"
+    ],
+    "answer": 2,
+    "explanation": "The Sukhna Wetland is a Ramsar site, and the Himalayan fly valley in the same region is a noted bird habitat.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhitarkanika' and the 'Chandoli' are Ramsar sites in:",
+    "options": [
+      "Odisha",
+      "West Bengal",
+      "Assam",
+      "Meghalaya"
+    ],
+    "answer": 0,
+    "explanation": "The Chilika Lake, the Bhitarkanika Mangroves and the Chandoli Dam are the Ramsar sites of Odisha.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vembanad' and the 'Sasthamcotta' are in:",
+    "options": [
+      "Goa",
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "answer": 1,
+    "explanation": "The Vembanad Lake and the Sasthamcotta Lake are the two famous Ramsar wetlands of Kerala.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kurji and the Surinsar' lakes of:",
+    "options": [
+      "Jammu and Kashmir",
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Punjab"
+    ],
+    "answer": 0,
+    "explanation": "The Surinsar and the Mansar lakes of the Jammu region are important wetland bird habitats.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hazarikhil Wildlife Sanctuary' and the 'Barail' are in:",
+    "options": [
+      "Meghalaya",
+      "West Bengal",
+      "Manipur",
+      "Assam"
+    ],
+    "answer": 3,
+    "explanation": "The Barail and the Hazarikhil sanctuaries are among the important protected areas of Assam, home of the white winged wood duck and the hoolock gibbon.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pakke Tiger Reserve' and the 'Nameri' are in:",
+    "options": [
+      "Manipur",
+      "Assam",
+      "West Bengal",
+      "Odisha"
+    ],
+    "answer": 1,
+    "explanation": "The Pakke and the Nameri tiger reserves are in Assam, and the Nameri is the only tiger reserve in the Brahmaputra valley.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhitarkanika' and the 'Ramsar' convention:",
+    "options": [
+      "Bhitarkanika is a biosphere reserve only",
+      "Bhitarkanika is in West Bengal",
+      "Bhitarkanika is the only mangrove Ramsar site of India",
+      "Bhitarkanika is not a Ramsar site"
+    ],
+    "answer": 2,
+    "explanation": "The Bhitarkanika Mangroves in Odisha are the only mangrove Ramsar site in India, and they are also a Wildlife Sanctuary.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ramgarh' and the 'Sukna' are:",
+    "options": [
+      "Ramsar sites in Odisha and Punjab",
+      "Ramsar sites in Jharkhand and Chandigarh",
+      "National parks in Bihar",
+      "Sanctuaries in West Bengal"
+    ],
+    "answer": 1,
+    "explanation": "The Ramgarh wetland in Jharkhand and the Sukhna wetland in Chandigarh are both Ramsar sites.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indus River' and the 'Kori Wetlands' of Gujarat:",
+    "options": [
+      "Are tiger reserves",
+      "Are national parks",
+      "Are biosphere reserves",
+      "Are Ramsar sites"
+    ],
+    "answer": 3,
+    "explanation": "The Kori, the Nalsarovar, the Khijadiya, the Wadhvana and the Chhari Dhand are the Ramsar wetlands of Gujarat.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhairab' and the 'Bishazari' are:",
+    "options": [
+      "Ramsar sites of Nepal",
+      "Sanctuaries of Bhutan",
+      "National parks of Bangladesh",
+      "Wetlands of Sri Lanka"
+    ],
+    "answer": 0,
+    "explanation": "Nepal has the Koshi Tappu, the Parsa Wildlife Reserve, the Jagadishpur Reservoir, the Rara and the Gosaikunda as Ramsar sites.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Himalayan National Park' inscribed in 2014 is in:",
+    "options": [
+      "Sikkim",
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Jammu and Kashmir"
+    ],
+    "answer": 2,
+    "explanation": "The Great Himalayan National Park in Himachal Pradesh was inscribed as a UNESCO World Heritage site in 2014.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Archaeological Survey of India' was founded in:",
+    "options": [
+      "1901",
+      "1947",
+      "1905",
+      "1861"
+    ],
+    "answer": 3,
+    "explanation": "The Archaeological Survey of India was founded in 1861 by Alexander Cunningham, the first official archaeologist of India.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ASI' is under the Ministry of:",
+    "options": [
+      "Culture",
+      "Tourism",
+      "Home Affairs",
+      "Education"
+    ],
+    "answer": 0,
+    "explanation": "The Archaeological Survey of India, the National Museum, the National Archives and the National Library are under the Ministry of Culture.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Museum' and the 'Indian Museum' are located in:",
+    "options": [
+      "Chennai and Kolkata",
+      "Delhi and Chennai",
+      "New Delhi and Kolkata",
+      "Mumbai and Kolkata"
+    ],
+    "answer": 2,
+    "explanation": "The National Museum is in New Delhi and the Indian Museum, the oldest museum in India, is in Kolkata.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Archives of India' is at:",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Kolkata",
+      "Chennai"
+    ],
+    "answer": 1,
+    "explanation": "The National Archives of India, established in 1891 and presently in the Ridge area of Delhi, preserves the records of the government.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Museum Institute' and the 'Lalit Kala Akademi' and the 'Sangeet Natak Akademi' are under the Ministry of:",
+    "options": [
+      "Education",
+      "Home Affairs",
+      "Tourism",
+      "Culture"
+    ],
+    "answer": 3,
+    "explanation": "The Lalit Kala Akademi, the Sangeet Natak Akademi, the National Museum and the NFAI are autonomous bodies under the Ministry of Culture.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Museum' of Kolkata was founded in:",
+    "options": [
+      "1861",
+      "1901",
+      "1814",
+      "1854"
+    ],
+    "answer": 2,
+    "explanation": "The Indian Museum in Kolkata, founded in 1814, is the oldest museum in India and the fifth oldest in the world.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Salarjung Museum' is in:",
+    "options": [
+      "Hyderabad",
+      "Bhopal",
+      "Jaipur",
+      "Patna"
+    ],
+    "answer": 0,
+    "explanation": "The Salarjung Museum in Hyderabad holds one of the largest collections of artefacts, with over 40,000 objects.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chhatrapati Shivaji Maharaj Vastu Sangrahalaya' is the new name of:",
+    "options": [
+      "The National Museum of New Delhi",
+      "The Prince of Wales Museum, Mumbai",
+      "The Indian Museum, Kolkata",
+      "The Salarjung Museum"
+    ],
+    "answer": 1,
+    "explanation": "The Prince of Wales Museum in Mumbai was renamed the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ahmedabad' and the 'Hampi' group of monuments:",
+    "options": [
+      "Are both in Karnataka",
+      "Are both in Maharashtra",
+      "Are both in Andhra Pradesh",
+      "Are both in Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "The Hampi group of monuments in Karnataka and the Rock-Hewn Churches at Goa are among the Indian World Heritage sites inscribed in 1986.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Victorian Gothic and Art Deco' buildings of Mumbai were inscribed in:",
+    "options": [
+      "2018",
+      "2012",
+      "1998",
+      "2004"
+    ],
+    "answer": 3,
+    "explanation": "The Victorian Gothic and Art Deco Ensembles of Mumbai were inscribed as a UNESCO World Heritage site in 2004.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Le Corbusier' Capitol Complex at Chandigarh was inscribed in:",
+    "options": [
+      "2002",
+      "2016",
+      "2004",
+      "2010"
+    ],
+    "answer": 1,
+    "explanation": "The Capitol Complex of Chandigarh, designed by Le Corbusier, was inscribed as a UNESCO World Heritage site in 2016.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hill Forts of Rajasthan' were inscribed in:",
+    "options": [
+      "2011",
+      "2007",
+      "2013",
+      "2010"
+    ],
+    "answer": 2,
+    "explanation": "The six Hill Forts of Rajasthan, including Chittorgarh, Kumbhalgarh, Ranthambore, Gagron, Amber and Jaisalmer, were inscribed in 2013.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mountain Railways of India' were inscribed in:",
+    "options": [
+      "2008",
+      "2005",
+      "1999",
+      "2004"
+    ],
+    "answer": 1,
+    "explanation": "The three Mountain Railways of India, the Darjeeling, the Nilgiri Mountain and the Kalka-Shimla, were inscribed in 2005.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Red Fort Complex' and the 'Qutb Minar' in Delhi were inscribed in:",
+    "options": [
+      "1992",
+      "1998",
+      "2000",
+      "1993"
+    ],
+    "answer": 3,
+    "explanation": "The Red Fort Complex and the Qutb Minar at Delhi were inscribed as World Heritage sites in 1993, and the Fatehpur Sikri in 1986.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Churches of Goa' were inscribed in:",
+    "options": [
+      "1983",
+      "2004",
+      "1986",
+      "1993"
+    ],
+    "answer": 2,
+    "explanation": "The Churches and Convents of Goa were inscribed in 1986, the same year as the Hampi monuments and the Rock-Hewn Churches of Goa were considered separately.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nanda Devi and Valley of Flowers' and the 'Ajanta and Ellora' were inscribed in:",
+    "options": [
+      "1983",
+      "1986",
+      "2005",
+      "1993"
+    ],
+    "answer": 0,
+    "explanation": "The Nanda Devi and Valley of Flowers were inscribed in 1983, and the Buddhist Monuments at Sanchi and the Ellora caves also in 1983.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mountain Railways' and the 'Kakatiya Rudreshwara' temple at Telangana:",
+    "options": [
+      "Are the two sites inscribed in 2021",
+      "Are in Himachal Pradesh",
+      "Were inscribed in 1998",
+      "Are in Karnataka"
+    ],
+    "answer": 0,
+    "explanation": "In 2021 the Kakatiya Rudreshwara (Ramappa) Temple was inscribed, joining the 2016 additions of the Le Corbusier Capitol Complex and the Khajuraho group extension.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Santiniketan' and the 'Santiniketan' of the Visva-Bharati:",
+    "options": [
+      "Was inscribed in 2012",
+      "Is a national park",
+      "Is a Ramsar site",
+      "Was inscribed in 2023"
+    ],
+    "answer": 3,
+    "explanation": "Santiniketan, the ashram and the university campus of Rabindranath Tagore, was inscribed as a UNESCO World Heritage site in 2023.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sacred Ensembles of the Hoysalas' in Karnataka were inscribed in:",
+    "options": [
+      "2012",
+      "2024",
+      "2023",
+      "2021"
+    ],
+    "answer": 2,
+    "explanation": "The Sacred Ensembles of the Hoysalas, covering the temples at Belur, Halebidu, Somnathpur and Doddagaddavalli, was inscribed in 2023.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Moidams of the Ahom Dynasty' in Assam were inscribed in:",
+    "options": [
+      "2016",
+      "2021",
+      "2023",
+      "2019"
+    ],
+    "answer": 1,
+    "explanation": "The Moidams, the royal burial mounds of the Ahom dynasty at Charaideo, were inscribed as a World Heritage site in 2021.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jog Falls' and the 'Sethusamudram' of Tamil Nadu:",
+    "options": [
+      "Are the site of the proposed dam and the marine park",
+      "Are national parks",
+      "Are Ramsar sites",
+      "Are the site of the Auroville"
+    ],
+    "answer": 0,
+    "explanation": "The Sethusamudram, a marine national park in the Gulf of Mannar, and the proposed Sethusamudram dam near the Jog Falls are both Tamil Nadu initiatives.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Point Calimere' bird sanctuary was declared in:",
+    "options": [
+      "1962",
+      "1970",
+      "1965",
+      "1958"
+    ],
+    "answer": 2,
+    "explanation": "The Point Calimere Bird Sanctuary in Tamil Nadu was one of the first bird sanctuaries of India, declared in 1965, and it is a Ramsar site.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sultanpur National Park' of Haryana was declared in:",
+    "options": [
+      "1961",
+      "1971",
+      "1981",
+      "1991"
+    ],
+    "answer": 1,
+    "explanation": "The Sultanpur National Park was the first wetland sanctuary of Haryana, declared in 1971, and it was designated a Ramsar site in 1991.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bharatpur Bird Sanctuary' was declared in:",
+    "options": [
+      "1981",
+      "1951",
+      "1971",
+      "1956"
+    ],
+    "answer": 3,
+    "explanation": "The Keoladeo Ghana was declared a sanctuary in 1956 and later became a national park in 1981 and a World Heritage site in 1985.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Seshachalam Hills' and the 'Kambalakonda' are in:",
+    "options": [
+      "Telangana",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Odisha"
+    ],
+    "answer": 2,
+    "explanation": "Both hills are near Visakhapatnam in Andhra Pradesh, and the Seshachalam hills are home to the golden gecko, the largest of its kind.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Grizzled Giant Squirrel' and the 'Nilgiri langur' are:",
+    "options": [
+      "Reptiles of the Deccan",
+      "Endangered mammals of the Western Ghats",
+      "Critically endangered birds",
+      "Fishes of the Western Ghats"
+    ],
+    "answer": 1,
+    "explanation": "Both are threatened mammals of the Western Ghats, and the Nilgiri langur is the state animal of Tamil Nadu.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Black-necked Crane' is the state bird of:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Sikkim",
+      "Arunachal Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "The black-necked crane is the state bird of Arunachal Pradesh and is a highly threatened species found in the high-altitude wetlands of the eastern Himalaya.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bengal Florican' is the state bird of:",
+    "options": [
+      "Assam",
+      "Meghalaya",
+      "West Bengal",
+      "Odisha"
+    ],
+    "answer": 0,
+    "explanation": "The Bengal florican is the state bird of Assam and is found in the grasslands of the Brahmaputra valley.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'White-eared bulbul' is the state bird of:",
+    "options": [
+      "Gujarat",
+      "Maharashtra",
+      "Karnataka",
+      "Goa"
+    ],
+    "answer": 0,
+    "explanation": "The white-eared bulbul is the state bird of Gujarat and is also the emblem of the Bombay Natural History Society.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Frigate bird' and the 'Lakshadweep' are associated with:",
+    "options": [
+      "The Nicobar Islands",
+      "The Lakshadweep Islands",
+      "The Andaman Islands",
+      "The Gulf of Mannar"
+    ],
+    "answer": 1,
+    "explanation": "The magnificent frigate bird of the Lakshadweep is the state bird of the Union Territory of Lakshadweep.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The state bird of the Andaman and Nicobar Islands is:",
+    "options": [
+      "The Himalayan monal",
+      "The Andaman teal",
+      "The Nicobar megapode",
+      "The white-eared bulbul"
+    ],
+    "answer": 2,
+    "explanation": "The Nicobar megapode, also called the Nicobar jungle fowl, is the state bird of the Andaman and Nicobar Islands.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

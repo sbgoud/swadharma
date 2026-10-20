@@ -1,0 +1,482 @@
+[
+  {
+    "q": "The Production Linked Incentive scheme for the pharmaceuticals covers:",
+    "options": [
+      "the bulk drugs of the public sector undertakings",
+      "new drugs, generics and complex generics with an emphasis on the research and development",
+      "the marketing and the distribution of the medicines",
+      "only the generic medicines exported to Africa"
+    ],
+    "answer": 1,
+    "explanation": "The PLI for the pharmaceuticals covers the new drugs, the generics and the complex generics and the formulation, with a significant portion of the incentive linked to the research and the development and the new product approvals.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The Production Linked Incentive scheme for the electronics covers:",
+    "options": [
+      "the consumer electronics of the imported brands only",
+      "the semiconductor fabrication plants only",
+      "the assembly of the televisions of the foreign brands",
+      "the mobile phones, the specified electronic components and the IT hardware"
+    ],
+    "answer": 3,
+    "explanation": "The PLI for the electronics manufacturing covers the mobile phones, the specified electronic components and the IT hardware, and it is administered by the Ministry of Electronics and Information Technology.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The Production Linked Incentive scheme for the advanced chemistry cell is linked to:",
+    "options": [
+      "the electric vehicle and the advanced chemistry cell manufacturing with the localisation of the value chain",
+      "the telecom equipment of the 5G networks",
+      "the export of the speciality steel",
+      "the bulk drug formulation"
+    ],
+    "answer": 0,
+    "explanation": "The ACC battery PLI supports the manufacturing of the advanced chemistry cells and the electric vehicles with a high degree of the localisation of the value chain.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The Production Linked Incentive scheme for the textiles and the apparel focuses on:",
+    "options": [
+      "the processing of the imported fabric for the re-export",
+      "the spinning capacity of the cooperative mills",
+      "the cotton of the traditional handloom sector only",
+      "man-made fibre, technical textiles, speciality textiles and the apparel with the emphasis on the exports"
+    ],
+    "answer": 3,
+    "explanation": "The textiles and the apparel PLI covers the man-made fibre, the technical textiles, the speciality textiles and the apparel with a focus on the exports and the creation of the employment.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The Production Linked Incentive scheme for the white goods covers:",
+    "options": [
+      "only the air conditioners and the refrigerators",
+      "the televisions and the home appliances of the import",
+      "refrigerators, air conditioners, washing machines and the LED lighting",
+      "the kitchen appliances of the unorganised sector"
+    ],
+    "answer": 2,
+    "explanation": "The white goods PLI covers the refrigerators, the air conditioners, the washing machines and the LED lighting with the focus on the local manufacturing and the export.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The Production Linked Incentive scheme for the food products covers:",
+    "options": [
+      "the primary processing of the pulses and the oilseeds",
+      "the milk and the dairy, the tea, the coffee, the eggs, the meat, the marine, the fruits and the vegetables, the spices, the packaged food and the ready to eat items",
+      "only the export of the rice and the wheat",
+      "the cold storage and the warehousing alone"
+    ],
+    "answer": 1,
+    "explanation": "The food processing PLI covers the milk and the dairy, the tea, the coffee, the eggs, the meat and the marine, the fruits and the vegetables, the spices, the packaged food and the ready to eat food products.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'ZED' certification scheme of the Bureau of Indian Standards:",
+    "options": [
+      "is a mandatory pre-shipment inspection of the textiles",
+      "is the quality standard for the defence equipment of the public sector",
+      "certifies the export worthy quality products of the small and the micro enterprises",
+      "certifies the organic produce of the exporters"
+    ],
+    "answer": 2,
+    "explanation": "The ZED certification is a quality and performance certification for the products of the small and the micro enterprises that enables them to compete in the export markets with the zero defect products.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Udyam' registration for the micro, small and medium enterprises is:",
+    "options": [
+      "a registration required only for the export oriented units",
+      "a mandatory registration under the Companies Act",
+      "a licence issued by the Ministry of MSME after the inspection",
+      "a self declaration based registration that replaced the earlier Udyog Aadhaar and the PAN based registration"
+    ],
+    "answer": 3,
+    "explanation": "The Udyam registration, introduced in July 2020, is a self declaration based and paperless registration that replaced the Udyog Aadhaar and the PAN based registration of the MSMEs.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'National Optical Fibre' project aims to:",
+    "options": [
+      "connect every gram panchayat with the high speed internet and provide the digital infrastructure for the e-governance",
+      "replace the mobile broadband in the cities",
+      "lay the undersea cables in the Indian Ocean",
+      "provide the leased line connectivity to the defence establishments only"
+    ],
+    "answer": 0,
+    "explanation": "The National Optical Fibre project of the BharatNet aims to provide a fibre connection to every gram panchayat and to strengthen the digital infrastructure for the e-governance and the education and the health services.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dedicated Freight Corridor' projects of India are:",
+    "options": [
+      "the Ludhiana to the Mundra and the Delhi to the Kandla routes",
+      "the Eastern corridor from Ludhiana to Kolkata and the Western corridor from Delhi to Mumbai",
+      "the Chennai to the Delhi and the Mumbai to the Kolkata routes",
+      "the Chennai to the Visakhapatnam and the Pune to the Kochi routes"
+    ],
+    "answer": 1,
+    "explanation": "The Dedicated Freight Corridors are the Eastern corridor from Ludhiana to Kolkata and the Western corridor from Delhi to Mumbai, and they are aimed at a faster and a cheaper freight movement with the double stack containers.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Parvatmala' scheme of the road ministry is intended for:",
+    "options": [
+      "the ropeways in the hill and the pilgrim destinations to improve the last mile connectivity",
+      "the construction of the ropeways for the tourist circuit of Kerala only",
+      "the maintenance of the existing cable cars of the tourism department",
+      "the ropeway network in the plains for the freight movement"
+    ],
+    "answer": 0,
+    "explanation": "The Parvatmala Pariyojana aims to develop the ropeways at the hill and the pilgrim destinations to provide the safe and the affordable mobility and to improve the last mile connectivity.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'garbage-free city' certification under the Swachh Bharat Mission-U is given to:",
+    "options": [
+      "the cities that have the largest urban population",
+      "the cities with the maximum number of the public toilets",
+      "the cities with the highest municipal revenue",
+      "the cities that have declared themselves ODF plus the waste processing certification"
+    ],
+    "answer": 3,
+    "explanation": "The garbage free city certification under the SBM-U requires the declaration of the ODF status along with the verification of the solid waste processing and the disposal by the third party audit.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'source separation' of the waste:",
+    "options": [
+      "has been stopped after the certification of the cities",
+      "is a key component of the sustainable waste management in the urban local bodies",
+      "is done only by the private concessionaires",
+      "is mandatory only for the commercial establishments"
+    ],
+    "answer": 1,
+    "explanation": "The source separation of the waste into the wet, the dry and the inert fractions at the household level is the key component of the sustainable waste management under the SBM-U, and it is verified by the third party audit.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'e-Courts' project of the judiciary:",
+    "options": [
+      "replaces the interpreters in the court proceedings",
+      "digitises only the records of the Supreme Court",
+      "provides the electronic filing of the cases, the digital cause lists and the video conferencing in the courts",
+      "automates the judgement writing in the criminal cases"
+    ],
+    "answer": 2,
+    "explanation": "The e-Courts project of the National Judicial Data Grid enables the electronic filing of the cases, the digital cause lists, the e-filing of the appeals and the video conferencing, and it has been operational in the district courts since 2007.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Agriculture Infrastructure Fund' provides the interest subvention for the post harvest infrastructure with a loan of up to:",
+    "options": [
+      "Rs 2 crore for a period of seven years",
+      "Rs 5 crore for a period of five years",
+      "Rs 1 crore for a period of three years",
+      "Rs 10 crore for a period of ten years"
+    ],
+    "answer": 0,
+    "explanation": "The Agriculture Infrastructure Fund offers a 3 per cent interest subvention for a loan of up to Rs 2 crore for a period of seven years for the post harvest management infrastructure and the community level assets.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Integrated Scheme for Agricultural Marketing' (ISAM) was formulated in:",
+    "options": [
+      "1995, with the creation of the e-NAM",
+      "2005, with the launch of the MSP procurement",
+      "2015, replacing the APMC reform programme",
+      "2020, to be implemented from 2021-22 with the continuation of the existing sub-schemes"
+    ],
+    "answer": 3,
+    "explanation": "The ISAM of 2020 subsumes the sub-schemes of the Agricultural Marketing Infrastructure, the Marketing Structure Reform, the Krishi Value Chain Development and the e-NAM with the scheme to continue from 2021-22.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rashtriya Krishi Vikas Yojana' was restructured in 2018 as:",
+    "options": [
+      "the Pradhan Mantri Fasal Bima Yojana",
+      "the Agriculture Infrastructure Fund",
+      "the Rashtriya Krishi Vikas Yojana with the focus on the integrated farming system and the value chain",
+      "the Kisan Call Centre and the Agritech Portal"
+    ],
+    "answer": 2,
+    "explanation": "The RKVY was restructured in 2018 with the focus on the integrated farming system, the value chain, the food processing and the agri-entrepreneurship with the States free to choose the sub-schemes.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Seed Bill' proposed in India seeks to:",
+    "options": [
+      "make the seed companies eligible for the export subsidy",
+      "replace the Seeds Act of 1966 and include the farmers in the registration of the varieties",
+      "increase the subsidy on the certified seed",
+      "abolish the seed certification of the private sector"
+    ],
+    "answer": 1,
+    "explanation": "The Seed Bill proposes to replace the Seeds Act of 1966, to bring the seed varieties in the registration and to provide the farmers the right to register their own varieties and to store and sell the seed of their choice.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Contract farming' under the Model Agricultural Produce Market Contract Act, 2020:",
+    "options": [
+      "requires the registration of every contract with the state",
+      "bans the multi-season contracts",
+      "permits the producer to sell to any person including the trader, the wholesaler and the retailer",
+      "allows the buyer to purchase only from the mandi"
+    ],
+    "answer": 2,
+    "explanation": "The Model Act provides for the freedom to sell to any person including the trader, the wholesaler, the retailer, the exporter and the consumer, and it allows the multi-season contracts with the sowing of the seed by the farmer.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Food Corporation of India' procures the foodgrains for the:",
+    "options": [
+      "the seeds and the fertilisers of the States",
+      "the procurement of the sugarcane of the mills",
+      "the export of the rice and the wheat only",
+      "the central pool and the distribution under the Public Distribution System"
+    ],
+    "answer": 3,
+    "explanation": "The FCI procures the foodgrains from the farmers for the central pool and the public distribution and the other welfare schemes, and it also undertakes the storage, the transportation and the distribution.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Export-Import Bank of India' finances the exports and the imports of:",
+    "options": [
+      "the Indian buyers and the buyers of the Indian goods abroad",
+      "the state trading corporations",
+      "only the central government",
+      "the overseas subsidiaries of the Indian companies"
+    ],
+    "answer": 0,
+    "explanation": "The EXIM Bank provides the financing for the Indian importers of the capital goods and for the buyers of the Indian goods abroad, and it offers the buyer's credit, the supplier's credit and the lines of credit for the countries.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Forward Contract' in the foreign exchange market:",
+    "options": [
+      "is a contract with the central bank for the purchase of the foreign currency",
+      "fixes the rate of exchange for a future date with an obligation to deliver the currency",
+      "is a spot purchase of the currency for immediate settlement",
+      "is an unconditional option to buy the currency at a future date"
+    ],
+    "answer": 1,
+    "explanation": "A forward contract is an agreement to buy or sell a currency at a fixed rate on a future date with the obligation to deliver the currency on that date, and it is used for the hedging of the exposure to the exchange rate.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Interest rate differential' between India and the United States affects the:",
+    "options": [
+      "the fiscal deficit of the States",
+      "the rate of the domestic inflation directly",
+      "the flow of the short term portfolio capital and the pressure on the rupee",
+      "the volume of the sea trade only"
+    ],
+    "answer": 2,
+    "explanation": "A wide interest rate differential in favour of the United States pulls the short term portfolio capital towards the dollar assets and puts a pressure on the rupee, and the carry trade in the forex market is based on this differential.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Trade in Services' in India's Balance of Payments includes:",
+    "options": [
+      "only the tourism and the pilgrimage receipts",
+      "travel, transportation, financial, computer, communication, construction and the business services",
+      "the freight and the insurance premiums alone",
+      "the software exports and the tele services only"
+    ],
+    "answer": 1,
+    "explanation": "The services trade covers the travel, the transportation, the financial, the computer and the information, the communication, the construction and the business services, and the net exports of the services are a large contributor to the current account surplus of the country.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "the inflation of the current period is:",
+    "options": [
+      "the inflation is calculated only from the food prices",
+      "the inflation is measured from the base year prices only",
+      "the price indices of the base year are revised every year",
+      "the inflation of the current period is partly a carry over of the price level of the corresponding period of the previous year"
+    ],
+    "answer": 3,
+    "explanation": "The base effect arises when the price level of the corresponding month of the previous year is unusually high or low, and it mechanically influences the year on year inflation of the current period.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Weighted median inflation' used by the RBI:",
+    "options": [
+      "gives more weight to the items of the household consumption of the poorer sections, so that the inflation of the vulnerable is captured",
+      "is the average of the CPI and the WPI",
+      "excludes the food prices from the computation",
+      "is the inflation measure of the corporate sector"
+    ],
+    "answer": 0,
+    "explanation": "The weighted median inflation gives a higher weight to the items of the consumption basket of the poorer households, and it is used along with the headline CPI as a measure of the inflation that affects the vulnerable.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Supply inflation' in India is largely caused by:",
+    "options": [
+      "the fiscal deficit of the States",
+      "the food and the fuel prices and the supply chain constraints",
+      "the excess demand in the economy",
+      "the expansion of the money supply alone"
+    ],
+    "answer": 1,
+    "explanation": "The food and the fuel components dominate the weights of the CPI in India, and the supply side disruptions of the pandemic and of the global edible oil and the fertiliser prices drove the supply inflation.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'Core inflation' in the Indian context excludes:",
+    "options": [
+      "the manufactured goods prices",
+      "the housing component of the CPI",
+      "the services prices only",
+      "the food and the fuel components from the CPI"
+    ],
+    "answer": 3,
+    "explanation": "The core inflation is the inflation of the CPI excluding the food and the fuel, and it is used to gauge the underlying trend of the demand driven price pressures.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'multidimensional poverty in India is measured by:",
+    "options": [
+      "the calorie consumption of the rural households only",
+      "the income of the top ten per cent of the population",
+      "the three dimensions of the health, the education and the living standards with the ten indicators",
+      "the per capita income of the States"
+    ],
+    "answer": 2,
+    "explanation": "The Indian multidimensional poverty index uses the three dimensions of the health, the education and the living standards with the ten indicators, and a household is multidimensionally poor when at least one of the three dimensions is deficient.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "NITI Aayog",
+    "year": null
+  },
+  {
+    "q": "The 'Code on Social Security, 2020' provides for the gig workers the:",
+    "options": [
+      "life and disability cover, accident insurance and the health and the maternity benefit with the contribution of the platform and the worker",
+      "a statutory minimum wage fixed by the Centre",
+      "a provident fund cover that is compulsory for every platform worker",
+      "a pension of Rs 3,000 to every gig worker above fifty years of age"
+    ],
+    "answer": 0,
+    "explanation": "The Code on Social Security provides the life and disability cover, the accident insurance and the health and the maternity benefit for the gig and the platform workers with a shared contribution from the platform, the aggregator and the worker.",
+    "difficulty": "easy",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Periodic Labour Force Survey' in India provides the estimates of the:",
+    "options": [
+      "the agricultural productivity of the crops",
+      "the wages of the unorganised sector alone",
+      "the migration of the workers to the cities",
+      "the labour force participation, the unemployment and the employment with the quarterly and the annual reports"
+    ],
+    "answer": 3,
+    "explanation": "The PLFS of the National Statistical Office provides the estimates of the labour force participation rate, the unemployment rate and the worker population ratio with the quarterly bulletins and the annual reports.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "MoSPI",
+    "year": null
+  },
+  {
+    "q": "The 'employment in the agriculture sector' in India:",
+    "options": [
+      "is entirely covered by the organised sector employment",
+      "is the smallest share of the workers",
+      "still accounts for the largest share of the workers though its share in the gross value added has declined",
+      "has ceased to be a source of the disguised unemployment"
+    ],
+    "answer": 2,
+    "explanation": "The agriculture sector continues to employ the largest number of workers in India, even though its share in the gross value added has fallen, and the disguised unemployment of the family farms is still a debated issue.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  }
+]

@@ -1,0 +1,827 @@
+[
+  {
+    "q": "The 'VVPAT' (voter verifiable paper audited trail) in the electronic voting:",
+    "options": [
+      "is used only in the assembly elections of the smaller States",
+      "replaces the electronic voting machine completely",
+      "is the mechanism for the counting of the postal ballots",
+      "records the votes cast on the EVM for the count of the votes in the polling stations, of which the count of the paper trail is a sample"
+    ],
+    "answer": 3,
+    "explanation": "The VVPAT is a paper trail of the votes recorded on the EVM, and after the polling the paper trail of a sample of the voting machines is counted and matched with the electronic count as a check on the tampering of the machines.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "Election Commission of India",
+    "year": null
+  },
+  {
+    "q": "The 'NOTA' (none of the above) option in the electronic voting machines:",
+    "options": [
+      "is counted in the total polled and added to the winning candidate's tally",
+      "allows the electors to indicate that they reject all the candidates, and it is not counted as a vote for any candidate",
+      "is treated as a vote for the candidate with the least votes",
+      "is the option to be used for the postal ballots only"
+    ],
+    "answer": 1,
+    "explanation": "The NOTA was introduced in 2013 following the Supreme Court judgment, and while it allows the electors to reject all the candidates, the votes cast for it are not counted for any candidate and the winning candidate must still secure the required majority of the valid votes.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "Election Commission of India",
+    "year": null
+  },
+  {
+    "q": "The expenditure limit of a candidate for the Lok Sabha:",
+    "options": [
+      "is Rs 95 lakh in the larger States and Rs 75 lakh in the smaller States and the Union Territories",
+      "is Rs 75 lakh everywhere",
+      "is Rs 95 lakh in the larger States and Rs 40 lakh in the smaller States",
+      "is fixed at Rs 2 crore for every constituency"
+    ],
+    "answer": 0,
+    "explanation": "The candidates of the Lok Sabha can spend up to Rs 95 lakh in the larger States and Rs 75 lakh in the smaller States and the Union Territories, and the corresponding limits for the assembly elections are Rs 40 lakh and Rs 25 lakh.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "Election Commission of India",
+    "year": null
+  },
+  {
+    "q": "The 'tender of votes' of the Election Commission is done under Article:",
+    "options": [
+      "324",
+      "329",
+      "320",
+      "330"
+    ],
+    "answer": 1,
+    "explanation": "Article 329 provides that the polls and the counting of the votes shall not be disturbed by any judicial intervention, and the Election Commission has the power to tender the votes of a polling station to the returning officer when it is satisfied that the poll was not fair.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Criminal Law Amendment?",
+    "options": [
+      "the disqualification of the candidates",
+      "the accounting of the election expenses",
+      "the offence of the undue influence and the bribery at the election",
+      "the nomination of the candidates"
+    ],
+    "answer": 2,
+    "explanation": "Section 126 of the Representation of the People Act, 1951 makes the undue influence, the bribery and the intimidation at the election punishable, and it was substituted in 2017 through the amendments made by the Supreme Court in the Lok Pravasi Mandal case.",
+    "difficulty": "hard",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Model Code of Conduct' of the Election Commission:",
+    "options": [
+      "is applicable only to the period of the campaign",
+      "is a legal statute with the force of law",
+      "applies only to the ruling party of the State",
+      "comes into force with the announcement of the schedule of the elections and ceases with the declaration of the results"
+    ],
+    "answer": 3,
+    "explanation": "The Model Code of Conduct comes into force with the announcement of the schedule and ceases with the declaration of the results, and it binds the political parties, the candidates, the ministers and the officials with the ban on the visit to the State by the other leaders and the use of the official machinery.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "Election Commission of India",
+    "year": null
+  },
+  {
+    "q": "The 'overseas electors' in the Indian electoral system:",
+    "options": [
+      "are the Indian citizens registered as overseas voters in their constituency of origin and they vote by the postal ballot at the Indian missions abroad",
+      "vote at the Indian embassies through the electronic voting machines",
+      "are the non-resident Indians who vote in the constituency of their choice",
+      "have been discontinued since 2019"
+    ],
+    "answer": 0,
+    "explanation": "The overseas electors, registered under the Representation of the People Act, 1950 and the rules of 2013, vote by the postal ballot through the Indian missions abroad, and the registration facility was made available in more than one hundred and fifty countries.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "Election Commission of India",
+    "year": null
+  },
+  {
+    "q": "The 'proxy voting' by the electors:",
+    "options": [
+      "was permitted in the elections up to 2018 and has been disallowed with effect from 2019",
+      "is permitted for the overseas electors only",
+      "has always been permitted in the parliamentary elections",
+      "is permitted only in the panchayat elections"
+    ],
+    "answer": 0,
+    "explanation": "The proxy voting was permitted in the past but the 2019 amendments to the Representation of the People Act and the rules of procedure disallowed the voting by proxy with effect from the general elections of 2019, and the overseas electors are now required to use the postal ballot.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chief Electoral Officer' of a State:",
+    "options": [
+      "is the Chief Secretary of the State",
+      "is appointed by the Election Commission and controls the conduct of the elections in the State",
+      "is appointed by the Governor on the advice of the Commission",
+      "is the Governor of the State"
+    ],
+    "answer": 1,
+    "explanation": "The Chief Electoral Officer, appointed by the Election Commission, is responsible for the conduct of the elections in the State and for the enforcement of the Model Code of Conduct, and the District Election Officer performs the similar function in the district.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "Election Commission of India",
+    "year": null
+  },
+  {
+    "q": "The 'Election Commission of India' publishes annually the:",
+    "options": [
+      "the list of the voters of every constituency",
+      "the audited accounts of the political parties",
+      "the delimitation orders of the constituencies",
+      "statistical reports on the turnout and the other aspects of the elections and the 'Statistical Report' of the general elections"
+    ],
+    "answer": 3,
+    "explanation": "The Commission publishes the statistical reports with the turnout, the number of the electors, the polling stations and the other data for each election, along with the 'All India Parties' statistics of the recognised parties and the expenditure.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "Election Commission of India",
+    "year": null
+  },
+  {
+    "q": "The 'Political Parties' — A party is recognised as a 'State Party' by the Election Commission if it secures at least:",
+    "options": [
+      "ten per cent of the total valid votes polled in the country",
+      "twenty per cent of the total valid votes polled in the State",
+      "six per cent of the total valid votes polled in the State in the last election",
+      "twelve per cent of the total valid votes polled in the State"
+    ],
+    "answer": 2,
+    "explanation": "The Election Symbols (Reservation and Allotment) Order, 1968 provides for the recognition of a State party on the securing of six per cent of the total valid votes polled in the State in the last election, and a national party on the securing of six per cent of the total valid votes polled in the country.",
+    "difficulty": "hard",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Affidavit of the assets and the liabilities?",
+    "options": [
+      "the affidavit is optional for the independents",
+      "the candidates need not disclose the criminal cases before the election",
+      "the candidates must file the affidavit of the assets, the liabilities and the educational qualifications in the format prescribed by the Commission",
+      "only the candidates for the Lok Sabha must file the affidavit"
+    ],
+    "answer": 2,
+    "explanation": "The Supreme Court in Lok Pravasi Mandal v. Union of India, 2020 directed the filing of the affidavit of the assets, the liabilities, the educational qualifications and the criminal cases in the revised format and the rejection of the nomination papers of the candidates who do not comply with it.",
+    "difficulty": "hard",
+    "category": "elections",
+    "source": "Supreme Court judgment",
+    "year": 2020
+  },
+  {
+    "q": "The Forty-Second Amendment Act of 1976, often called the 'Mini-Constitution', introduced the three-tier Panchayati Raj structure:",
+    "options": [
+      "constitutional body created by an amendment",
+      "statutory body under the Right to Information Act, 2005, with the Information Commissioners appointed by the President",
+      "wing of the Supreme Court",
+      "non-statutory body of the Ministry of Home Affairs"
+    ],
+    "answer": 1,
+    "explanation": "The Central Information Commission is a statutory body under the Right to Information Act, 2005 with its own commissioners appointed by the President, and it hears the second appeals and the complaints against the State Information Commissions.",
+    "difficulty": "easy",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Law Commission' of India:",
+    "options": [
+      "is a non-statutory body of the Ministry of Law and Justice chaired by the Law Minister",
+      "is a judicial body of the Supreme Court",
+      "is a body of the Legislative Department",
+      "is a statutory body under the Legal Services Authorities Act that examines the laws and proposes the reforms"
+    ],
+    "answer": 3,
+    "explanation": "The National Law Commission is a statutory body under the Legal Services Authorities Act, 1987, chaired by the Law Minister, and it works on the examination of the laws and the identification of the areas of the law that need the reform and the codification.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Vigilance Commission' of India:",
+    "options": [
+      "is a non-statutory multi-member body that functions under the supervision of the Central Government",
+      "is a statutory body created by an Act of Parliament in 2003",
+      "is a judicial body of the Supreme Court",
+      "is a body of the Comptroller and Auditor General"
+    ],
+    "answer": 0,
+    "explanation": "The CVC is a non-statutory, multi-member body that functions under the executive control of the Central Government, and the Supreme Court in 2011 gave the directives about the appointment of the commissioners, the procedure and the limitations of the inquiry.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lokayukta' in the States:",
+    "options": [
+      "is a judicial body of the High Court",
+      "is a part of the Election Commission",
+      "is a central appointment of the President",
+      "is the anti-corruption ombudsman set up under the respective State laws"
+    ],
+    "answer": 3,
+    "explanation": "The Lokayuktas are the State anti-corruption ombudsmen set up under the various State laws, and the Central Lokpal and Lokayuktas Act, 2013 provides for the establishment of the Lokayuktas in the States that do not have their own laws and the High Court can appoint the Lokayukta of such a State.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Commission for Backward Classes' was created through the:",
+    "options": [
+      "103rd Constitutional Amendment Act, 2019",
+      "101st Constitutional Amendment Act, 2016",
+      "102nd Constitutional Amendment Act, 2018",
+      "105th Constitutional Amendment Act, 2021"
+    ],
+    "answer": 2,
+    "explanation": "The 102nd Amendment of 2018 created the National Commission for Backward Classes on the lines of the National Commission for the Scheduled Castes and the Scheduled Tribes, and it also strengthened the powers of the State commissions.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Consumer Protection Act, 2019' provides for the product liability of the:",
+    "options": [
+      "the sellers of the defective goods only",
+      "goods and the services for the deficiency in the defect or the service",
+      "only the goods for the manufacturing defects",
+      "only the services for the negligence"
+    ],
+    "answer": 1,
+    "explanation": "The 2019 Act extends the product liability to the services and provides for the claim for the deficiency in the defects, the deficiencies in the services, the misleading advertisements and the unfair contractual terms, and the liability of the e-commerce platforms is also provided for.",
+    "difficulty": "easy",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Administrative Tribunals' in India:",
+    "options": [
+      "were set up under the relevant statutes for the adjudication of the disputes in the specialised domains",
+      "are the appellate wings of the High Courts for the administrative cases",
+      "are the tribunals of the Revenue Ministry",
+      "were abolished by the Tribunals Reforms Act, 2021"
+    ],
+    "answer": 0,
+    "explanation": "The administrative tribunals were set up under the various statutes, for example the Central Administrative Tribunal, the NCLT, the NCLAT, the ITAT and the CAT, and the Tribunals Reforms Act, 2021 abolished the three-tier structure and gave a single appellate body for each category.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Adjudicating Authority' under the Prevention of Money Laundering Act:",
+    "options": [
+      "is chaired by the Governor of the RBI",
+      "is a judicial body of the Supreme Court",
+      "is chaired by the Finance Minister and decides the applications of the provisional attachment of the assets",
+      "is the body that reviews the orders of the Financial Intelligence Unit"
+    ],
+    "answer": 2,
+    "explanation": "The Central Adjudicating Authority, chaired by the Finance Minister with the Revenue and the Law Secretaries as the members, decides the applications for the confirmation of the attachment and the forfeiture of the assets made by the Reporting Officers under the PMLA.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Financial Intelligence Unit' of India:",
+    "options": [
+      "is the central agency for the receipt and the analysis of the reports of the transactions suspected to be related to the money laundering",
+      "is the agency for the recovery of the bad assets",
+      "is the agency that conducts the financial audits of the banks",
+      "is the body that supervises the capital markets"
+    ],
+    "answer": 0,
+    "explanation": "The FIU-IND, set up under the PMLA, is the central agency for the receipt, the analysis and the dissemination of the financial intelligence and the reports of the suspicious transactions received from the reporting entities.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Enforcement Directorate is:",
+    "options": [
+      "a statutory body of the GST Council",
+      "the intelligence arm of the tax department for the detection of the tax evasion",
+      "the body that conducts the customs audits",
+      "the agency for the enforcement of the corporate laws"
+    ],
+    "answer": 1,
+    "explanation": "The DRI is the intelligence arm of the Department of Revenue that detects and investigates the tax evasion and the money laundering and the cases are prosecuted in the designated courts, and the DRI Act of 2001 provides for its officers to be treated as the officers of the income tax.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Vice-Chairman of the NITI Aayog:",
+    "options": [
+      "is the Leader of the Opposition in the Lok Sabha",
+      "is the Governor of the State with the highest population",
+      "is elected by the Governing Council",
+      "is appointed by the Central Government and is a Union Minister of State"
+    ],
+    "answer": 3,
+    "explanation": "The Vice-Chairman of the NITI Aayog is appointed by the Central Government and is a Union Minister of State, while the Chairperson is the Prime Minister, and the full-time Chairman of the NITI Aayog is a Union Minister of Cabinet rank.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "NITI Aayog",
+    "year": null
+  },
+  {
+    "q": "The 'Article 311' of the Constitution:",
+    "options": [
+      "provides for the transfer of the officers of the All India Services",
+      "provides the safeguards for a civil servant against the arbitrary removal or the reduction in rank, and the inquiry and the opportunity of the hearing before the disciplinary action",
+      "lays down the conditions of the service of the civil servants of the Union",
+      "provides the procedure of the impeachment of the President"
+    ],
+    "answer": 1,
+    "explanation": "Article 311(1) provides that no civil servant shall be dismissed, removed or reduced in rank except in accordance with the procedure and the inquiry and the opportunity of the hearing, and the 42nd Amendment inserted the proviso for the conduct of the inquiry by the authority prescribed in the service rules.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Article 312' of the Constitution provides for:",
+    "options": [
+      "the All India Services common to the Union and the States",
+      "the continuance in force of the Union armed forces",
+      "the creation of the additional judges of the High Courts",
+      "the transfer of the officers of the State services"
+    ],
+    "answer": 0,
+    "explanation": "Article 312 empowers Parliament to provide for the All India Services common to the Union and the States, and the Indian Administrative Service, the Indian Police Service and the Indian Forest Service have been constituted under it with the All India Services Act, 1951.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Article 320' of the Constitution deals with:",
+    "options": [
+      "the abolition of the permanent commissions",
+      "the appointment of the commission members",
+      "the power of the public service commissions to make the rules for the conduct of the service",
+      "the right of the civil servants to the constitutional remedies"
+    ],
+    "answer": 2,
+    "explanation": "Article 320 provides that the public service commissions shall make the rules for the conduct of the service of the persons appointed to the public services of the Union and the States, and it also provides for the collective consideration of the claims for the conditions of service.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "the disciplinary inquiry of a public servant shall not be conducted:",
+    "options": [
+      "only by the High Court",
+      "by the Election Commission",
+      "after the retirement of the public servant",
+      "by a person who is a public servant of a lower rank"
+    ],
+    "answer": 3,
+    "explanation": "Article 320(2), inserted by the 42nd Amendment of 1976, provides that the disciplinary inquiry shall not be conducted by a person who is in the service of the Union or a State and is junior in rank to the person who is the subject of the inquiry.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "are adjudicated by the tribunals constituted:",
+    "options": [
+      "by the Supreme Court alone",
+      "by the Parliament under the Inter-State River Water Disputes Act, 1956",
+      "resolved by the Interstate Council",
+      "left to the adjudication of the High Courts"
+    ],
+    "answer": 1,
+    "explanation": "Article 262 provides that Parliament may by law provide for the adjudication of any dispute relating to the waters of the inter-State rivers or the river valleys, and the tribunals have been constituted for the Krishna, the Godavari, the Narmada, the Ravi-Beas, the Vansadhara, the Mahadayi, the Mahi and the Periyar basins.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The GST Council in the Constitution is provided for under Article:",
+    "options": [
+      "a body of the Ministry of Finance alone",
+      "a constitutional body created by an amendment",
+      "joint forum of the Centre and the States that recommends the GST rates and the structure and the settlement of the disputes",
+      "the apex body of the taxation administration"
+    ],
+    "answer": 2,
+    "explanation": "The GST Council, chaired by the Union Finance Minister with the State finance ministers as the members, is the apex body for the administration of the GST and it recommends the rates, the design and the structure of the tax and the settlement of the disputes between the Centre and the States.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Forty-Second Amendment Act of 1976, often called the 'Mini-Constitution', reduced the term of the Lok Sabha and the State Assemblies to four years:",
+    "options": [
+      "were inserted by the Constitution (Jammu and Kashmir) Reorganisation Act, 2019",
+      "were inserted by the 35th Amendment of 1974",
+      "remain as Article 370 and continue to apply",
+      "were inserted by the 101st Amendment of 2016"
+    ],
+    "answer": 0,
+    "explanation": "Article 371-I was inserted by the 2019 Reorganisation Act, which also substituted Article 35A with a provision in the Jammu and Kashmir Reorganisation Act of 2019, and it was held by the Supreme Court in December 2023 to be subsumed in Article 370.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Doctrine of the 'Separation of Powers' in India was propounded by:",
+    "options": [
+      "Justice B. K. Mukherjea",
+      "Justice S. R. Das",
+      "Justice Hansa Kelsen",
+      "Justice M. Patanjali Sastri in the Gwalior case"
+    ],
+    "answer": 3,
+    "explanation": "Justice M. Patanjali Sastri in Gwalior Raj Kamal case in 1950 explained the doctrine of the separation of powers in the Indian context and held that the Constitution does not establish a rigid separation of the three organs of the State.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Forty-Second Amendment Act of 1976, often called the 'Mini-Constitution', curtailed the powers of the judiciary and the legislatures:",
+    "options": [
+      "holds that the President has the power to override the laws",
+      "holds that the pre-existing law is wholly void from the beginning",
+      "holds that the judiciary can strike down the laws of the legislature",
+      "holds that where a law made by the State legislature conflicts with a central law on the same subject, the central law prevails to the extent of the conflict"
+    ],
+    "answer": 3,
+    "explanation": "Under Article 252 and the repugnancy doctrine, the central law prevails over the State law to the extent of the conflict, while the doctrine of eclipse makes a pre-existing law inoperative to the extent of the inconsistency with a later amendment.",
+    "difficulty": "easy",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 13 of the Constitution provides for the doctrine of the:",
+    "options": [
+      "is exercised by the legislature",
+      "has been abolished by the 44th Amendment",
+      "keeps the Constitution supreme and allows the courts to strike down the laws that violate the Fundamental Rights",
+      "is exercised by the President"
+    ],
+    "answer": 2,
+    "explanation": "Article 13 provides that the laws inconsistent with the Fundamental Rights are void, and this is the basis of the judicial review, which the Kesavananda Bharati judgment has qualified by holding that the Parliament's amending power is wide but not unlimited.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The Forty-Second Amendment Act of 1976, often called the 'Mini-Constitution', added the Fundamental Duties to the Constitution:",
+    "options": [
+      "Seventh Amendment Act, 1956",
+      "Twenty-Fourth Amendment Act, 1971",
+      "First Amendment Act, 1951",
+      "Forty-Third Amendment Act, 1977"
+    ],
+    "answer": 1,
+    "explanation": "Article 13(4) declares that nothing in Article 13 shall be deemed to affect the power of Parliament to make any law to give effect to the provisions of Article 368, and it was inserted by the Twenty-Fourth Amendment of 1971.",
+    "difficulty": "easy",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Forty-Second Amendment Act of 1976, often called the 'Mini-Constitution', extended the term of the Lok Sabha to five years:",
+    "options": [
+      "cannot be suspended except as provided by Article 359 during the operation of a national emergency",
+      "is available only against the Central Government",
+      "is available only after the exhaustion of the other remedies",
+      "can be suspended by the President during the President's rule"
+    ],
+    "answer": 0,
+    "explanation": "Article 359 provides that during the operation of a national emergency the right to move the courts for the enforcement of the specified Fundamental Rights can be suspended by a Presidential order, and the right under Article 32 is one of them, and the forty-fourth Amendment provides that the order can be revoked if the emergency is ended.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Forty-Second Amendment Act of 1976, often called the 'Mini-Constitution', made the Directive Principles enforceable by the courts:",
+    "options": [
+      "it can be suspended by the Parliament only",
+      "the twenty-fourth Amendment and the jurisprudence of the courts place the rights to life and personal liberty beyond the reach of the emergency",
+      "it is enforceable only in the High Courts",
+      "it is not a fundamental right"
+    ],
+    "answer": 1,
+    "explanation": "The Supreme Court has held that the rights to life and personal liberty under Article 21 cannot be suspended even during a national emergency, and the twenty-fourth Amendment made the suspension of the specified rights subject to the requirement that the emergency operations be consistent with the basic structure.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Forty-Second Amendment Act of 1976, often called the 'Mini-Constitution', removed the right to the property from the Fundamental Rights:",
+    "options": [
+      "is one year without the approval of Parliament",
+      "is two years with the approval of the Lok Sabha alone",
+      "is six months in all",
+      "is three years in all, with the approval of both Houses of Parliament"
+    ],
+    "answer": 3,
+    "explanation": "The President's Rule can continue for one year and then for successive periods of one year with the approval of both Houses of Parliament, but it cannot exceed three years in all, and the S. R. Bommai judgment held that the proclamation is subject to the judicial review.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "when a State government is unable to function:",
+    "options": [
+      "when a State government is unable to function in accordance with the Constitution, the authority of the Union Government is to be exercised so as to secure the Government of the State in conformity with the Constitution",
+      "the Parliament can dissolve the State Assembly",
+      "the Comptroller and Auditor General takes over the accounts of the State",
+      "the President can dismiss the Governor of a State"
+    ],
+    "answer": 0,
+    "explanation": "Article 365 provides the enabling provision for the exercise of the authority of the Union in the event of the failure of the constitutional machinery in a State, and it is read with Article 356 for the President's rule.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 367' of the Constitution deals with:",
+    "options": [
+      "the repeal of the laws of the British colonial era",
+      "the power of the legislature to make the laws",
+      "the definitions of the expressions used in the Constitution, and it was amended by the First Amendment",
+      "the determination of the boundaries of the States"
+    ],
+    "answer": 2,
+    "explanation": "Article 367 defines the expressions such as the Government of India, the State, the British territory and the public, and the First Amendment of 1951 added the definitions of the State and the taxes on the sale of goods.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Schedule is correct?",
+    "options": [
+      "47",
+      "52",
+      "66",
+      "97"
+    ],
+    "answer": 1,
+    "explanation": "The Concurrent List has 52 subjects after the transfer of the education, the environment and the forest subjects to it by the Forty-Second Amendment of 1976, and the Banking was transferred to it by the Hundred and First Amendment of 2016, and the lists have 97 and 66 subjects in the Union and the State Lists.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'First Schedule' of the Constitution contains:",
+    "options": [
+      "the emoluments of the high offices",
+      "the list of the languages",
+      "the forms of the oaths",
+      "the list of the States and the Union Territories with their territories"
+    ],
+    "answer": 3,
+    "explanation": "The First Schedule contains the names and the territories of the States and the Union Territories, and it was recast by the Seventh Amendment of 1956 with the States Reorganisation Act, and the territories have been added from time to time by the parliamentary statutes.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The Forty-Second Amendment Act of 1976, often called the 'Mini-Constitution', inserted the Article 39A on the equal justice and the free legal aid:",
+    "options": [
+      "is vested in the Election Commission",
+      "is vested only in the President",
+      "is vested in Parliament and the States can also form the new States with the concurrence of the President",
+      "is vested in the Supreme Court"
+    ],
+    "answer": 2,
+    "explanation": "Article 1(3) provides that Parliament may form new States and alter the areas, the boundaries and the names of the existing States, and the State legislature can also form a new State within its own territory with the concurrence of the President, and Article 3 lays down the procedure for it.",
+    "difficulty": "easy",
+    "category": "preamble-and-union",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Article 3' of the Constitution deals with:",
+    "options": [
+      "the formation of the new States and the alteration of the areas and the boundaries and the names of the existing States",
+      "the merger of the Union Territories",
+      "the reorganisation of the States in 1956",
+      "the creation of the Union Territories"
+    ],
+    "answer": 0,
+    "explanation": "Article 3 provides for the formation of the new States and the alteration of the areas, the boundaries and the names of the existing States, and the views of the State legislature are to be ascertained before the bill is introduced and the bill refers to the President for the assent with the recommendations of the State.",
+    "difficulty": "medium",
+    "category": "preamble-and-union",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Article 2' of the Constitution deals with:",
+    "options": [
+      "the formation of the new States",
+      "the alteration of the boundaries of the States",
+      "the certification of the Scheduled Areas",
+      "the admission of the new States into the Union or the establishment of the new States in the Union by Parliament"
+    ],
+    "answer": 3,
+    "explanation": "Article 2 provides that Parliament may by law admit into the Union or establish the new States on such terms and conditions as it thinks fit, and the new States referred to in Article 3 are the States formed in the Union as distinguished from those referred to in Article 2.",
+    "difficulty": "medium",
+    "category": "preamble-and-union",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 6' of the Constitution deals with:",
+    "options": [
+      "the citizenship of the persons of Indian origin residing outside India",
+      "the deprivation of the citizenship",
+      "the citizenship of the persons migrating from Pakistan to India",
+      "the citizenship of the persons born in India"
+    ],
+    "answer": 2,
+    "explanation": "Article 6 provides that all the persons who have come to the State of India from the territory of Pakistan and have been ordinarily resident in India, or the persons of any of the communities specified in the first column of the First Schedule, are deemed to be citizens of India, and it was replaced by the Citizens (Amendment) Act, 2003.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Article 15(4), which of the following is correct?",
+    "options": [
+      "the reservation of the seats in the legislatures",
+      "the special provisions for the advancement of the socially and the educationally backward classes or the Scheduled Tribes in the matters of the admission to the educational institutions",
+      "the abolition of the discrimination on the ground of religion",
+      "the special provisions for the women in the public employment"
+    ],
+    "answer": 1,
+    "explanation": "Article 15(4) and 15(5) permit the special provisions for the advancement of the backward classes and the Scheduled Tribes in the education and in the public employment, and Article 15(6), inserted by the Ninety-Third Amendment of 2005, extends the protection to the economically weaker sections.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 16(4A)' of the Constitution provides for:",
+    "options": [
+      "the reservation of posts in the public employment for the backward classes not adequately represented",
+      "the abolition of the civil services examination",
+      "the abolition of the distinction between the civil and the military services",
+      "the abolition of the titles"
+    ],
+    "answer": 0,
+    "explanation": "Article 16(4A), inserted by the Seventy-Seventh Amendment of 1995, permits the reservation of posts in the services for the backward classes which are not adequately represented, and it has been the basis of the Mandal Commission implementation.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 18(1)' of the Constitution abolishes:",
+    "options": [
+      "the privy purses",
+      "titles",
+      "the feudal privileges",
+      "the honours of the nobility"
+    ],
+    "answer": 1,
+    "explanation": "Article 18(1) abolishes the titles, and Article 18(2) provides that a citizen of India cannot accept any title from a foreign State without the consent of the President, and the honours and the awards of the military and the academic distinction are not covered.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "In the context of the Article 25, which of the following is correct?",
+    "options": [
+      "is available only to the Hindus",
+      "is an absolute right without any restriction",
+      "is available only to the citizens of India",
+      "is subject to the public order, the morality, the health and the other provisions of Part III"
+    ],
+    "answer": 3,
+    "explanation": "The freedoms of religion under Articles 25 to 28 are subject to the public order, the morality, the health and the other provisions of Part III, and the secular and the democratic State guarantees the freedom of the profession and the practice of any religion.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Article 29?",
+    "options": [
+      "the right to the equality before the law",
+      "the right to the freedom of speech",
+      "the interests of the minorities, in the matter of the educational institutions",
+      "the right to the freedom of the religion"
+    ],
+    "answer": 2,
+    "explanation": "Article 29 provides that the interests of the minorities and the right to the conservation of the distinctive languages and the cultures shall be protected, and Article 30 gives the minorities the right to establish and administer the educational institutions of their choice.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The right to education in India is a fundamental right under Article:",
+    "options": [
+      "provides for the free and compulsory education to the children of the age of six to fourteen years in the neighbourhood schools",
+      "provides for the adult education in the rural areas",
+      "provides for the vocational training in the schools",
+      "provides for the higher education to be free for all"
+    ],
+    "answer": 0,
+    "explanation": "Article 21A, inserted by the Eighty-Sixth Amendment of 2002, provides that the State shall provide free and compulsory education to all the children of the age of six to fourteen years in such manner as the State may by law determine, and the Right of Children to Free and Compulsory Education Act, 2009 gives effect to it.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Article 23(1)' of the Constitution prohibits:",
+    "options": [
+      "the exploitation of the women in the factories",
+      "the traffic in the human beings and the forced labour",
+      "the import of the bonded labour",
+      "the employment of the children below fourteen years"
+    ],
+    "answer": 1,
+    "explanation": "Article 23(1) prohibits the traffic in the human beings and the forced labour, and Article 24 prohibits the employment of the children below the age of fourteen years in any factory or in any other hazardous employment.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Article 39' of the Constitution contains the Directive Principles that direct the State to secure:",
+    "options": [
+      "the right to the work and the education",
+      "the promotion of the peace and the international cooperation",
+      "a living wage and a decent standard of life to the workers, the promotion of the cottage industries and the co-operative enterprises, and the education of the children",
+      "the equal pay for the men and the women"
+    ],
+    "answer": 2,
+    "explanation": "Article 39(d) directs the State to secure the equal pay for the equal work, 39(e) the living wage and a decent standard of life, 39(g) the promotion of the cottage industries and 39(h) the promotion of the cooperative societies, and 39(a) the prevention of the concentration of the wealth.",
+    "difficulty": "hard",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Forty-Second Amendment Act of 1976, often called the 'Mini-Constitution', abolished the distinction between the Executive and the Legislature:",
+    "options": [
+      "Forty-Third Amendment Act, 1977",
+      "Ninety-Third Amendment Act, 2005",
+      "First Amendment Act, 1951",
+      "Seventh Amendment Act, 1956"
+    ],
+    "answer": 0,
+    "explanation": "Article 40 was added by the Forty-Third Amendment of 1977 and it became the foundation of the Panchayati Raj, and the Seventy-Third Amendment of 1992 gave the three-tier system its constitutional status.",
+    "difficulty": "easy",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Article 43A inserted by the Forty-Second Amendment Act, 1976 deals with:",
+    "options": [
+      "introduced the three-tier Panchayati Raj",
+      "abolished the Fundamental Rights of the property",
+      "reduced the term of the Lok Sabha to four years",
+      "inserted the Article 39A on the equal justice and the Article 44 on the uniform civil code and the Article 48A on the environment"
+    ],
+    "answer": 3,
+    "explanation": "The Forty-Second Amendment of 1976, the so-called Mini-Constitution, made sweeping changes including the addition of the Article 39A on the equal justice and the free legal aid, the Article 44 on the uniform civil code, the Article 48A on the environment and the Article 43A on the workers' participation, and it also reduced the term of the Lok Sabha to four years.",
+    "difficulty": "easy",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

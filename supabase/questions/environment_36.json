@@ -1,0 +1,137 @@
+[
+  {
+    "q": "The 'Central Pollution Control Board' was established under the:",
+    "options": [
+      "Water (Prevention and Control of Pollution) Act, 1974",
+      "Environment Protection Act, 1986",
+      "Air Act, 1981",
+      "Forest Conservation Act, 1980"
+    ],
+    "answer": 0,
+    "explanation": "The Central Pollution Control Board was established under the Water (Prevention and Control of Pollution) Act of 1974 and it also performs the functions of the Central Air Quality and the noise pollution control boards.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'State Pollution Control Board' is constituted under the:",
+    "options": [
+      "Water Act, 1974",
+      "Air Act, 1981",
+      "EPA, 1986",
+      "The CPCB Act"
+    ],
+    "answer": 0,
+    "explanation": "The State Pollution Control Boards are constituted under the Water Act of 1974 and they exercise the powers of the SPCB and the local bodies with the pollution control.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Air (Prevention and Control of Pollution) Act' was enacted in:",
+    "options": [
+      "1974",
+      "1988",
+      "1981",
+      "1986"
+    ],
+    "answer": 2,
+    "explanation": "The Air Act of 1981 gave the statutory status to the CPCB and the SPCBs for the control of the air pollution.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Environment Protection Act, 1986' was amended in:",
+    "options": [
+      "2000",
+      "1991",
+      "1988",
+      "1995"
+    ],
+    "answer": 1,
+    "explanation": "The Environment Protection Act of 1986 was amended in 1991 with the insertion of the EIA Notification and the inclusion of the public trust in the environment and the polluter pays in the preamble.",
+    "difficulty": "hard",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Public Trust Doctrine' in the environmental law of India:",
+    "options": [
+      "Is about the waiving of the litigation",
+      "Is about the public sector enterprises",
+      "Is about the transparency in the governance",
+      "Treats the natural resources as a public trust and the state as a trustee"
+    ],
+    "answer": 3,
+    "explanation": "The public trust doctrine, articulated in the M.C. Mehta case, treats the natural resources as a public trust and the state as the trustee of it, and it was placed in the preamble of the EPA by the 1991 amendment.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Polluter Pays' principle is related to:",
+    "options": [
+      "The liability of the polluter to bear the cost of the restoration of the environment",
+      "The tax of the industries",
+      "The duty of the citizens",
+      "The financing of the pollution board"
+    ],
+    "answer": 0,
+    "explanation": "The polluter pays principle, part of the polluter pays and the precautionary approach in the EPA, makes the polluter liable for the damage caused and for the cost of the restoration of the environment.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Precautionary Principle' in the environmental law:",
+    "options": [
+      "Applies only to the industrial emissions",
+      "Applies only after the damage is done",
+      "Is a fiscal policy",
+      "Requires the action to prevent the environmental harm even without the full scientific evidence"
+    ],
+    "answer": 3,
+    "explanation": "The precautionary principle, applied by the Supreme Court in the Oleum Gas Leak case, requires the regulator to act on the reasonable suspicion of the harm and it is a part of the EPA preamble.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Oleum gas leak' case of 1985 led to:",
+    "options": [
+      "The banning of the pesticides",
+      "The absolute liability of the enterprises for the hazardous industries",
+      "The creation of the NGT",
+      "The amendment of the Water Act"
+    ],
+    "answer": 1,
+    "explanation": "The M.C. Mehta v. Union of India case of 1985 established the absolute liability of the enterprises engaged in the hazardous or the injurious activities with no exception of the foreseeability.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Taj Mahal, which of the following is correct?",
+    "options": [
+      "It is a protected monument of the ASI",
+      "It is a marine monument",
+      "The Taj Mahal is in the list of the national cultural properties that is protected under the Indian treasure",
+      "It is a World Heritage site of the Rajasthan"
+    ],
+    "answer": 2,
+    "explanation": "The Taj Mahal is among the national cultural properties protected under the provisions of the Treasure Trove Act and the Indian Treasure and the Cultural Property Act.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

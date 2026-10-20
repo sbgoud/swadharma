@@ -1,0 +1,3182 @@
+[
+  {
+    "q": "The Regulating Act of 1773 was passed by:",
+    "options": [
+      "The British Parliament",
+      "The East India Company",
+      "The Mughal Emperor",
+      "The Governor-General in India"
+    ],
+    "answer": 0,
+    "explanation": "The Regulating Act of 1773 was the first Act of the British Parliament to control and regulate the East India Company, and it designated Bengal as the seat of the Company.",
+    "difficulty": "easy",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Pitts India Act was passed in:",
+    "options": [
+      "1784",
+      "1793",
+      "1765",
+      "1773"
+    ],
+    "answer": 3,
+    "explanation": "The Pitt's India Act of 1773 renamed the Company as the Governor General of Bengal, created a Supreme Court at Calcutta and separated the commercial and administrative functions.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Charter Act of 1813 abolished the:",
+    "options": [
+      "The monopoly of saltpetre",
+      "The Calcutta High Court",
+      "Trade of the Company with India",
+      "Trade of the Company with China"
+    ],
+    "answer": 3,
+    "explanation": "The Charter Act of 1813 ended the monopoly of the Company over trade with India, though the monopoly over trade with China and the tea trade continued.",
+    "difficulty": "hard",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Doctrine of Lapse' was associated with:",
+    "options": [
+      "Lord Ripon",
+      "Lord Wellesley",
+      "Lord Dalhousie",
+      "Lord Canning"
+    ],
+    "answer": 2,
+    "explanation": "Lord Dalhousie, as Governor-General from 1848 to 1856, annexed princely states whose rulers failed to naturalise their heirs, under the doctrine of lapse.",
+    "difficulty": "easy",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Permanent Settlement of 1793 was introduced by:",
+    "options": [
+      "Lord Ripon",
+      "Lord Cornwallis",
+      "Lord Wellesley",
+      "Lord Dalhousie"
+    ],
+    "answer": 1,
+    "explanation": "Lord Cornwallis introduced the Permanent Settlement in Bengal, fixing the revenue demand permanently and recognising the zamindars as proprietors.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ryotwari settlement was introduced in:",
+    "options": [
+      "Madras and Bombay",
+      "The Punjab",
+      "Bengal and Bihar",
+      "Bengal"
+    ],
+    "answer": 0,
+    "explanation": "The Ryotwari system, introduced in the Madras and Bombay Presidencies, assessed revenue directly on the cultivator, while the Mahalwari system was applied in the north-western provinces.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mahalwari' system of land revenue was introduced in the:",
+    "options": [
+      "Madras",
+      "The North Western Provinces",
+      "Bombay",
+      "Bengal"
+    ],
+    "answer": 1,
+    "explanation": "The Mahalwari system, introduced by Holt Mackenzie in the North Western Provinces, collected revenue from the village or mahal as a unit, with a periodic revision.",
+    "difficulty": "hard",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Permanent Settlement' was the outcome of the:",
+    "options": [
+      "The Regulating Act",
+      "Charters of 1833 and 1853",
+      "Wood's Despatch",
+      "Cornwallis's settlement"
+    ],
+    "answer": 3,
+    "explanation": "Lord Cornwallis's Permanent Settlement of 1793 in Bengal recognised zamindars as proprietors and fixed the revenue demand in perpetuity.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ryot' in the Ryotwari system of land revenue is:",
+    "options": [
+      "An individual cultivator or peasant",
+      "A village headman",
+      "A tenant of the zamindar",
+      "A zamindar"
+    ],
+    "answer": 0,
+    "explanation": "The ryot is the individual cultivator, and the ryotwari system settled the revenue demand directly with him.",
+    "difficulty": "easy",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'drain of wealth' theory was propounded by:",
+    "options": [
+      "Raja Rammohan Roy",
+      "Gokhale",
+      "R.C. Dutt and Dadabhai Naoroji",
+      "Adam Smith"
+    ],
+    "answer": 2,
+    "explanation": "Dadabhai Naoroji's Poverty and Un-British Rule in India and R.C. Dutt's Economic History of India argued that British rule drained India's wealth.",
+    "difficulty": "easy",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'dearth of Indian textiles' in the 19th century was a result of:",
+    "options": [
+      "The failure of the monsoon",
+      "The abolition of the guilds",
+      "The decline of the Mughal empire",
+      "The British policy of making India a supplier of raw materials and a market for manufactures"
+    ],
+    "answer": 3,
+    "explanation": "Deindustrialisation was a consequence of the colonial policy of free trade, the destruction of village industries and the making of India a supplier of raw materials and an absorber of British manufactures.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Blue Rebellion' of Bengal was associated with:",
+    "options": [
+      "The indigo revolt of 1859",
+      "The Sanyasi rebellion",
+      "The Wahabi revolt",
+      "The Santhal rebellion"
+    ],
+    "answer": 0,
+    "explanation": "The Ryots' or Blue Rebellion of 1859 against the indigo planters in Bengal was an early peasant uprising, though indigo was revived with compensation.",
+    "difficulty": "hard",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Councils Act of 1861' provided for:",
+    "options": [
+      "Sezwar",
+      "The decentralisation of administration with the restoration of the princes' powers",
+      "The creation of the Legislative Council",
+      "The transfer of power"
+    ],
+    "answer": 1,
+    "explanation": "The Indian Councils Act of 1861 decentralised administration, restored the legislative powers of the Indian princes to a limited extent and introduced the portfolio system of government.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Councils Act of 1892' provided for:",
+    "options": [
+      "The creation of the Legislative Council at the centre",
+      "The introduction of separate electorates",
+      "The expansion of the legislative councils and the indirect method of election",
+      "The partition of Bengal"
+    ],
+    "answer": 2,
+    "explanation": "The Act of 1892 increased the size of the legislative councils, introduced the indirect method of election and widened the franchise, though it was not extended to the general population.",
+    "difficulty": "hard",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Councils Act of 1909' is known as the:",
+    "options": [
+      "Morley-Minto Reforms",
+      "Montagu-Chelmsford Reforms",
+      "Simon Commission Reforms",
+      "Rowlatt Act"
+    ],
+    "answer": 0,
+    "explanation": "The Indian Councils Act of 1909 is known as the Morley-Minto Reforms, which introduced separate electorates for Muslims and the principle of dyarchy in the provinces.",
+    "difficulty": "easy",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Montagu-Chelmsford Reforms' of 1919 provided for:",
+    "options": [
+      "The partition of Bengal",
+      "Provincial autonomy",
+      "Separate electorates for Muslims",
+      "The introduction of dyarchy in the provinces and the Act of 1919"
+    ],
+    "answer": 3,
+    "explanation": "The Government of India Act of 1919 introduced dyarchy in the provinces and separated central and provincial subjects for legislative purposes.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rowlatt Act' of 1919 was:",
+    "options": [
+      "A step towards responsible government",
+      "An extraordinary measure to deal with revolutionary and anti-British activities",
+      "A law on the press",
+      "A tariff legislation"
+    ],
+    "answer": 1,
+    "explanation": "The Rowlatt Act gave the government extraordinary powers to deal with revolutionary activities and permitted detention without trial, and it was the immediate cause of the Rowlatt Satyagraha.",
+    "difficulty": "easy",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Simon Commission' was appointed in:",
+    "options": [
+      "1935",
+      "1942",
+      "1927",
+      "1930"
+    ],
+    "answer": 2,
+    "explanation": "The Simon Commission, or the Indian Statutory Commission, was appointed in 1927 under the chairmanship of Sir John Simon to review the working of the reforms.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Government of India Act of 1935' provided for:",
+    "options": [
+      "Complete independence",
+      "The partition of India",
+      "The abolition of the Legislative Council",
+      "Provincial autonomy and a federal structure"
+    ],
+    "answer": 3,
+    "explanation": "The Government of India Act of 1935 provided for an all-India federation and provincial autonomy, and it was the framework for the Government of India Act of 1935.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Poona Pact' of 1932 was between:",
+    "options": [
+      "Gandhi and Jawaharlal Nehru",
+      "Gandhi and Dr. Ambedkar",
+      "Nehru and Patel",
+      "Gandhi and the British"
+    ],
+    "answer": 1,
+    "explanation": "The Poona Pact of 1932 between Mahatma Gandhi and Dr. B.R. Ambedkar secured the reservation of seats for the Depressed Classes in the provincial and central legislative councils.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Independence Act, 1947' provided for:",
+    "options": [
+      "The partition of India and the creation of the two dominions",
+      "The Cabinet Mission Plan",
+      "The Mountbatten Plan",
+      "Provincial autonomy"
+    ],
+    "answer": 0,
+    "explanation": "The Indian Independence Act of 1947 divided British India into the dominions of India and Pakistan with effect from 15 August 1947.",
+    "difficulty": "easy",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cabinet Mission' was sent to India in:",
+    "options": [
+      "1942",
+      "1944",
+      "1946",
+      "1947"
+    ],
+    "answer": 2,
+    "explanation": "The Cabinet Mission, comprising Lord Pethick-Lawrence, Stafford Cripps and A.V. Alexander, arrived in March 1946 to examine the demand for a separate Pakistan.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cabinet Mission Plan' of 1946 provided for:",
+    "options": [
+      "A three-tier federation with a weak centre",
+      "A united India with a strong centre",
+      "The partition of India",
+      "Provincial autonomy only"
+    ],
+    "answer": 0,
+    "explanation": "The Cabinet Mission Plan rejected Pakistan and proposed a three-tier federal structure with grouping of provinces and a weak centre, but it failed to get the acceptance of the League and the Congress.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mountbatten Plan' or the '3rd June Plan' provided for:",
+    "options": [
+      "A loose federation with a strong centre",
+      "The partition of India and the lapse of paramountcy",
+      "Provincial autonomy",
+      "A round table conference"
+    ],
+    "answer": 1,
+    "explanation": "The Mountbatten Plan of 3 June 1947 provided for the partition of India and the lapse of paramountcy over the princely states, with the referendum clause being used by the Indian states to accede.",
+    "difficulty": "medium",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian States' acceded to India under the instrument of accession on:",
+    "options": [
+      "1 January 1948",
+      "30 July 1947",
+      "15 August 1947",
+      "26 January 1950"
+    ],
+    "answer": 2,
+    "explanation": "The instrument of accession was executed by the Maharajas of the Indian states, and they acceded to India with effect from 15 August 1947.",
+    "difficulty": "hard",
+    "category": "british-raj",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sardar Vallabhbhai Patel' is credited with the integration of:",
+    "options": [
+      "The British Indian provinces",
+      "The Northeast frontier areas",
+      "TheAndaman and Nicobar Islands",
+      "The princely states of India"
+    ],
+    "answer": 3,
+    "explanation": "As the Deputy Prime Minister and Home Minister, Patel was responsible for the integration of the 562 princely states into the Indian Union.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vallabhbhai Patel' and the 'Junagadh' and the 'Hyderabad' cases:",
+    "options": [
+      "Were cases of the Emergency",
+      "Related to the land reforms",
+      "Related to the princely states' refusal to accede",
+      "Were cases of the accession of the princely states"
+    ],
+    "answer": 2,
+    "explanation": "Junagadh and Hyderabad were cases of princely states that initially refused to accede, and the central forces were used in the case of Hyderabad.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hyderabad' was integrated into the Indian Union in:",
+    "options": [
+      "1949",
+      "1950",
+      "1947",
+      "1948"
+    ],
+    "answer": 3,
+    "explanation": "Operation Polo was carried out in September 1948 and Hyderabad acceded to India in the same year.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Junagadh' was integrated into India in:",
+    "options": [
+      "1947",
+      "1948",
+      "1949",
+      "1950"
+    ],
+    "answer": 1,
+    "explanation": "Junagadh was integrated into the Indian Union in November 1948 after a plebiscite, though the action was contested by Pakistan.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'States Reorganisation Act' was enacted in:",
+    "options": [
+      "1956",
+      "1963",
+      "1952",
+      "1950"
+    ],
+    "answer": 0,
+    "explanation": "The States Reorganisation Act of 1956 implemented the recommendations of the Fazl Ali Commission and reorganised the states on linguistic lines.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Fazl Ali Commission' was appointed in:",
+    "options": [
+      "1956",
+      "1948",
+      "1953",
+      "1955"
+    ],
+    "answer": 2,
+    "explanation": "The Fazl Ali Commission, appointed in 1953, examined the reorganisation of the states and recommended the reorganization on a linguistic basis.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The state of Andhra Pradesh was created on:",
+    "options": [
+      "1 May 1960",
+      "1 October 1956",
+      "1 October 1953",
+      "1 November 1956"
+    ],
+    "answer": 3,
+    "explanation": "Andhra State was created on 1 November 1956, and the present Andhra Pradesh was formed on 1 April 1960 after the creation of Andhra Pradesh with the Telugu-speaking districts of the State of Mysore.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Gujarat and Maharashtra were formed on:",
+    "options": [
+      "1 May 1960",
+      "1 November 1956",
+      "15 August 1947",
+      "1 October 1953"
+    ],
+    "answer": 0,
+    "explanation": "The state of Bombay was divided into the states of Maharashtra and Gujarat with effect from 1 May 1960.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The state of Haryana was created on:",
+    "options": [
+      "1 January 1967",
+      "1 November 1966",
+      "1 May 1960",
+      "1 October 1966"
+    ],
+    "answer": 1,
+    "explanation": "Haryana was carved out of the erstwhile state of Punjab on 1 November 1966.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'land reforms' in India after independence mainly aimed at:",
+    "options": [
+      "Establishing large state farms",
+      "Import of technology",
+      "Abolishing zamindari and transferring ownership to the tillers",
+      "Collectivisation of agriculture"
+    ],
+    "answer": 2,
+    "explanation": "The land reform programmes aimed to eliminate the intermediaries and confer ownership on the cultivator, with land ceilings and tenant protections.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhoodan' and the 'Gramdan' movements were associated with:",
+    "options": [
+      "Vinoba Bhave",
+      "Jawaharlal Nehru",
+      "Ram Manohar Lohia",
+      "C. Rajagopalachari"
+    ],
+    "answer": 0,
+    "explanation": "Vinoba Bhave's bhoodan and gramdan movements sought the voluntary donation of surplus land to landless labourers.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Green Revolution' in India was associated with:",
+    "options": [
+      "B. P. Singh",
+      "M.S. Swaminathan",
+      "P.C. Mahalanobis",
+      "V.K. Krishna Menon"
+    ],
+    "answer": 1,
+    "explanation": "M.S. Swaminathan, with Norman Borlaug's high-yielding varieties, led the Green Revolution, which was first tested in Punjab and Haryana.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'White Revolution' in India was led by:",
+    "options": [
+      "Dr. M. S. Swaminathan",
+      "Dr. R. H. Richharia",
+      "Dr. A. B. Ghosh",
+      "Dr. Verghese Kurien"
+    ],
+    "answer": 3,
+    "explanation": "Dr. Verghese Kurien, the Milkman of India, led the White Revolution through the National Dairy Development Board and made India the world's largest milk producer.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Operation Flood' was the programme to:",
+    "options": [
+      "Promote fisheries",
+      "Increase milk production",
+      "Distribute wheat",
+      "Control floods"
+    ],
+    "answer": 1,
+    "explanation": "Operation Flood, the world's largest milk production programme, was launched in 1970 with the building of dairy cooperatives on the Anand model.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's first five-year plan was based on the:",
+    "options": [
+      "Agricultural model",
+      "Drought model",
+      "Heavy industry model",
+      "P.C. Mahalanobis model"
+    ],
+    "answer": 3,
+    "explanation": "The First Five Year Plan (1951-56) was based on the P.C. Mahalanobis model with a focus on agriculture, irrigation and power.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Integrated Programme of National Development' and the 'Garibi Hatao' slogan belong to the:",
+    "options": [
+      "Third Five Year Plan",
+      "Fourth Five Year Plan",
+      "First Five Year Plan",
+      "Second Five Year Plan"
+    ],
+    "answer": 0,
+    "explanation": "The Third Five Year Plan (1961-66) emphasised agriculture, poverty eradication and family planning under the slogan Garibi Hatao.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's nuclear test 'Pokhran-II' was conducted in:",
+    "options": [
+      "2001",
+      "1974",
+      "1998",
+      "1988"
+    ],
+    "answer": 2,
+    "explanation": "Pokhran-II was conducted on 11 and 13 May 1998 under PM Atal Bihari Vajpayee, and it was followed by a series of tests in 1998.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's first satellite 'Aryabhata' was launched in:",
+    "options": [
+      "1972",
+      "1975",
+      "1975 by a Soviet launch vehicle",
+      "1967"
+    ],
+    "answer": 1,
+    "explanation": "Aryabhata, India's first satellite, was launched on 19 April 1975 from Kapustin Yar in the Soviet Union, though it was not in the intended orbit.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's first indigenous launch vehicle 'SLV-3' successfully launched Rohan in:",
+    "options": [
+      "1979",
+      "1984",
+      "1980",
+      "1987"
+    ],
+    "answer": 3,
+    "explanation": "The SLV-3, with Rohan as the payload, was launched on 22 May 1987 from Sriharikota, and India became the sixth country to put a satellite into orbit using an indigenous launcher.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pokhran-I' test of 1974 was code-named:",
+    "options": [
+      "Smiling Buddha",
+      "Operation Shakti",
+      "Trinity",
+      "Vajra"
+    ],
+    "answer": 0,
+    "explanation": "The 1974 test was code-named Smiling Buddha, while the 1998 series was Operation Shakti.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Guarantee to the Fundamental Rights' and the 'Chambal Project':",
+    "options": [
+      "Were both in Madhya Pradesh",
+      "Were both part of the First Five Year Plan",
+      "Were both in the 1950s",
+      "Were both led by Nehru"
+    ],
+    "answer": 2,
+    "explanation": "The Chambal project, the first major river valley project after independence, was begun in 1952 and completed in the 1950s.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Institutes of Technology' were established with the assistance of:",
+    "options": [
+      "The World Bank",
+      "The Soviet Union",
+      "The United States",
+      "The British Government"
+    ],
+    "answer": 2,
+    "explanation": "The IITs were set up with the assistance of the United States under the Indo-American Programme, the first of them at Kanpur in 1956.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Atomic Energy Commission' of India was set up in:",
+    "options": [
+      "1947",
+      "1948",
+      "1951",
+      "1954"
+    ],
+    "answer": 1,
+    "explanation": "The Atomic Energy Commission was set up in August 1948 by an executive resolution, and it became a statutory body under the Atomic Energy Act of 1962.",
+    "difficulty": "hard",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the 1969 is correct?",
+    "options": [
+      "1972",
+      "1975",
+      "1962",
+      "1969"
+    ],
+    "answer": 3,
+    "explanation": "ISRO was founded in August 1969 and given the status of a national space agency in 1972.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Naga Rajghat' and the 'Narmada Valley Project' were:",
+    "options": [
+      "Two river valley projects",
+      "Two environmental movements",
+      "Two industrial policy resolutions",
+      "Two of the five-year plans"
+    ],
+    "answer": 0,
+    "explanation": "The Narmada Valley Project and the Nagarjunsagar and the Bhakra projects were the major river valley projects of the second plan.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nagaland' and the 'North-East Frontier Agency' were:",
+    "options": [
+      "Created in 1987",
+      "States of the 1956 Act",
+      "Union territories",
+      "Part of the North-Eastern Areas (Reorganisation) Act of 1971"
+    ],
+    "answer": 3,
+    "explanation": "The North-Eastern Areas (Reorganisation) Act of 1971 created the states of Meghalaya, Manipur, Tripura, Arunachal Pradesh, Mizoram and Nagaland and the union territories of Dadra and Nagar Haveli and Daman and Diu.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sikkim' was made a state of India in:",
+    "options": [
+      "1987",
+      "1975",
+      "1974",
+      "1976"
+    ],
+    "answer": 1,
+    "explanation": "Sikkim was made a state of the Indian Union in 1975 after the referendum of 1973.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pondicherry' and the 'Mahe':",
+    "options": [
+      "Are the remnants of the French presence in India",
+      "Were Portuguese",
+      "Were Danish",
+      "Were part of the French East India Company"
+    ],
+    "answer": 0,
+    "explanation": "Puducherry, Karaikal, Mahe and Yanam are the remnants of the former French colonies in India and were integrated with India in 1954 and 1962.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Goa was liberated from the Portuguese in:",
+    "options": [
+      "1967",
+      "1957",
+      "1961",
+      "1963"
+    ],
+    "answer": 2,
+    "explanation": "Goa was liberated on 18 December 1961 by the Indian armed forces, and the operation was code-named Vijay.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Operation Vijay' of 1961 was:",
+    "options": [
+      "The annexation of Sikkim",
+      "The liberation of Goa",
+      "The annexation of Hyderabad",
+      "The liberation of Junagadh"
+    ],
+    "answer": 1,
+    "explanation": "Operation Vijay was the military operation that led to the liberation of Goa, Daman and Diu from Portuguese rule in December 1961.",
+    "difficulty": "easy",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sardar Patel' and the 'Hyderabad' and the 'Junagadh':",
+    "options": [
+      "States that sought a separate identity",
+      "States that became union territories",
+      "States that acceded to Pakistan",
+      "States that were integrated into India"
+    ],
+    "answer": 3,
+    "explanation": "Junagadh and Hyderabad, both Muslim-majority princely states, were integrated into India after a referendum in Junagadh and the 'Operation Polo' in Hyderabad.",
+    "difficulty": "medium",
+    "category": "post-independence",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian National Congress' was founded in:",
+    "options": [
+      "1905",
+      "1900",
+      "1885",
+      "1895"
+    ],
+    "answer": 2,
+    "explanation": "The Indian National Congress was founded in December 1885 at Gokuldas Tejpal Sanskrit College in Bombay with 72 delegates.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The first President of the Indian National Congress was:",
+    "options": [
+      "W.C. Bonnerjee",
+      "Dadabhai Naoroji",
+      "George Yule",
+      "A.O. Hume"
+    ],
+    "answer": 0,
+    "explanation": "W.C. Bonnerjee was the first President of the Congress at its first session in Bombay in 1885, and A.O. Hume, a retired civil servant, was the founder.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'partition of Bengal' of 1905 was announced by:",
+    "options": [
+      "Lord Lytton",
+      "Lord Curzon",
+      "Lord Ripon",
+      "Lord Hardinge"
+    ],
+    "answer": 1,
+    "explanation": "Lord Curzon announced the partition of Bengal in July 1905, which triggered the Swadeshi and Boycott movement.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Swadeshi movement' was launched in opposition to:",
+    "options": [
+      "The Simon Commission",
+      "The Second World War",
+      "The partition of Bengal",
+      "The Rowlatt Act"
+    ],
+    "answer": 2,
+    "explanation": "The Swadeshi and boycott movement of 1905 was a spontaneous mass protest against the partition of Bengal, and it pioneered the use of swadeshi and boycott as methods of national struggle.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Surat Split' of 1907 led to the formation of:",
+    "options": [
+      "The Muslim League",
+      "The Hindu Mahasabha",
+      "The Justice Party",
+      "The Communist Party"
+    ],
+    "answer": 0,
+    "explanation": "The split at Surat and the subsequent reunion led to the formation of the All India Muslim League in Dhaka in 1906 with the objective of safeguards for the Muslims.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lucknow Pact' of 1916 was between:",
+    "options": [
+      "The Congress and the Liberals",
+      "The League and the Depressed Classes",
+      "The moderates and the extremists",
+      "The Congress and the Muslim League"
+    ],
+    "answer": 3,
+    "explanation": "The Lucknow Pact of 1916 was an agreement between the Congress and the Muslim League to reunite and to work together for representative government.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rowlatt Satyagraha' was called the:",
+    "options": [
+      "No-changers' agitation",
+      "Satyagraha of the Rowlatt Act",
+      "Railway strike",
+      "Peasant agitation"
+    ],
+    "answer": 0,
+    "explanation": "The Rowlatt Satyagraha was a nationwide protest by the 'no-changers', led jointly by Mahatma Gandhi and Shaukat Ali, and it was the first all-India political movement.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jallianwala Bagh massacre' took place at:",
+    "options": [
+      "Lahore",
+      "Delhi",
+      "Kanpur",
+      "Amritsar"
+    ],
+    "answer": 3,
+    "explanation": "The Jallianwala Bagh massacre took place on 13 April 1919 in Amritsar, where General Dyer ordered his troops to fire on a peaceful crowd in the enclosed ground.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Khilafat' movement was launched in support of:",
+    "options": [
+      "The Kaiser",
+      "The British Crown",
+      "The Ottoman Empire and the Sultan of Turkey",
+      "The Tsar of Russia"
+    ],
+    "answer": 2,
+    "explanation": "The Khilafat movement, launched in 1919, demanded the restoration of the Ottoman Sultan-Caliph and coincided with the Non-Cooperation Movement.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Non-Cooperation Movement' was launched in:",
+    "options": [
+      "1919",
+      "1920",
+      "1922",
+      "1930"
+    ],
+    "answer": 1,
+    "explanation": "The Non-Cooperation Movement was formally launched in January 1921 following the visit of the Prince of Wales to India in November 1920.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chauri Chaura' incident led to the withdrawal of:",
+    "options": [
+      "The Civil Disobedience Movement",
+      "The Non-Cooperation Movement",
+      "The Quit India Movement",
+      "The Simon Commission boycott"
+    ],
+    "answer": 1,
+    "explanation": "The Chauri Chaura incident of February 1922, in which a police station was burnt, prompted Gandhi to withdraw the Non-Cooperation Movement.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Swaraj Party' was formed in:",
+    "options": [
+      "1928",
+      "1930",
+      "1922",
+      "1923"
+    ],
+    "answer": 3,
+    "explanation": "The Swaraj Party was formed in 1923 by C.R. Das and Motilal Nehru after the withdrawal of the Non-Cooperation Movement.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Simon Commission' boycott was notable for the participation of:",
+    "options": [
+      "Only the students",
+      "Only the Congress",
+      "All political parties including the Communists and the Muslim League",
+      "Only the revolutionaries"
+    ],
+    "answer": 2,
+    "explanation": "The boycott of the Simon Commission in 1928 saw all the political parties join hands, with Lala Lajpat Rai injured in the lathi charge at Lahore.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lahore Session' of the Congress presided over by Jawaharlal Nehru in 1929:",
+    "options": [
+      "Approved the Purna Swaraj resolution",
+      "Approved the Quit India resolution",
+      "Approved the Cabinet Mission Plan",
+      "Rejected the dominion status"
+    ],
+    "answer": 0,
+    "explanation": "The Lahore session in December 1929 adopted the historic Purna Swaraj resolution, declaring the independence of India the goal of the Congress.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Civil Disobedience Movement' was launched with the:",
+    "options": [
+      "Quit India",
+      "No-tax campaign",
+      "Dandi March",
+      "Salt Satyagraha"
+    ],
+    "answer": 2,
+    "explanation": "The Civil Disobedience Movement began with the Dandi March of 1930, in which Gandhi walked 240 miles from Sabarmati to the coastal town of Dandi to break the salt law.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Poona Pact' was signed in 1932 between:",
+    "options": [
+      "Nehru and Patel",
+      "The British and the Congress",
+      "Gandhi and Jinnah",
+      "Mahatma Gandhi and Dr. Ambedkar"
+    ],
+    "answer": 3,
+    "explanation": "The Poona Pact of 1932 replaced the separate electorate for the Depressed Classes with reserved seats within the general electorate.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Government of India Act, 1935' provided for provincial autonomy and the establishment of:",
+    "options": [
+      "A Planning Commission",
+      "A Federal Court",
+      "An All-India Federation",
+      "A Reserve Bank of India"
+    ],
+    "answer": 1,
+    "explanation": "The Government of India Act of 1935 provided for a Federal Court, which was inaugurated in 1937 and was the precursor of the Supreme Court of India.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Poona Pact' and the 'Federation' never came into being because:",
+    "options": [
+      "The princely states refused to accede",
+      "The Congress boycotted the elections",
+      "The British refused",
+      "The Muslim League vetoed it"
+    ],
+    "answer": 0,
+    "explanation": "The princely states did not accede to the Federation proposed in the Government of India Act, 1935, so it never came into being.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Quit India Movement' was launched in:",
+    "options": [
+      "1942",
+      "1944",
+      "1939",
+      "1940"
+    ],
+    "answer": 0,
+    "explanation": "The Quit India Movement was launched on 8 August 1942 with the 'Do or Die' resolution adopted at the Gowalia Tank Maidan in Bombay.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Do or Die' resolution was adopted at:",
+    "options": [
+      "The Calcutta session",
+      "The Gowalia Tank Maidan in Bombay",
+      "The Lucknow session",
+      "The Lahore session"
+    ],
+    "answer": 1,
+    "explanation": "The Quit India resolution was adopted at the Gowalia Tank Maidan in Bombay on 8 August 1942 and was moved by Jawaharlal Nehru.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian National Army' and the 'Subhas Chandra Bose':",
+    "options": [
+      "Were founded by the Congress in 1920",
+      "Were an entirely civilian organisation",
+      "Were part of the Non-Cooperation Movement",
+      "Were revived by Subhas Chandra Bose in the Second World War"
+    ],
+    "answer": 3,
+    "explanation": "Subhas Chandra Bose revived the INA in the Second World War with the objective of freeing India through armed struggle, and Azad Hind Hindustan was formed in Singapore in 1943.",
+    "difficulty": "easy",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Azad Hind Hindustan' government was proclaimed in:",
+    "options": [
+      "1940",
+      "1942",
+      "1943",
+      "1945"
+    ],
+    "answer": 2,
+    "explanation": "The Provisional Government of Azad Hind Hindustan was proclaimed in Singapore on 21 October 1943 with Subhas Chandra Bose as its premier.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'INA trials' at the Red Fort in 1945-46:",
+    "options": [
+      "Had no political impact",
+      "Were the trials of the British officers",
+      "Created public outrage and the RIN mutiny of 1946",
+      "Were the trials of the Congress leaders"
+    ],
+    "answer": 2,
+    "explanation": "The INA trials at the Red Fort provoked nationwide public anger and led to the Royal Indian Navy mutiny of February 1946.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cabinet Mission' of 1946 and the 'Mountbatten Plan' were:",
+    "options": [
+      "Both rejected by the Congress",
+      "The last attempts to resolve the question of Pakistan",
+      "Both about the economy",
+      "Both about land reforms"
+    ],
+    "answer": 1,
+    "explanation": "The Cabinet Mission Plan and the Mountbatten Plan were the last British attempts to resolve the demand for a separate Pakistan before the transfer of power.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Independence Act' and the 'Indian States' accession:",
+    "options": [
+      "The states acceded to India with the lapse of paramountcy",
+      "The states became provinces",
+      "The states remained independent",
+      "The states acceded to Pakistan"
+    ],
+    "answer": 0,
+    "explanation": "With the lapse of paramountcy, the princely states were free to accede to India or Pakistan, and most acceded to India.",
+    "difficulty": "medium",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gandhi-Matthieu' and the 'Mountbatten' plan:",
+    "options": [
+      "Were economic plans",
+      "Were about the army",
+      "Were about the provinces",
+      "Were plans of partition"
+    ],
+    "answer": 3,
+    "explanation": "The Gandhi-Matthieu Plan of 1945 and the Mountbatten Plan of 1947 were successive plans for the partition of India.",
+    "difficulty": "hard",
+    "category": "freedom-struggle",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'First World War' and the Indian economy:",
+    "options": [
+      "Led to a severe depression and the decline of the war economy in India",
+      "Had no impact on India",
+      "Led to the end of British rule",
+      "Led to an economic boom in India"
+    ],
+    "answer": 0,
+    "explanation": "The First World War brought inflation, a fall in the export of goods, a rise in the imports and heavy expenditure on war, and the result was a deep depression in the Indian economy.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'First World War' and the 'Indian cotton boom':",
+    "options": [
+      "Cotton was banned",
+      "Cotton was exported only to Britain",
+      "Cotton prices collapsed",
+      "Cotton prices rose and India became a major exporter"
+    ],
+    "answer": 3,
+    "explanation": "The war created a cotton boom in India as the Lancashire mills were cut off from supplies, and India's cotton exports rose sharply.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rowlatt Act' was a response to:",
+    "options": [
+      "The Rowlatt Satyagraha",
+      "The Lucknow Pact",
+      "The revolutionary activities of Bhagat Singh and the Revolutionary Party",
+      "The Champaran Satyagraha"
+    ],
+    "answer": 2,
+    "explanation": "The Rowlatt Act of 1919 was the British response to the revolutionary activities, notably the HSRA and the bomb throwers of the 1920s.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Treaty of Versailles' was signed in:",
+    "options": [
+      "1918",
+      "1919",
+      "1920",
+      "1921"
+    ],
+    "answer": 1,
+    "explanation": "The Treaty of Versailles, which ended the state of war between Germany and the Allied Powers, was signed on 28 June 1919.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'League of Nations' was established in:",
+    "options": [
+      "1920",
+      "1921",
+      "1945",
+      "1919"
+    ],
+    "answer": 0,
+    "explanation": "The Covenant of the League of Nations came into force on 10 January 1920, and the League was the first attempt at a world organisation for peace.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Washington Naval Conference' of 1921-22 led to:",
+    "options": [
+      "The Kellogg-Briand Pact",
+      "The Locarno Treaty",
+      "The League of Nations",
+      "The Five-Power Naval Treaty limiting capital ships"
+    ],
+    "answer": 3,
+    "explanation": "The Washington Naval Conference produced the Five-Power Naval Treaty, which limited the tonnage of capital ships and established the ratio for the Pacific naval powers.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kellogg-Briand Pact' of 1928:",
+    "options": [
+      "Fixed the borders of Poland",
+      "Settled the German reparations",
+      "Renounced war as an instrument of national policy",
+      "Created the United Nations"
+    ],
+    "answer": 2,
+    "explanation": "The Kellogg-Briand Pact of 1928, signed by 15 nations and the League of Nations, renounced war as an instrument of national policy.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Depression' of 1929 affected India through:",
+    "options": [
+      "The closure of the Suez Canal",
+      "The collapse of the agricultural prices",
+      "The withdrawal of the British capital",
+      "The fall in the rupee exchange rate only"
+    ],
+    "answer": 1,
+    "explanation": "The Great Depression hit India through the collapse of agricultural prices, the fall in the exports and the withdrawal of the British capital, with the decline in the rupee's exchange rate being an effect rather than a cause.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Second World War' and India:",
+    "options": [
+      "Was fought with Indian soldiers only in Europe",
+      "Had no impact on India",
+      "Created a boom in the wartime economy and a huge military recruitment",
+      "Led to the end of the British empire"
+    ],
+    "answer": 2,
+    "explanation": "The Second World War brought an economic boom to India through huge military expenditure and recruitment of about 2.5 million Indian soldiers, but it also created acute shortages and inflation.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bretton Woods Conference' of 1944 established:",
+    "options": [
+      "The United Nations and the Security Council",
+      "The IMF and the World Bank",
+      "The European Union",
+      "The League of Nations"
+    ],
+    "answer": 1,
+    "explanation": "The Bretton Woods Conference of July 1944 in New Hampshire set up the International Monetary Fund and the International Bank for Reconstruction and Development, the predecessor of the World Bank.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'UN General Assembly' has:",
+    "options": [
+      "Fifty-one member states",
+      "Thirty-five member states",
+      "Sixteen non-permanent members",
+      "One hundred and ninety-three member states"
+    ],
+    "answer": 3,
+    "explanation": "The UN General Assembly comprises 193 member states, each with one vote, and it met for the first time in London in January 1946.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Security Council' of the UN has:",
+    "options": [
+      "Five permanent members and ten non-permanent members",
+      "Fifteen members",
+      "No permanent members",
+      "Ten non-permanent members"
+    ],
+    "answer": 0,
+    "explanation": "The Security Council has five permanent members, China, France, Russia, the United Kingdom and the United States, each with a veto, and ten non-permanent members elected for two-year terms.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'United Nations' came into existence on:",
+    "options": [
+      "14 October 1945",
+      "25 June 1945",
+      "1 January 1946",
+      "15 August 1945"
+    ],
+    "answer": 0,
+    "explanation": "The United Nations Charter came into force on 24 October 1945, and the UN Day is observed on 14 October in India.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cold War' is characterised by:",
+    "options": [
+      "The unity of the European states",
+      "The dissolution of the USSR",
+      "Direct war between the superpowers",
+      "The rivalry between the two blocs without direct war"
+    ],
+    "answer": 3,
+    "explanation": "The Cold War was the geopolitical tension between the US-led and the Soviet-led blocs from 1947 to 1991, marked by proxy wars and the arms race rather than direct conflict.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Truman Doctrine' of 1947:",
+    "options": [
+      "Ended the Second World War",
+      "Was the basis of the Marshall Plan",
+      "Announced the containment of communism and the aid to Greece and Turkey",
+      "Created the SEATO"
+    ],
+    "answer": 2,
+    "explanation": "The Truman Doctrine in March 1947 declared the policy of containment, with $400 million of aid to Greece and Turkey, and was the first formal statement of the containment policy.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Marshall Plan' was announced in:",
+    "options": [
+      "1946",
+      "1947",
+      "1948",
+      "1945"
+    ],
+    "answer": 1,
+    "explanation": "The Marshall Plan, or the European Recovery Program, was announced in June 1947 and provided large-scale American aid for the recovery of Europe.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NATO' was formed in:",
+    "options": [
+      "1955",
+      "1947",
+      "1949",
+      "1951"
+    ],
+    "answer": 2,
+    "explanation": "The North Atlantic Treaty Organisation was founded in April 1949 with the North Atlantic Treaty signed in 1949, creating a collective defence system.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Warsaw Pact' was the counterpart of NATO in:",
+    "options": [
+      "1955",
+      "1957",
+      "1949",
+      "1953"
+    ],
+    "answer": 0,
+    "explanation": "The Warsaw Pact, formally the Treaty of Friendship, Co-operation and Mutual Assistance, was signed in May 1955 as a response to the integration of West Germany into NATO.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'COMECON' was the economic organisation of:",
+    "options": [
+      "The Non-Aligned Movement",
+      "The Third World",
+      "The Western bloc",
+      "The Soviet bloc"
+    ],
+    "answer": 3,
+    "explanation": "The Council for Mutual Economic Assistance, or COMECON, was established in 1949 as the economic complement of the Warsaw Pact for the Soviet-led Eastern bloc.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Berlin Crisis' of 1961 led to the building of the:",
+    "options": [
+      "Iron Curtain",
+      "Berlin Wall",
+      "Great Wall of China",
+      "Berlin Wall of 1961 and the division of Germany"
+    ],
+    "answer": 1,
+    "explanation": "The Berlin Crisis of 1961 led to the construction of the Berlin Wall, which divided the city and symbolised the Cold War division of Europe.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cuban Missile Crisis' of 1962 was between:",
+    "options": [
+      "China and India",
+      "France and Germany",
+      "India and Pakistan",
+      "The United States and the Soviet Union"
+    ],
+    "answer": 3,
+    "explanation": "The Cuban Missile Crisis of October 1962, caused by the Soviet deployment of nuclear missiles in Cuba, brought the world to the brink of nuclear war.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Prague Spring' of 1968 was the attempt of:",
+    "options": [
+      "Czechoslovakia to liberalise the communist regime",
+      "Hungary to withdraw from the Warsaw Pact",
+      "Nixon to end the Vietnam War",
+      "The Soviet Union to reform Stalinism"
+    ],
+    "answer": 0,
+    "explanation": "The Prague Spring under Alexander Dubcek was the attempt to liberalise the communist system in Czechoslovakia, which was crushed by a Soviet-led invasion in August 1968.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nixon Doctrine' of 1969:",
+    "options": [
+      "Was the basis of the détente with Russia",
+      "Was the continuation of containment with a reduced role for the US",
+      "Ended the Vietnam War immediately",
+      "Recognised China and normalised relations with it alone"
+    ],
+    "answer": 1,
+    "explanation": "The Nixon Doctrine sought to reduce the American commitment in Asia while containing communism through allies, and it was the basis of the détente with Russia and China.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SALT I' agreement of 1972 limited:",
+    "options": [
+      "The conventional forces in Europe",
+      "The nuclear tests in the Pacific",
+      "The strategic nuclear arms of the superpowers",
+      "The chemical weapons"
+    ],
+    "answer": 2,
+    "explanation": "The Strategic Arms Limitation Treaty of 1972 limited the strategic offensive arms of the United States and the Soviet Union, and SALT II was signed in 1979 but was not ratified.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Non-Aligned Movement' was initiated with the:",
+    "options": [
+      "Conference of Belgrade of 1961",
+      "The Panchsheel Agreement of 1954",
+      "The Suez Crisis of 1956",
+      "Bandung Conference of 1955"
+    ],
+    "answer": 0,
+    "explanation": "The Non-Aligned Movement was formally initiated with the first conference of the heads of state at Belgrade in September 1961, following the Bandung Conference of 1955.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bandung Conference' of 1955 was held in:",
+    "options": [
+      "Jakarta",
+      "Bandung",
+      "Belgrade",
+      "Cairo"
+    ],
+    "answer": 1,
+    "explanation": "The Bandung or Afro-Asian Conference of April 1955 was held in Bandung, Indonesia, with 29 Asian and African countries participating.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Castro' and the 'Cuban Revolution' of 1959:",
+    "options": [
+      "Brought the US and the USSR together",
+      "Ended the Cold War in Latin America",
+      "Led to a socialist state in Cuba",
+      "Was supported by the Soviet Union from the beginning"
+    ],
+    "answer": 2,
+    "explanation": "The Cuban Revolution of 1959 brought Fidel Castro to power and gradually led to the establishment of a socialist state in Cuba.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Suez Crisis' of 1956:",
+    "options": [
+      "Was a conflict in the Balkans",
+      "Led to the collapse of the UN",
+      "Resulted in the partition of Korea",
+      "Was about the control of the Suez Canal"
+    ],
+    "answer": 3,
+    "explanation": "The Suez Crisis arose from Egypt's nationalisation of the Suez Canal, the withdrawal of Britain, France and Israel, and the political decline of Britain and France.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Russo-Japanese War' of 1904-05 led to:",
+    "options": [
+      "The start of the First World War",
+      "The Russian Revolution of 1905",
+      "The formation of the Soviet Union",
+      "The defeat of Russia and the emergence of Japan as a great power"
+    ],
+    "answer": 3,
+    "explanation": "The Russo-Japanese War ended in a Japanese victory and was the first major defeat of a European power in the East in modern times.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Russian Revolution' of 1917:",
+    "options": [
+      "Was led by the Mensheviks alone",
+      "Ended the rule of the Tsar and led to the Soviet Union",
+      "Was a nationalist movement against the Ottomans",
+      "Led to the Partition of India"
+    ],
+    "answer": 1,
+    "explanation": "The Bolshevik Revolution of November 1917 overthrew the Provisional Government and led to the formation of the Soviet Union.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chinese Revolution' of 1949:",
+    "options": [
+      "Overthrew the Nationalist government of Chiang Kai-shek",
+      "Brought the Kuomintang to power in Taiwan",
+      "Established the Republic of China on the mainland",
+      "Was a peasant movement of 1927"
+    ],
+    "answer": 0,
+    "explanation": "The Chinese Revolution of 1949 led by Mao Zedong established the People's Republic of China on the mainland, while the Nationalists retreated to Taiwan.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Decolonisation of Africa' was accelerated by:",
+    "options": [
+      "The Marshall Plan",
+      "The First World War",
+      "The Second World War and the United Nations Charter",
+      "The Cold War alone"
+    ],
+    "answer": 2,
+    "explanation": "The Second World War weakened the European colonial powers, and the UN Charter's affirmation of self-determination accelerated the process of African decolonisation in the 1950s and 1960s.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Apartheid' policy was practised in:",
+    "options": [
+      "Portugal",
+      "South Africa",
+      "Rhodesia only",
+      "Algeria"
+    ],
+    "answer": 1,
+    "explanation": "Apartheid, the legal racial segregation in South Africa, was abolished in the early 1990s following the negotiations that led to the 1994 elections.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Organisation of African Unity' was founded in:",
+    "options": [
+      "1960",
+      "1958",
+      "1963",
+      "1957"
+    ],
+    "answer": 2,
+    "explanation": "The Organisation of African Unity was founded in May 1963 in Addis Ababa by 32 African states, and it was replaced by the African Union in 2002.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Suez' and the 'Aswan Dam' project of Nasser:",
+    "options": [
+      "Was supported by the United States",
+      "Was a British project",
+      "Was a Soviet project",
+      "Was an early symbol of the Arab nationalism and non-alignment"
+    ],
+    "answer": 3,
+    "explanation": "The nationalisation of the Suez Canal and the Aswan High Dam project became a symbol of Arab nationalism and Egypt's non-aligned stance under Nasser.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cuban Revolution' and the 'Che Guevara':",
+    "options": [
+      "Che Guevara was a Marxist revolutionary who led the guerrillas in Congo and Bolivia",
+      "Che Guevara was a US diplomat",
+      "Che Guevara was a Spanish general",
+      "Che Guevara led the Cuban Revolution alone"
+    ],
+    "answer": 0,
+    "explanation": "Che Guevara was a Marxist revolutionary who fought in Congo and Bolivia and was killed in Bolivia in 1967.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ho Chi Minh' and the 'Vietnam':",
+    "options": [
+      "Ho Chi Minh was the first president of the Philippines",
+      "Ho Chi Minh was a Chinese leader",
+      "Ho Chi Minh founded the Democratic Republic of Vietnam in 1945",
+      "Ho Chi Minh led the French Revolution"
+    ],
+    "answer": 2,
+    "explanation": "Ho Chi Minh declared the independence of Vietnam and founded the Democratic Republic of Vietnam in 1945, and he led the country until his death in 1969.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gulf War' of 1991 was between:",
+    "options": [
+      "The US-led coalition and Iraq",
+      "India and Pakistan",
+      "Iran and Iraq",
+      "NATO and Russia"
+    ],
+    "answer": 0,
+    "explanation": "The Gulf War of 1990-91 was fought between a US-led coalition and Iraq after the Iraqi occupation of Kuwait, and it was the first major conflict after the Cold War.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'End of the Cold War' is usually dated to:",
+    "options": [
+      "1991",
+      "1995",
+      "1985",
+      "1989"
+    ],
+    "answer": 3,
+    "explanation": "The collapse of the Berlin Wall in 1989 and the dissolution of the Soviet Union in 1991 are usually taken as the end of the Cold War.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Globalisation' of the 1990s was driven by:",
+    "options": [
+      "The colonial expansion",
+      "The end of the Cold War, the information technology revolution and the liberalisation of trade and capital flows",
+      "The Bretton Woods system",
+      "The Marshall Plan"
+    ],
+    "answer": 1,
+    "explanation": "The end of the Cold War, the IT revolution, the WTO and the liberalisation of trade and capital flows drove the globalisation of the 1990s.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Treaty of Versailles' and the 'League of Nations' were both:",
+    "options": [
+      "Products of the First World War",
+      "Products of the Second World War",
+      "Signed in 1945",
+      "The basis of the United Nations"
+    ],
+    "answer": 0,
+    "explanation": "Both arose from the settlement of the First World War, and the League of Nations was the precursor of the United Nations.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'League of Nations' failed mainly because:",
+    "options": [
+      "It was dissolved after the First World War",
+      "It was replaced by NATO",
+      "It did not include the European states",
+      "It had no military force and the United States did not join it"
+    ],
+    "answer": 3,
+    "explanation": "The League was weakened by the absence of the United States and by the lack of an enforcement mechanism, and it failed to act against the aggressors of the 1930s.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Munich Agreement' of 1938:",
+    "options": [
+      "Was the partition of Poland",
+      "Allowed the German annexation of the Sudetenland",
+      "Established the Axis alliance",
+      "Was the Soviet-French pact"
+    ],
+    "answer": 1,
+    "explanation": "The Munich Agreement of September 1938 permitted the German annexation of the Sudetenland in Czechoslovakia in the vain hope of appeasing Hitler.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Molotov-Ribbentrop Pact' of 1939:",
+    "options": [
+      "Was the Polish-British alliance",
+      "Created the Axis alliance",
+      "Was the non-aggression pact between Germany and the Soviet Union",
+      "Ended the Spanish Civil War"
+    ],
+    "answer": 2,
+    "explanation": "The Molotov-Ribbentrop Pact of August 1939 was the non-aggression pact between Nazi Germany and the Soviet Union, with secret protocols dividing Eastern Europe.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Second World War' in Europe began with:",
+    "options": [
+      "The entry of the United States",
+      "The attack on Pearl Harbour",
+      "The invasion of Poland in September 1939",
+      "The invasion of France in 1940"
+    ],
+    "answer": 2,
+    "explanation": "The invasion of Poland by Germany on 1 September 1939 marked the start of the war in Europe, and Britain and France declared war on 3 September.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pearl Harbour' attack took place in:",
+    "options": [
+      "1941",
+      "1942",
+      "1939",
+      "1944"
+    ],
+    "answer": 0,
+    "explanation": "The Japanese attack on Pearl Harbour on 7 December 1941 brought the United States into the Second World War.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'United Nations Charter' was signed on:",
+    "options": [
+      "1 January 1946",
+      "25 June 1945",
+      "14 October 1945",
+      "24 October 1945"
+    ],
+    "answer": 1,
+    "explanation": "The UN Charter was signed on 26 June 1945 in San Francisco by 50 nations and came into force on 24 October 1945.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'World Trade Organization' was established on:",
+    "options": [
+      "15 April 1994",
+      "23 July 1947",
+      "1 January 1996",
+      "1 January 1995"
+    ],
+    "answer": 3,
+    "explanation": "The WTO was established on 1 January 1995 as a successor to the GATT, following the Uruguay Round and the Marrakesh Agreement of 1994.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dolly' and the 'clone' of the sheep and the 'He Jiankui' affair:",
+    "options": [
+      "Were about climate modelling",
+      "Were about biotechnology",
+      "Were about nuclear physics",
+      "Were about space research"
+    ],
+    "answer": 1,
+    "explanation": "The cloning of Dolly the sheep and the 2018 He Jiankui affair of gene-edited babies both belong to the field of biotechnology and its ethics.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Saddam Hussein' and the 'Osama bin Laden' and the 'War on Terror':",
+    "options": [
+      "Began in 1991 with the Gulf War",
+      "Were part of the Cold War",
+      "Were triggered by the Kosovo War",
+      "Began after 11 September 2001"
+    ],
+    "answer": 3,
+    "explanation": "The United States launched the War on Terror after the terrorist attacks of 11 September 2001, which shaped world politics for the following two decades.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'African slave trade' to the Americas:",
+    "options": [
+      "Ended with the Abolition of the slave trade by Britain in 1807 and the slave trade across the Atlantic in the nineteenth century",
+      "Continued till 1960",
+      "Was carried out only by Portugal",
+      "Was completely abolished by the British in 1807"
+    ],
+    "answer": 0,
+    "explanation": "Britain abolished the slave trade in 1807, and the Atlantic slave trade was progressively suppressed and finally ended in the mid-nineteenth century.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Industrial Revolution' began in:",
+    "options": [
+      "United States",
+      "France",
+      "Britain",
+      "Germany"
+    ],
+    "answer": 2,
+    "explanation": "The Industrial Revolution began in Britain in the late eighteenth century with the mechanisation of textile production and the use of steam power.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'American Revolution' and the 'French Revolution' were:",
+    "options": [
+      "Nationalist movements",
+      "Bourgeois revolutions",
+      "Peasant revolts",
+      "Anti-colonial wars"
+    ],
+    "answer": 1,
+    "explanation": "Both the American and the French Revolutions were bourgeois revolutions that challenged absolute monarchy and the feudal order.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Treaty of Westphalia' of 1648:",
+    "options": [
+      "Ended the Napoleonic Wars",
+      "Established the Concert of Europe",
+      "Ended the Thirty Years' War and recognised the sovereignty of states",
+      "Created the United States"
+    ],
+    "answer": 2,
+    "explanation": "The Peace of Westphalia in 1648 ended the Thirty Years' War and the Eighty Years' War and is regarded as the origin of the modern state system and of state sovereignty.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Congress of Vienna' of 1815:",
+    "options": [
+      "Created the United States of Europe",
+      "Redrew the borders of India",
+      "Ended the Crimean War",
+      "Restored the balance of power after the Napoleonic Wars"
+    ],
+    "answer": 3,
+    "explanation": "The Congress of Vienna, held in 1814-15, reorganised Europe after the Napoleonic Wars and is known for the restoration of the balance of power.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Crimean War' of 1853-56:",
+    "options": [
+      "Was a European war against the Ottoman Empire and Russia in which Britain and France took part",
+      "Was fought in the Crimea only",
+      "Led to the unification of Germany",
+      "Resulted in the independence of India"
+    ],
+    "answer": 0,
+    "explanation": "The Crimean War, in which Britain and France fought against Russia with the Ottoman Empire, ended in the Treaty of Paris of 1856 and weakened the Russian position in the Balkans.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Unification of Germany' in 1871 was achieved by:",
+    "options": [
+      "Garibaldi",
+      "Napoleon III",
+      "Bismarck",
+      "Metternich"
+    ],
+    "answer": 2,
+    "explanation": "Otto von Bismarck achieved German unification through three wars against Denmark, Austria and France, with the proclamation of the German Empire at Versailles in January 1871.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Russo-Japanese War' and the 'Treaty of Portsmouth':",
+    "options": [
+      "Created the League of Nations",
+      "Fixed the borders of Poland",
+      "Recognised the independence of Korea",
+      "Ended the Russo-Japanese War with Japanese victory over Russia"
+    ],
+    "answer": 3,
+    "explanation": "The Treaty of Portsmouth of 1905 ended the Russo-Japanese War with a Japanese victory, and Russia accepted the loss of its influence in Manchuria and Korea.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Young Turk Revolution' of 1908:",
+    "options": [
+      "Nationalised the railways",
+      "Overthrew the Ottoman Sultan and led to the Second Constitutional Era",
+      "Founded the Republic of Turkey in 1923",
+      "Ended the First Balkan War"
+    ],
+    "answer": 1,
+    "explanation": "The Young Turk Revolution of 1908 restored the Ottoman constitution and parliament and is known as the Second Constitutional Era.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Turkish Republic' was proclaimed in:",
+    "options": [
+      "1923",
+      "1922",
+      "1928",
+      "1919"
+    ],
+    "answer": 0,
+    "explanation": "The Turkish Republic was proclaimed on 29 October 1923 by Mustafa Kemal Ataturk, who became its first president.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Spanish Civil War' of 1936-39:",
+    "options": [
+      "Was a colonial war in Africa",
+      "Was caused by the Treaty of Versailles",
+      "Was fought between the Republicans and the Nationalists led by Franco",
+      "Was a conflict between Russia and Turkey"
+    ],
+    "answer": 2,
+    "explanation": "The Spanish Civil War was fought between the leftist Republicans and the Nationalists led by General Franco, with the involvement of Germany, Italy and the Soviet Union.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Emu War' of 1932:",
+    "options": [
+      "Was the war of 1857",
+      "Was a war in Australia in which the army was defeated by emus",
+      "Was a conflict in Europe",
+      "Was the Battle of the Somme"
+    ],
+    "answer": 1,
+    "explanation": "The Great Emu War of 1932 in Western Australia was a comic military operation in which the soldiers were unable to contain the emu menace.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'World War II' casualties of the 'Holocaust':",
+    "options": [
+      "About one million people died",
+      "No one was killed",
+      "About sixty million soldiers died",
+      "About six million Jews and millions of other victims were killed"
+    ],
+    "answer": 3,
+    "explanation": "The Holocaust, the systematic genocide of about six million Jews by Nazi Germany, also took the lives of Roma, disabled persons, Poles, Soviet POWs and political opponents.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Geneva Conventions' of 1949 relate to:",
+    "options": [
+      "The protection of the victims of armed conflict",
+      "The rules of nuclear proliferation",
+      "The rules of diplomatic asylum",
+      "The definition of the high seas"
+    ],
+    "answer": 0,
+    "explanation": "The four Geneva Conventions of 1949 and the Additional Protocols set out the international humanitarian law protecting the wounded, the prisoners of war and the civilians.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Universal Declaration of Human Rights' was adopted in:",
+    "options": [
+      "1951",
+      "1945",
+      "1948",
+      "1949"
+    ],
+    "answer": 2,
+    "explanation": "The UDHR was adopted by the UN General Assembly on 10 December 1948 in Paris and has been called the 'Magna Carta of humanity'.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Two Blocs' of the Cold War were led by:",
+    "options": [
+      "China and the USSR",
+      "The US and the Soviet Union",
+      "The US and Britain",
+      "France and Germany"
+    ],
+    "answer": 1,
+    "explanation": "The Cold War divided the world into the US-led Western bloc and the Soviet-led Eastern bloc, and the Non-Aligned Movement emerged as a third group.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Berlin Blockade' of 1948-49:",
+    "options": [
+      "Led to the formation of NATO",
+      "Caused the end of the UN",
+      "Was the first space race",
+      "Led to the airlift that supplied West Berlin"
+    ],
+    "answer": 3,
+    "explanation": "The Soviet blockade of the land routes to West Berlin in 1948 was answered by the Berlin Airlift, which lasted nearly a year.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Marshall Plan' and the 'Plan Bleu':",
+    "options": [
+      "Were both American economic programmes",
+      "Were both French programmes",
+      "Were both about decolonisation",
+      "Were both rejected by the Soviet Union without any impact"
+    ],
+    "answer": 0,
+    "explanation": "The Marshall Plan and the Plan Bleu, or the Monnet Plan, were both instruments of economic reconstruction and integration in post-war Europe.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'European Union' originated from the:",
+    "options": [
+      "European Coal and Steel Community of 1951",
+      "Treaty of Rome of 1957 only",
+      "NATO",
+      "The Council of Europe"
+    ],
+    "answer": 0,
+    "explanation": "The European Coal and Steel Community of 1951 was the precursor of the European Economic Community and of today's European Union.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'European Union' currently has how many members?",
+    "options": [
+      "Fifteen",
+      "Twenty-five",
+      "Twenty-seven",
+      "Thirty"
+    ],
+    "answer": 2,
+    "explanation": "The European Union has 27 members after the withdrawal of the United Kingdom in 2020.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Organisation for Economic Co-operation and Development' was formed in:",
+    "options": [
+      "1947",
+      "1961",
+      "1944",
+      "1963"
+    ],
+    "answer": 1,
+    "explanation": "The OECD, which succeeded the OEEC, was established in 1961 with the aim of stimulating economic progress and world trade.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'International Monetary Fund' and the 'World Bank' are known as:",
+    "options": [
+      "The Washington institutions",
+      "The Geneva institutions",
+      "The New York institutions",
+      "The Bretton Woods institutions"
+    ],
+    "answer": 3,
+    "explanation": "The IMF and the World Bank, created at Bretton Woods in 1944, are known as the Bretton Woods institutions.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'International Labour Organization' was established in:",
+    "options": [
+      "1920",
+      "1945",
+      "1914",
+      "1919"
+    ],
+    "answer": 3,
+    "explanation": "The ILO was established in 1919 as part of the Treaty of Versailles, and it became the first specialised agency of the UN in 1946.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'World Health Organization' was established in:",
+    "options": [
+      "1948",
+      "1950",
+      "1946",
+      "1945"
+    ],
+    "answer": 0,
+    "explanation": "The WHO was established on 7 April 1948 with the constitution signed by 61 states and is headquartered in Geneva.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Food and Agriculture Organization' was founded in:",
+    "options": [
+      "1943",
+      "1945",
+      "1948",
+      "1939"
+    ],
+    "answer": 1,
+    "explanation": "The FAO was founded in October 1945 in Quebec City and its headquarters are now in Rome.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'UNESCO' was founded in:",
+    "options": [
+      "1948",
+      "1949",
+      "1945",
+      "1946"
+    ],
+    "answer": 2,
+    "explanation": "UNESCO, the United Nations Educational, Scientific and Cultural Organization, was established on 16 November 1945 in London.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'International Civil Aviation Organization' is headquartered at:",
+    "options": [
+      "Paris",
+      "New York",
+      "Geneva",
+      "Montreal"
+    ],
+    "answer": 3,
+    "explanation": "The ICAO, a specialised agency of the UN, was created by the Chicago Convention of 1944 and has its headquarters in Montreal.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'General Agreement on Tariffs and Trade' (GATT) was signed in:",
+    "options": [
+      "1947",
+      "1964",
+      "1995",
+      "1944"
+    ],
+    "answer": 0,
+    "explanation": "The GATT was signed in Geneva in 1947 and governed international trade for almost half a century before it was replaced by the WTO in 1995.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kennedy Round' and the 'Dillon Round':",
+    "options": [
+      "Were the disarmament talks",
+      "Were the trade negotiation rounds of the GATT",
+      "Were wars",
+      "Were the rounds of the IMF quota review"
+    ],
+    "answer": 1,
+    "explanation": "The Dillon Round (1960-61) and the Kennedy Round (1964-67) were GATT trade rounds that reduced tariffs.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Doha Development Agenda' was launched in:",
+    "options": [
+      "1998",
+      "2005",
+      "2001",
+      "1995"
+    ],
+    "answer": 2,
+    "explanation": "The Doha Development Agenda was launched in November 2001 at the fourth WTO Ministerial Conference in Doha.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Information technology revolution' of the 1990s was driven by:",
+    "options": [
+      "The invention of the steam engine",
+      "The discovery of penicillin",
+      "The construction of the railways",
+      "The invention of the microprocessor and the spread of the personal computer and the internet"
+    ],
+    "answer": 3,
+    "explanation": "The microprocessor, the personal computer and the internet transformed the world economy and the nature of work in the late twentieth century.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'First World War' and the 'Treaty of Brest-Litovsk':",
+    "options": [
+      "Was the treaty of 1919 with Germany",
+      "Was the treaty that ended the war",
+      "Was the peace treaty that Russia signed with the Central Powers",
+      "Was the treaty that created the League of Nations"
+    ],
+    "answer": 2,
+    "explanation": "The Treaty of Brest-Litovsk of March 1918 imposed heavy territorial and financial losses on Russia, which was followed by the Russian Revolution.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Soviet Union' was dissolved in:",
+    "options": [
+      "1989",
+      "1991",
+      "1993",
+      "1985"
+    ],
+    "answer": 1,
+    "explanation": "The Soviet Union was formally dissolved on 26 December 1991, and the Russian Federation became the successor state.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Yalta Conference' of 1945:",
+    "options": [
+      "Was the meeting of Roosevelt, Churchill and Stalin that decided the post-war settlement",
+      "Was the meeting that founded the UN",
+      "Was the meeting that signed the Treaty of Versailles",
+      "Was the meeting of the Non-Aligned Movement"
+    ],
+    "answer": 0,
+    "explanation": "The Yalta Conference of February 1945 among Roosevelt, Churchill and Stalin decided the occupation of Germany, the UN and the entry of the USSR into the war against Japan.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Potsdam Conference' of 1945:",
+    "options": [
+      "Created the European Union",
+      "Ended the Korean War",
+      "Set the terms of the Marshall Plan",
+      "Dealt with the administration of Germany after the war"
+    ],
+    "answer": 3,
+    "explanation": "The Potsdam Conference of July-August 1945 among Truman, Stalin and Churchill dealt with the administration of Germany and the postwar settlement of Europe.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'United Nations Security Council Resolution' establishing the state of Israel was:",
+    "options": [
+      "Resolution 337",
+      "Resolution 181",
+      "Resolution 275",
+      "Resolution 194"
+    ],
+    "answer": 1,
+    "explanation": "UN Security Council Resolution 181 of 1947 recommended the partition of Palestine, and Resolution 194 of 1949 affirmed the right of the Jewish people to statehood.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Korean War' of 1950-53:",
+    "options": [
+      "Was a proxy war between the UN forces and the Chinese and North Korean forces",
+      "Was a war between the Soviet Union and the United States directly",
+      "Led to the formation of NATO",
+      "Resulted in the partition of Germany"
+    ],
+    "answer": 0,
+    "explanation": "The Korean War was fought between the UN Command led by the United States and the forces of North Korea, China and the Soviet Union, and it ended with the division of Korea along the 38th parallel.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vietnam War' and the 'Paris Peace Accords':",
+    "options": [
+      "The accords created the NATO",
+      "The accords recognised the independence of India",
+      "The accords of 1973 provided for the withdrawal of US troops from Vietnam",
+      "The accords ended the First World War"
+    ],
+    "answer": 2,
+    "explanation": "The Paris Peace Accords of January 1973 provided for the withdrawal of the American forces from Vietnam and the reunification of the country.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cuban Missile Crisis' and the 'Hotline' between Moscow and Washington:",
+    "options": [
+      "Was set up in 1963 only",
+      "Was a military command line",
+      "Was set up after the crisis to avoid miscalculation",
+      "Was a commercial telephone line"
+    ],
+    "answer": 2,
+    "explanation": "The direct 'hotline' between Washington and Moscow was established in 1963 after the Cuban Missile Crisis.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Prague' and the 'Havana' and the 'Bandung' are:",
+    "options": [
+      "Sites of the first nuclear tests",
+      "Cities that hosted conferences of significance in the Cold War",
+      "Capitals of NATO countries",
+      "Locations of the world's largest economies"
+    ],
+    "answer": 1,
+    "explanation": "Prague 1968, Havana 1962 and Bandung 1955 were significant conferences in the Cold War and the Cold War's periphery.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Falklands War' of 1982 was between:",
+    "options": [
+      "India and Pakistan",
+      "France and Germany",
+      "Soviet Union and the United States",
+      "Argentina and the United Kingdom"
+    ],
+    "answer": 3,
+    "explanation": "The Falklands War was fought between Argentina and the United Kingdom over the South Atlantic islands, and it influenced the domestic politics of both countries.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Peaceful nuclear tests' of 1998 in Pokhran were condemned by:",
+    "options": [
+      "The United States and the other nuclear weapon states",
+      "The United Nations Security Council",
+      "The European Union only",
+      "The African Union"
+    ],
+    "answer": 0,
+    "explanation": "The nuclear tests of May 1998 drew condemnation from the United States and the other nuclear weapon states, and the sanctions that followed were lifted after the 1999 Kargil conflict.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'End of the Second World War' in Europe is marked by:",
+    "options": [
+      "The unconditional surrender of Germany on 8 May 1945",
+      "The bombing of Hiroshima",
+      "The signing of the UN Charter",
+      "The surrender of Japan"
+    ],
+    "answer": 0,
+    "explanation": "The unconditional surrender of Germany on 8 May 1945, marked by Victory in Europe Day, ended the war in Europe.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'International Court of Justice' at The Hague:",
+    "options": [
+      "Was the court of the League of Nations",
+      "Is the principal judicial organ of the UN",
+      "Is the criminal court of the UN",
+      "Was the predecessor of the International Criminal Court"
+    ],
+    "answer": 1,
+    "explanation": "The ICJ at The Hague is the principal judicial organ of the UN, while the International Criminal Court at The Hague deals with individual criminal responsibility.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'International Criminal Court' was established in:",
+    "options": [
+      "2002",
+      "1994",
+      "1989",
+      "1998"
+    ],
+    "answer": 3,
+    "explanation": "The Rome Statute was adopted in 1998 and the ICC began functioning in 2002 at The Hague, with no jurisdiction over India, Pakistan and the United States.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'European Union' and the 'Euro':",
+    "options": [
+      "The euro is used in the United Kingdom",
+      "The euro was introduced in 2002 only",
+      "The euro was introduced in 1999 as a book money and in 2002 as a currency",
+      "The euro replaced the franc in 1990"
+    ],
+    "answer": 2,
+    "explanation": "The euro was launched as a book currency in 1999 and the euro notes and coins were introduced in 2002.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Green Revolution' in the world and the 'Norman Borlaug':",
+    "options": [
+      "Borlaug was a French scientist",
+      "Borlaug led the Indian space programme",
+      "Borlaug was the father of the White Revolution",
+      "Borlaug developed the semi-dwarf wheat varieties that raised yields"
+    ],
+    "answer": 3,
+    "explanation": "Norman Borlaug developed the semi-dwarf, high-yielding and disease-resistant wheat varieties and received the Nobel Peace Prize for the Green Revolution.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'UNESCO' and the 'General History of India':",
+    "options": [
+      "UNESCO has a general history project of India",
+      "UNESCO publishes the Economic Survey",
+      "UNESCO compiles the Indian Census",
+      "UNESCO awards the Bharat Ratna"
+    ],
+    "answer": 0,
+    "explanation": "UNESCO has undertaken a General History of India project with the Indian Council of Historical Research to document the country's history.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Anglo-Indian' and the 'Indo-Anglian' historiography:",
+    "options": [
+      "Both terms refer to the British army",
+      "The term Indo-Anglian is preferred in recent scholarship",
+      "Anglo-Indian refers to the people of mixed descent",
+      "Indo-Anglian refers to the East India Company"
+    ],
+    "answer": 1,
+    "explanation": "Recent scholarship has preferred 'Indo-Anglian' over 'Anglo-Indian' for the colonial period, and the change was advocated in the Cambridge History of India volumes.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Revolt of 1857' and the 'First War of Independence':",
+    "options": [
+      "It was named the Great Rebellion by the British",
+      "It was named the Mutiny by the Indian National Congress",
+      "The title First War of Independence was used by V.D. Savarkar and others",
+      "It was called the Sepoy Mutiny officially from the beginning"
+    ],
+    "answer": 2,
+    "explanation": "The title of First War of Independence was popularised by V.D. Savarkar and later historians to stress the national character of the revolt, which the British called the Sepoy Mutiny.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vellore Mutiny' of 1806:",
+    "options": [
+      "Was the mutiny of the sailors of the Royal Indian Navy",
+      "Was a revolt by the sepoys in the Vellore fort",
+      "Was a peasant rising in Awadh",
+      "Was the mutiny of the Bengal army in 1857"
+    ],
+    "answer": 1,
+    "explanation": "The Vellore Mutiny of 1806 was an earlier sepoy revolt at the Vellore fort, before the Revolt of 1857.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Revolt of 1857' centred on:",
+    "options": [
+      "Bombay and Madras",
+      "Bengal and Orissa",
+      "Punjab and Sindh only",
+      "Meerut, Delhi and Kanpur"
+    ],
+    "answer": 3,
+    "explanation": "The Revolt of 1857 broke out at Meerut on 10 May 1857, seized Delhi and Kanpur and spread to the north-western provinces, Bihar and central India.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rani of Jhansi' and the 'Tantura Tope':",
+    "options": [
+      "Both were leaders of the INA",
+      "Both were martyrs of the Non-Cooperation Movement",
+      "Rani Lakshmibai of Jhansi and Tantura Tope were leaders of the Revolt of 1857",
+      "Both were leaders of the 1942 movement"
+    ],
+    "answer": 2,
+    "explanation": "Rani Lakshmibai of Jhansi and Tantura Tope, along with Kunwar Singh, Begum Hazrat Mahal and Bakht Khan, were the leaders of the Revolt of 1857.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bahadur Shah Zafar' was the last:",
+    "options": [
+      "Mughal emperor",
+      "Sultan of the Delhi Sultanate",
+      "Sher Shah's successor",
+      "Governor of Bengal"
+    ],
+    "answer": 0,
+    "explanation": "Bahadur Shah Zafar, the last Mughal emperor, was captured and exiled to Rangoon after the Revolt of 1857 and wrote his memoirs as a poet in Persian.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Maukhly' and the 'Mansabdari' systems:",
+    "options": [
+      "Mansabdari was a revenue-military ranking system of the Mughals",
+      "Maukhly was a land revenue system of the British",
+      "Both were systems of the Vijayanagara empire",
+      "Both were systems of the Marathas"
+    ],
+    "answer": 0,
+    "explanation": "The mansabdari system assigned mansabdars a rank in the military-cum-revenue hierarchy and the muqta was the revenue assignment, both central to the Mughal administration.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mughal' and the 'Ain-i-Dahsala':",
+    "options": [
+      "Ain-i-Dahsala was written by Birbal",
+      "It was a legal code by Aurangzeb",
+      "It was a revenue atlas",
+      "Ain-i-Dahsala by Abul Fazl described the mansabdari system"
+    ],
+    "answer": 3,
+    "explanation": "The Ain-i-Dahsala, the third book of Abul Fazl's Ain-i-Akbari, describes the mansabdari system of ranking and the rules of service.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jagirdari' system of the Mughals:",
+    "options": [
+      "A system of irrigation",
+      "A system of minting coins",
+      "A land revenue assignment in lieu of salary with an obligation to maintain troops",
+      "A tax-free grant to religious institutions"
+    ],
+    "answer": 2,
+    "explanation": "The jagirdari system assigned revenue rights in exchange for military service, and the crisis of the jagirdari system contributed to the decline of the Mughals.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Zabt' system of land revenue:",
+    "options": [
+      "A system of trade tariffs",
+      "A system of assessment and collection of land revenue at prescribed rates in the Mughal era",
+      "A system of military recruitment",
+      "A system of irrigation"
+    ],
+    "answer": 1,
+    "explanation": "The zabt system, associated with Todar Mal's revenue reforms in the 1580s, standardised the assessment and collection of revenue across the empire.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Todar Mal' and his 'Bandobast':",
+    "options": [
+      "Todar Mal founded the Mughal school of painting",
+      "Todar Mal's revenue reforms and the bandobast or land measurement",
+      "Todar Mal was a Mughal general",
+      "The bandobast was the jagirdari system"
+    ],
+    "answer": 1,
+    "explanation": "Todar Mal, a minister of Akbar, introduced the zabt system with the bandobast, a systematic measurement of land and the fixing of revenue rates.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Charkhal' and the 'Dahsala' are:",
+    "options": [
+      "Land revenue systems of the Mughal era",
+      "Military campaigns of Aurangzeb",
+      "Rebellions against Akbar",
+      "Trade routes of the Marathas"
+    ],
+    "answer": 0,
+    "explanation": "The charkhal and the dahsala were alternative systems of land revenue assessment and collection in the Mughal period.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mughal' and the 'Amān' and the 'Nizamat' systems:",
+    "options": [
+      "They were the systems of grants to the religious endowments",
+      "They were the naval forces of the empire",
+      "The amān and nizamat systems were the revenue arrangements in Bengal",
+      "They were the judicial systems of the Mughals"
+    ],
+    "answer": 2,
+    "explanation": "In Bengal the Mughal administration combined the amān system of revenue farming with the nizamat system of direct state control, with the latter eventually prevailing.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Subahdars' and the 'Sarkars' and the 'Parganas' were:",
+    "options": [
+      "The units of the Maratha revenue system",
+      "The revenue circles of the British",
+      "The judicial units of the Delhi Sultanate",
+      "The administrative divisions of the Mughal empire"
+    ],
+    "answer": 3,
+    "explanation": "The Mughal administrative hierarchy ran from the subah or province, through the sarkar or district, to the pargana or the smaller revenue unit.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Shah Jahan' and the 'jizya':",
+    "options": [
+      "Shah Jahan abolished the jizya in 1655",
+      "Shah Jahan doubled the jizya",
+      "Shah Jahan imposed the jizya on the Brahmins",
+      "Shah Jahan was the last to collect it"
+    ],
+    "answer": 0,
+    "explanation": "Shah Jahan abolished the jizya in 1655 and made the dues of the non-Muslims part of the general land revenue, while Aurangzeb reimposed it in 1679.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aurangzeb' and the 'Padshahnama':",
+    "options": [
+      "It is a legal code of Aurangzeb",
+      "It is an account of the Marathas",
+      "It is a translation of the Bible",
+      "The Padshahnama of Abdul Hamid Lahori is a court chronicle of Aurangzeb's reign"
+    ],
+    "answer": 3,
+    "explanation": "The Padshahnama, written by Abdul Hamid Lahori, is a court chronicle of Aurangzeb's reign and one of the chief sources for the period.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aurangzeb' and his 'orders' regarding the jizya:",
+    "options": [
+      "He never imposed it",
+      "He collected it only from the Hindus",
+      "He reimposed the jizya in 1679",
+      "He abolished it in 1679"
+    ],
+    "answer": 2,
+    "explanation": "Aurangzeb reimposed the jizya in 1679 and his religious policies are generally held to have alienated the Rajputs and the Marathas and contributed to the empire's decline.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Maratha Confederacy' and the 'Peshwas':",
+    "options": [
+      "The Confederacy was led by the Nizam",
+      "The Peshwas were the prime ministers of the Maratha state",
+      "The Confederacy was a European alliance",
+      "The Peshwas were the revenue farmers in Bengal"
+    ],
+    "answer": 1,
+    "explanation": "After the death of Shivaji, the Maratha state developed into a confederacy of semi-autonomous states, with the Peshwa of Pune exercising a loose authority over them.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Treaty of Bassein' of 1802:",
+    "options": [
+      "Recognised Shivaji as the founder of the state",
+      "Was signed with the Nizam",
+      "Was between the Peshwa Baji Rao II and the British East India Company",
+      "Ended the Anglo-Maratha wars"
+    ],
+    "answer": 2,
+    "explanation": "The Treaty of Bassein in December 1802 made the Peshwa a subsidiary ally of the Company and paved the way for British control of the Maratha state.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Anglo-Maratha Wars' were fought in:",
+    "options": [
+      "1803-1805 only",
+      "1818 only",
+      "1748-1761",
+      "1775-1818"
+    ],
+    "answer": 3,
+    "explanation": "The three Anglo-Maratha wars were fought between 1775 and 1818, ending with the defeat of the Maratha confederacy.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Shivaji' and his 'Ashta Pradhan':",
+    "options": [
+      "The eight chief ministers of the Peshwas",
+      "The eight ministers of Shivaji's council",
+      "The nine battles fought by Shivaji",
+      "The eight provinces of the Maratha state"
+    ],
+    "answer": 1,
+    "explanation": "The Ashta Pradhan, or the council of eight ministers, was Shivaji's inner council that assisted him in the administration of the Maratha state.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Swaraj' and the 'Asthaprabhu' and the 'Mauji' taxation of Shivaji:",
+    "options": [
+      "The measurement of land and a system of tribute in his revenue system",
+      "A naval fleet",
+      "A system of religious grants",
+      "A system of judicial courts"
+    ],
+    "answer": 0,
+    "explanation": "Shivaji's revenue system combined the asthaprabhu land measurement with the mauji system of assessment and collection of land revenue.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gad' and the 'Mandal' and the 'Hill forts' of Shivaji:",
+    "options": [
+      "The two revenue divisions",
+      "The units of the Maratha navy",
+      "The fortified hill stations of the Marathas",
+      "The taxes levied on traders"
+    ],
+    "answer": 2,
+    "explanation": "The Maratha state had around 300 hill forts, which served as fortified strongholds, treasury and garrison stations.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kanhoji Angre' and the 'Siddi' of the Maratha navy:",
+    "options": [
+      "The naval commander of the Marathas and the Maratha corsairs on the west coast",
+      "The founders of the Bombay Presidency",
+      "The commanders of the infantry",
+      "The envoys to the Portuguese"
+    ],
+    "answer": 0,
+    "explanation": "Kanhoji Angre was the admiral of the Maratha navy and the siddis were the Maratha maritime raiders who operated from the west coast ports.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Peshwa' and the 'adoption' of 'Peshwa Baji Rao II' by the British:",
+    "options": [
+      "The British abolished the Peshwa office in 1818",
+      "Baji Rao II defeated the British",
+      "The Peshwa was recognised as the ruler of the Maratha state",
+      "The British supported Baji Rao II as a puppet and then interned him"
+    ],
+    "answer": 3,
+    "explanation": "The British installed Baji Rao II as a figurehead Peshwa under the Treaty of Bassein and, after the Third Anglo-Maratha War, interned him at Bithur near Kanpur until his death in 1852.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Regulating Act of 1773' provided for a Governor General of:",
+    "options": [
+      "The Presidency of Fort William",
+      "Bengal",
+      "Madras",
+      "Bombay"
+    ],
+    "answer": 1,
+    "explanation": "The Act designated the Governor of Bengal as the Governor General of Bengal, with the Governors of Madras and Bombay becoming subordinate to him.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sadar Board' of revenue was introduced by:",
+    "options": [
+      "Warren Hastings",
+      "Lord Wellesley",
+      "Lord Cornwallis",
+      "Thomas Munro"
+    ],
+    "answer": 3,
+    "explanation": "Thomas Munro, as the Governor of Madras, expanded the ryotwari system and set up the Sadar Board to supervise the revenue administration.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bourbon' and the 'Habsburg' and the 'Hohenzollern' dynasties are European:",
+    "options": [
+      "Trade guilds",
+      "Royal houses",
+      "Trading companies",
+      "Military alliances"
+    ],
+    "answer": 1,
+    "explanation": "The Bourbon, Habsburg, Hohenzollern and Romanov houses were the ruling dynasties of Europe in the nineteenth century.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Zimmerman Telegram' of 1917:",
+    "options": [
+      "Was the French declaration of war",
+      "Was a peace proposal from the Pope",
+      "Was a German proposal to Mexico for an alliance against the United States",
+      "Was the British ultimatum to Germany"
+    ],
+    "answer": 2,
+    "explanation": "The Zimmerman Telegram, in which Germany proposed a military alliance with Mexico against the United States, helped bring America into the First World War.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sinking of the Lusitania' in 1915:",
+    "options": [
+      "Was a British passenger liner torpedoed by a German submarine",
+      "Was a German warship sunk by the British",
+      "Was a French ship captured by the Ottomans",
+      "Was an American vessel destroyed by a mine"
+    ],
+    "answer": 0,
+    "explanation": "The sinking of the Lusitania by a German U-boat in May 1915 killed 1,198 people, of whom 128 were Americans, and sharply increased American hostility to Germany.",
+    "difficulty": "medium",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bolshevik Revolution' of 1917 was led by:",
+    "options": [
+      "Lenin and Trotsky",
+      "Stalin",
+      "Nicholas II",
+      "Kerensky"
+    ],
+    "answer": 0,
+    "explanation": "The Bolsheviks under Lenin and Trotsky seized power in Petrograd in November 1917, and the Treaty of Brest-Litovsk followed in 1918.",
+    "difficulty": "easy",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Treaty of Rapallo' of 1922 was between:",
+    "options": [
+      "France and Germany",
+      "Italy and Yugoslavia",
+      "Germany and the Soviet Union",
+      "Germany and Poland"
+    ],
+    "answer": 2,
+    "explanation": "The Treaty of Rapallo between Germany and the Soviet Union recognised the Soviet state and led to the secret German-Soviet military cooperation of the interwar period.",
+    "difficulty": "hard",
+    "category": "world-history",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

@@ -1,0 +1,3662 @@
+[
+  {
+    "q": "Article 1 of the Constitution deals with:",
+    "options": [
+      "The territories",
+      "The name of India",
+      "The Union of States",
+      "The citizenship"
+    ],
+    "answer": 1,
+    "explanation": "Article 1(1) states that India, that is Bharat, shall be a Union of States, and Article 1(2) in the Seventh Schedule lists the states and the union territories.",
+    "difficulty": "easy",
+    "category": "constitution-making",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Second Schedule' of the Constitution lists:",
+    "options": [
+      "The salaries of the officials",
+      "The taxes",
+      "The states",
+      "The languages"
+    ],
+    "answer": 3,
+    "explanation": "The Second Schedule lists the languages recognized by the Constitution, which is 24 at present, with Hindi and English as the official languages of the Union.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Third Schedule' of the Constitution lists:",
+    "options": [
+      "The forms of the oaths and the affirmations",
+      "The states",
+      "The languages",
+      "The taxes"
+    ],
+    "answer": 0,
+    "explanation": "The Third Schedule contains the forms of the oaths and the affirmations for the President, the ministers, the judges, the CAG and the legislators.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Fourth Schedule' of the Constitution lists:",
+    "options": [
+      "The taxes",
+      "The Rajya Sabha seats",
+      "The tribal areas in Assam, Meghalaya, Tripura and Mizoram",
+      "The official languages"
+    ],
+    "answer": 2,
+    "explanation": "The Fourth Schedule, added by the Fifth and the Sixth Schedules Amendment Act of 1976, lists the tribal areas of Assam, Meghalaya, Tripura and Mizoram.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Fifth Schedule' deals with the administration of:",
+    "options": [
+      "The union territories",
+      "The Scheduled Areas and the Scheduled Tribes",
+      "The tribal areas of the northeast",
+      "The official languages"
+    ],
+    "answer": 1,
+    "explanation": "The Fifth Schedule deals with the administration and the governance of the Scheduled Areas and the Scheduled Tribes, and the governor has the special powers there.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Sixth Schedule' deals with:",
+    "options": [
+      "The tribal areas of Assam, Meghalaya, Tripura and Mizoram",
+      "The Scheduled Areas of the rest of India",
+      "The Panchayats",
+      "The municipalities"
+    ],
+    "answer": 0,
+    "explanation": "The Sixth Schedule provides for the administration of the tribal areas of Assam, Meghalaya, Tripura and Mizoram by the autonomous district councils.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Seventh Schedule' contains:",
+    "options": [
+      "The languages",
+      "The states",
+      "The taxes",
+      "The three lists of the Union and the state subjects"
+    ],
+    "answer": 3,
+    "explanation": "The Seventh Schedule contains the three lists, the Union List of 100 subjects, the State List of 61 subjects and the Concurrent List of 52 subjects.",
+    "difficulty": "easy",
+    "category": "constitution-making",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Eighth Schedule' contains:",
+    "options": [
+      "The tribal languages",
+      "The 12 languages recognized by the Constitution",
+      "The states",
+      "The languages of the minority"
+    ],
+    "answer": 1,
+    "explanation": "The Eighth Schedule lists the 12 languages that were originally recognized by the Constitution, and the 92nd Amendment added Bodo, Dogri, Maithili and Santhali.",
+    "difficulty": "easy",
+    "category": "constitution-making",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Ninth Schedule' contains:",
+    "options": [
+      "The languages",
+      "The states",
+      "The official languages",
+      "The laws that are protected from the judicial review"
+    ],
+    "answer": 3,
+    "explanation": "The Ninth Schedule, added by the First Amendment of 1951, contains the laws that are protected from the judicial review, and it now has more than 300 entries.",
+    "difficulty": "easy",
+    "category": "constitution-making",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Tenth Schedule' contains:",
+    "options": [
+      "The lands",
+      "The Panchayats",
+      "The anti-defection provisions",
+      "The languages"
+    ],
+    "answer": 2,
+    "explanation": "The Tenth Schedule, added by the 52nd Amendment of 1985, contains the anti-defection provisions, and the 91st Amendment of 2003 made the disqualification provisions applicable to the judicial and the election commissioners.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Eleventh Schedule' contains:",
+    "options": [
+      "The 21 fundamental duties",
+      "The 8 languages",
+      "The 12 languages",
+      "The 100 subjects"
+    ],
+    "answer": 0,
+    "explanation": "The Eleventh Schedule, added by the 42nd Amendment of 1976, lists the 21 fundamental duties of the citizen.",
+    "difficulty": "medium",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Twelfth Schedule' contains:",
+    "options": [
+      "The powers of the Panchayats",
+      "The list of the languages",
+      "The list of the states",
+      "The powers and the privileges of the municipalities"
+    ],
+    "answer": 3,
+    "explanation": "The Twelfth Schedule, added by the 74th Amendment of 1992, lists the powers and the privileges of the municipalities, and the Eleventh Schedule lists those of the Panchayats.",
+    "difficulty": "hard",
+    "category": "constitution-making",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 368' provides for:",
+    "options": [
+      "The federalism",
+      "The right to information",
+      "The power of Parliament to amend the Constitution",
+      "The judicial review"
+    ],
+    "answer": 2,
+    "explanation": "Article 368 in Part XX provides for the powers and the procedure of the amendment of the Constitution.",
+    "difficulty": "easy",
+    "category": "constitutional-amendments",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "An amendment to the Constitution can be made:",
+    "options": [
+      "Only by the Parliament and in the prescribed procedure",
+      "Only by a referendum",
+      "Only by the President",
+      "Only by the Supreme Court"
+    ],
+    "answer": 0,
+    "explanation": "The constituent power is vested in Parliament, and the procedure in Article 368 applies, subject to the basic structure doctrine.",
+    "difficulty": "easy",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kesavananda Bharati' case of 1973 held that:",
+    "options": [
+      "The doctrine of judicial review does not apply to the amendments",
+      "Parliament can amend any part of the Constitution but cannot alter the basic structure",
+      "Parliament cannot amend the Constitution at all",
+      "The basic structure can be amended by a simple majority"
+    ],
+    "answer": 1,
+    "explanation": "The majority opinion in Kesavananda Bharati, with the 7-6 verdict, laid down the basic structure doctrine, and the case was heard again in 1980 to resolve the controversy.",
+    "difficulty": "medium",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Minerva Mills' case of 1980 held that:",
+    "options": [
+      "The Directive Principles are enforceable by the courts",
+      "The harmony and the balance between the parts of the Constitution is an element of the basic structure",
+      "Parliament can amend the fundamental rights",
+      "The Fundamental Rights have priority over the Directive Principles"
+    ],
+    "answer": 1,
+    "explanation": "In Minerva Mills the Supreme Court held that the harmony and the balance between the fundamental rights and the Directive Principles is an element of the basic structure, and that neither is absolute.",
+    "difficulty": "hard",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT a basic feature of the Constitution identified by the Supreme Court?",
+    "options": [
+      "The separation of powers",
+      "Judicial review",
+      "The right to own a private property as an absolute right",
+      "The supremacy of the Constitution"
+    ],
+    "answer": 2,
+    "explanation": "The right to property was removed from the fundamental rights by the 44th Amendment and is not a basic feature, though the reasonableness of the restrictions on it is protected.",
+    "difficulty": "hard",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 13' of the Constitution:",
+    "options": [
+      "Provides for the judicial review and declares the laws inconsistent with the fundamental rights to be void",
+      "Provides for the right to equality",
+      "Provides for the writs",
+      "Provides for the Right to Information"
+    ],
+    "answer": 0,
+    "explanation": "Article 13 is the source of the power of the judicial review, and it declares that the laws inconsistent with the Part III rights are void.",
+    "difficulty": "easy",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 14' of the Constitution:",
+    "options": [
+      "Guarantees the freedom of religion",
+      "Guarantees the right to life",
+      "Guarantees the right to property",
+      "Guarantees equality before law and equal protection of the laws"
+    ],
+    "answer": 3,
+    "explanation": "Article 14 guarantees the equality before the law and the equal protection of the laws within the territory of India.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 19' guarantees the six freedoms to every citizen, except:",
+    "options": [
+      "Freedom of speech and expression",
+      "Freedom of movement",
+      "Freedom of the press",
+      "Freedom to own and manage a business"
+    ],
+    "answer": 2,
+    "explanation": "Article 19 guarantees the freedom of speech and expression, of assembly, of association, of movement, of residence and of profession, and the freedom of the press flows from the freedom of speech and expression.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 22' of the Constitution provides protection against:",
+    "options": [
+      "Forced labour",
+      "Arrest and detention in certain cases",
+      "Ex-post facto laws",
+      "Double jeopardy"
+    ],
+    "answer": 1,
+    "explanation": "Article 22 provides the protection against the arrest and the detention in certain cases, the right to be informed of the grounds, the right to consult and to be defended by a legal practitioner and the right to be produced before the nearest magistrate within 24 hours.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 21' includes the right to:",
+    "options": [
+      "Property",
+      "Freedom of the trade",
+      "Equality",
+      "Life and personal liberty"
+    ],
+    "answer": 3,
+    "explanation": "Article 21 provides that no person shall be deprived of his life or personal liberty except according to the procedure established by law.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'right to property' is now contained in:",
+    "options": [
+      "Article 300A",
+      "Article 19(1)(g)",
+      "Article 31",
+      "Article 21"
+    ],
+    "answer": 0,
+    "explanation": "The 44th Amendment of 1978 removed the right to property from the Part III and inserted Article 300A, which provides that no person shall be deprived of his property save by the authority of law.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 32' can be moved only in the:",
+    "options": [
+      "District Court",
+      "Tribunal",
+      "Supreme Court",
+      "High Court"
+    ],
+    "answer": 2,
+    "explanation": "The right to move the Supreme Court for the enforcement of the fundamental rights is guaranteed by Article 32 and it cannot be suspended except as provided by Article 359.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 226' of the Constitution:",
+    "options": [
+      "Is about the transfer of cases",
+      "Empowers the High Courts to issue the writs for the enforcement of the fundamental rights",
+      "Empowers the Supreme Court to issue the writs",
+      "Abolishes the writ system"
+    ],
+    "answer": 1,
+    "explanation": "Article 226 empowers the High Courts to issue the directions or the orders or the writs for the enforcement of the fundamental rights and for any other purpose.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'writ of habeas corpus' is issued to:",
+    "options": [
+      "Bring the detained person before the court",
+      "Command the public authority to perform its duty",
+      "Quash the order of a lower court",
+      "Prevent the lower court from proceeding"
+    ],
+    "answer": 0,
+    "explanation": "Habeas corpus means to have the body of, and it is issued for the production of a person who is detained illegally.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'writ of mandamus' is issued:",
+    "options": [
+      "To enforce a fundamental right only",
+      "To quash the order of a tribunal",
+      "To produce a detained person",
+      "By a higher court to a lower court or a public authority"
+    ],
+    "answer": 3,
+    "explanation": "Mandamus is issued by a higher court to a lower court, a tribunal or a public authority to perform a duty which it has failed to perform.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'writ of certiorari' is issued to:",
+    "options": [
+      "Quash the order of a lower court or a tribunal for excess of jurisdiction",
+      "Produce a detained person",
+      "Command the public authority",
+      "Transfer a case from one court to another"
+    ],
+    "answer": 0,
+    "explanation": "Certiorari is issued to quash the order of a lower court or a tribunal acting beyond its jurisdiction or acting illegally or improperly.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'writ of prohibition' is issued to:",
+    "options": [
+      "Command the public authority",
+      "Stop a lower court from exceeding its jurisdiction",
+      "Quash the order of a lower court",
+      "Produce a detained person"
+    ],
+    "answer": 1,
+    "explanation": "Prohibition is issued to a lower court to stop it from proceeding with a matter that is beyond its jurisdiction, and it is issued only to the judicial and the quasi-judicial bodies.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 44' directs the state to endeavour to secure:",
+    "options": [
+      "The protection of the monuments",
+      "The promotion of the peace",
+      "A uniform civil code",
+      "Free education"
+    ],
+    "answer": 2,
+    "explanation": "Article 44 directs the state to endeavour to secure for the citizens a uniform civil code throughout the territory of India.",
+    "difficulty": "easy",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 43' directs the state to:",
+    "options": [
+      "Promote the scientific research",
+      "Raise the nutrition level",
+      "Encourage the spirit of the scientific inquiry",
+      "Promote the cottage industries in the rural areas"
+    ],
+    "answer": 3,
+    "explanation": "Article 43, added by the 42nd Amendment, directs the state to promote the cottage industries in the rural areas, the individual and the cottage industries and the cooperative enterprises.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 48A' relates to:",
+    "options": [
+      "The care of the unborn child",
+      "The promotion of the cottage industries",
+      "The protection and the improvement of the environment and the safeguarding of the forests and the wildlife",
+      "The protection of the monuments"
+    ],
+    "answer": 2,
+    "explanation": "Article 48A, inserted by the 42nd Amendment of 1976, provides that the state shall endeavour to protect and improve the environment and to safeguard the forests and the wildlife.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 51' was amended by the 42nd Amendment to include:",
+    "options": [
+      "The protection of the environment",
+      "The free and compulsory education",
+      "The uniform civil code",
+      "The promotion of the international peace and the just and honourable relations between the nations"
+    ],
+    "answer": 3,
+    "explanation": "The 42nd Amendment added the words about the promotion of the international peace and the just and honourable relations between the nations and the fostering of the respect for the international law and the treaty obligations.",
+    "difficulty": "hard",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Fundamental Duties' were recommended by the committee of:",
+    "options": [
+      "Sarkar",
+      "Swaran Singh",
+      "Balwant Rai Mehta",
+      "Kothari"
+    ],
+    "answer": 1,
+    "explanation": "The Swaran Singh Committee of 1976 recommended the inclusion of the fundamental duties, which the 42nd Amendment implemented in the same year.",
+    "difficulty": "medium",
+    "category": "fundamental-duties",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 51A' was amended by the 86th Amendment to add the duty of the parent to:",
+    "options": [
+      "Provide opportunities for education to the child between the ages of six and fourteen",
+      "Protect the environment",
+      "Improve the public health",
+      "Respect the national flag"
+    ],
+    "answer": 0,
+    "explanation": "The 86th Amendment of 2002 added the duty of the parent or the guardian to provide opportunities for education to the child or the ward between the ages of six and fourteen years.",
+    "difficulty": "medium",
+    "category": "fundamental-duties",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a Fundamental Duty?",
+    "options": [
+      "To pay taxes",
+      "To protect and improve the natural environment",
+      "To serve in the armed forces",
+      "To vote in the elections"
+    ],
+    "answer": 1,
+    "explanation": "The duty to protect and improve the natural environment, to have compassion for the living creatures and to develop the scientific temper are among the eleven fundamental duties.",
+    "difficulty": "easy",
+    "category": "fundamental-duties",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 3' of the Constitution provides for:",
+    "options": [
+      "The admission of the new states into the Union",
+      "The citizenship",
+      "The redistribution of the territories",
+      "The formation of the new states and the alteration of the areas and the boundaries of the existing states"
+    ],
+    "answer": 3,
+    "explanation": "Article 3 deals with the formation of the new states and the increase or the diminution of the area of a state, and Article 2 with the admission of the new states.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 246' and the 'distribution of the legislative subjects:",
+    "options": [
+      "Gives the legislative powers of the Union, the states and the concurrent",
+      "Is about the emergency",
+      "Is about the judiciary",
+      "Is about the elections"
+    ],
+    "answer": 0,
+    "explanation": "Article 246 lays down the distribution of the legislative subjects: the Union List under Article 246, the State List under Article 246 and the Concurrent List under Article 246.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 280' of the Constitution relates to:",
+    "options": [
+      "The CAG",
+      "The UPSC",
+      "The Finance Commission",
+      "The Election Commission"
+    ],
+    "answer": 2,
+    "explanation": "Article 280 provides for the constitution of a Finance Commission by the President every fifth year.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 324' of the Constitution:",
+    "options": [
+      "Vests the superintendence, direction and control of the elections in the Election Commission",
+      "Deals with the advisory jurisdiction of the Supreme Court",
+      "Provides for the Finance Commission",
+      "Deals with the emergency"
+    ],
+    "answer": 0,
+    "explanation": "Article 324 vests the superintendence, direction and control of the entire process of the elections in the Election Commission of India.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 326' of the Constitution:",
+    "options": [
+      "Provides for the voters' list",
+      "Provides for the right to vote at the elections",
+      "Provides for the delimitation of the constituencies",
+      "Provides for the Electoral Court"
+    ],
+    "answer": 1,
+    "explanation": "Article 326 provides that no person shall be disqualified from the right to vote on the ground of religion, race, caste or sex, and the 61st Amendment fixed the voting age at 18.",
+    "difficulty": "medium",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 325' of the Constitution:",
+    "options": [
+      "Deals with the nominated members",
+      "Deals with the voting by proxy",
+      "Provides for the one general electoral roll for every territorial constituency",
+      "Deals with the delimitation"
+    ],
+    "answer": 2,
+    "explanation": "Article 325 provides that there shall be one general electoral roll for every territorial constituency and the principle of one person one vote one value.",
+    "difficulty": "hard",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 330' of the Constitution:",
+    "options": [
+      "Provides for the strength of the Lok Sabha",
+      "Provides for the qualifications of the members",
+      "Provides for the Speaker",
+      "Provides for the allocation of the seats to the Scheduled Castes and the Scheduled Tribes in the Lok Sabha"
+    ],
+    "answer": 3,
+    "explanation": "Article 330 provides for the reservation of the seats for the Scheduled Castes and the Scheduled Tribes in the Lok Sabha and in the state assemblies.",
+    "difficulty": "medium",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 356' of the Constitution provides:",
+    "options": [
+      "For the financial emergency",
+      "For the President's ordinance",
+      "For the President's Rule in a state",
+      "For the national emergency"
+    ],
+    "answer": 2,
+    "explanation": "Article 356 provides for the President's Rule when the constitutional machinery of a state fails, and the governor's report or the president's certification is the precondition.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 360' of the Constitution provides for:",
+    "options": [
+      "The financial emergency",
+      "The national emergency",
+      "The President's Rule",
+      "The ordinance"
+    ],
+    "answer": 0,
+    "explanation": "Article 360 provides for the financial emergency, which has never been declared in India.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 352' of the Constitution:",
+    "options": [
+      "Provides for the President's Rule",
+      "Provides for the financial emergency",
+      "Provides for the ordinance",
+      "Provides for the national emergency"
+    ],
+    "answer": 3,
+    "explanation": "Article 352 provides for the national emergency, and the 44th Amendment made the proclamation subject to the approval of both the houses within one month.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 353' of the Constitution provides for:",
+    "options": [
+      "The President's Rule",
+      "The emergency powers of the Union during a national emergency",
+      "The financial emergency",
+      "The ordinance"
+    ],
+    "answer": 1,
+    "explanation": "Article 353 empowers the Centre to assume to itself the powers of the state governments during a national emergency, and the 44th Amendment made the exercise of these powers subject to the parliamentary approval.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 355' of the Constitution provides for:",
+    "options": [
+      "The President",
+      "The duty of the Union to protect the states against internal disturbance",
+      "The emergency provisions",
+      "The ordinance"
+    ],
+    "answer": 1,
+    "explanation": "Article 355 lays down the duty of the Union to protect the states against internal disturbance and to ensure that the integrity and the sovereignty of the Republic is respected.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 365' of the Constitution provides:",
+    "options": [
+      "That the governance of a state under the President's Rule is vested in the President",
+      "For the emergency",
+      "For the ordinance",
+      "For the elections"
+    ],
+    "answer": 0,
+    "explanation": "Article 365 provides that when a state is under the President's Rule, the governance of the state is vested in the President.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 262' of the Constitution relates to:",
+    "options": [
+      "The emergency",
+      "The local government",
+      "The adjudication of the inter-state water disputes",
+      "The residuary powers"
+    ],
+    "answer": 2,
+    "explanation": "Article 262 provides for the adjudication of the disputes relating to the waters of the inter-state rivers and the river valleys and for the tribunals for that purpose.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Inter-State Council' was created in:",
+    "options": [
+      "1975",
+      "1985",
+      "1995",
+      "1990"
+    ],
+    "answer": 3,
+    "explanation": "The Inter-State Council was established in 1990 by an executive resolution of the Union government to inquire into and advise upon the disputes between the states and the subjects of the common interest.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The '15th Finance Commission' recommended the devolution of:",
+    "options": [
+      "45 per cent",
+      "50 per cent",
+      "36 per cent",
+      "41 per cent of the divisible pool to the states"
+    ],
+    "answer": 3,
+    "explanation": "The 15th Finance Commission recommended the devolution of 41 per cent of the divisible pool to the states for 2021-26 and the vertical distribution of the taxes.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 110' of the Constitution defines:",
+    "options": [
+      "The sessions of the Parliament",
+      "The quorum",
+      "A money bill",
+      "The privileges of the members"
+    ],
+    "answer": 2,
+    "explanation": "Article 110 lists the matters that are to be treated as money bills and the procedures for them, and the Speaker of the Lok Sabha certifies them.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 109' of the Constitution deals with:",
+    "options": [
+      "The privileges",
+      "The special procedure for the financial bills",
+      "The money bill",
+      "The quorum"
+    ],
+    "answer": 1,
+    "explanation": "Article 109 provides the special procedure for the financial bills, and the money bill is governed by Article 110 and Article 112.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 105' of the Constitution:",
+    "options": [
+      "Deals with the privileges of the members of the Parliament",
+      "Deals with the money bill",
+      "Deals with the joint sitting",
+      "Deals with the quorum"
+    ],
+    "answer": 0,
+    "explanation": "Article 105 provides for the privileges of the members of the Parliament and Article 106 for those of the state legislatures.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 85' of the Constitution deals with:",
+    "options": [
+      "The money bill",
+      "The privileges",
+      "The Speaker",
+      "The sessions of the Parliament"
+    ],
+    "answer": 3,
+    "explanation": "Article 85 provides for the sessions of the Parliament, the summoning, the prorogation and the dissolution and the adjournment sine die.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 100' of the Constitution relates to:",
+    "options": [
+      "The Speaker and the Deputy Speaker of the Lok Sabha",
+      "The Chairman of the Rajya Sabha",
+      "The sessions",
+      "The quorum"
+    ],
+    "answer": 0,
+    "explanation": "Article 100 provides for the office of the Speaker and the Deputy Speaker of the Lok Sabha, and Article 101 for the vacation of the office.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 102' of the Constitution deals with:",
+    "options": [
+      "The Speaker",
+      "The disqualifications of the members of the Parliament",
+      "The sessions",
+      "The privileges"
+    ],
+    "answer": 1,
+    "explanation": "Article 102 lists the disqualifications of the members of the Parliament and Article 103 the duration of the membership.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 112' of the Constitution deals with:",
+    "options": [
+      "The accounts of the CAG",
+      "The audit",
+      "The Annual Financial Statement, the Budget",
+      "The Finance Commission"
+    ],
+    "answer": 2,
+    "explanation": "Article 112 provides that the President shall cause the Annual Financial Statement, the Budget, to be laid before both the houses of the Parliament.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 113' of the Constitution deals with:",
+    "options": [
+      "The money bill",
+      "The joint sitting",
+      "The privileges",
+      "The assent to the bills"
+    ],
+    "answer": 3,
+    "explanation": "Article 113 provides for the assent of the President to the bills and Article 114 for the withholding of the assent.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 108' of the Constitution deals with:",
+    "options": [
+      "The joint sitting of the two houses",
+      "The money bill",
+      "The privileges",
+      "The quorum"
+    ],
+    "answer": 0,
+    "explanation": "Article 108 provides for the joint sitting of the two houses in the case of the disagreement about a bill and the deadlock over the amendments.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 75' of the Constitution:",
+    "options": [
+      "Deals with the salary of the ministers",
+      "Provides for the appointment and the responsibility of the Council of Ministers at the Union level",
+      "Deals with the oath of the ministers",
+      "Deals with the qualifications"
+    ],
+    "answer": 1,
+    "explanation": "Article 75 provides for the appointment of the Council of Ministers, the tenure of the ministers and the responsibility of the Council to the Lok Sabha.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 148' of the Constitution:",
+    "options": [
+      "Provides for the Election Commission",
+      "Provides for the Finance Commission",
+      "Provides for the CAG",
+      "Provides for the UPSC"
+    ],
+    "answer": 2,
+    "explanation": "Article 148 provides for the constitution of the Comptroller and Auditor General of India, who is appointed by the President and can be removed only like a Supreme Court judge.",
+    "difficulty": "easy",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 315' of the Constitution:",
+    "options": [
+      "Provides for the Election Commission",
+      "Provides for the CAG",
+      "Provides for the Finance Commission",
+      "Provides for the constitution of the Public Service Commissions"
+    ],
+    "answer": 3,
+    "explanation": "Article 315 provides for the constitution of the Union Public Service Commission and the State Public Service Commissions.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'tenure' of the Chief Election Commissioner after the 2023 law:",
+    "options": [
+      "Six years or up to the age of 65",
+      "Five years or up to the age of 65",
+      "Six years or up to the age of 62",
+      "Five years or up to the age of 62"
+    ],
+    "answer": 0,
+    "explanation": "The CEC holds office for six years or up to the age of 65 years, whichever is earlier, and the 2023 law gave him the status of a Supreme Court judge with a removal procedure like that of a judge.",
+    "difficulty": "hard",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 317' of the Constitution:",
+    "options": [
+      "Provides for their removal",
+      "Provides for the functions of the Public Service Commissions",
+      "Provides for their appointment",
+      "Provides for their tenure"
+    ],
+    "answer": 1,
+    "explanation": "Article 317 deals with the functions of the Public Service Commissions and Article 320 lists the specific functions of the UPSC.",
+    "difficulty": "hard",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Human Rights Commission' is constituted under:",
+    "options": [
+      "The RTI Act",
+      "The CAG Act",
+      "The Protection of Human Rights Act, 1993",
+      "The Constitution"
+    ],
+    "answer": 2,
+    "explanation": "The NHRC is a statutory body under the Protection of Human Rights Act, 1993, and the 2019 amendment brought the state human rights commissions also under the Act.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lokpal' and the 'Lokayukta' Act was enacted in:",
+    "options": [
+      "2011",
+      "2016",
+      "2009",
+      "2013"
+    ],
+    "answer": 3,
+    "explanation": "The Lokpal and Lokayuktas Act, 2013, gave the statutory basis to the Lokpal and the Lokayuktas, which had till then existed only as the executive bodies.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Vigilance Commission' is under the:",
+    "options": [
+      "Cabinet Secretariat",
+      "Ministry of Personnel, Public Grievances and Pensions",
+      "Ministry of Finance",
+      "Ministry of Law and Justice"
+    ],
+    "answer": 1,
+    "explanation": "The CVC is a multi-member body under the executive control of the Department of Personnel, Public Grievances and Pensions.",
+    "difficulty": "hard",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 143' and the 'advisory jurisdiction':",
+    "options": [
+      "Is exercised on a reference from the CAG",
+      "Is exercised on a reference from the High Court",
+      "Is exercised on a reference from the President",
+      "Is exercised on a reference from the Parliament"
+    ],
+    "answer": 2,
+    "explanation": "The President may refer any matter of importance or difficulty to the Supreme Court for its opinion under Article 143 and the opinion is not binding but is authoritative.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 226' and the 'Power' of the High Court:",
+    "options": [
+      "To issue the writs for any purpose",
+      "To issue only the five writs",
+      "To transfer the cases",
+      "To appoint the judges"
+    ],
+    "answer": 0,
+    "explanation": "The High Courts can issue the writs for the enforcement of the fundamental rights and for any other purpose, which is wider than the scope of Article 32.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 137' of the Constitution:",
+    "options": [
+      "Provides for the transfer of the cases",
+      "Provides for the writs",
+      "Provides for the appellate jurisdiction of the Supreme Court",
+      "Provides for the advisory jurisdiction"
+    ],
+    "answer": 2,
+    "explanation": "Article 137 provides for the appellate jurisdiction of the Supreme Court in the matters of both the law and the fact.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 131' of the Constitution deals with the original jurisdiction of the Supreme Court in:",
+    "options": [
+      "All the criminal appeals",
+      "The advisory matters",
+      "The writs",
+      "The disputes between the Centre and the states and the other specified ones"
+    ],
+    "answer": 3,
+    "explanation": "Article 131 vests the original jurisdiction in the Supreme Court in the federal disputes, while the rest is exercised by the High Courts under Article 226.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 136' of the Constitution provides for the special leave to appeal:",
+    "options": [
+      "To the Parliament from the states",
+      "To the Supreme Court from any court or tribunal",
+      "To the High Court from the Supreme Court",
+      "To the Executive from the judiciary"
+    ],
+    "answer": 1,
+    "explanation": "Article 136 empowers the Supreme Court to grant the special leave to appeal from any judgment, determination, sentence or order of any court or tribunal in India.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 142' of the Constitution:",
+    "options": [
+      "Empowers the Supreme Court to pass the orders necessary for doing the complete justice",
+      "Provides for the advisory jurisdiction",
+      "Provides for the review of the judgments",
+      "Provides for the transfer of the cases"
+    ],
+    "answer": 0,
+    "explanation": "Article 142 empowers the Supreme Court to pass such decree or order as is necessary for doing complete justice in any cause or matter pending before it.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 130' of the Constitution:",
+    "options": [
+      "Empowers the Supreme Court to frame the rules of procedure",
+      "Provides for the advisory jurisdiction",
+      "Provides for the salaries of the judges",
+      "Provides for the retirement"
+    ],
+    "answer": 0,
+    "explanation": "Article 130 empowers the Supreme Court to frame the rules of procedure with the President's approval and to make the rules of the same nature as those of the Parliament.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Doctrine of Implied Powers' and the 'Article 356':",
+    "options": [
+      "Was in the Minerva Mills case",
+      "Was articulated in the S.R. Bommai case",
+      "Was in the Golaknath case",
+      "Was in the Maneka Gandhi case"
+    ],
+    "answer": 1,
+    "explanation": "In the S.R. Bommai case of 1994 the Supreme Court held that the imposition of the President's Rule is a subject of the judicial review and it also articulated the doctrine of the implied powers.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 123' of the Constitution provides for:",
+    "options": [
+      "The Presidential pardon",
+      "The impeachment",
+      "The ordinance-making power of the President",
+      "The emergency"
+    ],
+    "answer": 2,
+    "explanation": "Article 123 empowers the President to promulgate an ordinance when either house of the Parliament is not in session and it must be laid before the Parliament within six weeks of the reassembly.",
+    "difficulty": "easy",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 72' of the Constitution deals with:",
+    "options": [
+      "The ordinance",
+      "The emergency",
+      "The impeachment",
+      "The pardoning power of the President"
+    ],
+    "answer": 3,
+    "explanation": "Article 72 vests the pardoning power in the President, which extends to the death sentence, the remission, the commutation and the pardon.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 61' of the Constitution provides for:",
+    "options": [
+      "The procedure of the impeachment of the President",
+      "The election of the President",
+      "The oath of the President",
+      "The term of the President"
+    ],
+    "answer": 0,
+    "explanation": "Article 61 prescribes the impeachment procedure for the President, which requires the initiation in either house, a two-thirds majority of the total membership and a two-thirds majority of each house and a fourteen-day notice.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 62' of the Constitution:",
+    "options": [
+      "Provides for the impeachment",
+      "Provides for the election",
+      "Provides for the term of the President",
+      "Provides for the oath"
+    ],
+    "answer": 2,
+    "explanation": "Article 62 provides that the President shall hold office for five years from the date on which he enters into office and shall be eligible for re-election.",
+    "difficulty": "easy",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 64' of the Constitution provides that the Vice-President:",
+    "options": [
+      "Is appointed by the President",
+      "Is the ex-officio Chairman of the Rajya Sabha",
+      "Is elected by the Lok Sabha",
+      "Serves as the acting President"
+    ],
+    "answer": 1,
+    "explanation": "Article 64 makes the Vice-President the ex-officio Chairman of the Rajya Sabha and the Council of States under Article 63 appoints a Deputy Chairman from among its members.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 65' of the Constitution provides:",
+    "options": [
+      "For the election of the President by the state assemblies",
+      "For the removal of the Vice-President",
+      "For the oath of the Vice-President",
+      "For the election of the Vice-President by an electoral college of the elected members of both houses"
+    ],
+    "answer": 3,
+    "explanation": "Article 65 provides for the election of the Vice-President by an electoral college consisting of the elected members of both the houses of the Parliament.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 67' of the Constitution provides:",
+    "options": [
+      "For the term of the President",
+      "For the oath",
+      "For the electoral college for the Presidential election",
+      "For the removal of the President"
+    ],
+    "answer": 2,
+    "explanation": "Article 67 describes the electoral college for the Presidential election, with the elected members of the legislative assemblies of the states and the union territories included.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 71' of the Constitution provides:",
+    "options": [
+      "For the impeachment",
+      "For the disputes relating to the election of the President to be decided by the Supreme Court",
+      "For the oath of the President",
+      "For the term"
+    ],
+    "answer": 1,
+    "explanation": "Article 71 vests the decision of all the doubts and the disputes relating to the election of the President in the Supreme Court.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 70' of the Constitution provides:",
+    "options": [
+      "For the allowances and the privileges of the President",
+      "For the oath",
+      "For the election",
+      "For the term"
+    ],
+    "answer": 0,
+    "explanation": "Article 70 provides that the President is entitled to the emoluments and the allowances and the privileges as may be determined by the Parliament and the emoluments are charged on the Consolidated Fund.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 74' of the Constitution provides:",
+    "options": [
+      "For the appointment of the President",
+      "For the oath of the ministers",
+      "For the salaries of the ministers",
+      "For the Council of Ministers to aid and advise the President who must act in accordance with that advice"
+    ],
+    "answer": 3,
+    "explanation": "Article 74 provides for the Council of Ministers to aid and advise the President, who must act in accordance with that advice except in the cases specified in Article 163.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 76' of the Constitution deals with:",
+    "options": [
+      "The Attorney General of India",
+      "The Election Commission",
+      "The CAG",
+      "The Finance Commission"
+    ],
+    "answer": 0,
+    "explanation": "Article 76 provides for the Attorney General of India, who is appointed by the President from among the persons qualified to be a judge of the Supreme Court.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 165' of the Constitution deals with:",
+    "options": [
+      "The UPSC",
+      "The Advocate General of a state",
+      "The Attorney General of India",
+      "The CAG"
+    ],
+    "answer": 1,
+    "explanation": "Article 165 provides for the Advocate General of a state, who is appointed by the Governor and is the highest law officer of the state.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 215' of the Constitution provides:",
+    "options": [
+      "For the Supreme Court",
+      "For the district courts",
+      "For the tribunals",
+      "For the High Courts in the states"
+    ],
+    "answer": 3,
+    "explanation": "Article 215 provides for the High Courts for the states and Article 216 for their establishment.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 217' of the Constitution provides:",
+    "options": [
+      "For the qualifications",
+      "For the oath",
+      "For the removal of a High Court judge",
+      "For the appointment"
+    ],
+    "answer": 2,
+    "explanation": "Article 217 provides for the removal of a High Court judge by an address passed by the legislature of the state concerned.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 124' of the Constitution:",
+    "options": [
+      "Establishes the Supreme Court with a Chief Justice and the other judges",
+      "Provides for the High Courts",
+      "Provides for the district courts",
+      "Provides for the tribunals"
+    ],
+    "answer": 0,
+    "explanation": "Article 124 constitutes the Supreme Court of India, consisting of a Chief Justice of India and such other judges as the President may appoint.",
+    "difficulty": "easy",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 125' of the Constitution relates to:",
+    "options": [
+      "The oath",
+      "The salaries",
+      "The jurisdiction",
+      "The removal and the appointment of the Supreme Court judges"
+    ],
+    "answer": 3,
+    "explanation": "Article 125 provides for the appointment and the removal of the judges of the Supreme Court and Article 124 for their qualifications.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 126' of the Constitution provides:",
+    "options": [
+      "For the review of the judgments",
+      "For the law and the procedure of the Supreme Court",
+      "For the High Courts",
+      "For the district courts"
+    ],
+    "answer": 1,
+    "explanation": "Article 126 empowers the Supreme Court to make the laws and to lay down the procedure to be followed in the exercise of its jurisdiction.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 132' of the Constitution provides for:",
+    "options": [
+      "The original jurisdiction",
+      "The writs",
+      "The appellate jurisdiction of the Supreme Court in the criminal cases",
+      "The advisory jurisdiction"
+    ],
+    "answer": 2,
+    "explanation": "Article 132 vests the appellate jurisdiction in the Supreme Court in the criminal cases and Article 134 in the civil cases.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 134' of the Constitution provides for:",
+    "options": [
+      "The criminal appeals",
+      "The advisory jurisdiction",
+      "The original jurisdiction",
+      "The appellate jurisdiction of the Supreme Court in the civil cases"
+    ],
+    "answer": 3,
+    "explanation": "Article 134 vests the appellate jurisdiction in the Supreme Court in the civil cases and Article 136 provides for the special leave to appeal.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 139A' was inserted to empower the Supreme Court to:",
+    "options": [
+      "Transfer the services",
+      "Disqualify the members",
+      "Withdraw and transfer the cases involving the same substantial question of law",
+      "Appoint the judges"
+    ],
+    "answer": 2,
+    "explanation": "Article 139A, inserted in 1987, empowers the Supreme Court to withdraw and transfer the cases involving the same substantial question of law that are pending before several High Courts.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Judicial Appointments Commission' as created by the 101st Amendment consisted of:",
+    "options": [
+      "The CJI, two senior Supreme Court judges, the Law Minister and two eminent persons",
+      "The CJI and the President",
+      "Only the Supreme Court judges",
+      "The President and the Prime Minister"
+    ],
+    "answer": 0,
+    "explanation": "The NJAC was to consist of the CJI, the senior-most Supreme Court judge, the Union Law Minister, two eminent persons and the Chief Justice of the concerned High Court, but it was struck down in 2015.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Green Tribunal' is:",
+    "options": [
+      "A judicial body",
+      "A statutory body under the Environment Protection Act, 1986",
+      "A constitutional body",
+      "An executive body"
+    ],
+    "answer": 1,
+    "explanation": "The NGT is a statutory body under the Environment Protection Act, 1986, and its orders are treated as final and binding on the parties.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CABI' and the 'judicial review':",
+    "options": [
+      "The Presidential Rule is not subject to the review",
+      "The review is only for the financial emergency",
+      "There is no review of the emergency",
+      "The Supreme Court in the S.R. Bommai case held that the President's Rule is subject to the judicial review"
+    ],
+    "answer": 3,
+    "explanation": "In the S.R. Bommai case of 1994 the Supreme Court held that the proclamation of the President's Rule under Article 356 is subject to the judicial review.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 143' and the 'opinion' of the Supreme Court:",
+    "options": [
+      "Is binding only on the Central Government",
+      "Is not binding on anybody",
+      "Is not binding but is authoritative",
+      "Is binding on all the courts"
+    ],
+    "answer": 2,
+    "explanation": "The opinion of the Supreme Court on a reference under Article 143 is not binding but is of great value and the authority and the Parliament and the executive are bound to take it into consideration.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'President and the Governor' and the 'Article 157':",
+    "options": [
+      "Article 157 fixes the qualifications of the President",
+      "Article 157 deals with the oath of the President",
+      "Article 157 provides the term of the President",
+      "Article 157 provides the privileges"
+    ],
+    "answer": 0,
+    "explanation": "Article 157 fixes the qualifications of the President, and Article 158 provides for the oath of office and Article 62 for the term.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 158' of the Constitution deals with:",
+    "options": [
+      "The election",
+      "The oath of office of the President",
+      "The qualifications",
+      "The term"
+    ],
+    "answer": 1,
+    "explanation": "Article 158 provides the oath of office of the President and Article 159 the oath of the ministers.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 53' of the Constitution provides:",
+    "options": [
+      "The qualifications of the President",
+      "The election of the President",
+      "The oath of the President",
+      "The term of the President is five years"
+    ],
+    "answer": 3,
+    "explanation": "Article 53 states that the term of office of the President shall be five years from the date on which he enters into office.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 54' of the Constitution provides:",
+    "options": [
+      "For the election of the President",
+      "For the qualifications",
+      "For the oath",
+      "For the term"
+    ],
+    "answer": 0,
+    "explanation": "Article 54 provides for the election of the President by the electoral college and Article 55 and 56 for the manner of the election.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 59' of the Constitution provides:",
+    "options": [
+      "For the oath",
+      "For the term",
+      "For the conditions for the office of the President",
+      "For the election"
+    ],
+    "answer": 2,
+    "explanation": "Article 59 lays down the conditions for the office of the President, that he must be a citizen of India, have completed the age of 35 years and be qualified for the election as a member of the Lok Sabha.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 55' of the Constitution provides:",
+    "options": [
+      "For the term",
+      "For the manner of the election of the President and the value of the vote of the electoral college",
+      "For the qualifications",
+      "For the oath"
+    ],
+    "answer": 1,
+    "explanation": "Article 55 provides for the manner of the election of the President and the value of the vote of the members of the electoral college.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Election Commission' and the 'Article 316':",
+    "options": [
+      "Provides for their qualifications",
+      "Provides for the tenure of the election commissioners",
+      "Provides for their appointment",
+      "Provides for their removal"
+    ],
+    "answer": 1,
+    "explanation": "Article 316 provides for the tenure of the Chief Election Commissioner and the other election commissioners and Article 317 for their removal.",
+    "difficulty": "hard",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Delimitation Commission' under Article 82 is chaired by:",
+    "options": [
+      "The President",
+      "A retired High Court judge",
+      "A retired Supreme Court judge",
+      "The Chief Election Commissioner"
+    ],
+    "answer": 2,
+    "explanation": "The Delimitation Commission is chaired by a retired Supreme Court judge, with two members of the Indian Civil Services, and its orders have the force of law.",
+    "difficulty": "medium",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Model Code of Conduct' is enforced by:",
+    "options": [
+      "The Election Commission and the state election commissions",
+      "The Supreme Court",
+      "The Parliament",
+      "The CAG"
+    ],
+    "answer": 0,
+    "explanation": "The Model Code of Conduct is enforced by the Election Commission and the state election commissions, and the violations are referred to them.",
+    "difficulty": "easy",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NOTA' was introduced in the general elections of:",
+    "options": [
+      "2010",
+      "2009",
+      "2014",
+      "2013"
+    ],
+    "answer": 3,
+    "explanation": "The NOTA option was introduced in the 2013 general elections after the Supreme Court directive of 2010 in the PUCL case.",
+    "difficulty": "medium",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'electoral roll' is prepared by:",
+    "options": [
+      "The Chief Election Commissioner",
+      "The Returning Officer of the constituency",
+      "The state government",
+      "The District Collector"
+    ],
+    "answer": 3,
+    "explanation": "The District Collector prepares the electoral roll and adds the names of the persons in the service of India and of those who have moved to the place, and the statutory list is published by the CEC.",
+    "difficulty": "medium",
+    "category": "elections",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 243G' lists:",
+    "options": [
+      "The State Election Commission",
+      "The powers and the responsibilities of the Panchayats",
+      "The composition of the Panchayats",
+      "The Gram Sabha"
+    ],
+    "answer": 1,
+    "explanation": "Article 243G lists the powers and the responsibilities of the Panchayats, including the power to impose the taxes and the responsibility for the primary health and the education.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 243H' lists:",
+    "options": [
+      "The Gram Sabha",
+      "The Ward Committees",
+      "The powers and the responsibilities of the municipalities",
+      "The composition of the municipalities"
+    ],
+    "answer": 2,
+    "explanation": "Article 243H lists the powers and the responsibilities of the municipalities, which mirror those of the Panchayats under Article 243G.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 243D' provides for:",
+    "options": [
+      "The reservation of the seats for the Scheduled Castes, the Scheduled Tribes and the women in the Panchayats",
+      "The composition of the Panchayats",
+      "The Gram Sabha",
+      "The District Planning Committee"
+    ],
+    "answer": 0,
+    "explanation": "Article 243D provides for the reservation of the seats for the Scheduled Castes, the Scheduled Tribes and the women in the Panchayats and in the offices of the Panch, the Sarpanch and the Pradhan.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 243E' provides for:",
+    "options": [
+      "The Gram Sabha",
+      "The reservation",
+      "The duration of the Panchayats and the municipalities of five years",
+      "The composition"
+    ],
+    "answer": 2,
+    "explanation": "Article 243E provides that the Panchayats and the municipalities shall continue for five years from the date of the first meeting and shall be dissolved if a fresh election is not held before the expiry of that period.",
+    "difficulty": "easy",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 243O' provides for:",
+    "options": [
+      "The District Planning Committee",
+      "The State Election Commission",
+      "The Municipalities",
+      "The Gram Sabha"
+    ],
+    "answer": 3,
+    "explanation": "Article 243O provides for the Gram Sabha, consisting of the persons registered in the electoral rolls of the village, and it has the powers to approve the budget and the developmental plans of the Panchayat.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 243ZD' provides for:",
+    "options": [
+      "The District Planning Committee",
+      "The Gram Sabha",
+      "The State Election Commission",
+      "The Zila Parishad"
+    ],
+    "answer": 0,
+    "explanation": "Article 243ZD provides for a District Planning Committee in every district to consolidate the plans of the Panchayats and the municipalities and forward them to the state government.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 73rd Amendment was:",
+    "options": [
+      "for the municipalities",
+      "for the rural bodies and the 74th for the urban",
+      "for the urban areas",
+      "for the rural areas"
+    ],
+    "answer": 1,
+    "explanation": "The 73rd Amendment deals with the rural local bodies and the 74th with the urban local bodies, and both gave them a constitutional status with a five-year term.",
+    "difficulty": "easy",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gram Sabha' may:",
+    "options": [
+      "Examine the annual plan and the budget of the Panchayat",
+      "Appoint the Gram Panchayat members",
+      "Impose the taxes",
+      "Elect the Sarpanch directly"
+    ],
+    "answer": 0,
+    "explanation": "The Gram Sabha examines the annual plan and the prepared budget of the Panchayat and may make the recommendations on the allocation of the funds for the welfare and the developmental activities.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Panchayati Raj?",
+    "options": [
+      "The Ward Committee, the Municipal Corporation and the Zila Parishad",
+      "The Gram Sabha, the Nyay Panchayat and the Kalyan Panchayat",
+      "The Mandal, the Mandal Parishad and the Zila Praja Parishad",
+      "The Gram Panchayat, the Panchayat Samiti and the Zila Parishad"
+    ],
+    "answer": 3,
+    "explanation": "The three tiers of the Panchayati Raj are the Gram Panchayat at the village level, the Panchayat Samiti at the block level and the Zila Parishad at the district level.",
+    "difficulty": "easy",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Panchayats' are financed by:",
+    "options": [
+      "The Prime Minister's funds",
+      "The devolution of the taxes and the grants in aid recommended by the State Finance Commission",
+      "The central grants only",
+      "The donations of the villagers"
+    ],
+    "answer": 1,
+    "explanation": "The State Finance Commission reviews the financial position of the Panchayats and recommends the distribution of the taxes and the grants in aid between the state and the local bodies.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 280A' provides a special provision for:",
+    "options": [
+      "The Panchayats",
+      "The tribal areas",
+      "Certain irrigation projects including the Rashtriya Krishi Vikas Yojana",
+      "The municipal corporations"
+    ],
+    "answer": 2,
+    "explanation": "Article 280A provides a special provision for the management of certain irrigation projects, including the Rashtriya Krishi Vikas Yojana, enabling the state legislature to make the provisions.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ward Committee' consists of:",
+    "options": [
+      "The elected members of the municipality and of the wards within its jurisdiction",
+      "The nominees of the state government",
+      "The officials of the district administration",
+      "Only the councillors of the ward"
+    ],
+    "answer": 0,
+    "explanation": "A Ward Committee consists of one or more elected members of the municipality and the elected members of the wards falling within the jurisdiction of the committee.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Metropolitan area' in the municipal law:",
+    "options": [
+      "Is the area of a metropolitan corporation",
+      "Is any city with a corporation",
+      "Is one with a population of ten lakh or more",
+      "Is one with a population of one lakh or more"
+    ],
+    "answer": 2,
+    "explanation": "A metropolitan area is defined as one with a population of ten lakh or more, and the transition from a municipal corporation is required within the prescribed period.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 280' and the 'recommendation' on the grants in aid:",
+    "options": [
+      "The Commission does not recommend the grants",
+      "The Commission also recommends the grants in aid to the states and the local bodies",
+      "The Commission recommends the taxes only",
+      "The Commission recommends the loan assistance only"
+    ],
+    "answer": 1,
+    "explanation": "Article 280 requires the Finance Commission to recommend the grants in aid to the states and the local bodies from the Consolidated Fund and the principles governing their distribution.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 253' of the Constitution:",
+    "options": [
+      "Deals with the distribution of the legislative subjects",
+      "Deals with the emergency",
+      "Deals with the local government",
+      "Empowers Parliament to legislate to give effect to the international treaties"
+    ],
+    "answer": 3,
+    "explanation": "Article 253 empowers Parliament to make laws to carry out the obligations of India under the international treaties and the agreements, and Article 262 deals with the water disputes.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 261' of the Constitution:",
+    "options": [
+      "Deals with the international treaties",
+      "Deals with the residuary powers",
+      "Deals with the emergency",
+      "Provides for the agreements between the states and their jurisdiction in the public interest"
+    ],
+    "answer": 3,
+    "explanation": "Article 261 provides for the agreements between the states, the alteration of their areas, the apportionment of their assets and their liabilities and the jurisdiction in the public interest.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 293' of the Constitution:",
+    "options": [
+      "Deals with the agreements with the foreign states",
+      "Deals with the international treaties",
+      "Deals with the war",
+      "Deals with the emergency"
+    ],
+    "answer": 0,
+    "explanation": "Article 293 empowers the Parliament to control the agreements with the foreign states and the other international agreements of the character of the treaties and the agreements.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 364' of the Constitution provides for:",
+    "options": [
+      "The ordinance",
+      "The taxation",
+      "The freedom of trade, commerce and intercourse throughout the territory of India",
+      "The emergency"
+    ],
+    "answer": 2,
+    "explanation": "Article 364 provides that the freedom of trade, commerce and intercourse throughout the territory of India shall be subject to the restrictions in the public interest.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Non-Aligned Movement' and the 'Article 40'? The NAM was founded with the:",
+    "options": [
+      "The Colombo Conference of 1970",
+      "The Bandung Conference of 1955 and the Belgrade Conference of 1961",
+      "The first summit in 1961 only",
+      "The Bandung Conference of 1945"
+    ],
+    "answer": 1,
+    "explanation": "The Non-Aligned Movement took shape at the Bandung Conference of 1955 and was formally initiated at the first summit of the heads of state at Belgrade in September 1961.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SAARC' and the 'Article' of the Constitution and the 'Charter':",
+    "options": [
+      "It was signed in Kathmandu in 1985",
+      "It was signed in Colombo in 1975",
+      "It was signed in Geneva in 1985",
+      "The SAARC charter was signed in Dhaka in 1985"
+    ],
+    "answer": 3,
+    "explanation": "The South Asian Association for Regional Cooperation was founded with the charter signed in Dhaka on 8 December 1985 by the seven South Asian states.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'India' and the 'non-alignment' and the 'Panchsheel':",
+    "options": [
+      "It was signed in 1954 with Pakistan",
+      "The Panchsheel was incorporated in the Agreement on Trade and Intercourse between Tibet and India in 1954",
+      "It was signed in 1950 with China",
+      "It was signed with the Soviet Union"
+    ],
+    "answer": 1,
+    "explanation": "The Panchsheel was first incorporated in the 1954 Agreement on Trade and Intercourse between the Tibet Region of China and India.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Non-Proliferation Treaty' and the 'India':",
+    "options": [
+      "India has not signed the NPT and has declared itself a nuclear capable state",
+      "India signed the NPT in 1968",
+      "India ratified it in 1998",
+      "India is a non-nuclear weapon state under the treaty"
+    ],
+    "answer": 0,
+    "explanation": "India has never signed the NPT and it maintains a self-imposed moratorium on the nuclear tests, and it declared itself a nuclear capable state in 1998.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Gandhi?",
+    "options": [
+      "It was articulated by K. Natwar Singh",
+      "It was articulated by Zakir Husain",
+      "The doctrine was articulated by Nehru and it was described as the GuLook by the journalist K. Natwar Singh",
+      "It was articulated by Gandhi"
+    ],
+    "answer": 2,
+    "explanation": "Nehru's policy of non-alignment was described as the GuLook by K. Natwar Singh, and it was articulated in the context of the Cold War and the Asian Relations Conference of 1947.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bandung Conference' of 1955 was significant because:",
+    "options": [
+      "It was a trade conference of the Commonwealth",
+      "It was the first large meeting of the Asian and the African countries and it adopted the ten principles of the Bandung",
+      "It was a military alliance",
+      "It was the founding of the Non-Aligned Movement"
+    ],
+    "answer": 1,
+    "explanation": "The Bandung or the Afro-Asian Conference of April 1955 was the first large meeting of the Asian and the African countries and it adopted the ten principles of the Bandung, including the opposition to the colonialism.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "It was founded in 1927 and is:",
+    "options": [
+      "the oldest think tank of India",
+      "founded in 1947",
+      "a part of the UN",
+      "the foreign policy department of the government"
+    ],
+    "answer": 0,
+    "explanation": "The Indian Council of World Affairs was founded in 1927 under the leadership of Lala Lajpat Rai and V.O. Chidambaram and it is the oldest think tank of India.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'G4' nations for the UNSC reform are:",
+    "options": [
+      "India, Japan, Germany and the UK",
+      "India, Brazil, South Africa and Japan",
+      "India, Brazil, Germany and Japan",
+      "India, Brazil, Germany and China"
+    ],
+    "answer": 2,
+    "explanation": "The G4 group, comprising India, Brazil, Germany and Japan, campaigns for a permanent seat and for the reform of the Security Council.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IBSA' grouping consists of:",
+    "options": [
+      "India, Brazil, South Africa and China",
+      "India, South Africa and Nigeria",
+      "Brazil, South Africa and Russia",
+      "India, Brazil and South Africa"
+    ],
+    "answer": 3,
+    "explanation": "The India, Brazil and South Africa Dialogue Forum was established in 1997 as a platform for the trilateral cooperation.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'World Trade Organization' and the 'Article' of the Constitution:",
+    "options": [
+      "Article 253 provides for them",
+      "Article 261 provides for them",
+      "There is no such provision",
+      "Article 294 provides for the agreements with the foreign states"
+    ],
+    "answer": 3,
+    "explanation": "Article 294 provides that the agreements with the foreign states and the other international agreements of the character of the treaties and the agreements are valid, and this provides the constitutional basis for the WTO.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'International Court of Justice' at The Hague is composed of:",
+    "options": [
+      "Fifteen judges elected by the General Assembly and the Security Council for nine years",
+      "Eleven judges elected by the General Assembly",
+      "Twenty judges appointed by the states",
+      "Fifteen judges elected by the states"
+    ],
+    "answer": 0,
+    "explanation": "The ICJ has fifteen judges elected for nine years by the General Assembly and the Security Council, and the seat is at The Hague.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Diplomatic Service' is under the:",
+    "options": [
+      "Cabinet Secretariat",
+      "Ministry of External Affairs",
+      "Ministry of Home Affairs",
+      "Ministry of Commerce"
+    ],
+    "answer": 1,
+    "explanation": "The Ministry of External Affairs administers the Indian Diplomatic Service, the foreign service of India, and the ministry is under the charge of the Prime Minister.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ministry of External Affairs' is also known as the MEA and it is under the charge of:",
+    "options": [
+      "The Parliament",
+      "The Finance Minister",
+      "The Prime Minister",
+      "The President"
+    ],
+    "answer": 2,
+    "explanation": "The Ministry of External Affairs is under the charge of the Prime Minister and it administers the Indian Diplomatic Service, which was created in 1921.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Article 253 is correct?",
+    "options": [
+      "Only the executive can implement the treaties",
+      "The treaties are valid under Article 294 and the Parliament has the power to legislate under Article 253",
+      "The treaties are valid only with the President's assent",
+      "The treaties are not binding in India"
+    ],
+    "answer": 1,
+    "explanation": "The international agreements are valid in India under Article 294 and the Parliament implements them by legislating under Article 253.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The SCO and the SAARC are the two regional groupings of which India is:",
+    "options": [
+      "a member of only the SAARC",
+      "a member of neither",
+      "a member",
+      "a member of only the SCO"
+    ],
+    "answer": 2,
+    "explanation": "India is a member of both the South Asian Association for Regional Cooperation and the Shanghai Cooperation Organisation, the latter in the capacity of a dialogue partner.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "It was set up in 1990 and is:",
+    "options": [
+      "set up in 1927",
+      "a part of the UN",
+      "set up in 1962",
+      "the successor of the Indian Institute of International Affairs"
+    ],
+    "answer": 3,
+    "explanation": "The Indian Council of Foreign Affairs, set up in 1990, is the successor of the Indian Institute of International Affairs founded in 1927.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 19(1)(g) is:",
+    "options": [
+      "the constitutional basis of the economic liberalisation",
+      "the speech",
+      "the religion",
+      "about the elections"
+    ],
+    "answer": 0,
+    "explanation": "The freedom of trade and of the profession guaranteed by Article 19(1)(g) is the constitutional basis of the economic reforms and the liberalisation after 1991.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Marrakesh Agreement' of 1994 established:",
+    "options": [
+      "The World Trade Organization",
+      "The IMF",
+      "The World Bank",
+      "The ASEAN"
+    ],
+    "answer": 0,
+    "explanation": "The Marrakesh Agreement of April 1994 established the WTO as the successor of the GATT with effect from 1 January 1995.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'General Agreement on Tariffs and Trade' was signed in:",
+    "options": [
+      "1951",
+      "1964",
+      "1947",
+      "1944"
+    ],
+    "answer": 2,
+    "explanation": "The GATT was signed in Geneva in October 1947 and it governed the world trade for almost half a century before the WTO replaced it.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'WTO' and the 'India' and the '1995':",
+    "options": [
+      "India was not a member",
+      "India was a founding member of the WTO",
+      "India joined in 2008",
+      "India joined in 1994 as an observer only"
+    ],
+    "answer": 1,
+    "explanation": "India was a founding member of the WTO and it had signed the GATT in 1948, and it was also a member of the Uruguay Round.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'TRIPS' agreement in the WTO deals with:",
+    "options": [
+      "The agriculture",
+      "The services",
+      "The textiles",
+      "The intellectual property rights"
+    ],
+    "answer": 3,
+    "explanation": "The Agreement on Trade-Related Aspects of Intellectual Property Rights is the WTO agreement on the intellectual property rights.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'GATS' in the WTO is the agreement on:",
+    "options": [
+      "Textiles",
+      "Trade in services",
+      "Trade in goods",
+      "Agriculture"
+    ],
+    "answer": 1,
+    "explanation": "The General Agreement on Trade in Services is the WTO agreement that covers the cross-border trade in the services.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Agreement on Agriculture' of the WTO:",
+    "options": [
+      "Covers the agriculture and the commitments on the subsidies and the market access",
+      "Covers the intellectual property",
+      "Covers the services",
+      "Covers the textiles"
+    ],
+    "answer": 0,
+    "explanation": "The Agreement on Agriculture came into force in 1995 and it deals with the market access, the domestic support and the export subsidies in the agriculture.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IMF' and the 'Article' of the Constitution:",
+    "options": [
+      "Article 253 provides for them",
+      "There is no provision",
+      "Article 294 provides for them",
+      "Article 282 provides for the agreements with the international financial institutions"
+    ],
+    "answer": 3,
+    "explanation": "Article 282 empowers the Union to enter into the agreements with the international organisations and the international financial institutions like the IMF and the World Bank.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The World Bank has:",
+    "options": [
+      "a UN agency",
+      "three entities",
+      "two entities, the IDA and the IBRD",
+      "a single entity"
+    ],
+    "answer": 2,
+    "explanation": "The World Bank comprises the International Bank for Reconstruction and Development and the International Development Association, and the other members are the IFC, the MIGA and the ICSID.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'UNEP' is headquartered at:",
+    "options": [
+      "Nairobi",
+      "Geneva",
+      "New York",
+      "Paris"
+    ],
+    "answer": 0,
+    "explanation": "The United Nations Environment Programme, established in 1972, has its headquarters at Nairobi in Kenya, and its UNEP Emissions Gap Report is published annually.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the UN Security Council?",
+    "options": [
+      "India joined the UNSC in 1991",
+      "India has never been a member",
+      "India has been a non-permanent member since 1950",
+      "India was a permanent member till 1971"
+    ],
+    "answer": 2,
+    "explanation": "India has been a non-permanent member of the Security Council since 1950 and it has served as a non-permanent member eight times, the most for any country.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The UNESCO World Heritage Convention was:",
+    "options": [
+      "adopted in 1971",
+      "adopted in 1978",
+      "adopted in 1945",
+      "adopted in 1972"
+    ],
+    "answer": 3,
+    "explanation": "The Convention concerning the Protection of the World Cultural and Natural Heritage was adopted in 1972 and the first list was inscribed in 1978.",
+    "difficulty": "easy",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the ILO?",
+    "options": [
+      "It is headquartered in Rome and was established in 1951",
+      "The ILO is headquartered in Geneva and was established in 1919",
+      "It is headquartered in Paris and was established in 1919",
+      "It is headquartered in New York and was established in 1946"
+    ],
+    "answer": 1,
+    "explanation": "The ILO, established in 1919 as a part of the Treaty of Versailles, has its headquarters in Geneva, and the first conference was held in Washington.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Constitution of the WHO was:",
+    "options": [
+      "adopted in 1950",
+      "adopted in 1967",
+      "adopted on 7 April 1948",
+      "adopted in 1945"
+    ],
+    "answer": 2,
+    "explanation": "The Constitution of the WHO was adopted at the International Health Conference in Geneva on 7 April 1948 with the 61st state ratifying it.",
+    "difficulty": "medium",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 9' of the Constitution provides for:",
+    "options": [
+      "The protection of the monuments",
+      "The uniform civil code",
+      "The right to the constitutional remedy",
+      "The abolition of the untouchability"
+    ],
+    "answer": 1,
+    "explanation": "Article 9 of the Constitution lists the uniform civil code for the citizens and it is not enforceable by the courts.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 8' of the Constitution provides for:",
+    "options": [
+      "The abolition of the untouchability",
+      "The Directive Principles",
+      "The special status of the Sikkim",
+      "The Right to constitutional remedies"
+    ],
+    "answer": 3,
+    "explanation": "Article 8 gives every person the right to enforce the fundamental rights by moving the Supreme Court under Article 32 and the High Courts under Article 226.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 29 and 30' provide for the:",
+    "options": [
+      "Cultural and educational rights of the minorities",
+      "Right to freedom of religion",
+      "Right to life",
+      "Right to equality"
+    ],
+    "answer": 0,
+    "explanation": "Articles 29 and 30 protect the cultural and the educational rights of the minorities and the right of the minorities to establish and administer the educational institutions of their choice.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 30' of the Constitution guarantees:",
+    "options": [
+      "The right to the constitutional remedy",
+      "The right to vote",
+      "The right to the information",
+      "The right of the minorities to establish and administer the educational institutions of their choice"
+    ],
+    "answer": 3,
+    "explanation": "Article 30 guarantees the right of all the minorities, whether religious or linguistic, to establish and administer the educational institutions of their choice.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 33' provides that:",
+    "options": [
+      "Parliament may restrict the fundamental rights of the members of the armed forces",
+      "The fundamental rights are suspended in the emergency",
+      "The courts may not enforce the fundamental rights",
+      "The President may suspend the writs"
+    ],
+    "answer": 0,
+    "explanation": "Article 33 empowers Parliament to restrict the fundamental rights of the members of the armed forces, the paramilitary forces, the police and the intelligence agencies.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 31A' was inserted by:",
+    "options": [
+      "The 7th Amendment",
+      "The First Amendment",
+      "The 42nd Amendment",
+      "The 44th Amendment"
+    ],
+    "answer": 1,
+    "explanation": "Article 31A, inserted by the First Amendment of 1951, protects the laws relating to the land reforms and the regulation of the Scheduled Areas from the judicial review.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 34' of the Constitution provides:",
+    "options": [
+      "The protection of the monuments",
+      "The reservation of the seats",
+      "That the members of the armed forces shall not be tried by any civil court except as provided by Parliament",
+      "The abolition of the untouchability"
+    ],
+    "answer": 2,
+    "explanation": "Article 34 provides that the members of the armed forces shall not be subject to the jurisdiction of any civil court and Article 33 empowers Parliament to restrict their fundamental rights.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Article 23 is correct?",
+    "options": [
+      "The 103rd Amendment created the NJAC",
+      "The 103rd Amendment excluded the manual scavenging from the ambit of Article 23",
+      "The 103rd Amendment added the right to education",
+      "The 103rd Amendment added the GST Council"
+    ],
+    "answer": 1,
+    "explanation": "The 103rd Amendment of 2019 excluded the prohibition of the employment of the manual scavengers from the ambit of Article 23, which is a controversial retreat.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 359' can be invoked only during:",
+    "options": [
+      "A national emergency",
+      "The President's Rule",
+      "A financial emergency",
+      "An ordinance"
+    ],
+    "answer": 0,
+    "explanation": "Article 359 can be invoked only on the proclamation of a national emergency, and the 44th Amendment limited it to the emergency and the ordinance period.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Right of the Children to Free and Compulsory Education Act, 2009 gave:",
+    "options": [
+      "The RTE Act amended Article 44",
+      "only to the private schools",
+      "effect to Article 21A",
+      "of 2001"
+    ],
+    "answer": 2,
+    "explanation": "The Right of the Children to Free and Compulsory Education Act, 2009, which came into force on 1 April 2010, gave effect to Article 21A.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 246A' of the Constitution:",
+    "options": [
+      "Deals with the GST",
+      "Deals with the cooperative societies",
+      "Deals with the election commission",
+      "Gives the concurrent power of the Parliament and the state legislatures over the education"
+    ],
+    "answer": 3,
+    "explanation": "Article 246A, inserted by the 42nd Amendment, gives the concurrent power of the Parliament and the state legislatures in the field of education.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 269A' of the Constitution deals with:",
+    "options": [
+      "The customs duty",
+      "The levy and the collection of the goods and services tax in the inter-state trade and the apportionment of the proceeds",
+      "The taxes on the sale of the petroleum products",
+      "The income tax"
+    ],
+    "answer": 1,
+    "explanation": "Article 269A, inserted by the 101st Amendment, provides for the levy and the collection of the GST in the inter-state trade and the apportionment of the proceeds.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 279A' of the Constitution deals with:",
+    "options": [
+      "The GST Council",
+      "The Election Commission",
+      "The Finance Commission",
+      "The Inter-State Council"
+    ],
+    "answer": 0,
+    "explanation": "Article 279A provides for the constitution of the GST Council, which is chaired by the Union Finance Minister with the state finance ministers as the members.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 280 recommended:",
+    "options": [
+      "the health grants of Rs. 2,000 crore",
+      "it did not recommend the health grants",
+      "the health grants of Rs. 1 lakh crore",
+      "the health grants of Rs. 20,000 crore to the states"
+    ],
+    "answer": 3,
+    "explanation": "The 15th Finance Commission recommended the health grants of Rs. 20,000 crore to the states for the primary health care and it raised the share of the health in the divisible pool.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Council of States?",
+    "options": [
+      "They are nominated by the President",
+      "They are elected by the municipalities",
+      "The members are elected by the state legislatures through the proportional representation with the single transferable vote",
+      "They are elected by the direct election"
+    ],
+    "answer": 2,
+    "explanation": "The elected members of the Rajya Sabha are elected by the state legislatures by the method of the proportional representation with the single transferable vote and the unanimity of the votes.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Rajya Sabha?",
+    "options": [
+      "Fifty members",
+      "One-fourth of the total membership",
+      "One-tenth of the total membership",
+      "One-fifth of the total membership"
+    ],
+    "answer": 2,
+    "explanation": "The quorum in the Rajya Sabha is one-tenth of the total membership of the House and in the Lok Sabha it is also one-tenth.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 80' of the Constitution:",
+    "options": [
+      "Provides for the bills",
+      "Provides for the composition of the two houses of the Parliament",
+      "Provides for the sessions",
+      "Provides for the privileges"
+    ],
+    "answer": 1,
+    "explanation": "Article 80 provides for the composition of the two houses of the Parliament and Article 81 for the duration of the Lok Sabha.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 84' of the Constitution provides for:",
+    "options": [
+      "The qualifications of the members of the Parliament",
+      "The composition",
+      "The sessions",
+      "The Speaker"
+    ],
+    "answer": 0,
+    "explanation": "Article 84 provides for the qualifications of the members of the Parliament and Article 85 for the sessions.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 86' of the Constitution provides:",
+    "options": [
+      "For the oath",
+      "For the election",
+      "For the privileges",
+      "For the terms and conditions of the office of the Speaker and the Deputy Speaker"
+    ],
+    "answer": 3,
+    "explanation": "Article 86 provides for the terms and conditions of the office of the Speaker and the Deputy Speaker of the Lok Sabha.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 87' of the Constitution deals with:",
+    "options": [
+      "The Chairman and the Deputy Chairman of the Rajya Sabha",
+      "The Speaker of the Lok Sabha",
+      "The quorum",
+      "The privileges"
+    ],
+    "answer": 0,
+    "explanation": "Article 87 provides for the Chairman and the Deputy Chairman of the Rajya Sabha, and Article 88 provides for the vacancy of the office.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 89' of the Constitution deals with:",
+    "options": [
+      "The sessions",
+      "The quorum of the Rajya Sabha",
+      "The composition",
+      "The qualifications"
+    ],
+    "answer": 1,
+    "explanation": "Article 89 provides that the quorum of the Rajya Sabha is one-tenth of the total membership of the House.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 90' of the Constitution deals with:",
+    "options": [
+      "The Chairman of the Rajya Sabha",
+      "The quorum",
+      "The privileges",
+      "The office of the Deputy Speaker of the Lok Sabha"
+    ],
+    "answer": 3,
+    "explanation": "Article 90 provides for the office of the Deputy Speaker of the Lok Sabha, and in his absence the Deputy Chairman of the Rajya Sabha presides over the House.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 81' of the Constitution provides:",
+    "options": [
+      "The qualifications",
+      "The Speaker",
+      "The duration of the Lok Sabha",
+      "The composition"
+    ],
+    "answer": 2,
+    "explanation": "Article 81 provides that the normal duration of the Lok Sabha shall be five years from the date on which the House first meets after the general election.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 82' of the Constitution provides for:",
+    "options": [
+      "The delimitation of the constituencies",
+      "The composition",
+      "The qualifications",
+      "The Speaker"
+    ],
+    "answer": 0,
+    "explanation": "Article 82 provides for the constitution of a Delimitation Commission by the President and the power of the Parliament to enact the laws for the delimitation.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 88' of the Constitution deals with:",
+    "options": [
+      "The quorum",
+      "The privileges",
+      "The vacancy of the office of the Chairman and the Deputy Chairman of the Rajya Sabha",
+      "The Speaker"
+    ],
+    "answer": 2,
+    "explanation": "Article 88 provides for the vacancy of the office of the Chairman and the Deputy Chairman of the Rajya Sabha to be filled by the House.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 91' of the Constitution deals with:",
+    "options": [
+      "The composition",
+      "The office of the Speaker of the Lok Sabha",
+      "The Chairman of the Rajya Sabha",
+      "The quorum"
+    ],
+    "answer": 1,
+    "explanation": "Article 91 provides for the office of the Speaker of the Lok Sabha and Article 92 for the vacancy of that office.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 92' of the Constitution deals with:",
+    "options": [
+      "The quorum",
+      "The privileges",
+      "The bills",
+      "The vacancy of the office of the Speaker and the Deputy Speaker"
+    ],
+    "answer": 3,
+    "explanation": "Article 92 provides for the vacancy of the office of the Speaker and the Deputy Speaker of the Lok Sabha to be filled by the House.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 93' of the Constitution deals with:",
+    "options": [
+      "The Speaker",
+      "The sessions",
+      "The quorum of the Lok Sabha",
+      "The composition"
+    ],
+    "answer": 2,
+    "explanation": "Article 93 provides that the quorum of the Lok Sabha shall be one-tenth of the total membership of the House.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 94' of the Constitution deals with:",
+    "options": [
+      "The office of the Deputy Speaker",
+      "The Speaker",
+      "The quorum",
+      "The bills"
+    ],
+    "answer": 0,
+    "explanation": "Article 94 provides for the office of the Deputy Speaker of the Lok Sabha and Article 95 for the vacation of that office.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 96' of the Constitution deals with:",
+    "options": [
+      "The composition",
+      "The office of the Chairman of the Rajya Sabha",
+      "The Speaker",
+      "The quorum"
+    ],
+    "answer": 1,
+    "explanation": "Article 96 provides for the office of the Chairman of the Rajya Sabha and Article 97 for the vacation of that office.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 97' of the Constitution deals with:",
+    "options": [
+      "The Speaker",
+      "The quorum",
+      "The composition",
+      "The vacancy of the office of the Chairman and the Deputy Chairman of the Rajya Sabha"
+    ],
+    "answer": 3,
+    "explanation": "Article 97 provides for the vacancy of the office of the Chairman and the Deputy Chairman of the Rajya Sabha to be filled by the House.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 98' of the Constitution deals with:",
+    "options": [
+      "The Speaker",
+      "The privileges",
+      "The quorum of the Rajya Sabha",
+      "The composition"
+    ],
+    "answer": 2,
+    "explanation": "Article 98 provides that the quorum of the Rajya Sabha shall be one-tenth of the total membership of the House.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 99' of the Constitution deals with:",
+    "options": [
+      "The composition",
+      "The proceedings of the Parliament",
+      "The quorum",
+      "The Speaker"
+    ],
+    "answer": 1,
+    "explanation": "Article 99 provides for the procedure of the proceedings of the Parliament and the authority to make the rules of the procedure.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 104' of the Constitution deals with:",
+    "options": [
+      "The qualification",
+      "The election",
+      "The oath",
+      "The privileges of the members"
+    ],
+    "answer": 3,
+    "explanation": "Article 104 provides for the privileges of the members of the Parliament and Article 105 for the restrictions on the freedom of speech.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 106' of the Constitution deals with:",
+    "options": [
+      "The privileges of the members of the state legislatures",
+      "The Speaker",
+      "The quorum",
+      "The bills"
+    ],
+    "answer": 0,
+    "explanation": "Article 106 provides for the privileges of the members of the state legislatures and Article 107 for the restrictions on the freedom of speech.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 107' of the Constitution deals with:",
+    "options": [
+      "The quorum",
+      "The bills",
+      "The restrictions on the freedom of speech of the members of the state legislatures",
+      "The Speaker"
+    ],
+    "answer": 2,
+    "explanation": "Article 107 provides that the freedom of speech in the state legislatures shall not be subject to the restrictions in Article 104 except in the cases provided in Article 105.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Article 107?",
+    "options": [
+      "Article 105 is about the quorum",
+      "Article 105 is about the elections",
+      "Article 105 is about the bills",
+      "Article 105 restricts the freedom of speech of the members of the Parliament"
+    ],
+    "answer": 3,
+    "explanation": "Article 105 provides for the freedom of speech of the members of the Parliament and the freedom of expression in the matters of the debate and the immunity of the proceedings.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 120' of the Constitution deals with:",
+    "options": [
+      "The privileges",
+      "The right of the members of the Parliament to speak in the Parliament",
+      "The powers of the Parliament",
+      "The procedures"
+    ],
+    "answer": 1,
+    "explanation": "Article 120 provides the right of the members of the Parliament to speak in the Parliament and the immunity of the proceedings.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 121' of the Constitution provides:",
+    "options": [
+      "That the proceedings of the Parliament are not subject to the jurisdiction of any court",
+      "For the privileges",
+      "For the Speaker",
+      "For the bills"
+    ],
+    "answer": 0,
+    "explanation": "Article 121 provides that the proceedings of the Parliament shall not be subject to the jurisdiction of any court and that the RTI Act does not apply to them.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 122' of the Constitution deals with:",
+    "options": [
+      "The vacancies of the seats of the members of the Parliament",
+      "The privileges",
+      "The Speaker",
+      "The quorum"
+    ],
+    "answer": 0,
+    "explanation": "Article 122 provides for the vacancies of the seats of the members of the Parliament and the procedure of the by-election in the case of the pre-election vacation.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 123' and the 'ordinance':",
+    "options": [
+      "The ordinance has a life of one year",
+      "The ordinance needs the resolution of both the houses",
+      "The ordinance must be laid before the Parliament within six weeks of the reassembly",
+      "The ordinance must be laid within three months"
+    ],
+    "answer": 2,
+    "explanation": "Every ordinance must be laid before the Parliament and it ceases to operate six weeks after the Parliament reassembles, unless it is approved by the houses.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 124' and the 'salaries of the judges':",
+    "options": [
+      "Are paid from the discretionary fund",
+      "Are charged on the Consolidated Fund of India",
+      "Are paid by the states",
+      "Are determined by the Executive"
+    ],
+    "answer": 1,
+    "explanation": "The salaries, the allowances and the pensions of the Supreme Court judges are charged on the Consolidated Fund of India, and they cannot be varied to the disadvantage of a judge after the appointment.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 146' of the Constitution provides for:",
+    "options": [
+      "The salaries",
+      "The oath",
+      "The retirement",
+      "The conditions of the service of the judges of the Supreme Court"
+    ],
+    "answer": 3,
+    "explanation": "Article 146 provides that the salaries, the allowances and the pensions of the Supreme Court judges shall be charged on the Consolidated Fund and shall not be varied to their disadvantage after the appointment.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 147' of the Constitution provides:",
+    "options": [
+      "For their qualifications",
+      "For the appointment of the judges of the High Courts",
+      "For their removal",
+      "For their salaries"
+    ],
+    "answer": 1,
+    "explanation": "Article 147 provides for the appointment of the judges of the High Courts by the Governor after consultation with the CJI, the state Chief Justice and the Governor.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 166' of the Constitution deals with:",
+    "options": [
+      "The oath of the ministers and the governor",
+      "The Council of Ministers",
+      "The sessions of the assembly",
+      "The bills"
+    ],
+    "answer": 0,
+    "explanation": "Article 166 deals with the oath or the affirmation by the ministers and the governor and Article 163 with the advice of the Council of Ministers.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 167' of the Constitution provides:",
+    "options": [
+      "For the sessions",
+      "For the bills",
+      "For the tenure of the Council of Ministers at the state level",
+      "For the oath"
+    ],
+    "answer": 2,
+    "explanation": "Article 167 provides that a minister shall not remain in office after the legislative assembly of the state has been dissolved and Article 164 provides for the Council of Ministers.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 163' of the Constitution deals with:",
+    "options": [
+      "The oath",
+      "The governor",
+      "The bills",
+      "The Council of Ministers at the state level"
+    ],
+    "answer": 3,
+    "explanation": "Article 163 provides that the ministers shall aid and advise the Governor and the Governor shall act in accordance with that advice except in the cases specified by the Constitution.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 172' of the Constitution deals with:",
+    "options": [
+      "The Speaker",
+      "The qualifications",
+      "The duration of the state legislative assemblies",
+      "The composition"
+    ],
+    "answer": 2,
+    "explanation": "Article 172 provides that the normal duration of the legislative assembly of a state shall be five years.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 169' of the Constitution provides:",
+    "options": [
+      "For the abolition or the creation of the legislative councils",
+      "The composition",
+      "The Speaker",
+      "The bills"
+    ],
+    "answer": 0,
+    "explanation": "Article 169 provides for the abolition or the creation of the legislative councils in the states and the Parliament may by law abolish a council.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 170' of the Constitution provides:",
+    "options": [
+      "The bills",
+      "For the composition of the state legislative assemblies",
+      "The abolition of the council",
+      "The Speaker"
+    ],
+    "answer": 1,
+    "explanation": "Article 170 provides for the composition of the legislative assemblies of the states and the duration of the assemblies under Article 172.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 171' of the Constitution deals with:",
+    "options": [
+      "The composition of the assembly",
+      "The Speaker",
+      "The bills",
+      "The duration of the legislative council"
+    ],
+    "answer": 3,
+    "explanation": "Article 171 provides that the council shall consist of not more than one-third of the total number of the members of the assembly and the normal duration of the council is six years.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 168' of the Constitution provides:",
+    "options": [
+      "For the bills",
+      "For the constitution of the state legislative councils",
+      "For the duration of the assembly",
+      "For the Speaker"
+    ],
+    "answer": 1,
+    "explanation": "Article 168 provides for the constitution of the legislative councils in the states and the Article 169 for their abolition.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 174' of the Constitution deals with:",
+    "options": [
+      "The Speaker",
+      "The bills",
+      "The duration of the legislative assembly",
+      "The composition"
+    ],
+    "answer": 2,
+    "explanation": "Article 174 provides for the duration of the legislative assembly of the state and Article 175 for the qualifications of the members.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 175' of the Constitution provides for:",
+    "options": [
+      "The composition",
+      "The Speaker",
+      "The bills",
+      "The qualifications of the members of the state legislature"
+    ],
+    "answer": 3,
+    "explanation": "Article 175 lays down the qualifications of the members of the state legislative assemblies and Article 176 for the powers of the Legislative Council.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 176' of the Constitution provides:",
+    "options": [
+      "For the composition of the legislative council",
+      "For the duration of the assembly",
+      "For the Speaker",
+      "For the bills"
+    ],
+    "answer": 0,
+    "explanation": "Article 176 provides for the composition of the legislative council of a state, which includes the elected and the nominated members and the members of the ministers and the speaker.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 177' of the Constitution provides:",
+    "options": [
+      "For the bills",
+      "For the duration of the legislative council",
+      "For the composition",
+      "For the Speaker"
+    ],
+    "answer": 1,
+    "explanation": "Article 177 provides for the duration of the legislative council of a state and Article 178 for the qualification for the membership.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 178' of the Constitution provides for:",
+    "options": [
+      "The qualification of the members of the legislative council",
+      "The composition",
+      "The duration",
+      "The Speaker"
+    ],
+    "answer": 0,
+    "explanation": "Article 178 provides for the qualification of the members of the legislative council and Article 179 for the oath.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 200' of the Constitution provides:",
+    "options": [
+      "For the taxes",
+      "For the loans",
+      "For the Consolidated Fund",
+      "For the expenditure of the states"
+    ],
+    "answer": 3,
+    "explanation": "Article 200 provides that the expenditure of the state shall be subject to the provisions of the proviso to Article 256 and the annual statement of the estimates.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 202' of the Constitution provides:",
+    "options": [
+      "For the loans",
+      "For the Finance Commission",
+      "For the taxes of the states",
+      "For the expenditure"
+    ],
+    "answer": 2,
+    "explanation": "Article 202 provides for the taxes levied by the states and Article 203 for the application of the proceeds.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 206' of the Constitution provides for:",
+    "options": [
+      "The taxes",
+      "The expenditure",
+      "The Consolidated Fund of the states",
+      "The borrowing of the states"
+    ],
+    "answer": 3,
+    "explanation": "Article 206 provides that the state may borrow, subject to the limits and the conditions of Article 199 and with the consent of the President in certain cases.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 207' of the Constitution provides:",
+    "options": [
+      "For the consolidated fund of the state",
+      "For the taxes",
+      "For the borrowing",
+      "For the expenditure"
+    ],
+    "answer": 0,
+    "explanation": "Article 207 provides for the establishment of the Consolidated Fund of the state and the Public Account of the state.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 208' of the Constitution provides:",
+    "options": [
+      "For the borrowing",
+      "For the public account of the state",
+      "For the consolidated fund",
+      "For the taxes"
+    ],
+    "answer": 1,
+    "explanation": "Article 208 provides for the Public Account of the state and Article 210 for the Contingency Fund of the state.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 266' of the Constitution deals with:",
+    "options": [
+      "The budget",
+      "The audit",
+      "The Consolidated Fund of India and the Public Account of India",
+      "The taxes"
+    ],
+    "answer": 2,
+    "explanation": "Article 266 deals with the Consolidated Fund of India and the Public Account of India and the Contingency Fund under Article 267.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 267' of the Constitution provides for:",
+    "options": [
+      "The budget",
+      "The Contingency Fund of India",
+      "The Consolidated Fund",
+      "The Public Account"
+    ],
+    "answer": 1,
+    "explanation": "Article 267 provides for the Contingency Fund of India, which is placed at the disposal of the President to meet the unforeseen expenditure.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 265' of the Constitution deals with:",
+    "options": [
+      "The no-tax and the no-grant clause",
+      "The budget of the Union",
+      "The audit by the CAG",
+      "The Consolidated Fund of India"
+    ],
+    "answer": 0,
+    "explanation": "Article 265 provides that no tax shall be levied or collected except by the authority of law and no grant shall be made except by the law, and it also provides for the Consolidated Fund and the Public Account of India.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Article 269A is correct?",
+    "options": [
+      "The apportionment of the customs duty",
+      "The apportionment of the excise duty",
+      "The apportionment of the GST proceeds between the Centre and the states",
+      "The apportionment of the income tax"
+    ],
+    "answer": 2,
+    "explanation": "Article 269A provides for the levy and the collection of the GST in the inter-state trade and the apportionment of the proceeds, which was superseded by the Article 279A with the GST Council.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 270' of the Constitution deals with:",
+    "options": [
+      "The taxes levied by the states",
+      "The income tax",
+      "The customs duty",
+      "The taxes levied by the Union but collected and appropriated by the states"
+    ],
+    "answer": 3,
+    "explanation": "Article 270 provides for the taxes levied by the Union but collected and appropriated by the states, including the stamp duties on the bills of exchange.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 271' of the Constitution deals with:",
+    "options": [
+      "The taxes levied by the Union",
+      "The income tax",
+      "The GST",
+      "The taxes levied by the states but collected and appropriated by the Union"
+    ],
+    "answer": 3,
+    "explanation": "Article 271 provides for the taxes levied by the states but collected and appropriated by the Union, including the duties in respect of the succession to the property other than the agricultural land.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 272' of the Constitution deals with:",
+    "options": [
+      "The GST",
+      "The taxes levied by the Union and the states in the Union territory of Delhi",
+      "The income tax",
+      "The customs duty"
+    ],
+    "answer": 1,
+    "explanation": "Article 272 provides that no tax shall be levied by the Union or the state on the sale of goods in the Union territory of Delhi except the taxes on the supply of electricity and on the sale of liquor.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 275' of the Constitution deals with:",
+    "options": [
+      "The budget",
+      "The Finance Commission",
+      "The restrictions on the tax exemptions and the grants in aid",
+      "The taxes"
+    ],
+    "answer": 2,
+    "explanation": "Article 275 provides for the restrictions on the tax exemptions and the grants in aid and it was inserted by the 80th Amendment.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 277' of the Constitution deals with:",
+    "options": [
+      "The grants in aid from the Union to the states",
+      "The taxes",
+      "The budget",
+      "The borrowing"
+    ],
+    "answer": 0,
+    "explanation": "Article 277 provides that the Parliament may make the grants in aid to any state in need of assistance and it is charged on the Consolidated Fund of India.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 282' of the Constitution deals with:",
+    "options": [
+      "The ordinance",
+      "The agreements with the international financial institutions",
+      "The taxes",
+      "The emergency"
+    ],
+    "answer": 1,
+    "explanation": "Article 282 empowers the Union to enter into the agreements with the international organisations and the financial institutions like the IMF and the World Bank and to guarantee the loans.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 294' of the Constitution provides that:",
+    "options": [
+      "The treaties need the parliamentary approval only",
+      "The treaties are not valid in India",
+      "The agreements with the foreign states are valid",
+      "The President can ratify the treaties alone"
+    ],
+    "answer": 2,
+    "explanation": "Article 294 provides that the agreements with the foreign states and the other international agreements of the character of the treaties and the agreements are valid and that the federal government may enter into them.",
+    "difficulty": "hard",
+    "category": "international-relations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Article 243ZD?",
+    "options": [
+      "It prepares the budget of the state",
+      "It allocates the funds to the districts",
+      "It conducts the elections",
+      "The committee consolidates the plans of the Panchayats and the municipalities and forwards them to the state government"
+    ],
+    "answer": 3,
+    "explanation": "The District Planning Committee consolidates the plans prepared by the Panchayats and the municipalities in the district and forwards them to the state government.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the It guarantees 100 days of is correct?",
+    "options": [
+      "It guarantees 100 days of wage employment to the rural households",
+      "It guarantees 150 days",
+      "It guarantees 200 days",
+      "It guarantees 50 days"
+    ],
+    "answer": 0,
+    "explanation": "The MGNREGA guarantees 100 days of wage employment in a year to the rural households whose adult members volunteer for the unskilled manual work.",
+    "difficulty": "easy",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The unemployment allowance is:",
+    "options": [
+      "The plan is made within 60 days",
+      "The unemployment allowance is paid after 60 days of the demand for work",
+      "The work is allotted within 60 days",
+      "The payment is made within 60 days"
+    ],
+    "answer": 1,
+    "explanation": "The MGNREGA provides for the unemployment allowance to be paid by the state if the work is not provided within 15 days of the demand and within 30 days of the receipt of the application for the work.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The seats for the Scheduled Castes and the Scheduled Tribes are:",
+    "options": [
+      "reserved in proportion to their population",
+      "reserved at 25 per cent each",
+      "reserved at 10 per cent each",
+      "no reservation"
+    ],
+    "answer": 0,
+    "explanation": "The seats for the Scheduled Castes and the Scheduled Tribes in the Panchayats are reserved in proportion to their population in the state and the reservation of the offices of the chairpersons is in proportion to the seats.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Balwant Rai Mehta Committee' of 1957 recommended:",
+    "options": [
+      "The abolition of the Legislative Council",
+      "The reservation of the seats for the women",
+      "The urban local bodies",
+      "A three-tier Panchayati Raj system"
+    ],
+    "answer": 3,
+    "explanation": "The Balwant Rai Mehta Committee recommended the three-tier Panchayati Raj system, and the Gopalan and the Wanchoo Committees had earlier endorsed the same idea.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "It was appointed in 1953 and recommended:",
+    "options": [
+      "the three-tier system",
+      "the commission of the states",
+      "the reorganisation on the linguistic basis",
+      "appointed in 1948"
+    ],
+    "answer": 2,
+    "explanation": "The Fazl Ali Commission was appointed in 1953 to examine the reorganisation of the states and it recommended the reorganisation on the linguistic basis, which the 1956 Act implemented.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the 74th Amendment?",
+    "options": [
+      "The ward committee, the ward office and the nagar panchayat",
+      "The municipality, the corporation and the gram panchayat",
+      "The municipality, the municipal corporation and the nagar panchayat",
+      "The grama panchayat, the mandal panchayat and the zila parishad"
+    ],
+    "answer": 2,
+    "explanation": "The 74th Amendment provides for three types of the municipalities, the municipality, the municipal corporation and the nagar panchayat, with the categories left to the state governments.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nagarpanchayat' is a:",
+    "options": [
+      "A ward committee",
+      "A district council",
+      "A tribal council",
+      "A transitional form of the local self-government between the gram panchayat and the municipality"
+    ],
+    "answer": 3,
+    "explanation": "The nagar panchayat is a transitional form of the local self-government in the areas between a gram panchayat and a municipality.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 243ZB' of the Constitution provides for the:",
+    "options": [
+      "The District Planning Committee",
+      "The constitution of the metropolitan committees",
+      "The Gram Sabha",
+      "The Ward Committee"
+    ],
+    "answer": 1,
+    "explanation": "Article 243ZB provides for the constitution of the metropolitan committees for the metropolitan areas.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the 73rd Amendment is correct?",
+    "options": [
+      "It contains the powers and the responsibilities of the Panchayats",
+      "It contains the fundamental duties",
+      "It contains the languages",
+      "It contains the anti-defection provisions"
+    ],
+    "answer": 0,
+    "explanation": "The Eleventh Schedule lists the powers and the responsibilities of the Panchayats and the Twelfth Schedule lists those of the municipalities.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 243ZC' of the Constitution provides for:",
+    "options": [
+      "The State Election Commission",
+      "The constitution of the metropolitan districts",
+      "The Gram Sabha",
+      "The District Planning Committee"
+    ],
+    "answer": 1,
+    "explanation": "Article 243ZC provides for the constitution of the metropolitan districts in the metropolitan areas and their councils.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

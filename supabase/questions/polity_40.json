@@ -1,0 +1,167 @@
+[
+  {
+    "q": "The Bureau of Indian Standards, the national standards body of India, functions under the:",
+    "options": [
+      "Bureau of Indian Standards Act, 1986",
+      "Indian Standards Act, 1947",
+      "Weights and Measures Act, 1950",
+      "Trade Marks Act, 1999"
+    ],
+    "answer": 0,
+    "explanation": "The Bureau of Indian Standards is the national standards body of India and it works under the Bureau of Indian Standards Act, 1986, which replaced the Indian Standards Act of 1947 and took effect on 1 April 1987.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A 'Special Mention' in the Parliament of India refers to:",
+    "options": [
+      "A discussion on a matter of urgent public importance following a statement in the House",
+      "A motion for the removal of the Speaker",
+      "A motion of no confidence against the Council of Ministers",
+      "A matter of sufficient public importance that is raised outside the normal agenda of the House and is not answered"
+    ],
+    "answer": 3,
+    "explanation": "A Special Mention is a matter of sufficient public importance that a member raises outside the normal agenda of the House and that the Speaker permits to be made, but it is not answered in the House.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Question Hour' in the Lok Sabha is the time allotted for:",
+    "options": [
+      "The discussion on the Budget and the Finance Bill",
+      "The asking of questions and the answering of them by the ministers",
+      "The motions of thanks and the no-confidence motions",
+      "The introduction of the private members' bills"
+    ],
+    "answer": 1,
+    "explanation": "The Question Hour is the first hour of every sitting of the Lok Sabha in which the members ask questions and the ministers answer them on the floor of the House. Starred questions are answered orally, while unstarred ones are answered on the same day in writing.",
+    "difficulty": "easy",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Unlawful Activities (Prevention) Act, 1967, the notification of a terrorist organisation is issued by:",
+    "options": [
+      "The State Government on the recommendation of the State Police",
+      "The Central Government after consultation with the State Government",
+      "The Central Bureau of Investigation on its own motion",
+      "The National Investigation Agency"
+    ],
+    "answer": 1,
+    "explanation": "Under Section 35 of the Unlawful Activities (Prevention) Act, 1967, the Central Government notifies an organisation as a terrorist organisation after consultation with the State Government, and the organisation may appeal to the newly created Terrorism Appeal Tribunal.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Section 124A of the Indian Penal Code deals with:",
+    "options": [
+      "The offence of being a member of an unlawful organization",
+      "The punishment for the murder of a public servant",
+      "Sedition, that is the act of bringing or attempting to bring disaffection towards the Government established by law in India",
+      "The unlawful assembly of more than twenty persons"
+    ],
+    "answer": 2,
+    "explanation": "Section 124A of the Indian Penal Code punishes sedition, that is the act of bringing or attempting to bring disaffection towards the Government established by law in India, and the Court of Session tries the offence under the law.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Foreigners Act, 1946 provides for the detention of a foreigner in the interest of:",
+    "options": [
+      "The sovereignty, security and the friendly relations of India",
+      "The prevention of the illegal migration of the labour",
+      "The enforcement of the foreign exchange regulations",
+      "The economic interests of the State"
+    ],
+    "answer": 0,
+    "explanation": "Section 3 of the Foreigners Act, 1946 empowers the Central Government to detain a foreigner, or to direct that a foreigner be detained, in the interest of the sovereignty, security and the friendly relations of India.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The proclamation of a National Emergency under Article 352 can be issued by the President:",
+    "options": [
+      "On the advice of the Chief Minister of the state concerned",
+      "On the recommendation of the Lok Sabha alone",
+      "On the recommendation of the Election Commission",
+      "On the advice of the Union Cabinet"
+    ],
+    "answer": 3,
+    "explanation": "Article 352 allows the President to proclaim a National Emergency on the advice of the Union Cabinet when the security of India or any part of it is threatened by war, external aggression or armed rebellion. The proclamation must be approved by both Houses within one month by a special majority.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The North-Eastern Council was set up under the:",
+    "options": [
+      "Sixth Schedule of the Constitution",
+      "North-Eastern Council Act, 1971",
+      "North-Eastern Areas (Reorganisation) Act, 1971",
+      "States Reorganisation Act, 1956"
+    ],
+    "answer": 1,
+    "explanation": "The North-Eastern Council was set up under the North-Eastern Council Act, 1971 to promote the cooperative action and the coordinated development of the north-eastern region. It is not a constitutional body and the Sixth Schedule deals with the administration of the tribal areas.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Unique Identification Authority of India became a statutory body under the:",
+    "options": [
+      "Aadhaar (Unique Identification Authority of India) Act, 2009",
+      "Digital Personal Data Protection Act, 2023",
+      "Information Technology Act, 2000",
+      "Passport (Entry into India) Act, 1920"
+    ],
+    "answer": 0,
+    "explanation": "The Aadhaar (Unique Identification Authority of India) Act, 2009, later renamed as the Unique Identification Authority of India Act, 2016, made the UIDAI a statutory body, replacing the earlier set up of the Authority as an executive body of the Government of India.",
+    "difficulty": "hard",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A censure motion can be moved in the Lok Sabha against:",
+    "options": [
+      "The Comptroller and Auditor General",
+      "The Speaker of the House",
+      "A minister",
+      "The Deputy Speaker"
+    ],
+    "answer": 2,
+    "explanation": "A censure motion can be moved against a minister and it is used to express the disapproval of the policies and the conduct of a minister. A motion of no confidence can be moved against the Council of Ministers as a whole.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "An ordinance can be promulgated by the President only when:",
+    "options": [
+      "The Parliament has been dissolved",
+      "The Lok Sabha has adjourned sine die",
+      "The Council of States has not passed the Bill",
+      "Both the Houses of Parliament are not in session"
+    ],
+    "answer": 3,
+    "explanation": "Under Article 123, the President can promulgate an ordinance only when either House of Parliament is not in session, and every ordinance must be laid before Parliament and ceases to operate six weeks after Parliament reassembles, unless approved earlier.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

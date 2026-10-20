@@ -1,0 +1,752 @@
+[
+  {
+    "q": "The crust of the Earth is composed predominantly of:",
+    "options": [
+      "Sedimentary rocks",
+      "Metamorphic rocks",
+      "Igneous rocks",
+      "Limestone and shale"
+    ],
+    "answer": 2,
+    "explanation": "The crust is made up mainly of igneous rocks, with sedimentary and metamorphic rocks derived from them; granite and basalt are the commonest crustal rocks.",
+    "difficulty": "easy",
+    "category": "physical-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The breakdown of rocks at the Earth's surface by physical, chemical and biological agents is called:",
+    "options": [
+      "Denudation",
+      "Weathering",
+      "Erosion",
+      "Deposition"
+    ],
+    "answer": 1,
+    "explanation": "Weathering is the in-situ breakdown of rocks at or near the surface; erosion is the removal and transport of the weathered material by agents such as water, wind and ice.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Metamorphic rocks are formed from:",
+    "options": [
+      "molten magma that cools below the Earth's surface",
+      "sedimentary deposits compacted by the weight of overlying rocks",
+      "volcanic ejecta deposited on the sea floor",
+      "existing rocks altered by heat and pressure"
+    ],
+    "answer": 3,
+    "explanation": "Metamorphic rocks such as marble, slate and gneiss are formed when pre-existing igneous or sedimentary rocks are recrystallised under great heat and pressure within the crust.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "According to W.M. Davis, the stage of the erosional cycle of a river marked by the greatest stream power and maximum relief is the:",
+    "options": [
+      "Old age",
+      "Peneplanation",
+      "Youth",
+      "Maturity"
+    ],
+    "answer": 3,
+    "explanation": "Davis' cycle passes through youth, maturity and old age; in the mature stage the river has cut a deep valley with the maximum relief, after which the landscape is graded in the old age stage.",
+    "difficulty": "hard",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A horst and a graben are landforms produced by:",
+    "options": [
+      "folding of sedimentary strata",
+      "glacial abrasion",
+      "faulting of the Earth's crust",
+      "riverine erosion"
+    ],
+    "answer": 2,
+    "explanation": "A horst is an uplifted block and a graben a depressed block between parallel faults; the Narmada and Tapi valleys are classic graben examples in India.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "In geology, an unconformity indicates:",
+    "options": [
+      "a gap in the geological record caused by a period of erosion or non-deposition",
+      "a fold in the strata",
+      "an igneous intrusion into older rock",
+      "a zone of contact metamorphism"
+    ],
+    "answer": 0,
+    "explanation": "An unconformity is a surface of erosion or non-deposition separating two rock sequences of different ages, and it is important in relative age determination.",
+    "difficulty": "hard",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The term 'batholith' refers to:",
+    "options": [
+      "a narrow ridge of folded sedimentary rock",
+      "a deep-seated, irregular mass of igneous rock",
+      "a dome-shaped volcanic cone built of ash and cinders",
+      "a sheet of lava that has intruded between rock layers"
+    ],
+    "answer": 1,
+    "explanation": "A batholith is a very large, irregular body of intrusive igneous rock with no clear margins, while a laccolith is a dome-shaped intrusion within sedimentary rock.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mercalli scale measures:",
+    "options": [
+      "the energy released by an earthquake",
+      "the intensity of an earthquake at a particular place",
+      "the depth of the hypocentre",
+      "the magnitude of an earthquake"
+    ],
+    "answer": 1,
+    "explanation": "The Mercalli scale describes the observed effects of an earthquake at a place, while the Richter scale and the moment magnitude scale measure the energy released.",
+    "difficulty": "easy",
+    "category": "physical-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The State Disaster Management Authority in a State is chaired by the:",
+    "options": [
+      "Chief Minister",
+      "District Collector",
+      "Governor",
+      "Union Home Minister"
+    ],
+    "answer": 0,
+    "explanation": "Under the Disaster Management Act, 2005 the State Disaster Management Authority is chaired by the Chief Minister, while the District Authority is chaired by the District Collector.",
+    "difficulty": "easy",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The District Disaster Management Authority is chaired by the:",
+    "options": [
+      "Chief Executive Officer of the Zila Parishad",
+      "the elected district magistrate",
+      "District Collector",
+      "State Chief Minister"
+    ],
+    "answer": 2,
+    "explanation": "Section 11 of the Disaster Management Act, 2005 provides that the District Disaster Management Authority is chaired by the District Collector or the District Magistrate.",
+    "difficulty": "easy",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT one of the four priorities of the Sendai Framework for Disaster Risk Reduction?",
+    "options": [
+      "Understanding disaster risk",
+      "Strengthening disaster risk governance",
+      "Investing in disaster risk resilience for development",
+      "Promoting the use of nuclear energy in disaster response"
+    ],
+    "answer": 3,
+    "explanation": "The four Sendai priorities are understanding disaster risk, strengthening governance, investing in resilience and preparedness with effective response and building back better.",
+    "difficulty": "hard",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Cyclone Risk Mitigation Project (NCRMP) was financed by the:",
+    "options": [
+      "World Bank",
+      "European Union",
+      "United Nations Development Programme",
+      "Asian Development Bank"
+    ],
+    "answer": 0,
+    "explanation": "The NCRMP, which built coastal shelters, cyclone warning systems and coastal embankments, was financed by the World Bank and implemented with state governments.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Indian Tsunami Early Warning Centre is located at:",
+    "options": [
+      "Chennai",
+      "Bengaluru",
+      "Hyderabad",
+      "Port Blair"
+    ],
+    "answer": 2,
+    "explanation": "The Indian Tsunami Early Warning Centre set up by the National Disaster Management Authority with INCOIS support is located at Hyderabad.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Disaster Management Act, 2005, the National Executive Committee is chaired by the:",
+    "options": [
+      "Union Home Minister",
+      "President of India",
+      "Chief of Army Staff",
+      "Prime Minister"
+    ],
+    "answer": 3,
+    "explanation": "The National Executive Committee, which prepares the national disaster management plan and monitors implementation, is chaired by the Prime Minister.",
+    "difficulty": "hard",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 1999 Odisha Super Cyclone caused comparatively few deaths mainly because:",
+    "options": [
+      "the cyclone struck only at low tide",
+      "the state had built cyclone shelters and evacuated people on a massive scale",
+      "the cyclone was unusually weak",
+      "the army restored the coastline before the surge arrived"
+    ],
+    "answer": 1,
+    "explanation": "About two million people were evacuated to cyclone shelters before the October 1999 super cyclone hit Odisha, which is why the death toll stayed far below the estimated figure.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Earthquake Management Organisation, the nodal agency for seismic hazards, is under the:",
+    "options": [
+      "Ministry of Science and Technology",
+      "Ministry of Defence",
+      "Ministry of Home Affairs",
+      "Ministry of Earth Sciences"
+    ],
+    "answer": 3,
+    "explanation": "NEMO operates the National Seismic Monitoring Network and is an autonomous body under the Department of Earth Sciences in the Ministry of Earth Sciences.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Mica is used principally in the manufacture of:",
+    "options": [
+      "machine tools",
+      "jewellery",
+      "electrical and electronic insulators",
+      "refractory bricks"
+    ],
+    "answer": 2,
+    "explanation": "Because of its excellent dielectric properties, mica is used in electrical insulation, capacitors and electronic components; it is also used in cosmetics and paints.",
+    "difficulty": "easy",
+    "category": "resources-and-minerals",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Mumbai High oil field was discovered in:",
+    "options": [
+      "1984",
+      "1956",
+      "1964",
+      "1974"
+    ],
+    "answer": 1,
+    "explanation": "The Mumbai High field in the Arabian Sea off the coast of Maharashtra was discovered in 1974 and remains the largest onshore-offshore oil field of India.",
+    "difficulty": "easy",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Digboi oil field in Assam is notable because it is:",
+    "options": [
+      "the oldest oil field in India",
+      "the largest oil field in India",
+      "the only offshore oil field in India",
+      "the first field to produce natural gas"
+    ],
+    "answer": 0,
+    "explanation": "The Digboi field in upper Assam, discovered in 1889, is the oldest oil field in India and the first one where crude oil was found in the country.",
+    "difficulty": "easy",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The monazite sands of the Kerala coast are an important source of:",
+    "options": [
+      "manganese",
+      "uranium",
+      "thorium",
+      "bauxite"
+    ],
+    "answer": 2,
+    "explanation": "Monazite beach sands along the Kerala coast carry thorium, which is why India has one of the world's largest thorium reserves and can pursue thorium-based nuclear fuel cycles.",
+    "difficulty": "medium",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's largest reserves of thorium are found in the monazite sands of:",
+    "options": [
+      "Tamil Nadu",
+      "Jharkhand",
+      "Odisha",
+      "Kerala"
+    ],
+    "answer": 3,
+    "explanation": "The monazite beach sands of the Thiruvananthapuram district, particularly Manavalakkurathil, hold India's largest thorium reserves, followed by the sands of Odisha and Tamil Nadu.",
+    "difficulty": "hard",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Khetri copper mines are located in:",
+    "options": [
+      "Odisha",
+      "Rajasthan",
+      "Gujarat",
+      "Madhya Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "The Khetri and Zawar belt in Rajasthan is the principal copper producing belt of India, with the Khetri copper mines dating back to the colonial period.",
+    "difficulty": "medium",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Singhbhum mineral belt is particularly rich in:",
+    "options": [
+      "iron ore, copper and mica",
+      "coal and lignite",
+      "manganese and chromite",
+      "bauxite and mica"
+    ],
+    "answer": 0,
+    "explanation": "The Singhbhum belt of Jharkhand and Odisha is the classic mineral heartland of India, famous for iron ore, copper, mica and uranium deposits.",
+    "difficulty": "hard",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The trade winds blow:",
+    "options": [
+      "from the equatorial low towards the poles",
+      "from the subtropical high pressure belt towards the equatorial low pressure belt",
+      "from west to east along the equator",
+      "from the polar high towards the equator"
+    ],
+    "answer": 1,
+    "explanation": "The trade winds blow from the subtropical high pressure belts towards the equatorial low pressure belt, deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Roaring Forties', 'Furious Fifties' and 'Screaming Sixties' denote:",
+    "options": [
+      "the trade winds of the Pacific",
+      "the polar easterlies of Antarctica",
+      "the strong westerly winds of the Southern Ocean",
+      "the monsoon winds of the Indian Ocean"
+    ],
+    "answer": 2,
+    "explanation": "These are the names for the persistent strong westerly winds of the Southern Ocean, which are unobstructed by land and were used by early sailing ships to reach Australia and the Americas.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Koppen classification of the world's climate is based mainly on:",
+    "options": [
+      "monthly mean temperature and precipitation",
+      "wind speed and humidity",
+      "potential evapotranspiration and rainfall",
+      "soil texture and natural vegetation"
+    ],
+    "answer": 0,
+    "explanation": "Koppen's scheme classifies climate using mean monthly temperature and precipitation thresholds, which is why it is the most widely used world climate classification.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Thornthwaite classification of climate is based on:",
+    "options": [
+      "the annual range of temperature",
+      "the frequency of cyclones",
+      "the average length of the dry season only",
+      "the ratio of potential evapotranspiration to precipitation"
+    ],
+    "answer": 3,
+    "explanation": "Thornthwaite's method uses the water balance, comparing potential evapotranspiration with precipitation, which is why his classification is also called the moisture index classification.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The albedo of a surface is:",
+    "options": [
+      "the total radiation absorbed by the atmosphere",
+      "the ratio of reflected to incident solar radiation",
+      "the ratio of outgoing long-wave radiation to incoming short-wave radiation",
+      "the measure of atmospheric transparency"
+    ],
+    "answer": 1,
+    "explanation": "Albedo is the reflecting power of a surface expressed as the ratio of reflected to incident radiation; fresh snow has a high albedo while forest and dark ocean surfaces have a low one.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Hadley cell of atmospheric circulation extends:",
+    "options": [
+      "only over the Indian subcontinent",
+      "vertically from the surface to the stratosphere",
+      "from the equator to about 30 degrees latitude in each hemisphere",
+      "from the poles to 60 degrees latitude"
+    ],
+    "answer": 2,
+    "explanation": "The Hadley cell is the low latitude circulation cell in which air rises at the equator and descends near 30 degrees latitude, producing the subtropical high pressure belts and the trade winds.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Walker Circulation in the Pacific Ocean is a component of:",
+    "options": [
+      "the El Nino-Southern Oscillation",
+      "the monsoon trough",
+      "the Southern Oscillation Index only",
+      "the Madden-Julian Oscillation"
+    ],
+    "answer": 0,
+    "explanation": "The Walker Circulation is the east-west overturning cell in the equatorial Pacific, and its weakening or reversal during an El Nino event is the core of the ENSO system.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Horn of Africa' comprises mainly:",
+    "options": [
+      "Sudan, Chad, Niger and Mali",
+      "Kenya, Uganda, Tanzania and Rwanda",
+      "Libya, Tunisia, Algeria and Morocco",
+      "Ethiopia, Eritrea, Somalia and Djibouti"
+    ],
+    "answer": 3,
+    "explanation": "The Horn of Africa projects into the Indian Ocean and comprises Ethiopia, Eritrea, Somalia and Djibouti, the region that guards the Bab el-Mandeb strait.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Serengeti plains are located mainly in:",
+    "options": [
+      "South Africa",
+      "Namibia",
+      "Kenya",
+      "Tanzania"
+    ],
+    "answer": 3,
+    "explanation": "The Serengeti ecosystem lies in northern Tanzania and adjoining Kenya and is famous for the annual wildebeest migration and the Maasai Mara game reserve.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Cape Fold Mountains of South Africa are especially noted for:",
+    "options": [
+      "rich deposits of gold, diamonds and other minerals",
+      "the largest expanse of tropical rainforest",
+      "the greatest concentration of volcanoes in Africa",
+      "the highest waterfalls on the continent"
+    ],
+    "answer": 0,
+    "explanation": "The old folded mountains of the Cape region hold the diamond belt of Kimberley and the gold reefs of the Witwatersrand, which shaped the country's mining economy.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Great Artesian Basin, the largest artesian basin in the world, is located in:",
+    "options": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "China"
+    ],
+    "answer": 1,
+    "explanation": "The Great Artesian Basin underlies about one-fifth of Australia and yields the deep artesian bores that supply water to the dry interior and the artesian spa towns of the region.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Lake Titicaca, the highest navigable lake in the world, lies between:",
+    "options": [
+      "Colombia and Venezuela",
+      "Chile and Argentina",
+      "Peru and Bolivia",
+      "Ecuador and Peru"
+    ],
+    "answer": 2,
+    "explanation": "Titicaca straddles the Peru-Bolivia border at about 3,800 metres, drains into the Lake Poopó and supports the reed boat tradition of the Uros islands.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Irrawaddy river flows through which country?",
+    "options": [
+      "Cambodia",
+      "Myanmar",
+      "Thailand",
+      "Laos"
+    ],
+    "answer": 2,
+    "explanation": "The Irrawaddy flows through Myanmar and forms the axis of the country's rice-growing delta before reaching the Andaman Sea.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mozambique Channel separates:",
+    "options": [
+      "Madagascar from the African mainland",
+      "Great Britain from continental Europe",
+      "Indonesia from Australia",
+      "Sri Lanka from the Indian mainland"
+    ],
+    "answer": 0,
+    "explanation": "The Mozambique Channel lies between Madagascar and the African mainland, roughly 400 kilometres wide at its narrowest, and is rich in marine life.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Palghat Gap lies between the:",
+    "options": [
+      "Palni Hills and the Cardamom Hills",
+      "Anamalai Hills and the Western Ghats",
+      "Nilgiri Hills and the Javadi Hills",
+      "Nilgiri Hills and the Anaimalai Hills"
+    ],
+    "answer": 3,
+    "explanation": "The Palghat or Palakkad Gap, about 15 kilometres wide, separates the Nilgiri Hills from the Anaimalai Hills and lets the south-west monsoon winds pass into the interior of the peninsula.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Andaman and Nicobar Islands are separated from the mainland of India by the:",
+    "options": [
+      "Nine Degree Channel",
+      "Ten Degree Channel",
+      "Great Channel",
+      "Coco Channel"
+    ],
+    "answer": 1,
+    "explanation": "The Ten Degree Channel separates the Andaman group from the Nicobar group, while the Coco Channel separates the Nicobars from the Indonesian island of Sumatra.",
+    "difficulty": "easy",
+    "category": "indian-physical-features",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Barren Island, in the Andaman group, is notable as:",
+    "options": [
+      "the site of India's first rocket launching station",
+      "the southernmost point of India",
+      "the only active volcano in India",
+      "the largest coral island of the Indian Ocean"
+    ],
+    "answer": 2,
+    "explanation": "Barren Island, about 135 kilometres north-east of Port Blair, hosts India's only active volcano, whose eruptions have continued intermittently.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bhabar and the Terai belts along the southern Himalayan foothills are formed by:",
+    "options": [
+      "alluvium carried down by the Himalayan rivers",
+      "marine deposits of the Cretaceous period",
+      "black soil deposited by the Deccan rivers",
+      "aeolian sand of the Thar"
+    ],
+    "answer": 0,
+    "explanation": "As Himalayan rivers descend they deposit coarse boulders and sand in the Bhabar belt and finer, fertile alluvium in the Terai, and the belt is marked by disappearing streams.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Khasi and Jaintia hills with the Shillong Plateau form part of which physiographic division of India?",
+    "options": [
+      "the Deccan Plateau",
+      "the North-Eastern Hills",
+      "the Peninsular Plateau",
+      "the Northern Plains"
+    ],
+    "answer": 1,
+    "explanation": "The North-Eastern Hills, also called the Purvanchal, include the Patkai, Naga, Manipur and Mizo hills along with the Shillong Plateau, and are separated from the Himalayan ranges by the Bengal gap.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Panchmarhi hills form the highest point of the:",
+    "options": [
+      "Aravalli range",
+      "Nilgiri hills",
+      "Gondwana hills",
+      "Maikal range of the Satpura"
+    ],
+    "answer": 3,
+    "explanation": "Panchmarhi at 1,050 metres is the highest point of the Satpura range, whose Maikal spur forms the northern edge of the Deccan Plateau.",
+    "difficulty": "hard",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The physiographic division of India that is bounded on the west by the Arabian Sea and on the east by the Bay of Bengal is the:",
+    "options": [
+      "Northern Plains",
+      "Thar Desert",
+      "North-Eastern Hills",
+      "Peninsular Plateau"
+    ],
+    "answer": 0,
+    "explanation": "The Peninsular Plateau is the broad tableland flanked by the Western Ghats and the Eastern Ghats, with the Arabian Sea to the west and the Bay of Bengal to the east.",
+    "difficulty": "easy",
+    "category": "indian-physical-features",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The abyssal plain of the ocean floor lies at a depth of about:",
+    "options": [
+      "200 to 500 metres",
+      "1,000 to 2,000 metres",
+      "4,000 to 6,000 metres",
+      "10,000 to 11,000 metres"
+    ],
+    "answer": 2,
+    "explanation": "Below the continental slope lies the abyssal plain, the flattest and largest area of the ocean floor at depths of roughly 4,000 to 6,000 metres, covered by fine ooze.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Atlantic Ocean has a higher average salinity than the Pacific Ocean mainly because it has:",
+    "options": [
+      "lower evaporation than precipitation",
+      "a much larger inflow of river water",
+      "greater precipitation over the ocean surface",
+      "higher evaporation than precipitation"
+    ],
+    "answer": 3,
+    "explanation": "Salinity is controlled by evaporation and precipitation; the Atlantic loses more water by evaporation than it gains, and its narrower basin allows less freshening from river discharge, so it averages about 35 parts per thousand.",
+    "difficulty": "easy",
+    "category": "oceanography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Mediterranean Sea is remarkable because it is:",
+    "options": [
+      "a deep ocean basin of the Pacific",
+      "almost landlocked, with exchange restricted to the Strait of Gibraltar",
+      "a marginal sea of the Atlantic with free exchange of water",
+      "a part of the Indian Ocean"
+    ],
+    "answer": 1,
+    "explanation": "The Mediterranean is a semi-enclosed sea with a narrow outlet at Gibraltar, so intense evaporation makes its salinity very high, well above the average of the open ocean.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Spring tides occur during the:",
+    "options": [
+      "solstices only",
+      "new moon and full moon",
+      "first and third quarter phases",
+      "equinoxes only"
+    ],
+    "answer": 2,
+    "explanation": "When the sun, moon and earth are in a straight line, as at the new and full moon, the solar and lunar tidal forces reinforce each other and produce spring tides of greatest range.",
+    "difficulty": "easy",
+    "category": "oceanography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The thermohaline circulation of the ocean is also known as:",
+    "options": [
+      "the monsoon drift of the Indian Ocean",
+      "the great ocean conveyor belt",
+      "the subtropical gyre circulation",
+      "the Antarctic Circumpolar Current"
+    ],
+    "answer": 3,
+    "explanation": "Differences in temperature and salinity drive a slow global overturning of deep water from the North Atlantic towards the Pacific, the great ocean conveyor belt that also stores carbon in the deep ocean.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Caspian Sea is notable because it is:",
+    "options": [
+      "a large lagoon of the Pacific",
+      "a landlocked salt lake, the largest enclosed inland body of water",
+      "a deep sea connected to the Atlantic Ocean",
+      "a fjord of the Arctic Ocean"
+    ],
+    "answer": 1,
+    "explanation": "The Caspian Sea is the largest enclosed inland body of water, a saline lake fed by the Volga, the Ural and the Kura rivers, and its shores are shared by five countries.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

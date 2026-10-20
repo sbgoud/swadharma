@@ -1,0 +1,1292 @@
+[
+  {
+    "q": "The works of the Kalidasa include:",
+    "options": [
+      "He wrote the Mrichchhakatika only",
+      "He wrote the Abhijnanasakuntalam and the Malavikagnimitram and the Raghuvamsha",
+      "He wrote the Mṛchchhakatika",
+      "He wrote the Ratnavali"
+    ],
+    "answer": 1,
+    "explanation": "The Kalidasa wrote the Abhijnanasakuntalam, the Malavikagnimitram and the Vikramorvashiyam of the plays and the Raghuvamsha and the Kumarasambhava of the poems.",
+    "difficulty": "easy",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Raghuvamsha of the Kalidasa is:",
+    "options": [
+      "Is a Buddhist text",
+      "Is a mathematical treatise",
+      "Is a drama of the Bhasa",
+      "Is the epic poem of the Kalidasa about the dynasty of the Ramas"
+    ],
+    "answer": 3,
+    "explanation": "The Raghuvamsha is the epic poem of the Kalidasa narrating the story of the Rama dynasty and it is one of the five great epics of the Sanskrit literature.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mṛchchhakatika' was written by:",
+    "options": [
+      "The Bhasa",
+      "The Bhavabhuti",
+      "The Vishakhadatta",
+      "The Kalidasa"
+    ],
+    "answer": 2,
+    "explanation": "The Mṛchchhakatika, the 'The Little Clay Cart', is the famous play of the Vishakhadatta, probably of the last century BCE, and it is a satire on the decadent society.",
+    "difficulty": "hard",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The thirteen plays of the Bhasa were:",
+    "options": [
+      "rediscovered in 1912 and staged in 1955 by the K. Balachander",
+      "of the Sanskrit of the Chola period",
+      "of the Puranic period",
+      "of the Gupta period"
+    ],
+    "answer": 0,
+    "explanation": "The thirteen plays of the Bhasa were rediscovered in 1912 and they were staged in 1955 by the K. Balachander with the music of the M.S. Subbulakshmi.",
+    "difficulty": "hard",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sanskrit plays of the Harsha are:",
+    "options": [
+      "The Harsha was a Buddhist monk",
+      "The Harsha wrote the Nagananda and the Ratnavali and the Priyadarshika",
+      "The Harsha wrote only the dramas",
+      "The Harsha wrote the epic poems"
+    ],
+    "answer": 1,
+    "explanation": "The Harsha, the last great emperor, wrote the three Sanskrit dramas of the Nagananda, the Ratnavali and the Priyadarshika, and he was a patron of the learning.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bhavabhuti wrote the:",
+    "options": [
+      "He wrote the Mṛchchhakatika",
+      "He wrote the Abhijnanasakuntalam",
+      "He was the author of the Natyasastra",
+      "The Bhavabhuti wrote the Malatimadhava and the Uttararamacharita and the Mahaviracharita"
+    ],
+    "answer": 3,
+    "explanation": "The Bhavabhuti of the ninth century wrote the Malatimadhava, the Uttararamacharita and the Mahaviracharita, and he is considered the greatest of the Sanskrit dramatists after the Kalidasa.",
+    "difficulty": "hard",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The author of the Ashtadhyayi is:",
+    "options": [
+      "The Panini wrote the Ashtadhyayi, the first grammar of the Sanskrit",
+      "He wrote the Mahabhashya",
+      "He wrote the Nigantha",
+      "He wrote the Darshanasutra"
+    ],
+    "answer": 0,
+    "explanation": "The Panini wrote the Ashtadhyayi, the first systematic grammar of the Sanskrit, and the Patanjali wrote the Mahabhashya as a commentary on it.",
+    "difficulty": "easy",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kautilya and the Chanakya wrote the:",
+    "options": [
+      "He was a Buddhist monk",
+      "The Kautilya and the Chanakya wrote the Arthashastra and the Chanakya was the adviser of the Chandragupta",
+      "He wrote the Nigantha",
+      "He wrote the Kamandaki Nitisara"
+    ],
+    "answer": 1,
+    "explanation": "The Kautilya, the author of the Arthashastra, is also identified with the Chanakya, the adviser and the prime minister of the Chandragupta Maurya.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Harshacharita' was written by:",
+    "options": [
+      "The Bhavabhuti",
+      "The Dandin",
+      "The Banabhatta",
+      "The Kalidasa"
+    ],
+    "answer": 2,
+    "explanation": "The Banabhatta wrote the Harshacharita, the biography of the Harsha, and the Kadamba is the Dandin who wrote the Dasakumaracharita.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Dandin wrote the:",
+    "options": [
+      "The Dandin wrote the Dasakumaracharita in the sixth century",
+      "The Dandin was of the Gupta period",
+      "He wrote the Nagananda",
+      "He was of the Mughal period"
+    ],
+    "answer": 0,
+    "explanation": "The Dandin, a court poet of the Harsha's time, wrote the Dasakumaracharita, a prose romance in the six chapters, in the sixth century.",
+    "difficulty": "hard",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Naisadha is the:",
+    "options": [
+      "It is a drama of the Kalidasa",
+      "It is a mathematical text",
+      "It is a Buddhist sutra",
+      "The Naiṣadha is the first great Sanskrit romance by the Vatsa"
+    ],
+    "answer": 3,
+    "explanation": "The Naiṣadha, by the Vatsa, is the first great Sanskrit romance and the Bhattikavya of the Dandin and the Vasavadatta of the Subandhu are the other early romances.",
+    "difficulty": "hard",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sangam literature of the early centuries CE is:",
+    "options": [
+      "a Sangam era collection of the temple songs",
+      "the Buddhist literature of the Tamil",
+      "the corpus of the ancient Tamil poetry",
+      "a Sanskrit epic"
+    ],
+    "answer": 2,
+    "explanation": "The Sangam literature, the corpus of the ancient Tamil poetry in the early centuries CE, consists of the eight anthologies and the ten idylls and it is the earliest of the Tamil literature.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The Tiruvalluvar is correct?",
+    "options": [
+      "The Bharidhar",
+      "The Tiruvalluvar",
+      "The Appar",
+      "The Bharathi"
+    ],
+    "answer": 1,
+    "explanation": "The Tirukkural, the classic of the Tamil literature, is a work of the Tiruvalluvar, who is also the author of the Tiruppavai and the Tiruvempavai.",
+    "difficulty": "easy",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Silappatikaram' was written by:",
+    "options": [
+      "The Appar",
+      "The Tiruvalluvar",
+      "The Sattanar",
+      "The Ilango Adigal"
+    ],
+    "answer": 3,
+    "explanation": "The Silappatikaram, one of the five great epics of the Tamil literature, was written by the Ilango Adigal, a Chera prince and a Jain monk.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Subramaniyan of the Subramania Bharati is:",
+    "options": [
+      "a modern novel",
+      "an epic of the Tamil literature",
+      "a Sanskrit text",
+      "a Telugu work"
+    ],
+    "answer": 1,
+    "explanation": "The Subramaniyan, the unfinished epic of the Subramania Bharati, is one of the landmarks of the modern Tamil literature and he also wrote the Kuyil and the Mahakavi.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bharathi of the Tamil is:",
+    "options": [
+      "The Bharathi was the Mahakavi of the Tamil and he wrote the Kuyil and the Kannan Pattu",
+      "He was a Sanskrit poet",
+      "He was of the ninth century",
+      "He was a Jain monk"
+    ],
+    "answer": 0,
+    "explanation": "The Subramania Bharati, the Mahakavi of the Tamil, wrote the Kuyil and the Kannan Pattu and the song of the Kodikkarai and he was a contemporary of the Bharathiar and the Ramalingam.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Chera, the Chola and the Pandya were:",
+    "options": [
+      "the kingdoms of the Vijayanagara",
+      "the dynasties of the Deccan",
+      "the three kingdoms of the Sangam age",
+      "the Pallava, the Satavahana and the Vakataka"
+    ],
+    "answer": 2,
+    "explanation": "The three kingdoms of the Sangam age were the Chera of the west, the Chola of the east and the Pandya of the south and the Satiyaputro, the rulers of the Chera, were the contemporaries of the Karikala of the Chola.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Amir Khusrau of the Delhi is:",
+    "options": [
+      "a Mughal general",
+      "the court poet of the Alauddin Khalji and the father of the Urdu literature",
+      "a Sanskrit poet of the Vijayanagara",
+      "a Persian ambassador"
+    ],
+    "answer": 1,
+    "explanation": "The Amir Khusrau, the court poet of the Alauddin Khalji, is called the father of the Urdu literature and he wrote in the Persian, the Arabic, the Turkish and the Hindavi.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the Faiz Ahmed Faiz is correct?",
+    "options": [
+      "He was a Punjabi poet",
+      "He was the court poet of the Mughals",
+      "He wrote in the Tamil",
+      "The Faiz Ahmed Faiz wrote in the Urdu and the Persian and he received the Lenin Peace Prize"
+    ],
+    "answer": 3,
+    "explanation": "The Faiz Ahmed Faiz wrote the revolutionary Urdu poetry and he received the Lenin Peace Prize in 1963, and the poems like the Mujh Se Pehli Si and the Dast-e-Saba are the landmarks of the Urdu literature.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mir Taqi Mir was:",
+    "options": [
+      "a Persian ambassador",
+      "the successor of the Bahadur Shah",
+      "the founder of the Urdu poetry and the author of the Sahr-e-Ilm",
+      "a Sanskrit poet"
+    ],
+    "answer": 2,
+    "explanation": "The Mir Taqi Mir, with the Mirza Dabeer, founded the Urdu poetry and his Sahr-e-Ilm is the landmark of the ghazal tradition.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Premchand wrote the Godan and the Nirmala and the Godaan and he was:",
+    "options": [
+      "a Hindi novelist",
+      "a Bengali poet",
+      "a Persian scholar",
+      "a dramatist of the 19th century"
+    ],
+    "answer": 0,
+    "explanation": "The Premchand, the greatest of the Hindi novelists, wrote the Godan, the Nirmala, the Ghadar and the Raag and he received the Lenin Peace Prize in 1963.",
+    "difficulty": "easy",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the R.K. Narayan is correct?",
+    "options": [
+      "He was a Marathi novelist",
+      "He was the master of the Kannada literature",
+      "The R.K. Narayan wrote the Guide and the Malgudi Days and the Bachelor of Arts",
+      "He was a Punjabi poet"
+    ],
+    "answer": 2,
+    "explanation": "The R.K. Narayan of the Malgudi series wrote the Guide, the Malgudi Days and the Bachelor of Arts and his works were adapted into films by the Satyajit Ray and the Shyam Benegal.",
+    "difficulty": "easy",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rashid of the Mughal court was:",
+    "options": [
+      "He was a saint of the Punjab",
+      "The Rashid was the court poet of the Jahangir and the author of the Gulzar-i-Adlami",
+      "He was a poet of the Akbar",
+      "He was a writer of the Deccan"
+    ],
+    "answer": 1,
+    "explanation": "The Rashid, the court poet of the Jahangir, wrote the Gulzar-i-Adlami, the translation of the Mahabharata in the Persian, and the Dara Shikoh and the Faizi were the other court poets.",
+    "difficulty": "hard",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Vande Mataram is:",
+    "options": [
+      "It appeared in the Gitanjali",
+      "It was composed by the Nehru",
+      "It appeared in the Savitri",
+      "The Vande Mataram is the national song of India and it appeared in the Anandamath of the Bankim Chandra Chattopadhyay in 1876"
+    ],
+    "answer": 3,
+    "explanation": "The Vande Mataram, composed by the Bankim Chandra Chattopadhyay in the Anandamath of 1876, is the national song of India, and the Jana Gana Mana by the Rabindranath Tagore is the national anthem.",
+    "difficulty": "easy",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rabindranath Tagore is:",
+    "options": [
+      "The Rabindranath Tagore won the Nobel Prize in Literature in 1913 for the Gitanjali",
+      "He won it in 1930",
+      "He won it in 1927",
+      "He never won it"
+    ],
+    "answer": 0,
+    "explanation": "The Rabindranath Tagore won the Nobel Prize in Literature in 1913 for the translated Gitanjali and he was the first non-European laureate and the first Asian Nobel laureate.",
+    "difficulty": "easy",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sri Aurobindo was:",
+    "options": [
+      "The Sri Aurobindo wrote the Savitri and the Bhagavad Gita and he founded the Ashram at Pondicherry",
+      "He was a Bengali poet of the 19th century",
+      "He was a politician",
+      "He founded the Visva-Bharati"
+    ],
+    "answer": 0,
+    "explanation": "The Sri Aurobindo wrote the Savitri, the epic poem on the life of the Sita, and he founded the Auroville Ashram at Pondicherry with the Mirra Alfassa, the Mother.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bharatendu Harishchandra is:",
+    "options": [
+      "He was a Bengali novelist",
+      "The Bharatendu Harishchandra is called the father of the modern Hindi literature",
+      "He was a poet of the Sanskrit",
+      "He was a court poet of the Bahadur Shah"
+    ],
+    "answer": 1,
+    "explanation": "The Bharatendu Harishchandra is called the father of the modern Hindi literature and the Mahavir Prasad Dwivedi and the Sumitranandan Pant are the other landmarks of the Hindi literature.",
+    "difficulty": "hard",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mulk Raj Anand wrote the Untouchable and the Coolie and he was:",
+    "options": [
+      "a Punjabi novelist",
+      "a Malayalam writer",
+      "a founder of the Progressive Writers' Association",
+      "a Bengali poet"
+    ],
+    "answer": 2,
+    "explanation": "The Mulk Raj Anand, with the Premchand and the Raja Rao, was a founder of the Progressive Writers' Association in 1936 and he wrote the Untouchable and the Coolie.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Girish Karnad was:",
+    "options": [
+      "a Malayalam poet",
+      "a filmmaker of the parallel cinema only",
+      "a lyricist",
+      "a Jnanpith Awardee and a playwright of the Tughlaq and the Kaagaz Te Patte"
+    ],
+    "answer": 3,
+    "explanation": "The Girish Karnad, a Jnanpith laureate of 1998, was a doyen of the Indian theatre and the recipient of the Padma Shri and the Padma Bhushan.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vyas Samman' is awarded for:",
+    "options": [
+      "A distinguished contribution to the literary work in the Hindi language",
+      "A contribution to the Sanskrit literature",
+      "A contribution to the English literature",
+      "A contribution to the translation"
+    ],
+    "answer": 0,
+    "explanation": "The Vyas Samman is the prestigious award for a distinguished contribution to the literary work in the Hindi language and it is given by the Bharatiya Jnanpith.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sahitya Akademi Award' is given for:",
+    "options": [
+      "A contribution to the performing arts",
+      "A contribution to the scientific research",
+      "A distinguished contribution to the literature in one of the 24 languages",
+      "A contribution to the English literature only"
+    ],
+    "answer": 2,
+    "explanation": "The Sahitya Akademi Award, instituted in 1954, is given for a distinguished contribution to the literature in any of the 24 languages recognized by the Constitution.",
+    "difficulty": "easy",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jnanpith Award' is given for:",
+    "options": [
+      "A contribution to the drama only",
+      "A contribution to the essays",
+      "A contribution to the poetry only",
+      "A distinguished contribution to the literature in any language"
+    ],
+    "answer": 3,
+    "explanation": "The Jnanpith Award, instituted in 1961, is the highest literary honour of India and it is given for a distinguished contribution to the literature in any language.",
+    "difficulty": "easy",
+    "category": "literature",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sahridaya awards are:",
+    "options": [
+      "the music awards given by the Sangeet Natak Akademi",
+      "the literary awards of the Sahitya Akademi",
+      "the film awards given by the Directorate of Film Festivals",
+      "the theatre awards given by the Sangeet Natak Akademi"
+    ],
+    "answer": 1,
+    "explanation": "The Sahridaya awards are the literary awards of the Sahitya Akademi, presented for each of the languages that the Akademi recognises at its Festival of Letters in New Delhi.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Vyas Samman is:",
+    "options": [
+      "given by the Sangeet Natak Akademi",
+      "given by the Bharatiya Jnanpith for the Hindi literature",
+      "given by the Sahitya Akademi",
+      "given by the Film Federation of India"
+    ],
+    "answer": 1,
+    "explanation": "The Vyas Samman is given by the Bharatiya Jnanpith for a distinguished contribution to the Hindi literature.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Diwali festival is:",
+    "options": [
+      "It marks the birth of the Buddha",
+      "It marks the birth of the Guru Nanak",
+      "It marks the Mahaparinirvana",
+      "Diwali falls on the new moon of the Kartika and it marks the return of the Ramas to Ayodhya"
+    ],
+    "answer": 3,
+    "explanation": "The Diwali, on the new moon of the Kartika, commemorates the return of the Lord Rama to Ayodhya after the fourteen years of the exile and it is also the day of the Lakshmi Puja.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Holi festival is:",
+    "options": [
+      "Holi marks the arrival of spring and the colours celebrate the destruction of the evil Puthana",
+      "It marks the harvest",
+      "It marks the winter solstice",
+      "It marks the death of the Buddha"
+    ],
+    "answer": 0,
+    "explanation": "The Holi, the festival of the colours, marks the arrival of spring and it celebrates the destruction of the demon Puthana by the child Krishna.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Eid ul-Fitr and the Eid al-Adha are:",
+    "options": [
+      "They mark the Hindu new year",
+      "They mark the birth of the Prophet",
+      "The Eid ul-Fitr marks the end of the Ramadan and the Eid al-Adha the end of the Hajj",
+      "Both are the same festival"
+    ],
+    "answer": 2,
+    "explanation": "The Eid ul-Fitr marks the end of the Ramadan and the Eid al-Adha, the festival of the sacrifice, the end of the Hajj.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mahavir Jayanti is:",
+    "options": [
+      "The Mahavir Jayanti marks the birth of the Mahavira, the last tirthankara, and the Mahavira was the 24th",
+      "It marks the birth of the Buddha",
+      "It marks the Nirvana of the Mahavira",
+      "It marks the first sermon of the Buddha"
+    ],
+    "answer": 0,
+    "explanation": "The Mahavir Jayanti marks the birth of the Mahavira, the 24th and the last of the Jain tirthankaras, and it is also the Mahavir Nirvan Kalyanak.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pongal' is a four-day harvest festival of:",
+    "options": [
+      "Kerala",
+      "Andhra Pradesh",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "answer": 3,
+    "explanation": "The Pongal, the harvest festival of the Tamil Nadu, celebrates the end of the winter season and the beginning of the harvest and the sun, the cattle and the agriculture are thanked.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bihu' is the festival of:",
+    "options": [
+      "Kerala",
+      "Assam",
+      "West Bengal",
+      "Odisha"
+    ],
+    "answer": 1,
+    "explanation": "The Bihu, the Assamese festival of the spring, the new year and the harvest, marks the arrival of the spring season and the start of the agricultural year.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Onam festival is:",
+    "options": [
+      "It is the harvest festival of the Assam",
+      "It is the festival of the Bengal",
+      "The Onam is the harvest festival of Kerala with the Pookalam and the Vallam Kali",
+      "It is the festival of the Punjab"
+    ],
+    "answer": 2,
+    "explanation": "The Onam, the harvest festival of the Kerala, is marked by the Pookalam, the flower carpet, the Vallam Kali, the snake boat race, and the display of the Onapottan.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chhath' is a festival of:",
+    "options": [
+      "Bihar and the eastern Uttar Pradesh",
+      "Punjab",
+      "Rajasthan",
+      "Kerala"
+    ],
+    "answer": 0,
+    "explanation": "The Chhath, the sun worship festival, is celebrated in the Bihar and the eastern Uttar Pradesh with the devotees standing in the water to offer the arghya to the setting and the rising sun.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Guru Nanak Jayanti is:",
+    "options": [
+      "It is celebrated in the Baisakhi",
+      "It is celebrated in the Magha",
+      "It marks the death of the Guru",
+      "The birth anniversary of the first Sikh Guru is celebrated in the Kartika and it is the Gurpurab"
+    ],
+    "answer": 3,
+    "explanation": "The Guru Nanak Jayanti, the birth anniversary of the first Sikh Guru, is celebrated on the full moon of the Kartika and it is also the Gurpurab.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vaisakhi' is:",
+    "options": [
+      "The harvest festival of the Assam",
+      "The festival of the temple",
+      "The harvest festival of the Punjab and the day of the formation of the Khalsa in 1699",
+      "The festival of the lights"
+    ],
+    "answer": 2,
+    "explanation": "The Vaisakhi, celebrated on 13 or 14 April, is the harvest festival of the Punjab and it marks the founding of the Khalsa by the Guru Gobind Singh in 1699.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gudi Padwa' is the:",
+    "options": [
+      "The Telugu new year",
+      "Marathi new year and the celebration of the hindu Maharashtra",
+      "The Bengali new year",
+      "The Tamil new year"
+    ],
+    "answer": 1,
+    "explanation": "The Gudi Padwa, the Marathi new year, is celebrated on the first day of the Chaitra and the Uttarakhand and the Gudi flags are hoisted.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Puthandu' is the:",
+    "options": [
+      "The Assamese new year",
+      "Tamil new year on the first day of the Tamil month of Chithirai",
+      "The Marathi new year",
+      "The Bengali new year"
+    ],
+    "answer": 1,
+    "explanation": "The Puthandu, the Tamil new year, falls on the first day of the Tamil month of Chithirai, usually in the middle of April.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bihu of Assam and the Baisakhi of the Punjab are:",
+    "options": [
+      "the religious festivals of the temples",
+      "the national festivals",
+      "the harvest festivals",
+      "the new year festivals"
+    ],
+    "answer": 2,
+    "explanation": "The Bihu of the Assam and the Baisakhi of the Punjab are the harvest festivals that mark the new year and the agricultural cycle of the region.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ganesh Chaturthi' marks the:",
+    "options": [
+      "Birth of the Lord Ganesha",
+      "The victory of the Durga",
+      "The birth of the Krishna",
+      "The Mahaparinirvana"
+    ],
+    "answer": 0,
+    "explanation": "The Ganesh Chaturthi, in the Bhadrapada, marks the birth of the Lord Ganesha and it was made a public holiday in 1893 by the British.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Janmashtami festival is:",
+    "options": [
+      "It marks the birth of the Rama",
+      "It marks the death of the Krishna",
+      "It marks the coronation of the Rama",
+      "Janmashtami marks the birth of the Krishna"
+    ],
+    "answer": 3,
+    "explanation": "The Janmashtami, the birth day of the Krishna, is celebrated in the Bhadrapada and the Dahi Handi and the Janmashtami of the Mathura and the Vrindavan are the famous ones.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Raksha Bandhan is:",
+    "options": [
+      "a festival of the brother and the sister",
+      "the festival of the harvest",
+      "the festival of the lamps",
+      "the festival of the bath"
+    ],
+    "answer": 0,
+    "explanation": "The Raksha Bandhan, on the full moon of the Shravana, is the festival of the brother and the sister in which the sister ties a rakhi on the wrist of the brother.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Yajnavalkya and the Nirank are:",
+    "options": [
+      "the Puranic texts",
+      "the mathematical texts",
+      "the Vedic sacrificial texts",
+      "the Buddhist texts"
+    ],
+    "answer": 2,
+    "explanation": "The Yajnavalkya Samhita and the Nirukta are the Vedic texts of the ritual and the exegesis and the Vedas, the Brahmanas, the Aranyakas and the Upanishads are the four Vedas.",
+    "difficulty": "hard",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ram Navami festival is:",
+    "options": [
+      "It marks the birth of the Krishna",
+      "It marks the death of the Rama",
+      "It is celebrated in the Kartika",
+      "The Ram Navami marks the birth of the Rama and the Chaitra is the month"
+    ],
+    "answer": 3,
+    "explanation": "The Ram Navami, on the ninth day of the Chaitra, marks the birth of the Rama and it is celebrated with the processions and the kirtans.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Buddha Purnima is:",
+    "options": [
+      "It marks the death of the Guru Nanak",
+      "The Buddha Purnima marks the birth, the enlightenment and the death of the Buddha",
+      "It marks the birth of the Mahavira",
+      "It marks the first sermon of the Buddha"
+    ],
+    "answer": 1,
+    "explanation": "The Buddha Purnima, on the full moon of the Vaisakha, marks the birth, the enlightenment and the death of the Buddha.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Asalha Puja' marks the:",
+    "options": [
+      "The birth of the Buddha",
+      "The Mahaparinirvana",
+      "The birth of the Mahavira",
+      "The first sermon of the Buddha at the Sarnath"
+    ],
+    "answer": 3,
+    "explanation": "The Asalha Puja, on the full moon of the Ashadha, commemorates the first sermon of the Buddha at the Sarnath, the Dhamma and the Noble Eightfold Path.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Navroz' is the:",
+    "options": [
+      "The harvest of the Punjab",
+      "The festival of the lights",
+      "Persian new year and the spring festival of the Parsis and the Kashmiri Muslims",
+      "The new year of the Tamils"
+    ],
+    "answer": 2,
+    "explanation": "The Navroz, falling on 21 March, is the Persian new year and it is celebrated by the Parsis in India and by the Kashmiri Muslims.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kumbh Mela' at the Prayagraj is held every:",
+    "options": [
+      "Ten years",
+      "Twelve years",
+      "Six years",
+      "Three years"
+    ],
+    "answer": 1,
+    "explanation": "The Kumbh Mela at the Prayagraj, the Nashik and the Ujjain and the Haridwar is held every twelve years and it is the largest of the human gatherings on the earth.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kumbh Mela' was inscribed as the intangible heritage of the humanity in:",
+    "options": [
+      "2017",
+      "2003",
+      "2005",
+      "2011"
+    ],
+    "answer": 0,
+    "explanation": "The Kumbh Mela was inscribed on the Representative List of the Intangible Cultural Heritage of Humanity by UNESCO in 2017.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": 2017
+  },
+  {
+    "q": "The 'Kumbh Mela' at the Nashik is also known as:",
+    "options": [
+      "The Ardh Kumbh",
+      "The Kumbhayan",
+      "The Simhastha or the Kumbha",
+      "The Maha Kumbh"
+    ],
+    "answer": 2,
+    "explanation": "The Kumbh Mela at the Nashik is the Simhastha and it is held every twelve years on the Godavari, while the Prayagraj one is the Maha Kumbh.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'World Heritage List' of the UNESCO started in:",
+    "options": [
+      "1992",
+      "1984",
+      "2000",
+      "1978 with the Convention of 1972"
+    ],
+    "answer": 3,
+    "explanation": "The World Heritage List was inscribed for the first time in 1978 with the Convention of 1972 and India has the sites of the Ajanta, the Ellora, the Sanchi and the Agra from the first batch.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Indian elements on the UNESCO intangible heritage list include:",
+    "options": [
+      "The Indian elements include the Yoga, the Kumbh Mela, the Kutiyattam, the Ramlila, the Chhau, the Kalbelia and the Kumbh",
+      "Only the Yoga is from India",
+      "There are no Indian elements",
+      "Only the Kumbh Mela is from India"
+    ],
+    "answer": 0,
+    "explanation": "The Indian elements on the Representative List include the Yoga, the Kumbh Mela, the Kutiyattam, the Ramlila, the Chhau, the Kalbelia, the Vedic chanting and the Budhya Stree Mela.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'UNESCO Creative Cities' of India:",
+    "options": [
+      "Bengaluru and Hyderabad",
+      "Jaipur for the crafts and the folk art and Varanasi for the crafts",
+      "Mumbai and Delhi",
+      "Chennai and Kolkata"
+    ],
+    "answer": 1,
+    "explanation": "Jaipur was inscribed as a UNESCO Creative City for the Crafts and the Folk Art in 2014 and Varanasi for the Creative Crafts in 2015.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kaziranga, the Manas and the Periyar are:",
+    "options": [
+      "the elephant reserves",
+      "the tiger reserves",
+      "the Rhino reserves",
+      "the Biosphere reserves"
+    ],
+    "answer": 0,
+    "explanation": "The Project Elephant reserves include the Kaziranga, the Manas, the Periyar, the Bhadra, the Nagarhole, the Similipal and the Parambikulam.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Madras Naturalists Society was:",
+    "options": [
+      "founded in 1877",
+      "founded in 1851",
+      "the same body",
+      "founded in 1877 and the Madras Museum in 1851"
+    ],
+    "answer": 3,
+    "explanation": "The Madras Naturalists' Society, founded in 1877, had the Madras Museum in 1851 as its antecedent and the museum is one of the oldest of its kind in the country.",
+    "difficulty": "hard",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Archaeological Survey of India was founded in 1861 and it is:",
+    "options": [
+      "under the Ministry of Education",
+      "under the Ministry of Culture",
+      "founded in 1901",
+      "a private body"
+    ],
+    "answer": 1,
+    "explanation": "The Archaeological Survey of India, founded in 1861 under the Alexander Cunningham, functions under the Ministry of Culture and it protects more than 3,500 monuments.",
+    "difficulty": "easy",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Museum' of India was founded in:",
+    "options": [
+      "1851",
+      "1877",
+      "1949",
+      "1911"
+    ],
+    "answer": 2,
+    "explanation": "The National Museum was founded in 1949 in the erstwhile Prince of Wales' Museum at Delhi and it has one of the largest collections of the Indian art.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Calico Museum' of the Textiles is at:",
+    "options": [
+      "Mumbai",
+      "Ahmedabad",
+      "Delhi",
+      "Jaipur"
+    ],
+    "answer": 1,
+    "explanation": "The Calico Museum of the Textiles, with one of the world's largest collections of the textiles, is at Ahmedabad and it is a national museum of the textiles.",
+    "difficulty": "hard",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chhatrapati Shivaji Maharaj Vastu Sangrahalaya' was earlier known as:",
+    "options": [
+      "The Lalit Kala Museum",
+      "The Chawla Art Gallery",
+      "The Prince of Wales Museum",
+      "The Salarjung Museum"
+    ],
+    "answer": 2,
+    "explanation": "The Prince of Wales Museum in Mumbai was renamed the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya and it houses one of the finest collections of the decorative arts.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Salarjung Museum' is at:",
+    "options": [
+      "Aurangabad",
+      "Jaipur",
+      "Bhopal",
+      "Hyderabad"
+    ],
+    "answer": 3,
+    "explanation": "The Salarjung Museum at Hyderabad, with a collection of over 40,000 objects, is one of the largest museums in the world.",
+    "difficulty": "easy",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Great Stupa at Sanchi is:",
+    "options": [
+      "The Sanchi was built by the Ashoka and the gateways were added later",
+      "The Sanchi was built by the Ashoka and the gateways are of the Gupta period",
+      "It was built by the Kanishka",
+      "It was built by the Satavahanas"
+    ],
+    "answer": 0,
+    "explanation": "The Great Stupa at Sanchi was commissioned by the Ashoka and the elaborately carved gateways were added in the subsequent centuries, mainly in the Satavahana and the Gupta periods.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bateshwar temples in the Madhya Pradesh are:",
+    "options": [
+      "the Vijayanagara monuments",
+      "a group of the 51 Shaiva temples of the Paramara dynasty",
+      "the Buddhist caves",
+      "the Jain temples"
+    ],
+    "answer": 1,
+    "explanation": "The Bateshwar group of the 51 Shaiva temples in the Madhya Pradesh was built by the Paramara king Bhoja and it is one of the finest examples of the Central Indian temple architecture.",
+    "difficulty": "hard",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Chausath Yogini temple of the 9th century is:",
+    "options": [
+      "a cave temple",
+      "in the Assam",
+      "in the Madhya Pradesh and is a circular shrine with 64 cells",
+      "in the Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "The Chausath Yogini temple at the Morena in the Madhya Pradesh is a circular shrine of the 9th century with 64 cells and it is a unique structure.",
+    "difficulty": "hard",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rani ki Vav' at Patan was built in the:",
+    "options": [
+      "11th century and it is a UNESCO World Heritage site",
+      "13th century",
+      "8th century",
+      "16th century"
+    ],
+    "answer": 0,
+    "explanation": "The Rani ki Vav, the stepwell of the Solanki king Bhima I, was built in the 11th century at Patan in the Gujarat and it was inscribed as a World Heritage site in 2014.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Konark temple of the Odisha is:",
+    "options": [
+      "built by the Cholas",
+      "built by the Mughals",
+      "built by the Vijayanagara",
+      "a chariot of the Surya and it was built by the Narasimhadeva I of the Eastern Ganga"
+    ],
+    "answer": 3,
+    "explanation": "The Konark temple, the chariot of the sun god, was built by the Narasimhadeva I of the Eastern Ganga dynasty in the 13th century and it is a World Heritage site.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Khangchendzonga National Park is:",
+    "options": [
+      "The Khangchendzonga National Park in the Sikkim was inscribed in 2016 and it protects the snow leopard",
+      "It was inscribed in 1983",
+      "It is in the Ladakh",
+      "It protects the Asiatic lion"
+    ],
+    "answer": 0,
+    "explanation": "The Khangchendzonga National Park, inscribed as a mixed cultural and natural World Heritage site in 2016, protects the snow leopard, the red panda and the Himalayan tiger.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "The Chhatrapati Shivaji Terminus of the Mumbai was:",
+    "options": [
+      "inscribed in 1993",
+      "inscribed in 2016",
+      "inscribed in 1983",
+      "inscribed in 2004"
+    ],
+    "answer": 3,
+    "explanation": "The Chhatrapati Shivaji Terminus, the Victorian Gothic and Art Deco ensemble of the Mumbai, was inscribed as a World Heritage site in 2004.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Agra Fort was:",
+    "options": [
+      "inscribed in 2004",
+      "inscribed in 1983 and the Red Fort in 1993",
+      "inscribed in 1983",
+      "inscribed in 1993"
+    ],
+    "answer": 1,
+    "explanation": "The Agra Fort was inscribed in 1983 in the first batch and the Red Fort Complex of Delhi in 1993.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Martand temple is:",
+    "options": [
+      "a Buddhist monastery",
+      "in the Himachal Pradesh",
+      "the 8th century temple of the sun god in the Kashmir",
+      "built by the Mughals"
+    ],
+    "answer": 2,
+    "explanation": "The Martand or the Martand temple of the sun, of the 8th century, is in the Kashmir and it is one of the finest of the Hindu temples of the early period.",
+    "difficulty": "hard",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ellora caves are:",
+    "options": [
+      "They are only the Buddhist caves",
+      "They were built in the 18th century",
+      "They are the structural temples",
+      "The Ellora caves, of the 1st to the 10th century, show the Buddhist, the Hindu and the Jain rock-cut architecture"
+    ],
+    "answer": 3,
+    "explanation": "The Ellora caves, cut between the 6th and the 10th centuries, contain the Buddhist, the Hindu and the Jain monuments and they were inscribed in 1983.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Hampi group of monuments, the ruins of the Vijayanagara was:",
+    "options": [
+      "inscribed in 2004",
+      "in the Rajasthan",
+      "inscribed in 1986",
+      "inscribed in 1993"
+    ],
+    "answer": 2,
+    "explanation": "The Group of Monuments at Hampi, the ruins of the Vijayanagara capital, was inscribed as a World Heritage site in 1986.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rock-Hewn Churches' of the Goa were inscribed in:",
+    "options": [
+      "2004",
+      "1986",
+      "1993",
+      "1983"
+    ],
+    "answer": 1,
+    "explanation": "The Churches and the Convents of the Goa, with the Rock-Hewn Churches, were inscribed as a World Heritage site in 1986.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Great Himalayan National Park was:",
+    "options": [
+      "inscribed in 2014 for the outstanding natural beauty and the diverse habitats",
+      "inscribed in 1983",
+      "inscribed in 2005",
+      "inscribed in 1993"
+    ],
+    "answer": 0,
+    "explanation": "The Great Himalayan National Park in the Himachal Pradesh was inscribed in 2014 and it is a biosphere reserve as well.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": 2014
+  },
+  {
+    "q": "They were inscribed in 1984 and they are:",
+    "options": [
+      "inscribed in 1993",
+      "of the Vijayanagara period",
+      "of the Pallava period",
+      "of the Chola period"
+    ],
+    "answer": 2,
+    "explanation": "The Group of Monuments at Mahabalipuram, the rock-cut caves and the Shore Temple of the Pallava period, was inscribed in 1984.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rani ki Vav at Patan is:",
+    "options": [
+      "a stepwell and it was inscribed in 2014",
+      "a temple at the Konark",
+      "a mosque at the Ahmedabad",
+      "a cave at the Ajanta"
+    ],
+    "answer": 0,
+    "explanation": "The Rani ki Vav, the stepwell of the 11th century at Patan, was inscribed as a World Heritage site in 2014.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Dhol Vikram is:",
+    "options": [
+      "a Buddhist stupa of the Bihar",
+      "a temple of the Tamil Nadu",
+      "a fort of the Rajasthan",
+      "a Neolithic site in the Gujarat and it was inscribed in 2021"
+    ],
+    "answer": 3,
+    "explanation": "The Dhol Vikram, a Neolithic settlement of the 3rd millennium BCE in the Gujarat, was inscribed as a World Heritage site in 2021.",
+    "difficulty": "hard",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the inscribed 2023?",
+    "options": [
+      "a natural site",
+      "inscribed in 2023 for the ashram and the university campus of the Tagore",
+      "inscribed in 1983",
+      "inscribed in 2016"
+    ],
+    "answer": 1,
+    "explanation": "The Santiniketan, the ashram and the university campus of the Rabindranath Tagore, was inscribed as a World Heritage cultural site in 2023.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The Jhansi Fort is:",
+    "options": [
+      "not a World Heritage site",
+      "a UNESCO World Heritage site as a part of the Hill Forts of Rajasthan",
+      "a Buddhist site",
+      "a marine site"
+    ],
+    "answer": 1,
+    "explanation": "The Jhansi Fort, built by the Orchha ruler Bir Singh Deo, was inscribed in 2013 as a part of the Hill Forts of Rajasthan group.",
+    "difficulty": "hard",
+    "category": "unesco-and-heritage",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

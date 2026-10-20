@@ -1,0 +1,2222 @@
+[
+  {
+    "q": "The 'Commanding Heights' of the Indian economy are:",
+    "options": [
+      "The railways and the roads",
+      "Agriculture and the informal sector",
+      "The heavy industries and the banking",
+      "The IT and the BPO"
+    ],
+    "answer": 1,
+    "explanation": "The commanding heights of the Indian economy are the agriculture and the informal sector, which together account for a large share of the GDP and of the employment, and the reforms of the 1990s did not touch them.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lewis' model of the dual economy:",
+    "options": [
+      "Explains the savings",
+      "Explains the inflation",
+      "Explains the surplus labour moving from the traditional to the modern sector",
+      "Explains the terms of trade"
+    ],
+    "answer": 2,
+    "explanation": "The Lewis model of the dual economy explains how the surplus labour of the traditional sector moves to the modern sector as the wages rise, and the Kerala model of the V. R. Narayana is the Indian variant of it.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kerala model' of development:",
+    "options": [
+      "Is a model of the industrial liberalisation",
+      "Is a model of the land reforms of the Punjab",
+      "Is a model of the export promotion",
+      "Emphasises the health, the education and the employment with the democratic decentralisation"
+    ],
+    "answer": 3,
+    "explanation": "The Kerala model, associated with the V. R. Narayana, combines the human development with the land reforms, the public health and the people's plan of the decentralised planning.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lewis turning point' in the Indian context:",
+    "options": [
+      "Is the point of the full employment",
+      "Is the point of the demographic dividend",
+      "Is the point of the industrial take-off",
+      "Is the point at which the surplus labour is exhausted and the wages start rising"
+    ],
+    "answer": 3,
+    "explanation": "The Lewis turning point is the point at which the supply of the surplus labour is exhausted and the wages begin to rise, and it is the basis of the argument that the India is close to it.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Harrod-Domar' model:",
+    "options": [
+      "Explains the growth rate of the output as the function of the savings and the capital productivity",
+      "Explains the inflation",
+      "Explains the exchange rate",
+      "Explains the fiscal deficit"
+    ],
+    "answer": 0,
+    "explanation": "The Harrod-Domar model explains the growth rate of the output as the function of the savings rate and the capital productivity, and it is the basis of the planning approach of India.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Golden Rule' of the fiscal policy:",
+    "options": [
+      "A budget with the maximum revenue",
+      "A budget with equal revenue and expenditure",
+      "A budget in which the borrowing is for the capital assets and not for the current consumption",
+      "A budget with no deficit"
+    ],
+    "answer": 2,
+    "explanation": "The golden rule of the public finance says that the borrowing should be for the capital assets and not for the current consumption, and it was relaxed in India in 1991 and 2018 with the fiscal deficit definition.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Laffer curve?",
+    "options": [
+      "Is the exchange rate argument",
+      "Is the supply side argument of the tax cuts",
+      "Is the demand side argument",
+      "Is the monetary policy argument"
+    ],
+    "answer": 1,
+    "explanation": "The Laffer curve is the centrepiece of the supply side economics and it was the argument for the tax cuts of the 1980s in the United States.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Hicks and the Pigou effects are:",
+    "options": [
+      "the monetary effect and the Pigou is the fiscal effect",
+      "the names of the Great Depression",
+      "the two theories of the trade",
+      "the income and the substitution effects of a price change"
+    ],
+    "answer": 3,
+    "explanation": "The Hicks and the Pigou effects are the income and the substitution effects of a price change and they are used to explain the backward-bending demand curve.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Mundell?",
+    "options": [
+      "It is the model of the Phillips curve",
+      "The Mundell-Fleming model analyses the open economy with the perfect capital mobility",
+      "It analyses the closed economy",
+      "It is the model of the supply shocks"
+    ],
+    "answer": 1,
+    "explanation": "The Mundell-Fleming model analyses the open economy with the perfect capital mobility and it is the extension of the IS-LM model of the open economy.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IS-LM' model:",
+    "options": [
+      "Analyses the simultaneous equilibrium of the goods and the money markets",
+      "Analyses the balance of payments",
+      "Analyses the supply of the labour",
+      "Analyses the growth of the capital"
+    ],
+    "answer": 0,
+    "explanation": "The IS-LM model analyses the simultaneous equilibrium of the goods and the money markets and it is the starting point of the macroeconomics of the Keynesian era.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Phillips curve?",
+    "options": [
+      "Shows the relation between the exchange rate and the trade",
+      "Shows the relation between the saving and the income",
+      "Shows the inverse relation between the inflation and the unemployment",
+      "Shows the positive relation between the investment and the interest rate"
+    ],
+    "answer": 2,
+    "explanation": "The Phillips curve shows the inverse relation between the rate of the inflation and the rate of the unemployment, though the relationship has weakened in the recent decades.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Lucas critique is:",
+    "options": [
+      "the critique of the structural models",
+      "the critique of the policy models that ignore the effect of the policy on the expectations",
+      "the critique of the monetarism",
+      "the critique of the fiscal policy"
+    ],
+    "answer": 1,
+    "explanation": "The Lucas critique, articulated in 1976, is the criticism of the policy models that fail to account for the effect of the policy on the expectations and the behaviour of the agents.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Fisher equation' relates the:",
+    "options": [
+      "Saving to the income",
+      "Investment to the demand",
+      "Nominal interest rate to the inflation and the real rate",
+      "Exchange rate to the inflation"
+    ],
+    "answer": 2,
+    "explanation": "The Fisher equation says that the nominal interest rate is approximately the real interest rate plus the expected inflation, and it is the basis of the distinction between the real and the nominal rates.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Modigliani-Miller' proposition:",
+    "options": [
+      "States that the monetary policy is ineffective",
+      "States that the fiscal policy is ineffective",
+      "States that the banks are unnecessary",
+      "States that the capital structure does not affect the value of the firm in a perfect market"
+    ],
+    "answer": 3,
+    "explanation": "The Modigliani-Miller propositions of 1958 argue that in a perfect market without the taxes and the frictions the capital structure does not affect the value of the firm.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gordon' model of the dividend:",
+    "options": [
+      "Relates the share price to the dividend and the required rate of return",
+      "Relates the money supply to the prices",
+      "Relates the deficit to the growth",
+      "Relates the exports to the imports"
+    ],
+    "answer": 0,
+    "explanation": "The Gordon model of the dividend discount relates the price of the share to the expected dividend and the required rate of return and it is the base of the dividend discount model.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Baumol?",
+    "options": [
+      "They are the models of the balance of payments",
+      "They are the models of the growth",
+      "The Baumol and the Tobin models of the transactions demand for the money",
+      "They are the models of the inflation"
+    ],
+    "answer": 2,
+    "explanation": "The Baumol and the Tobin models of the transactions demand for the money explain the interest rate sensitivity of the demand for the money for the transactions purpose.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Okun's law' relates the:",
+    "options": [
+      "Interest to the investment",
+      "Change in the output to the change in the unemployment",
+      "Inflation to the unemployment",
+      "Saving to the income"
+    ],
+    "answer": 1,
+    "explanation": "Okun's law states that the growth of the output falls as the unemployment rises, and the coefficient is known as the Okun's coefficient.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Phillips curve is:",
+    "options": [
+      "the trade off between the growth and the inflation",
+      "the relation between the saving and the investment",
+      "the relation between the import and the export",
+      "the trade off between the inflation and the unemployment"
+    ],
+    "answer": 3,
+    "explanation": "The Phillips curve represents the short run trade off between the inflation and the unemployment, a relationship that has weakened with the anchored expectations.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the GNP is correct?",
+    "options": [
+      "The GNP excludes the depreciation",
+      "The GNP is the same as the GDP",
+      "The GNP is always higher than the GDP",
+      "The GNP at the market prices includes the depreciation"
+    ],
+    "answer": 0,
+    "explanation": "The GNP at the market prices is the GDP plus the net factor income from abroad and the NNP is the GNP less the depreciation.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gross Value Added' at the basic prices:",
+    "options": [
+      "Is the net income of the nation",
+      "Is the GDP less the product taxes",
+      "Is the GDP at the factor cost",
+      "Is the same as the GNP"
+    ],
+    "answer": 1,
+    "explanation": "The GVA at the basic prices is the GDP less the product taxes and it is the sum of the GVA of the industries.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the National Accounts is correct?",
+    "options": [
+      "The National Accounts Statistics of the India is the main source of the GDP data",
+      "It is the main source of the fiscal data",
+      "It is the main source of the monetary data",
+      "It is the main source of the trade data"
+    ],
+    "answer": 0,
+    "explanation": "The National Accounts Statistics, compiled by the Central Statistical Organisation, is the main source of the GDP and the related macro-economic data of India.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The GDP at the market prices have:",
+    "options": [
+      "the same as the GVA",
+      "the sum of the net domestic product and the depreciation",
+      "The GDP excludes the services",
+      "the GVA plus the product taxes"
+    ],
+    "answer": 3,
+    "explanation": "The GDP at the market prices is the GVA at the basic prices plus the product taxes, and the GDP at the factor cost is the same as the GVA.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The per capita income of the India is:",
+    "options": [
+      "the same for all the states",
+      "measured by the HDI",
+      "calculated at the current prices and the state with the highest is not necessarily the most prosperous",
+      "calculated at the constant prices only"
+    ],
+    "answer": 2,
+    "explanation": "The per capita income is calculated at the current prices and it is a poor guide to the prosperity, as the Goa and the Delhi have a high per capita income with a low growth and the Bihar has a low one.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Net National Income at the factor cost':",
+    "options": [
+      "Is the NNP at the factor cost and it is the sum of the incomes of the residents",
+      "It is the same as the GDP",
+      "It is the total of the exports",
+      "It is the total of the government revenue"
+    ],
+    "answer": 0,
+    "explanation": "The Net National Income at the factor cost is the sum of the factor incomes of the residents after the depreciation and it is the basis of the national income accounting.",
+    "difficulty": "hard",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Discrepancy' between the two approaches of the national income:",
+    "options": [
+      "Is the balance of payments",
+      "Is the difference between the income and the production estimates",
+      "Is the profit of the corporate sector",
+      "Is the fiscal deficit"
+    ],
+    "answer": 1,
+    "explanation": "The discrepancy between the income and the production estimates of the national income is an unavoidable statistical discrepancy in the national accounts.",
+    "difficulty": "hard",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The primary data of the National Accounts comes:",
+    "options": [
+      "only from the surveys",
+      "only from the budget",
+      "from the RBI",
+      "from the administrative records and the surveys"
+    ],
+    "answer": 3,
+    "explanation": "The primary data for the national accounts comes from the administrative records of the government and from the surveys of the NSS and the departments.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The non-institutional sector of the Indian economy is:",
+    "options": [
+      "the largest source of the exports",
+      "the smallest sector of the economy",
+      "the largest employer",
+      "the largest producer of the goods"
+    ],
+    "answer": 2,
+    "explanation": "The non-institutional or the unorganised sector, with the small and the marginal enterprises, is the largest employer of India with over 80 per cent of the workforce.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The fixed costs do not vary with the output and the sunk costs are:",
+    "options": [
+      "no difference",
+      "the costs already incurred",
+      "The fixed costs vary with the output",
+      "the future costs"
+    ],
+    "answer": 1,
+    "explanation": "The fixed costs, like the rent and the insurance, do not vary with the output and the sunk costs are the past expenditures that cannot be recovered by any future action.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gresham's law' states that:",
+    "options": [
+      "Good money drives out bad",
+      "The money supply must be constant",
+      "The exchange rate must be fixed",
+      "Bad money drives out good money from the circulation"
+    ],
+    "answer": 3,
+    "explanation": "Gresham's law states that the bad money drives out the good money from the circulation, and it is the reason for the currency redesign in the India.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Bimetallism?",
+    "options": [
+      "Is the system of the paper money",
+      "Is the system of the multiple exchange rates",
+      "Is the system of the two metals as the money standard and it was abandoned by the India in 1893",
+      "Is the system of the two currencies in the foreign exchange market"
+    ],
+    "answer": 2,
+    "explanation": "The bimetallism, with the gold and the silver as the money standard, was abandoned by the Indian coinage Act of 1893 in favour of the gold standard.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Currency?",
+    "options": [
+      "The Reserve Bank of India has the sole authority to issue the bank notes in India",
+      "The government issues the bank notes",
+      "The public can issue the notes",
+      "The RBI issues the coins"
+    ],
+    "answer": 0,
+    "explanation": "The Reserve Bank of India has the sole authority to issue the bank notes in India and it issues the notes of the denominations of one rupee and above.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the NCNB, which of the following is correct?",
+    "options": [
+      "It is a new bank",
+      "It is the nationalisation of the insurance",
+      "The Nationalisation of the banks by the RBI Act of 1934 is the NCBN",
+      "It is a currency swap"
+    ],
+    "answer": 2,
+    "explanation": "The Reserve Bank of India Act of 1934 nationalised the Imperial Bank of India and the note issuing functions of the provincial banks and it also provided for the establishment of the RBI.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Banking is correct?",
+    "options": [
+      "It nationalised the cooperative banks",
+      "The Bank Nationalisation Act of 1955 nationalised the banks with the deposits of over Rs. 50 lakh",
+      "It nationalised the SBI",
+      "It was of 1955 for the insurance"
+    ],
+    "answer": 1,
+    "explanation": "The Banking (Commercial Banks and the Denominations) Act of 1955, with the Deshmukh, made the 14 banks with the deposits of over Rs. 50 lakh the property of the state.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The SBI was constituted:",
+    "options": [
+      "in 1949",
+      "in 1906",
+      "the first of the nationalised banks",
+      "in 1955 as the successor of the Imperial Bank of India"
+    ],
+    "answer": 3,
+    "explanation": "The State Bank of India was constituted in July 1955 under the SBI Act of 1955 as the successor of the Imperial Bank of India.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the NABARD?",
+    "options": [
+      "NABARD was set up in 1982 on the recommendation of the Sivaraman Committee",
+      "It was set up in 1954",
+      "It was set up in 1969",
+      "It is a commercial bank"
+    ],
+    "answer": 0,
+    "explanation": "The NABARD was set up on 12 July 1982 on the recommendation of the Sivaraman Committee as the apex institution for the agriculture and the rural development.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The SIDBI is the principal financial institution for the MSME sector and it was set:",
+    "options": [
+      "up in 1969",
+      "the apex of the cooperatives",
+      "a private bank",
+      "up in 1990"
+    ],
+    "answer": 3,
+    "explanation": "The SIDBI, the Small Industries Development Bank of India, is the principal financial institution for the MSME sector and it was set up in 1990.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The EXIM Bank was:",
+    "options": [
+      "set up in 1991",
+      "a private bank",
+      "set up in 1982 to finance the exports and the imports",
+      "set up in 1954"
+    ],
+    "answer": 2,
+    "explanation": "The EXIM Bank of India was set up in 1982 to provide the financing for the exports, the imports and the infrastructure and the developmental activities.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NHB' is:",
+    "options": [
+      "The apex institution for the housing finance and it was set up in 1988",
+      "It was set up in 1955",
+      "It is a commercial bank",
+      "It is the apex of the agriculture"
+    ],
+    "answer": 0,
+    "explanation": "The National Housing Bank, set up in July 1988 as the apex institution for the housing finance, is wholly owned by the RBI.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The SEBI was constituted:",
+    "options": [
+      "a ministry",
+      "in 1988 and it was given the statutory powers in 1992",
+      "in 1992 as a statute",
+      "in 2000"
+    ],
+    "answer": 1,
+    "explanation": "The SEBI was constituted in April 1988 as a non-statutory body and it was given the statutory powers by the SEBI Act of 1992.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the IRDAI?",
+    "options": [
+      "The IRDAI was set up in 1999 and it regulates the insurance sector",
+      "It was set up in 1991",
+      "It was set up in 1948",
+      "It is a commercial bank"
+    ],
+    "answer": 0,
+    "explanation": "The IRDAI was constituted in 1999 under the IRDA Act of 1999 and it took over the regulation of the insurance from the Controller of Insurance.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PFRDA' is:",
+    "options": [
+      "The securities regulator",
+      "The insurance regulator",
+      "The Pension Fund Regulatory and Development Authority set up in 2003",
+      "The financial regulator of the banks"
+    ],
+    "answer": 2,
+    "explanation": "The PFRDA, the Pension Fund Regulatory and Development Authority, was constituted in 2003 under the PFRDA Act of 1999 to regulate the pension funds and the National Pension System.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The CVC was constituted in 1988 and it was made:",
+    "options": [
+      "in 1991",
+      "a statutory body of the 2003 Act",
+      "a judicial body",
+      "a multi-member body in 1993"
+    ],
+    "answer": 3,
+    "explanation": "The Central Vigilance Commission was constituted in 1988 and it was made a multi-member body with the executive control in 1993 and it was given the statutory status in 2003.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Capital adequacy, which of the following is correct?",
+    "options": [
+      "They regulate the insurance solvency",
+      "The Basel norms require the minimum capital of 8 per cent of the risk weighted assets and the India adopted them from 2013",
+      "They require the 5 per cent of the deposits",
+      "They are the guidelines of the SEBI"
+    ],
+    "answer": 1,
+    "explanation": "The Basel III norms require the total capital of at least 8 per cent of the risk weighted assets and the RBI phased them in from 2013 with the full compliance by 2019.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The overall priority sector lending target is:",
+    "options": [
+      "5 per cent of the deposits",
+      "18 per cent of the ANBC with the sub-targets for the agriculture and the MSMEs",
+      "40 per cent of the GDP",
+      "only to the exports"
+    ],
+    "answer": 1,
+    "explanation": "The overall priority sector target of the scheduled commercial banks is 18 per cent of the adjusted net bank credit with the sub-targets of 18 per cent for the agriculture and 7.5 per cent for the MSMEs.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The PMJDY of 2014 aimed at a bank account for every household and it had:",
+    "options": [
+      "the largest number of the accounts opened in the world",
+      "of 2015",
+      "the insurance scheme",
+      "of 1991"
+    ],
+    "answer": 0,
+    "explanation": "The Pradhan Mantri Jan Dhan Yojana of 2014 aimed at a bank account for every household and it achieved the largest number of the basic bank accounts opened in the world.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Payment?",
+    "options": [
+      "It was set up in 1991",
+      "It is a commercial bank",
+      "It is a ministry",
+      "The NPCI was set up in 2008 under the guidance of the RBI and the IBA"
+    ],
+    "answer": 3,
+    "explanation": "The National Payments Corporation of India was set up in 2008 as an initiative of the RBI and the Indian Banks' Association to operate the retail payments systems.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The digital payment transactions in India have grown enormously with the UPI and it was:",
+    "options": [
+      "achieved in 1991",
+      "launched in 2016",
+      "the largest real time payment system of the world",
+      "still negligible"
+    ],
+    "answer": 2,
+    "explanation": "The digital payment transactions of India have grown enormously and the UPI, launched in 2016, is the largest real time payment system in the world.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Financial Literacy Assessment Survey is:",
+    "options": [
+      "conducted annually by the RBI",
+      "conducted by the SEBI",
+      "a census",
+      "a mandatory exam"
+    ],
+    "answer": 0,
+    "explanation": "The National Financial Literacy Assessment Survey, conducted annually by the RBI, measures the financial literacy of the Indians and it showed an improvement in 2021.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Mutual Fund?",
+    "options": [
+      "The RBI regulates the mutual funds",
+      "The IRDAI regulates the mutual funds",
+      "The MFI is a department of the government",
+      "The SEBI and the AMFI regulate the mutual funds and the UTI is the oldest one"
+    ],
+    "answer": 3,
+    "explanation": "The mutual funds are regulated by the SEBI with the AMFI and the Unit Trust of India, the largest, was established in 1964.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The LIC of India is:",
+    "options": [
+      "a unit of the RBI",
+      "the largest life insurer and it was nationalised in 1956",
+      "nationalised in 1947",
+      "a private company"
+    ],
+    "answer": 1,
+    "explanation": "The Life Insurance Corporation was formed in 1956 with the nationalisation of the 44 Indian insurers and it is the largest life insurer in the country.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The FEMA of 1999 gave:",
+    "options": [
+      "a trade law",
+      "a bankruptcy law",
+      "the RBI the authority over the foreign exchange and the capital account transactions",
+      "of 1973"
+    ],
+    "answer": 2,
+    "explanation": "The Foreign Exchange Management Act of 1999, which came into force in 2000, gave the RBI the authority to regulate the foreign exchange and the capital account transactions, replacing the FERA of 1973.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The IBC of 2016 gave:",
+    "options": [
+      "the creditors the control of the company and the time-bound resolution",
+      "it abolished the SARFAESI Act",
+      "the SEBI",
+      "the banking regulation act"
+    ],
+    "answer": 0,
+    "explanation": "The Insolvency and Bankruptcy Code of 2016 put the creditors in control of the insolvent company and provided for a time-bound resolution with the professional managers.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The MUDRA loans are:",
+    "options": [
+      "for the large corporates",
+      "for the farmers only",
+      "a foreign funding scheme",
+      "for the micro units and the small enterprises and the Shishu category is for the new entrepreneurs"
+    ],
+    "answer": 3,
+    "explanation": "The MUDRA, the Micro Units Development and Refinance Agency Ltd, provides the loans to the micro and the small enterprises with the Shishu, the Kishore and the Tarun categories.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The banks in the India have:",
+    "options": [
+      "all privately owned",
+      "the CRR and the SLR and the priority sector lending obligations",
+      "no regulatory obligations",
+      "The RBI does not regulate the banks"
+    ],
+    "answer": 1,
+    "explanation": "The Indian banks are subject to the CRR and the SLR and the priority sector lending obligations and the RBI is the apex regulator of the banking system.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The balance sheet is:",
+    "options": [
+      "for a period",
+      "for a point in time",
+      "a statement of the financial position at a point of time and the income statement is for a period",
+      "a point in time and the balance sheet is for a period"
+    ],
+    "answer": 2,
+    "explanation": "The balance sheet is a statement of the financial position at a particular date and the income statement presents the performance over a period.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Depreciation' in the accounting:",
+    "options": [
+      "Is an expense of the year of the purchase",
+      "Is the allocation of the cost of the asset over its useful life",
+      "Is the fall in the market value",
+      "Is the loss of the cash"
+    ],
+    "answer": 1,
+    "explanation": "The depreciation is the systematic allocation of the cost of a tangible asset over its useful life and it is a non-cash expense.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Working capital' of a company:",
+    "options": [
+      "Is the cash balance only",
+      "Is the long term funds",
+      "Is the current assets less the current liabilities",
+      "Is the total assets"
+    ],
+    "answer": 2,
+    "explanation": "The working capital is the current assets less the current liabilities and it measures the short term liquidity of the business.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The headline inflation of India is:",
+    "options": [
+      "measured by the WPI",
+      "the WPI",
+      "the same",
+      "measured by the CPI and the core by the CPI excluding the food and the fuel"
+    ],
+    "answer": 3,
+    "explanation": "The headline inflation of India is measured by the CPI (Combined) and the core inflation is the CPI without the food, the fuel and the light.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Base year' of the Indian CPI has been revised to:",
+    "options": [
+      "2012",
+      "2011-12",
+      "2010",
+      "2004-05"
+    ],
+    "answer": 0,
+    "explanation": "The base year of the CPI series was revised to 2012 and the earlier 2010 and the 2004-05 bases are no longer used.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Deflation?",
+    "options": [
+      "It is the fall in the GDP",
+      "It is the fall in the exports",
+      "It is the opposite of the inflation and it is the fall in the general price level",
+      "It is the rise in the interest rate"
+    ],
+    "answer": 2,
+    "explanation": "Deflation is a fall in the general price level and it is generally regarded as more harmful than the mild inflation, as it increases the real burden of the debt.",
+    "difficulty": "easy",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the CPI, which of the following is correct?",
+    "options": [
+      "Neither is used in India",
+      "The CPI measures the retail prices and the WPI the wholesale prices",
+      "The WPI measures the retail prices",
+      "Both measure the same"
+    ],
+    "answer": 1,
+    "explanation": "The Consumer Price Index measures the retail prices of the consumer goods and the Wholesale Price Index measures the wholesale prices of the commodities.",
+    "difficulty": "easy",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The expectations theory says that the inflation is:",
+    "options": [
+      "a function of the expected inflation and it is a forward looking process",
+      "always the demand pull",
+      "fixed",
+      "the monetarist theory"
+    ],
+    "answer": 0,
+    "explanation": "The expectations theory, associated with the Lucas and the Sargent, holds that the inflation is a function of the expected inflation and that the monetary policy is forward looking.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Base effect' in the inflation:",
+    "options": [
+      "Raises the interest rate",
+      "Is the monetary policy tool",
+      "Is the fiscal deficit",
+      "Makes the year-on-year inflation look lower because of a high base of the previous year"
+    ],
+    "answer": 3,
+    "explanation": "A high base of the previous year makes the year-on-year inflation look lower, which is the base effect and it is important in reading the Indian inflation data.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The fuel and the transport are:",
+    "options": [
+      "only the wholesale prices",
+      "the largest contributors of the retail inflation in India",
+      "the smallest",
+      "not included in the CPI"
+    ],
+    "answer": 1,
+    "explanation": "The fuel and the light and the transport are the largest contributors of the retail inflation in India and the administered prices of the fuel amplify the fluctuations.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The monetary policy is:",
+    "options": [
+      "the process of controlling the supply of money and the demand for it",
+      "the process of the taxation",
+      "the control of the foreign exchange",
+      "the control of the fiscal deficit"
+    ],
+    "answer": 0,
+    "explanation": "The monetary policy is the process of the control of the supply of money in the economy and the demand for it, with the objective of the price stability.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Zero lower bound is:",
+    "options": [
+      "a rule about the government borrowing",
+      "the limit on the budget deficit",
+      "a restriction on the foreign investment",
+      "the constraint that the central bank cannot lower the interest rate below zero"
+    ],
+    "answer": 3,
+    "explanation": "The zero lower bound is the constraint that a central bank facing a very weak demand cannot lower the policy rate below zero, which is one reason for the unconventional policies after 2008.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The forward contract is:",
+    "options": [
+      "a speculative future",
+      "a government bond",
+      "an agreement to buy or sell at a future price and it is used to hedge the currency risk",
+      "a spot transaction"
+    ],
+    "answer": 2,
+    "explanation": "The forward contract is an agreement to buy or sell a currency at a fixed price on a future date and it is the simplest instrument of the currency risk management.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Sterilised?",
+    "options": [
+      "It is the increase of the CRR",
+      "The sterilised intervention means the RBI intervenes to check the exchange rate without changing the domestic liquidity",
+      "It means the RBI prints the money",
+      "It is the sale of the government securities"
+    ],
+    "answer": 1,
+    "explanation": "In a sterilised intervention the central bank sells or buys the foreign exchange to check the exchange rate while offsetting the domestic liquidity impact.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The bank rate was:",
+    "options": [
+      "the rate of the deposit of the public",
+      "the rate of the open market operations",
+      "the repo rate",
+      "the rate at which the RBI lent to the commercial banks and it was the earlier instrument of the monetary policy"
+    ],
+    "answer": 3,
+    "explanation": "The bank rate, the oldest instrument of the monetary policy, is the rate at which the RBI can lend to the commercial banks against the commercial paper and the securities.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The CRR is correct?",
+    "options": [
+      "The CRR is the minimum reserve that the banks must keep with the RBI and it earns no interest",
+      "It is the reserve with the post office",
+      "It is the reserve of the government securities",
+      "It is the cash reserve of the public"
+    ],
+    "answer": 0,
+    "explanation": "The Cash Reserve Ratio is the minimum reserve that the banks must keep with the RBI as a share of the NDTL and it earns no interest for the banks, unlike the SLR.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the SLR?",
+    "options": [
+      "It is the reserve of the cash with the public",
+      "It is a tax",
+      "The SLR is the share of the NDTL that must be maintained in the cash, the gold or the approved securities",
+      "It is the reserve with the RBI"
+    ],
+    "answer": 2,
+    "explanation": "The Statutory Liquidity Ratio is maintained in the cash, the gold or the approved securities and the banks earn interest on it.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The call money is:",
+    "options": [
+      "for a longer period",
+      "the same",
+      "used in the India",
+      "the overnight loan between the banks and the term money is for a longer period"
+    ],
+    "answer": 3,
+    "explanation": "The call money is the overnight loan between the banks and the term money is lent for a period of more than a day and it is the largest segment of the money market.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Inflation targeting' in the India:",
+    "options": [
+      "The RBI has a statutory mandate with the target notified by the Central Government",
+      "It is a discretionary framework",
+      "It was introduced in 1991",
+      "There is no target"
+    ],
+    "answer": 0,
+    "explanation": "The inflation targeting framework is statutory in India since the RBI Act amendment of 2016 and the target is notified by the Central Government in consultation with the RBI.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the MPC?",
+    "options": [
+      "It has no voting",
+      "The MPC has six members and the Governor has the casting vote in the event of a tie",
+      "It has four members",
+      "It is chaired by the Finance Minister"
+    ],
+    "answer": 1,
+    "explanation": "The Monetary Policy Committee has six members and in the event of an equality of the votes the Governor has a second or the casting vote.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Fiscal?",
+    "options": [
+      "It is the management of the foreign exchange",
+      "It is the control of the money supply",
+      "The fiscal policy is the manipulation of the government spending and the taxation to achieve the economic goals",
+      "It is the manipulation of the interest rate"
+    ],
+    "answer": 2,
+    "explanation": "The fiscal policy is the use of the government spending, the taxation and the borrowing to achieve the economic objectives and it is the responsibility of the Ministry of Finance.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Automatic Stabiliser?",
+    "options": [
+      "There are no automatic stabilisers",
+      "The progressive taxes and the unemployment benefits are the automatic stabilisers",
+      "The repo rate is an automatic stabiliser",
+      "The monetary policy is an automatic stabiliser"
+    ],
+    "answer": 1,
+    "explanation": "The automatic stabilisers are the built-in features of the budget like the progressive taxation and the unemployment benefits, which moderate the business cycle without any new government action.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Deficit?",
+    "options": [
+      "The fiscal deficit is the total expenditure less the receipts excluding the borrowings",
+      "The revenue deficit is the capital expenditure",
+      "The primary deficit excludes the capital expenditure",
+      "The fiscal deficit is the borrowings less the repayments"
+    ],
+    "answer": 0,
+    "explanation": "The fiscal deficit is the total expenditure minus the total receipts excluding the borrowings, and it is the total of the revenue deficit and the capital deficit.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The FRBM Act of 2003 provides:",
+    "options": [
+      "of 1991",
+      "the monetary policy act",
+      "the SEBI",
+      "the framework of the fiscal discipline and the medium term targets"
+    ],
+    "answer": 3,
+    "explanation": "The Fiscal Responsibility and Budget Management Act of 2003 provides the framework of the fiscal policy with the targets of the fiscal deficit and the public debt and the medium term fiscal policy statement.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Escape clause' of the FRBM:",
+    "options": [
+      "It is the provision to cut the taxes",
+      "It is the provision to increase the subsidies",
+      "Allows the deviation from the fiscal deficit target in the exceptional circumstances like a war or a calamity",
+      "It is the provision to borrow more"
+    ],
+    "answer": 2,
+    "explanation": "The escape clause of the FRBM Act allows the government to deviate from the fiscal deficit target in the exceptional circumstances like a war, a calamity or a collapse of the farm output, and it was used in 2020-21 for the pandemic.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Expenditure?",
+    "options": [
+      "The revenue expenditure creates the assets",
+      "There is no difference",
+      "The capital expenditure creates the assets and the revenue expenditure does not",
+      "They are the same"
+    ],
+    "answer": 2,
+    "explanation": "The capital expenditure creates the assets and the future income and the revenue expenditure is for the recurring obligations with no such asset creation.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The subsidies in India are:",
+    "options": [
+      "no subsidy for the foodgrains",
+      "the major fiscal burden and the subsidies of the fertiliser and the petroleum and the food are the largest",
+      "negligible",
+      "paid by the states"
+    ],
+    "answer": 1,
+    "explanation": "The subsidies of the foodgrains, the fertiliser and the petroleum are the largest of the fiscal subsidies of India and the reforms of 1991 and the targeted subsidies were the response to them.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The GST Council decides the tax rates and the structure and it is:",
+    "options": [
+      "a body of the Central government alone",
+      "chaired by the President",
+      "a judicial body",
+      "a joint forum of the Centre and the states"
+    ],
+    "answer": 3,
+    "explanation": "The GST Council, chaired by the Union Finance Minister, is the apex body for the administration of the GST and it is a joint forum of the Centre and the states.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Enabled the GST and the NJAC and it was:",
+    "options": [
+      "the 101st Amendment of 2016",
+      "of 1991",
+      "the NITI Aayog",
+      "it lowered the voting age"
+    ],
+    "answer": 0,
+    "explanation": "The Constitution (One Hundred and First Amendment) Act of 2016 enabled the GST with the Article 279A and the National Judicial Appointments Commission with the Article 124.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "122nd Amendment was:",
+    "options": [
+      "the bill for the citizenship amendment",
+      "the GST Bill that was passed in 2016 with the 101st Amendment",
+      "of 1991",
+      "the NITI Aayog"
+    ],
+    "answer": 1,
+    "explanation": "The Constitution (122nd Amendment) Bill of 2014 became the 101st Amendment Act of 2016 after the ratification by the states.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "The petroleum products are:",
+    "options": [
+      "in the GST from 2018",
+      "exempt from all the taxes",
+      "outside the GST and are governed by the central excise",
+      "in the GST from 2017"
+    ],
+    "answer": 2,
+    "explanation": "The petroleum products have been kept outside the GST and they continue to be subject to the central excise, and the GST Council reviews the issue periodically.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The direct taxes are:",
+    "options": [
+      "the taxes on the income and the corporation and they are progressive",
+      "regressive",
+      "the customs duties",
+      "the excises"
+    ],
+    "answer": 0,
+    "explanation": "The direct taxes, the income tax and the corporation tax, are borne by the persons according to their ability to pay and the indirect taxes are the GST and the customs.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Corporate tax' of 2017:",
+    "options": [
+      "Increased the rate to 40 per cent",
+      "Was abolished",
+      "It was the same as the personal income tax",
+      "Reduced the rate to 25.17 per cent for the companies with the effective tax of that level"
+    ],
+    "answer": 3,
+    "explanation": "The Finance Act of 2017 reduced the corporate tax rate to 25.17 per cent for the companies that had an effective tax rate of that level, and it removed the surcharges and the cess for them.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": 2017
+  },
+  {
+    "q": "The new slabs of the 2021 have:",
+    "options": [
+      "the 2.5 lakh exemption with the 5.4 per cent and the 12 per cent and the 20 per cent and the 30 per cent",
+      "the same as the 2019",
+      "no personal income tax",
+      "rs. 5 lakh"
+    ],
+    "answer": 0,
+    "explanation": "The Finance Act of 2021 introduced the new slabs with the Rs. 2.5 lakh exemption and the standard deduction of Rs. 50,000 and the 30 per cent as the highest rate.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "Which of the following statements regarding the Defence is correct?",
+    "options": [
+      "The defence is not in the budget",
+      "The defence is the largest single budget head of the Indian government",
+      "The defence is a minor head",
+      "The defence budget is funded by the states"
+    ],
+    "answer": 1,
+    "explanation": "The defence is the largest single budget head of the Indian government, with the capital expenditure accounting for a large share of it and the pensions and the revenue expenditure for the rest.",
+    "difficulty": "easy",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The MGNREGA has a budget of about Rs. 1,48,000 crore and it is:",
+    "options": [
+      "a budget of Rs. 5,000 crore",
+      "a state scheme",
+      "the largest budget head",
+      "the largest rural employment programme"
+    ],
+    "answer": 3,
+    "explanation": "The MGNREGA has a budget allocation of about Rs. 1.48 lakh crore and it is the largest rural employment programme of the world.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The interest payments of the government are:",
+    "options": [
+      "the fiscal deficit",
+      "the primary deficit",
+      "a significant part of the revenue expenditure",
+      "the capital expenditure"
+    ],
+    "answer": 2,
+    "explanation": "The interest payments are a substantial and growing part of the revenue expenditure of the government and they constrain the fiscal space.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Finance Commission?",
+    "options": [
+      "It recommended no devolution",
+      "It is an advisory of the RBI",
+      "The 15th Finance Commission increased the tax devolution to the states to 41 per cent",
+      "It reduced it to 30 per cent"
+    ],
+    "answer": 2,
+    "explanation": "The 15th Finance Commission recommended the devolution of 41 per cent of the divisible pool to the states for 2021-26, an increase of six percentage points over the 14th Commission.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The GST revenue has grown to about Rs. 18 lakh crore a year and the collections are:",
+    "options": [
+      "no growth",
+      "of about 96 per cent of the target",
+      "about Rs. 5 lakh crore",
+      "about Rs. 30 lakh crore"
+    ],
+    "answer": 1,
+    "explanation": "The gross GST revenue has crossed the Rs. 18 lakh crore mark and the collections have been consistently above the target.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The peak customs duty was:",
+    "options": [
+      "10 per cent in 1991",
+      "never reduced",
+      "50 per cent in 1990",
+      "over 300 per cent in 1990-91 and it was reduced to about 60 per cent in 1992-93"
+    ],
+    "answer": 3,
+    "explanation": "The peak customs duty of over 300 per cent in 1990-91 was reduced to about 60 per cent in the 1992-93 budget as a part of the liberalisation.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the disinvestment, which of the following is correct?",
+    "options": [
+      "The disinvestment proceeds go to the Consolidated Fund and they finance the fiscal deficit",
+      "They go to the states directly",
+      "They are tax free for the buyer",
+      "They are not in the budget"
+    ],
+    "answer": 0,
+    "explanation": "The disinvestment proceeds are credited to the Consolidated Fund of India and they are part of the receipts that finance the fiscal deficit.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the fiscal gap is correct?",
+    "options": [
+      "It is the same as the fiscal deficit",
+      "It is the difference between the actual and the potential output",
+      "It is the difference between the revenue and the expenditure",
+      "It is the gap in the tax base"
+    ],
+    "answer": 1,
+    "explanation": "The fiscal gap, the concept of the Olivier Blanchard, is the difference between the actual and the potential output and it measures the macroeconomic cost of the fiscal adjustment.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Annual Financial Statement of the Constitution is:",
+    "options": [
+      "the Budget and it is laid before the Parliament under Article 112",
+      "the Economic Survey",
+      "the Monetary Policy Statement",
+      "a part of the Audit Report"
+    ],
+    "answer": 0,
+    "explanation": "The Annual Financial Statement, the Budget, is laid before the Parliament under Article 112 and the Economic Survey is a separate document presented a day earlier.",
+    "difficulty": "easy",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Zero-based budgeting' in India:",
+    "options": [
+      "Is the preparation of the budget from the scratch every year without any review",
+      "Is the budget of the defence",
+      "Is a scheme of the NITI Aayog",
+      "Is the approach of the fresh scrutiny of the expenditure every year"
+    ],
+    "answer": 3,
+    "explanation": "The zero-based budgeting is the approach of a fresh scrutiny of the expenditure every year with no presumption of the continuation, and it has been introduced in some the departments.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Outcome budget?",
+    "options": [
+      "Is the audit report of the CAG",
+      "Is the monetary policy statement",
+      "States the outcomes of the schemes and the outputs of the departments",
+      "Is a part of the Economic Survey"
+    ],
+    "answer": 2,
+    "explanation": "The outcome budget, introduced in 2018-19, states the outcomes of the schemes and the outputs of the departments along with the measurable deliverables.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the gender budget?",
+    "options": [
+      "Is a scheme of the women self-help groups",
+      "Is the budget of the state governments",
+      "Is the practice of the accounting of the expenditure and the provisioning of the services for the women",
+      "Is a budget for the ministries of the women"
+    ],
+    "answer": 2,
+    "explanation": "The gender budget is the practice of the accounting of the expenditure and the provisioning of the services for the women, and it is presented in the Expenditure Profile of the Union Budget.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The sub-centre is:",
+    "options": [
+      "the first tier of the education",
+      "a court",
+      "a revenue office",
+      "the first tier of the health care with the four health workers and the five services"
+    ],
+    "answer": 3,
+    "explanation": "The sub-centre is the first tier of the health care delivery with the four health workers, the ANM, the ASHA, the AWW and the male health worker, providing the five services.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ayushman Arogya Mandir is:",
+    "options": [
+      "a drug procurement scheme",
+      "the upgradation of the sub-centres into the health and the wellness centres",
+      "a hospital scheme",
+      "a medical college scheme"
+    ],
+    "answer": 1,
+    "explanation": "The Ayushman Arogya Mandir scheme is the upgradation of the existing sub-centres and the primary health centres into the health and the wellness centres with the Ayushman Bharat and the ABHA.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Samagra Shiksha is:",
+    "options": [
+      "the school education programme of the Ministry of Education",
+      "the higher education programme",
+      "the adult literacy programme",
+      "the teacher training programme"
+    ],
+    "answer": 0,
+    "explanation": "The Samagra Shiksha, the school education programme, subsumes the Sarva Shiksha Abhiyan, the Rashtriya Madhyamik Shiksha Abhiyan, the teacher education and the adult education.",
+    "difficulty": "easy",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the PM SHRI, which of the following is correct?",
+    "options": [
+      "It is a higher education scheme",
+      "It is a scholarship scheme",
+      "It is a midday meal scheme",
+      "Is the school education programme for the school infrastructure and the teachers in the government schools"
+    ],
+    "answer": 3,
+    "explanation": "The PM SHRI, the school infrastructure programme, covers the school construction, the repair, the toilets and the ramps and the teacher training.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Panchkoshi was:",
+    "options": [
+      "a fiscal policy",
+      "the education policy",
+      "the five-year plan of the V.K. Krishna Menon that was dropped",
+      "a five-year plan of the Nehru"
+    ],
+    "answer": 2,
+    "explanation": "The Panchkoshi, the draft of the second five year plan prepared by the V.K. Krishna Menon, was dropped after the food crisis and the Sino-Indian War.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Garibi Hatao plan of 1961-66 was:",
+    "options": [
+      "the fifth plan",
+      "the third five year plan",
+      "the fourth plan",
+      "the second plan"
+    ],
+    "answer": 1,
+    "explanation": "The Garibi Hatao, the third five year plan of 1961-66, emphasised the agriculture and the employment and it was drafted largely by the D.R. Gadgil.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The balanced regional development of the Gadgil Yojana was:",
+    "options": [
+      "the model of the first plan",
+      "the model of the second plan",
+      "the model of the third plan",
+      "the model of the seventh plan"
+    ],
+    "answer": 0,
+    "explanation": "The Gadgil Yojana of the first plan, based on the balanced regional development and the industries, was the model of the P.C. Mahalanobis of the second plan.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Fifth Plan of 1974-79 was:",
+    "options": [
+      "the last of the five year plans and it was affected by the drought and the oil shock",
+      "the plan of the heavy industry",
+      "the employment plan",
+      "the backward regions plan"
+    ],
+    "answer": 0,
+    "explanation": "The Fifth Plan of 1974-79, the last of the five year plans, was severely hit by the drought, the oil shock and the inflation and it ended with the Janata government.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sixth Plan of 1980-85 had:",
+    "options": [
+      "the backward regions plan",
+      "the employment plan",
+      "the food security plan",
+      "the objectives of the growth and the modernisation of the agriculture and the industrialisation"
+    ],
+    "answer": 3,
+    "explanation": "The Sixth Plan of 1980-85 emphasised the growth with the modernisation of the agriculture and the industrialisation with the employment generation.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Eighth Plan of 1992-97 was:",
+    "options": [
+      "the Garibi Hatao plan",
+      "the heavy industry plan",
+      "the employment plan with the human capital formation",
+      "the backward regions plan"
+    ],
+    "answer": 2,
+    "explanation": "The Eighth Plan of 1992-97 was the employment plan and it emphasised the human capital formation, the globalisation and the private sector development.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ninth Plan of 1997-2002 was:",
+    "options": [
+      "the heavy industry plan",
+      "the backward regions plan",
+      "the employment plan",
+      "the Garibi Hatao plan"
+    ],
+    "answer": 1,
+    "explanation": "The Ninth Plan of 1997-2002 was the backward regions plan with the emphasis on the human resources and the reduction of the regional disparities.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Tenth Plan of 2002-07 had:",
+    "options": [
+      "the backward regions plan",
+      "the employment plan",
+      "the Garibi Hatao plan",
+      "the targets of the 8 to 10 per cent growth and the reduction of the poverty"
+    ],
+    "answer": 3,
+    "explanation": "The Tenth Plan of 2002-07 had the targets of the 8 to 10 per cent growth, the reduction of the poverty ratio and the emphasis on the health, the education and the employment.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Eleventh Plan of 2007-12 was:",
+    "options": [
+      "the Garibi Hatao plan",
+      "the plan of the faster and the inclusive growth",
+      "the backward regions plan",
+      "the employment plan"
+    ],
+    "answer": 1,
+    "explanation": "The Eleventh Plan of 2007-12 was the plan of the faster and the inclusive growth and it was the first to be prepared by the NITI Aayog.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Twelfth Plan of 2012-17 had:",
+    "options": [
+      "the targets of the 8.5 per cent growth and the reduction of the poverty",
+      "the backward regions plan",
+      "the employment plan",
+      "the Garibi Hatao plan"
+    ],
+    "answer": 0,
+    "explanation": "The Twelfth Plan of 2012-17 had the targets of the 8.5 per cent growth and the reduction of the poverty and the emphasis on the health, the education, the jobs and the skills.",
+    "difficulty": "easy",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the NITI Aayog is correct?",
+    "options": [
+      "It has a two-tier structure",
+      "It is chaired by the President",
+      "The NITI Aayog has the three-tier structure and it does not allocate the plan funds",
+      "It allocates the plan funds"
+    ],
+    "answer": 2,
+    "explanation": "The NITI Aayog, which replaced the Planning Commission in 2015, has the three-tier structure of the national, the state and the district and it does not allocate the plan funds.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Make in India Index of the NITI Aayog ranks:",
+    "options": [
+      "the states on the literacy",
+      "the states on the health",
+      "the states on the exports",
+      "the states on the 45 parameters of the manufacturing ecosystem"
+    ],
+    "answer": 3,
+    "explanation": "The Make in India Index ranks the states on the 45 parameters of the manufacturing ecosystem, the business ecosystem, the human capital, the technology and the trade.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The SDG India Index is:",
+    "options": [
+      "prepared by the NITI Aayog with the Oxford Policy and Human Development Centre",
+      "prepared by the World Bank",
+      "prepared by the RBI",
+      "prepared by the CAG"
+    ],
+    "answer": 0,
+    "explanation": "The SDG India Index is prepared by the NITI Aayog with the technical assistance of the Oxford Policy and Human Development Centre and it is the first such index in the world.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Multidimensional Poverty Index' of the UNDP and the OPHI measures:",
+    "options": [
+      "The inequality of the income",
+      "The deprivations in the health, the education and the living standards",
+      "Only the income",
+      "Only the health"
+    ],
+    "answer": 1,
+    "explanation": "The MPI measures the overlapping deprivations in the three dimensions of the health, the education and the living standards and it is a measure of the acute poverty.",
+    "difficulty": "easy",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ease of Doing Business' of the World Bank was discontinued after the report of:",
+    "options": [
+      "2021",
+      "2018",
+      "2020",
+      "2019"
+    ],
+    "answer": 2,
+    "explanation": "The World Bank discontinued the Doing Business Report after the 2020 edition, and the India was ranked 63rd in that report.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": 2020
+  },
+  {
+    "q": "The World Banks Human Development Report is:",
+    "options": [
+      "the alternative to the HDI of the UNDP",
+      "the economic survey",
+      "the monetary policy report",
+      "the human development report"
+    ],
+    "answer": 0,
+    "explanation": "The World Bank publishes the Human Capital Index and the reports on the poverty and the shared prosperity as the alternatives to the UNDP's Human Development Report.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Global Hunger Index' is published by:",
+    "options": [
+      "The World Bank",
+      "The Concern Worldwide and the World Food Policy Institute",
+      "The UNDP",
+      "The FAO and the WHO"
+    ],
+    "answer": 1,
+    "explanation": "The Global Hunger Index is published annually by the Concern Worldwide and the World Food Policy Institute and it ranks the countries on the three hunger indicators.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Economic Freedom Index is:",
+    "options": [
+      "published by the IMF",
+      "published by the UNCTAD",
+      "published by the Heritage Foundation and the Fraser Institute",
+      "published by the World Bank"
+    ],
+    "answer": 2,
+    "explanation": "The Economic Freedom Index is published by the Heritage Foundation and the Fraser Institute and India is ranked in the 'moderately free' category.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Transparency International is correct?",
+    "options": [
+      "The World Bank",
+      "The UNDP",
+      "The OECD",
+      "Transparency International"
+    ],
+    "answer": 3,
+    "explanation": "The Corruption Perceptions Index is published by the Transparency International and India has consistently been ranked in the lower half of the index.",
+    "difficulty": "easy",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Democracy Index' is published by:",
+    "options": [
+      "The Freedom House",
+      "The Transparency International",
+      "The World Bank",
+      "The Economist Intelligence Unit"
+    ],
+    "answer": 3,
+    "explanation": "The Democracy Index is published by the Economist Intelligence Unit and it measures the five dimensions of the democratic governance.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'World Happiness Report' is published by:",
+    "options": [
+      "The World Happiness Report is a product of the World Happiness Forum with the SDSU and the Gallup",
+      "It is published by the UNDP",
+      "It is published by the World Bank",
+      "It is published by the OECD"
+    ],
+    "answer": 0,
+    "explanation": "The World Happiness Report is a product of the World Happiness Forum and it is compiled with the SDSU and the Gallup World Poll.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Global Innovation Index' is published by:",
+    "options": [
+      "The UNDP",
+      "The WIPO with the World Bank and the other partners",
+      "The OECD",
+      "The World Bank"
+    ],
+    "answer": 1,
+    "explanation": "The Global Innovation Index is published by the WIPO in partnership with the World Bank and a number of other organisations.",
+    "difficulty": "easy",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'World Competitiveness Report' is published by:",
+    "options": [
+      "The IMF",
+      "The OECD",
+      "The World Economic Forum",
+      "The World Bank"
+    ],
+    "answer": 2,
+    "explanation": "The World Competitiveness Report is published by the World Economic Forum at the Davos and it ranks the economies on the twelve factors of the competitiveness.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Global Gender Gap Report' is published by:",
+    "options": [
+      "The UNDP",
+      "The World Bank",
+      "The ILO",
+      "The World Economic Forum"
+    ],
+    "answer": 3,
+    "explanation": "The Global Gender Gap Report is published by the World Economic Forum and it measures the gender gaps in the economic participation, the education, the health and the political empowerment.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Environmental Performance Index' is published by:",
+    "options": [
+      "The OECD",
+      "The Yale University and the Columbia University",
+      "The UNDP",
+      "The World Bank"
+    ],
+    "answer": 1,
+    "explanation": "The Environmental Performance Index is published jointly by the Yale Center for Environmental Law and Policy and the Columbia University's Center for International Earth Science Information Network.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Human Development Report' is published by:",
+    "options": [
+      "The WHO",
+      "The ILO",
+      "The UNDP",
+      "The World Bank"
+    ],
+    "answer": 2,
+    "explanation": "The Human Development Report, published annually by the UNDP since 1990, introduced the Human Development Index with the three dimensions of the health, the education and the income.",
+    "difficulty": "easy",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'F index' of the press freedom:",
+    "options": [
+      "Is the score of the freedom of the press and it is the part of the World Press Freedom Index",
+      "Is a monetary policy measure",
+      "It is the index of the media ownership",
+      "It is a trade competitiveness index"
+    ],
+    "answer": 0,
+    "explanation": "The F index or the score of the freedom of the press is the part of the World Press Freedom Index and it measures the freedom of the news media in the country.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Inequality?",
+    "options": [
+      "It measures the inflation",
+      "It measures the unemployment",
+      "It measures the growth",
+      "The Gini coefficient measures the inequality of the income and it ranges from 0 to 1"
+    ],
+    "answer": 3,
+    "explanation": "The Gini coefficient, from 0 for the perfect equality to 1 for the perfect inequality, is the most widely used measure of the income inequality.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The number of the Indian billionaires in the world is:",
+    "options": [
+      "a monetary policy measure",
+      "a trade indicator",
+      "a measure of the inequality and it is the part of the Hurun index",
+      "a measure of the GDP"
+    ],
+    "answer": 2,
+    "explanation": "The Hurun index of the global billionaires and the number of the Indian billionaires in the world are the indicators of the concentration of the wealth.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Multidimensional?",
+    "options": [
+      "It is a trade index",
+      "The Alkire and the Foster multidimensional poverty index identifies the poor by the overlapping deprivations",
+      "It measures the income only",
+      "It is the Human Development Index"
+    ],
+    "answer": 1,
+    "explanation": "The Alkire and the Foster multidimensional poverty index identifies the poor through the overlapping deprivations and it gives the poverty headcount ratio and the intensity.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Eklavya, which of the following is correct?",
+    "options": [
+      "The Eklavya is the model school of the NITI Aayog for the school education",
+      "It is a scheme of the education ministry",
+      "It is a digital education platform",
+      "It is a scheme of the NITI Aayog for the health"
+    ],
+    "answer": 0,
+    "explanation": "The Eklavya model school, with the bagless and the bagless and the holistic education, is the NITI Aayog's model for the school education with the foundational learning and the vocational exposure.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Indian economy is:",
+    "options": [
+      "the third largest",
+      "the eighth largest",
+      "the seventh largest",
+      "the fifth largest of the world by the nominal GDP"
+    ],
+    "answer": 3,
+    "explanation": "By the nominal GDP the Indian economy is the fifth largest in the world after the United States, China, Germany and Japan.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Services, which of the following is correct?",
+    "options": [
+      "It is the smallest sector",
+      "It employs a tenth of the workforce",
+      "The tertiary sector contributes about half of the GDP and the bulk of the exports and the employment",
+      "It contributes a tenth of the GDP"
+    ],
+    "answer": 2,
+    "explanation": "The tertiary or the services sector contributes about half of the GDP and the bulk of the exports and it is the largest employer of the country.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Unemployment?",
+    "options": [
+      "The CMIE estimates the unemployment rate and the PLFS is the official source",
+      "The PLFS is the private estimate",
+      "The CMIE is the official source",
+      "There is no official estimate"
+    ],
+    "answer": 0,
+    "explanation": "The Periodic Labour Force Survey is the official source of the employment data and the CMIE provides the alternative estimates that are often quoted.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The agriculture is correct?",
+    "options": [
+      "It is 10 per cent of the GDP",
+      "The agriculture is about 18 per cent of the GDP and it employs about 45 per cent of the workforce",
+      "It is 30 per cent of the GDP",
+      "It employs 20 per cent of the workforce"
+    ],
+    "answer": 1,
+    "explanation": "The agriculture and the allied sectors contribute about 18 per cent of the GDP and provide the livelihood to about 45 per cent of the workforce, and the disparity is the core challenge of the Indian economy.",
+    "difficulty": "easy",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The secondary sector is about a quarter of the GDP and it has been:",
+    "options": [
+      "grown rapidly",
+      "largely stagnant in the last decade",
+      "half of the GDP",
+      "a tenth of the GDP"
+    ],
+    "answer": 1,
+    "explanation": "The secondary or the industrial sector contributes about a quarter of the GDP and its growth has been largely stagnant, which is the concern of the economic surveys.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The informal sector contributes about half of the GDP and it is:",
+    "options": [
+      "a tenth of the GDP",
+      "a negligible sector",
+      "it employs a tenth of the workforce",
+      "the largest employer"
+    ],
+    "answer": 3,
+    "explanation": "The informal or the unorganised sector contributes about half of the GDP and it is the largest employer with over 80 per cent of the workforce.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The gross fixed capital formation is:",
+    "options": [
+      "above the peer economies",
+      "negligible",
+      "about a third of the GDP and it is below the level of the peer economies",
+      "half of the GDP"
+    ],
+    "answer": 2,
+    "explanation": "The gross fixed capital formation of about a third of the GDP is well below the level of the peer economies and the investment rate is a key concern of the economic surveys.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The total factor productivity in the Indian manufacturing is:",
+    "options": [
+      "far below that of China",
+      "the highest in the world",
+      "comparable to the South Korea",
+      "no data"
+    ],
+    "answer": 0,
+    "explanation": "The total factor productivity of the Indian manufacturing is far below that of China, and this is the central challenge of the economic growth.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The growth elasticity of the employment in the India is:",
+    "options": [
+      "equal to one",
+      "no data",
+      "far below the growth elasticity of the GDP",
+      "above the GDP elasticity"
+    ],
+    "answer": 2,
+    "explanation": "The growth elasticity of the employment in India is far below the growth elasticity of the GDP, and the bridging of this gap is the central challenge of the employment generation.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The female labour force participation rate of India is:",
+    "options": [
+      "among the lowest in the world",
+      "the highest in the world",
+      "50 per cent",
+      "25 per cent"
+    ],
+    "answer": 0,
+    "explanation": "The female labour force participation rate of India, at around 30 per cent or lower, is among the lowest in the world, and the female unemployment is correspondingly high.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "About 11.3 per cent of the Indian population was:",
+    "options": [
+      "no data",
+      "multidimensionally poor in 2019-20",
+      "40 per cent",
+      "2 per cent"
+    ],
+    "answer": 1,
+    "explanation": "The multidimensional poverty of India, at about 11.3 per cent in 2019-20, is much lower than the income poverty, and this is a strong argument for the social investments.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the State?",
+    "options": [
+      "All the states have the same per capita income",
+      "The per capita income is the same everywhere",
+      "There is no variation",
+      "There is a large inter-state variation in the per capita income and the growth in India"
+    ],
+    "answer": 3,
+    "explanation": "There is a large inter-state variation in the per capita income and the growth in India, and the poorer states have fallen further behind, which is the focus of the recent schemes.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Economic Survey 2022-23 used:",
+    "options": [
+      "the theme of 'A New Dawn'",
+      "'Time to Move'",
+      "'In the Union Budget 2021'",
+      "'India's Growth Roadmap'"
+    ],
+    "answer": 0,
+    "explanation": "The Economic Survey 2022-23, presented on 31 January 2023, had the theme of 'A New Dawn' and it was the first under the Amrit Kaal.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Economic Survey 2022-23",
+    "year": 2023
+  }
+]

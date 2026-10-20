@@ -1,0 +1,1547 @@
+[
+  {
+    "q": "The Unified Payments Interface (UPI), India's real-time payment system, was launched by:",
+    "options": [
+      "The National Payments Corporation of India in 2016",
+      "The Finance Ministry in 2015",
+      "NSE and BSE jointly in 2017",
+      "The Reserve Bank of India in 2016"
+    ],
+    "answer": 0,
+    "explanation": "UPI was launched by the National Payments Corporation of India in 2016 as a system for instant account-to-account payments, built on the Immediate Payment Service and the National Payments Grid.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "NPCI",
+    "year": 2016
+  },
+  {
+    "q": "In 2023, for the first time, the volume of UPI transactions processed in a single month exceeded:",
+    "options": [
+      "20 billion",
+      "1 billion",
+      "5 billion",
+      "10 billion"
+    ],
+    "answer": 3,
+    "explanation": "UPI processed more than 10 billion transactions in a month for the first time in June 2023, making it the largest real-time payment system in the world by volume.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "NPCI",
+    "year": 2023
+  },
+  {
+    "q": "The RBI's direction that merchants not be charged any transaction fee on UPI payments came into force from:",
+    "options": [
+      "1 January 2022",
+      "1 April 2021",
+      "1 July 2022",
+      "1 January 2023"
+    ],
+    "answer": 0,
+    "explanation": "The RBI's circular of November 2021 mandated zero merchant discount rate on UPI transactions from 1 January 2022 for all small and large merchants, though the charge for large entities with turnover above Rs 500 crore was deferred.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2022
+  },
+  {
+    "q": "The 'Credit Line on UPI' product, allowing small businesses to offer credit on UPI, was launched in which year?",
+    "options": [
+      "2020",
+      "2021",
+      "2022",
+      "2019"
+    ],
+    "answer": 2,
+    "explanation": "Credit Line on UPI was launched in June 2022 by IndiaPayments with RuPay, initially for small and micro merchants such as kirana stores, with pre-sanctioned credit limits.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "NPCI",
+    "year": 2022
+  },
+  {
+    "q": "The UPI 123Pay feature, enabling small merchants to accept digital payments through a QR code and a UPI Lite debit card, was introduced in:",
+    "options": [
+      "March 2024",
+      "November 2024",
+      "January 2023",
+      "June 2022"
+    ],
+    "answer": 1,
+    "explanation": "UPI 123Pay was introduced in November 2024 as a simplified payment system for small merchants without a smartphone, allowing tap-and-pay through a linked UPI Lite debit card.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2024
+  },
+  {
+    "q": "The Financial Sector Action Council, which reviews the financial sector's vulnerabilities, was constituted through an amendment to which Act?",
+    "options": [
+      "The Companies Act, 2013",
+      "The Reserve Bank of India Act, 1934",
+      "The SEBI Act, 1992",
+      "The Insurance Act, 1938"
+    ],
+    "answer": 1,
+    "explanation": "The Finance Act, 2021 amended the RBI Act to provide for a Financial Sector Action Council chaired by the Union Finance Minister, with the RBI Governor as a member.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2021
+  },
+  {
+    "q": "The RBI issued consolidated directions on digital lending platforms in which year?",
+    "options": [
+      "2021",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "answer": 0,
+    "explanation": "The RBI issued the Digital Lending Directions in October 2021, requiring fintechs to be regulated by an RBI entity as a Lending Service Provider and mandating fair pricing and data protection practices.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2021
+  },
+  {
+    "q": "The RBI's Master Direction on Know Your Customer (KYC) was first issued in which year?",
+    "options": [
+      "2012",
+      "2005",
+      "2016",
+      "2010"
+    ],
+    "answer": 2,
+    "explanation": "The Master Direction on KYC was issued in February 2016, consolidating all KYC guidelines and moving away from periodic KYC updates to a risk-based approach with event-based updates.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2016
+  },
+  {
+    "q": "Under the priority sector lending norms of the RBI, banks must extend at least 40 per cent of their Adjusted Net Bank Credit to:",
+    "options": [
+      "Micro, small and medium enterprises",
+      "Export-oriented units",
+      "The agricultural sector",
+      "Weaker sections"
+    ],
+    "answer": 3,
+    "explanation": "Banks must lend at least 18 per cent of ANBC to agriculture, 22.5 per cent to micro, small and medium enterprises and 40 per cent in total to weaker sections under the overall priority sector target of 40 per cent of ANBC.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The minimum share of Adjusted Net Bank Credit that banks must route to the agriculture sector is:",
+    "options": [
+      "18 per cent",
+      "25 per cent",
+      "10 per cent",
+      "12 per cent"
+    ],
+    "answer": 0,
+    "explanation": "Under the RBI's priority sector lending norms, at least 18 per cent of Adjusted Net Bank Credit must be advanced to agriculture, and within this, 10 per cent is for small and marginal farmers.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The Fiscal Responsibility and Budget Management Act was enacted in which year?",
+    "options": [
+      "2000",
+      "2003",
+      "2005",
+      "2008"
+    ],
+    "answer": 1,
+    "explanation": "The FRBM Act, 2003 institutionalised a framework for fiscal discipline and medium-term fiscal targets; in 2018 the government removed the 3 per cent fiscal deficit target from the Rules of Business.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 15th Finance Commission recommended a vertical devolution of the divisible pool to states of:",
+    "options": [
+      "40 per cent",
+      "37 per cent",
+      "41 per cent",
+      "42 per cent"
+    ],
+    "answer": 2,
+    "explanation": "The 15th Finance Commission, covering 2021-26, recommended 41 per cent vertical devolution of the divisible pool to states and 60 per cent of the pool for states based on population, with 40 per cent for other criteria.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Finance Commission",
+    "year": 2021
+  },
+  {
+    "q": "India's total exports of goods and services in 2023-24 were approximately:",
+    "options": [
+      "USD 1,020 billion",
+      "USD 734 billion",
+      "USD 625 billion",
+      "USD 856 billion"
+    ],
+    "answer": 3,
+    "explanation": "India's exports of goods and services reached a record USD 856 billion in 2023-24, of which merchandise exports were about USD 432 billion, with the goods trade deficit narrowing to about USD 254 billion.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Economic Survey 2023-24",
+    "year": 2024
+  },
+  {
+    "q": "The size of India's current account deficit in 2023-24 was estimated at about:",
+    "options": [
+      "4.5 per cent of GDP",
+      "1.8 per cent of GDP",
+      "0.7 per cent of GDP",
+      "2.9 per cent of GDP"
+    ],
+    "answer": 2,
+    "explanation": "India's current account deficit narrowed to about 0.7 per cent of GDP in 2023-24, estimated at under USD 35 billion, helped by record services exports and lower merchandise imports.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2024
+  },
+  {
+    "q": "The repo rate of the Reserve Bank of India was raised to 6.50 per cent with effect from which month in 2022?",
+    "options": [
+      "June 2022",
+      "August 2022",
+      "April 2022",
+      "February 2022"
+    ],
+    "answer": 0,
+    "explanation": "In an off-cycle policy meeting on 8 June 2022, the RBI raised the repo rate by 250 basis points to 6.50 per cent, the sharpest single increase since the monetary policy framework was reformed.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2022
+  },
+  {
+    "q": "Monthly GST revenue collections first crossed the mark of one lakh crore rupees in:",
+    "options": [
+      "October 2020",
+      "July 2021",
+      "April 2022",
+      "March 2021"
+    ],
+    "answer": 1,
+    "explanation": "Gross GST collections first exceeded Rs 1 lakh crore in July 2021, and the government has repeatedly reported monthly collections above that benchmark since then.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The New Public Sector Enterprise Policy announced in 2021 provides for:",
+    "options": [
+      "Reservation of 51 per cent for the private sector",
+      "Merging of all public sector enterprises into a single holding company",
+      "Privatisation of all public sector enterprises",
+      "A 'minimum presence' of the public sector in four strategic sectors with the rest privatised or closed"
+    ],
+    "answer": 3,
+    "explanation": "The 2021 policy prescribes a bare minimum presence of the public sector in strategic sectors such as defence, railways, energy, banking, petroleum, space and atomic energy, with non-strategic businesses to be privatised or closed.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "DPIIT",
+    "year": 2021
+  },
+  {
+    "q": "The 'Securities Market Code', a single consolidated regulatory framework proposed by SEBI, was proposed in which year?",
+    "options": [
+      "2020",
+      "2021",
+      "2023",
+      "2019"
+    ],
+    "answer": 2,
+    "explanation": "SEBI proposed in 2023 a consolidated Securities Market Code to replace its multiple regulations on intermediaries, listing obligations and mutual funds, and also proposed a study on overseas expansion of Indian capital markets.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "SEBI",
+    "year": 2023
+  },
+  {
+    "q": "IRDAI, the insurance regulator, issued a consolidated Master Circular in which year?",
+    "options": [
+      "2022",
+      "2024",
+      "2019",
+      "2021"
+    ],
+    "answer": 1,
+    "explanation": "IRDAI issued a Master Circular in March 2024 consolidating regulations on life, health and general insurance, replacing the IRDAI Regulations, 2019 that had superseded the 1998 regulations.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "IRDAI",
+    "year": 2024
+  },
+  {
+    "q": "The RBI's Financial Inclusion Index (FI-Index) was launched in which year?",
+    "options": [
+      "2022",
+      "2017",
+      "2019",
+      "2021"
+    ],
+    "answer": 3,
+    "explanation": "The FI-Index, released by the RBI with the National Strategy for Financial Inclusion, was launched in 2021 to measure and track progress on financial inclusion across states.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2021
+  },
+  {
+    "q": "The Startup India Seed Fund Scheme, which provides grants to eligible startups, was approved in which year?",
+    "options": [
+      "2022",
+      "2023",
+      "2020",
+      "2021"
+    ],
+    "answer": 0,
+    "explanation": "The Startup India Seed Fund Scheme was approved in 2022 with a corpus of Rs 945 crore, implemented through the Startup India Seed Fund Fund of Funds managed by SIDBI.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The portability of the National Food Security Act entitlements across states, under the One Nation One Ration Card, is implemented through:",
+    "options": [
+      "Direct cash transfers to bank accounts of beneficiaries",
+      "Vouchers redeemable at fair price shops",
+      "Digitised ration cards with biometric authentication only",
+      "Aadhaar-linked e-Ration cards and the Integrated Management of PDS portal"
+    ],
+    "answer": 3,
+    "explanation": "The Integrated Management of PDS portal links e-Ration cards across states so that a National Food Security Act beneficiary can buy ration from any fair price shop in the country.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Government of India",
+    "year": 2021
+  },
+  {
+    "q": "In the Maneka Gandhi case of 1978, the Supreme Court held that:",
+    "options": [
+      "The President can dissolve the Lok Sabha on the advice of the Council of Ministers",
+      "Reservation in promotions is unconstitutional",
+      "The right to life includes the right to live with dignity and the right to privacy",
+      "The basic structure doctrine applies to all constitutional amendments"
+    ],
+    "answer": 2,
+    "explanation": "Maneka Gandhi v Union of India held that Article 21's guarantee of personal liberty includes the right to live with dignity, which was read with the right to privacy and the right to live in a healthy environment.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Supreme Court judgment",
+    "year": null
+  },
+  {
+    "q": "The basic structure doctrine of the Indian Constitution was propounded by the Supreme Court in:",
+    "options": [
+      "S. R. Bommai case of 1994",
+      "Kesavananda Bharati case of 1973",
+      "Maneka Gandhi case of 1978",
+      "Minerva Mills case of 1980"
+    ],
+    "answer": 1,
+    "explanation": "The Kesavananda Bharati judgment of 1973 held by a 7-6 majority that Parliament's amending power under Article 368 is subject to the basic structure of the Constitution.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Supreme Court judgment",
+    "year": null
+  },
+  {
+    "q": "The Supreme Court judgment in the S. R. Bommai case of 1994 dealt principally with:",
+    "options": [
+      "The proclamation of President's Rule and federalism",
+      "The validity of emergency regulations",
+      "The abolition of the Legislative Council",
+      "Reservation of seats for women"
+    ],
+    "answer": 0,
+    "explanation": "The Bommai judgment held that the proclamation of President's Rule under Article 356 is subject to judicial review, that federalism is a basic feature, and that the majority government test applies.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Supreme Court judgment",
+    "year": null
+  },
+  {
+    "q": "In the Justice K. S. Puttaswamy case of 2017, the Supreme Court held that:",
+    "options": [
+      "The right to privacy is protected under Article 21 and Article 19",
+      "Elections to the Panchayats are unconstitutional",
+      "The right to information is a fundamental right",
+      "The right to privacy is not a fundamental right"
+    ],
+    "answer": 0,
+    "explanation": "The nine-judge Puttaswamy judgment of 2017 held unanimously that the right to privacy is intrinsic to life and personal freedom under Article 21 and is also traceable to Article 19.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Supreme Court judgment",
+    "year": 2017
+  },
+  {
+    "q": "The Navtej Singh Johar judgment of 2018 dealt with:",
+    "options": [
+      "Legalisation of the right to die",
+      "Mandatory disclosure of political party funding",
+      "Decriminalisation of adultery under the IPC",
+      "Decriminalisation of consensual sexual acts between adults under Section 377 IPC"
+    ],
+    "answer": 3,
+    "explanation": "The Navtej Singh Johar judgment read down Section 377 IPC to decriminalise consensual sexual acts between adults, holding that sexual autonomy is protected by Article 21.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Supreme Court judgment",
+    "year": 2018
+  },
+  {
+    "q": "The Joseph Shine judgment of 2018 concerned:",
+    "options": [
+      "The Equal Remuneration Act",
+      "Section 497 IPC on adultery",
+      "Section 377 IPC",
+      "Dowry prohibition law"
+    ],
+    "answer": 1,
+    "explanation": "The Joseph Shine case struck down Section 497 of the Indian Penal Code as unconstitutional, holding that adultery cannot be a ground for punishing a spouse.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Supreme Court judgment",
+    "year": 2018
+  },
+  {
+    "q": "The right to education as a fundamental right was inserted into the Constitution as Article 21A by which Constitutional Amendment Act?",
+    "options": [
+      "The 93rd Amendment, 2005",
+      "The 84th Amendment, 2001",
+      "The 86th Amendment, 2002",
+      "The 87th Amendment, 2003"
+    ],
+    "answer": 2,
+    "explanation": "The 86th Constitutional Amendment Act, 2002 inserted Article 21A, making the right to education a fundamental right for children aged six to fourteen, and changed Article 45 accordingly.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Judicial Appointments Commission Act, 2014, which was struck down by the Supreme Court, was replaced by:",
+    "options": [
+      "The National Judicial Appointments Commission (Amendment) Act, 2016",
+      "The Constitution (99th Amendment) Act, 2014",
+      "The Judicial Appointments Commission Act, 2019",
+      "The collegium-based rules notified in 2018"
+    ],
+    "answer": 0,
+    "explanation": "The NJAC Act, 2014 was struck down in April 2015 as violating judicial independence, and a National Judicial Appointments Commission (Amendment) Act, 2016 restored the collegium while giving the CJI an overriding role.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Supreme Court judgment",
+    "year": 2015
+  },
+  {
+    "q": "The Minerva Mills judgment of 1980 laid down that the Constitution is based on:",
+    "options": [
+      "Judicial supremacy over all branches",
+      "The doctrine of separation of powers only",
+      "Absolute power of the Parliament",
+      "Limited power of the legislature to amend the fundamental features"
+    ],
+    "answer": 3,
+    "explanation": "Minerva Mills held that the Constitution's limited amending power under Article 368 cannot be used to destroy the basic structure, and that the balance between fundamental rights and Directive Principles is a basic feature.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Supreme Court judgment",
+    "year": null
+  },
+  {
+    "q": "In the I. R. Coelho case of 2007, the Supreme Court held that:",
+    "options": [
+      "Constitutional amendments do not need a supermajority",
+      "Ninth Schedule laws cannot be challenged on basic structure grounds",
+      "Ninth Schedule laws are subject to the basic structure test when enacted after 24 April 1973",
+      "The Ninth Schedule can be expanded by ordinary legislation"
+    ],
+    "answer": 2,
+    "explanation": "The I. R. Coelho judgment held that laws placed in the Ninth Schedule after 24 April 1973 are open to basic structure review, while laws placed before that date are presumed to be valid.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Supreme Court judgment",
+    "year": null
+  },
+  {
+    "q": "In the 2023 judgment in the Ram Nath Goenka case, the Supreme Court declined to:",
+    "options": [
+      "Bar the Chief Election Commissioner from exercising discretion",
+      "Hold simultaneous elections across states unconstitutional",
+      "Direct a one-time survey of parties on the likely support of members",
+      "Allow the counting of postal ballots before the poll day"
+    ],
+    "answer": 1,
+    "explanation": "The Supreme Court declined to issue a direction to the Election Commission on simultaneous elections, leaving the matter to the Commission and the legislature, thereby keeping the door open for 'one nation, one election'.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The Delimitation Commission set up in 2022 was tasked with:",
+    "options": [
+      "Redrawing the boundaries of parliamentary constituencies only",
+      "Allocating seats reserved for women",
+      "Redrawing the boundaries of states",
+      "Delimiting the constituencies for the census-based exercise and freezing the strength of the Lok Sabha and state assemblies"
+    ],
+    "answer": 3,
+    "explanation": "The Delimitation Commission constituted in 2022 was to delimit constituencies on the basis of the first census after 2026, with its recommendations freezing the strength of the Lok Sabha and state assemblies until 2031.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023 provides for:",
+    "options": [
+      "Continuation of the CEC's term until 75 years of age",
+      "A fixed six-year term for the Chief Election Commissioner, removable only for specified reasons",
+      "A three-member commission with a two-year term",
+      "The CEC to be appointed by a parliamentary committee"
+    ],
+    "answer": 1,
+    "explanation": "The 2023 Act gives the Chief Election Commissioner a term of six years or until the age of 65, whichever is earlier, with removal only for specified causes and a defined process.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The term of a member of the Union Public Service Commission, as fixed by law in 2023, is:",
+    "options": [
+      "Six years or the age of 65, whichever is earlier",
+      "Five years or the age of 60",
+      "Seven years or the age of 65",
+      "Six years or the age of 62"
+    ],
+    "answer": 0,
+    "explanation": "The UPSC and State PSC members hold office for six years or until they attain the age of 65, whichever is earlier, and can be removed only for causes specified in the Constitution.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "Adjudication of disputes between the Government of India and one or more states is provided for under:",
+    "options": [
+      "Article 269",
+      "Article 280",
+      "Article 262",
+      "Article 263"
+    ],
+    "answer": 2,
+    "explanation": "Article 262 provides for the adjudication of any dispute relating to the interpretation of the Constitution or the application of the provisions of the Constitution or the law made by Parliament, between the Centre and the states or among states.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Inter-State Council, which addresses coordination and cooperation among states, is provided for under which Article?",
+    "options": [
+      "Article 262",
+      "Article 280",
+      "Article 263",
+      "Article 307"
+    ],
+    "answer": 2,
+    "explanation": "Article 263 provides for the establishment of an Inter-State Council to inquire into and advise upon disputes between states, investigate subjects of common interest and make recommendations for better coordination of policy.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The proclamation of President's Rule in a state is governed by which Articles of the Constitution?",
+    "options": [
+      "Article 356 and Article 365",
+      "Article 360 and Article 361",
+      "Article 352 and Article 353",
+      "Article 355 and Article 357"
+    ],
+    "answer": 0,
+    "explanation": "Article 356 provides for President's Rule on the failure of constitutional machinery in a state, and Article 365 provides that when a state government is not in accordance with the Constitution the Union government is to be vested with the powers of the state government.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Telangana became the 29th state of India on:",
+    "options": [
+      "29 August 2000",
+      "1 January 2015",
+      "9 June 2014",
+      "2 June 2014"
+    ],
+    "answer": 3,
+    "explanation": "Telangana was formed on 2 June 2014 under the Andhra Pradesh Reorganisation Act, 2014, after the bifurcation of Andhra Pradesh, with Hyderabad as its capital.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2014
+  },
+  {
+    "q": "The Jammu and Kashmir Reorganisation Act, 2019 provided for:",
+    "options": [
+      "The creation of a new state of Ladakh",
+      "Cessation of the special status of the erstwhile state and its reorganisation into two union territories",
+      "Extension of Article 370 to all states",
+      "Restoration of the erstwhile state's boundaries"
+    ],
+    "answer": 1,
+    "explanation": "The Jammu and Kashmir Reorganisation Act, 2019 provided for the division of the erstwhile state into the union territories of Jammu and Kashmir, with a legislature, and Ladakh, without one.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2019
+  },
+  {
+    "q": "The two union territories of Dadra and Nagar Haveli and Daman and Diu were merged in which year?",
+    "options": [
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "answer": 1,
+    "explanation": "The two union territories were merged into a single union territory with effect from 26 May 2020, and the merged territory was given a legislative council under the Daman and Diu and Dadra and Nagar Haveli (Organic Law) Act, 2021.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2020
+  },
+  {
+    "q": "The Tribunals Reforms Act, 2021 provided for:",
+    "options": [
+      "Abolition of the National Green Tribunal",
+      "Creation of the Lok Adalat at the national level",
+      "Transfer of all service matters to the High Courts",
+      "Creation of a single unified appellate tribunal structure replacing the Appellate Tribunal Act, 2016"
+    ],
+    "answer": 3,
+    "explanation": "The Tribunals Reforms Act, 2021 replaced the Appellate Tribunal Act, 2016 and created a unified framework with four tribunals - NCLAT, CAT, ITAT and the Tribunals for Appellate matters - chaired by the CJI-nominated chairperson.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "In its December 2023 judgment on Article 370, the Supreme Court:",
+    "options": [
+      "Declined to interfere with the Presidential orders dated 5 August and 28 October 2019 and directed the statehood restoration process to continue",
+      "Directed a fresh referendum in the erstwhile state",
+      "Struck down the J&K Reorganisation Act",
+      "Held that the revocation of Article 370 was unconstitutional"
+    ],
+    "answer": 0,
+    "explanation": "The five-judge Constitution Bench unanimously upheld the revocation of Article 370, declined to interfere with the Presidential orders and directed that the process of restoring statehood to the erstwhile state be expedited.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The Citizenship (Amendment) Act, 2019 provides for:",
+    "options": [
+      "Double the minimum period for naturalisation",
+      "Mandatory deportation of illegal migrants within 30 days",
+      "A fast-track naturalisation process for investors from a specified list of countries",
+      "Abolition of the concept of 'citizen of India' in the Citizenship Act"
+    ],
+    "answer": 2,
+    "explanation": "The Citizenship (Amendment) Act, 2019 created a fast-track naturalisation route for persons from Afghanistan, Bangladesh and Pakistan who entered India on or after 1 December 2014 and are eligible for citizenship under the existing provisions.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2019
+  },
+  {
+    "q": "The Constitution (99th Amendment) Act, 2014 gave constitutional status to:",
+    "options": [
+      "Panchayats and Municipalities",
+      "The Right to Education",
+      "Tribunals",
+      "Cooperative societies"
+    ],
+    "answer": 3,
+    "explanation": "The 99th Amendment inserted Article 43H to promote cooperative societies and Article 43K to provide for the right of the people to form cooperatives, making the right to form cooperatives a fundamental right.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2014
+  },
+  {
+    "q": "One of the headline outcomes of COP28, held in Dubai in December 2023, was the call to:",
+    "options": [
+      "Triple global renewable energy capacity and double the annual rate of energy efficiency improvement by 2030",
+      "Establish a global levy on carbon emissions of 2 per cent",
+      "Create a joint loss and damage facility of USD 100 billion",
+      "Phase out all fossil fuels by 2030"
+    ],
+    "answer": 0,
+    "explanation": "The UAE Consensus at COP28 called for tripling renewable capacity to 11,000 GW and doubling the annual energy efficiency improvement rate by 2030, and for the transition away from fossil fuels in energy systems.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "UNFCCC",
+    "year": 2023
+  },
+  {
+    "q": "One of the key deliverables of COP29 in 2024 was the completion of the rule-making for:",
+    "options": [
+      "The Global Stocktake",
+      "The Kyoto Protocol's emissions trading",
+      "Article 6 of the Paris Agreement on carbon markets, covering cooperative approaches and a new mechanism",
+      "A global carbon border adjustment mechanism"
+    ],
+    "answer": 2,
+    "explanation": "COP29 finalised the Article 6 rulebook, operationalising the Paris Agreement's cooperative approaches and a centralised crediting mechanism for internationally transferred mitigation outcomes.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "UNFCCC",
+    "year": 2024
+  },
+  {
+    "q": "At COP28 in Dubai in 2023, the Loss and Damage Fund was operationalised with initial pledges of about:",
+    "options": [
+      "USD 4.5 billion",
+      "USD 700 million",
+      "USD 27 billion",
+      "USD 100 million"
+    ],
+    "answer": 1,
+    "explanation": "The Loss and Damage Fund for responding to climate-related loss and damage was operationalised at COP28 with pledges of about USD 700 million from about 20 countries.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "UNFCCC",
+    "year": 2023
+  },
+  {
+    "q": "The 'LiFE 75' initiative, which promotes sustainable lifestyles in selected districts, was launched in which year?",
+    "options": [
+      "2024",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answer": 3,
+    "explanation": "LiFE 75, an initiative under the Mission LiFE umbrella, was launched in 2023 to roll out sustainable lifestyle actions in 75 districts across the country, covering the aspirational districts.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "Under the PM Surya Ghar Muft Bijli Yojana, households with bankable credit can install rooftop solar of up to:",
+    "options": [
+      "10 kW",
+      "1 kW",
+      "3 kW",
+      "5 kW"
+    ],
+    "answer": 2,
+    "explanation": "The scheme provides central support for rooftop solar of up to 3 kW for households with bankable credit, and up to 2 kW for those without, through collateral-free loans from banks.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2024
+  },
+  {
+    "q": "The Sagarmala programme, aimed at port-led development and logistics transformation, was launched in which year?",
+    "options": [
+      "2015",
+      "2016",
+      "2018",
+      "2014"
+    ],
+    "answer": 0,
+    "explanation": "Sagarmala was launched in 2015 as a national programme for port-led development, with a National Logistics Policy approved in 2021 to build on it.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "The National River Conservation Plan, which focuses on pollution abatement in the major rivers, was launched in which year?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2017"
+    ],
+    "answer": 1,
+    "explanation": "The National River Conservation Plan was launched in 2019, replacing the earlier National Ganga River Basin Authority-centred programme with a focus on pollution abatement in major rivers.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2019
+  },
+  {
+    "q": "The Central Pollution Control Board launched a centralised portal for Extended Producer Responsibility obligations in which year?",
+    "options": [
+      "2022",
+      "2023",
+      "2020",
+      "2021"
+    ],
+    "answer": 0,
+    "explanation": "The CPCB's centralised EPR portal went live in 2022, enabling producers and importers to register, file returns and deposit eco-marked certificates for plastic packaging waste.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "CPCB",
+    "year": 2022
+  },
+  {
+    "q": "The G20 Waste Management and Reduction Initiative, launched in 2022, was co-convened by:",
+    "options": [
+      "Germany and the European Commission",
+      "Brazil and South Africa",
+      "India and the UN Environment Programme",
+      "India and Japan"
+    ],
+    "answer": 2,
+    "explanation": "India and the UN Environment Programme were the co-convenors of the G20 Waste Management and Reduction Initiative, launched during India's G20 presidency in 2022.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The National Air Quality Index is generated by the Central Pollution Control Board in collaboration with:",
+    "options": [
+      "The Indian Meteorological Department alone",
+      "IIT Delhi and the Indian Institute of Toxicology and Research",
+      "IIT Kanpur alone",
+      "The National Remote Sensing Centre alone"
+    ],
+    "answer": 1,
+    "explanation": "The National AQI is developed by the CPCB together with IIT Delhi and the Indian Institute of Toxicology and Research, using sub-index values for eight criteria pollutants.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "CPCB",
+    "year": null
+  },
+  {
+    "q": "The Forest Survey of India, the organisation that publishes the State of the Forest Report, was established in:",
+    "options": [
+      "1975",
+      "1990",
+      "1968",
+      "1981"
+    ],
+    "answer": 3,
+    "explanation": "The Forest Survey of India was established in June 1981 under the Ministry of Environment, Forest and Climate Change and is headquartered at Dehradun.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "Forest Survey of India",
+    "year": 1981
+  },
+  {
+    "q": "The Wildlife Crime Control Act, 2022 provides for the establishment of a:",
+    "options": [
+      "Wildlife Monitoring Authority",
+      "National Wildlife Crime Control Bureau",
+      "Central Bureau of Investigation for wildlife cases",
+      "Wildlife Crime Ombudsman"
+    ],
+    "answer": 1,
+    "explanation": "The Wildlife Crime Control Act, 2022 gives the Central Government the power to establish a National Wildlife Crime Control Bureau and empowers state governments to notify such bureaux.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "Project Elephant, one of the oldest ongoing wildlife conservation programmes in India, was launched in:",
+    "options": [
+      "1992",
+      "1996",
+      "1978",
+      "1988"
+    ],
+    "answer": 0,
+    "explanation": "Project Elephant was launched in 1992 to focus on the protection and management of elephant habitats, with the first elephant census conducted in 1993.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "Standard Reference",
+    "year": 1992
+  },
+  {
+    "q": "The National Bamboo Mission was launched in which year?",
+    "options": [
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "answer": 3,
+    "explanation": "The National Bamboo Mission was launched in 2019 to promote the cultivation of bamboo as a substitute for wood and timber and to improve the rural bamboo-based economy.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2019
+  },
+  {
+    "q": "The Bhadla Solar Park, one of the world's largest solar parks, is located in:",
+    "options": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Rajasthan",
+      "Gujarat"
+    ],
+    "answer": 2,
+    "explanation": "The Bhadla Solar Park in the Thar desert of Rajasthan has an installed capacity of about 2.25 GW and is among the largest photovoltaic parks in the world.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Katowice Rulebook', which set out detailed rules for international carbon markets, was adopted at:",
+    "options": [
+      "COP26, Glasgow, 2021",
+      "COP27, Sharm el-Sheikh, 2022",
+      "COP24, Katowice, 2018",
+      "COP25, Madrid, 2019"
+    ],
+    "answer": 2,
+    "explanation": "The Katowice Rulebook on carbon markets was adopted at COP24 in December 2018, providing the accounting and transparency rules that Article 6 of the Paris Agreement later built upon.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "UNFCCC",
+    "year": 2018
+  },
+  {
+    "q": "The 14th meeting of the Conference of the Parties to the Ramsar Convention was held in 2022, and adopted the:",
+    "options": [
+      "Kigali Declaration",
+      "Ramsar Declaration",
+      "Montreal Protocol on Wetlands",
+      "Kunming-Montreal Global Biodiversity Framework"
+    ],
+    "answer": 1,
+    "explanation": "COP14 of the Ramsar Convention, held in Wuhan and Rome in November 2022, adopted the Ramsar Declaration on wetlands and sustainable development and launched the Global Wetland Outlook.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "Ramsar Convention",
+    "year": 2022
+  },
+  {
+    "q": "Project Snow Leopard, a conservation programme for the snow leopard in the higher Himalayan regions, was launched in:",
+    "options": [
+      "2005",
+      "2012",
+      "2015",
+      "2009"
+    ],
+    "answer": 3,
+    "explanation": "Project Snow Leopard was launched in 2009 in the four Himalayan states of Jammu and Kashmir, Ladakh, Himachal Pradesh and Uttarakhand, and Ladakh's state animal is the snow leopard.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "Standard Reference",
+    "year": 2009
+  },
+  {
+    "q": "The Agni-V, India's longest-range ballistic missile, was first test-fired in:",
+    "options": [
+      "2021",
+      "2015",
+      "2017",
+      "2019"
+    ],
+    "answer": 0,
+    "explanation": "Agni-V was first test-fired in October 2021, with a range of about 5,000 km, making it the longest-range Indian ballistic missile and part of the land-based leg of the nuclear triad.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": 2021
+  },
+  {
+    "q": "The Prithvi-II, India's first indigenously developed ballistic missile, was test-fired for the first time in:",
+    "options": [
+      "2016",
+      "2003",
+      "2012",
+      "2014"
+    ],
+    "answer": 0,
+    "explanation": "Prithvi-II, developed by the DRDO, was first test-fired in March 2016 with a range of 1,000 to 3,500 km, and is the land-based member of India's nuclear triad.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": 2016
+  },
+  {
+    "q": "The MR-SAM, a long-range surface-to-air missile inducted into the Indian Air Force in 2022, is a joint project with:",
+    "options": [
+      "Russia",
+      "France",
+      "United States",
+      "Israel"
+    ],
+    "answer": 3,
+    "explanation": "The MR-SAM (Barak-8) was developed in collaboration with Israel by the DRDO with Bharat Dynamics and Rafael, and was inducted into the IAF in 2022.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": 2022
+  },
+  {
+    "q": "The Astra Mk-II, an air-to-air missile designed and developed indigenously by the DRDO, was inducted into the Indian Air Force in:",
+    "options": [
+      "2019",
+      "2021",
+      "2023",
+      "2016"
+    ],
+    "answer": 1,
+    "explanation": "Astra Mk-II, the Indian version of the R-77, was inducted into the Indian Air Force in September 2021, having been developed by the DRDO and the Defence Institute of Advanced Technology.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": 2021
+  },
+  {
+    "q": "Operation Shakti, India's first anti-satellite (ASAT) mission, was conducted in:",
+    "options": [
+      "March 2017",
+      "June 2015",
+      "March 2019",
+      "July 2019"
+    ],
+    "answer": 2,
+    "explanation": "Operation Shakti on 27 March 2019 used a modified PSLV-AS4 to destroy a target satellite in low earth orbit, making India the fourth country to demonstrate an ASAT capability.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": 2019
+  },
+  {
+    "q": "The Kudankulam Nuclear Power Plant in Tamil Nadu uses reactor units imported from:",
+    "options": [
+      "USA",
+      "South Korea",
+      "Russia",
+      "France"
+    ],
+    "answer": 2,
+    "explanation": "Kudankulam, India's largest nuclear power station, uses Russian VVER-1000 units supplied by Atomstroyexport, with six units of 1,000 MW each approved by the Atomic Energy Commission.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Prototype Fast Breeder Reactor (PFBR), India's first breeder reactor, is being built at:",
+    "options": [
+      "Kalpakkam",
+      "Tarapur",
+      "Rajasthan",
+      "Kudankulam"
+    ],
+    "answer": 0,
+    "explanation": "The 500 MW PFBR is being built by the Bhabha Atomic Research Centre at Kalpakkam, and is designed to breed uranium-239 plutonium-239 for use in fast reactors.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "BARC",
+    "year": null
+  },
+  {
+    "q": "The three elements of India's nuclear triad are:",
+    "options": [
+      "Submarine INS Chakra, aircraft Tejas and missile Prithvi",
+      "Nuclear reactors, bombs and missiles",
+      "Agni, Akash and BrahMos",
+      "Land-based Prithvi, air-based Agni and sea-based Arihant"
+    ],
+    "answer": 3,
+    "explanation": "India's nuclear triad consists of the land-based Prithvi missiles, the air-launched Agni family and the sea-based K-15 and K-4 carried by the nuclear-powered submarine INS Arihant.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Small Satellite Launch Vehicle (SSLV) of ISRO made its first successful orbital flight in:",
+    "options": [
+      "June 2024",
+      "August 2023",
+      "July 2022",
+      "November 2023"
+    ],
+    "answer": 1,
+    "explanation": "The SSLV completed its first successful development flight on 28 August 2023 from Sriharikota, carrying two satellites to orbit and opening a new market for small satellite launches.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2023
+  },
+  {
+    "q": "The LVM3 (GSLV Mk III) rocket, which launched the Mars Orbiter Mission and Aditya-L1, uses a cryogenic engine developed by:",
+    "options": [
+      "Indian Institute of Science",
+      "ISRO's Space Propulsion Centre",
+      "DRDO",
+      "Bharat Dynamics"
+    ],
+    "answer": 1,
+    "explanation": "The LVM3's upper stage uses a cryogenic propellant engine developed by the Space Propulsion Centre at Thiruvananthapuram, first flown with the 2014 Mars Orbiter Mission.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": null
+  },
+  {
+    "q": "The Union Cabinet approved the revised 'Space Policy' for the country in:",
+    "options": [
+      "2023",
+      "2024",
+      "2021",
+      "2022"
+    ],
+    "answer": 0,
+    "explanation": "The Space Policy 2023, approved by the Cabinet in April 2023, replaced the 2020 policy and created a predictable framework for private sector participation in space activities.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The 'NewSpace' policy, which created an authorisation route for private entities to operate in space, was approved in:",
+    "options": [
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answer": 2,
+    "explanation": "The NewSpace policy was approved in 2022 and operationalised through IN-SPACe, allowing private companies to engage in space activities through a single-window authorisation mechanism.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "ISRO's first space debris management policy was approved in:",
+    "options": [
+      "2023",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "answer": 3,
+    "explanation": "The Space Debris Management Policy 2022 mandated mitigation measures for satellite operators, including passivation, orbit-raising and the disposal of satellites at the end of their mission life.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "In the NISAR mission, NASA and ISRO have agreed that:",
+    "options": [
+      "ISRO will provide the launch vehicle and NASA will operate the mission",
+      "Both agencies will operate separate spacecraft in a formation",
+      "NASA will build the satellite and ISRO will launch it from the United States",
+      "NASA will provide the payload on an ISRO-built satellite launched from India"
+    ],
+    "answer": 3,
+    "explanation": "Under the NISAR mission, NASA is providing the synthetic aperture radar payload and ISRO is building and operating the spacecraft, which will be launched from India, making it the first joint NASA-ISRO mission of this kind.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "NASA",
+    "year": null
+  },
+  {
+    "q": "The Chandrayaan-2 orbiter detected the presence of water molecules on the lunar surface in:",
+    "options": [
+      "2018",
+      "2020",
+      "2019",
+      "2021"
+    ],
+    "answer": 1,
+    "explanation": "In October 2020, the Chandrayaan-2 orbiter's Moon Mineralogy Mapper confirmed the presence of water molecules on the sunlit lunar surface, a finding later corroborated by Chandrayaan-3.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2020
+  },
+  {
+    "q": "The humanoid robot Vyomitra that ISRO unveiled in 2023 was designed to:",
+    "options": [
+      "Test the human spaceflight systems and demonstrate human-like tasks in space conditions",
+      "Operate deep-sea submersibles",
+      "Predict monsoon patterns",
+      "Survey the seafloor"
+    ],
+    "answer": 0,
+    "explanation": "Vyomitra is a female humanoid robot developed by ISRO to test the modules and systems of the Gaganyaan human spaceflight programme, including the ability to perform human-like tasks in microgravity conditions.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2023
+  },
+  {
+    "q": "The Indian SARS-CoV-2 Genomic Sequencing Consortium (INSACOG) was set up in:",
+    "options": [
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "answer": 2,
+    "explanation": "INSACOG was formed in January 2021 under the ICMR to sequence the SARS-CoV-2 genome in India, monitor circulating variants and assist the national COVID-19 response.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ICMR",
+    "year": 2021
+  },
+  {
+    "q": "The 'One Health Mission', announced in the Union Budget for 2023-24, is intended to:",
+    "options": [
+      "Create a universal health insurance scheme",
+      "Launch a nationwide compulsory vaccination drive",
+      "Set up a single national university for medical research",
+      "Address the interconnected health of humans, animals and the environment through coordinated surveillance and research"
+    ],
+    "answer": 3,
+    "explanation": "The One Health Mission brings together human, animal and environmental health under one framework, with coordinated surveillance for zoonotic diseases such as avian influenza and pandemic preparedness.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2024
+  },
+  {
+    "q": "NexCAR19, approved by the Central Drugs Standard Control Organisation in 2023, is:",
+    "options": [
+      "A biosimilar monoclonal antibody for arthritis",
+      "An mRNA vaccine for tuberculosis",
+      "A CAR-T cell therapy for cancer, the first such therapy approved in India",
+      "A vaccine for dengue"
+    ],
+    "answer": 2,
+    "explanation": "NexCAR19, developed by the Indian Institute of Immuno Biology in Bengaluru, is a CAR-T cell therapy for relapsed or refractory B-cell malignancies and was the first such therapy approved in India.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "CDSCO",
+    "year": 2023
+  },
+  {
+    "q": "The National Supercomputing Mission was launched in which year?",
+    "options": [
+      "2015",
+      "2018",
+      "2020",
+      "2012"
+    ],
+    "answer": 0,
+    "explanation": "The National Supercomputing Mission was launched in 2015 to build indigenous supercomputing systems of up to 100 petaflops, with the PARAM series developed by the Centre for Development of Advanced Computing.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "The India-US 2+2 Dialogue at the level of foreign and defence ministers was held in September 2023 in connection with:",
+    "options": [
+      "The WTO Ministerial Conference in Geneva",
+      "Prime Minister Modi's visit to the United States",
+      "The G20 Summit in New Delhi",
+      "The Quad Leaders' Summit in Washington in 2021"
+    ],
+    "answer": 1,
+    "explanation": "The India-US 2+2 Dialogue and the third Quad Leaders' Summit in Washington in September 2023 took place during Prime Minister Modi's visit to the United States, focused on the strategic partnership and the Quad.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The 123 Agreement between India and the United States, signed in 2008, provided for:",
+    "options": [
+      "A joint nuclear weapons test",
+      "The sale of Indian coal to the United States",
+      "The creation of a joint nuclear command",
+      "Cooperation in nuclear energy and civil nuclear trade"
+    ],
+    "answer": 3,
+    "explanation": "The 123 Agreement, an implementing agreement under the US Atomic Energy Act, allowed India to obtain nuclear fuel and equipment from American suppliers and enabled US companies to supply reactors and fuel to India.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In 2020, India signed a contract with France for the supply of:",
+    "options": [
+      "Two nuclear power reactor units",
+      "36 Apache helicopters",
+      "36 Rafale multirole fighter jets",
+      "Six Scorpene submarines"
+    ],
+    "answer": 2,
+    "explanation": "India signed a contract with Dassault Aviation in 2020 for 36 Rafale multirole fighters, which were inducted into the Indian Air Force from 2022 under the 'Rafale, the Game Changer' agreement.",
+    "difficulty": "easy",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2020
+  },
+  {
+    "q": "The India-France Roadmap for the Environment was signed at the 14th India-France Summit held in:",
+    "options": [
+      "January 2018",
+      "March 2021",
+      "October 2018",
+      "September 2023"
+    ],
+    "answer": 1,
+    "explanation": "The India-France Roadmap for the Environment was signed at the 14th India-France Summit in March 2021, when the two countries also adopted a Joint Strategic Vision for the Indian Ocean Region.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "In September 2023, the Indian Prime Minister and the German Chancellor signed a joint declaration on the:",
+    "options": [
+      "Blue Earth Compact",
+      "Green Hydrogen Alliance",
+      "Global Partnership for Renewables",
+      "Indo-Pacific Oceans Initiative"
+    ],
+    "answer": 0,
+    "explanation": "Prime Minister Modi and Chancellor Scholz signed a joint declaration on the 'Blue Earth Compact' during the fourth Indo-German Partnership Summit in New Delhi in September 2023, covering climate and ocean cooperation.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The India-Japan 2+2 Ministerial Dialogue, the first such meeting in nine years, was held in March 2022:",
+    "options": [
+      "In Tokyo, at the level of foreign and defence ministers",
+      "In New Delhi, at the level of prime ministers",
+      "In Osaka, at the level of commerce ministers",
+      "In Kyoto, on the sidelines of the Quad summit"
+    ],
+    "answer": 0,
+    "explanation": "The 11th India-Japan 2+2 Ministerial Dialogue was held in Tokyo in March 2022, the first such meeting since 2013, and the two sides adopted a Vision Statement for the 10th anniversary of the Act East partnership.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Comprehensive Economic and Trade Agreement between India and the United Kingdom was signed in:",
+    "options": [
+      "September 2022",
+      "July 2022",
+      "July 2021",
+      "March 2023"
+    ],
+    "answer": 1,
+    "explanation": "The India-UK CEPA was signed on 28 July 2022 and came into force in 2022, cutting bilateral tariffs on over 96 per cent of trade and covering services, investment and procurement.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Comprehensive Economic and Trade Agreement between India and Spain was signed in which year?",
+    "options": [
+      "2022",
+      "2023",
+      "2024",
+      "2021"
+    ],
+    "answer": 2,
+    "explanation": "The India-Spain CETA was signed in May 2024, making it the European Union's first comprehensive free trade agreement with an individual member state and India's first such agreement with a European country.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2024
+  },
+  {
+    "q": "The 'Pact for the Future', adopted at the United Nations General Assembly in September 2024, included a commitment to:",
+    "options": [
+      "Establish a global carbon tax",
+      "Create a new global human rights court",
+      "Disband the Peacekeeping Department",
+      "Reform the Security Council and make it more representative, inclusive and accountable"
+    ],
+    "answer": 3,
+    "explanation": "The Pact for the Future, adopted by the General Assembly in September 2024, reaffirmed the commitment to reform the Security Council, make it more representative and legitimate, and strengthen the international financial architecture for development.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "United Nations",
+    "year": 2024
+  },
+  {
+    "q": "The first Voice of Global South Summit was hosted by India in which year?",
+    "options": [
+      "2023",
+      "2024",
+      "2021",
+      "2022"
+    ],
+    "answer": 0,
+    "explanation": "India hosted the first Voice of Global South Summit in New Delhi in January 2023 as a precursor to the G20 summit, with participation from more than 120 countries.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The 17th General Review of Quotas of the International Monetary Fund concluded in 2023 with:",
+    "options": [
+      "A shift of voting power entirely to advanced economies",
+      "No change in quotas",
+      "A 50 per cent increase in quotas and a 50 per cent increase in the IMF's governance share for emerging markets and developing countries",
+      "A 25 per cent increase in quotas"
+    ],
+    "answer": 2,
+    "explanation": "The 17th General Review of Quotas, completed in December 2023, increased the IMF's quota resources by 50 per cent and the share of emerging market and developing countries in the governance structure by 50 per cent.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "IMF",
+    "year": 2023
+  },
+  {
+    "q": "The 57th Annual Meeting of the Asian Development Bank was held in 2024 at:",
+    "options": [
+      "Bangkok",
+      "Manila",
+      "New Delhi",
+      "Jakarta"
+    ],
+    "answer": 1,
+    "explanation": "The 57th ADB Annual Meeting was held in Manila in April 2024, with the theme 'Capital for All' emphasising capital for climate action and food security.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "ADB",
+    "year": 2024
+  },
+  {
+    "q": "The seventh Ministerial Conference of the World Trade Organization was held in February 2024 at:",
+    "options": [
+      "Abu Dhabi",
+      "Nairobi",
+      "Doha",
+      "Geneva"
+    ],
+    "answer": 3,
+    "explanation": "WTO MC7 was held in Geneva from 26 February to 1 March 2024, with a focus on trade facilitation, e-commerce and the crisis in food security, following the earlier MC13 in Abu Dhabi.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "WTO",
+    "year": 2024
+  },
+  {
+    "q": "India signed the Paris Agreement on 2 April 2016 and ratified it on:",
+    "options": [
+      "2 October 2016",
+      "26 September 2015",
+      "2 December 2018",
+      "22 April 2016"
+    ],
+    "answer": 0,
+    "explanation": "India signed the Paris Agreement on 2 April 2016 and deposited its instrument of ratification with the UNFCCC on 2 October 2016, and has never formally withdrawn from the agreement.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "UNFCCC",
+    "year": 2016
+  },
+  {
+    "q": "The SAGAR vision of India's engagement with the Indian Ocean Rim was unveiled at the first India Ocean Rim Association summit held in:",
+    "options": [
+      "Male, in 2019",
+      "Goa, in 2015",
+      "Jakarta, in 2013",
+      "Colombo, in 2017"
+    ],
+    "answer": 1,
+    "explanation": "Prime Minister Modi unveiled the SAGAR (Security and Growth for All in the Region) vision at the first IORA Leaders' Summit in Goa in November 2015.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "The third India-Africa Forum Summit was held in New Delhi in which year?",
+    "options": [
+      "2015",
+      "2018",
+      "2023",
+      "2021"
+    ],
+    "answer": 2,
+    "explanation": "The third India-Africa Forum Summit was hosted in New Delhi in October 2023, with the theme 'Towards a Resilient and Regenerative Africa' and more than 40 heads of state in attendance.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The 19th Non-Aligned Movement Summit was held in January 2024 at:",
+    "options": [
+      "Baku, Azerbaijan",
+      "Nairobi, Kenya",
+      "Belgrade, Serbia",
+      "Kampala, Uganda"
+    ],
+    "answer": 3,
+    "explanation": "The 19th Non-Aligned Movement Summit was hosted by Uganda in Kampala in January 2024, under the theme 'Delivering Solidarity, Equality and Sustainability', marking the return of the grouping to its African roots.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "NAM Secretariat",
+    "year": 2024
+  },
+  {
+    "q": "The 22nd ASEAN-India Summit was held in New Delhi in which year?",
+    "options": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "answer": 2,
+    "explanation": "The 22nd ASEAN-India Summit was held in New Delhi in October 2023, and 2023 was declared the ASEAN-India Year of Friendship, commemorating 20 years of the ASEAN-India Partnership.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The Articles of Agreement of the New Development Bank came into force on:",
+    "options": [
+      "15 July 2014",
+      "1 January 2016",
+      "7 June 2014",
+      "15 July 2015"
+    ],
+    "answer": 3,
+    "explanation": "The New Development Bank, established by the BRICS states with an initial authorised capital of USD 100 billion, came into being when its Articles of Agreement entered into force on 15 July 2015.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "NDB",
+    "year": 2015
+  }
+]

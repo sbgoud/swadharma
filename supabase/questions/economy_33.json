@@ -1,0 +1,737 @@
+[
+  {
+    "q": "The 'Udyam' registration for micro, small and medium enterprises replaced the earlier registration system with effect from:",
+    "options": [
+      "1 April 2018",
+      "1 January 2019",
+      "1 July 2020",
+      "1 April 2021"
+    ],
+    "answer": 2,
+    "explanation": "The revised MSME classification came into force on 1 July 2020, and the Udyam registration portal replaced the earlier Udyog Aadhaar and permanent account number based registration for MSMEs.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "Under the revised MSME classification, an enterprise in the manufacturing sector is a 'micro' enterprise if its investment in plant and machinery is up to:",
+    "options": [
+      "Rs 1 crore",
+      "Rs 2.5 crore",
+      "Rs 10 crore",
+      "Rs 5 crore"
+    ],
+    "answer": 1,
+    "explanation": "A micro manufacturing enterprise has an investment of up to Rs 2.5 crore and turnover of up to Rs 10 crore, a small enterprise has investment up to Rs 25 crore and turnover up to Rs 100 crore, and a medium enterprise has investment up to Rs 125 crore and turnover up to Rs 500 crore.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The incentives under the Production Linked Incentive schemes introduced in 2020 are generally payable for a period of:",
+    "options": [
+      "ten years",
+      "three years",
+      "seven years",
+      "five years with an option to extend"
+    ],
+    "answer": 3,
+    "explanation": "The PLI schemes for the 14 sectors offer incentives for five years from the date of commercial production, with an option to extend the scheme by a further three years on the basis of performance.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'TReDS' platform in India is used for:",
+    "options": [
+      "the settlement of retail payments on the UPI platform",
+      "the electronic tendering of defence equipment",
+      "on-line disclosure and settlement of invoices of micro and small enterprises through a network of buyers and financiers",
+      "the trading of carbon credits"
+    ],
+    "answer": 2,
+    "explanation": "TReDS, or the Trade Receivables Discounting System, is an online exchange that allows MSMEs to upload invoices and lets buyers and financiers discount them, thereby easing working capital stress.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National MSME Policy was announced in:",
+    "options": [
+      "2020",
+      "2018",
+      "2016",
+      "2014"
+    ],
+    "answer": 0,
+    "explanation": "The National MSME Policy, notified in 2020, aimed at raising the contribution of micro, small and medium enterprises to GDP and exports, with targets for employment, productivity and formalisation.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Delayed Payment to Micro and Small Enterprises' Act was enacted in:",
+    "options": [
+      "2016",
+      "2003",
+      "2012",
+      "2006"
+    ],
+    "answer": 3,
+    "explanation": "The MSMED Act, 2006 was the first legislation to provide for a statutory mechanism for MSME buyers to pay their suppliers on time, with compensation for delayed payment and a buyer as a fit and proper person.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Startup India' mission was launched in:",
+    "options": [
+      "2018",
+      "2020",
+      "2016",
+      "2014"
+    ],
+    "answer": 1,
+    "explanation": "Startup India, launched on 16 August 2016, created a separate ministry department for startup recognition, a fund of funds, and a tax exemption for recognised startups under section 115-I of the Income Tax Act.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The income tax exemption for recognised startups in India is provided under which section of the Income Tax Act, 1961?",
+    "options": [
+      "Section 35D",
+      "Section 80-I",
+      "Section 115-I",
+      "Section 10(23D)"
+    ],
+    "answer": 2,
+    "explanation": "Section 115-I allows a deduction of the eligible expenditure of eligible startups recognised by the Department for Promotion of Industry and Internal Trade, and section 80-I covers eligible startups in the services sector.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Career Service' portal is operated by:",
+    "options": [
+      "the Ministry of Labour and Employment",
+      "the National Skill Development Corporation",
+      "the Ministry of Education",
+      "NITI Aayog"
+    ],
+    "answer": 0,
+    "explanation": "The National Career Service, a Ministry of Labour and Employment initiative, provides an online platform for job seekers, employers and skill providers with a common platform for career counselling and job matching.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Skill India' programme was launched in:",
+    "options": [
+      "2016",
+      "2013",
+      "2015",
+      "2014"
+    ],
+    "answer": 2,
+    "explanation": "Skill India was launched in July 2015 with the aim of skilling one person in every household and giving at least one woman in every household a source of livelihood, through partnerships with the private sector.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The National Skill Development Corporation is a:",
+    "options": [
+      "statutory regulator of vocational training",
+      "division of the National Apprenticeship Board",
+      "public sector undertaking owned by state governments",
+      "not-for-profit company set up by the Ministry of Skill Development and Entrepreneurship"
+    ],
+    "answer": 3,
+    "explanation": "NSDC is a not-for-profit company limited by shares under the Companies Act, set up by the Ministry of Skill Development and Entrepreneurship to catalyse and support skill building in the country.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Single Window' system for industrial clearances is operated by:",
+    "options": [
+      "the Ministry of Commerce and Industry",
+      "the Reserve Bank of India",
+      "the Department for Promotion of Industry and Internal Trade",
+      "the Ministry of Corporate Affairs"
+    ],
+    "answer": 0,
+    "explanation": "The National Single Window portal is an online platform of the Ministry of Commerce and Industry that allows a business to apply for licences, permits and approvals across ministries and states on a single form.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Quality Control Order of the Bureau of Indian Standards makes certification compulsory for products such as:",
+    "options": [
+      "all electronic goods sold online",
+      "toys, cement and a growing list of other products",
+      "only imported steel products",
+      "only packaged drinking water"
+    ],
+    "answer": 1,
+    "explanation": "BIS Quality Control Orders made the ISI mark mandatory for a specified list of products, beginning with toys and cement and later extended to items such as electrical fittings, gas cylinders and helmets.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Legal Metrology (Packaged Commodities) Rules require a packaged commodity to carry a declaration of:",
+    "options": [
+      "the maximum retail price and the tax identification number",
+      "the ingredients, the batch number and the expiry date only",
+      "the net quantity, maximum retail price, manufacturer or packer and the month and year of packing",
+      "only the net quantity and the barcode"
+    ],
+    "answer": 2,
+    "explanation": "The rules require the manufacturer or packer, the net quantity in the prescribed unit, the maximum retail price, the month and year of packing, the consumer care details and the last date of use for applicable commodities to be displayed on the package.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT one of the three pillars of the 'Make in India' programme launched in 2014?",
+    "options": [
+      "new infrastructure",
+      "increasing the level of agricultural subsidies",
+      "skill development",
+      "new manufacturing"
+    ],
+    "answer": 1,
+    "explanation": "Make in India was built on three pillars, namely skill development, new manufacturing and new infrastructure; raising agricultural subsidies was never part of its framework.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Small finance banks in India are required to extend at least what percentage of their credit to the priority sector?",
+    "options": [
+      "75 per cent",
+      "50 per cent",
+      "18 per cent",
+      "40 per cent"
+    ],
+    "answer": 0,
+    "explanation": "Small finance banks must extend 75 per cent of their adjusted net bank credit to the priority sector, of which 40 per cent must be for agriculture and allied activities and at least 5 per cent for weaker sections.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The Immediate Payment Service (IMPS) was launched in India in:",
+    "options": [
+      "2012",
+      "2016",
+      "2009",
+      "2010"
+    ],
+    "answer": 3,
+    "explanation": "IMPS, operated by the National Payments Corporation of India, was launched in 2010 as a 24x7 system for instant transfer of funds, while the UPI was launched in 2016 and RuPay in 2012.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'RuPay' card was launched in India in:",
+    "options": [
+      "2014",
+      "2016",
+      "2012",
+      "2010"
+    ],
+    "answer": 2,
+    "explanation": "RuPay was launched in 2012 by the National Payments Corporation of India as a domestic payment card system that operates on the lines of Visa and Mastercard.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "NPCI",
+    "year": null
+  },
+  {
+    "q": "Under the RBI's Prompt Corrective Action framework, a bank has to report to the RBI when its net non-performing asset ratio exceeds:",
+    "options": [
+      "5 per cent",
+      "10 per cent",
+      "2 per cent",
+      "8 per cent"
+    ],
+    "answer": 0,
+    "explanation": "Under the PCA framework a bank is placed under restrictions if its net NPA exceeds 5 per cent, or if its capital to risk-weighted assets ratio falls below the prescribed threshold without new capital being raised.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The Deposit Insurance and Credit Guarantee Corporation insures bank deposits up to:",
+    "options": [
+      "Rs 1 lakh",
+      "Rs 5 lakh",
+      "Rs 2 lakh",
+      "Rs 10 lakh"
+    ],
+    "answer": 1,
+    "explanation": "DICGC, a wholly owned subsidiary of the RBI, insures bank deposits up to Rs 5 lakh per depositor per bank, and the insurance premium is paid by the banks themselves.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Account Aggregator' framework in India works as:",
+    "options": [
+      "a mandatory sharing of customer data by all banks with the tax department",
+      "a system of compulsory credit reporting to the Credit Information Companies",
+      "a mechanism for the RBI to ration credit among banks",
+      "a consent-based financial information system operated by registered account aggregators with a consent manager"
+    ],
+    "answer": 3,
+    "explanation": "The Account Aggregator ecosystem, built under the RBI's Financial Information (Account Aggregator) Regulations, lets a customer share financial data from multiple financial information providers with a consent manager in a standardised, secure manner.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "A grant received by a State Government from the central government is regarded as:",
+    "options": [
+      "a revenue receipt of the State, not a capital receipt",
+      "a capital receipt of the State",
+      "neither revenue nor capital",
+      "a capital receipt only if it is tied to a construction project"
+    ],
+    "answer": 0,
+    "explanation": "Grants are treated as revenue receipts of the recipient government, whether or not they are tied to a specific project, which is why they are not counted as capital receipts or as borrowings.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'effective revenue deficit' was introduced in Indian fiscal accounting to:",
+    "options": [
+      "measure the fiscal deficit of the States on a cash basis",
+      "compute the revenue deficit including the receipts of the Public Account",
+      "compute the revenue deficit after deducting the interest payments of the States",
+      "measure the revenue deficit excluding the capital expenditure component that is financed by market borrowings"
+    ],
+    "answer": 3,
+    "explanation": "The effective revenue deficit deducts from the revenue deficit the capital expenditure of the States that is met through market borrowings, giving a truer picture of the revenue demand on the States' own resources.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Interest payments on the public debt of the central government are classified as:",
+    "options": [
+      "capital expenditure",
+      "revenue receipt",
+      "revenue expenditure with no tax implications",
+      "capital receipt"
+    ],
+    "answer": 2,
+    "explanation": "Interest on borrowed funds is a revenue expenditure but it has no tax implications because it is a contractual payment on past borrowing and is not a fresh claim on current resources.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Outcome Budget' in India was introduced with the objective of:",
+    "options": [
+      "linking the fiscal deficit target with the inflation target",
+      "linking budget outlays with the outputs to be delivered and the outcomes to be achieved",
+      "replacing the annual budget with a five-year rolling plan",
+      "consolidating the railway and general budgets"
+    ],
+    "answer": 1,
+    "explanation": "The Outcome Budget builds on the 2019-20 attempt to link expenditure with outcomes for schemes of the ministries, so that the annual budget becomes a statement of measurable deliverables rather than of inputs alone.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "Zero-based budgeting in India implies:",
+    "options": [
+      "the budget is prepared by the states and not by the Union",
+      "only new schemes are funded and old schemes are automatically discontinued",
+      "expenditure is frozen at the previous year's level",
+      "every year's expenditure is reviewed afresh without regard to the previous year's allocations"
+    ],
+    "answer": 3,
+    "explanation": "Zero-based budgeting treats each year's allocation as a fresh exercise, requiring every scheme to justify its outlay in the light of the year's priorities rather than simply carrying forward the previous year's provision.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'escape clause' under the Fiscal Responsibility and Budget Management Act permits the government to:",
+    "options": [
+      "deviate from the fiscal deficit target in exceptional circumstances such as national security, natural calamities or a collapse in farm output",
+      "waive interest payments on the public debt",
+      "abolish the Consolidated Fund of India",
+      "raise the fiscal deficit target beyond 3 per cent without any parliamentary approval"
+    ],
+    "answer": 0,
+    "explanation": "The escape clause allows the government to depart from the FRBM targets in exceptional circumstances and also enables deviation from the recommended fiscal deficit path if the macro-economic situation demands it.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Consolidated Fund of a State is operated by:",
+    "options": [
+      "the Comptroller and Auditor General",
+      "the Governor of the State",
+      "the Chief Minister of the State",
+      "the Union Finance Minister"
+    ],
+    "answer": 1,
+    "explanation": "Article 266 provides for the Consolidated Fund of each State to be operated by the Governor, either in his own charge or in the charge of officers appointed by him in writing.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Payment of Gratuity Act, 1972 applies to establishments employing:",
+    "options": [
+      "5 or more employees",
+      "50 or more employees",
+      "10 or more employees",
+      "20 or more employees"
+    ],
+    "answer": 2,
+    "explanation": "The Payment of Gratuity Act, 1972 applies to every establishment in the private or public sector employing 10 or more persons, and the payment becomes payable on resignation, retirement, death or disablement.",
+    "difficulty": "easy",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Minimum Wages Act, 1948' is administered by:",
+    "options": [
+      "the National Labour Commission",
+      "the concerned State Government",
+      "the Central Government alone",
+      "the Reserve Bank of India"
+    ],
+    "answer": 1,
+    "explanation": "The Minimum Wages Act is administered by the State Governments through their labour departments, and the Central Government fixes the minimum wages for certain central government undertakings.",
+    "difficulty": "easy",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Industrial Disputes Act, 1947 provides for:",
+    "options": [
+      "the machinery of conciliation, arbitration and adjudication of industrial disputes",
+      "the certification of fair wages",
+      "the registration of employment exchanges",
+      "the regulation of trade union finances"
+    ],
+    "answer": 0,
+    "explanation": "The Industrial Disputes Act sets out the procedure for the settlement of industrial disputes through conciliation, arbitration or adjudication by the appropriate authority, and also provides for the strike and lock-out machinery.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Code on Wages, 2019' fixes the wage ceiling for contributions to the Employees' Provident Fund and the Employees' State Insurance at:",
+    "options": [
+      "Rs 25,000 per month",
+      "Rs 21,000 per month",
+      "Rs 10,000 per month",
+      "Rs 15,000 per month"
+    ],
+    "answer": 3,
+    "explanation": "The Code on Wages, 2019 rationalises the wage structure and fixes the monthly wage ceiling for EPF and ESIC coverage at Rs 15,000, replacing the earlier separate limits of Rs 15,000 and Rs 21,000.",
+    "difficulty": "hard",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Trade Unions Act, 1926, a trade union must be formed by at least:",
+    "options": [
+      "two-thirds of the workers of an industry",
+      "fifteen members of the same establishment",
+      "seven members, of whom at least two-thirds must be employed in the same industry",
+      "ten members from the same industry"
+    ],
+    "answer": 2,
+    "explanation": "Section 4 of the Trade Unions Act requires at least seven persons to form a union, of whom at least two-thirds must be employed in the same industry for the union to qualify for the Act's benefits.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bonded Labour System (Abolition) Act, 1976' is administered by the:",
+    "options": [
+      "National Human Rights Commission",
+      "Ministry of Labour and Employment in consultation with the State Governments",
+      "Ministry of Home Affairs",
+      "Ministry of Rural Development"
+    ],
+    "answer": 1,
+    "explanation": "The Act is administered by the central government in consultation with the State Governments, with district Vigilance Committees inspecting and reporting on the working of the Act, and the offence of bonded labour is cognizable.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Code on Social Security, 2020' provides for:",
+    "options": [
+      "the merger of the EPF and ESI organisations",
+      "a fixed wage ceiling for all social security contributions",
+      "the abolition of the Employees' Provident Fund",
+      "a wider coverage of workers including gig and platform workers and the creation of a National Social Security Board"
+    ],
+    "answer": 3,
+    "explanation": "The Code on Social Security, 2020 widens the definition of workers to include gig and platform workers, provides for a National Social Security Board and an aggregator, and creates a framework for voluntary and assisted registration of gig workers.",
+    "difficulty": "easy",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Import-Export Policy' of India is administered by the:",
+    "options": [
+      "the Reserve Bank of India",
+      "the Ministry of Finance",
+      "the Directorate General of Foreign Trade under the Ministry of Commerce and Industry",
+      "the Export-Import Bank of India"
+    ],
+    "answer": 2,
+    "explanation": "The Directorate General of Foreign Trade administers the Import-Export Policy, issues licences and also administers the export promotion schemes such as RoDTEP, while the RBI regulates the foreign exchange aspects.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Foreign Exchange Management Act, 1999' replaced which earlier statute?",
+    "options": [
+      "the Foreign Exchange Regulation Act, 1974",
+      "the Banking Regulation Act, 1949",
+      "the Companies Act, 1956",
+      "the Negotiable Instruments Act, 1881"
+    ],
+    "answer": 0,
+    "explanation": "FEMA 1999, which came into force in May 1999, replaced the Foreign Exchange Regulation Act 1974 and shifted the approach from discretionary control of foreign exchange to management, with the goal of promoting orderly foreign exchange markets.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'errors and omissions' component in India's Balance of Payments mainly arises because of:",
+    "options": [
+      "the depreciation of the rupee",
+      "the accumulation of foreign exchange reserves",
+      "unrecorded private transactions and gaps in the statistical data",
+      "profits remitted by foreign companies"
+    ],
+    "answer": 2,
+    "explanation": "Because trade and capital flows are recorded from different returns, unrecorded transactions and timing differences appear as errors and omissions, and the component is a residual that tends to be small over the long run.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "In India's Balance of Payments, inward workers' remittances are recorded under:",
+    "options": [
+      "secondary income in the current account",
+      "the financial account",
+      "capital transfers in the capital account",
+      "primary income in the current account"
+    ],
+    "answer": 0,
+    "explanation": "Remittances from Indians working abroad are unrequited transfers and are therefore shown as secondary income in the current account, which is one of the largest contributors to India's current account balance.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'RoDTEP' scheme provides:",
+    "options": [
+      "a rebate on customs duty for imports",
+      "remission of embedded taxes to exporters, replacing the duty drawback and focus product schemes",
+      "a mandatory export obligation for domestic companies",
+      "an interest subsidy on export credit"
+    ],
+    "answer": 1,
+    "explanation": "The Remission of Duties and Taxes on Exported Products scheme scrip-based mechanism allows exporters to claim back embedded taxes, replacing the earlier duty drawback and focus product schemes with a single consolidated scheme.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "DGFT",
+    "year": null
+  },
+  {
+    "q": "A 'Special Rupee Vostro' account is used for:",
+    "options": [
+      "holding foreign exchange reserves of the RBI",
+      "parking foreign direct investment inflows of Indian companies",
+      "financing imports through the Export-Import Bank",
+      "settling trade transactions with a designated foreign agency by converting rupee balances into the currency of that country"
+    ],
+    "answer": 3,
+    "explanation": "Special Rupee Vostro accounts are opened by the RBI for foreign countries or their agencies to enable them to trade with India and convert the rupee balances into their own currency at the designated rate.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "In a perfectly competitive market, the equilibrium price is determined where:",
+    "options": [
+      "the government fixes the price equal to average cost",
+      "demand is perfectly inelastic",
+      "market demand equals market supply",
+      "the marginal cost of the single firm equals the market price"
+    ],
+    "answer": 2,
+    "explanation": "Under perfect competition the market price is determined by the interaction of aggregate demand and aggregate supply, and each firm is a price taker that equates its own marginal cost with that market price.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'law of increasing returns to a variable factor' applies when:",
+    "options": [
+      "all factors of production are variable in the long run",
+      "all other factors are held constant in the short run",
+      "the size of the firm is fixed in the long run",
+      "there is perfect competition in the product market"
+    ],
+    "answer": 1,
+    "explanation": "Returns to a variable factor are a short-run concept in which one input is varied while the others are fixed, and diminishing returns set in when the marginal product of the variable factor starts falling.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "In the Indian national accounts, 'gross value added' at basic prices includes:",
+    "options": [
+      "the value of all final goods and services at market prices",
+      "the value of output minus depreciation",
+      "the total income of all factor owners after taxes",
+      "the value of output minus intermediate consumption, including taxes on production but excluding subsidies"
+    ],
+    "answer": 3,
+    "explanation": "GVA at basic prices is output at basic prices less intermediate consumption, and the sum of GVA across all industries gives GDP at market prices, which is why the two are reconciled in the national accounts.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The expenditure approach to estimating GDP is employed mainly because:",
+    "options": [
+      "data on production by industry are not available or adequate for a detailed estimate",
+      "it is the only method that captures the contribution of the services sector",
+      "it is the method prescribed for computing per capita income",
+      "it allows the state to correct the estimate of the base year"
+    ],
+    "answer": 0,
+    "explanation": "While the production or income approach is preferred for the official estimates in India, the expenditure approach is used when production data are inadequate, and it also serves as a check on the consistency of the other two approaches.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "In the national accounts, depreciation of fixed assets is also termed as:",
+    "options": [
+      "consumption of fixed capital",
+      "gross capital formation",
+      "net value added at factor cost",
+      "reserve for depreciation"
+    ],
+    "answer": 0,
+    "explanation": "Consumption of fixed capital is the fall in the value of fixed assets due to wear, obsolescence and accidental damage, and deducting it from gross value added gives net value added.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Competition Commission of India' can impose a monetary penalty for abuse of dominance up to:",
+    "options": [
+      "25 per cent of the total turnover of the market",
+      "1 per cent of the turnover of the dominant undertaking",
+      "5 per cent of the annual profit of the company",
+      "10 per cent of the total turnover or assets of the undertaking"
+    ],
+    "answer": 3,
+    "explanation": "Under section 7 of the Competition Act, 2002 the Commission may impose a penalty of up to 10 per cent of the total turnover or assets of the undertaking for abuse of dominance, and twice that amount for a repeat offence.",
+    "difficulty": "hard",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the 'Minimum Export Price' mechanism, an exporter must export at a price not below the price notified by:",
+    "options": [
+      "the Ministry of Agriculture",
+      "the Directorate General of Foreign Trade",
+      "the Commodity Futures Market regulator",
+      "the Reserve Bank of India"
+    ],
+    "answer": 1,
+    "explanation": "The Ministry of Commerce notifies Minimum Export Prices for specified items such as onions and certain varieties of rice through the DGFT, and exports below the notified price are penalised under the export policy.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "DGFT",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a correct statement about India's Public Investment Borrowing through Government securities?",
+    "options": [
+      "The central government does not borrow from international markets at all",
+      "All borrowing is done through the Reserve Bank of India as the sole banker to the government",
+      "The share of the budget deficit financed through market borrowings has risen steadily while the share of cash balances has declined",
+      "Government securities are never auctioned to the public"
+    ],
+    "answer": 2,
+    "explanation": "Since the fiscal consolidation roadmap, a rising share of the central government's net borrowing has been met through market issues of government securities, with the cash balance component deliberately reduced to keep the deficit within the target.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  }
+]

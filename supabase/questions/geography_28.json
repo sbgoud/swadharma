@@ -1,0 +1,1097 @@
+[
+  {
+    "q": "The 'strait of Hormuz' is between:",
+    "options": [
+      "The Persian Gulf and the Gulf of Oman",
+      "The Red Sea and the Gulf of Aden",
+      "The Mediterranean and the Atlantic",
+      "The Black Sea and the Marmara"
+    ],
+    "answer": 0,
+    "explanation": "The Strait of Hormuz connects the Persian Gulf with the Gulf of Oman and it is the critical maritime chokepoint for the oil shipments of the Gulf.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Strait of Gibraltar' separates:",
+    "options": [
+      "Yemen and Oman",
+      "Spain and Morocco",
+      "Italy and Tunisia",
+      "Greece and Turkey"
+    ],
+    "answer": 1,
+    "explanation": "The Strait of Gibraltar, about 13 km wide at its narrowest, separates Spain from Morocco and it connects the Mediterranean with the Atlantic.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Strait of Malacca' is between:",
+    "options": [
+      "The Korea and the Japan",
+      "The Borneo and the Sulawesi",
+      "The Malay Peninsula and the Sumatra",
+      "The India and the Sri Lanka"
+    ],
+    "answer": 2,
+    "explanation": "The Strait of Malacca, between the Malay Peninsula and the Sumatra, is one of the busiest of the shipping lanes with about a quarter of the world trade passing through it.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bab-el-Mandeb' is between:",
+    "options": [
+      "The Persian Gulf and the Arabian Sea",
+      "The Mediterranean and the Atlantic",
+      "The Black Sea and the Bosphorus",
+      "The Red Sea and the Gulf of Aden"
+    ],
+    "answer": 3,
+    "explanation": "The Bab-el-Mandeb connects the Red Sea with the Gulf of Aden and it is the narrow strait between the Yemen and the Djibouti and the Eritrea.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bering Strait' separates:",
+    "options": [
+      "Asia and North America",
+      "Europe and Asia",
+      "Africa and Europe",
+      "Australia and Asia"
+    ],
+    "answer": 0,
+    "explanation": "The Bering Strait, 82 km wide at its narrowest, separates the Asia from the North America and it has the International Date Line running through it.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Madagascar and the African mainland is correct?",
+    "options": [
+      "Australia and New Zealand",
+      "Sri Lanka and the India",
+      "Japan and the Korea",
+      "Madagascar and the African mainland"
+    ],
+    "answer": 3,
+    "explanation": "The Mozambique Channel separates the Madagascar from the African mainland and it is a key shipping route for the oil of the Persian Gulf.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dover Strait' separates:",
+    "options": [
+      "Italy and Tunisia",
+      "Denmark and Sweden",
+      "England and France",
+      "Spain and Morocco"
+    ],
+    "answer": 2,
+    "explanation": "The Dover Strait, or the Calais Strait, separates England from France and the English Channel connects it with the North Sea.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tsugaru Strait' separates:",
+    "options": [
+      "Spain and Morocco",
+      "Honshu and Hokkaido",
+      "Honshu and Kyushu",
+      "Sicily and Italy"
+    ],
+    "answer": 1,
+    "explanation": "The Tsugaru Strait, between the Honshu and the Hokkaido, is the route of the ferry and the shipping between the two Japanese islands.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Palk Strait' separates:",
+    "options": [
+      "Honshu and Hokkaido",
+      "Cuba and Florida",
+      "India and Sri Lanka",
+      "Sumatra and Malaysia"
+    ],
+    "answer": 2,
+    "explanation": "The Palk Strait separates the India from the Sri Lanka and the Rameswaram is on the Indian side and the Jaffna on the Sri Lankan.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bering Sea' is:",
+    "options": [
+      "The saltiest of the seas",
+      "The northernmost of the seas of the Pacific with the cold currents",
+      "The warmest of the seas",
+      "The smallest of the seas"
+    ],
+    "answer": 1,
+    "explanation": "The Bering Sea, at the northern end of the Pacific, has the cold currents and the rich fisheries and it is the source of the Bering Strait.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Caribbean Sea' is:",
+    "options": [
+      "The sea of the Americas with the warm currents and the hurricanes",
+      "The coldest of the seas",
+      "The sea of the North Pole",
+      "The sea of the Mediterranean"
+    ],
+    "answer": 0,
+    "explanation": "The Caribbean Sea, with the warm currents and the hurricanes, is the sea of the Americas and the deepest of the seas of the Atlantic at about 7,000 metres.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Andaman Sea' is:",
+    "options": [
+      "The sea of the Arctic",
+      "The sea of the Caribbean",
+      "The sea of the Baltic",
+      "The sea between the Andaman and the Nicobar and the Thai coast"
+    ],
+    "answer": 3,
+    "explanation": "The Andaman Sea, between the Andaman and the Nicobar and the coast of the Thailand and the Myanmar, is the site of the Battle of the Andaman Sea in the Second World War.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Black Sea' is:",
+    "options": [
+      "A part of the Arctic Ocean",
+      "A sea with the salinity of about a third of the oceans and the deep oxygen layer",
+      "The largest of the seas",
+      "The coldest of the seas"
+    ],
+    "answer": 1,
+    "explanation": "The Black Sea has the salinity of about a third of the oceans and the deep water has the high oxygen content from the river inputs and it is one of the world's largest deep anoxic basins.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mediterranean Sea' is:",
+    "options": [
+      "The largest of the oceans",
+      "The deepest of the seas",
+      "A part of the Pacific",
+      "The sea with the Suez and the Gibraltar and the almost enclosed shape"
+    ],
+    "answer": 3,
+    "explanation": "The Mediterranean is an almost enclosed sea of about 3.1 million square kilometres between the Europe, the Africa and the Asia and it is connected through the Suez and the Gibraltar.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Coral Sea' is:",
+    "options": [
+      "The marginal sea of the Pacific with the Great Barrier Reef",
+      "A part of the Indian Ocean",
+      "The sea of the Arctic",
+      "The sea of the Mediterranean"
+    ],
+    "answer": 0,
+    "explanation": "The Coral Sea, a marginal sea of the Pacific, is named for the Great Barrier Reef and the other coral reefs of the region.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tasman Sea' separates:",
+    "options": [
+      "Japan and the Korea",
+      "Madagascar and the Africa",
+      "Australia and New Zealand",
+      "Indonesia and the Philippines"
+    ],
+    "answer": 2,
+    "explanation": "The Tasman Sea separates the Australia from the New Zealand and it was named after the Dutch explorer Abel Tasman.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'North Sea' is:",
+    "options": [
+      "A part of the Atlantic between the Britain and the continental Europe",
+      "A part of the Pacific",
+      "A part of the Indian Ocean",
+      "A part of the Arctic Ocean"
+    ],
+    "answer": 0,
+    "explanation": "The North Sea, a part of the Atlantic, is the shallow epicontinental sea between the Britain and the Norway and the continental Europe and it has the huge oil reserves of the Ekofisk.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Red Sea' is a:",
+    "options": [
+      "A part of the Arctic",
+      "A young ocean with the saltiest water and the great rift",
+      "The oldest ocean",
+      "A part of the Pacific"
+    ],
+    "answer": 1,
+    "explanation": "The Red Sea is a young ocean formed by the rifting of the Arabian peninsula from the Africa and it has the saltiest water of the open seas.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Sargasso Sea?",
+    "options": [
+      "Is the sea of the Pacific",
+      "Is the sea of the Arctic",
+      "Is the sea of the Red Sea",
+      "Is the only sea without a land boundary in the North Atlantic"
+    ],
+    "answer": 3,
+    "explanation": "The Sargasso Sea, the only sea without a land boundary, is bounded by the Gulf Stream, the North Atlantic Drift, the Canary Current and the North Equatorial Current.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Cape Verde, which of the following is correct?",
+    "options": [
+      "Is the easternmost point of the Africa",
+      "It is the northernmost point of the Europe",
+      "Is the westernmost point of the African mainland and it is near the Dakar",
+      "Is the southernmost point of the Africa"
+    ],
+    "answer": 2,
+    "explanation": "The Cape Verde, the westernmost point of the African mainland, is near the Dakar and the Dakar is the westernmost point of the African continent.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cape Agulhas' is:",
+    "options": [
+      "The southernmost point of the African continent",
+      "The westernmost point",
+      "The easternmost point",
+      "The northernmost point"
+    ],
+    "answer": 0,
+    "explanation": "The Cape Agulhas, near the Struisbaai in the Western Cape, is the southernmost point of the African continent and it is where the Atlantic and the Indian oceans meet.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ras Dashen' is:",
+    "options": [
+      "The highest of the Atlas",
+      "The highest of the Drakensberg",
+      "The highest peak of Ethiopia at about 4,550 m",
+      "The highest of the Kenya"
+    ],
+    "answer": 2,
+    "explanation": "The Ras Dashen, at about 4,550 metres, is the highest peak of Ethiopia and the Dorma had been the highest of the Africa in the colonial era.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kilimanjaro' is:",
+    "options": [
+      "The highest of the Kenya and an active volcano",
+      "The highest of the Ethiopia",
+      "The highest of the Atlas",
+      "The highest peak of the Africa at 5,895 m and a dormant volcano"
+    ],
+    "answer": 3,
+    "explanation": "The Kilimanjaro, at 5,895 metres, is the highest peak of the Africa and it is a dormant volcano, and the Mount Kenya is the highest of the Kenya and an active one.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mount Kenya' is:",
+    "options": [
+      "A dormant volcano of the Tanzania",
+      "The highest peak of the Kenya and an active volcano that is the second highest of the Africa",
+      "The highest of the Africa",
+      "The highest of the Ethiopia"
+    ],
+    "answer": 1,
+    "explanation": "The Mount Kenya, at 5,199 metres, is the second highest of the Africa and an active volcano and it is the highest of the Kenya.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Atlas' range:",
+    "options": [
+      "Is in the North-West Africa and separates the Sahara from the coastal plains",
+      "Is in the East Africa",
+      "Is in the Southern Africa",
+      "Is in the Central Africa"
+    ],
+    "answer": 0,
+    "explanation": "The Atlas range, in the Morocco, the Algeria and the Tunisia, separates the Sahara from the Mediterranean coastal plains and it has the cedar forests.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Drakensberg' is:",
+    "options": [
+      "The highest range of the Africa",
+      "The rift of the East Africa",
+      "The range of the Madagascar",
+      "The great escarpment of the Southern Africa with the highest peak of the Thabana Ntlenyana"
+    ],
+    "answer": 3,
+    "explanation": "The Drakensberg, the great escarpment of the Southern Africa, has the highest peak of the continent outside the Andes, the Thabana Ntlenyana at 3,482 metres.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Andes' is:",
+    "options": [
+      "The range of the Europe",
+      "The longest mountain chain of the world on the western edge of the South America",
+      "The highest range of the Asia",
+      "The mountain range of the Africa"
+    ],
+    "answer": 1,
+    "explanation": "The Andes, about 7,000 km long, is the longest continental mountain range of the world and it runs along the western edge of the South America.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aconcagua' is:",
+    "options": [
+      "The highest of the Rockies",
+      "The highest of the North America",
+      "The highest peak of the South America and of the world outside the Asia",
+      "The highest of the Andes"
+    ],
+    "answer": 2,
+    "explanation": "The Aconcagua, at 6,960 metres, is the highest peak of the South America and the highest of the world outside the Asia.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Denali is correct?",
+    "options": [
+      "Is the highest of the world",
+      "It is in the Andes",
+      "Is the highest peak of the North America",
+      "Is the highest of the South America"
+    ],
+    "answer": 2,
+    "explanation": "The Denali, at 6,190 metres, is the highest peak of the North America and the second highest of the world.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ural' mountains:",
+    "options": [
+      "Are the highest of the Asia",
+      "Are in the Southern Africa",
+      "Separate the Europe and the Africa",
+      "Separate the Europe and the Asia and they are rich in the minerals"
+    ],
+    "answer": 3,
+    "explanation": "The Ural mountains, the traditional boundary of the Europe and the Asia, are rich in the minerals and the fossil fuels.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Caucasus' mountains:",
+    "options": [
+      "Separate the Europe and the Asia and they are between the Black Sea and the Caspian Sea",
+      "Are in the South America",
+      "Are between the Baltic and the Black Sea",
+      "Separate the Africa and the Asia"
+    ],
+    "answer": 0,
+    "explanation": "The Caucasus mountains, between the Black Sea and the Caspian Sea, are the traditional boundary of the Europe and the Asia and the Mount Elbrus is the highest of the Europe.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Alps' mountains:",
+    "options": [
+      "Separate the Europe and the Asia",
+      "Are the youngest fold mountains of the Europe and they separate the Italy from the rest of the Europe",
+      "Are the oldest of the Europe",
+      "Are in the Scandinavia"
+    ],
+    "answer": 1,
+    "explanation": "The Alps, the young fold mountains of the Europe, separate the Italy and the Mont Blanc at 4,810 metres is the highest of the range.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rockies' mountains:",
+    "options": [
+      "Separate the Europe and the Asia",
+      "Are the highest of the world",
+      "Extend from the North-West of the Canada to the North-East of the Mexico",
+      "Are in the South America"
+    ],
+    "answer": 2,
+    "explanation": "The Rockies extend from the North-West of the Canada to the North-East of the Mexico and they are about 4,800 km long.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Himalaya is correct?",
+    "options": [
+      "They separate the Europe and the Asia",
+      "Extend about 2,400 km from the Kashmir to the Arunachal in the north-east",
+      "They extend in the Southern Africa",
+      "They are the highest of the world"
+    ],
+    "answer": 1,
+    "explanation": "The Himalaya extend about 2,400 km from the Kashmir to the Arunachal Pradesh in the north-east and they have the greatest vertical extent of any of the mountain ranges of the world.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Dividing Range' is:",
+    "options": [
+      "The range of the Southern Africa",
+      "The range of the North America",
+      "The range of the South America",
+      "The great watershed of the eastern Australia"
+    ],
+    "answer": 3,
+    "explanation": "The Great Dividing Range, the great watershed of the eastern Australia, separates the east-flowing the coastal rivers from the west-flowing the Murray and the Darling.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sahara' desert:",
+    "options": [
+      "Covers about 9.2 million square kilometres and it is the largest hot desert",
+      "Is the largest of the deserts",
+      "Is the largest of the cold deserts",
+      "It is in the Southern Hemisphere"
+    ],
+    "answer": 0,
+    "explanation": "The Sahara, at about 9.2 million square kilometres, is the largest hot desert and it is crossed by the Atlas and the Ahaggar and the Tibesti.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gobi' desert:",
+    "options": [
+      "Is the cold desert of the Mongolia and the northern China",
+      "Is the largest of the hot deserts",
+      "Is in the Southern Hemisphere",
+      "It is the desert of the Africa"
+    ],
+    "answer": 0,
+    "explanation": "The Gobi, a cold desert of the Mongolia and the northern China, is about 1.3 million square kilometres and it is the sixth largest of the world.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Atacama' desert:",
+    "options": [
+      "Is the largest of the hot deserts",
+      "It is in the Africa",
+      "It is the coldest of the deserts",
+      "Is the driest of the world and it is in the South America"
+    ],
+    "answer": 3,
+    "explanation": "The Atacama, in the Chile, is the driest of the deserts of the world and the Atacama Desert of the Arica has never recorded a rainfall.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Taklamakan' desert:",
+    "options": [
+      "It is in the Southern Africa",
+      "It is the largest of the cold deserts of the world",
+      "Is in the Xinjiang of China and is one of the largest of the shifting sand deserts",
+      "Is in the Sahara"
+    ],
+    "answer": 2,
+    "explanation": "The Taklamakan, in the Xinjiang of China, is one of the largest of the shifting sand deserts of the world and it is crossed by the Silk Road.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Ladakh?",
+    "options": [
+      "It is the largest of the hot deserts",
+      "Is a cold desert of the Ladakh in the Great Himalaya",
+      "It is a hot desert of the Rajasthan",
+      "It is in the Deccan"
+    ],
+    "answer": 1,
+    "explanation": "The Ladakh, at over 3,000 metres, is a cold desert of the Great Himalaya and it is a part of the rain shadow of the Karakoram.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Caspian Sea' is:",
+    "options": [
+      "The largest of the oceans",
+      "A part of the Pacific",
+      "The smallest of the seas",
+      "The largest of the inland seas and it is a landlocked saline water body"
+    ],
+    "answer": 3,
+    "explanation": "The Caspian Sea, the largest of the inland bodies of water at about 3.7 lakh square kilometres, is a landlocked saline lake and it is the largest of the saline lakes after the Dead Sea.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aral Sea' is:",
+    "options": [
+      "A part of the Pacific",
+      "The deepest of the seas",
+      "The salt lake of the Central Asia that has almost dried up because of the irrigation",
+      "The largest of the inland seas"
+    ],
+    "answer": 2,
+    "explanation": "The Aral Sea, between the Kazakhstan and the Uzbekistan, has almost dried up because of the diversion of the rivers for the cotton irrigation.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Salt Lake' is:",
+    "options": [
+      "A part of the Arctic Ocean",
+      "The salt lake of the Utah in the western United States",
+      "A part of the Pacific",
+      "The largest of the fresh water lakes"
+    ],
+    "answer": 1,
+    "explanation": "The Great Salt Lake of the Utah is a salt lake and it is the largest of the salt lakes of the Western Hemisphere.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lake Baikal' of the Siberia:",
+    "options": [
+      "Is the deepest and the largest of the fresh water lakes and it holds a fifth of the unfrozen fresh water",
+      "Is the largest of the salt lakes",
+      "Is the largest of the artificial lakes",
+      "It is in the Scandinavia"
+    ],
+    "answer": 0,
+    "explanation": "The Baikal, at 1,642 metres, is the deepest of the lakes and the largest of the fresh water lakes by the volume and it holds a fifth of the unfrozen fresh water of the world.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Bear Lake' and the 'Great Slave Lake' are:",
+    "options": [
+      "The two great lakes of the Canada",
+      "The lakes of the Russia",
+      "The lakes of the Africa",
+      "The lakes of the South America"
+    ],
+    "answer": 0,
+    "explanation": "The Great Bear and the Great Slave are the two large lakes of the north-western Canada and the Great Slave is the deepest of the North America.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lake Titicaca':",
+    "options": [
+      "Is in the Africa",
+      "It is a salt lake",
+      "It is the deepest of the world",
+      "Is the largest of the fresh water lakes of the South America and it is the highest of the navigable lakes"
+    ],
+    "answer": 3,
+    "explanation": "The Titicaca, on the border of the Peru and the Bolivia, is the largest of the fresh water lakes of the South America and the highest of the navigable lakes of the world.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lake Victoria' is:",
+    "options": [
+      "A salt lake of the Africa",
+      "It is in the South America",
+      "The largest of the African lakes and the second of the world by the area",
+      "The deepest of the African lakes"
+    ],
+    "answer": 2,
+    "explanation": "The Victoria, about 6,900 square kilometres, is the largest of the African lakes and the second of the world by the area, and the Nile flows out of it.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lake Tanganyika' is:",
+    "options": [
+      "It is in the South America",
+      "The second largest of the African lakes and the deepest of the world with the unique fish species",
+      "The largest of the African lakes",
+      "A salt lake of the Africa"
+    ],
+    "answer": 1,
+    "explanation": "The Tanganyika is the second largest of the African lakes and the second deepest of the world and it has the unique species of the cichlids.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Yangtze' is:",
+    "options": [
+      "The longest river of the world",
+      "It is a tributary of the Ganges",
+      "It flows into the Bay of Bengal",
+      "The longest river of the Asia at about 6,300 km and it flows into the East China Sea"
+    ],
+    "answer": 3,
+    "explanation": "The Yangtze, the longest river of the Asia at about 6,300 km, flows into the East China Sea and the Three Gorges is the largest dam project of the world.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mekong' river:",
+    "options": [
+      "It flows into the Arabian Sea",
+      "Flows through the China and the six countries of the Indo-China peninsula",
+      "Flows through the Brazil",
+      "It is a tributary of the Ganges"
+    ],
+    "answer": 1,
+    "explanation": "The Mekong, about 4,900 km, flows through the China, the Myanmar, the Laos, the Thailand, the Cambodia and the Vietnam, and the delta is the most productive of the world.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Danube' river:",
+    "options": [
+      "It flows into the Caspian Sea",
+      "It is a tributary of the Volga",
+      "Flows through the ten countries and the Black Sea and it is the most international of the rivers",
+      "It is the longest of the Africa"
+    ],
+    "answer": 2,
+    "explanation": "The Danube, about 2,850 km, flows through the ten countries and the Black Sea and it is the most international of the rivers.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Rhine is correct?",
+    "options": [
+      "Flows through the Switzerland, the Germany and the Netherlands",
+      "Flows through the France only",
+      "It is the longest of the Europe",
+      "It flows into the Black Sea"
+    ],
+    "answer": 0,
+    "explanation": "The Rhine, about 1,230 km, flows through the Switzerland, the Germany and the Netherlands and the Ruhr valley of the Germany is the most industrial of the Europe.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nile' is:",
+    "options": [
+      "The longest of the Asia",
+      "It is the most polluted of the rivers",
+      "It flows into the Red Sea",
+      "The longest river of the world at about 6,650 km and the Blue Nile is its main tributary"
+    ],
+    "answer": 3,
+    "explanation": "The Nile, about 6,650 km, is the longest river of the world and the Blue Nile, the Atbara and the Sobat are the chief of the tributaries.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Congo' river:",
+    "options": [
+      "It flows into the Atlantic from the east",
+      "Is the second longest of the world and the deepest with the immense discharge",
+      "Is the longest of the world",
+      "It is the most polluted of the rivers"
+    ],
+    "answer": 1,
+    "explanation": "The Congo, at about 4,700 km, is the second longest of the world and the deepest with the immense discharge and it drains the second largest of the rainforests.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Amazon is correct?",
+    "options": [
+      "Discharges about a fifth of the river water of the world into the Atlantic",
+      "Is the longest of the world",
+      "It is the most polluted of the rivers",
+      "It is the largest of the salt water rivers"
+    ],
+    "answer": 0,
+    "explanation": "The Amazon discharges about a fifth of the river water of the world into the Atlantic and the rainforest of the Amazon is called the lung of the planet.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Ganges?",
+    "options": [
+      "It is the most polluted of the rivers of the India",
+      "It flows into the Arabian Sea",
+      "Is the longest of the rivers of the India and the most sacred",
+      "It is the longest of the world"
+    ],
+    "answer": 2,
+    "explanation": "The Ganga, about 2,525 km, is the longest of the rivers of the India and it is the most sacred and the most polluted of the Indian rivers.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Yamuna?",
+    "options": [
+      "Is the longest tributary of the Ganga and it is the most polluted of the rivers of the India",
+      "It is the longest of the India",
+      "It flows into the Arabian Sea",
+      "It is the main tributary of the Brahmaputra"
+    ],
+    "answer": 0,
+    "explanation": "The Yamuna, about 1,376 km, is the longest tributary of the Ganga and it is the most polluted of the rivers of the India.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Damodar is correct?",
+    "options": [
+      "It flows into the Arabian Sea",
+      "Is known as the Sorrow of Bengal and the first of the multipurpose river valley projects",
+      "Is the longest of the Ganga",
+      "It is the Sorrow of Assam"
+    ],
+    "answer": 1,
+    "explanation": "The Damodar is known as the Sorrow of Bengal and it was the first of the multipurpose river valley projects with the Damodar Valley Corporation of 1947.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Indus?",
+    "options": [
+      "It is the longest of the India",
+      "It is the lifeline of the Bengal",
+      "It flows into the Bay of Bengal",
+      "Is one of the five rivers of the Punjab and it is the most important of the Indus system"
+    ],
+    "answer": 3,
+    "explanation": "The Indus, with the Jhelum, the Chenab, the Ravi, the Beas and the Sutlej, forms the Indus system and the Indus is the most important of them.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the fourth longest, which of the following is correct?",
+    "options": [
+      "It is the largest of the west flowing rivers",
+      "It flows into the Arabian Sea",
+      "Is the fourth longest of the India and the largest of the east flowing rivers",
+      "It is the longest of the India"
+    ],
+    "answer": 2,
+    "explanation": "The Mahanadi, about 851 km, is the fourth longest river of the India and the largest of the east flowing rivers.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the a west flowing river is correct?",
+    "options": [
+      "It is the longest of the peninsular rivers",
+      "It flows into the Bay of Bengal",
+      "Is a west flowing river of the Karnataka with the Jog Falls",
+      "It is a tributary of the Kaveri"
+    ],
+    "answer": 2,
+    "explanation": "The Sharavathi, with the Jog Falls, is one of the west flowing rivers of the Karnataka and the Kali and the Varahi are the others.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Is the second longest of the peninsular rivers?",
+    "options": [
+      "Is the second longest of the peninsular rivers and it rises at the Mahabaleshwar",
+      "It is the longest of the peninsular rivers",
+      "It is the largest of the west flowing rivers",
+      "It flows into the Arabian Sea"
+    ],
+    "answer": 0,
+    "explanation": "The Krishna, about 1,400 km, is the second longest of the peninsular rivers and it rises at the Mahabaleshwar in the Western Ghats.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Godavari?",
+    "options": [
+      "It is the second longest of the peninsular rivers",
+      "It is a west flowing river",
+      "It flows into the Arabian Sea",
+      "Is the longest of the peninsular rivers and it rises at the Trimbakeshwar"
+    ],
+    "answer": 3,
+    "explanation": "The Godavari, about 1,465 km, is the longest of the peninsular rivers and it rises at the Trimbakeshwar near the Nashik in the Western Ghats.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Betas of the Andaman are:",
+    "options": [
+      "in the Gulf of Mannar",
+      "the extinct volcanic islands of the archipelago",
+      "the coral islands of the Lakshadweep",
+      "the highest islands of the world"
+    ],
+    "answer": 1,
+    "explanation": "The Betas, the extinct volcanic islands of the Andaman, have the wide caldera lake and they are the remnants of the volcanic activity.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Lakshadweep?",
+    "options": [
+      "It is the coral archipelago of the Bay of Bengal",
+      "It is a part of the Andaman group",
+      "Is the coral archipelago of the Arabian Sea with the ten islands and the Kavaratti as the largest",
+      "It is the volcanic archipelago of the Bay of Bengal"
+    ],
+    "answer": 2,
+    "explanation": "The Lakshadweep, the coral islands of the Arabian Sea, has ten islands and the Kavaratti is the largest and the capital is the Kavaratti.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Minicoy' of the Lakshadweep:",
+    "options": [
+      "It is uninhabited",
+      "Is the southernmost island and it is inhabited by the Maldivians who speak Mahl",
+      "It is the largest island of the archipelago",
+      "It is an extinct volcano"
+    ],
+    "answer": 1,
+    "explanation": "The Minicoy, the southernmost of the Lakshadweep, is inhabited by the Maldivians who had migrated from the Maldives and they speak the Mahl.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the volcanic coral islands?",
+    "options": [
+      "the coral islands of the Arabian Sea",
+      "in the Gulf of Mannar",
+      "the coral islands of the Palk Strait",
+      "the volcanic and the coral islands of the Bay of Bengal"
+    ],
+    "answer": 3,
+    "explanation": "The Andaman is volcanic and the Nicobar is coral and they are in the Bay of Bengal, and the islands were used by the British as the penal colony.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Great Nicobar is:",
+    "options": [
+      "the southernmost point of the Indian union and it has the Indira Point",
+      "the northernmost island",
+      "the largest island of the Andaman",
+      "uninhabited"
+    ],
+    "answer": 0,
+    "explanation": "The Great Nicobar has the Indira Point, the southernmost point of the Indian union, and theobar is the largest of the Nicobar group.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sagar Island' of the West Bengal:",
+    "options": [
+      "Is the biggest of the sandbar islands of the world",
+      "It is a coral island",
+      "It is in the Bay of Bengal of the Tamil Nadu",
+      "It is an extinct volcano"
+    ],
+    "answer": 0,
+    "explanation": "The Sagar Island, at about 100 km in length, is the biggest of the sandbar islands of the world and it is in the Bay of Bengal.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Diu is correct?",
+    "options": [
+      "It is a coral island of the Lakshadweep",
+      "It is in the Gulf of Mannar",
+      "It is an extinct volcano of the Bay of Bengal",
+      "Is a Diu island of the Kathiawar and it was a Portuguese possession"
+    ],
+    "answer": 3,
+    "explanation": "The Diu is an island off the Kathiawar peninsula of the Gujarat and it was a Portuguese possession until 1961 and it is now a part of the Gujarat.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Elephanta' of the Mumbai:",
+    "options": [
+      "It is in the Gulf of Mannar",
+      "It is an extinct volcano",
+      "Is the island with the rock-cut caves of the Shiva and it is a World Heritage site",
+      "It is a coral island of the Lakshadweep"
+    ],
+    "answer": 2,
+    "explanation": "The Elephanta, the Gharapuri island of the Mumbai harbour, has the famous rock-cut caves of the Shiva and it is a World Heritage site.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ritchie's Archipelago' of the Andaman:",
+    "options": [
+      "It is a group of the atolls",
+      "Is the group of the islands in the south-east of the Andaman with the extinct volcanoes",
+      "It is a group of the coral islands",
+      "It is a group of the barrier islands"
+    ],
+    "answer": 1,
+    "explanation": "The Ritchie's Archipelago, in the south-east of the Andaman, has the Barren Island, the only active volcano of the Asia and the Indian Ocean region.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Barren Island' of the Andaman:",
+    "options": [
+      "It is a coral island",
+      "It is a sandbar",
+      "It is uninhabited permanently",
+      "Is the only active volcano of the Asia and the Indian Ocean region"
+    ],
+    "answer": 3,
+    "explanation": "The Barren Island, in the Ritchie's Archipelago of the Andaman, is the only active volcano of the Asia and the Indian Ocean and it was the eruption of 2008 that was noticed.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

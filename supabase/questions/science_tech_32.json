@@ -1,0 +1,2777 @@
+[
+  {
+    "q": "The 'Raman effect' was experimentally demonstrated by:",
+    "options": [
+      "Bose and Gupta",
+      "Sir C.V. Raman",
+      "S.N. Bose",
+      "A.S. Rosenblum"
+    ],
+    "answer": 1,
+    "explanation": "Sir C.V. Raman discovered the Raman effect in 1928 and he won the Nobel Prize in Physics in 1930 for his work on the scattering of light and for the discovery of the Raman effect.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sagnac effect' is used in:",
+    "options": [
+      "The PET scan",
+      "The electron microscope",
+      "The ring laser gyroscope",
+      "The MRI"
+    ],
+    "answer": 2,
+    "explanation": "The Sagnac effect, the rotation of a ring interferometer, is the principle of the ring laser gyroscope used in the navigation and the inertial guidance.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'optical fibre' works on the principle of:",
+    "options": [
+      "Total internal reflection",
+      "Refraction",
+      "Diffraction",
+      "Polarisation"
+    ],
+    "answer": 0,
+    "explanation": "The optical fibre guides the light by the total internal reflection of the light at the core-cladding interface.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'critical angle' of a medium:",
+    "options": [
+      "Is the same for all the media",
+      "Is the angle of incidence in the denser medium for the total internal reflection",
+      "Is always 90 degrees",
+      "Depends on the wavelength only"
+    ],
+    "answer": 1,
+    "explanation": "The critical angle is the angle of incidence in the denser medium for which the refracted ray travels along the boundary and beyond which the total internal reflection occurs.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'refractive index' of a medium is the ratio of:",
+    "options": [
+      "The speed of light in the vacuum to the speed in the medium",
+      "The wavelength in the medium to that in the vacuum",
+      "The density of the medium to that of the vacuum",
+      "The frequency in the medium to that in the vacuum"
+    ],
+    "answer": 0,
+    "explanation": "The refractive index is the ratio of the speed of light in the vacuum to its speed in the medium and it is also the ratio of the wavelength in the vacuum to that in the medium.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'dispersion of light' causes:",
+    "options": [
+      "The bending of light in the prism",
+      "The reflection of light",
+      "The interference of light",
+      "The splitting of the white light into the constituent colours"
+    ],
+    "answer": 3,
+    "explanation": "Dispersion is the phenomenon of the splitting of the white light into its constituent colours because of the dependence of the refractive index on the wavelength.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Newton's rings' are produced by the interference of light:",
+    "options": [
+      "Between the direct and the reflected beams",
+      "Between the polarised and the unpolarised light",
+      "Between the two reflected beams from the upper and the lower surfaces of the thin air film",
+      "Between the two refracted beams"
+    ],
+    "answer": 2,
+    "explanation": "The Newton's rings are the interference fringes of the light reflected from the two surfaces of a thin film of the air between the convex lens and the glass plate.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Michelson interferometer' was used to:",
+    "options": [
+      "Measure the radioactivity",
+      "Measure the speed of light and the wavelength of the light",
+      "Measure the atomic mass",
+      "Observe the diffraction"
+    ],
+    "answer": 1,
+    "explanation": "The Michelson interferometer was used by Michelson and Morley to measure the speed of light and it is the classic device for the null ether-drift experiment.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Fraunhofer lines' in the solar spectrum are caused by the:",
+    "options": [
+      "Emission of the light by the sun's core",
+      "The reflection of the light by the dust",
+      "The diffraction of the light",
+      "Absorption of the light by the cooler gases of the sun's atmosphere"
+    ],
+    "answer": 3,
+    "explanation": "The Fraunhofer lines are the dark absorption lines in the solar spectrum caused by the elements in the cooler outer atmosphere of the sun, and their pattern gave the first evidence of the composition of the stars.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hertz and Hertz' and the 'photoelectric effect':",
+    "options": [
+      "Röntgen discovered it",
+      "Bohr explained it",
+      "Hertz produced the effect and Lenard studied it and Einstein explained it",
+      "Einstein discovered it"
+    ],
+    "answer": 2,
+    "explanation": "Hertz demonstrated the photoelectric effect in 1887, Lenard studied it and Einstein gave the explanation in 1905, for which he won the Nobel Prize in 1921.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Compton effect' demonstrated the:",
+    "options": [
+      "Particle nature of the light",
+      "Wave nature of the electron",
+      "The quantum of the light",
+      "The dual nature of the matter"
+    ],
+    "answer": 0,
+    "explanation": "The Compton effect of the scattering of the X-rays by the electrons showed the particle nature of the light and the formula was explained by the quantum theory.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Millikan's oil drop' experiment measured the:",
+    "options": [
+      "The Planck constant",
+      "The charge of the electron",
+      "The charge of the proton",
+      "The mass of the electron"
+    ],
+    "answer": 1,
+    "explanation": "Millikan's oil drop experiment of 1909 measured the charge of the electron as 1.6 x 10 to the power of minus 19 coulomb.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rutherford alpha particle scattering' experiment led to the:",
+    "options": [
+      "Nuclear model of the atom with a small dense nucleus",
+      "Planetary model of the atom",
+      "Bohr model",
+      "Thomson model"
+    ],
+    "answer": 0,
+    "explanation": "Rutherford's gold foil experiment of 1911 showed that the atom is mostly empty space with a small, dense, positively charged nucleus.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Thomson model' of the atom is also known as the:",
+    "options": [
+      "Pudding model",
+      "Planetary model",
+      "Ring model",
+      "Water melon model"
+    ],
+    "answer": 3,
+    "explanation": "The Thomson model is the watermelon model with the positive charge spread over the sphere and the electrons embedded in it, and J.J. Thomson was awarded the Nobel Prize in 1906.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chadwick' and the 'neutron':",
+    "options": [
+      "Chadwick discovered the electron",
+      "Chadwick discovered the positron",
+      "Chadwick discovered the neutron in 1932 and it was the missing particle of the nucleus",
+      "Chadwick discovered the proton"
+    ],
+    "answer": 2,
+    "explanation": "James Chadwick discovered the neutron in 1932 and he won the Nobel Prize in Physics in 1935, and the neutron completed the picture of the nucleus.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Anderson' and the 'positron':",
+    "options": [
+      "Anderson discovered the positron in 1932 from the cosmic rays",
+      "Anderson discovered the neutron",
+      "Anderson discovered the meson",
+      "Anderson discovered the neutrino"
+    ],
+    "answer": 0,
+    "explanation": "Carl Anderson discovered the positron in 1932 in the cosmic ray photographs and he shared the Nobel Prize in Physics in 1936 with Fermi.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'neutrino' was proposed by:",
+    "options": [
+      "Bohr",
+      "Pauli",
+      "Fermi",
+      "Dirac"
+    ],
+    "answer": 1,
+    "explanation": "Wolfgang Pauli proposed the neutrino in 1930 to explain the missing energy in the beta decay and it was detected by Reines and Cowan in 1956.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Higgs boson' was discovered at the:",
+    "options": [
+      "Fermilab",
+      "Brookhaven National Laboratory",
+      "Bhabha Atomic Research Centre",
+      "Large Hadron Collider at CERN"
+    ],
+    "answer": 3,
+    "explanation": "The Higgs boson was discovered at the Large Hadron Collider of CERN in 2012, and Peter Higgs and Francois Englert shared the Nobel Prize in Physics in 2013.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Large Hadron Collider' is located at:",
+    "options": [
+      "Brookhaven near New York",
+      "KEK near Tokyo",
+      "CERN near Geneva",
+      "Fermilab near Chicago"
+    ],
+    "answer": 2,
+    "explanation": "The Large Hadron Collider is the largest particle accelerator in the world and it is operated by CERN near Geneva, with the India-US Collaboration in the DUNE experiment.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Standard Model' explains:",
+    "options": [
+      "The four fundamental forces",
+      "Only the electromagnetism",
+      "The three forces other than gravity",
+      "The gravity and the dark energy"
+    ],
+    "answer": 2,
+    "explanation": "The Standard Model explains the strong, the weak and the electromagnetic forces and the particles, but it does not include the gravity or the dark matter.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'neutrino observatory' at the 'Kolar':",
+    "options": [
+      "Is in the Assam mine",
+      "Is the deepest underground laboratory in India at Kolar in Karnataka",
+      "Is in the Rajasthan mine",
+      "Is in the Andhra mine"
+    ],
+    "answer": 1,
+    "explanation": "The Kolar Gold Fields in Karnataka has the deepest underground laboratory in India where the neutrino experiments were carried out.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Aryabhata cosmic ray experiment at the Ooty was:",
+    "options": [
+      "the first experiment in India to study the cosmic rays",
+      "a reactor",
+      "a satellite of the communications",
+      "a rocket"
+    ],
+    "answer": 0,
+    "explanation": "The Aryabhata cosmic ray experiment at the Kolar and the Ooty was the first major scientific experiment in India and it was among the first in the world to study the cosmic rays.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the STU?",
+    "options": [
+      "It was a nuclear reactor",
+      "It was a telescope array",
+      "It was a fusion experiment",
+      "The STU was the muonic atom experiment of the Bose Institute"
+    ],
+    "answer": 3,
+    "explanation": "The STU, the muonic atom experiment at the Bose Institute in Calcutta in 1955, was a remarkable early experiment in the study of the quantum mechanics.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The ASTRID and the FBR are:",
+    "options": [
+      "the superconducting magnets",
+      "the heavy water reactors of BARC",
+      "the accelerators",
+      "the telescopes"
+    ],
+    "answer": 1,
+    "explanation": "The ASTRID and the FBR are the heavy water research reactors of the Bhabha Atomic Research Centre at Kalpakkam.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Saha?",
+    "options": [
+      "Saha gave the ionisation equation for the gas at a high temperature",
+      "Saha gave the equation of the state",
+      "Saha gave the uncertainty relation",
+      "Saha gave the Einstein equation"
+    ],
+    "answer": 0,
+    "explanation": "Saha's ionisation equation, of 1920, gives the degree of ionisation of a gas at a high temperature and it was a landmark in the quantum theory.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Hulse and Taylor?",
+    "options": [
+      "They discovered the pulsars in 1967",
+      "They discovered the black hole pulse",
+      "They discovered the quasars",
+      "They discovered the first binary pulsar in 1974 and won the Nobel Prize in Physics in 1993"
+    ],
+    "answer": 3,
+    "explanation": "Hulse and Taylor discovered the first binary pulsar in 1974 and their measurement of its orbital period decay confirmed the general relativity prediction of the gravitational radiation.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Saha and the Bose, which of the following is correct?",
+    "options": [
+      "They discovered the neutron",
+      "They formulated the quantum theory",
+      "Saha and Bose gave the semiconductor theory of the rectification and the transistor",
+      "They invented the laser"
+    ],
+    "answer": 2,
+    "explanation": "Jagdish Chandra Bose and Meghnad Saha developed the semiconductor theory of the rectification and they also described the semiconductor crystal amplifier, the precursor of the transistor.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The cosmic rays were:",
+    "options": [
+      "discovered by Ernest Rutherford",
+      "discovered by J.J. Thomson",
+      "discovered by Victor Hess in 1912",
+      "discovered by Robert Millikan"
+    ],
+    "answer": 2,
+    "explanation": "Victor Hess discovered the cosmic rays in 1912 in a balloon flight and he won the Nobel Prize in Physics in 1936.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the C.V. Raman?",
+    "options": [
+      "It is the elastic scattering of the light",
+      "It is the diffraction of the light",
+      "It is the interference of the light",
+      "It is the inelastic scattering of the light by the molecules"
+    ],
+    "answer": 3,
+    "explanation": "The Raman effect is the inelastic scattering of the incident light by the molecules with a change in the frequency and it gives the information of the rotational and the vibrational energy levels.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bose-Einstein condensate' was first created in 1995 by:",
+    "options": [
+      "Albert Einstein",
+      "Eric Cornell, Carl Wieman and Wolfgang Ketterle",
+      "R Bose and A Einstein only",
+      "Satendra Bose"
+    ],
+    "answer": 1,
+    "explanation": "The first Bose-Einstein condensate was created in 1995 by Cornell, Wieman and Ketterle and they shared the Nobel Prize in Physics in 2001.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'gravitational waves' were first detected in:",
+    "options": [
+      "2015 by LIGO",
+      "1998 by LIGO",
+      "2010 by LIGO",
+      "2005 by LIGO"
+    ],
+    "answer": 0,
+    "explanation": "The gravitational waves were first detected in September 2015 by the LIGO observatory and the Nobel Prize in Physics of 2017 went to Rainer Weiss, Barry Barish and Kip Thorne.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the CERN?",
+    "options": [
+      "It was in India",
+      "The LHC was commissioned in 2008 and the first collisions were in 2010",
+      "It was commissioned in 1998",
+      "The first collisions were in 2015"
+    ],
+    "answer": 1,
+    "explanation": "The LHC was commissioned in 2008 with the first proton collisions in 2010 and the cost was about $4.5 billion with the India-US collaboration in the DUNE experiment.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Ramanujans 1911 paper on the scattering of the light is:",
+    "options": [
+      "the foundation of the Raman effect",
+      "on the theory of the relativity",
+      "on the partition function",
+      "on the Hardy-Ramanujan formula"
+    ],
+    "answer": 0,
+    "explanation": "Ramanujan's 1911 paper on the scattering of the light is regarded as the first theoretical treatment of what became the Raman effect.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Shanti Swarup Bhatnagar Prize' is awarded for:",
+    "options": [
+      "The contributions in the social sciences",
+      "The contributions in the arts",
+      "The contributions in the fundamental science",
+      "The contributions in the applied science"
+    ],
+    "answer": 2,
+    "explanation": "The Shanti Swarup Bhatnagar Prize is the premier Indian award in the fundamental sciences and it is awarded by the CSIR.",
+    "difficulty": "easy",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Abdus Salam International Centre for Theoretical Physics is:",
+    "options": [
+      "in Bangalore",
+      "in Geneva",
+      "a nuclear research centre in Rajasthan",
+      "in Trieste, Italy"
+    ],
+    "answer": 3,
+    "explanation": "The ICTP in Trieste was founded by the Abdus Salam and it is a joint initiative of the IAEA and the UNESCO.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'TIFR' was founded in:",
+    "options": [
+      "1947",
+      "1937",
+      "1945",
+      "1950"
+    ],
+    "answer": 2,
+    "explanation": "The Tata Institute of Fundamental Research was founded in 1945 in Mumbai and it is a premier research institute of the DAE.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Saha Institute of Nuclear Physics' is at:",
+    "options": [
+      "Mumbai",
+      "Chennai",
+      "Hyderabad",
+      "Kolkata"
+    ],
+    "answer": 3,
+    "explanation": "The Saha Institute of Nuclear Physics is at Kolkata and it was established in 1949 by the DAE.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Physical Research Laboratory' is at:",
+    "options": [
+      "Ahmedabad",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "answer": 0,
+    "explanation": "The Physical Research Laboratory, the premier space and the astronomy research institute of India, is at Ahmedabad and it was founded in 1947.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Institute of Astrophysics' is at:",
+    "options": [
+      "Hyderabad",
+      "Bengaluru",
+      "Nainital",
+      "Ujjain"
+    ],
+    "answer": 1,
+    "explanation": "The Indian Institute of Astrophysics is at Bengaluru and it was set up in 1971 as the Indian Institute of Astrophysics, and it operates the Kodaikanal and the Vainu Bappu observatories.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aryabhatta Research Institute of Observational Sciences' (ARIES) is at:",
+    "options": [
+      "Ujjain",
+      "Manali in Himachal Pradesh",
+      "Nainital",
+      "Nainital and the Manali observatories"
+    ],
+    "answer": 3,
+    "explanation": "The ARIES has its observatories at Nainital and Manali and the Indian Astronomical Observatory at Hanle is one of the highest in the world.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'GMRT' is the:",
+    "options": [
+      "Giant Metrewave Radio Telescope at the Khajuraho near Pune",
+      "Giant Metrewave Radio Telescope at Bengaluru",
+      "Optical telescope at the Kodaikanal",
+      "The gamma ray telescope at the Ooty"
+    ],
+    "answer": 0,
+    "explanation": "The Giant Metrewave Radio Telescope at the Khajuraho near Pune is the largest radio telescope in India at a wavelength of about 6 m.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IUCAA' is at:",
+    "options": [
+      "Jaipur",
+      "Pune",
+      "Bengaluru",
+      "Ahmedabad"
+    ],
+    "answer": 1,
+    "explanation": "The Inter-University Centre for Astronomy and Astrophysics is at Pune and it was established in 1988.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Survey of India is:",
+    "options": [
+      "a private mapping company",
+      "under the NITI Aayog",
+      "the national authority for the geodetic surveys and the maps",
+      "a state body of the Rajasthan"
+    ],
+    "answer": 2,
+    "explanation": "The Survey of India, established in 1767, is the national authority for the geodetic surveys, the topographic maps and the theodolite and the gravity surveys of India.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Remote Sensing Centre' is at:",
+    "options": [
+      "Ahmedabad",
+      "Hyderabad",
+      "Bengaluru",
+      "Dehradun"
+    ],
+    "answer": 1,
+    "explanation": "The National Remote Sensing Centre is at Hyderabad and it is the national centre for the acquisition, the processing and the dissemination of the satellite data.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Institute of Oceanography' is at:",
+    "options": [
+      "Kochi",
+      "Mumbai",
+      "Goa",
+      "Chennai"
+    ],
+    "answer": 2,
+    "explanation": "The National Institute of Oceanography, one of the six national institutes of the earth sciences, is at Dona Paula in Goa.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Geophysical Research Institute' is at:",
+    "options": [
+      "Hyderabad",
+      "Hyderabad and the Andaman",
+      "Dehradun",
+      "Ahmedabad"
+    ],
+    "answer": 0,
+    "explanation": "The National Geophysical Research Institute is at Hyderabad and the Andaman and the National Institute of Oceanography at Goa are the other earth science institutes.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Institute of Fundamental Research' is at:",
+    "options": [
+      "Goa",
+      "Ahmedabad",
+      "Dehradun",
+      "Pune"
+    ],
+    "answer": 3,
+    "explanation": "The National Institute of Fundamental Research is at Pune and the National Centre for Biological Sciences and the National Institute of Immunology are the other institutes in Bangalore.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Institute of Advanced Studies' is at:",
+    "options": [
+      "Bengaluru",
+      "Mumbai",
+      "Hyderabad",
+      "Pune"
+    ],
+    "answer": 0,
+    "explanation": "The National Institute of Advanced Studies is at Bengaluru and it is a premier centre for the interdisciplinary research in the social sciences and the related fields.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Botanical Research Institute' is at:",
+    "options": [
+      "Dehradun",
+      "Bhopal",
+      "Jodhpur",
+      "Lucknow"
+    ],
+    "answer": 3,
+    "explanation": "The National Botanical Research Institute is at Lucknow and it is a premier institute of the CSIR with the BSI herbarium and the industrial products and the ethnobotany divisions.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Chemical Laboratory' is at:",
+    "options": [
+      "Kolkata",
+      "Pune",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "answer": 1,
+    "explanation": "The National Chemical Laboratory is at Pune and it is the largest of the CSIR laboratories with the notable work in the catalysis, the spectroscopy and the chemical instrumentation.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Electrochemical Research Institute' is at:",
+    "options": [
+      "Bengaluru",
+      "Kolkata",
+      "Karaikal",
+      "Chennai"
+    ],
+    "answer": 2,
+    "explanation": "The Central Electrochemical Research Institute is at Karaikal in the Puducherry and it is the CSIR laboratory for the electrochemistry, the corrosion science and the the battery technology.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Fuel Research Institute' and the 'Dhanbad':",
+    "options": [
+      "The CFRI is at Dhanbad and it works on the coal and the gasification",
+      "It is at Pune",
+      "It is a nuclear institute",
+      "It is at Bangalore"
+    ],
+    "answer": 0,
+    "explanation": "The Central Fuel Research Institute is at Dhanbad in the coal belt and it works on the coal characterisation, the gasification and the carbon materials.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Glass and Ceramic Research Institute' is at:",
+    "options": [
+      "Bhubaneswar",
+      "Jaipur",
+      "Bengaluru",
+      "Kolkata"
+    ],
+    "answer": 3,
+    "explanation": "The Central Glass and Ceramic Research Institute is at Kolkata and it works on the optical glass, the fibre optics and the advanced ceramics.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Metallurgical Laboratory' is at:",
+    "options": [
+      "Rourkela",
+      "Durgapur",
+      "Jamshedpur",
+      "Bhilai"
+    ],
+    "answer": 2,
+    "explanation": "The National Metallurgical Laboratory is at Jamshedpur and it is the CSIR laboratory for the metallurgy, the materials and the corrosion engineering.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Mining Research Institute':",
+    "options": [
+      "Is the ocean laboratory",
+      "Is the CSIR laboratory at Dhanbad for the mining and the metallurgy",
+      "Is the space laboratory",
+      "Is the nuclear laboratory"
+    ],
+    "answer": 1,
+    "explanation": "The Central Mining Research Institute is at Dhanbad and it is the CSIR laboratory for the mining, the mineral processing and the mine safety.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CSIR' has how many laboratories?",
+    "options": [
+      "28",
+      "38",
+      "40",
+      "22"
+    ],
+    "answer": 1,
+    "explanation": "The CSIR has 38 laboratories across the country and it is one of the largest publicly funded research organisations in the world.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The INSPIRE was launched:",
+    "options": [
+      "a scheme for the doctoral students",
+      "a scheme of the CSIR",
+      "in 2008 for the students of the classes 5 to 12",
+      "in 1991"
+    ],
+    "answer": 2,
+    "explanation": "The INSPIRE, the Innovation in Science Pursuit for Inspired Research, was launched in 2008 to build the scientific talent at the school and the undergraduate level.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 2008
+  },
+  {
+    "q": "National Science Talent Search is:",
+    "options": [
+      "conducted by the NCERT for the school students of the classes 5 to 12",
+      "for the college students",
+      "conducted by the ISRO",
+      "a scheme of the DRDO"
+    ],
+    "answer": 0,
+    "explanation": "The National Science Talent Search, conducted by the NCERT, is for the school students of the classes 5 to 12 and the successful students get the scholarship for the higher studies.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The units of the CNNT are:",
+    "options": [
+      "a nuclear centre",
+      "a space centre",
+      "a medical centre",
+      "in the Kannur and the Gujarat and the Jawaharlal Nehru University"
+    ],
+    "answer": 3,
+    "explanation": "The Centre for Nanotechnology has the units at Kannur, at the Gujarat and the Jawaharlal Nehru University and it was set up with the MHRD in 2009.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Inter University Centre?",
+    "options": [
+      "It is a private university",
+      "The IUCB is in Bangalore and it is a DAE institution",
+      "It is in Kolkata",
+      "It is a CSIR laboratory"
+    ],
+    "answer": 1,
+    "explanation": "The Inter-University Centre for Biotechnology and Bioinformatics in Bangalore is an autonomous DAE institution with the major research in the genomics and the structural biology.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the DAE?",
+    "options": [
+      "The DAE is under the Ministry of Science",
+      "The AEC is a private body",
+      "The DAE is a state body",
+      "The DAE is under the Prime Minister and the Atomic Energy Commission is the nodal organisation"
+    ],
+    "answer": 3,
+    "explanation": "The Department of Atomic Energy is under the direct charge of the Prime Minister and the Atomic Energy Commission is its nodal organisation for the atomic matters.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Space Commission' was set up in:",
+    "options": [
+      "2001",
+      "1967",
+      "1972",
+      "1990"
+    ],
+    "answer": 2,
+    "explanation": "The Space Commission was set up in 1972 and it recommended the setting up of the Department of Space and the Space Research Organisation.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 1972
+  },
+  {
+    "q": "The 'National Science and Technology Policy' of 2023:",
+    "options": [
+      "Was the fifth in the series and it aimed at India being a global leader by 2047",
+      "Was the first in the series",
+      "Was of 1983",
+      "Was about the agriculture only"
+    ],
+    "answer": 0,
+    "explanation": "The National Science and Technology Policy of 2023 was the fifth in the series and it has the vision of making India a global leader in the science and the technology by 2047.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The 'seven pillars' of the Technology India roadmap:",
+    "options": [
+      "Include only the space",
+      "Include the bio-economy, the advanced manufacturing, the space, the nuclear and the energy, the deep ocean, the additive manufacturing and the new materials",
+      "Include only the IT",
+      "Include the agriculture only"
+    ],
+    "answer": 1,
+    "explanation": "The Technology India roadmap of 2018 rests on the seven pillars of the bio-economy, the advanced manufacturing, the space, the nuclear and the energy, the deep ocean, the additive manufacturing and the new materials.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 2018
+  },
+  {
+    "q": "The National IPR Policy of 2016 aims:",
+    "options": [
+      "about the science funding",
+      "about the agriculture",
+      "to make the IP a vital tool for the wealth creation",
+      "about the space policy"
+    ],
+    "answer": 2,
+    "explanation": "The National IPR Policy of 2016 has the aim of making the intellectual property a vital tool for the creation of the wealth and for the social and the economic development.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Patent?",
+    "options": [
+      "The 2021 amendment streamlined the prosecution and introduced the grace period of 12 months",
+      "The 2021 amendment abolished the patents",
+      "The 2021 amendment raised the fees for the individuals",
+      "The 2021 amendment banned the software patents"
+    ],
+    "answer": 0,
+    "explanation": "The Patent Rules of 2021 streamlined the patent prosecution, introduced the grace period of twelve months for the public disclosures and the expedited examination for the recognised institutes.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The Trade Marks Act of 1999 was:",
+    "options": [
+      "of 1970",
+      "of 1947",
+      "of 2021",
+      "the first major reform of the IP laws after the 1970s"
+    ],
+    "answer": 3,
+    "explanation": "The Trade Marks Act of 1999, the first major reform of the intellectual property laws after the amendment of 1970, overhauled the trade marks legislation and aligned it with the TRIPS.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 1999
+  },
+  {
+    "q": "The 'Copyright Act' of India was enacted in:",
+    "options": [
+      "1999",
+      "1950",
+      "1957",
+      "1970"
+    ],
+    "answer": 2,
+    "explanation": "The Copyright Act of 1957 was enacted at the time of the first Copyright Act of 1911 in the British India and it was amended in 1984, 1992 and 2010.",
+    "difficulty": "easy",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 1957
+  },
+  {
+    "q": "The 'Geographical Indications' of India:",
+    "options": [
+      "Include only the tea",
+      "Include only the handicrafts",
+      "There are none",
+      "Include the Darjeeling tea, the Mysore silk and the Channapatna toys"
+    ],
+    "answer": 3,
+    "explanation": "India has hundreds of the registered geographical indications, and the Darjeeling tea, the Mysore silk, the Channapatna toys and the Kullu shawls are among the well known ones.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Biotech patents, which of the following is correct?",
+    "options": [
+      "The 2021 amendment allowed the patent of the microorganisms and the plants",
+      "The 2021 amendment banned the agricultural patents",
+      "The 2021 amendment allowed the patenting of the human genes",
+      "The 2021 amendment restored the section 3"
+    ],
+    "answer": 0,
+    "explanation": "The 2021 amendment, in force from June 2021, removed the limitation on the patenting of the microorganisms and the plants and the seeds, and it was challenged in the Delhi High Court.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The Plant Varieties Protection and the Rights Act, 2001 was:",
+    "options": [
+      "of 2021",
+      "enacted for the breeders",
+      "of 1970",
+      "of 1999"
+    ],
+    "answer": 1,
+    "explanation": "The Protection of Plant Varieties and Farmers' Rights Act, 2001, was enacted to provide for the protection of the plant breeders' rights and the farmers' rights.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 2001
+  },
+  {
+    "q": "The Turmeric patent and the basmati trade issues are:",
+    "options": [
+      "the examples of the gene therapy",
+      "the examples of the bioremediation",
+      "the examples of the cloning",
+      "the classic examples of the biopiracy"
+    ],
+    "answer": 3,
+    "explanation": "The turmeric patent of 1997 and the basmati trade dispute are the classic examples of the biopiracy, the commercial use of the biological resources without the sharing of the benefits with the originators.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Millennium Ecosystem Assessment' and the '2001:",
+    "options": [
+      "It was a space programme",
+      "It was a health programme",
+      "It assessed the consequences of the biodiversity change for the human well-being and the ecosystem services",
+      "It was a trade agreement"
+    ],
+    "answer": 2,
+    "explanation": "The Millennium Ecosystem Assessment of 2001 assessed the consequences of the change in the biodiversity for the human well-being and the ecosystem services.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 2001
+  },
+  {
+    "q": "The 'State of the World's Forests' is published by:",
+    "options": [
+      "The FAO",
+      "The UNDP",
+      "The World Bank",
+      "The IUCN"
+    ],
+    "answer": 0,
+    "explanation": "The State of the World's Forests is published by the Food and Agriculture Organization of the United Nations.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Global Competitiveness Report is:",
+    "options": [
+      "published by the WTO",
+      "published by the WEF",
+      "published by the IMF",
+      "published by the OECD"
+    ],
+    "answer": 1,
+    "explanation": "The Global Competitiveness Report and the World Economic Forum's other indices are published by the WEF at Davos.",
+    "difficulty": "easy",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Global Health Security Index' is published by:",
+    "options": [
+      "The G20",
+      "The Johns Hopkins Center for Health Security",
+      "The WHO",
+      "The World Bank"
+    ],
+    "answer": 1,
+    "explanation": "The Global Health Security Index is published by the Johns Hopkins Center for Health Security and India has ranked in the middle of the lower-middle group.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Global Innovation Index 2023?",
+    "options": [
+      "India ranked 43rd in 2023 with the 61st rank in the science and the technology clusters",
+      "India ranked 81st",
+      "India ranked 10th",
+      "India was not ranked"
+    ],
+    "answer": 0,
+    "explanation": "In the Global Innovation Index 2023 India improved to the 43rd rank from the 47th of 2022, with the 61st rank in the science and the technology clusters.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "WIPO",
+    "year": 2023
+  },
+  {
+    "q": "The STIP is the science, technology and innovation policy of India that was launched:",
+    "options": [
+      "a scheme of the agriculture",
+      "the industrial policy",
+      "the education policy",
+      "in 2023"
+    ],
+    "answer": 3,
+    "explanation": "The Science, Technology and Innovation Policy of 2023, the STIP, replaced the Science and Technology Policy of 2013 and it has the vision of making India a global leader in the innovation by 2030.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the CARE?",
+    "options": [
+      "It is an education scheme",
+      "It is the defence procurement",
+      "The CARES is a programme of the DST to promote the international research partnerships with the foreign agencies",
+      "It is a farm scheme"
+    ],
+    "answer": 2,
+    "explanation": "The CARES, the Scheme for Promoting Innovation in Individuals, Start-ups and MSMEs, and the Promoting International Research Partnerships for the STEM, are the DST programmes for the international research collaborations.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Global Innovation?",
+    "options": [
+      "The GII identifies the science and the technology clusters that rank in the top 10 per cent",
+      "The GII ranks only the countries",
+      "The GII measures only the patents",
+      "The GII is a trade index"
+    ],
+    "answer": 0,
+    "explanation": "The Global Innovation Index identifies the science and the technology clusters that are in the top 10 per cent of the performance, and the Indian clusters include the Delhi, the Bengaluru and the Chennai.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the STIP, which of the following is correct?",
+    "options": [
+      "It has three pillars",
+      "It has no pillars",
+      "It is a state scheme",
+      "The STIP has the five pillars of the 'Steering' , the 'Collaborative', the 'Inclusive', the 'Thoughtful' and the 'Transformative' science"
+    ],
+    "answer": 3,
+    "explanation": "The STIP 2023 is built on the five pillars of the Steering, the Collaborative, the Inclusive, the Thoughtful and the Transformative science and it has the five focus areas of the 'Energy', the 'Environment', the 'Health', the 'Agriculture and Food' and the 'Materials' and the 'Astronomy and the Space'.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Units of the Measurement?",
+    "options": [
+      "The kelvin is the unit of the energy",
+      "The kelvin is a CGS unit",
+      "The kelvin is the SI base unit of the thermodynamic temperature",
+      "The kelvin is a derived unit"
+    ],
+    "answer": 2,
+    "explanation": "The kelvin, symbol K, is the SI base unit of the thermodynamic temperature and it is defined as the ratio of the Boltzmann constant to the Boltzmann constant.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ampere' is the SI base unit of:",
+    "options": [
+      "Electric resistance",
+      "Electric current",
+      "Electric charge",
+      "Electric potential"
+    ],
+    "answer": 1,
+    "explanation": "The ampere, symbol A, is the SI base unit of the electric current and it is defined in terms of the elementary charge and the second.",
+    "difficulty": "easy",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'mole' is the SI base unit of:",
+    "options": [
+      "Time",
+      "Amount of substance",
+      "Mass",
+      "Length"
+    ],
+    "answer": 1,
+    "explanation": "The mole, symbol mol, is the SI base unit of the amount of substance and it is defined as the number of elementary entities in a given sample of a substance.",
+    "difficulty": "easy",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'candela' is the SI base unit of:",
+    "options": [
+      "Luminous flux",
+      "Illuminance",
+      "Radiant intensity",
+      "Luminous intensity"
+    ],
+    "answer": 3,
+    "explanation": "The candela, symbol cd, is the SI base unit of the luminous intensity and the lux and the lumen are the derived units.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'kilogram' is the SI base unit of:",
+    "options": [
+      "Mass",
+      "Force",
+      "Weight",
+      "Momentum"
+    ],
+    "answer": 0,
+    "explanation": "The kilogram is the SI base unit of the mass and since 2019 it is defined in terms of the fixed numerical value of the Planck constant.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'metre' is the SI base unit of:",
+    "options": [
+      "Volume",
+      "Time",
+      "Length",
+      "Area"
+    ],
+    "answer": 2,
+    "explanation": "The metre is the SI base unit of the length and it is defined in terms of the speed of light, and the are and the volume are the derived units.",
+    "difficulty": "easy",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'second' is the SI base unit of:",
+    "options": [
+      "Frequency",
+      "Angular velocity",
+      "Speed",
+      "Time"
+    ],
+    "answer": 3,
+    "explanation": "The second is the SI base unit of the time and it is defined in terms of the cesium-133 hyperfine transition frequency.",
+    "difficulty": "easy",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'smoot' is a unit of:",
+    "options": [
+      "Mass",
+      "Length",
+      "Volume",
+      "Time"
+    ],
+    "answer": 1,
+    "explanation": "The smoot is a non-SI unit of length of about 1.70 m, named after the American engineer and the fraternity member of the MIT, and it is used in the American football and the surveying.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'troy ounce' is used for:",
+    "options": [
+      "The chemicals",
+      "The textiles",
+      "The precious metals",
+      "The paper"
+    ],
+    "answer": 2,
+    "explanation": "The troy ounce, about 31.1 grams, is the unit of the precious metals and the avoirdupois ounce of about 28.35 grams is used for the ordinary commodities.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'nautical mile' is equal to:",
+    "options": [
+      "1,852 metres",
+      "1,000 metres",
+      "1,609 metres",
+      "1,000 yards"
+    ],
+    "answer": 0,
+    "explanation": "The nautical mile is exactly 1,852 metres and it is based on the one minute of the latitude and it is used in the navigation and the aviation.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'bar' and the 'pressure:",
+    "options": [
+      "1 bar is 10,000 pascals",
+      "1 bar is 100,000 pascals",
+      "1 bar is 1,000 pascals",
+      "1 bar is 10 pascals"
+    ],
+    "answer": 1,
+    "explanation": "One bar is 100,000 pascals and the millibar of 100 pascals is the unit used in the weather maps and in the atmospheric science.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the poundal is correct?",
+    "options": [
+      "Is a unit of energy",
+      "Is a unit of pressure",
+      "Is a unit of power",
+      "Is an imperial unit of force equal to about 0.1382 newton"
+    ],
+    "answer": 3,
+    "explanation": "The poundal is the force needed to accelerate one pound mass at one foot per second squared, equal to about 0.1382 newton, and the slug is the corresponding unit of mass.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'tog' is a unit of:",
+    "options": [
+      "Thermal resistance",
+      "Thermal conductivity",
+      "Heat flux",
+      "Specific heat"
+    ],
+    "answer": 0,
+    "explanation": "The tog, or the clo, is the unit of thermal resistance, and one tog is the thermal resistance of one square metre of a fabric that would take one hour to raise by one degree.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'barn' is the unit of:",
+    "options": [
+      "Radioactive activity",
+      "Magnetic flux",
+      "Nuclear cross section",
+      "Electric field"
+    ],
+    "answer": 2,
+    "explanation": "The barn, symbol b, is the unit of the nuclear cross section and one barn is 10 to the power of minus 28 square metres, and the millibarn is the practical unit.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'curie' is the unit of:",
+    "options": [
+      "The radioactivity of the radon",
+      "Radioactive activity",
+      "Absorbed dose of the radiation",
+      "Equivalent dose"
+    ],
+    "answer": 1,
+    "explanation": "The curie is the unit of the radioactive activity and it is equal to 3.7 x 10 to the power of 10 decays per second, and the becquerel replaced it in the SI.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'gray' is the unit of:",
+    "options": [
+      "The equivalent dose",
+      "The activity",
+      "The dose rate",
+      "Absorbed dose of the radiation"
+    ],
+    "answer": 3,
+    "explanation": "The gray, named after Louis Harold Gray, is the SI unit of the absorbed dose of the ionising radiation and one gray is one joule per kilogram.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'sievert' is the unit of:",
+    "options": [
+      "The activity",
+      "The power",
+      "Equivalent dose of the radiation",
+      "The absorbed dose"
+    ],
+    "answer": 2,
+    "explanation": "The sievert is the SI unit of the equivalent dose that takes the effect of the radiation on the human tissue into account, and the rem was the CGS unit.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'katal' is the SI unit of:",
+    "options": [
+      "Catalytic activity",
+      "The enzyme activity of the mass",
+      "The rate of the reaction",
+      "The molar concentration"
+    ],
+    "answer": 0,
+    "explanation": "The katal is the SI unit of the catalytic activity and it is equal to one mole per second of the conversion, and the enzyme unit is the practical unit.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the hectare is correct?",
+    "options": [
+      "In the bushels",
+      "The yield of the crops is measured in the quintals per hectare",
+      "In the tonnes per hectare only",
+      "In the kilograms per acre"
+    ],
+    "answer": 1,
+    "explanation": "The crop yields are usually expressed in the quintals per hectare, with one quintal being 100 kg, and the paddy yield is about 25 quintals per hectare.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The standard atmosphere is:",
+    "options": [
+      "1000 pascals",
+      "760 pascals",
+      "1 bar exactly",
+      "101325 pascals at the sea level"
+    ],
+    "answer": 3,
+    "explanation": "The International Standard Atmosphere is 101325 pascals, 0 degrees Celsius, the standard gravity of 9.80665 m/s2 and the sea level of the mean sea level.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'fathom' is a unit of:",
+    "options": [
+      "Depth of the water",
+      "Distance on the land",
+      "Length of the rope",
+      "The speed of the ship"
+    ],
+    "answer": 0,
+    "explanation": "The fathom, six feet, is the unit of the depth of the water and the nautical depth is measured in the fathoms and the cables.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'grain' is a unit of:",
+    "options": [
+      "Time",
+      "Volume",
+      "Mass",
+      "Length"
+    ],
+    "answer": 2,
+    "explanation": "The grain is a small unit of mass equal to 64.79891 milligrams and it was the basis of the avoirdupois and the troy systems.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mach number' measures the:",
+    "options": [
+      "The lift of the aircraft",
+      "The thrust of the engine",
+      "The speed of the aircraft relative to the speed of sound",
+      "The speed of the wind"
+    ],
+    "answer": 2,
+    "explanation": "The Mach number is the ratio of the speed of an aircraft to the local speed of sound and Mach 1 is the speed of sound at the sea level.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Reynolds number' measures the:",
+    "options": [
+      "The ratio of the inertial to the viscous forces in a fluid flow",
+      "The speed of the flow",
+      "The density of the fluid",
+      "The viscosity of the fluid"
+    ],
+    "answer": 0,
+    "explanation": "The Reynolds number is the ratio of the inertial to the viscous forces and it predicts whether the flow will be laminar or turbulent.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Prandtl number' is the ratio of the:",
+    "options": [
+      "The viscous to the inertial forces",
+      "The density to the viscosity",
+      "The pressure to the flow",
+      "The momentum diffusivity to the thermal diffusivity"
+    ],
+    "answer": 3,
+    "explanation": "The Prandtl number is the ratio of the momentum diffusivity to the thermal diffusivity and it is important in the heat transfer calculations.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Poiseuille's law' gives the:",
+    "options": [
+      "The critical velocity",
+      "The flow rate of a laminar flow through a pipe in terms of the pressure gradient",
+      "The turbulence of the flow",
+      "The viscosity of the oil"
+    ],
+    "answer": 1,
+    "explanation": "The Poiseuille's law gives the volume flow rate of a laminar flow through a pipe as proportional to the pressure difference and to the fourth power of the radius.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Stefan-Boltzmann law' relates the:",
+    "options": [
+      "The volume of the gas to the temperature",
+      "The radiant energy emitted by a black body to the fourth power of the temperature",
+      "The pressure of the gas to the temperature",
+      "The wavelength of the radiation to the temperature"
+    ],
+    "answer": 1,
+    "explanation": "The Stefan-Boltzmann law states that the radiant power emitted per unit area of a black body is proportional to the fourth power of the absolute temperature, and the Wien's displacement law gives the wavelength.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Planck's constant' is:",
+    "options": [
+      "9.8 metre per second squared",
+      "3 x 10^8 metre per second",
+      "6.626 x 10-34 joule second",
+      "1.6 x 10-19 coulomb"
+    ],
+    "answer": 2,
+    "explanation": "The Planck constant, 6.626 x 10 to the power of minus 34 joule second, is the constant of proportionality in the energy relation of the quantum theory.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Faraday's constant' is:",
+    "options": [
+      "6.022 x 10^23 per mole",
+      "1.38 x 10-23 joule kelvin",
+      "8.314 joule per mole kelvin",
+      "96,485 coulombs per mole"
+    ],
+    "answer": 3,
+    "explanation": "The Faraday constant, 96,485 coulombs per mole of electrons, relates the charge to the amount of the substance in the electrolysis.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'gas constant' R is:",
+    "options": [
+      "8.314 joule per mole kelvin",
+      "6.022 x 10^23 joule per kelvin",
+      "1.38 x 10-23 joule per kelvin",
+      "96,485 joule per mole"
+    ],
+    "answer": 0,
+    "explanation": "The gas constant, 8.314 joule per mole kelvin, is the product of the Boltzmann constant and the Avogadro number.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Boltzmann constant' is:",
+    "options": [
+      "8.314 joule per mole kelvin",
+      "9.8 joule per mole",
+      "1.38 x 10-23 joule per kelvin",
+      "6.022 x 10^23 per mole"
+    ],
+    "answer": 2,
+    "explanation": "The Boltzmann constant, 1.38 x 10 to the power of minus 23 joule per kelvin, relates the average kinetic energy of the particles to the absolute temperature.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'parsec' is used to measure:",
+    "options": [
+      "The distances of the stars",
+      "The distances within the solar system",
+      "The wavelengths",
+      "The brightness of the stars"
+    ],
+    "answer": 0,
+    "explanation": "The parsec is the unit of the distance of the stars and beyond, and it is about 3.26 light years or 206,265 astronomical units.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'magnitude' of a star measures its:",
+    "options": [
+      "Distance",
+      "Temperature",
+      "Mass",
+      "Brightness"
+    ],
+    "answer": 3,
+    "explanation": "The magnitude scale is logarithmic and it measures the brightness, and a lower magnitude number denotes a brighter object, and it was devised by Hipparchus.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the redshift?",
+    "options": [
+      "It measures the distance to the sun",
+      "The Hubble constant measures the rate of the expansion of the universe",
+      "It measures the age of the earth",
+      "It measures the mass of the galaxy"
+    ],
+    "answer": 1,
+    "explanation": "The Hubble constant, of about 70 km per second per megaparsec, measures the rate of the expansion of the universe and the age of the universe is roughly its inverse.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the seismic magnitude?",
+    "options": [
+      "Both measure the intensity",
+      "The Richter measures the distance",
+      "The Richter scale measures the magnitude and the Mercalli the intensity",
+      "The Mercalli measures the magnitude"
+    ],
+    "answer": 2,
+    "explanation": "The Richter scale measures the magnitude of the earthquake and the Modified Mercalli scale describes the observed effects and the intensity at a place.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Brix scale' is used to measure the:",
+    "options": [
+      "The viscosity of the oil",
+      "The sugar content of the solutions",
+      "The salinity of the water",
+      "The density of the milk"
+    ],
+    "answer": 1,
+    "explanation": "The Brix scale measures the sugar content of the solutions, and it is used in the sugar industry and in the fruit juice processing.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Baume scale' is used for:",
+    "options": [
+      "The temperature",
+      "The humidity",
+      "The pressure",
+      "The specific gravity of the liquids"
+    ],
+    "answer": 3,
+    "explanation": "The Baume scale measures the specific gravity of the liquids and it is used in the brewing, the chemical industry and the honey testing.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mohs scale' measures the:",
+    "options": [
+      "The hardness of the minerals",
+      "The specific gravity",
+      "The lustre",
+      "The crystal structure"
+    ],
+    "answer": 0,
+    "explanation": "The Mohs scale of the hardness of the minerals from the talc of 1 to the diamond of 10 is the oldest of the scales of the hardness that is still in use.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vickers hardness' and the 'Brinell':",
+    "options": [
+      "Both measure the elasticity",
+      "Both measure the toughness",
+      "Both are the methods of measuring the hardness of the metals",
+      "Both measure the tensile strength"
+    ],
+    "answer": 2,
+    "explanation": "The Brinell, the Rockwell, the Vickers and the Knoop are the methods of the hardness testing of the metals, and the Vickers is used for the thin sheets and the coated materials.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'tensile strength' of a material is the:",
+    "options": [
+      "The energy absorbed before the fracture",
+      "The maximum stress that the material can withstand before breaking",
+      "The resistance to the scratching",
+      "The resistance to the indentation"
+    ],
+    "answer": 1,
+    "explanation": "The tensile strength is the maximum stress that a material can withstand while being stretched or pulled before breaking, and the yield strength is the stress at which the plastic deformation begins.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'durometer' measures the:",
+    "options": [
+      "The hardness of the rubber and the plastics",
+      "The density of the plastics",
+      "The tensile strength of the steel",
+      "The viscosity of the oils"
+    ],
+    "answer": 0,
+    "explanation": "The durometer measures the hardness of the rubber and the elastomeric materials with a scale of 0 to 100.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'pycnometer' is used to measure the:",
+    "options": [
+      "The viscosity",
+      "The boiling point",
+      "The refractive index",
+      "The density and the relative density of the liquids"
+    ],
+    "answer": 3,
+    "explanation": "The pycnometer is a calibrated vessel used to determine the density and the specific gravity of the liquids and the solids in the powdered form.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Svedberg unit' measures the:",
+    "options": [
+      "The sedimentation rate of the particles in the centrifugation",
+      "The size of the proteins",
+      "The density of the solution",
+      "The pH of the solution"
+    ],
+    "answer": 0,
+    "explanation": "The Svedberg unit measures the sedimentation rate of the particles in the centrifugation and the combination of the units gives the molecular weight in the electrophoresis.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the viscosity, which of the following is correct?",
+    "options": [
+      "The stokes is the unit of the pressure",
+      "The poise is the CGS unit of the dynamic viscosity and the stokes of the kinematic viscosity",
+      "The stokes is the unit of the dynamic viscosity",
+      "The poise is the unit of the surface tension"
+    ],
+    "answer": 1,
+    "explanation": "The poise, of 0.1 pascal second, is the CGS unit of the dynamic viscosity and the stokes, of one square centimetre per second, of the kinematic viscosity.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'angle of the dip' of a magnetic needle:",
+    "options": [
+      "Is 0 degrees at the equator",
+      "Is measured with the declination",
+      "Is the angle with the horizontal in the vertical plane and it is 90 degrees at the poles",
+      "Is the angle with the geographic north"
+    ],
+    "answer": 2,
+    "explanation": "The angle of the dip is the angle that a freely suspended magnetic needle makes with the horizontal and it is 90 degrees at the magnetic poles and 0 degrees at the equator.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'horizontal component of the earth's magnetic field' at the equator:",
+    "options": [
+      "Is zero",
+      "Is the minimum",
+      "Is equal to the vertical component",
+      "Is the maximum and the vertical component is zero"
+    ],
+    "answer": 3,
+    "explanation": "At the equator the vertical component of the earth's magnetic field is zero and the horizontal component is the maximum, and the reverse is true at the poles.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gauss' is the unit of:",
+    "options": [
+      "The resistance",
+      "The capacitance",
+      "The magnetic flux density",
+      "The magnetic field strength"
+    ],
+    "answer": 2,
+    "explanation": "The gauss, of 10 to the power of minus 4 tesla, is the CGS unit of the magnetic flux density and the maxwell is the unit of the magnetic flux.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The SCR is the silicon carbide rectifier used:",
+    "options": [
+      "a memory device",
+      "in the high voltage power electronics",
+      "a solar cell",
+      "a semiconductor sensor"
+    ],
+    "answer": 1,
+    "explanation": "The silicon controlled rectifier, the SCR, is the thyristor used in the high voltage power electronics, in the drives and in the HVDC systems.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The MEMS are the microscopic electro-mechanical systems used:",
+    "options": [
+      "the quantum computers",
+      "the high power lasers",
+      "the satellite links",
+      "in the sensors and the actuators"
+    ],
+    "answer": 3,
+    "explanation": "The microelectromechanical systems are the microscopic devices that combine the mechanical and the electrical components and they are used in the accelerometers and the gyroscopes.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the 5G?",
+    "options": [
+      "The 5G uses the millimetre wave and the sub-6 GHz bands",
+      "The 5G uses only the sub-6 GHz band",
+      "The 5G uses the same band as the 2G",
+      "There is no spectrum for the 5G"
+    ],
+    "answer": 0,
+    "explanation": "The 5G operates in the sub-6 GHz band for the wider coverage and the millimetre wave band for the very high data rates.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the phishing?",
+    "options": [
+      "Phishing is a firewall",
+      "Phishing is the fraudulent practice of sending the emails to obtain the sensitive data",
+      "Phishing is a type of the malware",
+      "Phishing is a network protocol"
+    ],
+    "answer": 1,
+    "explanation": "Phishing is the practice of sending the deceptive emails or the messages to steal the sensitive data such as the passwords and the card details.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the firewall?",
+    "options": [
+      "A firewall is a backup system",
+      "A firewall is an encryption protocol",
+      "A firewall monitors and controls the network traffic",
+      "A firewall is a malware"
+    ],
+    "answer": 2,
+    "explanation": "A firewall monitors and controls the incoming and the outgoing network traffic based on the defined security rules and it is the first line of the defence.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the VPN?",
+    "options": [
+      "A VPN creates an encrypted tunnel over a public network",
+      "A VPN is a type of the firewall hardware",
+      "A VPN is an anti-virus",
+      "A VPN is a type of the processor"
+    ],
+    "answer": 0,
+    "explanation": "The virtual private network creates an encrypted tunnel over the public network so that the remote user can access the private network securely.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the IoT?",
+    "options": [
+      "The IoT is only for the entertainment",
+      "The IoT is a satellite network",
+      "The IoT is a programming language",
+      "The IoT is used in the smart agriculture, the health monitoring and the smart cities"
+    ],
+    "answer": 3,
+    "explanation": "The Internet of Things connects the physical devices to the internet and it is used in the smart agriculture, the health monitoring, the smart cities, the industrial automation and the transport.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The IaaS, the PaaS and the SaaS are:",
+    "options": [
+      "the free, the paid and the freemium",
+      "no service models",
+      "the three service models of the cloud",
+      "the public, the private and the hybrid"
+    ],
+    "answer": 2,
+    "explanation": "The three service models of the cloud are the IaaS, the PaaS and the SaaS, and the deployment models are the public, the private, the hybrid and the community.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Blockchain is correct?",
+    "options": [
+      "It is a type of the processor",
+      "It is a distributed, immutable and transparent ledger",
+      "It is a centralised database",
+      "It is a programming language"
+    ],
+    "answer": 1,
+    "explanation": "A blockchain is a distributed, append-only and tamper-evident ledger of the transactions, and the decentralisation removes the need for an intermediary.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the NFT is correct?",
+    "options": [
+      "It was introduced in 2015",
+      "It is a cryptocurrency of the Bitcoin",
+      "It is banned in India",
+      "The non-fungible token gained the mainstream attention in 2021"
+    ],
+    "answer": 3,
+    "explanation": "The non-fungible token, the unique digital asset recorded on the blockchain, gained the mainstream attention in 2021 with the sale of the digital art.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "Which of the following is correct in the case of the Machine learning?",
+    "options": [
+      "The supervised, the unsupervised and the reinforcement learning",
+      "The supervised and the unsupervised only",
+      "The reinforcement learning only",
+      "The machine learning is a type of the statistics"
+    ],
+    "answer": 0,
+    "explanation": "The machine learning is broadly of the supervised, the unsupervised and the reinforcement learning, and the deep learning is a subset of the machine learning.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Big Data?",
+    "options": [
+      "The five laws of the robotics",
+      "The five pillars of the constitution",
+      "The volume, the velocity, the variety, the veracity and the value",
+      "The five elements of the periodic table"
+    ],
+    "answer": 2,
+    "explanation": "The big data is characterised by the five Vs of the volume, the velocity, the variety, the veracity and the value, with the volatility sometimes added.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Cyber Security Policy of 2012 was:",
+    "options": [
+      "of 2000",
+      "no policy",
+      "of 2018",
+      "the first comprehensive policy framework of India"
+    ],
+    "answer": 3,
+    "explanation": "The National Cyber Security Policy of 2012 was the first comprehensive policy framework of India and it was superseded by the National Cyber Security Policy of 2020.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2012
+  },
+  {
+    "q": "The 'CERT-In' was set up in:",
+    "options": [
+      "2004",
+      "2000",
+      "2010",
+      "2008"
+    ],
+    "answer": 0,
+    "explanation": "The Indian Computer Emergency Response Team was established in 2004 under the MeitY and it is the national agency for the cyber security incidents.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2004
+  },
+  {
+    "q": "The 'Digital Personal Data Protection Act, 2023' established:",
+    "options": [
+      "The cyber appellate tribunal",
+      "The Data Protection Board of India",
+      "The CERT-In",
+      "The MeitY's cyber cell"
+    ],
+    "answer": 1,
+    "explanation": "The Digital Personal Data Protection Act, 2023 established the Data Protection Board of India as the regulator of the personal data and it also provided for the Data Protection Tribunal.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "Which of the following is correct in the case of the UIDAI?",
+    "options": [
+      "It is a passport number",
+      "It is a voter number",
+      "The Aadhaar is a 12 digit biometric identity number and the UIDAI is the statutory body",
+      "It is a 16 digit number"
+    ],
+    "answer": 2,
+    "explanation": "The Aadhaar is a 12 digit unique identification number based on the biometric and the demographic data and the UIDAI is the statutory body that issues it.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "DigiLocker was launched:",
+    "options": [
+      "a payment system",
+      "in 2015 as the national digital platform of the e-governance",
+      "in 2010",
+      "in 2018"
+    ],
+    "answer": 1,
+    "explanation": "DigiLocker was launched in 2015 by the NeGD and it allows the citizens to access the government issued documents digitally from any device.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2015
+  },
+  {
+    "q": "The 'UMANG' app:",
+    "options": [
+      "Is a payment app",
+      "Is a satellite navigation app",
+      "Is a health app",
+      "Is the platform of the government for the delivery of the services to the citizens"
+    ],
+    "answer": 3,
+    "explanation": "The UMANG, the Unified Mobile Application for all the Government services, was launched in 2016 and it offers more than 2,000 services.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the CoWIN?",
+    "options": [
+      "CoWIN was the digital platform of the covid vaccination drive",
+      "CoWIN was the e-commerce portal",
+      "CoWIN was the digital public infrastructure",
+      "CoWIN was a satellite navigation system"
+    ],
+    "answer": 0,
+    "explanation": "CoWIN, the Co-Win Information Network, was the digital platform of the covid vaccination drive that enabled the registration and the scheduling and the certificate download.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The 'UPI 123Pay':",
+    "options": [
+      "It is the international payment",
+      "It is the payment of the securities",
+      "It is the payment of the toll",
+      "Is the payment for the small merchants on the UPI with the tap on the QR"
+    ],
+    "answer": 3,
+    "explanation": "The UPI 123Pay is the simplified payment for the small merchants and the street vendors that can be done with the tap on the QR code without the PIN.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Account Aggregator, the Merchants and the Payments and the Securities Depositories are:",
+    "options": [
+      "the IT Act",
+      "the four financial DPI of the India",
+      "only the Aadhaar",
+      "only the UPI"
+    ],
+    "answer": 1,
+    "explanation": "The India stack of the digital public infrastructure is built on the four pillars of the Aadhaar, the UPI, the Account Aggregator and the Merchants and the Payments and the Securities Depositories.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'post-quantum cryptography' is:",
+    "options": [
+      "The cryptography that is secure against the quantum computer attacks",
+      "The cryptography of the quantum data",
+      "The cryptography of the space data",
+      "A type of the encryption for the quantum teleportation"
+    ],
+    "answer": 0,
+    "explanation": "The post-quantum cryptography is the cryptography that is designed to be secure against the attacks by both the classical and the quantum computers, and the NIST has standardised the first algorithms.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'e-waste' rules of 2022:",
+    "options": [
+      "Are the rules of the plastic waste",
+      "Are the rules of the batteries only",
+      "Are the Extended Producer Responsibility rules for the electrical and the electronic equipment",
+      "Are the rules of the solid waste"
+    ],
+    "answer": 2,
+    "explanation": "The E-Waste (Management) Rules, 2022 came into force in April 2023 and they extended the producer responsibility for the electronic equipment and introduced the registration of the producers and the centralised collection facilities.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the satellite?",
+    "options": [
+      "The 5G requires the geostationary satellites only",
+      "The 5G has no satellite component",
+      "The 5G is the terrestrial radio only",
+      "The 5G requires the dense constellation of the low earth orbit satellites"
+    ],
+    "answer": 3,
+    "explanation": "The 5G uses the low earth orbit satellite constellations for the coverage of the remote areas and for the direct-to-device connectivity.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A deepfake is a synthetic media created:",
+    "options": [
+      "with the AI and the deep learning",
+      "a physical forgery of the currency",
+      "a type of the firewall breach",
+      "a hardware clone"
+    ],
+    "answer": 0,
+    "explanation": "A deepfake is the synthetic media, the video or the audio, created with the AI and the deep learning, and it is a growing threat to the electoral integrity.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'cryptojacking' is:",
+    "options": [
+      "The phishing attack",
+      "The unauthorised use of the computing resources of the others to mine the cryptocurrency",
+      "The theft of the wallets",
+      "The ransomware attack"
+    ],
+    "answer": 1,
+    "explanation": "The cryptojacking is the unauthorised use of the computers and the servers of the others to mine the cryptocurrency, and it is a form of the cyber crime.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The India Digital Cyber Security Review was:",
+    "options": [
+      "a survey of the banking sector",
+      "a survey of the nuclear plants",
+      "undertaken by the Data Security and Privacy Framework",
+      "a survey of the mobile phones"
+    ],
+    "answer": 2,
+    "explanation": "The India Digital Cyber Security Review of 2016 was the first study of the digital security of the nation and it was undertaken with the Data Security and Privacy Framework.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "Which of the following statements regarding the ISRO is correct?",
+    "options": [
+      "The NavIC is a communication system",
+      "The NavIC is a weather system",
+      "The NavIC is used in the fisheries, the surveying and the drone navigation",
+      "The NavIC is used only for the defence"
+    ],
+    "answer": 2,
+    "explanation": "The NavIC has been adopted for the navigation in the fisheries and the deep sea vessels, the surveying, the drone and the vehicle tracking and the timing of the financial sectors.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Digital Krishi?",
+    "options": [
+      "Digital Krishi is the digital platform of the agriculture that links the farmers to the buyers",
+      "It is the digital payments for the agriculture",
+      "It is a satellite of the agriculture",
+      "It is a crop insurance portal"
+    ],
+    "answer": 0,
+    "explanation": "The Digital Krishi, launched in 2017, is the digital platform that connects the farmers to the buyers and the agriculture inputs and it is operated by the eNAM.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2017
+  },
+  {
+    "q": "Which of the following statements regarding the Sanchar is correct?",
+    "options": [
+      "It is a spectrum auction itself",
+      "The Sanchar is the portal of the telecom department for the spectrum and the services",
+      "It is a satellite navigation system",
+      "It is a payment system"
+    ],
+    "answer": 1,
+    "explanation": "The Sanchar, the e-auction and the Sanchar portal, was launched in 2022 by the Department of Telecommunications to bring the transparency in the spectrum auctions.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The Aadhaar Act was:",
+    "options": [
+      "amended to abolish the UIDAI",
+      "amended to make the Aadhaar voluntary for the banks",
+      "amended in 2005",
+      "amended in 2019 to allow the private sector use of the Aadhaar authentication"
+    ],
+    "answer": 3,
+    "explanation": "The Aadhaar Amendment Act of 2019 allowed the private sector entities to use the Aadhaar authentication and it also made the UIDAI a statutory body.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2019
+  },
+  {
+    "q": "The e-SIM is the embedded SIM that can be:",
+    "options": [
+      "a physical card",
+      "the 5G band",
+      "the digital wallet",
+      "reprogrammed for the multiple operators"
+    ],
+    "answer": 3,
+    "explanation": "The e-SIM, the embedded SIM, can be reprogrammed to switch between the operators and it was made available in India in 2021.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "In the context of the Quantum Communication, which of the following is correct?",
+    "options": [
+      "Quantum communication is banned",
+      "India had the optical fibre and the quantum communication technology for the secure communication",
+      "There is no quantum communication in India",
+      "India has the only quantum computer"
+    ],
+    "answer": 1,
+    "explanation": "India has been working on the quantum communication and the quantum computing and the Ministry of Communications launched the quantum communication technology development programme.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The AI in the agriculture is:",
+    "options": [
+      "used for the crop monitoring, the yield prediction and the advisory to the farmers",
+      "only for the autonomous cars",
+      "only for the drug discovery",
+      "banned in the farms"
+    ],
+    "answer": 0,
+    "explanation": "The AI is used in the crop monitoring and the yield prediction, the disease detection, the soil analysis and the multilingual advisory services to the farmers.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The blockchain is:",
+    "options": [
+      "a type of the sensor",
+      "banned",
+      "used in the traceability of the food and the agriculture produce",
+      "only for the cryptocurrency"
+    ],
+    "answer": 2,
+    "explanation": "The blockchain enables the traceability of the agriculture produce, the certification of the organic and the quality assurance and the direct benefit transfer to the farmers.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The India Semiconductor Mission covers:",
+    "options": [
+      "limited to the packaging",
+      "the display fabs as well",
+      "only the logic chips",
+      "only the memory"
+    ],
+    "answer": 1,
+    "explanation": "The India Semiconductor Mission covers the fabs, the display fabs, the design and the packaging, with the fiscal support of about Rs. 76,000 crore.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The first display fab unit in India was:",
+    "options": [
+      "approved for the Sanand in the Gujarat in 2022",
+      "approved in 2010",
+      "approved in 2020",
+      "no such unit"
+    ],
+    "answer": 0,
+    "explanation": "The first display fab unit of India was approved in 2022 for the Sanand in the Gujarat with the support of the Micron and the Tata-Panel display fab.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The PM E-DRIVE scheme of 2022 was:",
+    "options": [
+      "the metro rail project",
+      "a state scheme of the Kerala",
+      "the electric mobility transformation with the subsidy of about Rs. 10,900 crore",
+      "the LPG subsidy"
+    ],
+    "answer": 2,
+    "explanation": "The PM E-DRIVE, the Electric Mobility Transformation Scheme, was approved in September 2022 with a subsidy of about Rs. 10,900 crore for the electric vehicles and the charging infrastructure.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "Which of the following is correct in the case of the Tata?",
+    "options": [
+      "Tata Motors has no electric vehicles",
+      "Tata is a steel company only",
+      "Tata exited the EV business",
+      "Tata Motors is the largest electric vehicle manufacturer in India and the Tata Nexon EV is among the best selling"
+    ],
+    "answer": 3,
+    "explanation": "Tata Motors is the largest electric vehicle manufacturer in India and the Nexon EV has been among the best selling electric cars, with the Tata Unacademy and the Tira 4 the recent launches.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The four astronauts of the Gaganyaan were:",
+    "options": [
+      "selected in 2022 and the training began in 2023",
+      "selected in 2019",
+      "the first mission in 2015",
+      "a robotic mission"
+    ],
+    "answer": 0,
+    "explanation": "The four astronauts of the Gaganyaan were selected in 2022 and their training in the human spaceflight centre at Bengaluru began in 2023.",
+    "difficulty": "hard",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The Axiom-4 mission of the ISRO sent:",
+    "options": [
+      "a test in 2023",
+      "the Indian astronaut Shubhanshu Shukla to the International Space Station in 2025",
+      "the Chandrayaan-3",
+      "the Aditya-L1"
+    ],
+    "answer": 1,
+    "explanation": "The Axiom-4 mission, launched in 2025, carried the Indian astronaut Shubhanshu Shukla to the International Space Station and it was the first Indian in space since 1984.",
+    "difficulty": "hard",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Venus Orbiter Mission' (Shukrayaan) of India:",
+    "options": [
+      "It is the lunar mission",
+      "It was cancelled in 2020",
+      "Is planned for 2024 or beyond as the first Indian mission to Venus",
+      "Was launched in 2019"
+    ],
+    "answer": 2,
+    "explanation": "The Shukrayaan, the Venus Orbiter Mission, was approved in 2019 and is planned for 2024 or beyond, and it would be the first Indian mission to Venus.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The uncrewed test flight of the Gaganyaan was:",
+    "options": [
+      "in 2019",
+      "in 2022",
+      "yet to be flown",
+      "carried out in 2024"
+    ],
+    "answer": 3,
+    "explanation": "The uncrewed test flight of the Gaganyaan was carried out in 2024 and the human mission is to follow.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The Next Generation Launch Vehicle is:",
+    "options": [
+      "the indigenous human rated launch vehicle of India",
+      "a cryogenic test vehicle",
+      "a reusable satellite",
+      "the PSLV Mk III"
+    ],
+    "answer": 0,
+    "explanation": "The NGLV, the Next Generation Launch Vehicle, is the indigenous human rated launch vehicle of India that will be used for the Gaganyaan.",
+    "difficulty": "hard",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the SSLV, which of the following is correct?",
+    "options": [
+      "It is the launch vehicle of the Chandrayaan",
+      "The SSLV is a small satellite launch vehicle for the private space operators of India",
+      "It is a crewed vehicle",
+      "It is the human rated vehicle"
+    ],
+    "answer": 1,
+    "explanation": "The Small Satellite Launch Vehicle was developed to serve the commercial and the private space operators of India, with the aim of the cost-effective access to the space.",
+    "difficulty": "hard",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The PM Surya Ghar and the solar parks are:",
+    "options": [
+      "a state scheme",
+      "a nuclear project",
+      "a thermal power project",
+      "the steps to the 500 GW target"
+    ],
+    "answer": 3,
+    "explanation": "The rooftop solar of the PM Surya Ghar and the large solar parks are the steps towards the 500 GW of the non-fossil capacity by 2030.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The ISRO has completed over 100 launches and over 220 satellites launched:",
+    "options": [
+      "only the Indian satellites",
+      "no commercial launches",
+      "for 22 countries",
+      "10 launches"
+    ],
+    "answer": 2,
+    "explanation": "The ISRO has completed more than 100 launches and has launched over 220 satellites for 22 countries and it is the largest space agency of the developing world.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the RISAT?",
+    "options": [
+      "RISAT is a weather satellite",
+      "RISAT-2BR is the first synthetic aperture radar satellite of India for the disaster management",
+      "RISAT is a communication satellite",
+      "RISAT is a navigation satellite"
+    ],
+    "answer": 1,
+    "explanation": "The RISAT-2BR, launched in 2022, is the first synthetic aperture radar satellite of India and it is used for the disaster management and the agriculture.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "GSAT-18 is the communication satellite of India launched:",
+    "options": [
+      "in 2018",
+      "a navigation satellite",
+      "a weather satellite",
+      "a lunar probe"
+    ],
+    "answer": 0,
+    "explanation": "The GSAT-18, launched in 2018, is the communication satellite of India with the transponders for the communication, the broadcasting and the data services.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": 2018
+  },
+  {
+    "q": "The commemorative coins of the 75 years of the independence were:",
+    "options": [
+      "released in 2015",
+      "released in 1999",
+      "never released",
+      "released in 2022"
+    ],
+    "answer": 3,
+    "explanation": "The Azadi Ka Amrit Mahotsav marked the 75 years of the independence with the commemorative coins and the stamps of the Indian Heritage series in 2022.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The Suryanayana was:",
+    "options": [
+      "a solid propellant booster",
+      "a nuclear engine",
+      "the first indigenous cryogenic upper stage engine of India",
+      "a liquid propellant engine"
+    ],
+    "answer": 2,
+    "explanation": "The Suryanayana, the CE-20, was the first indigenous cryogenic upper stage and it was used in the GSLV Mk III of 2014.",
+    "difficulty": "hard",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the PSLV-C35 is correct?",
+    "options": [
+      "It was the first manned flight",
+      "It was the first private launch",
+      "It was the first launch of the PSLV with the cryogenic upper stage",
+      "It was the first Mars mission"
+    ],
+    "answer": 2,
+    "explanation": "The PSLV-C35 of 2014 was the first launch of the PSLV with the cryogenic upper stage and it carried the Mars Orbiter Mission.",
+    "difficulty": "hard",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": 2014
+  },
+  {
+    "q": "The Chandrayaan-1 was:",
+    "options": [
+      "launched on 22 October 2008",
+      "launched in 2005",
+      "launched in 2013",
+      "launched in 2019"
+    ],
+    "answer": 0,
+    "explanation": "The Chandrayaan-1 was launched on 22 October 2008 and it had the payloads of the M3 and the MIM and the Mineralogy Mapper and the terrain camera.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": 2008
+  },
+  {
+    "q": "The Mangalyaan was:",
+    "options": [
+      "launched on 24 September 2014",
+      "launched on 1 July 2013",
+      "launched in 2015",
+      "launched on 5 November 2013"
+    ],
+    "answer": 3,
+    "explanation": "The Mangalyaan was launched on 5 November 2013 on the PSLV-C25 and it entered the Mars orbit on 24 September 2014.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": 2013
+  },
+  {
+    "q": "The 'Indian Institute of Space Science and Technology' is at:",
+    "options": [
+      "Ahmedabad",
+      "Thiruvananthapuram",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "answer": 1,
+    "explanation": "The Indian Institute of Space Science and Technology is at Thiruvananthapuram and it was formerly the Space Technology and the Aeronautical Engineering of the VSSC.",
+    "difficulty": "hard",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the National Remote Sensing Centre?",
+    "options": [
+      "It operates the navigation satellites",
+      "It is a private body",
+      "The NRSC operates the earth observation and the atmospheric science satellites",
+      "It operates the communication satellites"
+    ],
+    "answer": 2,
+    "explanation": "The NRSC operates the earth observation and the atmospheric science satellites and it provides the data to the users in the country.",
+    "difficulty": "hard",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the INSAT, which of the following is correct?",
+    "options": [
+      "It serves only the communication",
+      "It serves only the navigation",
+      "It serves only the remote sensing",
+      "The INSAT series serves the communication, the broadcasting and the meteorology"
+    ],
+    "answer": 3,
+    "explanation": "The INSAT series of the geostationary satellites serves the communication, the broadcasting and the meteorological purposes, and the INSAT-3D and the INSAT-3DR are the recent weather satellites.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

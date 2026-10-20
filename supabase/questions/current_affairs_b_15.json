@@ -1,0 +1,827 @@
+[
+  {
+    "q": "The 'Telemedicine' practice in India is governed by the:",
+    "options": [
+      "the National Health Mission guidelines",
+      "Telemedicine Practice Guidelines of the Medical Council of India",
+      "the Consumer Protection Act",
+      "the IT Act alone"
+    ],
+    "answer": 1,
+    "explanation": "The Telemedicine Practice Guidelines were issued by the Medical Council of India in 2020 in the wake of the pandemic, and they regulate the practice of telemedicine through the registered medical practitioners and the consent requirement.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "MCI",
+    "year": null
+  },
+  {
+    "q": "India's National Asset Reconstruction Company (NARCL) is:",
+    "options": [
+      "a subsidiary of the State Bank of India for bad loan recovery",
+      "a joint venture of the World Bank and the Government of India",
+      "a government company set up to acquire the stressed loans of the banks and resolve them",
+      "an asset management company registered with the SEBI"
+    ],
+    "answer": 2,
+    "explanation": "The National Asset Reconstruction Company Limited, with a 51 per cent stake of the Government of India and the shareholding of the banks, was set up to acquire the stressed loans and to resolve them, and the India Debt Resolution Company works with it for the resolution.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cooperatives Act, 2022' provides for:",
+    "options": [
+      "the nationalisation of the cooperative banks",
+      "a new framework for the registration and the regulation of cooperatives with a three-tier structure, an independent regulator and provisions for the audit of the societies",
+      "the merger of the cooperatives with the public sector banks",
+      "the abolition of the cooperative societies"
+    ],
+    "answer": 1,
+    "explanation": "The Cooperatives Act, 2022 provides for the streamlining of the registration and the regulation of the cooperative societies, a three-tier structure with the State Cooperative Councils at the top, the Central Cooperative Registrar as the regulator and the professional management of the societies.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jan Vishwas' legislation of 2023 also proposes:",
+    "options": [
+      "the rationalisation of the GST rates and the simplification of the return forms and the e-invoicing for the small taxpayers",
+      "the creation of a new national commission for the direct taxes",
+      "the abolition of the customs duty on the imports",
+      "the merger of the income tax and the corporate tax"
+    ],
+    "answer": 0,
+    "explanation": "The Jan Vishwas Bill proposes the decriminalisation of the minor offences, the replacement of the penal provisions with the monetary penalties, the rationalisation of the GST rates and the simplification of the returns and the e-invoicing thresholds for the small taxpayers.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Right to Repair' framework introduced by the DPIIT in 2023 initially applied to:",
+    "options": [
+      "the agricultural machinery and the tractors only",
+      "all the consumer durables in the country",
+      "the automobile spare parts only",
+      "the mobile handsets, the laptops and the tablet computers and the related spare parts"
+    ],
+    "answer": 3,
+    "explanation": "The right to repair framework, with the Standard for the Repairability of the Mobile Handsets, the Laptops and the Tablet Computers, was notified in 2023 and requires the manufacturers to make the spare parts and the repair information available to the owners at reasonable prices.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "DPIIT",
+    "year": null
+  },
+  {
+    "q": "The Comptroller and Auditor General of India audits the accounts of the Union and the States and reports to:",
+    "options": [
+      "the Prime Minister",
+      "the Comptroller and Auditor General of the Union",
+      "the President and the Governor of the State",
+      "the Parliament alone"
+    ],
+    "answer": 2,
+    "explanation": "Under Articles 148 to 151 the CAG audits the accounts of the Union and the States and reports the results to the President and to the Governor of the State, and its reports are examined by the Public Accounts Committee.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "CAG",
+    "year": null
+  },
+  {
+    "q": "The appeals from the orders of the National Company Law Tribunal lie to the:",
+    "options": [
+      "High Court",
+      "National Company Law Appellate Tribunal",
+      "Supreme Court",
+      "Securities and Exchange Board of India"
+    ],
+    "answer": 1,
+    "explanation": "The National Company Law Appellate Tribunal, with a three-member bench, hears the appeals against the orders of the National Company Law Tribunal, and the appellate authority is the final authority for the corporate law matters.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Insurance penetration' in India is measured as:",
+    "options": [
+      "the ratio of the insurance premium to the gross domestic product",
+      "the ratio of the claims paid to the premiums collected",
+      "the number of insurance policies in force per household",
+      "the number of insurance agents per million people"
+    ],
+    "answer": 0,
+    "explanation": "The insurance penetration is the ratio of the insurance premium to the GDP, and the insurance density is the premium per capita, and both the indicators are used to compare the development of the insurance sector across the countries.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "IRDAI",
+    "year": null
+  },
+  {
+    "q": "The 'Unique Identification Authority of India' was established under the:",
+    "options": [
+      "the Digital Personal Data Protection Act, 2023",
+      "the Companies Act, 2013",
+      "the Information Technology Act, 2000",
+      "Aadhaar (Unique Identification Authority of India) Act, 2016"
+    ],
+    "answer": 3,
+    "explanation": "The UIDAI was constituted as a statutory body under the Aadhaar Act of 2016 for the roll-out of the Aadhaar project, and it had earlier operated as a department of the Ministry of Electronics and Information Technology.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "UIDAI",
+    "year": null
+  },
+  {
+    "q": "The 'GeM' or the Government e-Marketplace is:",
+    "options": [
+      "a private B2B e-commerce platform",
+      "an online platform for the public procurement of goods and services by the government departments",
+      "the export promotion portal of the DGFT",
+      "the platform of the National Cooperative Development Corporation"
+    ],
+    "answer": 1,
+    "explanation": "GeM is a public sector e-commerce platform of the Ministry of Commerce and Industry for the online purchase of goods and services by the government bodies, and it has also been opened for the buyers of the general public in a phased manner.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "GeM",
+    "year": null
+  },
+  {
+    "q": "The 'Quality Control Order' of the BIS:",
+    "options": [
+      "makes the ISI mark compulsory for the specified products, with the penalties for the non-conforming goods",
+      "is optional for all the consumer goods",
+      "applies only to the imported goods",
+      "certifies the export consignments for the customs clearance"
+    ],
+    "answer": 0,
+    "explanation": "The Quality Control Orders of the BIS make the certification compulsory for the listed products, and the non-conforming goods cannot be manufactured, imported or sold, with the penal provisions of the BIS Act applying.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "BIS",
+    "year": null
+  },
+  {
+    "q": "The 'Integrated Scheme for Agricultural Marketing' (ISAM) aims at:",
+    "options": [
+      "the direct procurement of the produce by the consumers",
+      "the subsidisation of the farm inputs",
+      "the creation of the market infrastructure, the integration of the value chains and the promotion of the market linkages for the agricultural produce",
+      "the abolition of the APMC mandis"
+    ],
+    "answer": 2,
+    "explanation": "ISAM was formulated with the objectives of creating the infrastructure for the storage, the transport and the processing, of integrating the value chains, of promoting the market linkages through the e-NAM and of reducing the wastage of the perishable produce.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 2020 'Essential Commodities Act' amendments:",
+    "options": [
+      "abolished the MSP of the foodgrains",
+      "were struck down as being unconstitutional",
+      "raised the buffer stock norms of the FCI",
+      "were enacted to facilitate the barrier-free movement of the agricultural produce across the country"
+    ],
+    "answer": 3,
+    "explanation": "The amendments to the Essential Commodities Act of 1955 in 2020 sought to remove the restrictions on the inter-State movement and the stock limits of the foodgrains and other essential commodities, and they were repealed in 2021.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Model Agricultural Produce Market Contract Act, 2020' provides for:",
+    "options": [
+      "the regulation of the cold storage network",
+      "the fixation of the MSP by the State Governments",
+      "the abolition of the procurement agencies",
+      "a framework for the contract farming, including the season, the quality, the price and the quantity of the produce to be purchased"
+    ],
+    "answer": 3,
+    "explanation": "The Model Act, which the States may adopt with modifications, provides the basic framework for the contract farming arrangements, defining the contract, the purchase period, the quality, the quantity, the price and the payment terms and the dispute settlement.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'first advance estimates' of the national income in India are released:",
+    "options": [
+      "in August with the provisional estimates",
+      "in January with the budget",
+      "in May of the year following the reference year",
+      "in February with the Economic Survey"
+    ],
+    "answer": 2,
+    "explanation": "The first advance estimates of the gross domestic product are released in May for the reference year of the preceding financial year, followed by the provisional estimates and the final estimates.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "MoSPI",
+    "year": null
+  },
+  {
+    "q": "The 'Railway Budget' was merged with the general budget in:",
+    "options": [
+      "2017",
+      "2019",
+      "2021",
+      "2015"
+    ],
+    "answer": 0,
+    "explanation": "The railway budget was merged with the general budget from the Union Budget of 2017, and the capital expenditure of the railways was thereafter presented as a part of the railway ministry's demand for grants.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'deficit financing' of the central government is met mainly through:",
+    "options": [
+      "the foreign loans alone",
+      "the issue of the dated treasury bills and the government securities in the market",
+      "the reduction of the tax revenues",
+      "the printing of the new currency notes"
+    ],
+    "answer": 1,
+    "explanation": "The bulk of the deficit financing of the Union Government comes from the issue of the government securities and the treasury bills in the market, with the external borrowing and the small money for the residual.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'grants-in-aid' to the States from the centre is provided on the recommendations of the:",
+    "options": [
+      "NITI Aayog",
+      "GST Council",
+      "Planning Commission",
+      "Finance Commission"
+    ],
+    "answer": 3,
+    "explanation": "The Finance Commission recommends the vertical devolution of the tax proceeds and the grants in aid to the States, and the central government provides the grants in accordance with those recommendations.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'market borrowings of the States' are governed by the:",
+    "options": [
+      "the Ministry of Finance in consultation with the RBI and the framework of the medium term borrowing programme",
+      "the Reserve Bank of India alone",
+      "the respective State legislatures",
+      "the Finance Commission"
+    ],
+    "answer": 0,
+    "explanation": "The market borrowings of the States are governed by the Ministry of Finance in consultation with the RBI under the medium term borrowing programme, and the framework has been revised from 2023-24.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'primary deficit of a government equals the fiscal deficit minus the:",
+    "options": [
+      "the capital expenditure",
+      "interest payments on the outstanding debt",
+      "the revenue receipts",
+      "the disinvestment receipts"
+    ],
+    "answer": 1,
+    "explanation": "The primary deficit is the fiscal deficit less the interest payments, and it measures the current year borrowing requirement after the interest obligations are met.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Zero Based Budgeting' in India means:",
+    "options": [
+      "the freezing of the discretionary expenditure",
+      "the merger of the plan and the non plan expenditure",
+      "the annual review of every scheme and its outlay afresh instead of carrying forward the previous provision",
+      "the payment of the entire budget in the first quarter"
+    ],
+    "answer": 2,
+    "explanation": "The zero based budgeting requires every scheme to justify its allocation in the year afresh, which eliminates the automatic carry forward of the previous year's provisions and of the tied funds.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'Outcome Budget' of India links:",
+    "options": [
+      "the plan targets with the annual targets of the States",
+      "the revenue receipts with the tax policy",
+      "the capital expenditure with the public private partnership projects",
+      "the budget outlays with the measurable outputs and the outcomes of the schemes"
+    ],
+    "answer": 3,
+    "explanation": "The Outcome Budget was first attempted in the 2019-20 budget and it presents the outlays with the outputs that the schemes are expected to deliver so that the accountability for the outcomes is clear.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'Macro Economic Framework Statement' in the Union Budget:",
+    "options": [
+      "presents the statement of the forex reserves",
+      "gives the mid-year review of the five year plans",
+      "presents the growth and the inflation trajectory and the fiscal balance projections",
+      "gives the details of the schemes of the ministries"
+    ],
+    "answer": 2,
+    "explanation": "The Macro Economic Framework Statement, presented along with the Fiscal Policy Statement since 2020-21, sets out the macroeconomic assessment of the growth, the inflation and the fiscal balance for the medium term.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'The fiscal deficit of the central government is measured as:",
+    "options": [
+      "the revenue expenditure less the revenue receipts",
+      "the total expenditure less the revenue receipts and the capital receipts",
+      "the borrowing requirement plus the interest payments",
+      "the capital expenditure less the capital receipts"
+    ],
+    "answer": 1,
+    "explanation": "The fiscal deficit is the total expenditure of the government less the revenue receipts and the non-debt capital receipts, and it represents the total borrowing requirement of the government.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'The GST revenue of the government is shared with the States as:",
+    "options": [
+      "a fixed 42 per cent of the tax revenue with the balance to the Centre",
+      "the share decided by the population of the States",
+      "a fixed 50 per cent of the collection",
+      "the entire collection with the States keeping the whole"
+    ],
+    "answer": 0,
+    "explanation": "The GST is shared with the States with a 42 per cent share of the tax revenue to the States and the 58 per cent to the Centre after the compensation period, with the divisible pool further divided by the Finance Commission.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'The customs duty revenue' constitutes a large part of the:",
+    "options": [
+      "the corporate tax revenue of the States",
+      "the GST revenue of the local bodies",
+      "the grants in aid of the Finance Commission",
+      "the central excise and the customs receipts of the Union Government"
+    ],
+    "answer": 3,
+    "explanation": "The customs and the central excise continue to be the largest components of the central government's tax revenue, since the petroleum products and the tobacco and the customs duties are outside the GST.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'The Monetary Policy Statement' of the RBI is issued:",
+    "options": [
+      "twice a year in February and August, with the resolution of the Monetary Policy Committee",
+      "every month",
+      "once a year in June",
+      "only when the inflation target is breached"
+    ],
+    "answer": 0,
+    "explanation": "The Monetary Policy Statement is issued in February and August along with the resolution of the Monetary Policy Committee and it sets out the stance of the policy with the projections and the risks.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'The RBI's Financial Stability Report' is published:",
+    "options": [
+      "quarterly",
+      "twice a year, in June and December",
+      "once a year in March",
+      "only with the Annual Report"
+    ],
+    "answer": 1,
+    "explanation": "The Financial Stability Report of the RBI is published twice a year in June and December and it assesses the vulnerabilities of the financial sector and the resilience of the system.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'The RBI's credit information of the borrowers is held by the:",
+    "options": [
+      "the Reserve Bank of India itself",
+      "the National Credit Registry of the NITI Aayog",
+      "Credit Information Companies registered with the RBI",
+      "the Ministry of Finance"
+    ],
+    "answer": 2,
+    "explanation": "The Credit Information Companies, registered with the RBI under the Credit Information Companies Act, 2005, hold and circulate the credit information of the borrowers and the credit information companies have a duty to provide the free credit information once a year.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'The rate of the repo at which the banks borrow from the RBI is the:",
+    "options": [
+      "the policy rate of the monetary policy of the RBI",
+      "the penalty rate for the default of the borrowers",
+      "the rate of the interest paid on the small savings accounts",
+      "the rate of the reserve requirement of the banks"
+    ],
+    "answer": 0,
+    "explanation": "The repo rate is the policy rate of the monetary policy, and the other rates of the RBI are the reverse repo, the bank rate, the Marginal Standing Facility rate and the CRR and the SLR as the ratios.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Payment and Settlement Systems Act, 2007' designates the RBI as the:",
+    "options": [
+      "the guarantor of the settlement of the card transactions",
+      "the issuer of the digital rupee",
+      "the authority for the regulation and the supervision of the payment and the settlement systems",
+      "the operator of the retail payments in the country"
+    ],
+    "answer": 2,
+    "explanation": "The Payment and Settlement Systems Act, 2007 designates the RBI as the authority for the regulation and the supervision of the payment and the settlement systems, and it also governs the electronic money transfers.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Foreign Exchange Management Act, 1999' FEMA:",
+    "options": [
+      "fixed the parity of the rupee with the dollar",
+      "consolidated and amended the foreign exchange regulations of the country and the offences and the penalties for the violations",
+      "abolished the export of the foreign currency",
+      "made the trade payments free of any restriction"
+    ],
+    "answer": 1,
+    "explanation": "The FEMA of 1999 consolidated the foreign exchange regulations and provided for the smooth and the management of the forex with the penal provisions for the contraventions, replacing the FERA of 1974.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'India's industrial output' — The 'Index of Industrial Production measures:",
+    "options": [
+      "the capacity utilisation of the plants",
+      "the value of the exports of the manufactured goods",
+      "the employment in the factories",
+      "the quantum of the production in the manufacturing, the mining and the electricity sectors"
+    ],
+    "answer": 3,
+    "explanation": "The IIP is a volume index of the production of the manufacturing, the mining and the electricity sectors with the base year of 2011-12, and it is released by the Office of the Economic Adviser.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "DPIIT",
+    "year": null
+  },
+  {
+    "q": "The 'Services PMI' of India is compiled by:",
+    "options": [
+      "the RBI alone",
+      "the National Statistical Office",
+      "the Federation of Indian Chambers of Commerce",
+      "S and P Global along with the NCAER of the Department of Statistics"
+    ],
+    "answer": 3,
+    "explanation": "The Services PMI of India is compiled by S and P Global in association with the NCAER of the Department of Statistics and the NITI Aayog, and the manufacturing and the composite indices are compiled similarly.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Foreign Portfolio Investment' in India is:",
+    "options": [
+      "the purchase of the Indian land by the foreigners",
+      "the investment of the foreign sovereign wealth funds in the government securities only",
+      "the investment by the foreign entities in the listed and the unlisted securities and the debt instruments of the Indian companies",
+      "the setting up of the manufacturing plant by the foreign company in India"
+    ],
+    "answer": 2,
+    "explanation": "The FPI covers the investment by the foreign entities in the Indian securities and the debt instruments, while the FDI involves a lasting management interest in the enterprise, and the two are governed by the separate FEMA regulations.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'inward foreign direct investment' into India is regulated by:",
+    "options": [
+      "the Department of Promotion of Industry and Internal Trade with the RBI reporting the inflows",
+      "the Ministry of Commerce and Industry alone",
+      "the NITI Aayog",
+      "the Reserve Bank of India alone"
+    ],
+    "answer": 0,
+    "explanation": "The DPIIT of the Ministry of Commerce and Industry approves and monitors the inward FDI, while the RBI collects and publishes the data on the flows and the stocks of the foreign investment.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Balance of Payments' of India is presented in:",
+    "options": [
+      "the annual report of the CAG",
+      "the annual and the quarterly reports of the RBI",
+      "the Budget documents only",
+      "the Economic Survey alone"
+    ],
+    "answer": 1,
+    "explanation": "The RBI compiles and releases the annual and the quarterly Balance of Payments and the international investment position reports along with the data on the foreign exchange reserves and the international trade.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Foreign exchange reserves' of India are published by the RBI:",
+    "options": [
+      "annually with the budget documents",
+      "daily with the closing rates of the dollar",
+      "weekly on Friday with the components of the reserves and the forward book",
+      "monthly with the balance of payments only"
+    ],
+    "answer": 2,
+    "explanation": "The RBI publishes the weekly statistical supplement with the foreign exchange reserves, the components, the forward book and the money market indicators, and the reserves are also reported with the daily data.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'India's tax to GDP ratio' is low because:",
+    "options": [
+      "the tax structure has a low number of the broad based taxes and the exemptions of the small taxpayers",
+      "the tax rates are very high in India",
+      "the tax collection is highly efficient",
+      "the government has a large non tax revenue base"
+    ],
+    "answer": 0,
+    "explanation": "The low tax to GDP ratio in India is attributed to the narrow tax base and the many exemptions and the thresholds, and the efforts at the rationalisation of the direct taxes and the GST have been directed at widening the base.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'Digital Rupee' of the RBI is:",
+    "options": [
+      "a voucher of the government for the subsidies",
+      "the reward points of the public sector banks",
+      "a cryptocurrency mined by the private sector",
+      "a central bank digital currency issued as a liability of the RBI with a legal tender status"
+    ],
+    "answer": 3,
+    "explanation": "The digital rupee is the central bank digital currency of the RBI and it is issued as a liability of the central bank, and the pilot for the retail use began in 2021-22 in a few States.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Income Tax Act, 1961' provides for the taxation of the:",
+    "options": [
+      "the income on the cash basis for the agriculture income",
+      "the income of the previous year with the concept of the previous year as the year of assessment",
+      "the gross receipts of the businesses only",
+      "the income of the year of the assessment only"
+    ],
+    "answer": 1,
+    "explanation": "The Income Tax Act provides for the taxation of the income of the previous year, and the year of assessment is the year in which the income is taxable, with the advance tax and the self assessment on the basis of the estimated income.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'New Income Tax Regime' introduced in 2020:",
+    "options": [
+      "has abolished the exemptions of the standard deduction and the house rent",
+      "applies only to the salaried employees",
+      "has raised the corporate tax rate",
+      "is the default regime for the persons with the business income with the slab rates and the rebate of Rs 50,000"
+    ],
+    "answer": 3,
+    "explanation": "The new regime of 2020 with the lower slab rates and the rebate of Rs 50,000 is the default for the persons with the business or the professional income, and the taxpayers may opt out for the old regime.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'fiscal consolidation' of India:",
+    "options": [
+      "is aimed at the increase of the subsidies of the petroleum products",
+      "is aimed at the abolition of the fiscal deficit target",
+      "is aimed at the reduction of the fiscal deficit and the debt to GDP ratio with the growth friendly consolidation",
+      "is aimed at the reduction of the capital expenditure of the States"
+    ],
+    "answer": 2,
+    "explanation": "The fiscal consolidation in India is a growth friendly reduction of the fiscal deficit and the public debt to the GDP ratio through the revenue mobilisation, the the expenditure rationalisation and the improved the efficiency of the spending.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'India's public debt' is held mainly by:",
+    "options": [
+      "the banks, the insurance companies, the provident funds and the households with the marketable securities",
+      "the States alone",
+      "the households in the form of the corporate bonds",
+      "the foreign portfolio investors alone"
+    ],
+    "answer": 0,
+    "explanation": "The central government's debt is held largely by the domestic financial institutions, the banks, the insurance companies, the provident and the pension funds and the households, and the share of the foreign portfolio investors has remained relatively small.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Credit Linked Incentive Scheme' of the Ministry of Commerce and Industry provides:",
+    "options": [
+      "the interest free loans for the women entrepreneurs",
+      "a subsidy for the reduction of the interest rate on the term loans of the MSMEs",
+      "a rebate on the customs duty of the small exporters",
+      "a grant for the setting up of the new industrial units in the cities"
+    ],
+    "answer": 1,
+    "explanation": "The CLIS provides a 3 per cent interest subvention on the term loans of up to Rs 10 crore and of Rs 5 crore for the new units of the MSMEs with the assistance of the SIDBI and the DIC.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'financial inclusion of the street vendors of India has been strengthened by the:",
+    "options": [
+      "PM SVANidhi with the credit guarantee of the SHGs and the collateral free loans",
+      "the Mudra loans of the commercial banks",
+      "the PMJJY life insurance for the vendors",
+      "the Stand-Up India for the manufacturers"
+    ],
+    "answer": 0,
+    "explanation": "PM SVANidhi provides the collateral free working capital loans to the street vendors with the credit guarantee from the SHG federations, and it has been the largest such programme for the street vendors.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Securitisation' of the loans by the banks in India:",
+    "options": [
+      "is the purchase of the shares of the companies in the market",
+      "is the sale of the cash flows of the loan assets to the investors with the transfer of the credit risk",
+      "is the merger of two banks for the reduction of the cost",
+      "is the conversion of the deposits into the equity"
+    ],
+    "answer": 1,
+    "explanation": "In the securitisation, the bank transfers the cash flows of the loan assets to the investors and the credit risk, and the RBI has issued the guidelines for the securitisation of the standard assets in 2021.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'priority sector lending target of the domestic scheduled commercial banks is:",
+    "options": [
+      "25 per cent of the rural credit",
+      "18 per cent of the deposits",
+      "40 per cent of the Adjusted Net Bank Credit",
+      "32 per cent of the total credit"
+    ],
+    "answer": 2,
+    "explanation": "The overall priority sector target of the domestic scheduled commercial banks is 40 per cent of the Adjusted Net Bank Credit, of which the agriculture accounts for 18 per cent, and the small finance banks have a higher target of 75 per cent.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'financial inclusion' of India is measured by the:",
+    "options": [
+      "the deposit to GDP ratio of the economy",
+      "the share of the bank branches in the rural areas alone",
+      "the number of the bank accounts opened in the country",
+      "the Financial Inclusion Index of the RBI with the three parameters of the access, the usage and the quality"
+    ],
+    "answer": 3,
+    "explanation": "The FI-Index of the RBI has the three parameters of the account ownership, the payments and the savings and the credit, and each of them is scored with a weight in the composite index.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Financial Stability and Development Council' of India:",
+    "options": [
+      "has been given the statutory powers by an Act of Parliament",
+      "is chaired by the Union Finance Minister and includes the heads of the financial regulators",
+      "is chaired by the Governor of the RBI alone",
+      "is a body of the State Governments only"
+    ],
+    "answer": 1,
+    "explanation": "The FSDC is a high level policy making body chaired by the Union Finance Minister with the heads of the financial sector regulators as the members, and it reviews the financial vulnerabilities periodically.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'India's multilateral trade' — The 'Trade deficit' of India in a year:",
+    "options": [
+      "is the excess of the merchandise imports over the merchandise exports",
+      "is the excess of the exports over the imports",
+      "equals the current account deficit always",
+      "is the difference between the exports and the imports of the services"
+    ],
+    "answer": 0,
+    "explanation": "The trade deficit is the excess of the merchandise imports over the merchandise exports in a year, and the current account also includes the services and the income and the transfers, so the two are not the same.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'services exports' of India are dominated by:",
+    "options": [
+      "the royalties and the interest receipts",
+      "the tourism receipts",
+      "the information technology and the business process services",
+      "the freight and the insurance earnings"
+    ],
+    "answer": 2,
+    "explanation": "The IT and the business process services dominate the services exports of India, and the growth of the global outsourcing has made the country the largest exporter of the business services in the world.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'remittance' corridors of India:",
+    "options": [
+      "have declined with the increase of the trade in services",
+      "are led by the European countries alone",
+      "are mainly from the South-East Asian economies",
+      "are led by the Gulf countries, the United States and the Saudi Arabia with the UAE also among the top sources"
+    ],
+    "answer": 3,
+    "explanation": "The Gulf countries, particularly the Saudi Arabia and the UAE, and the United States are the leading sources of the inward remittances, and the total inflow has been one of the largest in the world.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Trade Policy Review Mechanism' of the WTO reviews:",
+    "options": [
+      "the investment policies of the members",
+      "the trade policies of the member countries every four years",
+      "the anti-dumping measures of the members only",
+      "the customs tariff of the developing countries"
+    ],
+    "answer": 1,
+    "explanation": "The Trade Policy Review Mechanism provides for the systematic review of the trade policies of every member on a periodic cycle and it is supplemented by the Global Trade Alert for the reporting of the measures.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "WTO",
+    "year": null
+  },
+  {
+    "q": "The 'fiscal capital expenditure of the Union Government in the Budget 2024-25 was:",
+    "options": [
+      "kept unchanged at the level of the previous budget",
+      "made entirely through the states' borrowing",
+      "raised to Rs 11.11 lakh crore, a rise of about ten per cent over the previous year",
+      "reduced to Rs 4 lakh crore"
+    ],
+    "answer": 2,
+    "explanation": "The capital expenditure of the Union Government was raised to Rs 11.11 lakh crore in the Budget of 2024-25, an increase of about ten per cent over the revised estimates, and the capital expenditure of the States was also increased.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Union Budget 2024-25",
+    "year": null
+  }
+]

@@ -1,0 +1,3647 @@
+[
+  {
+    "q": "Which Harappan site is famous for a dockyard with an inlet, a circular kiln for firing fire bricks and a warehouse complex?",
+    "options": [
+      "Kalibangan",
+      "Lothal",
+      "Harappa",
+      "Banawali"
+    ],
+    "answer": 1,
+    "explanation": "Lothal in Gujarat had a tidal dockyard with a warehouse complex and a circular fire-brick kiln, showing the Harappans' maritime trading and brick-firing technology.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The rock-cut signboard inscription found at Dholavira directs the authorities to do what?",
+    "options": [
+      "Store the royal orders in the treasury vault",
+      "Use it as a boundary marker for the city walls",
+      "Record the names of the city officials on it",
+      "Keep the signboard in good repair and display the king's message"
+    ],
+    "answer": 3,
+    "explanation": "The Dholavira signboard inscription tells the authorities to keep the signboard in good repair so that the royal message continues to be displayed to the people.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Great Bath at Mohenjo-daro was most probably used for what purpose?",
+    "options": [
+      "Ritual bathing",
+      "Storing drinking water",
+      "Royal ceremonies of the king",
+      "Storing the royal treasury"
+    ],
+    "answer": 0,
+    "explanation": "The Great Bath, with its watertight layer of bitumen and side drains, is generally interpreted as a public ritual bathing structure used by the Harappan people.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Who first discovered the site of Harappa in 1921?",
+    "options": [
+      "M. S. Vats",
+      "R. N. Mehta",
+      "Daya Ram Sahni",
+      "R. D. Banerji"
+    ],
+    "answer": 2,
+    "explanation": "Daya Ram Sahni discovered Harappa in 1921, and R. D. Banerji discovered Mohenjo-daro the following year, giving the civilisation its name.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Harappan site of Mohenjo-daro was discovered in 1922 by which archaeologist?",
+    "options": [
+      "John Marshall",
+      "A. H. Dan",
+      "R. D. Banerji",
+      "Daya Ram Sahni"
+    ],
+    "answer": 2,
+    "explanation": "R. D. Banerji discovered Mohenjo-daro in 1922 while Daya Ram Sahni had found Harappa a year earlier; both sites were excavated under John Marshall's directorate.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which archaeologist first conducted systematic excavations at the Harappan site of Lothal in the 1950s?",
+    "options": [
+      "M. S. Vats",
+      "J. P. Joshi",
+      "S. R. Rao",
+      "B. B. Lal"
+    ],
+    "answer": 0,
+    "explanation": "M. S. Vats excavated Lothal in 1955 and brought to light the dockyard, warehouse and the famed terracotta figurines known as the 'Music Party'.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who discovered the Harappan site of Dholavira in Kutch in the late 1960s?",
+    "options": [
+      "B. M. Chatterjee",
+      "J. P. Joshi",
+      "R. N. Mehta",
+      "V. N. Misra"
+    ],
+    "answer": 1,
+    "explanation": "J. P. Joshi discovered Dholavira in 1967-68, and the site is remarkable for its three-part city plan, massive stone walls and elaborate water-harvesting system.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which animal is most frequently depicted on the seal impressions of the Indus Valley Civilisation?",
+    "options": [
+      "A horse",
+      "A camel",
+      "An elephant",
+      "A unicorn or one-horned bull"
+    ],
+    "answer": 3,
+    "explanation": "The single-horned or unicorn bull is the animal most frequently represented on Harappan seals; the horse appears only rarely and in a debased form.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The script of the Indus Valley Civilisation is best described as",
+    "options": [
+      "Still undeciphered and mostly pictographic in character",
+      "Fully deciphered with phonetic values known",
+      "A known variety of Brahmi",
+      "A known variety of Kharoshthi"
+    ],
+    "answer": 0,
+    "explanation": "The Harappan script remains undeciphered; only a few signs can be read with confidence and the underlying language is still debated.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Dholavira was divided into which three major divisions?",
+    "options": [
+      "Royal City, Trading City and Temple Town",
+      "Northern, Central and Southern City",
+      "Upper City, Middle City and Lower City",
+      "Citadel, Lower Town and Outer Town"
+    ],
+    "answer": 2,
+    "explanation": "Dholavira had a three-part plan: the Upper City on the highest mound, the Middle City on the lower plateau with sophisticated architecture, and the Lower City for residential settlement.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The famous bronze statuette known as the Dancing Girl was found at which site?",
+    "options": [
+      "Kalibangan",
+      "Mohenjo-daro",
+      "Harappa",
+      "Lothal"
+    ],
+    "answer": 1,
+    "explanation": "The Dancing Girl, cast by the lost-wax method, was unearthed at Mohenjo-daro and is the finest example of Harappan bronze art.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "In Mesopotamian records, the name Meluhha refers to which civilisation?",
+    "options": [
+      "The Sumerian city of Ur",
+      "The Egyptian kingdom",
+      "The Hittite empire",
+      "The Harappan civilisation"
+    ],
+    "answer": 3,
+    "explanation": "Mesopotamian texts name the Harappan country Meluhha, and Mesopotamian-style seals, lapis lazuli and carnelian have been found at Harappan sites.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following was NOT known to the people of the Indus Valley Civilisation?",
+    "options": [
+      "Copper",
+      "Bronze",
+      "Gold",
+      "Iron"
+    ],
+    "answer": 3,
+    "explanation": "The Harappans used copper, bronze and gold but the use of iron began in India only around the end of the first millennium BCE.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which textile material is definitely attested at Harappan sites?",
+    "options": [
+      "Wool of the Himalayan sheep",
+      "Rayon",
+      "Cotton",
+      "Silk"
+    ],
+    "answer": 2,
+    "explanation": "Thousands of copper and bronze spindle whorls at Harappan sites and the preservation of cotton fibres show that cotton textiles were woven and worn by the Harappans.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which Harappan site in Rajasthan is known for fire altars and terracotta figures of standing men and dancing women?",
+    "options": [
+      "Bhir",
+      "Kalibangan",
+      "Banawali",
+      "Rakhigarhi"
+    ],
+    "answer": 1,
+    "explanation": "Kalibangan on the banks of the Ghaggar in Rajasthan yielded fire altars with burnt offering cakes and a notable series of terracotta figurines.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which is the largest Harappan site in India by area?",
+    "options": [
+      "Rakhigarhi",
+      "Mohenjo-daro",
+      "Harappa",
+      "Dholavira"
+    ],
+    "answer": 0,
+    "explanation": "Rakhigarhi in Haryana, covering about 100 hectares, is the largest known Harappan settlement in India, followed by Mohenjo-daro at around 100 hectares of the occupied area.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The dockyard at Lothal was connected to which river?",
+    "options": [
+      "Sabarmati",
+      "Narmada",
+      "Tapti",
+      "Mahanadi"
+    ],
+    "answer": 0,
+    "explanation": "The Lothal dockyard was linked to an old course of the Sabarmati river through a channel; the present course of the river was later diverted for the Sardar Sarovar dam.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The large structures containing rows of square compartments found at Harappa and Mohenjo-daro are identified as",
+    "options": [
+      "Temples",
+      "Barracks of the army",
+      "Granaries",
+      "Palaces of the king"
+    ],
+    "answer": 2,
+    "explanation": "The so-called granaries at Harappa and Mohenjo-daro, with their regular compartments of mud-brick floors, are generally taken to be storehouses for grain rather than royal palaces.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Dholavira is sometimes described as the City of Water. What best explains this description?",
+    "options": [
+      "Its houses had sloping roofs for collecting rain water",
+      "It had an elaborate system of reservoirs and channels for collecting and conserving rain water",
+      "It was built on an island surrounded by the sea",
+      "It had the largest number of wells of any ancient city"
+    ],
+    "answer": 1,
+    "explanation": "Dholavira had a sophisticated water-harvesting system with large reservoirs, check dams, channels and nearly every house had a rooftop rainwater collection system.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Mesopotamian-style cylinder seals and Mesopotamian goods found at Harappan sites point to which conclusion?",
+    "options": [
+      "Harappan merchants had settled permanently in Iraq",
+      "The Harappan script was derived from cuneiform",
+      "Harappan culture was an offshoot of Sumerian culture",
+      "Harappan traders had direct contact with Mesopotamia"
+    ],
+    "answer": 3,
+    "explanation": "Harappan seals, weights and goods of Mesopotamian origin, together with Mesopotamian records of Meluhha, establish direct long-distance trade between the two regions.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The boat motif is significant on the seals of the Indus Valley Civilisation because it",
+    "options": [
+      "Indicates the Harappans used boats only for religious ritual",
+      "Suggests the importance of water transport in Harappan trade",
+      "Shows that the Harappans were expert shipbuilders in the Mediterranean",
+      "Proves the Harappans had conquered Mesopotamia"
+    ],
+    "answer": 1,
+    "explanation": "The seal impression of a boat with paddlers is widely read as evidence of the maritime trade that Harappa and Lothal depended on; similar boat motifs appear in Mesopotamia.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The well-known Pashupati seal was discovered at which Harappan site?",
+    "options": [
+      "Harappa",
+      "Lothal",
+      "Dholavira",
+      "Mohenjo-daro"
+    ],
+    "answer": 3,
+    "explanation": "The Pashupati seal, showing a horned seated figure surrounded by animals, was found at Mohenjo-daro and is often linked with proto-Shiva imagery.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is true of Harappan economic life?",
+    "options": [
+      "Metallic currency was unknown; trade was conducted through barter and weighed goods",
+      "Coins of gold and silver were minted by the Harappan state",
+      "Trade was carried on with wooden punch-marked coins",
+      "The state issued copper coins for paying taxes"
+    ],
+    "answer": 0,
+    "explanation": "No coins are known from the Harappan period; goods were exchanged through barter, with the use of standardised weights and measures and of shell, copper and stone currencies.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Copper and stone balance beams recovered from Harappan sites indicate that the Harappans",
+    "options": [
+      "Imposed a uniform system of land revenue",
+      "Measured land by the square yard",
+      "Used a standardised system of weighing in trade",
+      "Practised coin minting"
+    ],
+    "answer": 2,
+    "explanation": "The beams and the geometrically graded cubical weights testify to a carefully regulated system of weighing that made long-distance trade possible.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which feature of Harappan urban life is conspicuously absent, as compared to other Bronze Age societies of the time?",
+    "options": [
+      "Weighted trade goods",
+      "Palaces and clear evidence of royal authority",
+      "Street drainage",
+      "Standardised bricks"
+    ],
+    "answer": 1,
+    "explanation": "No palaces, royal tombs or monumental structures have been found at Harappan sites, and no inscription names a king, so the form of Harappan political authority remains uncertain.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The typical Harappan town consisted of a citadel and a lower town. What was the usual position of the citadel?",
+    "options": [
+      "At the same level as the lower town",
+      "Only in the north-west corner of the settlement",
+      "On the higher mound, with the lower town spreading around it",
+      "Always to the west of the lower town"
+    ],
+    "answer": 2,
+    "explanation": "At Harappa, Mohenjo-daro, Kalibangan and Lothal the citadel stood on the higher mound and the lower town of residential quarters spread around it.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which team of archaeologists excavated Kalibangan in 1961?",
+    "options": [
+      "R. N. Mehta and B. B. Lal",
+      "S. R. Rao and D. R. Sahni",
+      "M. S. Vats and J. P. Joshi",
+      "A. H. Dan and B. B. Lal"
+    ],
+    "answer": 3,
+    "explanation": "A. H. Dan and B. B. Lal excavated Kalibangan in 1961 and identified the prehistoric portion of the site along with the Harappan citadel and lower town.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who discovered the Harappan site of Rakhigarhi in Haryana in 1963?",
+    "options": [
+      "Surbhi Singh",
+      "Amarendra Nath",
+      "J. P. Joshi",
+      "R. N. Mehta"
+    ],
+    "answer": 0,
+    "explanation": "Surbhi Singh identified Rakhigarhi in 1963; systematic excavation was later carried out by Amarendra Nath, who recovered the skeleton of a woman buried with gold ornaments.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which archaeologist directed the first scientific excavations at Harappa and later at Mohenjo-daro?",
+    "options": [
+      "H. D. Sankalia",
+      "R. D. Banerji",
+      "Mortimer Wheeler",
+      "John Marshall"
+    ],
+    "answer": 2,
+    "explanation": "Mortimer Wheeler excavated at Harappa in 1946 and led the excavations at Mohenjo-daro from 1954, when the division of the site into citadel and lower town was confirmed.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Harappan site of Kalibangan was brought to light in 1962 by which archaeologist?",
+    "options": [
+      "S. R. Rao",
+      "R. N. Mehta",
+      "A. H. Dan",
+      "B. B. Lal"
+    ],
+    "answer": 1,
+    "explanation": "R. N. Mehta discovered Kalibangan in 1962, and the Harappan phase of the site was excavated in the following years.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Banawali, a Harappan site in Haryana, is located on the banks of which river?",
+    "options": [
+      "Ghaggar",
+      "Sutlej",
+      "Yamuna",
+      "Saraswati"
+    ],
+    "answer": 3,
+    "explanation": "Banawali in Bhiwani district of Haryana lies on the bank of the Saraswati and has yielded both pre-Harappan and Harappan levels of occupation.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Indus script found on Harappan seals consists of roughly how many distinct signs?",
+    "options": [
+      "About 400",
+      "About 40",
+      "About 4,000",
+      "About 60"
+    ],
+    "answer": 0,
+    "explanation": "The Harappan script contains roughly 400 known signs, of which only a small number can be read with any confidence.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Harappan seals have been found at sites in Bahrain, in the Persian Gulf region. Which Gulf island is this?",
+    "options": [
+      "Muscat",
+      "Dilmun",
+      "Ubar",
+      "Socotra"
+    ],
+    "answer": 1,
+    "explanation": "Harappan seals and Harappan-type goods found at Qal'at al-Bahrain on the island of Dilmun testify to Gulf trade routes linking the Indus with Mesopotamia.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Lapis lazuli imported by the Harappans most probably came from",
+    "options": [
+      "Sri Lanka",
+      "Rajasthan",
+      "Afghanistan",
+      "Burma"
+    ],
+    "answer": 2,
+    "explanation": "Lapis lazuli reached Harappan sites from the Badakhshan region of Afghanistan, evidence of Harappan trade into the north-west and of the Aryan-speaking peoples' presence there.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rigveda consists of how many mandalas?",
+    "options": [
+      "Ten",
+      "Seven",
+      "Twelve",
+      "Eight"
+    ],
+    "answer": 0,
+    "explanation": "The Rigveda is divided into ten mandalas, of which the second is the collection of the family hymns of the Vishvamitra and other rishis, and the last is the famous Hymn of Creation.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which four categories of priests performed the sacrifices of the early Vedic period?",
+    "options": [
+      "Hotri, Brahmana, Kshatriya and Vaishya",
+      "Hotra, Brahmana, Vanaprastha and Sannyasa",
+      "Adhvaryu, Udgatri, Grihastha and Vanaprastha",
+      "Hotri, Udgatri, Adhvaryu and Brahman"
+    ],
+    "answer": 3,
+    "explanation": "The hotri supervised the ritual, the udgatri sang the hymns, the adhvaryu managed the offerings and the brahman acted as the priestly supervisor of the whole sacrifice.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Samaveda consists mainly of",
+    "options": [
+      "Spells and charms for healing",
+      "Prose accounts of royal sacrifices",
+      "Philosophical dialogues between sages",
+      "Melodies or chants taken from the Rigveda for use in sacrifices"
+    ],
+    "answer": 3,
+    "explanation": "The Samaveda is essentially a collection of melodies borrowed from the Rigveda and set to tunes for the soma sacrifice, with only a few original verses.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which Veda is known as the Veda of Mantras containing sacrificial formulas and some prose, and is the oldest of the four in prose style?",
+    "options": [
+      "Samaveda",
+      "Rigveda",
+      "Yajurveda",
+      "Atharvaveda"
+    ],
+    "answer": 2,
+    "explanation": "The Yajurveda gives the sacrificial formulas in prose, as in the Shatru Shuddhi, and the Brihadaranyaka Upanishad, its appendix, contains some of the earliest prose in Sanskrit.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Atharvaveda is primarily a collection of",
+    "options": [
+      "Rules for the conduct of kings",
+      "Spells, charms and prayers for health, prosperity and protection",
+      "Hymns praising the god Indra",
+      "Sacrificial formulae for the soma rite"
+    ],
+    "answer": 1,
+    "explanation": "The Atharvaveda deals with everyday concerns such as disease, childbirth, agriculture and sorcery, and reflects the survival of pre-Vedic belief and practice.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Satapatha Brahmana, a key later Vedic text, belongs to which region?",
+    "options": [
+      "Kuru-Panchala",
+      "Gandhara",
+      "Kosala",
+      "Avanti"
+    ],
+    "answer": 0,
+    "explanation": "The Satapatha Brahmana was composed in the region of Kuru and Panchala and contains many legends and myths of the Vedic period.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rigvedic king famous for performing the Ashvamedha horse sacrifice was",
+    "options": [
+      "Dilipa",
+      "Janaka",
+      "Harishchandra",
+      "Raja Harishchandra of the Puranic era"
+    ],
+    "answer": 0,
+    "explanation": "The Rigveda describes the sacrifices of the king Dilipa of the Ikshvaku lineage, including the famous horse sacrifice praised in the Sudra Sukta.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The four varnas are first clearly described in which Rigvedic hymn?",
+    "options": [
+      "Sukta of the Horse",
+      "Purusha Sukta",
+      "Nasadiya Sukta",
+      "Hymn of the Frogs"
+    ],
+    "answer": 1,
+    "explanation": "The tenth mandala's Purusha Sukta describes the sacrifice of the primordial being Purusha from whose body the four varnas and the world were born.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The concept of Rta, the divinely ordained order that regulates the universe, is associated in the Rigveda with which deity?",
+    "options": [
+      "Indra",
+      "Soma",
+      "Varuna",
+      "Agni"
+    ],
+    "answer": 2,
+    "explanation": "Varuna is the upholder of Rta in the Rigveda, the moral and cosmic order whose transgressors bring on their own punishment.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The famous Hymn of Creation, or Nasadiya Sukta, occurs in which mandala of the Rigveda?",
+    "options": [
+      "The second",
+      "The fifth",
+      "The seventh",
+      "The tenth"
+    ],
+    "answer": 3,
+    "explanation": "The Nasadiya Sukta, in the closing verses of the tenth mandala, reflects on how the universe was created out of a formless void.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The four stages of life, or ashramas, recognised in later Vedic and post-Vedic society were",
+    "options": [
+      "Guru, Acharya, Upadhyaya and Purohita",
+      "Raja, Mantri, purohita and Vaideya",
+      "Brahmacharin, Grihastha, Vanaprastha and Sannyasa",
+      "Brahmin, Kshatriya, Vaishya and Shudra"
+    ],
+    "answer": 2,
+    "explanation": "Life was divided into the student stage, the householder stage, the forest-dweller stage and the renouncer stage, as set out in the later Vedic texts and the Dharmashastra.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "In early Vedic polity, the Sabha and the Samiti are usually understood as",
+    "options": [
+      "The king's assembly and the judicial court",
+      "The Sabha of elders and the Samiti of the whole community",
+      "Two names for the royal court",
+      "A council of priests and a council of soldiers"
+    ],
+    "answer": 1,
+    "explanation": "The Sabha was a smaller council of elders that dealt with matters of importance, while the Samiti was the assembly of the whole people that elected the king and decided common issues.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "In the Rigvedic polity, the king was chosen by",
+    "options": [
+      "Hereditary succession from father to son",
+      "Election by the Brahmana scholars alone",
+      "Appointment by the tribal assembly of neighbouring clans",
+      "The people or the clan, and remained answerable to them"
+    ],
+    "answer": 3,
+    "explanation": "Rigvedic kings were chosen by the Jana or the Kula, and the texts emphasise that a king who harms his people should be abandoned, as in the fable of the frogs and the cranes.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which goddess in the Rigveda is associated with speech, learning and the flow of rivers?",
+    "options": [
+      "Sarasvati",
+      "Indrani",
+      "Prithvi",
+      "Urvashi"
+    ],
+    "answer": 0,
+    "explanation": "Sarasvati appears in the Rigveda as a river goddess and as the deity of speech and learning, a forerunner of the later goddess of learning.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The distinction between a Guru and an Acharya in ancient India was that",
+    "options": [
+      "The Guru was a teacher of warriors while the Acharya taught only Brahmins",
+      "The Guru taught one or two disciples without charging fees, while the Acharya taught many students",
+      "The Guru taught the Vedas while the Acharya taught medicine",
+      "The Guru was a priest while the Acharya was a king"
+    ],
+    "answer": 1,
+    "explanation": "Gurus taught one or two pupils free of charge, whereas Acharyas took fees and taught larger numbers of students, which helped sustain the expanding system of education.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The earliest Vedic literature in India was written in which script?",
+    "options": [
+      "Devanagari",
+      "Brahmi",
+      "Kharoshthi",
+      "Sharada"
+    ],
+    "answer": 0,
+    "explanation": "The Rigveda was composed orally and later written in the Devanagari script; the Brahmana and Sutra literature of the later Vedic period was also recorded in early Brahmi.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ashtadhyayi, the earliest known Sanskrit grammar, was composed by",
+    "options": [
+      "Yaska",
+      "Patanjali",
+      "Bharadvaja",
+      "Panini"
+    ],
+    "answer": 3,
+    "explanation": "Panini's Ashtadhyayi, written around the fourth century BCE, describes Sanskrit in about four thousand rules and marks the beginning of the scientific study of language.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Nirukta, an early etymological work explaining the meaning of Vedic words, was written by",
+    "options": [
+      "Patanjali",
+      "Sakyamitra",
+      "Yaska",
+      "Panini"
+    ],
+    "answer": 2,
+    "explanation": "Yaska's Nirukta is a significant early work on the etymology of Vedic words and throws light on the religious and social background of the Rigvedic period.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mahabhashya, a commentary on Panini's grammar, was written by",
+    "options": [
+      "Patanjali",
+      "Yaska",
+      "Vararuci",
+      "Bhamaha"
+    ],
+    "answer": 0,
+    "explanation": "Patanjali's Mahabhashya of the second century BCE is the first dated grammatical work of the Indian tradition and discusses both language and polity.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which deity was the most prominent in the Rigveda and is celebrated for slaying the drought demon Vritra?",
+    "options": [
+      "Yama",
+      "Indra",
+      "Agni",
+      "Soma"
+    ],
+    "answer": 1,
+    "explanation": "Indra is the most frequently invoked deity in the Rigveda and is celebrated as the slayer of Vritra and as the giver of rain and cattle.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Hymn of the Frogs, notable for its democratic overtones, occurs in which mandala?",
+    "options": [
+      "The tenth",
+      "The first",
+      "The third",
+      "The seventh"
+    ],
+    "answer": 3,
+    "explanation": "The seventh mandala of the Rigveda contains the Hymn of the Frogs, which describes the Frogs as bold, singing warriors who ask their leader for a king.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The later Vedic period in India is generally dated as",
+    "options": [
+      "600 to 300 BCE",
+      "300 BCE to 200 CE",
+      "1000 to 600 BCE",
+      "1500 to 1000 BCE"
+    ],
+    "answer": 2,
+    "explanation": "Historians date the Rigvedic or early Vedic period to about 1500-1000 BCE and the later Vedic period to about 1000-600 BCE.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The position of women in early Vedic society is best described as",
+    "options": [
+      "They were regarded as inauspicious and were not permitted to enter temples",
+      "They could own property, be educated and take part in religious ceremonies",
+      "They were strictly confined to the household",
+      "They were excluded from all Vedic sacrifices"
+    ],
+    "answer": 1,
+    "explanation": "Early Vedic texts speak of women as educated, able to own property and to participate in sacrifices; the harsher restrictions belong to the later post-Vedic codes.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which region is identified as the homeland of the later Vedic texts such as the Brihadaranyaka Upanishad?",
+    "options": [
+      "Tamraparni",
+      "Panchala-Nanda country",
+      "Kuru-Panchala",
+      "Magadha"
+    ],
+    "answer": 2,
+    "explanation": "The later Vedic literature emerged in the Kuru-Panchala region of the Ganga-Yamuna Doab, where the Kurus and Panchalas were the dominant tribes.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The region of the later Vedic period that is clearly identifiable archaeologically with the Ghaggar-Hakra area was",
+    "options": [
+      "The Sapta Sindhu region",
+      "The Magadha basin",
+      "The Deccan plateau",
+      "The Konkan coast"
+    ],
+    "answer": 0,
+    "explanation": "The Sapta Sindhu, the land of the seven rivers in the Rigveda, is generally identified with the Ghaggar-Hakra region in north-west India and Punjab.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Bhagavad Gita, a key text of later Vedic literature, belongs to which original text?",
+    "options": [
+      "The Ramayana",
+      "The Arthashastra",
+      "The Mahabhashya",
+      "The Mahabharata"
+    ],
+    "answer": 3,
+    "explanation": "The Bhagavad Gita is a philosophical discourse within the Mahabharata and forms part of the later Vedic corpus of Hindu religious literature.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The earliest reference to the region of Magadha is found in which text?",
+    "options": [
+      "The Mahabharata",
+      "The Atharvaveda",
+      "The Rigveda",
+      "The Yajurveda"
+    ],
+    "answer": 1,
+    "explanation": "Magadha is mentioned in the Atharvaveda as a region, and it is only in later Buddhist and Puranic texts that it emerges as an imperial power.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who founded the Magadha kingdom with its capital at Rajagriha?",
+    "options": [
+      "Bimbisara",
+      "Gautama Buddha",
+      "Mahapadma Nanda",
+      "Shishunaga"
+    ],
+    "answer": 3,
+    "explanation": "Shishunaga founded the Magadha kingdom and made Rajagriha the capital; the Haryanka ruler Bimbisara later expanded the empire and the Nandas made it a great power.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Bimbisara, the first important Haryanka ruler of Magadha, is known to have",
+    "options": [
+      "Expanded Magadha into an imperial power by conquering Kosala and the Gangaridai",
+      "Founded the first Maurya dynasty",
+      "Defeated the Persians at Hydaspes",
+      "Compiled the Arthashastra"
+    ],
+    "answer": 0,
+    "explanation": "Bimbisara extended Magadha at the cost of Kosala and the Gangaridai, and through marriage to Kosala and other royal houses he built alliances with most of the Mahajanapadas.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Ajatashatru of Magadha is traditionally credited with",
+    "options": [
+      "The conquest of Egypt for trade",
+      "The erection of the first Ashokan pillar",
+      "The use of the war chariot with a wooden arm and siege devices against the Malla republic",
+      "The founding of the Haryanka dynasty"
+    ],
+    "answer": 2,
+    "explanation": "Buddhist sources credit Ajatashatru with the ratha-mushti, a war chariot with a sharp rotating blade on its axle, used in his war against the Mallas.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Gangaridai, the region conquered by Bimbisara, lay in the",
+    "options": [
+      "Deccan plateau",
+      "Kabul valley",
+      "Thar desert",
+      "Ganga delta region"
+    ],
+    "answer": 3,
+    "explanation": "Gangaridai, the region of the Ganga delta, is one of the areas Bimbisara is said to have brought under Magadha's control.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Nanda dynasty of Magadha is described in Greek accounts as being ruled by",
+    "options": [
+      "Dhana Nanda",
+      "Chandragupta",
+      "Pushyamitra",
+      "Bimbisara"
+    ],
+    "answer": 0,
+    "explanation": "Megasthenes, writing in the Mauryan period, refers to the Nanda king Dhana Nanda as prapotamos, implying that the Nandas had already built a large empire before the Mauryas.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "How many Mahajanapadas are conventionally listed in the post-Vedic period?",
+    "options": [
+      "Twelve",
+      "Thirty-two",
+      "Sixteen",
+      "Eight"
+    ],
+    "answer": 2,
+    "explanation": "Sixteen Mahajanapadas are listed in the Buddhist texts as powerful states of the period, with Magadha gradually rising over them.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which Mahajanapada had its capital at Ayodhya?",
+    "options": [
+      "Avanti",
+      "Kosala",
+      "Vatsa",
+      "Chedi"
+    ],
+    "answer": 1,
+    "explanation": "Kosala, one of the foremost Mahajanapadas, had its capital at Ayodhya and was ruled during the Buddha's lifetime by Prasenajit, a contemporary of the Buddha.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Mahajanapada of Vatsa, whose capital was Matsya, was ruled by the well-known king",
+    "options": [
+      "Prithudhana",
+      "Mahishmati",
+      "Kuchela",
+      "Prasenajit"
+    ],
+    "answer": 2,
+    "explanation": "Kuchela, the king of Vatsa, is remembered in Buddhist literature for befriending the Buddha and for sending valuable gifts to him.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Vajji or Vrijji confederacy was a republic made up of how many ganas or clans?",
+    "options": [
+      "Sixteen",
+      "Eight",
+      "Four",
+      "Twelve"
+    ],
+    "answer": 1,
+    "explanation": "The Vajji gana-sangha was a republic of eight clans, and the Buddha is said to have advised its leader Bimbisara to keep them united.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Mahajanapada had Ujjain as its capital and was ruled by Prithudhana?",
+    "options": [
+      "Avanti",
+      "Chedi",
+      "Kamboja",
+      "Anga"
+    ],
+    "answer": 0,
+    "explanation": "Avanti, with its capital at Ujjain, was a powerful Mahajanapada whose ruler Prithudhana was a contemporary of the Buddha.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mahajanapada of Chedi had its capital at",
+    "options": [
+      "Kampilya",
+      "Champa",
+      "Asaligrama",
+      "Mahishmati"
+    ],
+    "answer": 3,
+    "explanation": "Chedi, one of the oldest Mahajanapadas, was centred at Mahishmati in modern Madhya Pradesh.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mahajanapada of Kamboja was especially noted for its",
+    "options": [
+      "Spices",
+      "Pearls",
+      "Horses",
+      "Iron ore"
+    ],
+    "answer": 2,
+    "explanation": "Kamboja, in north-west India beyond the Indus, was famous for its horses, which were traded as prized assets and appear as a standard gift in ancient texts.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Mahajanapada had its capital at Kampilya?",
+    "options": [
+      "Vajji",
+      "Panchala",
+      "Vatsa",
+      "Anga"
+    ],
+    "answer": 1,
+    "explanation": "Panchala, with its capital at Kampilya, was a powerful Mahajanapada that supplied the Buddha's two chief disciples, Sariputta and Moggallana.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Anga Mahajanapada had its capital at",
+    "options": [
+      "Kampilya",
+      "Ujjain",
+      "Ayodhya",
+      "Champa"
+    ],
+    "answer": 3,
+    "explanation": "Anga, the earliest of the Mahajanapadas, was centred at Champa in Bihar, where the Buddha is said to have first encountered the caste system.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Gautama Buddha was born at",
+    "options": [
+      "Lumbini",
+      "Bodh Gaya",
+      "Sarnath",
+      "Kushinagar"
+    ],
+    "answer": 0,
+    "explanation": "Buddha was born at Lumbini, attained enlightenment at Bodh Gaya, gave his first sermon at Sarnath and passed away at Kushinagar.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Dhammacakkappavattana Sutta, the first sermon of the Buddha, was delivered at",
+    "options": [
+      "Lumbini",
+      "Rajgir",
+      "Sarnath",
+      "Bodh Gaya"
+    ],
+    "answer": 2,
+    "explanation": "The Buddha preached his first sermon at Sarnath on the deer park, setting out the Four Noble Truths and the Middle Way, the basis of the first sermon of Buddhism.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Buddha attained enlightenment under the Bodhi tree at",
+    "options": [
+      "Kushinagar",
+      "Lumbini",
+      "Sarnath",
+      "Bodh Gaya"
+    ],
+    "answer": 3,
+    "explanation": "After years of meditation, the Buddha attained enlightenment at Bodh Gaya, and the Mahabodhi temple there marks the spot.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Mahaparinirvana of the Buddha took place at",
+    "options": [
+      "Vaishali",
+      "Kushinagar",
+      "Sarnath",
+      "Rajgir"
+    ],
+    "answer": 1,
+    "explanation": "The Buddha died at Kushinagar in 483 BCE; he was cremated there and the Mahaparinirvana stupa marks the site.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT one of the Four Noble Truths preached by the Buddha?",
+    "options": [
+      "The path of eight limbs leading to the cessation of suffering",
+      "The origin of suffering",
+      "The cessation of suffering",
+      "The truth that life consists of suffering"
+    ],
+    "answer": 0,
+    "explanation": "The Four Noble Truths are the truths about suffering, its origin, its cessation and the path; the eight-limbed path is the fourth element and not a separate truth.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT among the eight limbs of the Noble Eightfold Path?",
+    "options": [
+      "Right understanding",
+      "Right speech",
+      "Right livelihood",
+      "Right knowledge of the four truths"
+    ],
+    "answer": 0,
+    "explanation": "The eight limbs are right view, thought, speech, action, livelihood, effort, mindfulness and concentration; the knowledge of the four truths is the content of right view.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In Buddhist terminology, the Buddha, the Dhamma and the Sangha together constitute the",
+    "options": [
+      "Five Precepts",
+      "Eightfold Path",
+      "Three Jewels",
+      "Four Councils"
+    ],
+    "answer": 2,
+    "explanation": "The Three Jewels or Triratna are the Buddha, the Dhamma and the Sangha, and a lay Buddhist takes refuge in them.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The first Buddhist Council was held at Rajgir in 483 BCE under the presidency of",
+    "options": [
+      "Vasumitra",
+      "Mahakashyapa",
+      "Kalashoka",
+      "Moggaliputta Tissa"
+    ],
+    "answer": 1,
+    "explanation": "The first council, held shortly after the Buddha's death at Rajgir, was presided over by Mahakashyapa and compiled the first version of the Tripitaka.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The second Buddhist Council was held at Vaishali in 383 BCE. It is associated especially with",
+    "options": [
+      "The division of the Sangha into Mahasanghika and Theravada",
+      "The compilation of the Sutta pitaka",
+      "The adoption of the Pali canon",
+      "The compilation of the Abhidhamma pitaka"
+    ],
+    "answer": 3,
+    "explanation": "At the second council the Abhidhamma texts were compiled and the doctrine of the Mahasanghika school was raised for discussion.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The third Buddhist Council was held at Pataliputra in 251 BCE under the patronage of Ashoka and was presided over by",
+    "options": [
+      "Ananda",
+      "Moggaliputta Tissa",
+      "Mahakashyapa",
+      "Kalashoka"
+    ],
+    "answer": 1,
+    "explanation": "The third council at Pataliputra, presided over by Moggaliputta Tissa, settled the schism between the Mahasanghika and Theravada schools and sanctioned missions to Sri Lanka and elsewhere.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The fourth Buddhist Council, held in 72 CE during the reign of Kanishka, took place at",
+    "options": [
+      "Rajgir",
+      "Vaishali",
+      "Pataliputra",
+      "Kundalvana in Kashmir"
+    ],
+    "answer": 3,
+    "explanation": "The fourth council was held at Kundalvana in Kashmir under Kanishka, with Vasumitra presiding and Asvaghosa serving as secretary; the Kashmir scholars also composed the Mahavibhasha.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Tripitaka of Buddhism consists of",
+    "options": [
+      "Brahmi, Kharoshthi and Devanagari",
+      "Pitaka, Sutra and Smriti",
+      "Vinaya, Sutta and Abhidhamma",
+      "Rigveda, Yajurveda and Atharvaveda"
+    ],
+    "answer": 2,
+    "explanation": "The Tipitaka comprises the Vinaya pitaka of discipline, the Sutta pitaka of discourses and the Abhidhamma pitaka of the higher truth.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Mahavagga and the Cullavagga, which together make up the Vinaya Pitaka, were placed on the agenda by which Buddhist council?",
+    "options": [
+      "The first council at Rajgir",
+      "The second council at Vaishali",
+      "The third council at Pataliputra",
+      "The fourth council at Kundalvana"
+    ],
+    "answer": 0,
+    "explanation": "At the first council the newly composed Mahavagga and Cullavagga, recounting the rules and the first sermon of the Buddha, were placed on the agenda.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following collections does NOT belong to the Sutta Pitaka?",
+    "options": [
+      "Anguttara Nikaya",
+      "Abhidhamma Samyutta",
+      "Digha Nikaya",
+      "Majjhima Nikaya"
+    ],
+    "answer": 1,
+    "explanation": "The Sutta Pitaka has the Digha, Majjhima, Samyutta and Anguttara Nikayas; the Abhidhamma Samyutta belongs to the Abhidhamma Pitaka.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Dipavamsa and the Mahavamsa, which record the early history of Buddhism in Sri Lanka, were composed in",
+    "options": [
+      "Sinhala",
+      "Pali",
+      "Tamil",
+      "Sanskrit"
+    ],
+    "answer": 0,
+    "explanation": "The Dipavamsa and the Mahavamsa, the oldest chronicles of Sri Lanka, were written in Pali; the Mahavamsa is attributed to Mahanama of the fifth century CE.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Visuddhimagga, the classic Buddhist treatise on the path of purification, was written by",
+    "options": [
+      "Asvaghosa",
+      "Dharmapala",
+      "Buddhaghosha",
+      "Nagarjuna"
+    ],
+    "answer": 2,
+    "explanation": "Buddhaghosha's Visuddhimagga, composed in the fifth century CE in Sri Lanka, is the most authoritative Theravada summary of Buddhist doctrine and practice.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Madhyamaka school of Buddhist philosophy, associated with the doctrine of emptiness, was founded by",
+    "options": [
+      "Buddhaghosha",
+      "Vallebhi",
+      "Dharmapala",
+      "Nagarjuna"
+    ],
+    "answer": 3,
+    "explanation": "Nagarjuna, of the second century CE, founded the Madhyamaka school and is often regarded as the father of Buddhist philosophical speculation.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Third Buddhist Council at Pataliputra sent a mission to Sri Lanka led by",
+    "options": [
+      "Mahinda",
+      "Tissa",
+      "Ananda",
+      "Sona Utari"
+    ],
+    "answer": 0,
+    "explanation": "Mahinda, a son of Ashoka and the brother of Tissa, led the mission to Sri Lanka and converted the island's king, as recorded in the Mahavamsa.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Queen's Edict at Sanchi was issued at the instance of",
+    "options": [
+      "The Queen's appointment as governor",
+      "The Queen's grant of land to the Sangha",
+      "The Queen's endorsement of Ashoka's dhamma policy",
+      "The Queen's own conquest of Kalinga"
+    ],
+    "answer": 2,
+    "explanation": "The Sanchi Queen's Edict is a minor rock edict in which the queen, probably Ashoka's wife, endorses the dhamma and non-violence and asks the officials to follow it.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The bilingual inscriptions of Ashoka in which Greek and an Aramaic or Kharoshthi script appear include",
+    "options": [
+      "Hathigumpha, Nasik and Junagadh",
+      "Kandahar, Shahbazgarhi and Mansehra",
+      "Sanchi, Sarnath and Bodh Gaya",
+      "Dhauli, Jaugada and Erragudi"
+    ],
+    "answer": 1,
+    "explanation": "Ashoka's bilingual inscriptions at Kandahar, Shahbazgarhi, Mansehra, Taxila and elsewhere used Greek alongside Aramaic or Kharoshthi, showing the reach of his dhamma and the influence of the Hellenistic world.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The ancient kingdom of Kalinga, conquered by Ashoka, corresponds broadly to which modern state?",
+    "options": [
+      "Jharkhand",
+      "West Bengal",
+      "Andhra Pradesh",
+      "Odisha"
+    ],
+    "answer": 3,
+    "explanation": "Kalinga, whose conquest in 261 BCE changed Ashoka's life, corresponds to the Odisha region of eastern India.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Hathigumpha inscription, an important record of Kalinga's political history, is attributed to",
+    "options": [
+      "Chandragupta Maurya",
+      "Samudragupta",
+      "Kharavela",
+      "Ashoka"
+    ],
+    "answer": 2,
+    "explanation": "The Hathigumpha inscription in the Udayagiri caves records the achievements of the Mahameghavahana ruler Kharavela in the first century BCE and his conflicts with the Mauryas.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Ashoka appointed provincial viceroys (Mahamatras) at several centres of his empire. Which of the following was NOT one of them?",
+    "options": [
+      "Kausambi",
+      "Ujjain",
+      "Taxila",
+      "Tosali"
+    ],
+    "answer": 1,
+    "explanation": "Textual references to Mauryan viceroys include Pushyabhuti at Taxila, Pushyabhuti or Dhanyaka at Tosali and Dhanyaka at Ujjain; Kausambi is not recorded as a viceroyal centre.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Pataliputra, the capital of the Mauryan Empire, was located at",
+    "options": [
+      "The present city of Patna in Bihar",
+      "The present city of Allahabad",
+      "The present city of Ayodhya",
+      "The present city of Ujjain"
+    ],
+    "answer": 0,
+    "explanation": "Pataliputra stood on the southern bank of the Ganga near its confluence with the Son and is today the city of Patna in Bihar.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Maurya-Chandragupta met Seleucus Nicator in 302 BCE in which region?",
+    "options": [
+      "Magadha",
+      "Kalinga",
+      "Kabul",
+      "The Punjab, near the Hydaspes"
+    ],
+    "answer": 3,
+    "explanation": "The two rulers met in the Punjab region near the Hydaspes, where Seleucus accepted Chandragupta's ascendancy and ceded territories in the west to the Mauryas.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Arthashastra, the classic treatise on statecraft and political economy, was written by",
+    "options": [
+      "Sukraniti",
+      "Kautilya, also known as Vishnugupta or Chanakya",
+      "Megasthenes",
+      "Panini"
+    ],
+    "answer": 1,
+    "explanation": "The Arthashastra is attributed to Kautilya, the minister of Chandragupta Maurya, and consists of fifteen books dealing with administration, economics, warfare and statecraft.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Megasthenes, the Greek ambassador at the court of Chandragupta Maurya, wrote a work called",
+    "options": [
+      "Indica",
+      "Historia Indica",
+      "Pandissaka",
+      "Geography"
+    ],
+    "answer": 0,
+    "explanation": "Megasthenes' Indica described Mauryan administration, society and the city of Pataliputra, though the text survives only in fragments quoted by later writers.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which Mauryan ruler is referred to as Vindasara in the Sri Lankan chronicle Tissa's Chronicle?",
+    "options": [
+      "Chandragupta",
+      "Ashoka",
+      "Pushyamitra",
+      "Bindusara"
+    ],
+    "answer": 3,
+    "explanation": "Tissa's Chronicle names Ashoka's father as Vindasara, which corresponds to Bindusara, the middle of the three Mauryan emperors.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "According to Buddhist sources, the Mauryan army was organised into how many divisions?",
+    "options": [
+      "Four",
+      "Twelve",
+      "Six",
+      "Three"
+    ],
+    "answer": 2,
+    "explanation": "The six-fold Mauryan army comprised infantry, cavalry, chariots, elephants, sailors and non-combatant auxiliaries, with the infantry being the largest component.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Buddhist literature mentions three kinds of taxes collected in the Mauryan period. Which of the following is NOT one of them?",
+    "options": [
+      "Samhita",
+      "Kara",
+      "Nisita",
+      "Sannata"
+    ],
+    "answer": 1,
+    "explanation": "The Anguttara Nikaya lists three taxes, namely nisita (produce tax), sannata (customs duty) and samhita (tax on wealth); kara is a later revenue term.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Mauryan administrative function was exercised by the city officials known as Nagarikas?",
+    "options": [
+      "Judging cases in the royal court",
+      "Commanding the royal armies in the field",
+      "Supervising municipal administration and civic order in towns",
+      "Collecting taxes in the rural districts"
+    ],
+    "answer": 2,
+    "explanation": "Nagarikas were town officials responsible for civic administration, justice and public order, as described in the Arthashastra.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Taxila was an important centre of learning under the Mauryas. Which Mauryan viceroy is mentioned as having been appointed there?",
+    "options": [
+      "Dhanyaka",
+      "Tissa",
+      "Ravana",
+      "Pushyabhuti"
+    ],
+    "answer": 3,
+    "explanation": "A reference in the Ashokan inscriptions to Pushyabhuti as viceroy at Taxila shows the Mauryan system of provincial governorships.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Western Kshatriya ruler Nahapana had his capital at",
+    "options": [
+      "Dhanyakataka",
+      "Pataliputra",
+      "Ujjain",
+      "Mathura"
+    ],
+    "answer": 0,
+    "explanation": "Nahapana, the Kshaharata ruler of the western Deccan, ruled from Dhanyakataka, and his control of the Konkan and the trade route to the Roman world is attested by the Nashik inscriptions.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Nashik cave inscriptions are important because they record",
+    "options": [
+      "The donations of Ashoka to the Buddhist Sangha",
+      "The land grants of the Gupta kings",
+      "The revenue arrangements of the Vakatakas",
+      "The campaigns of the Satavahana ruler Gautamiputra against the Western Kshatriyas"
+    ],
+    "answer": 3,
+    "explanation": "The Nashik inscription of Gautamiputra Satakarni boasts of destroying the Kshatriya confederacy of Nahapana, and another records the marriage of Vasisthiputra to a daughter of the same family.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Pushyamitra, who founded the Shunga dynasty, is known for",
+    "options": [
+      "His erection of the first cave temple",
+      "His gold coins and his conflict with the Yavanas, recorded in the Mahabharata and the Ashvamedha inscription of Ayodhya",
+      "His conversion to Buddhism at the council of Pataliputra",
+      "His conquest of the Deccan"
+    ],
+    "answer": 1,
+    "explanation": "Pushyamitra's conflict with the Greeks in the northwest is mentioned in the Mahabharata and in his Ashvamedha inscription from Ayodhya, and his gold coins bear his name.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The play Malavikagnimitram, which dramatises the conflict between Pushyamitra and his son Agnimitra, was written by",
+    "options": [
+      "Kalidasa",
+      "Vishakhadatta",
+      "Dandin",
+      "Vararuci"
+    ],
+    "answer": 0,
+    "explanation": "Kalidasa's Malavikagnimitram, his first play, dramatises Agnimitra's love for the princess Malavika and the quarrel over the performing actress Vasumati.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which poet of the Shunga period wrote the Saundarananda and the Devadarshana, and later worked at Kanishka's court?",
+    "options": [
+      "Panini",
+      "Bharata",
+      "Asvaghosa",
+      "Kalidasa"
+    ],
+    "answer": 2,
+    "explanation": "Asvaghosa, the court poet of Kanishka, wrote the Saundarananda and the Devadarshana and is traditionally credited with the Buddha Charita.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The last ruler of the Kanva dynasty of Magadha was",
+    "options": [
+      "Pushyamitra",
+      "Agnimitra",
+      "Devanampiya Tissa",
+      "Susarman"
+    ],
+    "answer": 3,
+    "explanation": "Susarman, the last Kanva king, was defeated and displaced by Simuka, the founder of the Satavahana dynasty, around the end of the first century BCE.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Indo-Greek kings of Bactria are known to have invaded north-western India. The most famous of them was",
+    "options": [
+      "Demetrius",
+      "Menander, also called Milinda",
+      "Chandragupta Maurya",
+      "Antiochus"
+    ],
+    "answer": 1,
+    "explanation": "Menander, called Milinda in the Milindapanha, invaded the Punjab and reached Pataliputra before being driven back by the Satavahana ruler Vasisthiputra.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Milindapanha, a dialogue between the Bactrian king Menander and the Buddhist monk Nagasena, is significant because it",
+    "options": [
+      "Contains the earliest Buddhist inscriptions",
+      "Documents the trade with Rome",
+      "Shows the mingling of Hellenistic and Buddhist intellectual traditions",
+      "Records the Mauryan land revenue system"
+    ],
+    "answer": 2,
+    "explanation": "The Milindapanha, rendered into Pali as the Milindakatha, combines Greek kingship with Buddhist dialectic and was probably composed in the second century CE.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Rudradaman's Junagadh inscription of 130 CE is remarkable because it is",
+    "options": [
+      "The first full-length inscription in Sanskrit",
+      "The earliest known record of trade with Rome",
+      "The earliest example of the Brahmi script",
+      "The first inscription naming a dynasty of the Deccan"
+    ],
+    "answer": 0,
+    "explanation": "Rudradaman's Junagadh record, celebrating his victories and his gift of a golden sudarsana to Brahmanas, is the earliest lengthy Sanskrit inscription known.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Satavahana ruler Gautamiputra Satakarni claimed the epithet",
+    "options": [
+      "Lord of the Dakshinapatha",
+      "Prakasa of the Andhra",
+      "Conqueror of Magadha",
+      "Destroyer of the Kshatriya confederacy"
+    ],
+    "answer": 3,
+    "explanation": "Gautamiputra Satakarni's Nasik inscription describes him as having destroyed the Kshatriya confederacy of Nahapana and restored the glory of the Satavahana line.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Amaravati and Nagarjunakonda stupas belong to which dynasty?",
+    "options": [
+      "Chalukya",
+      "Mughal",
+      "Satavahana",
+      "Vakataka"
+    ],
+    "answer": 2,
+    "explanation": "The great brick stupas of Amaravati on the Krishna in Andhra and Nagarjunakonda on the Krishna were built under the Satavahanas, with Nagarjunakonda rising in the third century CE.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Vakataka ruler Harishena is best known from",
+    "options": [
+      "The Eran inscription praising his generosity to Brahmins and his war with the Hunas",
+      "The Junagadh inscription",
+      "The Nashik cave inscriptions",
+      "The Allahabad pillar inscription"
+    ],
+    "answer": 0,
+    "explanation": "The Eran inscription of Harishena, dated to the fifth century CE, celebrates his gifts to Brahmins and his victory over the Hunas.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which ancient site is famed for the remains of a Roman trading settlement, with glass beads and amphorae, excavated by Mortimer Wheeler in 1945?",
+    "options": [
+      "Tamralipti",
+      "Arikamedu",
+      "Kaveripattinam",
+      "Muziris"
+    ],
+    "answer": 1,
+    "explanation": "Arikamedu near Pondicherry yielded beads, an ocarina and Roman amphorae, and is regarded as the earliest known Indo-Roman trading port.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which ancient port of the Sangam age was the chief centre of the pepper trade with the Roman world?",
+    "options": [
+      "Muziris",
+      "Kaveripattinam",
+      "Madurai",
+      "Karur"
+    ],
+    "answer": 0,
+    "explanation": "Muziris in modern Kerala, identified by many scholars with Kodungallur or Pattanam, was the great port of the Chera and the hub of the pepper trade with Rome.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Sangam polity had its capital at Muziris?",
+    "options": [
+      "Satavahana",
+      "Chera",
+      "Chola",
+      "Pandya"
+    ],
+    "answer": 1,
+    "explanation": "The Chera kingdom of the Sangam age had its capital at Muziris, while the Cholas ruled from Kaveripattinam and the Pandyas from Madurai.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The three crowned kings, or Muvendar Adigal, of the Sangam age were the rulers of",
+    "options": [
+      "Chera, Chola and Satavahana",
+      "Chola, Pandya and Pallava",
+      "Chera, Pandya and Kadamba",
+      "Chera, Chola and Pandya"
+    ],
+    "answer": 3,
+    "explanation": "The Sangam age is remembered for three crowned kings ruling from the Chera, Chola and Pandya countries, with the title of Muvendar Adigal.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which Tamil grammar is considered the earliest work of Tamil literature and was probably composed around the third century BCE?",
+    "options": [
+      "Tirukkural",
+      "Sivappirakkam",
+      "Tolkappiyam",
+      "Silappadikaram"
+    ],
+    "answer": 2,
+    "explanation": "The Tolkappiyam, written in old Tamil and traditionally ascribed to a generation of poets called the Tolkappiyars, is the earliest extant Tamil grammar.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Tirukkural, the classic Tamil work on virtue, wealth and love, was written by",
+    "options": [
+      "Ilango Adigal",
+      "Sattanar",
+      "Tolkappiyar",
+      "Tiruvalluvar"
+    ],
+    "answer": 3,
+    "explanation": "The Tirukkural, written in about 1,330 couplets, is attributed to Tiruvalluvar, and the Rajagaram inscription records his Tiruvalluvar-Daiban at Kanyakumari.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Silappadikaram, the earliest Tamil epic, was written by",
+    "options": [
+      "Cattanar",
+      "Bharathi",
+      "Ilango Adigal",
+      "Tiruvalluvar"
+    ],
+    "answer": 2,
+    "explanation": "The Silappadikaram by Ilango Adigal, a Chera prince who renounced the world, tells of Kannagi's story and is a landmark of early Tamil literature.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The poet Cattanar, who wrote the Sivappirakkam and the Civappirakkam, is regarded as a contemporary of which Sangam ruler?",
+    "options": [
+      "Chera Senguttuvan",
+      "Rajaraja Chola",
+      "Pandyan Kadungon",
+      "Chola Rajendra"
+    ],
+    "answer": 0,
+    "explanation": "Cattanar is usually placed in the second century CE and is linked with the reign of the Chera king Senguttuvan, who is celebrated in the Silappadikaram.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Tamil text describes the five great landscapes of the Sangam age and the customs of each region?",
+    "options": [
+      "Sivappirakkam",
+      "Tolkappiyam",
+      "Silappadikaram",
+      "Tirukkural"
+    ],
+    "answer": 1,
+    "explanation": "The Tolkappiyam's Porulatikaram section describes the five tinai, or ecological and cultural landscapes, of the Tamil country.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kalabhra interregnum in the Tamil country is generally placed between the periods of",
+    "options": [
+      "The Chola and Pandya periods",
+      "The Pallava and Vijayanagara periods",
+      "The Chera and Chola periods",
+      "The Sangam age and the rise of the Pallavas and Pandyas"
+    ],
+    "answer": 3,
+    "explanation": "After the Sangam age, the Kalabhras, possibly of foreign origin, held power in the Tamil country until they were defeated by Simhavishnu of the Pallavas and the early Pandyas.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The famous terracotta plaques of the Chola period were found mainly at which site?",
+    "options": [
+      "Gangaikonda Cholapuram",
+      "Thanjavur",
+      "Kaveripattinam",
+      "Madurai"
+    ],
+    "answer": 0,
+    "explanation": "Gangaikonda Cholapuram, the capital of Rajaraja Chola, has yielded a rich series of Chola terracotta plaques showing temple ritual and daily life.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Chera capital Karur was an important centre of which trade?",
+    "options": [
+      "Pearl trade from the Gulf of Kutch",
+      "Gold trade from the Deccan",
+      "Pepper trade with Rome",
+      "Salt from the Gulf of Mannar"
+    ],
+    "answer": 1,
+    "explanation": "Karur on the Kaveri was the capital of the Cheras and a major centre for the export of gold, pepper and other produce from the uplands.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which ancient site is famous for the excavation of an archaeological deposit that includes a Roman trading quarter and a bead factory of the first century BCE?",
+    "options": [
+      "Bhir",
+      "Kalibangan",
+      "Arikamedu",
+      "Sanchi"
+    ],
+    "answer": 2,
+    "explanation": "Arikamedu on the Puducherry coast has been excavated repeatedly, revealing bead-making furnaces and a trading settlement with Roman and Mediterranean material.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Sangam-era Tamil work gives the famous description of the sea port of Kaveripattinam?",
+    "options": [
+      "Manimekalai",
+      "Silappadikaram",
+      "Tolkappiyam",
+      "Sivappirakkam"
+    ],
+    "answer": 1,
+    "explanation": "The Silappadikaram gives a celebrated description of the Chola port of Puhar, or Kaveripattinam, and of the sea voyage of the protagonist's family.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which two Tamil dynasties fought the Chola-Chola-Pallava (Three Hundred Years' War) in the Tamil country?",
+    "options": [
+      "Cholas and Pandyas",
+      "Cholas and Cheras",
+      "Pallavas and Cheras",
+      "Pallavas and Pandyas"
+    ],
+    "answer": 0,
+    "explanation": "The Cholas and the Pandyas fought a long series of wars for supremacy over the Kaveri delta and the Pandyan country during the eighth to tenth centuries CE.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Manimekalai, a classic Tamil Buddhist epic of the sixth century CE, was written by",
+    "options": [
+      "Tiruvalluvar",
+      "Sattanar",
+      "Cattanar",
+      "Ilango Adigal"
+    ],
+    "answer": 2,
+    "explanation": "The Manimekalai, traditionally attributed to Cattanar, centres on a Buddhist heroine and reflects the deep influence of Buddhism on Tamil society.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which ancient Indian university was famous for law, medicine and astronomy and was situated in modern Bihar?",
+    "options": [
+      "Takshashila",
+      "Vikramashila",
+      "Vallabhi",
+      "Nalanda"
+    ],
+    "answer": 3,
+    "explanation": "Vikramashila, founded by the Pala king Dharmapala, was a noted centre of Buddhist learning in Bihar and was destroyed in the twelfth century CE.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Which ancient Indian university, situated in Gandhara near modern Taxila, was famous for the study of medicine and law?",
+    "options": [
+      "Takshashila",
+      "Nalanda",
+      "Vikramashila",
+      "Vallabhi"
+    ],
+    "answer": 0,
+    "explanation": "Takshashila, the great centre of learning in the Gandhara region, was associated with the study of medicine, law and astronomy and attracted students from across the world.",
+    "difficulty": "easy",
+    "category": "ancient-india",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Which script was used for the Ashokan inscriptions at Sanchi?",
+    "options": [
+      "Sharada",
+      "Brahmi",
+      "Kharoshthi",
+      "Greek"
+    ],
+    "answer": 1,
+    "explanation": "The Ashokan inscriptions at Sanchi and most of central India are carved in Brahmi, while the north-western inscriptions of Ashoka use Kharoshthi and Greek.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Sanchi stupa was originally commissioned by which ruler?",
+    "options": [
+      "Kanishka",
+      "Harsha",
+      "Ashoka",
+      "Pushyamitra"
+    ],
+    "answer": 2,
+    "explanation": "The Sanchi stupa, one of the oldest stone structures in India, was commissioned by Ashoka in the third century BCE and enlarged later by Satavahana donors.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which Ashokan inscription site is famous for the Great Stupa and the ornate gateways carved under the Satavahanas?",
+    "options": [
+      "Amaravati",
+      "Nagarjunakonda",
+      "Bharhut",
+      "Sanchi"
+    ],
+    "answer": 3,
+    "explanation": "Sanchi's four elaborately carved toranas and its brick stupa, originally built by Ashoka, received most of its sculptural decoration from the Satavahana era.",
+    "difficulty": "medium",
+    "category": "ancient-india",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The earliest Indian sculpture to use the stone-railing (vedika) form around a sacred structure is seen at",
+    "options": [
+      "Kushinagar",
+      "Sanchi",
+      "Bharhut",
+      "Amaravati"
+    ],
+    "answer": 1,
+    "explanation": "Bharhut, in Madhya Pradesh, dating to about the second century BCE, has the earliest carved stone vedikas and the finest Jataka narrative reliefs.",
+    "difficulty": "hard",
+    "category": "ancient-india",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Maurya ruler is credited with the destruction of the Nanda dynasty and the founding of the Mauryan empire?",
+    "options": [
+      "Ashoka",
+      "Pushyamitra",
+      "Chandragupta Maurya",
+      "Bindusara"
+    ],
+    "answer": 2,
+    "explanation": "Chandragupta Maurya overthrew the Nandas around 321 BCE with the help of Chanakya and established the Mauryan empire with its capital at Pataliputra.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Kalinga war, which changed the course of Ashoka's life, is conventionally dated to",
+    "options": [
+      "261 BCE",
+      "250 BCE",
+      "268 BCE",
+      "232 BCE"
+    ],
+    "answer": 0,
+    "explanation": "The Kalinga war is usually dated to 261 BCE, two years after Ashoka's accession; Major Rock Edict XIII describes the slaughter that caused his remorse.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Ashoka succeeded to the throne in which year?",
+    "options": [
+      "261 BCE",
+      "232 BCE",
+      "321 BCE",
+      "268 BCE"
+    ],
+    "answer": 3,
+    "explanation": "Ashoka came to the throne in 268 BCE at about the age of 35; Bindusara died in 272 BCE and his son took over at Pataliputra.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The concept of Dhamma that Ashoka propagated through his rock and pillar edicts included",
+    "options": [
+      "Unrestricted military expansion",
+      "The exclusive worship of a single god",
+      "Non-violence, tolerance, respect for elders and charity towards all sects",
+      "Ritual sacrifice of animals on a large scale"
+    ],
+    "answer": 2,
+    "explanation": "Ashoka's dhamma combined non-violence with religious tolerance, care for dependants and respect for all religious sects, as set out especially in Major Rock Edict VII.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Major Rock Edict VII is important because it",
+    "options": [
+      "Records the Kalinga war and Ashoka's remorse",
+      "Announces the grant of rain relief",
+      "Proclaims the abolition of the bhogi system",
+      "Describes Ashoka's dhamma policy, including non-violence and religious tolerance"
+    ],
+    "answer": 3,
+    "explanation": "Major Rock Edict VII is the fullest statement of Ashoka's dhamma, stressing non-violence, tolerance of all sects and care for the aged and the poor.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Minor Rock Edict II of Ashoka refers to the king's concern for",
+    "options": [
+      "The revenue of the provinces",
+      "The Hellenistic monarch of the West and the welfare of all creatures",
+      "The famine in the Ganga valley",
+      "The construction of stupas"
+    ],
+    "answer": 1,
+    "explanation": "Minor Rock Edict II reflects Ashoka's earnest desire for the welfare of all beings and mentions the Hellenistic king (Amtiyoka), reflecting Mauryan contacts with the Greek world.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Ashoka's propagation of Buddhism across Asia is evidenced by his support for the",
+    "options": [
+      "Third Buddhist Council at Pataliputra and missions to Sri Lanka and other lands",
+      "Second Buddhist Council at Vaishali",
+      "Fourth Buddhist Council at Kundalvana",
+      "Disciplinary rules of the Vinaya alone"
+    ],
+    "answer": 0,
+    "explanation": "Ashoka convened the third council at Pataliputra and dispatched missions, including Mahinda's to Sri Lanka, and his patronage explains the spread of Buddhism beyond India.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The decline of the Mauryan empire after Ashoka is generally attributed to",
+    "options": [
+      "A foreign invasion from beyond the Indus",
+      "A change in the official religion of the state",
+      "A famine that emptied the treasury",
+      "The weakening of central authority, excessive taxation and the rise of powerful regional satraps"
+    ],
+    "answer": 3,
+    "explanation": "The decline is linked to the disintegration of central control, heavy taxation, excessive military expenditure and the assertion of autonomy by provincial governors and Buddhist and Jain shramana communities.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Pushyamitra, a general of the Mauryan king Ashoka, founded which dynasty?",
+    "options": [
+      "The Shunga dynasty",
+      "The Kanva dynasty",
+      "The Satavahana dynasty",
+      "The Indo-Greek dynasty"
+    ],
+    "answer": 0,
+    "explanation": "Pushyamitra assassinated the last Maurya ruler and founded the Shunga dynasty, marking the end of Mauryan rule in about 185 BCE.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The famous play Malavikagnimitram, attributed to Kalidasa, was written in which Mauryan-era political context?",
+    "options": [
+      "The campaigns of Samudragupta",
+      "The war between the Cholas and Pandyas",
+      "The succession struggle between Pushyamitra and his son Agnimitra",
+      "The Kalinga war"
+    ],
+    "answer": 2,
+    "explanation": "The play, dated to about the fourth century CE, presents the tension between Pushyamitra, who had put his son Agnimitra away, and the young prince's romantic involvement.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bhasa, an early Sanskrit dramatist whose plays were discovered at Kanjirapally, belonged to which dynasty?",
+    "options": [
+      "Gupta",
+      "Satavahana",
+      "Shunga",
+      "Maurya"
+    ],
+    "answer": 1,
+    "explanation": "The thirteen plays attributed to Bhasa, unearthed at Kanjirapally in Kerala, are generally assigned to the Satavahana period and reflect the classical stage tradition.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which dynasty in the Deccan is said to have issued coins with the legend 'Dinaraja' and the figure of a lion?",
+    "options": [
+      "Chalukya",
+      "Satavahana",
+      "Kshaharata",
+      "Vakataka"
+    ],
+    "answer": 1,
+    "explanation": "Satavahana lead coins bear the legend Dinaraja and a lion motif, a characteristic of their coinage in the Deccan.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Pliny's Natural History refers to the Indian trade and mentions the import of pepper from which region?",
+    "options": [
+      "Malabar",
+      "Bengal",
+      "Gujarat",
+      "Kashmir"
+    ],
+    "answer": 0,
+    "explanation": "Pliny complains that Rome was draining away fifty million sesterces a year to India, largely through the pepper trade of Malabar and the Coromandel coast.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The anonymous Greek merchant's account of Indian trade, written in the first century CE, is called the",
+    "options": [
+      "Indica of Megasthenes",
+      "Anabasis",
+      "Geographia",
+      "Periplus of the Erythraean Sea"
+    ],
+    "answer": 3,
+    "explanation": "The Periplus of the Erythraean Sea describes Indian ports, commodities and the monsoons, and is a key source for Indo-Roman commerce.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which region of south India was the main source of pepper exported to the Roman world?",
+    "options": [
+      "Konkan",
+      "Kanara",
+      "Malabar",
+      "Coromandel"
+    ],
+    "answer": 2,
+    "explanation": "The Malabar coast, under the Cheras, was the chief source of pepper, while the Coromandel coast supplied carnelian beads and other goods.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "A Christian tradition associates the arrival of St Thomas the Apostle in India with which port?",
+    "options": [
+      "Muziris",
+      "Kaveripattinam",
+      "Tamralipti",
+      "Arikamedu"
+    ],
+    "answer": 0,
+    "explanation": "The Syrian Christian tradition holds that St Thomas landed at Muziris in 52 CE and founded the seven and a half churches of the Malabar coast, later moving to Madras.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Satavahana ruler Simuka is generally credited with",
+    "options": [
+      "Expanding into the Gangetic plain",
+      "Sending missions to Sri Lanka",
+      "Ending the Kanva rule in Magadha and founding the Satavahana dynasty",
+      "Defeating the Indo-Greek king Menander"
+    ],
+    "answer": 2,
+    "explanation": "Simuka is said to have expelled the last Kanva king Susarman from Magadha around 30 BCE, founding the Satavahana dynasty in the Dakshinapatha.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Satavahanas ruled mainly over which region?",
+    "options": [
+      "The Ganga valley",
+      "The Indus valley",
+      "The Tamil country",
+      "The Deccan plateau and the Godavari-Krishna basin"
+    ],
+    "answer": 3,
+    "explanation": "The Satavahanas ruled the Dakshinapatha, roughly the Deccan and the Krishna-Godavari basin, with their main capitals at Pratishthana and Amaravati.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Who is often described as the greatest of the Gupta rulers, the Indian Napoleon?",
+    "options": [
+      "Bhavagupta",
+      "Samudragupta",
+      "Chandragupta I",
+      "Skandagupta"
+    ],
+    "answer": 1,
+    "explanation": "Samudragupta, called the Indian Napoleon, conquered much of northern India and is praised in his own Prayag Prashasti for his campaigns.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Samudragupta's campaigns are described in a long inscription found at",
+    "options": [
+      "Eran",
+      "Udayagiri",
+      "Sanchi",
+      "Allahabad"
+    ],
+    "answer": 3,
+    "explanation": "The Allahabad or Prayag Prashasti inscription, engraved on an Ashokan pillar by the poet Harishena, praises Samudragupta's conquests in a famous list of defeated rulers.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Eran inscription of the Gupta period refers to the victory of",
+    "options": [
+      "Skandagupta over the Hunas",
+      "Chandragupta II over the Yavanas",
+      "Samudragupta over the Shakas",
+      "Chandragupta I over the Vakatakas"
+    ],
+    "answer": 0,
+    "explanation": "The Eran inscription praises Skandagupta for defeating the Hunas and attributes to him the survival of the Gupta line, a key document in dating the Hunas' arrival.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Chandragupta II is also known by the title",
+    "options": [
+      "Devagupta",
+      "Vikramaditya",
+      "Narendraditya",
+      "Mahendravarman"
+    ],
+    "answer": 1,
+    "explanation": "Chandragupta II bore the title Vikramaditya, and the gold coins of the period attributed to him show, uniquely in Gupta history, the likeness of the king and of his queen.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Mathura pillar inscription of the Gupta period was issued by",
+    "options": [
+      "Skandagupta",
+      "Kumaragupta I",
+      "Chandragupta II",
+      "Samudragupta"
+    ],
+    "answer": 2,
+    "explanation": "The Mathura pillar inscription of Chandragupta II, dated to 400 CE, records the donation of a dinara for the feeding of animals and the maintenance of a goshala.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Gupta administrative system was characterised above all by",
+    "options": [
+      "A confederacy of autonomous city-states",
+      "Rule by an elected council of Brahmins",
+      "The samanta or feudal relationship between the king and local rulers and officials",
+      "A highly centralised bureaucratic state with salaried officials"
+    ],
+    "answer": 2,
+    "explanation": "Gupta administration operated through the samanta system, in which local feudatories and officials held land and power in return for military service and dues.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The samanta system of the Gupta period is also known as",
+    "options": [
+      "Ryotwari",
+      "Feudalism",
+      "Mansabdari",
+      "Zabt"
+    ],
+    "answer": 1,
+    "explanation": "Many historians describe the Gupta samanta arrangement as a form of feudalism, though this characterisation is debated in Indian historiography.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In Gupta administration, which land category was revenue free and enjoyed by Brahmins and people of learning?",
+    "options": [
+      "Devasena",
+      "Bhumibhaga",
+      "Sannata",
+      "Raja sasana"
+    ],
+    "answer": 0,
+    "explanation": "Land assigned to Brahmins and learned men for religious and scholarly use was called devasena and was exempt from regular revenue.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Gupta land category was given in reward for meritorious service and carried the obligation to provide troops?",
+    "options": [
+      "Devasena",
+      "Nisita",
+      "Sannata",
+      "Bhumibhaga or bhumi"
+    ],
+    "answer": 3,
+    "explanation": "Bhumibhaga land was assigned in reward of service; the recipient held the land on condition of providing military support, which is why it is often described as a feudal arrangement.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The official in Gupta administration who looked after judicial and administrative affairs in the district was the",
+    "options": [
+      "Upayukta",
+      "Dutaka",
+      "Rajukrit",
+      "Prakasa"
+    ],
+    "answer": 2,
+    "explanation": "The rajukrit (district judge) dealt with justice and administrative matters at the district level; the prakasa handled revenue and the upayukta was the chief revenue officer of a division.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Gupta official was responsible for the administration of a bhumi or district?",
+    "options": [
+      "Rajukrit",
+      "Dharmadhikari",
+      "Sarvabhauma",
+      "Prakasa"
+    ],
+    "answer": 3,
+    "explanation": "The prakasa was the officer in charge of a district (bhumi), responsible above all for revenue collection and its transmission to the treasury.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Varnashrama Brahmana, an important Gupta-period treatise on social and legal matters, was written by",
+    "options": [
+      "Manu",
+      "Baudhayana",
+      "Yajnavalkya",
+      "Narada"
+    ],
+    "answer": 1,
+    "explanation": "The Varnashrama Brahmana of Baudhayana, a contemporary of the Guptas, is an important source on the working of the four varnas and on inheritance and contracts.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Gupta ruler is described as the father of Indian theatre by Kalidasa in his third play?",
+    "options": [
+      "Kumaragupta I",
+      "Skandagupta",
+      "Samudragupta",
+      "Chandragupta II"
+    ],
+    "answer": 0,
+    "explanation": "Kalidasa's Prayaga Prashasti praises Kumaragupta I as the destroyer of enemies and the protector of the learned, and the play Malavikagnimitram was staged during his reign.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The celebrated literary work Malavikagnimitram is associated with which Gupta ruler's reign?",
+    "options": [
+      "Kumaragupta I",
+      "Samudragupta",
+      "Skandagupta",
+      "Chandragupta I"
+    ],
+    "answer": 0,
+    "explanation": "The play was written for the court of Kumaragupta I, and the Prayag Prashasti written in the same reign credits the king with the revival of learning.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who among the following was the author of the Mudrarakshasa, a famous Sanskrit play about the rise of the Mauryas?",
+    "options": [
+      "Kalidasa",
+      "Dandin",
+      "Bana",
+      "Vishakhadatta"
+    ],
+    "answer": 3,
+    "explanation": "Vishakhadatta's Mudrarakshasa, in which Chanakya engineers the restoration of Chandragupta Maurya, was written during the Gupta period.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Which of the following was the work of Kalidasa?",
+    "options": [
+      "Kavyadarsha",
+      "Raghuvamsha",
+      "Mudrarakshasa",
+      "Harshacharita"
+    ],
+    "answer": 1,
+    "explanation": "The Raghuvamsha is one of Kalidasa's seven great works; the Mudrarakshasa is by Vishakhadatta, the Harshacharita by Bana and the Kavyadarsha by Dandin.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Dandin, a Gupta-period writer, is known for",
+    "options": [
+      "The Uttararamacharita and the Pratimanasaka",
+      "The Harshacharita and the Kadambari",
+      "The Kavyadarsha and the Dasakumaracharita",
+      "The Raghuvamsha and the Meghaduta"
+    ],
+    "answer": 2,
+    "explanation": "Dandin wrote the Kavyadarsha, an early treatise on the theory of literary style, and the Dasakumaracharita, a tale of ten princes.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Bana, the author of the Harshacharita, was a pupil of",
+    "options": [
+      "Sariputta",
+      "Dharmapala",
+      "Virasena",
+      "Kashyapa"
+    ],
+    "answer": 2,
+    "explanation": "Bana was a pupil of the court poet Virasena and, as a Chandala by birth, took pride in his background in the Harshacharita.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Amarakosha, the famous Sanskrit lexicon of the Gupta period, was compiled by",
+    "options": [
+      "Varahamihira",
+      "Dandin",
+      "Kshemendra",
+      "Amarasimha"
+    ],
+    "answer": 3,
+    "explanation": "Amarasimha's Amarakosha, a verse lexicon written under the patronage of the Later Guptas, remains a standard reference for Sanskrit vocabulary.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Varahamihira, the sixth-century polymath, was one of the Navaratnas of which ruler?",
+    "options": [
+      "Lalitaditya",
+      "Chandragupta II",
+      "Samudragupta",
+      "Harsha"
+    ],
+    "answer": 1,
+    "explanation": "Varahamihira, author of the Brihat Samhita and the Panchasiddhantika, was one of the Navaratnas of Chandragupta II Vikramaditya.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Navaratnas of the court of Vikramaditya included",
+    "options": [
+      "Varahamihira, Dhanvantari and Amarasimha",
+      "Bana and Dandin only",
+      "Narada and Yaska",
+      "Patanjali and Panini"
+    ],
+    "answer": 0,
+    "explanation": "The nine gems of Vikramaditya's court included Varahamihira, Dhanvantari, Amarasimha, Kalidasa, Dhanvantari, Shanku, Kshapanaka, Vararuci and Ghatakarpara.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The cave temples at Badami were cut under which dynasty?",
+    "options": [
+      "Pallavas",
+      "Rashtrakutas",
+      "Pandyas",
+      "Chalukyas of Badami"
+    ],
+    "answer": 3,
+    "explanation": "The Badami cave temples, with their magnificent sculptures of Shiva, Vishnu and Durga, were excavated by the Chalukyas of Badami under kings like Mangalesha and Pulakeshin II.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ajanta caves at Aurangabad were excavated chiefly under which dynasty?",
+    "options": [
+      "Pallava",
+      "Vakataka",
+      "Chalukya",
+      "Rashtrakuta"
+    ],
+    "answer": 1,
+    "explanation": "The Ajanta caves, with their superb painting and sculpture, were executed under the Vakataka ruler Harishena and his successors in the fifth and sixth centuries CE.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The votive stupas at Sanchi and the Bharhut railing belong to which phase of Buddhist art?",
+    "options": [
+      "The Kushana phase",
+      "The Mughal phase",
+      "The Shunga and early Satavahana phase",
+      "The Gupta phase"
+    ],
+    "answer": 2,
+    "explanation": "Bharhut and Sanchi belong to the Shunga and Satavahana phase, the age of Puranic Hinduism and the proliferation of stupas, when the doctrine of the Buddha was not yet pictorial.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The first representations of the Buddha in anthropomorphic form appeared in which school of art?",
+    "options": [
+      "Gandhara and Mathura",
+      "Pallava and Chalukya",
+      "Chola and Vijayanagara",
+      "Deccan and Rashtrakuta"
+    ],
+    "answer": 0,
+    "explanation": "Under Kanishka and his successors, the Gandhara school produced a Hellenistic-style standing Buddha while Mathura developed a markedly indigenous image, both in the first century CE.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Kanishka coins found in the hoards of the northwest, numbering thirty-three, are significant because",
+    "options": [
+      "They show a trading guild of the Kushanas",
+      "They record the Buddhist council at Pataliputra",
+      "They establish the chronology of Kanishka's reign with the help of datable coins and inscriptions",
+      "They are the earliest gold coins of India"
+    ],
+    "answer": 2,
+    "explanation": "The coin hoards of the Kushana period, together with the Rabatak inscription dated to 58 CE, help fix Kanishka's accession and the chronology of the fourth council.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rabatak inscription, dated to 58 CE, is important for the study of",
+    "options": [
+      "The Sanchi stupa",
+      "The Ajanta paintings",
+      "The trade route to Rome",
+      "Kanishka's accession and the Great Hinayana monastery at Peshawar"
+    ],
+    "answer": 3,
+    "explanation": "The Rabatak inscription, found near Peshawar, records the dedication of a great Hinayana monastery by Kanishka and gives the earliest secure date for his reign.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kanishka era, an era used in inscriptions and coins in north-west India, began in",
+    "options": [
+      "1280 CE",
+      "78 CE",
+      "248 CE",
+      "320 CE"
+    ],
+    "answer": 1,
+    "explanation": "The Saka era began in 78 CE and the Kanishka era, widely used in north-western India, is conventionally dated from 78 CE as well.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Huna ruler is associated with the invasion of northern India in the fifth century CE?",
+    "options": [
+      "Mihirakula",
+      "Toramana",
+      "Prithivishena",
+      "Yashodharman"
+    ],
+    "answer": 0,
+    "explanation": "Mihirakula, also called Mihirakula or the Huna king, ruled about 500 CE and is remembered in the Chinese pilgrim accounts and the Kalhana's Rajatarangini.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Yashodharman's inscription at Khonmukh in the Ganga valley describes",
+    "options": [
+      "His conflict with the Pallavas",
+      "His donation to a Buddhist monastery",
+      "His victory over the Hunas and his rejection of a Huna overlord",
+      "His subjugation by the Hunas"
+    ],
+    "answer": 2,
+    "explanation": "The Khonmukh inscription celebrates Yashodharman's victory over the Hunas and his independence from their suzerainty, a key landmark in the history of the Ganga valley.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Toramana inscription of 470 CE, found at Eran, records",
+    "options": [
+      "The victory of Skandagupta over the Hunas",
+      "The dedication of the Badami cave temple",
+      "The donation of a dinara by Chandragupta II",
+      "The Huna ruler Toramana's grant of land in northern India"
+    ],
+    "answer": 3,
+    "explanation": "The Toramana inscription records grants of land to Brahmins and shows the Huna presence in the Ganga valley in the fifth century CE.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Chinese pilgrim Hiuen Tsang, who visited India during Harsha's reign, is also known as",
+    "options": [
+      "Xuanzang",
+      "Fa-Hien",
+      "I-Ching",
+      "Megasthenes"
+    ],
+    "answer": 0,
+    "explanation": "Hiuen Tsang, the Buddhist monk who travelled to India between 629 and 645 CE, is called Xuanzang in Chinese sources and wrote the Great Tang Records on the Western Regions.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Which Chinese pilgrit visited India during the reign of Harsha, about two centuries after Fa-Hien?",
+    "options": [
+      "Taibai",
+      "Hiuen Tsang",
+      "I-Ching",
+      "Marco Polo"
+    ],
+    "answer": 1,
+    "explanation": "Hiuen Tsang visited India in the seventh century CE during Harsha's reign and gave a detailed account of Indian cities, monasteries and society.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Chinese pilgrim who visited India in the early fifth century CE and wrote the Record of Buddhist Kingdoms was",
+    "options": [
+      "Fa-Hien",
+      "Hiuen Tsang",
+      "I-Ching",
+      "Taibai"
+    ],
+    "answer": 0,
+    "explanation": "Fa-Hien, who came to India about 399-414 CE, wrote the Record of Buddhist Kingdoms and gives a valuable account of the Gupta age.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Chinese monk who travelled to India and Sri Lanka between 671 and 695 CE and wrote the Chronicle of Buddhist Kingdoms was",
+    "options": [
+      "I-Ching",
+      "Xuanzang",
+      "Fa-Hien",
+      "Hiuen Tsang"
+    ],
+    "answer": 2,
+    "explanation": "I-Ching, a Chinese monk, travelled to India and Sri Lanka between 671 and 695 CE and wrote a detailed account of Buddhist sites and monasteries.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Huna ruler who was defeated by Skandagupta was",
+    "options": [
+      "Yashodharman",
+      "Toramana",
+      "Mihirakula",
+      "Prithivishena"
+    ],
+    "answer": 1,
+    "explanation": "Skandagupta's victory over the Hunas, described in the Eran inscription, halted their advance into the Ganga valley, and Mihirakula was his likely successor.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The decline of the Gupta empire is generally attributed to",
+    "options": [
+      "A direct invasion by the Chinese",
+      "The spread of Islam",
+      "A change in the copper coinage",
+      "Huna invasions, the rise of regional powers and administrative weakness"
+    ],
+    "answer": 3,
+    "explanation": "The Guptas declined after the Huna incursions of the fifth century CE, the growth of pushyabhuti and other regional states, and the erosion of the samanta system.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Which Gupta ruler is generally credited with the title of the father of Indian historiography?",
+    "options": [
+      "Skandagupta",
+      "Harsha",
+      "Samudragupta",
+      "Chandragupta II"
+    ],
+    "answer": 1,
+    "explanation": "Harsha is described in Banabhatta's Harshacharita as an eager patron of learning and the author of the Ratnavali, Pratimanasaka and Nagananda.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Chinese pilgrim Hiuen Tsang described which Indian ruler as a chakravartin, a universal monarch?",
+    "options": [
+      "Harsha",
+      "Samudragupta",
+      "Chandragupta II",
+      "Pulakeshin II"
+    ],
+    "answer": 0,
+    "explanation": "Hiuen Tsang attended Harsha's court at Kannauj and wrote that the king was a chakravartin whose authority extended over all the lands on the southern side of the Himalaya.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Pushyabhuti or Later Gupta dynasty, which ruled Kannauj, was founded by",
+    "options": [
+      "Shashanka",
+      "Grahavarman",
+      "Pushyabhuti",
+      "Harsha"
+    ],
+    "answer": 2,
+    "explanation": "Pushyabhuti, a grandson of the Gupta ruler Chandragupta II, founded the Later Gupta line at Kannauj; his son Shashanka is also well known.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which dynasty claimed descent from the Gupta line and ruled at Kannauj in the seventh century CE?",
+    "options": [
+      "Chalukyas of Badami",
+      "Palas of Bengal",
+      "Kalachuris of Tripuri",
+      "Pushyabhuti or Later Guptas"
+    ],
+    "answer": 3,
+    "explanation": "The Later Guptas or Pushyabhutis, with capitals at Kannauj, traced their lineage to the Guptas, and Harsha belonged to this line.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the Gupta period, the term samanta designated",
+    "options": [
+      "A class of artisan guilds",
+      "A type of Buddhist monastery",
+      "A subordinate or feudatory governor who held land in return for service",
+      "A state tax on merchandise"
+    ],
+    "answer": 2,
+    "explanation": "The samanta was a feudatory or royal official who governed a territory on the king's behalf and provided troops and revenue.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Gupta-period text is an early Sanskrit treatise on astronomy and mathematics attributed to Brahmagupta?",
+    "options": [
+      "Brahmasphutasiddhanta",
+      "Siddhanta Shiromani",
+      "Aryabhatiya",
+      "Pancha Siddhantika"
+    ],
+    "answer": 0,
+    "explanation": "Brahmagupta's Brahmasphutasiddhanta, written in 628 CE, contains the earliest known statement of the rules of zero in arithmetic.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Aryabhata, who wrote the Aryabhatiya in 499 CE, is associated with which Gupta-period ruler's court?",
+    "options": [
+      "Harsha",
+      "Chalukyas of Badami",
+      "Palas of Bengal",
+      "Gupta rulers of Magadha"
+    ],
+    "answer": 3,
+    "explanation": "Aryabhata wrote the Aryabhatiya during the reign of the Gupta ruler Skandagupta and stated his astronomical position of the earth on an orbit.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kamasutra, a classical text on love and life, was written by",
+    "options": [
+      "Dandin",
+      "Vatsyayana",
+      "Vatsyayana's teacher Panchatatra",
+      "Kamandaka"
+    ],
+    "answer": 1,
+    "explanation": "Vatsyayana's Kamasutra, a second-century-CE text, is a treatise on the nature of love and the life of the courtly and urbanite.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Charaka Samhita and the Sushruta Samhita are ancient Indian texts on",
+    "options": [
+      "Drama and poetics",
+      "Medicine and surgery",
+      "Law and taxation",
+      "Astronomy and mathematics"
+    ],
+    "answer": 1,
+    "explanation": "Charaka's treatise deals with internal medicine while Sushruta's deals with surgery, including ophthalmic and plastic surgery, forming the core of Ayurveda.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Lion Capital of Sarni or Sarnath, the national emblem of India, was originally erected by",
+    "options": [
+      "Chandragupta II",
+      "Kanishka",
+      "Harsha",
+      "Ashoka"
+    ],
+    "answer": 3,
+    "explanation": "The four lions back to back atop the Ashokan pillar at Sarnath was originally a Buddhist monument and is now the State Emblem of India.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "Static GK",
+    "year": null
+  },
+  {
+    "q": "The Sanchi inscription of the Gupta period records the donation of a village by",
+    "options": [
+      "Chandragupta II",
+      "Samudragupta",
+      "Skandagupta",
+      "Kumaragupta I"
+    ],
+    "answer": 0,
+    "explanation": "The Sanchi inscription of Chandragupta II, dated to 400-402 CE, records the grant of the village of Besnagar to the Buddhist Sangha at Sanchi.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "During the Gupta period, which two cults became increasingly popular alongside the worship of Vishnu?",
+    "options": [
+      "Jain and Buddhist",
+      "Skanda and Ganapati alone",
+      "Vaishnava and Shaiva",
+      "Shaiva and Jain"
+    ],
+    "answer": 2,
+    "explanation": "The Bhagavata or Vaishnava cult and the Shaiva cult, associated respectively with the Bhagavata Purana and the Pancharatra literature, flourished in the Gupta age.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Sarvajna or Pasupata sect, which flourished in the Gupta age, was",
+    "options": [
+      "A Vaishnava sect of the Pancharatra",
+      "A Buddhist esoteric school",
+      "A Jain reform movement",
+      "A Shaiva sect holding the doctrine of Pashupati and panRealism"
+    ],
+    "answer": 3,
+    "explanation": "The Pasupatas, devotees of Pashupati, taught that reality pervades all substances, and they were patronised by several Gupta rulers.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Hiuen Tsang studied at which ancient university that had been founded during the Gupta period and was later enlarged by Harsha?",
+    "options": [
+      "Nalanda",
+      "Takshashila",
+      "Vikramashila",
+      "Vallabhi"
+    ],
+    "answer": 0,
+    "explanation": "Hiuen Tsang studied at Nalanda under the guidance of Sighabhuti and Shinasena and described the university in glowing terms.",
+    "difficulty": "easy",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Which South Indian king is said to have built the rock-cut temple at Mahabalipuram?",
+    "options": [
+      "Rajaraja Chola",
+      "Narasimhavarman I, popularly known as Mamalla",
+      "Rajasimha II",
+      "Mahendravarman I"
+    ],
+    "answer": 1,
+    "explanation": "The rock-cut monolithic rathas and cave temples at Mahabalipuram were created under Narasimhavarman I Mamalla of the Pallava dynasty in the seventh century CE.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kailasanatha temple at Kanchipuram was built by which Pallava ruler?",
+    "options": [
+      "Mahendravarman I",
+      "Avani Rajendra Pulakeshin II",
+      "Rajasimha II",
+      "Narasimhavarman I"
+    ],
+    "answer": 2,
+    "explanation": "Rajasimha II, also called Narasimhavarman II, built the Kailasanatha temple at Kanchipuram and the Shore Temple at Mahabalipuram.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Shakas or Indo-Scythians who invaded north-west India are known in the Purana as",
+    "options": [
+      "Yavana",
+      "Pahlava",
+      "Chuluka",
+      "Saka"
+    ],
+    "answer": 3,
+    "explanation": "Purana sources name the Scythians Shaka, while the term Yavana is used for the Greeks and Pahlava for the Parthians.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Kushana ruler is said to have conquered the whole of northern India, from Bactria to Pataliputra?",
+    "options": [
+      "Vima Kadphises",
+      "Huvishka",
+      "Kanishka",
+      "Kujula Kadphises"
+    ],
+    "answer": 2,
+    "explanation": "Kanishka's empire stretched from Bactria in the west to the Ganga valley in the east and from Central Asia to the Deccan in the south.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kujula Kadphises, the founder of the Kushana dynasty, was of uncertain origin. Which origin is generally accepted?",
+    "options": [
+      "Nanda",
+      "Greek or Central Asian",
+      "Gupta",
+      "Satavahana"
+    ],
+    "answer": 1,
+    "explanation": "Kujula Kadphises is described as a Yavana or Central Asian chief who founded the Kushana line in north-west India.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Kanishka's support for the Mahayana school is attested by",
+    "options": [
+      "His sponsorship of the Fourth Buddhist Council and the Mahavibhasha at Kashmir",
+      "His support for the Theravada school in Sri Lanka",
+      "His prohibition of Buddhist monasteries",
+      "His patronage of the Ajanta caves alone"
+    ],
+    "answer": 0,
+    "explanation": "Kanishka convened the fourth council at Kundalvana and supported the Kashmir scholars who wrote the Mahavibhasha, and his reign marks the high tide of Mahayana Buddhism.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mahavibhasha, a commentary on the Buddhist scriptures composed under Kanishka, was written by which group of scholars?",
+    "options": [
+      "The Pali scholars of Sri Lanka",
+      "The Nalanda monks of the Gupta age",
+      "The Gandhara school of artists",
+      "The Kashmir scholars led by Vasumitra"
+    ],
+    "answer": 3,
+    "explanation": "The fourth council appointed a committee of Kashmir scholars under Vasumitra to compose the Mahavibhasha, the great Sanskrit commentary on the Tripitaka.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Puranas, which were reshaped during the post-Mauryan period, are important because they",
+    "options": [
+      "Were the earliest inscriptions of India",
+      "Provide a continuous dynastic and religious narrative and support the sectarian cults",
+      "Were the official administrative manuals of the Mauryas",
+      "Record the trade with Rome in detail"
+    ],
+    "answer": 1,
+    "explanation": "The Puranas combine genealogical lists with religious narratives and were used to legitimate dynastic claims, particularly by the Guptas and the Vakatakas.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Mauryan-era development is reflected in the Ashokan emphasis on roads, wells, rest houses and the planting of trees?",
+    "options": [
+      "A state concern for public works and the movement of trade",
+      "The creation of a standing professional army",
+      "The introduction of the feudal system",
+      "The beginning of the postal system of the British era"
+    ],
+    "answer": 0,
+    "explanation": "Ashoka's inscriptions mention roads, wells, bridges and shade trees, showing attention to infrastructure that also served trade and administrative movement.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Megasthenes' account of Mauryan society mentions six classes. Which of the following is NOT among them?",
+    "options": [
+      "Farmers",
+      "Artisans",
+      "Brahmins engaged in philosophical debate",
+      "Hunters and wild tribesmen"
+    ],
+    "answer": 2,
+    "explanation": "Megasthenes lists philosophers, hunters, farmers, artisans, traders and hired labourers, but Brahmins appear in the fourth and fifth stages of life rather than as a separate occupational class.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Megasthenes described the city of Pataliputra as having",
+    "options": [
+      "Parallel wooden palaces and the Mauryan royal court at the centre of a grid of streets",
+      "Circular ramparts with a single northern gate",
+      "No royal palace but a large merchant quarter",
+      "A network of canals with no streets"
+    ],
+    "answer": 0,
+    "explanation": "Megasthenes describes Pataliputra's regularity, its palaces of wood and its great wooden palisade, and the arch of the royal palace was occupied by the king's court.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mauryan state's revenue resources included taxes on land, trade and manufactures. Which tax is known to have existed?",
+    "options": [
+      "The jamabandi",
+      "The bhogi or bhaga land tax",
+      "The zabt",
+      "The peshkash"
+    ],
+    "answer": 1,
+    "explanation": "The bhogi or bhaga was a land tax on crops levied under the Mauryas, whereas zabt, peshkash and jamabandi belong to the Sultanate and later revenue systems.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Gupta-period literary work is a collection of stories about the loves of gods and is also attributed to Vyasa?",
+    "options": [
+      "The Brahmavaivarta Purana",
+      "The Uttararamacharita",
+      "The Harivamsha",
+      "The Mahabharata"
+    ],
+    "answer": 2,
+    "explanation": "The Harivamsha, part of the Mahabharata, narrates the childhood of Krishna and is generally dated to the Gupta period.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bhagavata Purana, which helped consolidate the Vaishnava cult, was composed in which language?",
+    "options": [
+      "Pali",
+      "Prakrit",
+      "Tamil",
+      "Sanskrit"
+    ],
+    "answer": 3,
+    "explanation": "The Bhagavata Purana was written in Sanskrit, probably in the Gupta period, and helped establish the worship of Vishnu and his avataras.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Gupta-period poet wrote the Uttararamacharita and the Pratimanasaka?",
+    "options": [
+      "Dandin",
+      "Bana",
+      "Bhavabhuti",
+      "Vararuci"
+    ],
+    "answer": 3,
+    "explanation": "Vararuci, also called Vararuci or Bhuvaruchi, wrote the Uttararamacharita on the story of the Ramayana and the Pratimanasaka, a play on the recognition of Rama.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kamandakiya Nitisara, an early Indian treatise on statecraft, was written by",
+    "options": [
+      "Kamandaka",
+      "Kautilya",
+      "Chanakya",
+      "Yaska"
+    ],
+    "answer": 0,
+    "explanation": "Kamandaka's Kamandakiya Nitisara is a short Artha-shastra text that discusses the acquisition and preservation of the kingdom and the training of the king.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sev Sacrifice described in the Mahabharata was performed by which ruler as an act of atonement?",
+    "options": [
+      "Raja Janamejaya",
+      "Duryodhana",
+      "Yama",
+      "Krishna"
+    ],
+    "answer": 2,
+    "explanation": "The Sev or Sarvamedha sacrifice is described in the Mahabharata as being performed by the serpent king Takshaka and later by Janamejaya, who sought to destroy the serpents.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Gupta-era development is associated with the Bhitargaon temple in Kanpur?",
+    "options": [
+      "A brick stupa of the Nalanda type",
+      "A stone temple showing a Nagara style with a curvilinear roof",
+      "A rock-cut cave temple of the Pallava type",
+      "A stupa of the Sanchi type"
+    ],
+    "answer": 1,
+    "explanation": "The Bhitargaon temple, one of the earliest surviving stone temples in the Nagara tradition, is generally assigned to the Gupta period.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Dashavatara temple at Deogarh, near modern Khajuraho, is attributed to which Gupta ruler?",
+    "options": [
+      "Samudragupta",
+      "Harsha",
+      "Bhavavarman",
+      "Chandragupta II"
+    ],
+    "answer": 3,
+    "explanation": "The Dashavatara temple at Deogarh is generally attributed to Chandragupta II Vikramaditya and shows the Nagara style of temple architecture with a curvilinear roof.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which inscription records that Harsha's reign saw the production of the silver coin Suvarnanka?",
+    "options": [
+      "The Eran inscription",
+      "The Sanchi inscription",
+      "The Aihole inscription of Pulakeshin II",
+      "The Harsha inscription of Thanesar"
+    ],
+    "answer": 2,
+    "explanation": "The Aihole inscription of Pulakeshin II, written by Ravikirti, mentions the silver coin Suvarnanka struck by Harsha and the story of the courtesan Vasavadatta.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Maukhari dynasty, which rose in the Ganga valley after the Guptas, had its capital at",
+    "options": [
+      "Ujjain",
+      "Kannauj",
+      "Thanesar",
+      "Tosali"
+    ],
+    "answer": 1,
+    "explanation": "The Maukhari rulers of the Ganga valley, with their capital at Kannauj, were contemporaries and rivals of the Later Guptas or Pushyabhutis.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Chinese pilgrim Hiuen Tsang noticed at Mathura the image of a colossal standing Buddha. Which king had built it?",
+    "options": [
+      "Kanishka",
+      "Chandragupta II",
+      "Harsha",
+      "Ashoka"
+    ],
+    "answer": 0,
+    "explanation": "Hiuen Tsang described a huge standing Buddha image at Mathura erected by Kanishka, which was one of the first such colossal images in India.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Chalukyan ruler Pulakeshin II defeated the Nanda king of the Gangetic Doab and the Pallava king of Kanchi in which year?",
+    "options": [
+      "634 CE",
+      "712 CE",
+      "753 CE",
+      "972 CE"
+    ],
+    "answer": 0,
+    "explanation": "The Aihole inscription states that Pulakeshin II defeated the armies of the Nanda, the Pallava of Kanchi and the Chalukya of Vatapi, and raided the Chalukya capital in 634 CE.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Which Maharashtrian dynasty founded the Badami cave temples and the temple at Aihole?",
+    "options": [
+      "Rashtrakutas",
+      "Pallavas",
+      "Pandyas",
+      "Chalukyas of Badami"
+    ],
+    "answer": 3,
+    "explanation": "The Chalukyas of Badami, with capitals at Badami in Karnataka, patronised the cave temples of Badami, Aihole and Pattadakal and the Kailasa temple at Ellora.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which inscription, written by the court poet Ravikirti, praises the Rashtrakuta chieftain Dantidurga for reviving the fortunes of his family?",
+    "options": [
+      "The Allahabad pillar inscription",
+      "The Sanchi inscription of Chandragupta II",
+      "The Aihole inscription of Pulakeshin II",
+      "The Junagadh inscription"
+    ],
+    "answer": 2,
+    "explanation": "The Aihole inscription praises Dantidurga for rescuing the fallen fortunes of the Rashtrakuta family, an important source for their early history.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Rashtrakuta ruler is credited with the Kailasa temple at Ellora cut out of a single rock?",
+    "options": [
+      "Amoghavarsha I",
+      "Krishna I",
+      "Dantidurga",
+      "Govinda III"
+    ],
+    "answer": 1,
+    "explanation": "The Kailasa temple at Ellora was commissioned by Krishna I in the eighth century CE and was excavated top down from a single mass of rock.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Rashtrakuta king wrote the encyclopaedic Kavirajamarga?",
+    "options": [
+      "Dantidurga",
+      "Amoghavarsha I",
+      "Krishna I",
+      "Govinda III"
+    ],
+    "answer": 1,
+    "explanation": "Amoghavarsha I, a noted patron of learning, wrote the Kavirajamarga, an early work of old Kannada literature, and his court included the playwright Adikavi Pujapari.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Dakhshina Ramayana, an important early work of Kannada literature, was written by",
+    "options": [
+      "Adikavi Pujapari",
+      "Amoghavarsha I",
+      "Basavanna",
+      "Pampa"
+    ],
+    "answer": 0,
+    "explanation": "Adikavi Pujapari, a court poet of Amoghavarsha I, wrote the Dakhshina Ramayana, a Kannada rendering of the Ramayana story.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Pallava ruler is credited with the musical treatise called the Abhinava Dasakumara Charita?",
+    "options": [
+      "Narasimhavarman I",
+      "Rajasimha II",
+      "Simhavishnu",
+      "Mahendravarman I"
+    ],
+    "answer": 3,
+    "explanation": "Mahendravarman I, a great scholar, wrote the Abhinava Dasakumara Charita, a play of rare literary merit and an early landmark of Sanskrit drama.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Indian ruler is described by the Chinese pilgrim as having a golden statue of the Buddha and a stone figure of the Bodhisattva?",
+    "options": [
+      "Kanishka",
+      "Samudragupta",
+      "Harsha",
+      "Ashoka"
+    ],
+    "answer": 2,
+    "explanation": "Hiuen Tsang notes that in the monastery of the king's own construction there was a golden image of the Buddha of the king's own height, showing the extent of Harsha's patronage.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Which Chinese pilgrim visited the Gupta India and recorded that the cities were well governed and the people prosperous?",
+    "options": [
+      "Fa-Hien",
+      "Hiuen Tsang",
+      "I-Ching",
+      "Taibai"
+    ],
+    "answer": 0,
+    "explanation": "Fa-Hien's Record of Buddhist Kingdoms praises the efficient administration, the absence of cruelty and the general prosperity of Gupta India.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Which Gupta-period development is associated with the Mathura school of sculpture?",
+    "options": [
+      "The making of life-size metal images by lost-wax casting",
+      "A synthesis of indigenous and foreign artistic elements",
+      "The first anthropomorphic images of the Buddha",
+      "Realistic portraiture of the Roman type"
+    ],
+    "answer": 1,
+    "explanation": "The Mathura school developed a distinctly Indian idiom drawing on the local tradition, the Kushana and the Hellenistic world, which later influenced the Gupta sculptors.",
+    "difficulty": "hard",
+    "category": "maurya-gupta-classical",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mauryan and Gupta periods together are known for the development of which of the following?",
+    "options": [
+      "The plantation economy",
+      "The joint stock company",
+      "Land routes with South and South-East Asia and the growth of urban centres",
+      "A fully developed maritime navy"
+    ],
+    "answer": 2,
+    "explanation": "Indian trade with South and South-East Asia flourished from about the first century BCE and Mauryan and Gupta urban centres such as Pataliputra, Ayodhya and Kaveripattinam grew on this traffic.",
+    "difficulty": "medium",
+    "category": "maurya-gupta-classical",
+    "source": "NCERT Class XII",
+    "year": null
+  }
+]

@@ -1,0 +1,737 @@
+[
+  {
+    "q": "The 'NITI Aayog' has replaced the Planning Commission with a three-tier structure consisting of:",
+    "options": [
+      "a vision, a mission and a vision implementation committee",
+      "a five year plan, a ten year plan and a twenty year plan",
+      "a national, state and district framework",
+      "a vision, a strategy and an action agenda for fifteen, seven and three years respectively"
+    ],
+    "answer": 3,
+    "explanation": "The NITI Aayog works through a fifteen year vision document, a seven year strategy document and a three year action agenda, with a Governing Council that includes all the Chief Ministers and a Union Minister of State for Planning.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "NITI Aayog",
+    "year": null
+  },
+  {
+    "q": "The 'Aspirational Districts Programme' was launched with how many aspirational districts?",
+    "options": [
+      "500",
+      "250",
+      "112",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "The Aspirational Districts Programme was rolled out in 2021 with 112 districts selected on the basis of the number of deprived households, and the programme is executed with the convergence of the central and state schemes in the identified areas.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "NITI Aayog",
+    "year": null
+  },
+  {
+    "q": "The 'Eleventh Five Year Plan' (2007-12) was titled:",
+    "options": [
+      "Faster, Inclusive and Sustainable Growth",
+      "Transforming India",
+      "Faster Growth for All",
+      "Faster, Inclusive and Sustainable Development"
+    ],
+    "answer": 3,
+    "explanation": "The Eleventh Plan was titled 'Faster, Inclusive and Sustainable Development' and it emphasised the reduction of the poverty, the employment generation, the universalisation of the elementary education and the women's empowerment.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Amrit Kaal' refers to:",
+    "options": [
+      "the period of the 15th Five Year Plan",
+      "the period of the Fifteenth Finance Commission",
+      "the 25 year period from 2022-23 to 2047-48 envisaged as the second phase of the developmental journey of India",
+      "the centenary phase of the Indian National Congress"
+    ],
+    "answer": 2,
+    "explanation": "The Amrit Kaal, announced by the Prime Minister at the time of the 75th anniversary of independence in 2022, covers the period from 2022-23 to 2047-48 and is built around the ideas of development, heritage, cooperation and prosperity.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Human Development Index' is published by the United Nations Development Programme and measures:",
+    "options": [
+      "the political, economic and social participation of the citizens",
+      "the life expectancy, the education index and the gross national income per capita",
+      "the access to health care, education and sanitation alone",
+      "the per capita income and the inequality in its distribution"
+    ],
+    "answer": 1,
+    "explanation": "The HDI, published since 1990, combines the life expectancy at birth, the education index, based on the mean and expected years of schooling, and the log of the gross national income per capita at purchasing power parity.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "UNDP",
+    "year": null
+  },
+  {
+    "q": "Under the 'Global Multidimensional Poverty Index', a person is classified as poor when the weighted deprivation score is:",
+    "options": [
+      "one-third or more",
+      "one-half or more",
+      "one-fourth or more",
+      "any positive score"
+    ],
+    "answer": 0,
+    "explanation": "In the multidimensional poverty index the ten indicators are weighted equally, and a person is counted as poor when the weighted deprivation score is one-third or more, and a household is poor when a member is poor.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "UNDP",
+    "year": null
+  },
+  {
+    "q": "The 'Global Innovation Index' ranks the economies on the basis of:",
+    "options": [
+      "the number of the start-ups registered in the country",
+      "seven key pillars, including the human capital, the market efficiency and the business sophistication",
+      "the number of the patents filed alone",
+      "the spending on research and development only"
+    ],
+    "answer": 1,
+    "explanation": "The GII uses seven key pillars, namely the institutions, the human capital and the research, the infrastructure, the market efficiency, the business sophistication, the knowledge outputs and the creative outputs, and it also shows the strengths and the weaknesses of each economy.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "WIPO",
+    "year": null
+  },
+  {
+    "q": "The 'Environmental Performance Index' is produced by:",
+    "options": [
+      "the OECD and the European Environment Agency",
+      "the World Resources Institute and the World Bank",
+      "the Yale Center for Environmental Law and Policy and the Columbia University",
+      "the United Nations Environment Programme alone"
+    ],
+    "answer": 2,
+    "explanation": "The EPI is published by the Yale Center for Environmental Law and Policy with the Center for International Earth Science Information Network at Columbia University, and it rates the countries on a range of environmental indicators.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "Yale University",
+    "year": null
+  },
+  {
+    "q": "The 'Global Peace Index' measures the national and the international levels of:",
+    "options": [
+      "the trade in the arms",
+      "the military expenditure of the countries",
+      "the number of the peacekeeping operations",
+      "peace and the absence of violence, and the underlying factors of the safety and the security of the countries"
+    ],
+    "answer": 3,
+    "explanation": "The Global Peace Index of the Institute for Economics and Peace measures the national and the international levels of peace and the absence of violence, and it scores each country on the factors of the safety and the security, the ongoing conflict and the militarisation.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "Institute for Economics and Peace",
+    "year": null
+  },
+  {
+    "q": "The 'Corruption Perceptions Index' is based on:",
+    "options": [
+      "the perceptions of the experts and the business community on the public sector corruption",
+      "the audited accounts of the government",
+      "the number of the cases registered by the Lok Sabha",
+      "the conviction rates of the anti-corruption courts"
+    ],
+    "answer": 0,
+    "explanation": "The CPI of Transparency International is compiled from the perceptions of the experts and the business community on the extent of the public sector corruption, and it is accompanied by the Control of Corruption Index.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "Transparency International",
+    "year": null
+  },
+  {
+    "q": "The 'Rule of Law Index' is published by:",
+    "options": [
+      "the Economist Intelligence Unit",
+      "the Freedom House",
+      "the World Justice Project",
+      "Transparency International"
+    ],
+    "answer": 2,
+    "explanation": "The Rule of Law Index of the World Justice Project measures the factors and constraints on the exercise of public power, and the project also publishes the Annual Report on the Rule of Law.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Democracy Index' is produced by:",
+    "options": [
+      "the Freedom House",
+      "the Bertelsmann Foundation",
+      "the International IDEA",
+      "the Economist Intelligence Unit"
+    ],
+    "answer": 3,
+    "explanation": "The Democracy Index of the Economist Intelligence Unit uses five categories, namely electoral process and pluralism, functioning of the government, political participation, political culture and civil liberties.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "EIU",
+    "year": null
+  },
+  {
+    "q": "The 'Press Freedom Index' is published by:",
+    "options": [
+      "Reporters Without Borders",
+      "the World Press Institute",
+      "the Committee to Protect Journalists",
+      "the International Federation of Journalists"
+    ],
+    "answer": 0,
+    "explanation": "Reporters Without Borders publishes the World Press Freedom Index, and its annual report also carries the world ranking of the countries on the basis of the situation of the media and the freedom of journalists.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "RSF",
+    "year": null
+  },
+  {
+    "q": "The 'Global Hunger Index' is produced by:",
+    "options": [
+      "the OECD and the World Bank",
+      "Concern Worldwide and the World Food Programme",
+      "the World Bank and the FAO",
+      "the IFAD and the WFP"
+    ],
+    "answer": 1,
+    "explanation": "The GHI is calculated by Concern Worldwide with the World Food Programme, and it ranks the countries on the four indicators of the undernourishment, the child wasting, the child stunting and the overweight prevalence.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "Concern Worldwide",
+    "year": null
+  },
+  {
+    "q": "The 'World Happiness Report' is produced by the:",
+    "options": [
+      "the World Economic Forum",
+      "the OECD",
+      "the World Values Survey Association",
+      "the Sustainable Development Solutions Network and the World Happiness Forum"
+    ],
+    "answer": 3,
+    "explanation": "The World Happiness Report is produced by the Sustainable Development Solutions Network together with the World Happiness Forum, and it uses the Gallup World Poll data to rank the countries on the subjective well being.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "SDSN",
+    "year": null
+  },
+  {
+    "q": "The 'World Air Quality Report' is published by:",
+    "options": [
+      "the World Bank",
+      "IQAir",
+      "the Centre for Science and Environment",
+      "the World Meteorological Organization"
+    ],
+    "answer": 1,
+    "explanation": "IQAir publishes the annual World Air Quality Report based on the data from the monitoring stations of more than 100 countries, and the report ranks both the countries and the cities and the most polluted places in the world.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "IQAir",
+    "year": null
+  },
+  {
+    "q": "The 'SDG India Index' of the NITI Aayog is prepared with the technical support of the:",
+    "options": [
+      "Indian Council of Social Science Research",
+      "Centre for Policy Research",
+      "Indian Statistical Institute",
+      "Indian Institute of Management"
+    ],
+    "answer": 2,
+    "explanation": "The SDG India Index is prepared by the NITI Aayog with the technical support of the Indian Statistical Institute, and it uses 16 pillars drawn from the seventeen Sustainable Development Goals with a district-level assessment.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "NITI Aayog",
+    "year": null
+  },
+  {
+    "q": "The 'Global Findex' is the World Bank's database on:",
+    "options": [
+      "financial inclusion, the access to and the use of the financial services by the individuals",
+      "the international trade of the services",
+      "the public debt of the countries",
+      "the remittances received by the developing countries"
+    ],
+    "answer": 0,
+    "explanation": "The Global Findex, released every three years, is the World Bank's flagship database on financial inclusion and it measures the account ownership, the savings, the borrowing, the payments and the financial resilience of the adults.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "World Bank",
+    "year": null
+  },
+  {
+    "q": "The 'Financial Inclusion Index' is published by the:",
+    "options": [
+      "State Bank of India",
+      "Reserve Bank of India",
+      "NITI Aayog",
+      "Ministry of Finance"
+    ],
+    "answer": 1,
+    "explanation": "The FI-Index, published annually by the Reserve Bank of India, has three parameters, namely the account ownership, the payments and the savings and the credit, and it was first released for 2021.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'World Competitiveness Ranking' is published by the:",
+    "options": [
+      "Institute for Management Development, Lausanne",
+      "the World Bank",
+      "the OECD",
+      "the World Economic Forum"
+    ],
+    "answer": 0,
+    "explanation": "The IMD World Competitiveness Ranking assesses the enabling environment of the economies for investment and the competitiveness of the enterprises, and India has consistently been ranked in the top fifty of the rankings.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "IMD",
+    "year": null
+  },
+  {
+    "q": "Under the MGNREGA, the social audit of the works and the accounts is to be conducted by:",
+    "options": [
+      "the CAG alone",
+      "the District Collector",
+      "the Gram Sabha or the social audit institutions recognised by the State",
+      "the Prime Minister's nominee"
+    ],
+    "answer": 2,
+    "explanation": "The MGNREGA requires the conduct of the social audit by the Gram Sabha or by the social audit institutions recognised by the State at least once every six months, and the audit reports are placed before the Gram Sabha for the public discussion.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Basic Environmental Services Review' of the environment sector in India is conducted by:",
+    "options": [
+      "the CAG alone",
+      "the Central Pollution Control Board",
+      "the NITI Aayog alone",
+      "the Ministry of Environment, Forest and Climate Change with the NITI Aayog"
+    ],
+    "answer": 3,
+    "explanation": "The Basic Environmental Services Review is undertaken by the Ministry of Environment, Forest and Climate Change in partnership with the NITI Aayog to assess the performance of the States on the key indicators of air quality, water quality, solid waste and sanitation.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "MoEFCC",
+    "year": null
+  },
+  {
+    "q": "The 'India State of the Environment Report' is prepared by:",
+    "options": [
+      "the Ministry of Environment, Forest and Climate Change",
+      "the Centre for Science and Environment",
+      "the Zoological Survey of India",
+      "the Botanical Survey of India"
+    ],
+    "answer": 1,
+    "explanation": "The India State of the Environment Report, prepared biennially by the Centre for Science and Environment, is the official national report on the state of the environment and is submitted to the Minister of Environment, Forest and Climate Change.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "CSE",
+    "year": null
+  },
+  {
+    "q": "The 'All India Household Consumption Expenditure Survey' for 2022-23 was conducted by the:",
+    "options": [
+      "National Statistical Office of the Ministry of Statistics and Programme Implementation",
+      "Reserve Bank of India",
+      "Central Board of Direct Taxes",
+      "Ministry of Labour and Employment"
+    ],
+    "answer": 0,
+    "explanation": "The PLFS is conducted by the National Statistical Office, and since 2017-18 it has been conducted annually with quarterly estimates of the labour market indicators, replacing the quinquennial employment-unemployment surveys.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "MoSPI",
+    "year": null
+  },
+  {
+    "q": "The 'Working Capital Management' of the Government of India is handled by the:",
+    "options": [
+      "National Accounts and Statistics Office",
+      "Reserve Bank of India",
+      "Ministry of Finance",
+      "Controller General of Accounts"
+    ],
+    "answer": 3,
+    "explanation": "The Controller General of Accounts, under the Department of Economic Affairs, prepares and executes the annual financial statements and looks after the cash and the expenditure management of the government.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Economic Census' of India is conducted:",
+    "options": [
+      "once in ten years by the Registrar General",
+      "every three years by the NITI Aayog",
+      "every five years, the seventh having been conducted in 2019",
+      "annually by the Reserve Bank of India"
+    ],
+    "answer": 2,
+    "explanation": "The Economic Census provides the base for the estimates of the employment and the enterprise structure of the country, and the seventh Economic Census was conducted in 2019 with the reference period of 2017-18.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "MoSPI",
+    "year": null
+  },
+  {
+    "q": "The 'National Crime Records Bureau' publishes annually, among others, a report on:",
+    "options": [
+      "the state of the environment",
+      "the foodgrain production",
+      "the price of the essential commodities",
+      "accidental deaths in India, with the state-wise data and the causes"
+    ],
+    "answer": 3,
+    "explanation": "The NCRB publishes the 'Accidental Deaths and Suicides in India' report along with the data on crimes against women, and the 'Causes of Death' report gives the state-wise profile of the accidental deaths.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "NCRB",
+    "year": null
+  },
+  {
+    "q": "The 'World Energy Outlook' is published by the:",
+    "options": [
+      "Organisation for Economic Co-operation and Development",
+      "International Renewable Energy Agency",
+      "International Energy Agency",
+      "World Energy Council"
+    ],
+    "answer": 2,
+    "explanation": "The World Energy Outlook of the IEA, published annually since 1993, is the most authoritative source of the energy market projections and the scenarios of the agency.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "IEA",
+    "year": null
+  },
+  {
+    "q": "The 'World Economic Outlook' is published by the:",
+    "options": [
+      "the OECD",
+      "International Monetary Fund",
+      "the United Nations Conference on Trade and Development",
+      "the World Bank"
+    ],
+    "answer": 1,
+    "explanation": "The WEO, published twice a year by the IMF, presents the projections and the scenario analysis for the world economy and is the standard reference for the global growth and the inflation outlook.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "IMF",
+    "year": null
+  },
+  {
+    "q": "The 'Global Economic Prospects' is published by the:",
+    "options": [
+      "the World Bank",
+      "the IMF",
+      "the Asian Development Bank",
+      "the OECD"
+    ],
+    "answer": 0,
+    "explanation": "The Global Economic Prospects of the World Bank provides the forecasts of the national accounts of the individual countries, and the January edition carries the outlook for the following two years with a focus on the long-term growth.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "World Bank",
+    "year": null
+  },
+  {
+    "q": "The 'Travel and Tourism Development Index' is published by the:",
+    "options": [
+      "the World Travel and Tourism Council",
+      "the World Economic Forum",
+      "the United Nations World Tourism Organization",
+      "the OECD"
+    ],
+    "answer": 1,
+    "explanation": "The Travel and Tourism Development Index of the World Economic Forum, formerly the Travel and Tourism Competitiveness Index, benchmarks the countries on the enabling factors for the travel and tourism sector.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "WEF",
+    "year": null
+  },
+  {
+    "q": "The 'Henley Passport Index' measures:",
+    "options": [
+      "the number of destinations to which the citizens of a country may travel without a prior visa",
+      "the strength of the passport of a country in terms of its economic value",
+      "the number of the countries that issue the visa-free entry to the nationals of a country",
+      "the competitiveness of the aviation industry"
+    ],
+    "answer": 0,
+    "explanation": "The Henley Passport Index, published by Henley and Partners, ranks the countries on the number of destinations their citizens can access without a prior visa, and the ranking of the Indian passport has moved up markedly over the past decade.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "Henley and Partners",
+    "year": null
+  },
+  {
+    "q": "The 'World Intellectual Property Indicators' are published by the:",
+    "options": [
+      "the European Patent Office",
+      "the OECD",
+      "the World Bank",
+      "World Intellectual Property Organization"
+    ],
+    "answer": 3,
+    "explanation": "The World Intellectual Property Indicators, a yearly publication of the WIPO, collates the data on the patent, the trademark and the industrial design filings of the world and supports the Global Innovation Index.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "WIPO",
+    "year": null
+  },
+  {
+    "q": "The 'World Giving Report' is produced by the:",
+    "options": [
+      "the World Bank",
+      "the United Nations Fund for Development",
+      "Charities Aid Foundation",
+      "the OECD"
+    ],
+    "answer": 2,
+    "explanation": "The Charities Aid Foundation publishes the World Giving Report, which compares the giving behaviour of the countries and the reasons for the giving, and the index is published on the eve of the International Day of Charity.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Global Soft Power Index' is published by:",
+    "options": [
+      "the World Economic Forum",
+      "the Economist Intelligence Unit",
+      "the University of Southern California",
+      "Brand Finance"
+    ],
+    "answer": 3,
+    "explanation": "Brand Finance publishes the Global Soft Power Index, which evaluates and ranks the nations on the strength of their brands, including the reputation of the governments, the international education, the culture, the media and the commerce.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "Brand Finance",
+    "year": null
+  },
+  {
+    "q": "The 'Sustainable Development Goals Report' is published annually by:",
+    "options": [
+      "the NITI Aayog",
+      "the OECD",
+      "the United Nations",
+      "the World Bank"
+    ],
+    "answer": 2,
+    "explanation": "The Sustainable Development Goals Report of the United Nations presents the global progress towards the seventeen goals and the twenty-three targets, and the Indian version of the report is brought out by the NITI Aayog.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "United Nations",
+    "year": null
+  },
+  {
+    "q": "The 'National Payments Corporation of India' was set up in the year:",
+    "options": [
+      "2012",
+      "2009",
+      "2016",
+      "2004"
+    ],
+    "answer": 1,
+    "explanation": "The National Payments Corporation of India was incorporated in 2009 under the guidance of the Reserve Bank of India and the Department of Posts to operate the retail payment systems, and it operates the UPI, the IMPS and the RuPay.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "NPCI",
+    "year": null
+  },
+  {
+    "q": "The 'State Domestic Product' of the Indian States is estimated by:",
+    "options": [
+      "the State Directorates of Economics and Statistics in coordination with the National Statistical Office",
+      "the Union Ministry of Finance",
+      "the Reserve Bank of India",
+      "the NITI Aayog"
+    ],
+    "answer": 0,
+    "explanation": "The state domestic product and the state income are estimated by the respective Directorates of Economics and Statistics of the States in coordination with the National Statistical Office, and the guidelines are evolved by the Central Advisory Board of Statistics.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "MoSPI",
+    "year": null
+  },
+  {
+    "q": "The 'Projections of Population' for India from 2011 to 2036 were prepared by:",
+    "options": [
+      "the National Statistical Office",
+      "the Planning Commission",
+      "the Indian Statistical Institute",
+      "the National Commission on Population"
+    ],
+    "answer": 3,
+    "explanation": "The National Commission on Population, set up in 2000, prepared the 'Projections of Population for India and the States 2011-2036', which has been adopted as the official basis for the planning and the projection exercises.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the recommendations of the Fifteenth Finance Commission, the grants to the States are released as:",
+    "options": [
+      "a single grant on a need basis",
+      "a tied grant and an untied grant",
+      "a performance-linked grant only",
+      "a grant released directly to the Panchayats"
+    ],
+    "answer": 1,
+    "explanation": "The Fifteenth Finance Commission recommended a tied grant of 40 per cent and an untied grant of 60 per cent of the assessed grant, and it also recommended a 2.5 per cent grant tied to the population control measures.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The distribution of the divisible pool among the States is based on:",
+    "options": [
+      "the population alone",
+      "the area and the population",
+      "the population, the income and the fiscal effort",
+      "the revenue receipts of the States"
+    ],
+    "answer": 2,
+    "explanation": "The horizontal devolution uses the population as the principal criterion together with the income and the fiscal effort indicators, and the Finance Commission also provides for a grant for the States with a low fiscal capacity.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Macro Economic Framework Statement' presented with the Union Budget provides:",
+    "options": [
+      "an assessment of the growth and the inflation trajectory and the fiscal balance projections",
+      "the details of the schemes of the ministries",
+      "the statement of the foreign exchange reserves",
+      "the sectoral allocation of the credit"
+    ],
+    "answer": 0,
+    "explanation": "The Macro Economic Framework Statement, presented for the first time in the 2020-21 budget, provides the macro-economic assessment of the growth, the inflation and the fiscal balance projections for the medium term.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'Outcome Budget' framework in India is based on the:",
+    "options": [
+      "a zero-based allocation of the budget",
+      "a cut in the non-salary expenditure",
+      "the merger of the railway budget with the general budget",
+      "linking the expenditure to the measurable outputs and the outcomes of the schemes"
+    ],
+    "answer": 3,
+    "explanation": "The Outcome Budget approach, first attempted in the 2019-20 budget, tries to link the annual outlays with the outputs that the schemes are expected to deliver, so that the budget becomes a statement of the measurable deliverables.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The '15th Finance Commission' recommended a health allocation of:",
+    "options": [
+      "2.5 per cent of the gross domestic product",
+      "1.75 per cent of the divisible pool",
+      "2.5 per cent of the divisible pool, higher than the earlier norm of 2.2 per cent",
+      "3 per cent of the central budget"
+    ],
+    "answer": 2,
+    "explanation": "The Fifteenth Finance Commission recommended a health allocation of 2.5 per cent of the divisible pool, above the 2.2 per cent of the Fourteenth Commission, and the Ayushman Bharat and the National Health Mission were the key schemes to be funded from it.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Union Budget 2024-25' presented in July 2023 was:",
+    "options": [
+      "presented on 31 January 2024",
+      "an interim budget, with the final budget presented on 1 February 2024",
+      "a zero-based budget",
+      "the first budget of the newly elected government"
+    ],
+    "answer": 1,
+    "explanation": "The budget of February 2023 was presented as an interim budget because of the elections, and the full budget for 2024-25 was presented on 1 February 2024, and the fiscal year of the Government of India runs from 1 April to 31 March.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Production Linked Incentive' schemes of the Government of India:",
+    "options": [
+      "offer an incentive on the incremental sales over a threshold for a period of five years in the notified sectors",
+      "are a time bound fiscal deficit reduction measure",
+      "provide import duty exemption for the electronics sector",
+      "are the flagship programmes of the NITI Aayog for the aspirational districts"
+    ],
+    "answer": 0,
+    "explanation": "The PLI schemes provide an incentive on the incremental sales above a threshold of investment and incremental sales, for five years from the commencement of commercial production, and the incentives are disbursed by the concerned ministry or department.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'Industrial Relations Code, 2020' provides for:",
+    "options": [
+      "the abolition of the trade unions",
+      "the freedom to strike without notice",
+      "the outsourcing of the entire workforce",
+      "a standing orders committee and a conciliation machinery and the retrenchment and the lay-off safeguards"
+    ],
+    "answer": 3,
+    "explanation": "The Industrial Relations Code, 2020 consolidates the Industrial Disputes Act, 1947 and the Trade Unions Act, 1926 and provides for a standing orders committee, the conciliation officers, a grievance redressal committee and safeguards on retrenchment, closure and lay-off.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Insolvency and Bankruptcy Code' provides for the 'waterfall mechanism' in the distribution of the liquidation proceeds in the order of:",
+    "options": [
+      "the insolvency resolution process costs, the secured creditors, the workmen's dues and the employee wages, the financial debts and the unsecured debts, and the government dues",
+      "the unsecured creditors first",
+      "the equity shareholders before the financial creditors",
+      "the government dues first, followed by the financial debts"
+    ],
+    "answer": 0,
+    "explanation": "The distribution under the IBC proceeds with the insolvency resolution process costs, the secured creditors and the workmen's dues, then the financial debts owed to the unsecured creditors, and lastly the government dues, with the remaining distributable sum going to the equity shareholders.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Securities Market Code' proposed by SEBI in 2023 is intended to:",
+    "options": [
+      "replace the SEBI with a statutory commission",
+      "make the mutual fund regulations optional",
+      "consolidate the various securities market laws into a single framework",
+      "introduce a new taxation of the capital gains"
+    ],
+    "answer": 2,
+    "explanation": "The Securities Market Code was proposed as a single consolidated framework to replace the fragmented securities market regulations, and the SEBI has framed the consultation papers and the drafts of the new law for the public comments.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "SEBI",
+    "year": null
+  }
+]

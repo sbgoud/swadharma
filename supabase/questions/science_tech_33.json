@@ -1,0 +1,422 @@
+[
+  {
+    "q": "The first Indian made computer, the Nandi was:",
+    "options": [
+      "the first transistor computer",
+      "developed at the TIFR in 1958",
+      "developed in 1975",
+      "developed at the BARC"
+    ],
+    "answer": 1,
+    "explanation": "The Nandi, the first Indian made computer, was developed at the Tata Institute of Fundamental Research in 1958 and it was based on the transistor technology.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The TDC-12 was the second indigenous computer of India developed:",
+    "options": [
+      "at the TIFR",
+      "at the IIT Kanpur",
+      "a supercomputer",
+      "a main frame of the BARC"
+    ],
+    "answer": 0,
+    "explanation": "The TDC-12, the second indigenous computer, was developed at the TIFR in 1970 and the PARAM series followed in the 1990s.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ECIL' is:",
+    "options": [
+      "A private electronics company",
+      "A research laboratory of the ISRO",
+      "A university",
+      "The Electronics Corporation of India Limited, a public sector unit under the MeitY"
+    ],
+    "answer": 3,
+    "explanation": "The Electronics Corporation of India Limited, under the MeitY, was set up in 1967 and it develops the computers, the communication systems and the electronic components.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Centre for Development of Advanced Computing?",
+    "options": [
+      "It was set up in 1988 at Bengaluru",
+      "It was set up in 1998 at Kolkata",
+      "The C-DAC was set up in 1988 at Pune",
+      "It was set up in 1978 at Pune"
+    ],
+    "answer": 2,
+    "explanation": "The C-DAC was set up in 1988 at Pune as a DAE institution and it developed the PARAM series of the supercomputers and the language technologies.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The PARAM K-Yuga is:",
+    "options": [
+      "a missile",
+      "a 1.5 petaflop supercomputer built by the CDAC",
+      "a satellite",
+      "a nuclear reactor"
+    ],
+    "answer": 1,
+    "explanation": "The PARAM K-Yuga, a 1.5 petaflop system built by the C-DAC, was installed at the National Supercomputing Centre in Bengaluru and it was dedicated in 2022.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the SWAYAM national portal?",
+    "options": [
+      "SWAYAM is the national portal of the MOOCs and the courses of the Indian universities",
+      "SWAYAM is a satellite navigation system",
+      "SWAYAM is a payment platform",
+      "SWAYAM is a defence project"
+    ],
+    "answer": 0,
+    "explanation": "SWAYAM, the Study Webs of Active-Learning for Young Aspiring Minds, is the national portal of the free online courses and it is run by the Ministry of Education with the NPTEL and the IITs.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the e-Shodh is correct?",
+    "options": [
+      "It is a scheme of the school infrastructure",
+      "It is a scheme of the university ranking",
+      "The e-Shodh is the policy of the open access to the education and the research publications of India",
+      "It is a scheme of the digital payments"
+    ],
+    "answer": 2,
+    "explanation": "The e-Shodh policy of 2011 was a national commitment to the open access to the education and the research publications and it was later subsumed in the One Nation One Subscription Access.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "one nation one subscription is:",
+    "options": [
+      "a scheme of the journals",
+      "a scheme of the libraries for the schools",
+      "a scheme of the textbooks",
+      "the initiative of the government for the access to the research publications of the Indian universities"
+    ],
+    "answer": 3,
+    "explanation": "The One Nation One Subscription Access was launched in 2017 to provide the access to the over 12,000 research journals and the periodicals subscribed by the Indian libraries and the universities.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2017
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the mission MeitY?",
+    "options": [
+      "It is a mission of the DRDO",
+      "It is the mission of the MeitY for the translation of the Indian languages with the AI assistance",
+      "It is a mission of the education ministry",
+      "It is a mission of the ISRO"
+    ],
+    "answer": 1,
+    "explanation": "The Bhashini mission, launched in 2022 by the MeitY, aims at the creation of the digital public infrastructure for the Indian languages and the translation with the AI assistance.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the IndiaAI?",
+    "options": [
+      "It is the umbrella programme of the MeitY for the artificial intelligence with the compute and the datasets and the innovation",
+      "It is a scheme of the education",
+      "It is a scheme of the defence",
+      "It is a scheme of the space"
+    ],
+    "answer": 0,
+    "explanation": "The IndiaAI Mission, approved in March 2024 with a fiscal outlay of about Rs. 10,372 crore, is the umbrella programme of the AI ecosystem with the compute, the datasets, the applications and the innovation.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The C-DAC developed:",
+    "options": [
+      "the rockets",
+      "the telescopes",
+      "the multilingual and the speech technologies and the Jeevan and the Dakshin tools",
+      "the PARAM only"
+    ],
+    "answer": 2,
+    "explanation": "The C-DAC developed the multilingual and the speech technologies, the Jeevan and the Dakshin for the speech recognition and the translation, the study of the Indian languages and the accessibility tools.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Swayam Prakasha is:",
+    "options": [
+      "a scheme of the school education",
+      "a scheme of the skill development",
+      "a scheme of the digital literacy",
+      "the framework of the National Education Policy for the higher education with the rating and the accreditation"
+    ],
+    "answer": 3,
+    "explanation": "The Swayam Prakasha, the National Credit Framework and the National Rating Framework, is the framework of the National Education Policy for the higher education with the quality assurance, the credit mobility and the grading.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A multicore processor has:",
+    "options": [
+      "more than one processing unit in a single chip",
+      "a processor with the multiple chips",
+      "a server with the multiple CPUs",
+      "a GPU"
+    ],
+    "answer": 0,
+    "explanation": "A multicore processor integrates more than one processing unit in a single chip and it improves the performance and the energy efficiency of the parallel workloads.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the quantum computing?",
+    "options": [
+      "A qubit is a transistor",
+      "A qubit can be in a superposition of the 0 and the 1 states",
+      "A qubit is a classical bit",
+      "A qubit is a byte"
+    ],
+    "answer": 1,
+    "explanation": "A qubit can be in a superposition of the 0 and the 1 states, and the entanglement of the qubits is the resource that gives the quantum computers their advantage.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Micron and the Tata-Panel and the CG Power-Renesas units were:",
+    "options": [
+      "no fabs",
+      "approved in 2022",
+      "approved in 1991",
+      "approved in 2010"
+    ],
+    "answer": 1,
+    "explanation": "The Micron, the Tata-Panel and the CG Power-Renesas semiconductor units were approved in 2022 under the India Semiconductor Mission, with the Micron and the Tata units in Sanand in the Gujarat.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The definition of the open source was revised in 2021 to include:",
+    "options": [
+      "revised in 2015",
+      "no revision",
+      "the open source hardware",
+      "revised in 1998"
+    ],
+    "answer": 2,
+    "explanation": "The OSI revised the definition of the open source in 2021 to include the open source hardware and it has been the first time the definition was changed since 1998.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The tesseract is a four-dimensional hypercube used:",
+    "options": [
+      "a quantum satellite",
+      "a type of the processor",
+      "a cryptographic algorithm",
+      "as a model in the quantum computing"
+    ],
+    "answer": 3,
+    "explanation": "The tesseract, the four-dimensional analogue of the cube, is used in the popular explanations of the additional dimensions of the string theory and the quantum computing.",
+    "difficulty": "hard",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the DRDO?",
+    "options": [
+      "The DRDO developed the new UAVs and the systems and the Akash and the Astra and the new missiles",
+      "The DRDO is a civil body",
+      "The DRDO works on the agriculture",
+      "The DRDO is under the Ministry of Finance"
+    ],
+    "answer": 0,
+    "explanation": "The DRDO has been at the forefront of the indigenous defence systems with the Akash, the BrahMos, the Astra and the new UAVs and the electronic warfare systems.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the DRDO test fired?",
+    "options": [
+      "The DRDO test fired the high altitude long range missile and the subsonic cruise missile",
+      "It test fired a satellite",
+      "It test fired the nuclear weapon",
+      "It launched a manned mission"
+    ],
+    "answer": 0,
+    "explanation": "The DRDO test fired the high altitude long range missile, the long range missile and the subsonic cruise missile in 2023, and the long range missile was renamed the Agni-V.",
+    "difficulty": "hard",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Dhanush?",
+    "options": [
+      "It is a helicopter",
+      "Dhanush is the indigenous 155 mm towed artillery gun system of India",
+      "It is a missile",
+      "It is a tank"
+    ],
+    "answer": 1,
+    "explanation": "Dhanush is the indigenous 155 mm towed artillery gun system developed by the DRDO and it was inducted into the Indian Army.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Tejas Mark1A was inducted in 2023 and the Mark2 with the AESA is:",
+    "options": [
+      "retired in 2023",
+      "the first in 1990",
+      "a bomber",
+      "to follow"
+    ],
+    "answer": 3,
+    "explanation": "The Tejas Mark1A with the AESA radar was inducted into the IAF in 2023 and the Mark2 with the AESA radar and the indigenous missile suite is to follow.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Suryanayana?",
+    "options": [
+      "It was a manned mission",
+      "It was a nuclear reactor",
+      "It was the first indigenous cryogenic engine of India",
+      "It was a satellite"
+    ],
+    "answer": 2,
+    "explanation": "The Suryanayana, the CE-20, was the first indigenous cryogenic upper stage engine of India and it was used in the GSLV Mk III of 2014.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The AI is correct?",
+    "options": [
+      "The AI is only in the agriculture",
+      "The AI is used in the surveillance, the drones and the decision support in the Indian armed forces",
+      "The AI is banned in the defence",
+      "The AI is only for the logistics"
+    ],
+    "answer": 1,
+    "explanation": "The AI is used in the surveillance, the autonomous systems, the electronic warfare, the logistics and the decision support, and the Centre has approved the AI projects of the defence with the private sector.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Defence Cyber Agency was:",
+    "options": [
+      "created in 2022",
+      "a private agency",
+      "created in 2018 under the Ministry of Defence",
+      "created in 1991"
+    ],
+    "answer": 2,
+    "explanation": "The Defence Cyber Agency was created in 2018 under the Ministry of Defence to deal with the cyber threats to the critical information infrastructure of the defence.",
+    "difficulty": "hard",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": 2018
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the missile defence?",
+    "options": [
+      "It is the anti-satellite programme",
+      "It is the space launch programme",
+      "It is the cruise missile programme",
+      "The BMD is a programme to develop the interceptors against the ballistic missiles"
+    ],
+    "answer": 3,
+    "explanation": "The Ballistic Missile Defence is the programme to develop the interceptor missiles against the incoming ballistic missiles, and the exoatmospheric and the endoatmospheric interceptors are the components.",
+    "difficulty": "hard",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The Astra is correct?",
+    "options": [
+      "The Astra is the new name of the long range missile of the DRDO",
+      "Astra is the anti-submarine weapon",
+      "Astra is the surface to air missile",
+      "Astra is the air to air missile"
+    ],
+    "answer": 0,
+    "explanation": "The long range missile of the DRDO was renamed the Astra in 2023 and it was test fired in the same year from the Integrated Test Range in Odisha.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "Which of the following is correct in the case of the ASLV?",
+    "options": [
+      "It was the solid propellant upper stage",
+      "The ASLV was the strap-on augmented version of the SLV and the precursor of the PSLV",
+      "It was the manned launch vehicle",
+      "It was the cryogenic vehicle"
+    ],
+    "answer": 1,
+    "explanation": "The Augmented Satellite Launch Vehicle was the strap-on augmented version of the SLV and it was the precursor of the PSLV.",
+    "difficulty": "hard",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the BrahMos is correct?",
+    "options": [
+      "It is a ballistic missile",
+      "It is a space vehicle",
+      "It is a submarine",
+      "The BrahMos is the supersonic cruise missile of India with the Mach 2.8 speed"
+    ],
+    "answer": 3,
+    "explanation": "The BrahMos is a supersonic cruise missile with a Mach 2.8 speed and it is the fastest cruise missile in the world, with the range of about 290 to 450 km.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

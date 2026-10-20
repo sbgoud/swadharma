@@ -1,0 +1,722 @@
+[
+  {
+    "q": "The 'National Mission for the Oceans' was announced in:",
+    "options": [
+      "2015",
+      "2021",
+      "2023",
+      "2019"
+    ],
+    "answer": 2,
+    "explanation": "The National Mission for the Oceans was announced in 2023 to build a blueprint for the sustainable management of the oceans with the science and the technology, the governance and the partnerships.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Blue Economy Policy of 2021 covers:",
+    "options": [
+      "only the shipping",
+      "the economic activities of the oceans, the coastal areas and the marine resources",
+      "only the fisheries",
+      "a state policy"
+    ],
+    "answer": 1,
+    "explanation": "The National Blue Economy Policy of 2021 covers all the economic activities of the oceans, the coastal areas and the marine and the coastal resources, with the vision of a sustainable and prosperous blue economy.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "National Inland Navigation Development is:",
+    "options": [
+      "the programme of the development of the National Waterways 1, 2, 3 and 4",
+      "a port modernisation programme",
+      "a fisheries programme",
+      "a shipping subsidy"
+    ],
+    "answer": 0,
+    "explanation": "The National Inland Navigation Development Programme is the programme of the development of the four National Waterways of the Ganga, the Brahmaputra, the West Coast Canal and the East Coast Canal.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the CRZ is correct?",
+    "options": [
+      "The CRZ were notified in 1991 only",
+      "The CRZ apply to the inland waters",
+      "There is no CRZ notification",
+      "The Coastal Regulation Zones of 2019 designate the areas of the CRZ I to the CRZ IV"
+    ],
+    "answer": 3,
+    "explanation": "The Coastal Regulation Zone Notification of 2019 designated the CRZ I to the CRZ IV with the varying degrees of the permitted activities, and it replaced the 1991 notification.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": 2019
+  },
+  {
+    "q": "In the context of the Coastal Regulation, which of the following is correct?",
+    "options": [
+      "The CRZ IV is the most protected",
+      "The CRZ applies only to the islands",
+      "The CRZ I is the protected and the critical ecological zone and no activity is permitted",
+      "The CRZ I allows the industrial development"
+    ],
+    "answer": 2,
+    "explanation": "The CRZ I is the critical ecological zone where the marine activities are not permitted and the CRZ IV is the least restricted of the four.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The blue water fishing is the deep sea fishing and the brackish and the fresh water fisheries are:",
+    "options": [
+      "the others",
+      "the marine",
+      "no fresh water fishery in India",
+      "The fishing is the major source of the GDP"
+    ],
+    "answer": 0,
+    "explanation": "The fisheries of India are the marine, the brackish and the fresh water and the blue water or the deep sea fishing is the one with the growth potential.",
+    "difficulty": "easy",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Department of Fisheries' was created as a separate ministry in:",
+    "options": [
+      "2015",
+      "2005",
+      "2019",
+      "1991"
+    ],
+    "answer": 2,
+    "explanation": "The Department of Fisheries was created as a separate ministry in 2019 with the aim of the sustainable development of the fisheries and the aquaculture.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": 2019
+  },
+  {
+    "q": "Blue Revolution refers to:",
+    "options": [
+      "the offshore oil",
+      "the rapid increase of the fish production in the country and it is the reason for the separate ministry",
+      "the milk production",
+      "the horticulture"
+    ],
+    "answer": 1,
+    "explanation": "The Blue Revolution, the rapid growth of the fish and the shrimp production, is the reason for the creation of the separate Department of Fisheries in 2019.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Pradhan Mantri Matsya Sampada Yojana has:",
+    "options": [
+      "an outlay of Rs. 2,000 crore",
+      "a dairy scheme",
+      "a horticulture scheme",
+      "the investment of over Rs. 20,000 crore for the fisheries"
+    ],
+    "answer": 3,
+    "explanation": "The Pradhan Mantri Matsya Sampada Yojana, launched in 2020 with an investment of over Rs. 20,000 crore, is the investment mission for the fisheries and the aquaculture.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Seafood Export is correct?",
+    "options": [
+      "India is the largest exporter of the fish",
+      "India does not export the fish",
+      "India is the fifth largest exporter",
+      "The India is the second largest exporter of the fish and the seafood products"
+    ],
+    "answer": 3,
+    "explanation": "The India is the second largest exporter of the fish and the seafood products in the world and the marine products are the largest of the agricultural exports by the value.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The mangroves are:",
+    "options": [
+      "the industrial plantations",
+      "the nurseries of the fisheries and they are the storehouses of the carbon",
+      "the recreational forests",
+      "the fuel forests"
+    ],
+    "answer": 1,
+    "explanation": "The mangroves are the nurseries of the marine fisheries and the storehouses of the blue carbon and they are among the most productive of the ecosystems per unit area.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Puga and the Puga Chhunga in the Ladakh and the Manikaran in the Kerala are:",
+    "options": [
+      "in the Assam",
+      "in the Odisha",
+      "the geothermal fields",
+      "in the Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "The Puga, the Chhunga and the Manikaran are the known geothermal fields of India and the Manikaran has the 17 MW plant.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tidal energy' in India:",
+    "options": [
+      "Is still at the experimental stage and the Gulf of Kutch and the Gulf of Cambay have the potential",
+      "Is the largest source of the renewable energy",
+      "Is not viable in India",
+      "Is already commercial in the Tamil Nadu"
+    ],
+    "answer": 0,
+    "explanation": "The tidal energy is at the experimental stage in India and the Gulf of Kutch and the Gulf of Cambay have the potential with the Gulf of Kutch having the world's first tidal mill.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Wave energy, which of the following is correct?",
+    "options": [
+      "It is in the Tamil Nadu",
+      "It is a solar project",
+      "It was never attempted",
+      "The Vizhinjam is the wave energy project of the Kerala"
+    ],
+    "answer": 3,
+    "explanation": "The Vizhinjam near the Thiruvananthapuram is the wave energy project of the Kerala and it was the first of its kind in the country.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The biogas and the biomass are:",
+    "options": [
+      "only the industrial waste",
+      "a fossil fuel",
+      "the renewable sources that are largely used for the cooking in the rural India",
+      "the largest of the renewables"
+    ],
+    "answer": 2,
+    "explanation": "The biogas and the biomass are the renewables that are largely used for the cooking in the rural India and the gobar gas plants are the means of the decentralised supply.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Small hydro is correct?",
+    "options": [
+      "Is the hydro above 100 MW",
+      "Is the hydro below 25 MW and it is the most neglected of the renewables in India",
+      "Is the largest of the renewables",
+      "Is not a renewable"
+    ],
+    "answer": 1,
+    "explanation": "The small hydro, the hydro below 25 MW, is the most neglected of the renewables in India and the government has a target of 2,000 MW of the small hydro by 2022.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The GRIHA and the IGBC are:",
+    "options": [
+      "the Indian rating systems for the green buildings",
+      "the certification of the organic farming",
+      "the standards of the heritage buildings",
+      "the wetland programmes"
+    ],
+    "answer": 0,
+    "explanation": "The GRIHA and the IGBC are the Indian green building rating systems and the LEED is the American one.",
+    "difficulty": "easy",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Renewable purchase obligation requires:",
+    "options": [
+      "the distribution licensees to purchase a specified share of the renewable energy",
+      "the subsidy of the solar panels",
+      "the obligation of the states to build the plants",
+      "the mandate of the Ministry of New and the Renewable Energy"
+    ],
+    "answer": 0,
+    "explanation": "The Renewable Purchase Obligation, under the Electricity Act of 2003, requires the distribution licensees to purchase a specified share of their consumption from the renewable sources.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Energy Conservation Act of 2001 and the PAT and the BEE are:",
+    "options": [
+      "the subsidy of the PM Surya Ghar",
+      "the Green Energy Corridor",
+      "the instruments of the energy efficiency",
+      "the mandatory of the renewable purchase obligation"
+    ],
+    "answer": 2,
+    "explanation": "The Energy Conservation Act of 2001 with the Perform, Achieve and Trade and the BEE are the instruments of the energy efficiency in the industry.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Green Open, which of the following is correct?",
+    "options": [
+      "It is about the fertiliser",
+      "It is about the crop insurance",
+      "It is a fisheries scheme",
+      "The Green Open Access Rules of 2022 allow the sharing of the renewable capacity in the distribution network"
+    ],
+    "answer": 3,
+    "explanation": "The Green Open Access Rules of 2022 provide for the sharing of the renewable capacity in the distribution network and they give the consumers the choice of the green power.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The Kudankulam and the Kakrapar and the Narora are:",
+    "options": [
+      "no nuclear power",
+      "the nuclear power stations of India",
+      "the thermal plants",
+      "the only nuclear plant"
+    ],
+    "answer": 1,
+    "explanation": "The Kudankulam in the Tamil Nadu, the Kakrapar and the Narora in the Gujarat and the Rawatbhata in the Rajasthan are the nuclear power stations of India.",
+    "difficulty": "easy",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Small modular reactor' in India:",
+    "options": [
+      "The BARC and the DAE are working on the indigenous small modular reactor design",
+      "India has already commissioned them",
+      "They are only in the United States",
+      "They are the coal-based plants"
+    ],
+    "answer": 0,
+    "explanation": "The BARC and the DAE are working on the indigenous small modular reactor design of about 20 MWe for the wide deployment and it is a part of the 2047 vision.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The hydro of the large size is:",
+    "options": [
+      "the largest carbon footprint",
+      "the most neglected of the renewables in the country",
+      "the largest renewable",
+      "not a renewable"
+    ],
+    "answer": 1,
+    "explanation": "The large hydro is the most neglected of the renewables in India and it has a low cost with the low carbon footprint and the projects are delayed by the environmental clearances.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Electric vehicle, which of the following is correct?",
+    "options": [
+      "There is no target",
+      "The target is of 10 per cent",
+      "The target is for 2050",
+      "The India has a target of the 30 per cent of the private cars and the 70 per cent of the commercial vehicles by 2030"
+    ],
+    "answer": 3,
+    "explanation": "The India has set a target of the 30 per cent of the private cars, the 70 per cent of the commercial cars, the 80 per cent of the two and three wheelers and the 15 per cent of the buses by 2030.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The green hydrogen is:",
+    "options": [
+      "the hydrogen produced from the coal",
+      "a mixture of the hydrogen and the oxygen",
+      "the hydrogen produced with the renewable energy without the carbon emissions",
+      "the hydrogen produced from the natural gas"
+    ],
+    "answer": 2,
+    "explanation": "The green hydrogen is produced from the renewable energy through the electrolysis with no carbon emissions and it is the key to the decarbonisation of the industry and the transport.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Energising India and the Integrated Energy Planning are:",
+    "options": [
+      "the tools of the Ministry of Power",
+      "the environmental conventions",
+      "the fisheries schemes",
+      "the industrial policies"
+    ],
+    "answer": 0,
+    "explanation": "The Ministry of Power uses the 'Energising India' and the Integrated Energy Planning for the coordinated planning of the energy and the demand.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Energy Security of the India is:",
+    "options": [
+      "self-sufficient in the oil",
+      "25 per cent",
+      "not a challenge",
+      "a challenge with the import dependence of about 85 per cent of the oil"
+    ],
+    "answer": 3,
+    "explanation": "The India imports about 85 per cent of its crude oil and the energy security is a challenge with the price volatility and the import bill.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Environment Impact Assessment?",
+    "options": [
+      "It is of 1986",
+      "The EIA Notification of 2006 lists the projects requiring the clearance and the Categorisation of the projects",
+      "It is of 1991",
+      "It is of 2019"
+    ],
+    "answer": 1,
+    "explanation": "The Environment Impact Assessment Notification of 2006, in the wake of the 1991 amendment, lists the projects requiring the clearance and the categories with the conditions.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The EIA Notification has:",
+    "options": [
+      "only to the mining",
+      "only to the thermal power",
+      "the two schedules of the projects requiring the prior clearance and the ones requiring the post-clearance monitoring",
+      "only one schedule"
+    ],
+    "answer": 2,
+    "explanation": "The EIA Notification has the two schedules, the first with the projects requiring the prior environmental clearance and the second with the ones requiring the post-project monitoring.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Fodder Policy of 2018 and the fodder banks are:",
+    "options": [
+      "the measures for the livestock",
+      "a fisheries policy",
+      "a forest policy",
+      "a crop insurance scheme"
+    ],
+    "answer": 0,
+    "explanation": "The National Fodder Policy of 2018 with the fodder banks and the silvipasture is a measure for the livestock sector and the fodder is a serious constraint in the dry areas.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Innovation Foundation' is:",
+    "options": [
+      "A state body",
+      "A university",
+      "An autonomous body of the MeitY for the grassroots innovations",
+      "A private body"
+    ],
+    "answer": 2,
+    "explanation": "The National Innovation Foundation, an autonomous body of the MeitY, promotes the grassroots innovations and it is the promoter of the Honey Bee Network.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The smog of the Delhi is:",
+    "options": [
+      "only the sulphur dioxide",
+      "a mix of the ozone, the nitrogen dioxide and the particulate matter",
+      "only the dust",
+      "only the carbon dioxide"
+    ],
+    "answer": 1,
+    "explanation": "The smog of the Delhi is a photochemical mixture of the ozone, the nitrogen dioxide, the volatile organic compounds and the fine particulate matter and it is a winter phenomenon.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Stubble burning is:",
+    "options": [
+      "a practice of the Kerala",
+      "banned in the Punjab only",
+      "the burning of the forest",
+      "the burning of the paddy stubble in the Punjab, the Haryana and the UP"
+    ],
+    "answer": 3,
+    "explanation": "The stubble burning of the paddy in the Punjab, the Haryana and the western Uttar Pradesh is a major cause of the winter smog of the Delhi.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Airshed' of the National Clean Air Programme:",
+    "options": [
+      "Are the coastal regions",
+      "Are the non-attainment cities with the air quality standards and the non-polluting fuels",
+      "Are the industrial areas",
+      "Are the forest reserves"
+    ],
+    "answer": 1,
+    "explanation": "The National Clean Air Programme identified the 131 non-attainment cities in the 78 airsheds for the non-polluting fuels and the air quality standards.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the NCAP, which of the following is correct?",
+    "options": [
+      "Was launched in 2019 as the national clean air programme",
+      "It was launched in 2015",
+      "It is a water programme",
+      "It is a waste programme"
+    ],
+    "answer": 0,
+    "explanation": "The National Clean Air Programme was launched in January 2019 as the national air quality policy with the city-specific action plans.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": 2019
+  },
+  {
+    "q": "The Swachh Bharat Mission was:",
+    "options": [
+      "launched in 1991",
+      "a health mission",
+      "a housing mission",
+      "launched in 2014 and the national city sanitation programme under the SBM-U"
+    ],
+    "answer": 3,
+    "explanation": "The Swachh Bharat Mission was launched in October 2014 and the SBM-U has the three phases of the 2014-2019, the 2019-2021 and the 2021-2026 with the source segregation and the waste management.",
+    "difficulty": "easy",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Are the informal sector workers of the waste management and the NULM and the Swachh have included:",
+    "options": [
+      "the municipal employees",
+      "in the policy",
+      "them",
+      "from the landfill"
+    ],
+    "answer": 2,
+    "explanation": "The waste pickers are the informal workers of the waste management and the Swachh Bharat Mission and the National Urban Livelihood Mission have included them with the identity cards and the equipment and the access to the sanitation facilities.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The quality standards were:",
+    "options": [
+      "from 2025",
+      "notified in 2022 and the large scale producers have the obligation from April 2023",
+      "notified in 2016",
+      "no standards"
+    ],
+    "answer": 1,
+    "explanation": "The quality standards for the biodegradable and the compostable plastics were notified in 2022 and they became applicable from 1 April 2023 to the products of the large scale producers.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The C&D Waste Management Rules of 2016 cover:",
+    "options": [
+      "the debris of the construction",
+      "only the municipal waste",
+      "only the plastic",
+      "only the biomedical waste"
+    ],
+    "answer": 0,
+    "explanation": "The Construction and Demolition Waste Management Rules of 2016 cover the debris and the material of the construction and the demolition.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Plastic Waste Management Rules is correct?",
+    "options": [
+      "Make the collection the municipal responsibility alone",
+      "Have no extended producer responsibility",
+      "Require the registration of the producers, the importers and the recyclers",
+      "Ban only the plastic bags"
+    ],
+    "answer": 2,
+    "explanation": "The Plastic Waste Management Rules of 2016 require the registration of the producers, the importers, the recyclers and the plastic waste generators and they specify the deadlines for the collection and the recycling.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Biogas plant is correct?",
+    "options": [
+      "It produces the electricity for the villages",
+      "It treats the municipal sewage",
+      "It is the coal gasification plant",
+      "The gobar gas plants convert the cow dung into the biogas and the slurry into the biofertiliser"
+    ],
+    "answer": 3,
+    "explanation": "The gobar gas plants convert the cow dung into the biogas for the cooking and the slurry into the biofertiliser for the agriculture, and they are the decentralised rural energy source.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the organic manures, which of the following is correct?",
+    "options": [
+      "the organic manures and the FCO of 2009 regulates the biofertilisers",
+      "a chemical fertiliser",
+      "a pesticide",
+      "of 2015"
+    ],
+    "answer": 0,
+    "explanation": "The compost and the vermicompost are the organic manures and the Fertiliser (Control) Order of 2009 regulates the biofertilisers and the compost.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Landfill?",
+    "options": [
+      "It is a heritage programme",
+      "It is a fisheries programme",
+      "The Legacy Dumps Remediation Programme of the Swachh Bharat Mission funds the reclamation of the old dumps",
+      "It is a programme of the agriculture"
+    ],
+    "answer": 2,
+    "explanation": "The Legacy Dumps Remediation and the Grievance Redressal Programme of the Swachh Bharat Mission funds the reclamation of the legacy dumps with the PPP model.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Gross Environment Pollution Index of the CPCB is:",
+    "options": [
+      "an index of the industrial growth",
+      "the index of the water quality",
+      "the biodiversity index",
+      "computed from the air quality data of the monitoring stations"
+    ],
+    "answer": 3,
+    "explanation": "The Gross Environment Pollution Index of the CPCB is computed from the air quality data of the monitoring stations under the National Air Quality Monitoring Programme.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the National Air Quality Monitoring?",
+    "options": [
+      "It has 50 stations",
+      "The NAQMP has over 1,000 monitoring stations in the cities and the towns of the country",
+      "It has 100 stations",
+      "It has 5,000 stations"
+    ],
+    "answer": 1,
+    "explanation": "The National Air Quality Monitoring Programme has over 1,000 stations in the 340 cities and the towns of the country and the data is released daily.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Centre for Air and the Water is:",
+    "options": [
+      "the research arm of the CPCB for the pollution science",
+      "the Supreme Court",
+      "a private laboratory",
+      "the Indian Institute of Science"
+    ],
+    "answer": 0,
+    "explanation": "The Centre for Air and the Water is the research wing of the CPCB and it conducts the pollution research and the capacity building.",
+    "difficulty": "hard",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Water Policy' of 2012:",
+    "options": [
+      "It is a power policy",
+      "It is a pollution policy",
+      "Recommends the equitable distribution of the water and the basin level planning and the recycling",
+      "It is about the irrigation only"
+    ],
+    "answer": 2,
+    "explanation": "The National Water Policy of 2012 recommends the equitable and the rational use of the water, the basin level planning and the recycling of the treated waste water.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": 2012
+  },
+  {
+    "q": "The National River Conservation Plan and the River Action Plan are:",
+    "options": [
+      "the fisheries programmes",
+      "the irrigation programmes",
+      "the forest programmes",
+      "the programmes of the NGRBA"
+    ],
+    "answer": 3,
+    "explanation": "The National River Conservation Plan of 1995 and the River Action Plan of the National Ganga River Basin Authority are the programmes for the conservation of the rivers.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

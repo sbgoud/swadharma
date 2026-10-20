@@ -1,0 +1,662 @@
+[
+  {
+    "q": "Swachh Bharat Mission was:",
+    "options": [
+      "launched in 1991",
+      "a health mission",
+      "a housing mission",
+      "launched in 2014 and the third phase of the urban component focuses on the waste management"
+    ],
+    "answer": 3,
+    "explanation": "The Swachh Bharat Mission, launched in October 2014, has the rural component with the ODF+ and the third phase of the urban component with the source segregation and the waste management.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "PM Fasal Bima Yojana was:",
+    "options": [
+      "launched in 2016 with the subsidised premium of 2 per cent for the Kharif",
+      "launched in 2015",
+      "launched in 2019",
+      "a credit guarantee scheme"
+    ],
+    "answer": 0,
+    "explanation": "The PM Fasal Bima Yojana of 2016 provides the crop insurance with the premium of 2 per cent for the Kharif and 1.5 per cent for the Rabi and the technology-based yield assessment.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the PM-KISAN?",
+    "options": [
+      "It is a crop insurance scheme",
+      "It provides a pension of Rs. 6,000",
+      "Provides Rs. 6,000 a year in three instalments to the landholding farmer families",
+      "It provides a loan of Rs. 6,000"
+    ],
+    "answer": 2,
+    "explanation": "The PM-KISAN, launched in February 2019, provides the income support of Rs. 6,000 a year in three equal instalments through the direct benefit transfer.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Jal Jeevan Mission aims:",
+    "options": [
+      "a skill mission",
+      "at a functional tap water connection to every rural household and 55 litres per person per day",
+      "a sanitation mission",
+      "a housing mission"
+    ],
+    "answer": 1,
+    "explanation": "The Jal Jeevan Mission, launched in 2019, aims at a functional household tap water connection to every rural household and the prescribed quality of 55 litres per person per day.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the PM-KUSUM, which of the following is correct?",
+    "options": [
+      "Has the three components of the solar pumps, the solar plants and the small solar plants",
+      "It is a rooftop scheme for the households",
+      "It is a coal plant scheme",
+      "It is a large hydro scheme"
+    ],
+    "answer": 0,
+    "explanation": "The PM-KUSUM has the three components of the 1.6 lakh solar pumps, the 10,000 solar power plants of 1 MW each and the solarisation of the 5.18 lakh small grid-connected plants.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the PM-KMY, which of the following is correct?",
+    "options": [
+      "It is a loan waiver",
+      "Provides a monthly pension of Rs. 3,000 to the small and the marginal farmers",
+      "It provides Rs. 6,000 a year",
+      "It is a crop insurance"
+    ],
+    "answer": 1,
+    "explanation": "The PM Kisan Maandhan Yojana provides a monthly pension of Rs. 3,000 to the small and the marginal farmers on a voluntary contribution with the matching government contribution.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "PM SVANidhi provides:",
+    "options": [
+      "the housing loans",
+      "the crop loans",
+      "the insurance",
+      "the collateral-free working capital loans to the street vendors"
+    ],
+    "answer": 3,
+    "explanation": "The PM SVANidhi, launched in June 2020, provides the collateral-free working capital loans of up to Rs. 20,000 to the street vendors.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the PMJANMAN?",
+    "options": [
+      "It is a scheme of the fisheries",
+      "It is a skill scheme",
+      "Is the scheme for the Particularly Vulnerable Tribal Groups with the Van Dhan Vikas Kendras",
+      "It is the scheme for the urban poor"
+    ],
+    "answer": 2,
+    "explanation": "The PM-JANMAN, the Janjatiya Nagari Abhiyan, is the scheme for the Particularly Vulnerable Tribal Groups and the Van Dhan Vikas Kendras are the units.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Ujjwala 2.0?",
+    "options": [
+      "It was the city development plan",
+      "Extended the PMUY to the additional beneficiaries with the first refill subsidy",
+      "It made the LPG free",
+      "It was the housing scheme"
+    ],
+    "answer": 1,
+    "explanation": "The PMUY 2.0, approved in 2021, extended the deposit-free the LPG connection to the additional beneficiaries and it provided the first refill subsidy.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the PM-MKAND?",
+    "options": [
+      "It is the mango export scheme",
+      "It is the onion storage scheme",
+      "It is a fisheries scheme",
+      "Is the scheme of the coconut procurement with the support of the Coconut Development Board"
+    ],
+    "answer": 3,
+    "explanation": "The PM-MKAND, the market linkage of the coconut procurement, was launched with the support of the Coconut Development Board under the Ministry of Agriculture.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The POSHAN 2 Abhiyaan is:",
+    "options": [
+      "the school nutrition programme of the hot cooked meals",
+      "a nutrition scheme of the hospitals",
+      "a mid-day meal of the private schools",
+      "a food fortification scheme"
+    ],
+    "answer": 0,
+    "explanation": "The POSHAN 2 Abhiyaan, the revised POSHAN, is the school nutrition programme of the hot cooked meals in the government and the government-aided schools.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the SAGARMALA?",
+    "options": [
+      "It is the inland waterway project",
+      "It is the industrial corridor project",
+      "Is the port-led logistics programme of the Ministry of Ports, Shipping and Waterways",
+      "It is the highway project"
+    ],
+    "answer": 2,
+    "explanation": "The Sagarmala is the port-led logistics development programme and it covers the ports, the coastal shipping, the inland waterways and the logistics parks.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Logistics Policy' was released in:",
+    "options": [
+      "2015",
+      "2022",
+      "2019",
+      "2021"
+    ],
+    "answer": 1,
+    "explanation": "The National Logistics Policy was released in 2022 and it is complemented by the PM Gati Shakti National Master Plan.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "IndiaAI Mission was:",
+    "options": [
+      "approved in 1991",
+      "discontinued",
+      "approved in 2024 with an outlay of about Rs. 10,372 crore",
+      "approved in 2021"
+    ],
+    "answer": 2,
+    "explanation": "The IndiaAI Mission, approved in March 2024 with an outlay of about Rs. 10,372 crore, is the umbrella programme of the AI ecosystem.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "Provides the rooftop solar with a maximum of 300 units per household and it was launched:",
+    "options": [
+      "the free electricity to all",
+      "a state scheme",
+      "a smart meter scheme",
+      "in 2024"
+    ],
+    "answer": 3,
+    "explanation": "The PM Surya Ghar Muft Bijli Yojana, launched in February 2024 with an outlay of Rs. 75,021 crore, provides the rooftop solar of up to 300 units per household.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "PM Gati Shakti has:",
+    "options": [
+      "the 14 sectors and the 20 key corridors",
+      "a highway project",
+      "a port project",
+      "a telecom project"
+    ],
+    "answer": 0,
+    "explanation": "The PM Gati Shakti National Master Plan has the 14 sectors with the 20 key multimodal corridors and about 100 projects.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "National Green Hydrogen Mission has:",
+    "options": [
+      "only the nuclear energy",
+      "a state scheme",
+      "an outlay of Rs. 19,744 crore and a target of 5 million tonnes by 2030",
+      "an outlay of Rs. 1,974 crore"
+    ],
+    "answer": 2,
+    "explanation": "The National Green Hydrogen Mission has an outlay of Rs. 19,744 crore and the target of a minimum of 5 million tonnes of the annual green hydrogen production by 2030.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Bhashini, which of the following is correct?",
+    "options": [
+      "It is a scheme of the ISRO",
+      "Is the MeitY mission for the digital public infrastructure of the Indian languages",
+      "It is a scheme of the education",
+      "It is a digital payments scheme"
+    ],
+    "answer": 1,
+    "explanation": "The Bhashini mission, launched in 2022, builds the digital public infrastructure for the Indian languages with the translation, the transcription and the AI assistance.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the PM-EG is correct?",
+    "options": [
+      "Is the scheme of the electronics manufacturing with the investment of about Rs. 11,000 crore",
+      "It is the mobile phone scheme",
+      "It is the IT hardware scheme",
+      "It is the semiconductor fab scheme"
+    ],
+    "answer": 0,
+    "explanation": "The Programme for the Electronics Manufacturing with a proposed investment of about Rs. 11,000 crore was approved in 2020 and it is in the PLI.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PM E-DRIVE' of 2022:",
+    "options": [
+      "It is a subsidy of the CNG vehicles only",
+      "It is a scrappage policy",
+      "It is a subsidy of the tractors",
+      "Is the electric mobility scheme with a subsidy of about Rs. 10,900 crore"
+    ],
+    "answer": 3,
+    "explanation": "The PM E-DRIVE, the Electric Mobility Transformation Scheme, was approved in September 2022 with a subsidy of about Rs. 10,900 crore.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the PM MITI?",
+    "options": [
+      "It is a scheme of the education",
+      "Is the scheme of the electronics manufacturing and the IT hardware of the Ministry of Commerce and Industry",
+      "It is a scheme of the IT services",
+      "It is a scheme of the telecom"
+    ],
+    "answer": 1,
+    "explanation": "The Programme for the Electronics Manufacturing and the IT Hardware of the Ministry of Commerce and Industry was approved in 2020 as a part of the PLI.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Aadhaar (Targeted Delivery of Benefits and Other Services) Act of 2016 made:",
+    "options": [
+      "the UIDAI a statutory body",
+      "of 2009",
+      "of 1991",
+      "of 2005"
+    ],
+    "answer": 0,
+    "explanation": "The Aadhaar Act of 2016 made the UIDAI a statutory body and it also allowed the private sector to use the Aadhaar authentication.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "In the context of the JAM, which of the following is correct?",
+    "options": [
+      "It is a digital literacy scheme",
+      "It is a housing scheme",
+      "Is the Joint Admission Matrix for the central and the state institutions",
+      "It is a financial inclusion programme"
+    ],
+    "answer": 2,
+    "explanation": "The JAM, the Joint Admission Matrix, is the common platform for the admissions to the central and the state institutions and it was launched in 2015.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the SWAYAM, which of the following is correct?",
+    "options": [
+      "It is a skill development portal",
+      "It is a digital payments portal",
+      "It is a scholarship portal",
+      "Is the national portal of the MOOCs of the Indian universities"
+    ],
+    "answer": 3,
+    "explanation": "The SWAYAM, the Study Webs of Active-Learning for Young Aspiring Minds, is the national portal of the free online courses of the Indian institutions.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the DIKSHA, which of the following is correct?",
+    "options": [
+      "It is a skill portal",
+      "Is the national portal of the school education with the e-content",
+      "It is a digital payments portal",
+      "It is a university education portal"
+    ],
+    "answer": 1,
+    "explanation": "The DIKSHA, the Digital Infrastructure for Knowledge Sharing, is the national portal of the school education with the textbooks and the e-learning content.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the UMANG?",
+    "options": [
+      "It is a learning platform",
+      "It is a survey platform",
+      "Is the platform of the government services for the citizens",
+      "It is a payment platform"
+    ],
+    "answer": 2,
+    "explanation": "The UMANG, the Unified Mobile Application for all the Government services, offers more than 2,000 services and it was launched in 2016.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the DigiLocker?",
+    "options": [
+      "Is the platform of the digital documents of the citizens",
+      "It is a payments platform",
+      "It is a survey platform",
+      "It is a learning platform"
+    ],
+    "answer": 0,
+    "explanation": "The DigiLocker, launched in 2015, allows the citizens to access the government issued documents digitally and it is integrated with the Aadhaar and the mobile.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the ONDC?",
+    "options": [
+      "It is a payments network",
+      "It is a logistics scheme",
+      "It is a telecommunications network",
+      "Is the open network for the digital commerce with the interoperable protocols"
+    ],
+    "answer": 3,
+    "explanation": "The ONDC, the Open Network for Digital Commerce, is the initiative of the Department of Promotion of Industry and Internal Trade for the interoperability of the digital commerce.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Account Aggregator is:",
+    "options": [
+      "the consent-based financial data sharing system with the Sahamati as the repository",
+      "a credit information company",
+      "a digital identity provider",
+      "a payments gateway"
+    ],
+    "answer": 0,
+    "explanation": "The Account Aggregator, with the Sahamati as the financial information repository, enables the consent-based sharing of the financial information of the citizens.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Stand Up India' of 2016:",
+    "options": [
+      "It is a scheme of the farmland",
+      "It is a skill scheme",
+      "Provides the bank credit to the SC, the ST and the women entrepreneurs",
+      "It is a credit guarantee for the MSMEs"
+    ],
+    "answer": 2,
+    "explanation": "The Stand Up India provides the bank credit to the greenfield enterprises of the Scheduled Castes, the Scheduled Tribes and the women entrepreneurs.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "In the context of the MUDRA, which of the following is correct?",
+    "options": [
+      "It is a scheme of the NABARD for the agriculture",
+      "Has the three categories of the Shishu, the Kishore and the Tarun",
+      "It has only the Shishu category",
+      "It is for the corporates"
+    ],
+    "answer": 1,
+    "explanation": "The MUDRA has the three categories of the Shishu for the new entrepreneurs, the Kishore for the growing and the Tarun for the established.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Pradhan Mantri Mudra Yojana was:",
+    "options": [
+      "launched in 1991",
+      "a crop loan scheme",
+      "a housing scheme",
+      "launched in 2015 to finance the micro units and the small enterprises"
+    ],
+    "answer": 3,
+    "explanation": "The PMMY, launched in April 2015, provides the loans to the micro units and the small enterprises and it is refinanced by the SIDBI.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Startup India Seed Fund provides:",
+    "options": [
+      "up to Rs. 50 lakh for the proof of concept and up to Rs. 20 crore for the growth",
+      "the loans of Rs. 1 crore only",
+      "a fund of the states",
+      "the tax exemptions"
+    ],
+    "answer": 0,
+    "explanation": "The Startup India Seed Fund Scheme provides up to Rs. 50 lakh for the proof of concept and up to Rs. 20 crore for the scaling up of the startups.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Make in India was:",
+    "options": [
+      "launched in 1986",
+      "a state initiative",
+      "launched in 2014 with the three pillars of the Make in India, the Skill India and the Start Up India",
+      "launched in 1991"
+    ],
+    "answer": 2,
+    "explanation": "The Make in India of 2014 has the three pillars of the Make in India, the Skill India and the Start Up India, and it was restructured with the National Manufacturing Mission in 2020.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Skill India, which of the following is correct?",
+    "options": [
+      "It was launched in 1991",
+      "It is a scheme of the agriculture",
+      "It is a housing scheme",
+      "Was launched in 2015 with the NSDC and the National Skill Development Corporation"
+    ],
+    "answer": 3,
+    "explanation": "The Skill India, launched in 2015, is implemented through the National Skill Development Corporation with the target of the skilling of 400 million.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Skill Development Corporation' was set up in:",
+    "options": [
+      "2001",
+      "2009",
+      "1991",
+      "2015"
+    ],
+    "answer": 1,
+    "explanation": "The NSDC, a public limited company under the Ministry of Skill Development, was set up in 2009 and it is the apex for the skill development.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Jan Dhan Yojana was:",
+    "options": [
+      "an insurance scheme",
+      "launched in 2014 and it has the largest number of the basic bank accounts in the world",
+      "launched in 1991",
+      "a housing scheme"
+    ],
+    "answer": 1,
+    "explanation": "The Pradhan Mantri Jan Dhan Yojana, launched in August 2014, has the largest number of the basic bank accounts in the world with the RuPay cards and the overdrafts.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pradhan Mantri Krishi Sinchayee Yojana' is:",
+    "options": [
+      "The watershed development programme",
+      "The river linking project",
+      "The command area development of the CADP",
+      "The micro irrigation scheme of the per command area development"
+    ],
+    "answer": 3,
+    "explanation": "The PMKSY is the micro irrigation scheme of the per command area development with the objective of the enhanced water use efficiency and the area expansion of the irrigation.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Per Drop More Crop' is:",
+    "options": [
+      "A scheme of the NABARD",
+      "A scheme of the state governments",
+      "The micro irrigation component of the PMKSY",
+      "The drip irrigation subsidy of the Telangana"
+    ],
+    "answer": 2,
+    "explanation": "The Per Drop More Crop is the micro irrigation component of the PMKSY and it promotes the water use efficiency with the subsidies for the drip and the sprinkler systems.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Integrated Watershed Management Programme' is:",
+    "options": [
+      "A programme of the Department of Rural Development for the watershed development",
+      "A programme of the Ministry of Water Resources",
+      "A programme of the DRDA for the irrigation",
+      "A scheme of the MGNREGA"
+    ],
+    "answer": 0,
+    "explanation": "The Integrated Watershed Management Programme of the Department of Rural Development is a watershed development programme with the 3,000 watersheds in the country.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the MGNREGA?",
+    "options": [
+      "It provides the crop insurance",
+      "Provides a guarantee of 100 days of the wage employment and it is the largest of such programme",
+      "It provides the rural housing",
+      "It provides the social security pension"
+    ],
+    "answer": 1,
+    "explanation": "The MGNREGA guarantees 100 days of the wage employment and it is the largest of the rural employment programmes of the world.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Rural Livelihoods Mission' is:",
+    "options": [
+      "The mission of the Ministry of Rural Development for the livelihoods of the poor",
+      "It is a housing scheme",
+      "It is a nutrition scheme",
+      "It is a skill scheme"
+    ],
+    "answer": 0,
+    "explanation": "The NRLM, the Deendayal Antyodaya Yojana, is the livelihood mission of the Ministry of Rural Development for the poor and it is the largest of the community-driven programmes.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Pradhan Mantri Awas Yojana-Gramin provides:",
+    "options": [
+      "the assistance of Rs. 50,000 only",
+      "an urban scheme",
+      "a rental housing scheme",
+      "the assistance of Rs. 1.20 lakh in the plains and Rs. 1.30 lakh in the hilly areas"
+    ],
+    "answer": 3,
+    "explanation": "The PMAY-G provides the assistance of Rs. 1.20 lakh in the plains, Rs. 1.30 lakh in the hilly and the difficult areas and Rs. 1.50 lakh in the Ispir and the tribal areas.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PM-DAY' of 2023:",
+    "options": [
+      "It is a nutrition scheme",
+      "It is a digital literacy scheme",
+      "Is the national mission to strengthen the rural livelihoods of the poorest families",
+      "It is a housing scheme"
+    ],
+    "answer": 2,
+    "explanation": "The PM-DAY, the Pradhan Mantri Divya Bazaar Yojana, was approved in 2023 to strengthen the rural livelihoods of the poorest families through the community infrastructure.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": 2023
+  }
+]

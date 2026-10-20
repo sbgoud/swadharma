@@ -1,0 +1,1187 @@
+[
+  {
+    "q": "The 'wetlands' of the world:",
+    "options": [
+      "Cover about 6 per cent of the land area and they store 30 per cent of the carbon",
+      "Cover 1 per cent of the land and they store 10 per cent of the carbon",
+      "Cover 20 per cent of the land",
+      "They store 5 per cent of the carbon"
+    ],
+    "answer": 0,
+    "explanation": "The wetlands cover about 6 per cent of the land area of the earth and they store about 30 per cent of the world's carbon and they are among the most productive of the ecosystems.",
+    "difficulty": "hard",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'primary productivity' of the ocean:",
+    "options": [
+      "Does not exist in the oceans",
+      "Is limited to the coastal areas",
+      "Is low and the open ocean accounts for most of the area with a low productivity",
+      "Is the highest of all the ecosystems"
+    ],
+    "answer": 2,
+    "explanation": "The open ocean has a very low net primary productivity per unit area because of the limited nutrients, although its total is large, while the estuaries and the upwellings are highly productive.",
+    "difficulty": "hard",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'detritus food chain':",
+    "options": [
+      "Is the conduit of the energy in the grazing system",
+      "Does not exist in the terrestrial ecosystem",
+      "Is the only food chain in the aquatic ecosystem",
+      "Is the conduit for the energy flow to the detritus and the decomposers"
+    ],
+    "answer": 3,
+    "explanation": "The detritus food chain is the conduit for the energy flow to the decomposers and it is the major conduit in the terrestrial ecosystem.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'functional redundancy' in an ecosystem:",
+    "options": [
+      "Means that the ecosystem is unstable",
+      "Means that the more species, the greater the resilience of the ecosystem",
+      "Means that the species are identical",
+      "Means that the species are endangered"
+    ],
+    "answer": 1,
+    "explanation": "The functional redundancy means that the more species there are, the greater is the resilience of the ecosystem, and it is a reason for the conservation of the biodiversity.",
+    "difficulty": "hard",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'invasive species' in India:",
+    "options": [
+      "They are all native",
+      "Include the Lantana camara, the Prosopis juliflora and the Parthenium hysterophorus",
+      "Include only the eucalyptus",
+      "Include only the water hyacinth"
+    ],
+    "answer": 1,
+    "explanation": "The invasive alien species of India include the Lantana camara, the Prosopis juliflora, the Parthenium hysterophorus, the water hyacinth and the Eichhornia crassipes.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Invasive Species Database is managed by:",
+    "options": [
+      "the Zoological Survey of India",
+      "the ICAR",
+      "the NITI Aayog",
+      "the Botanical Survey of India"
+    ],
+    "answer": 3,
+    "explanation": "The National Invasive Species Database is managed by the Botanical Survey of India with the Botanical Gardens and the National Botanical Research Institute.",
+    "difficulty": "hard",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ecosystem services' of the wetlands:",
+    "options": [
+      "Include the water purification, the flood control, the carbon sequestration and the biodiversity",
+      "Include only the recreation",
+      "Include only the fishing",
+      "Include only the timber"
+    ],
+    "answer": 0,
+    "explanation": "The wetlands provide the ecosystem services of the water purification, the flood moderation, the carbon sequestration, the nutrient cycling and the biodiversity support.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Blue Carbon' refers to:",
+    "options": [
+      "The carbon dioxide in the atmosphere",
+      "The carbon in the soil of the farms",
+      "The carbon captured and stored by the coastal ecosystems like the mangroves, the salt marshes and the seagrasses",
+      "The carbon in the fossil fuels"
+    ],
+    "answer": 2,
+    "explanation": "The blue carbon is the carbon captured and stored by the coastal and the marine ecosystems, the mangroves, the tidal salt marshes, the seagrasses and the coastal wetlands.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The blue carbon is:",
+    "options": [
+      "the carbon sequestered by the mangroves and the seagrasses",
+      "the carbon of the fossil fuels",
+      "the carbon in the atmosphere",
+      "the carbon in the soil"
+    ],
+    "answer": 0,
+    "explanation": "The blue carbon is the carbon sequestered by the mangroves, the seagrasses and the salt marshes, and the Sundarban is a prime example of it.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ecological footprint' of a country measures:",
+    "options": [
+      "The size of the country",
+      "The carbon emission",
+      "The biodiversity of the country",
+      "The area of the earth required to sustain its population"
+    ],
+    "answer": 3,
+    "explanation": "The ecological footprint measures the area of the earth required to sustain a population with its consumption and the waste, and it is the measure of the human impact on the nature.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Earth Summit of 1992 in Rio was:",
+    "options": [
+      "in Durban",
+      "the first of the three summits and it led to the CBD and the Agenda 21",
+      "the largest of the three summits",
+      "in Johannesburg"
+    ],
+    "answer": 1,
+    "explanation": "The Earth Summit of 1992 in Rio de Janeiro, the largest of the three summits, produced the CBD, the Agenda 21 and the UNFCCC.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Johannesburg Summit' of 2002:",
+    "options": [
+      "It was the Rio Summit",
+      "It was the Ramsar COP",
+      "Was the World Summit on the Sustainable Development and it produced the Johannesburg Plan of Implementation",
+      "It was the COP of the UNFCCC"
+    ],
+    "answer": 2,
+    "explanation": "The World Summit on the Sustainable Development of 2002 in Johannesburg produced the Johannesburg Plan of Implementation and the Johannesburg Declaration on the sustainable development.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rio+20' of 2012:",
+    "options": [
+      "It was the Ramsar COP",
+      "Was the conference of the sustainable development with the theme of the green economy",
+      "It was the COP of the biodiversity",
+      "It was the UNFCCC"
+    ],
+    "answer": 1,
+    "explanation": "The Rio+20 of 2012 had the theme of the green economy in the context of the sustainable development and the Millennium Development Goals.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Millennium Development Goals of 2000 had:",
+    "options": [
+      "the outcome of the Rio Summit",
+      "adopted in 2015",
+      "the eight goals with the 2015 target",
+      "the 17 goals"
+    ],
+    "answer": 2,
+    "explanation": "The eight Millennium Development Goals, adopted in 2000 with the 2015 target, were superseded by the 17 Sustainable Development Goals of 2015.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Agenda 21 is correct?",
+    "options": [
+      "The Agenda 21 is the action programme of the Rio Summit for the sustainable development",
+      "It is a trade agreement",
+      "It is the Montreal Protocol",
+      "It is a fisheries convention"
+    ],
+    "answer": 0,
+    "explanation": "The Agenda 21 is the action programme of the Rio Summit and it has 38 chapters, with the chapters of the poverty, the population, the human settlements, the industry and the conservation.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the WCED?",
+    "options": [
+      "It produced the Agenda 21",
+      "It produced the Earth Summit",
+      "It produced the Rio Declaration",
+      "The World Commission on Environment and Development produced the Brundtland Report of 1987"
+    ],
+    "answer": 3,
+    "explanation": "The World Commission on Environment and Development, chaired by the Gro Harlem Brundtland, produced the Brundtland Report of 1987 with the definition of the sustainable development.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IPBES' of the Global Assessment:",
+    "options": [
+      "It is a development bank",
+      "It is the body of the CITES",
+      "The IPBES published the first global assessment of the biodiversity and the ecosystem services in 2019",
+      "It is the successor of the GEF"
+    ],
+    "answer": 2,
+    "explanation": "The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services published the first global assessment of the biodiversity and the ecosystem services in 2019.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Convention on the Conservation of the Migratory Species':",
+    "options": [
+      "It has six memoranda",
+      "It has four memoranda on the waterbirds, the seals, the African elephants and the bats",
+      "It has two memoranda",
+      "It has no memoranda"
+    ],
+    "answer": 1,
+    "explanation": "The CMS has the four memoranda of the Parties on the waterbirds, the seals, the African elephants and the bats.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Vienna Convention is:",
+    "options": [
+      "the framework of the ozone layer protection and the Montreal Protocol is under it",
+      "the convention of the climate change",
+      "the convention of the biodiversity",
+      "the convention of the seas"
+    ],
+    "answer": 0,
+    "explanation": "The Vienna Convention of 1985 is the framework convention for the protection of the ozone and the Montreal Protocol of 1987 is the protocol under it.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The UNFCCC of 1992 is:",
+    "options": [
+      "the ozone convention",
+      "the biodiversity convention",
+      "a trade agreement",
+      "the framework convention and the Paris Agreement of 2015 is under it"
+    ],
+    "answer": 3,
+    "explanation": "The United Nations Framework Convention on Climate Change of 1992 is the framework and the Kyoto Protocol of 1997 and the Paris Agreement of 2015 are under it.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the CBD, which of the following is correct?",
+    "options": [
+      "The CBD was signed in 1992 and it has the Cartagena and the Nagoya protocols",
+      "It was signed in 1972",
+      "It has no protocols",
+      "It was signed in 2002"
+    ],
+    "answer": 0,
+    "explanation": "The Convention on Biological Diversity was signed in 1992 and it has the Cartagena Protocol on the biosafety of 2000 and the Nagoya Protocol on the access and the benefit sharing of 2010.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Basel Convention' is concerned with:",
+    "options": [
+      "The marine pollution",
+      "The trade of the endangered species",
+      "The transboundary movement of the hazardous wastes and their disposal",
+      "The ozone layer"
+    ],
+    "answer": 2,
+    "explanation": "The Basel Convention on the Control of the Transboundary Movements of Hazardous Wastes and their Disposal was signed in 1989 and it has the Ban Amendment of 1995.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Stockholm Convention' of 2001 is concerned with:",
+    "options": [
+      "The ozone layer",
+      "The greenhouse gases",
+      "The marine pollution",
+      "The persistent organic pollutants"
+    ],
+    "answer": 3,
+    "explanation": "The Stockholm Convention on the Persistent Organic Pollutants was signed in 2001 and it restricts the production and the use of the twelve dirty dozen pollutants.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rotterdam Convention is:",
+    "options": [
+      "the biodiversity convention",
+      "the prior informed consent procedure for the trade of the hazardous chemicals",
+      "the ozone convention",
+      "the marine pollution convention"
+    ],
+    "answer": 1,
+    "explanation": "The Rotterdam Convention on the Prior Informed Consent Procedure for the Trade of the Hazardous Chemicals was signed in 1998.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Minamata Convention of 1989 is:",
+    "options": [
+      "the convention of the lead",
+      "the convention of the cadmium",
+      "the convention of the radioactive waste",
+      "the convention on the mercury"
+    ],
+    "answer": 3,
+    "explanation": "The Minamata Convention on Mercury, signed in 1989, is the global treaty on the mercury and it is the successor of the Minamata disease.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Cartagena Convention of 1983 is:",
+    "options": [
+      "the convention on the hazardous waste",
+      "the convention on the protection and the preservation of the marine environment",
+      "the convention on the biodiversity",
+      "the convention on the ozone"
+    ],
+    "answer": 1,
+    "explanation": "The Cartagena Convention of 1983 deals with the protection and the preservation of the marine environment and the protocols of 1995 and the 2012 Protocol on the pollution are under it.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Convention on the Conservation of the European Wildlife and the Natural Habitats' (Bern Convention):",
+    "options": [
+      "It is the CITES",
+      "It is the Vienna Convention",
+      "Was signed in 1979 and it is the European conservation convention",
+      "It is the Ramsar Convention"
+    ],
+    "answer": 2,
+    "explanation": "The Bern Convention of 1979 is the European conservation convention and India is a party to it.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bonn Convention of 1979 is:",
+    "options": [
+      "for the migratory species and India is a party",
+      "the Ramsar Convention",
+      "the CITES",
+      "the Basel Convention"
+    ],
+    "answer": 0,
+    "explanation": "The Bonn Convention of 1979 is the one for the migratory species and it has the four memoranda and the associated instruments.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The CITES has the three appendices and it was:",
+    "options": [
+      "signed in 1950",
+      "the Ramsar Convention",
+      "signed in 1973",
+      "two appendices"
+    ],
+    "answer": 2,
+    "explanation": "The Convention on International Trade in Endangered Species was signed in 1973 and it has the three appendices with the increasing levels of the restrictions.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'International Treaty on Plant Genetic Resources':",
+    "options": [
+      "Was adopted in 2001 and India is a party",
+      "Was adopted in 1983",
+      "Is a Ramsar instrument",
+      "Was adopted in 1996"
+    ],
+    "answer": 0,
+    "explanation": "The International Treaty on Plant Genetic Resources was adopted in 2001 and it provides for the multilateral access and the benefit sharing of the plant genetic resources.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ramsar Convention is:",
+    "options": [
+      "about the hazardous waste",
+      "about the ozone",
+      "about the migratory species",
+      "about the wetlands of the international importance and it was signed in 1971"
+    ],
+    "answer": 3,
+    "explanation": "The Ramsar Convention, signed in 1971, is the framework for the conservation and the wise use of the wetlands and their resources.",
+    "difficulty": "easy",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Lists the Ramsar sites where the ecological characteristics have:",
+    "options": [
+      "the list of the World Heritage sites in danger",
+      "changed",
+      "lists the sites of the World Heritage",
+      "the list of the biosphere reserves"
+    ],
+    "answer": 1,
+    "explanation": "The Montreux Record lists the Ramsar sites where the ecological characteristics have changed or are likely to change, and where the timely action is needed.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mahatma Gandhi National Clean Water Mission was:",
+    "options": [
+      "renamed the Swachh Bharat",
+      "renamed the Namami Gange",
+      "renamed the POSHAN",
+      "renamed the Jal Jeevan Mission in 2019"
+    ],
+    "answer": 3,
+    "explanation": "The National Rural Drinking Water Mission was renamed the Jal Jeevan Mission in 2019 with the aim of a functional tap connection to every rural household.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": 2019
+  },
+  {
+    "q": "The Namami Gange programme was launched in 2009 and the NGRBA is:",
+    "options": [
+      "launched in 2019",
+      "the apex body",
+      "launched in 1991",
+      "launched in 2014"
+    ],
+    "answer": 1,
+    "explanation": "The Namami Gange programme was launched in June 2009 and the National Ganga River Basin Authority is the apex body for the planning and the coordination.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": 2009
+  },
+  {
+    "q": "National River Conservation Plan is:",
+    "options": [
+      "the programme of the river conservation and the restoration with the National River Conservation Plan of 1995",
+      "a scheme of the irrigation",
+      "a fisheries programme",
+      "a forest programme"
+    ],
+    "answer": 0,
+    "explanation": "The National River Conservation Plan of 1995, the River Action Plan of the National Ganga River Basin Authority, is the programme of the conservation of the rivers.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Central Water Commission is:",
+    "options": [
+      "a private body",
+      "a state body",
+      "the apex body of the water resources and it was set up in 1951",
+      "set up in 1975"
+    ],
+    "answer": 2,
+    "explanation": "The Central Water Commission, constituted in 1951, is the apex organisation for the water resources and it is under the Ministry of Jal Shakti.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "It was constituted in 1953 under the Electricity Act and it is:",
+    "options": [
+      "a private body",
+      "set up in 2003",
+      "the apex body of the power sector",
+      "set up in 1991"
+    ],
+    "answer": 2,
+    "explanation": "The Central Electricity Authority, constituted in 1953 under the Electricity Act, is the apex body for the planning, the promotion and the coordination of the power sector.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bureau of Energy Efficiency was:",
+    "options": [
+      "set up under the Energy Conservation Act of 2001",
+      "set up in 1991",
+      "a state body",
+      "set up in 2015"
+    ],
+    "answer": 0,
+    "explanation": "The Bureau of Energy Efficiency was set up under the Energy Conservation Act of 2001 with the objective of the energy efficiency and the conservation labelling.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Export Credit Guarantee Corporation provides:",
+    "options": [
+      "the commodity exchange",
+      "the financial regulator",
+      "the Export Promotion Bureau",
+      "the insurance for the Indian exporters"
+    ],
+    "answer": 3,
+    "explanation": "The Export Credit Guarantee Corporation provides the credit insurance and the risk cover to the Indian exporters and the ECGC is the apex for the export credit insurance.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the CERT-In is correct?",
+    "options": [
+      "It was established in 2015",
+      "It is the national agency for the cyber security and it was established in 2004",
+      "It was established in 1991",
+      "It is a private body"
+    ],
+    "answer": 1,
+    "explanation": "The Indian Computer Emergency Response Team, established in 2004 under the MeitY, is the national agency for the cyber security incidents.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Cyber Security Policy' of 2012:",
+    "options": [
+      "Was the first comprehensive cyber security policy of India and it was superseded in 2020",
+      "It is of 2020",
+      "It is of 2005",
+      "There is no policy"
+    ],
+    "answer": 0,
+    "explanation": "The National Cyber Security Policy of 2012 was the first comprehensive policy framework of India and it was superseded by the 2020 policy.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Wildlife Crime Control Bureau':",
+    "options": [
+      "Is under the Ministry of Home Affairs alone",
+      "Is a statutory body of the Ministry of Environment with the state police",
+      "Is a private body",
+      "Is a UN agency"
+    ],
+    "answer": 1,
+    "explanation": "The Wildlife Crime Control Bureau, a statutory body under the Wildlife Protection Act, is under the Ministry of Environment with the member states of the police.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Forest and Environment Development Board':",
+    "options": [
+      "It is a state body",
+      "It is the ASI",
+      "Is the apex body of the forest and the environment in the Andaman and the Nicobar",
+      "It is a UN agency"
+    ],
+    "answer": 2,
+    "explanation": "The National Forest and Environment Development Board is the apex body for the forests and the environment of the Andaman and the Nicobar Islands.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "National Green Development Project is:",
+    "options": [
+      "a hydropower project",
+      "a mangrove project",
+      "a wildlife translocation project",
+      "the project of the afforestation of the degraded forests in the country"
+    ],
+    "answer": 3,
+    "explanation": "The National Green Development Project is the programme of the afforestation of the degraded forests and the greening of the urban and the industrial areas.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Compensation to the Project Elephant':",
+    "options": [
+      "It is a scheme of the wildlife tourism",
+      "It is a scheme of the forest produce",
+      "Is the scheme of the funds for the human elephant conflict and the habitat and the welfare of the elephants",
+      "It is a scheme of the tribal welfare"
+    ],
+    "answer": 2,
+    "explanation": "The Compensation to the Project Elephant scheme supports the human elephant conflict mitigation, the habitat management and the welfare of the elephants and the ex-servicemen.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Project Vulture' of India:",
+    "options": [
+      "It is the release of the tigers",
+      "It is the conservation of the otters",
+      "It is the crocodile conservation",
+      "Is the restoration of the vultures with the Nepal and the Bhutan"
+    ],
+    "answer": 3,
+    "explanation": "The Project Vulture is the restoration of the vultures in India with the Nepal and the Bhutan, and it was launched in the 1990s after the diclofenac crisis.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Biodiversity Register' of India:",
+    "options": [
+      "Is the online portal of the people and the institutions for the documentation of the species",
+      "It is the list of the protected areas",
+      "It is the red data book",
+      "It is the pollution inventory"
+    ],
+    "answer": 0,
+    "explanation": "The Biodiversity Register of India, an initiative of the MoEFCC, is the online portal for the people and the institutions to document the species of the country.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Botanical Garden of the Lucknow and the National Botanic Garden of the Mohangarh are:",
+    "options": [
+      "the seed banks",
+      "the ex-situ conservation centres",
+      "the wildlife sanctuaries",
+      "the national parks"
+    ],
+    "answer": 1,
+    "explanation": "The National Botanical Garden of the Lucknow and the National Botanic Garden of the Mohangarh are the ex-situ conservation centres of the ex-situ conservation of the plants.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Herbarium of the Lucknow and the Central National Herbarium of the Bhowali are:",
+    "options": [
+      "the seed banks",
+      "the national parks",
+      "the botanical museums",
+      "the wildlife sanctuaries"
+    ],
+    "answer": 2,
+    "explanation": "The National Herbarium of the Lucknow and the Central National Herbarium of the Bhowali in the Dehradun hold the botanical collections of the country.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "National Institute of Oceanography is:",
+    "options": [
+      "in Kochi",
+      "the premier ocean research institute of the India at Goa",
+      "in Chennai",
+      "a private institute"
+    ],
+    "answer": 1,
+    "explanation": "The National Institute of Oceanography at Dona Paula in Goa is the premier ocean research institute of the country and it is under the Ministry of Earth Sciences.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Geological Survey of India' is:",
+    "options": [
+      "The premier national organisation of the earth sciences with the headquarters at Kolkata",
+      "A private company",
+      "A UN agency",
+      "A state department"
+    ],
+    "answer": 0,
+    "explanation": "The Geological Survey of India, founded in 1851, is the premier national organisation of the earth sciences and its headquarters are at Kolkata.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Forest Survey of India' was established in:",
+    "options": [
+      "1985",
+      "1973",
+      "1991",
+      "1981"
+    ],
+    "answer": 3,
+    "explanation": "The Forest Survey of India, a national organisation under the Ministry of Environment, was established in 1981 and it publishes the India State of Forest Report biennially.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Zoological Survey of India' was established in:",
+    "options": [
+      "1851",
+      "1930",
+      "1951",
+      "1916"
+    ],
+    "answer": 3,
+    "explanation": "The Zoological Survey of India, established in 1916, is the premier organisation of the zoological studies and it publishes the Red Data Book.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Botanical Survey of India' was established in:",
+    "options": [
+      "1916",
+      "1981",
+      "1890",
+      "1851"
+    ],
+    "answer": 2,
+    "explanation": "The Botanical Survey of India, founded in 1890, is the apex organisation of the botanical studies and it maintains the herbaria and the botanical gardens.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the ICAR?",
+    "options": [
+      "It is a private body",
+      "It was established in 1929 as the Imperial Council of Agricultural Research",
+      "It was established in 1947",
+      "It is under the Ministry of Finance"
+    ],
+    "answer": 1,
+    "explanation": "The ICAR was established in April 1929 as the Imperial Council of Agricultural Research and it became the ICAR in 1946.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Research Development Corporation' is:",
+    "options": [
+      "A public sector undertaking for the technology transfer with the headquarters in New Delhi",
+      "A private company",
+      "A UN agency",
+      "A state body"
+    ],
+    "answer": 0,
+    "explanation": "The National Research Development Corporation, a public sector undertaking under the Department of Science and Technology, is the main organisation for the technology transfer.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Environmental Protection Act is:",
+    "options": [
+      "the umbrella law and it was amended in 1991 with the EIA notification",
+      "of 1974",
+      "of 1981",
+      "of 1986 only"
+    ],
+    "answer": 0,
+    "explanation": "The Environment Protection Act of 1986 is the umbrella law and the 1991 amendment inserted the EIA Notification and the public trust doctrine in the preamble.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Forest Rights Act was:",
+    "options": [
+      "enacted in 1927",
+      "enacted in 1953",
+      "enacted in 2006 and it was amended in 2021 with the 14 forest rights",
+      "enacted in 1980"
+    ],
+    "answer": 2,
+    "explanation": "The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act of 2006 was amended in 2021 to provide the 14 categories of the forest rights.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The CAMPA Act of 2016 provided:",
+    "options": [
+      "the forest rights act",
+      "the wild life protection act",
+      "the EIA notification",
+      "for the funds for the afforestation and the ecological restoration"
+    ],
+    "answer": 3,
+    "explanation": "The Compensatory Afforestation Fund Management and Planning Act of 2016 provided for the national and the state funds for the afforestation and the ecological restoration of the diverted forest lands.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "established in 2010 and it has:",
+    "options": [
+      "the powers of the High Court",
+      "established in 2010 and it has a bench at each of the five places",
+      "established in 1995",
+      "in Delhi only"
+    ],
+    "answer": 1,
+    "explanation": "The National Green Tribunal was established in 2010 and it has the principal bench at Delhi with the other benches at five places.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Biodiversity Authority' is chaired by:",
+    "options": [
+      "The President",
+      "The Minister of State in the Ministry of Environment",
+      "The Prime Minister",
+      "The Chief Justice"
+    ],
+    "answer": 1,
+    "explanation": "The National Biodiversity Authority is chaired by the Minister of State in the Ministry of Environment, Forest and Climate Change.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Zoo Authority' is:",
+    "options": [
+      "A state body",
+      "A UN agency",
+      "The apex body of the zoos and the aquariums of the country",
+      "A private body"
+    ],
+    "answer": 2,
+    "explanation": "The Central Zoo Authority, constituted in 1993, is the apex body for the administration of the zoos and the aquariums and it is under the Ministry of Environment.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the National Marine Fisheries, which of the following is correct?",
+    "options": [
+      "It is at Goa",
+      "It is at Chennai",
+      "It is at Mumbai",
+      "The National Marine Fisheries Research Institute is at Kochi"
+    ],
+    "answer": 3,
+    "explanation": "The National Marine Fisheries Research Institute is at Kochi and it is the premier research institute of the marine fisheries of the country.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Indian Council of Agricultural Research is:",
+    "options": [
+      "the apex organisation of the agricultural research with the headquarters at New Delhi",
+      "a private body",
+      "under the Ministry of Finance",
+      "a state body"
+    ],
+    "answer": 0,
+    "explanation": "The ICAR, with the headquarters at New Delhi, is the apex organisation of the agricultural research with more than 60 agricultural universities under it.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Fugitive Offenders Act of 2014 allows:",
+    "options": [
+      "about the cyber crime",
+      "about the trafficking",
+      "the extradition of the wanted offenders from the foreign countries",
+      "about the money laundering"
+    ],
+    "answer": 2,
+    "explanation": "The Fugitive Offenders Act of 2014 allows the Central government to extradite the wanted offenders from any foreign country and it has been amended in 2018.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Noise Pollution (Regulation and Control) Rules of 2000 are:",
+    "options": [
+      "of 1981",
+      "no rules",
+      "of 2019",
+      "the central rules"
+    ],
+    "answer": 3,
+    "explanation": "The Noise Pollution (Regulation and Control) Rules of 2000 prescribe the standards for the noise in the various zones for the industrial, the commercial and the residential areas.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The E-waste (Management) Rules of 2022 have:",
+    "options": [
+      "of 1998",
+      "the producer responsibility and the centralised collection",
+      "of 2011",
+      "of 2016"
+    ],
+    "answer": 1,
+    "explanation": "The E-waste (Management) Rules of 2022 came into force on 1 April 2023 and they extended the producer responsibility to the twenty-one categories of the equipment with the centralised collection.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "In the context of the Biomedical Waste, which of the following is correct?",
+    "options": [
+      "The Biomedical Waste Management Rules of 2016 replaced the 1998 rules",
+      "The rules are of 1998",
+      "There are no rules",
+      "The rules are of 2005"
+    ],
+    "answer": 0,
+    "explanation": "The Biomedical Waste Management Rules of 2016 replaced the 1998 rules and they prescribe the segregation, the collection, the transport and the treatment of the biomedical waste in the colour-coded bags.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "Which of the following is correct in the case of the Solid Waste?",
+    "options": [
+      "The rules are of 2000",
+      "There are no rules",
+      "The rules are of 1998",
+      "The Solid Waste Management Rules of 2016 and the Construction and Demolition Waste Rules of 2016"
+    ],
+    "answer": 3,
+    "explanation": "The Solid Waste Management Rules of 2016 and the Construction and Demolition Waste Management Rules of 2016 are the central rules of the waste management in the country.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "The 'Plastic Waste Management Rules' of 2016:",
+    "options": [
+      "Banned the identified plastic items and the rules came into force in 2018",
+      "Came into force in 2016",
+      "Are of 2000",
+      "Are of 2022"
+    ],
+    "answer": 0,
+    "explanation": "The Plastic Waste Management Rules of 2016 banned the manufacture, the import and the use of the identified single-use plastic items and the rules came into force on 1 July 2018.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "Which of the following is correct in the case of the extended producer responsibility?",
+    "options": [
+      "The guidelines are of 2005",
+      "The EPR Guidelines of 2019 and the plastic packaging EPR of 2022",
+      "The guidelines are of 1998",
+      "There is no EPR"
+    ],
+    "answer": 1,
+    "explanation": "The Extended Producer Responsibility Guidelines of 2019 and the plastic packaging EPR of 2022 make the producers responsible for the end of the life of their products.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Solid Waste Management Policy' of 2021:",
+    "options": [
+      "It made the municipal solid waste mandatory only in the cities",
+      "It has no source segregation",
+      "Mandates the segregation at the source in the 3 bins and the legacy dumps remediation",
+      "It banned the recycling"
+    ],
+    "answer": 2,
+    "explanation": "The National Solid Waste Management Policy of 2021 mandated the source segregation in the 3 bins, the legacy dumps remediation and the partnership of the informal sector.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "In the context of the biogas, which of the following is correct?",
+    "options": [
+      "It is the coal gas",
+      "It is the natural gas",
+      "It is the LPG",
+      "The gobardhan and the gobar gas plants convert the organic waste to the biogas and the biofertiliser"
+    ],
+    "answer": 3,
+    "explanation": "The biogas plants, the gobar gas plants, convert the organic waste into the biogas for the cooking and the slurry into the biofertiliser.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The compost and the vermicompost are:",
+    "options": [
+      "the organic manures and the FCO of 2009 regulates the biofertilisers",
+      "a chemical fertiliser",
+      "a pesticide",
+      "of 2015"
+    ],
+    "answer": 0,
+    "explanation": "The compost and the vermicompost are the organic manures and the Fertiliser (Control) Order of 2009 regulates the biofertilisers and the the compost the the the.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the sewage?",
+    "options": [
+      "The rules are of 2000",
+      "The Sewage (Management and Disposal) Rules of 2014 prescribe the treatment and the disposal",
+      "The rules are of 1998",
+      "There are no rules"
+    ],
+    "answer": 1,
+    "explanation": "The Sewage (Management and Disposal) Rules of 2014 prescribe the treatment and the disposal of the sewage and the use of the treated waste water for the city.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The single-use plastic items are:",
+    "options": [
+      "only the straws",
+      "the PET bottles",
+      "the straws, the plates, the cups, the cutlery and the plastic carry bags and the toothpicks",
+      "only the plastic bags"
+    ],
+    "answer": 2,
+    "explanation": "The identified single-use plastic items include the straws, the plates, the cups, the cutlery, the plastic carry bags, the toothpicks and the thin plastic films.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the National Recycling is correct?",
+    "options": [
+      "The National Recycling Policy of 2021 and the Plastic Waste Management Rules of 2022",
+      "It is a policy of 2015",
+      "There is no such policy",
+      "It is of 2009"
+    ],
+    "answer": 0,
+    "explanation": "The National Recycling Policy of 2021 and the Plastic Waste Management Rules of 2022 together aim to double the plastic waste recycling by 2025.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The fly ash of the thermal power plants is:",
+    "options": [
+      "a hazardous waste",
+      "dumped in the rivers",
+      "used as the fertiliser",
+      "used in the cement and the bricks and the road building"
+    ],
+    "answer": 3,
+    "explanation": "The fly ash and the bottom ash of the thermal power plants are used in the cement, the bricks, the road construction and the mine filling, and the ash utilisation is promoted by the CPCB.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Public Health Act of 1894 is:",
+    "options": [
+      "no such act",
+      "the parent of the environmental laws in India",
+      "of 1947",
+      "of 1986"
+    ],
+    "answer": 1,
+    "explanation": "The Public Health Act of 1894 is the parent of the environmental laws in India and the EPA of 1986 provided the umbrella framework.",
+    "difficulty": "hard",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

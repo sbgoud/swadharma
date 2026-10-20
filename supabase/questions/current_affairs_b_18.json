@@ -1,0 +1,752 @@
+[
+  {
+    "q": "The 9th Summit of the Shanghai Cooperation Organisation was held in:",
+    "options": [
+      "Samarkand, Uzbekistan",
+      "Tianjin, China",
+      "New Delhi, India",
+      "Astana, Kazakhstan"
+    ],
+    "answer": 3,
+    "explanation": "The ninth SCO summit was held in Astana in July 2024 under the chairmanship of Kazakhstan, and India and Kazakhstan signed a joint statement on the sidelines.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2024
+  },
+  {
+    "q": "The 16th BRICS Summit was held in:",
+    "options": [
+      "Xiamen, China",
+      "Brasilia, Brazil",
+      "Kazan, Russia",
+      "Johannesburg, South Africa"
+    ],
+    "answer": 2,
+    "explanation": "The BRICS summit under the Russian chairmanship was held at Kazan in October 2024, and the grouping had been expanded with the new members at the Johannesburg summit of 2023.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2024
+  },
+  {
+    "q": "The 2024 G20 Leaders' Summit was held in:",
+    "options": [
+      "Los Angeles, United States",
+      "Rio de Janeiro, Brazil",
+      "New Delhi, India",
+      "Bali, Indonesia"
+    ],
+    "answer": 1,
+    "explanation": "The G20 summit under the Brazilian presidency was held at Rio de Janeiro in November 2024, and the priorities included the Global Alliance against Hunger, the taxation of the ultra-high net worth individuals and the climate finance.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2024
+  },
+  {
+    "q": "The Quad Leaders' Summit of 2024 was held in:",
+    "options": [
+      "New Delhi",
+      "Tokyo",
+      "Sydney",
+      "Washington DC"
+    ],
+    "answer": 3,
+    "explanation": "The Quad Leaders' Summit was held in Washington DC in October 2024, and the agenda included the maritime security in the Indo-Pacific, the critical and emerging technologies and the humanitarian assistance.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2024
+  },
+  {
+    "q": "The 2+2 Ministerial Dialogue between India and Japan was held in July 2024 in:",
+    "options": [
+      "Tokyo",
+      "New Delhi",
+      "Jakarta",
+      "Naypyidaw"
+    ],
+    "answer": 0,
+    "explanation": "The ninth India-Japan 2+2 Ministerial Dialogue was held in Tokyo in July 2024, the first such meeting after a long gap, and it covered the defence, the foreign affairs, the connectivity and the people to people ties.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2024
+  },
+  {
+    "q": "The 20th India-Russia Summit was held in October 2024 in:",
+    "options": [
+      "Sochi",
+      "Vladivostok",
+      "New Delhi",
+      "Moscow"
+    ],
+    "answer": 2,
+    "explanation": "The twentieth India-Russia summit was held in New Delhi in October 2024 on the sidelines of the BRICS summit, and the two countries signed about twenty documents covering the energy, the defence manufacturing and the agriculture.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2024
+  },
+  {
+    "q": "The 'Treaty on the Prohibition of Nuclear Weapons' was signed by India in:",
+    "options": [
+      "2005",
+      "1996",
+      "2015",
+      "2018"
+    ],
+    "answer": 3,
+    "explanation": "India signed the Treaty on the Prohibition of Nuclear Weapons in September 2018, becoming the first nuclear weapon state to do so, and the treaty bans the nuclear weapons, their development, the production and the transfer.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2018
+  },
+  {
+    "q": "The 'Comprehensive Nuclear-Test-Ban Treaty' was signed by India in:",
+    "options": [
+      "1996",
+      "1998",
+      "2003",
+      "1999"
+    ],
+    "answer": 0,
+    "explanation": "India signed the CTBT in September 1996 but has not ratified it, and the treaty bans all the nuclear explosions, the test of which the 1998 Pokhran-II series demonstrated the value of the political declaration of the complete disarmament.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 15th IBSA Summit was held in:",
+    "options": [
+      "Johannesburg, South Africa",
+      "Luanda, Angola",
+      "Brasilia, Brazil",
+      "New Delhi, India"
+    ],
+    "answer": 1,
+    "explanation": "The fifteenth summit of the India-Brazil-South Africa grouping was held in Luanda in August 2023 and the leaders called for the reform of the global financial institutions and the greater representation of the developing countries.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2023
+  },
+  {
+    "q": "The 3rd BIMSTEC Summit was held in:",
+    "options": [
+      "Colombo, Sri Lanka",
+      "Kathmandu, Nepal",
+      "Bangkok, Thailand",
+      "Dhaka, Bangladesh"
+    ],
+    "answer": 2,
+    "explanation": "The third BIMSTEC summit was held in Bangkok in September 2023, and the grouping of the seven Bay of Bengal countries adopted the Bangkok Declaration with the emphasis on the connectivity, the trade and the energy security.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2023
+  },
+  {
+    "q": "The last SAARC Summit that was held was in:",
+    "options": [
+      "Colombo, Sri Lanka",
+      "Dhaka, Bangladesh",
+      "Kathmandu, Nepal",
+      "Islamabad, Pakistan"
+    ],
+    "answer": 2,
+    "explanation": "The nineteenth SAARC summit was held in Kathmandu in November 2018, and no summit has been held since because of the absence of consensus on the agenda, with India insisting on a bilateral approach.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2018
+  },
+  {
+    "q": "The 'India-Africa Forum Summit' of 2023 was the:",
+    "options": [
+      "a special session of the UN General Assembly",
+      "third edition of the India-Africa Forum Summit",
+      "second edition of the India-Africa Forum Summit",
+      "first edition of the India-Africa Forum Summit"
+    ],
+    "answer": 1,
+    "explanation": "The third India-Africa Forum Summit and the third India-Africa Ministerial Dialogue were held in New Delhi in October 2023, and the outcome was the 'Delhi Declaration' with the common vision of a vibrant and prosperous Africa.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2023
+  },
+  {
+    "q": "The 'Commonwealth Heads of Government Meeting' of 2024 was held in:",
+    "options": [
+      "Kigali, Rwanda",
+      "Nairobi, Kenya",
+      "Suva, Fiji",
+      "Apia, Samoa"
+    ],
+    "answer": 3,
+    "explanation": "The CHOGM was held in Apia in Samoa in October 2024, and the theme emphasised the climate action and the ocean protection, and India participated as the head of the organisation of the Commonwealth until 2023.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2024
+  },
+  {
+    "q": "The 'India-EU' Summit of 2023 was held in:",
+    "options": [
+      "New Delhi",
+      "Brussels",
+      "Lisbon",
+      "Madrid"
+    ],
+    "answer": 0,
+    "explanation": "The India-European Union summit was held in New Delhi in October 2023, and the two sides announced the intention to conclude the negotiations on the Trade and Investment Partnership Agreement and the Geographical Indications Agreement.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2023
+  },
+  {
+    "q": "The 'India-Brazil' diplomatic relations completed:",
+    "options": [
+      "50 years in 2024",
+      "75 years in 2024",
+      "40 years in 2024",
+      "60 years in 2024"
+    ],
+    "answer": 3,
+    "explanation": "India and Brazil marked the completion of sixty years of diplomatic relations in 2024, and the two countries are the largest economies of the Global South with a long-standing cooperation in the agriculture, the health and the space sectors.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2024
+  },
+  {
+    "q": "The 'India and Kazakhstan' — The first '2+2' dialogue between India and Kazakhstan was held in:",
+    "options": [
+      "Moscow",
+      "New Delhi",
+      "Astana",
+      "Almaty"
+    ],
+    "answer": 1,
+    "explanation": "The first India-Kazakhstan 2+2 dialogue was held in New Delhi in January 2023, and the two countries also agreed on the operationalisation of the Bimal (Bilateral) initiative on the rail connectivity and the energy trade.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2023
+  },
+  {
+    "q": "The 'India and the Philippines' — The first India-Philippines Foreign Ministers' Dialogue in fifteen years was held in:",
+    "options": [
+      "Jakarta",
+      "Singapore",
+      "Manila",
+      "New Delhi"
+    ],
+    "answer": 2,
+    "explanation": "The ninth India-Philippines Foreign Ministers' Dialogue was held in Manila in August 2024, the first such meeting in fifteen years, and it covered the maritime cooperation, the defence interoperability and the trade and the investment.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2024
+  },
+  {
+    "q": "The 'India and Afghanistan' — The first ever India-Afghanistan Consular Dialogue was held in:",
+    "options": [
+      "New Delhi",
+      "Kabul",
+      "Dubai",
+      "Doha"
+    ],
+    "answer": 0,
+    "explanation": "The first India-Afghanistan Consular Dialogue was held in New Delhi in October 2024, and it covered the visa facilitation, the education, the trade and the people to people exchanges and the humanitarian assistance.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2024
+  },
+  {
+    "q": "The 'India and the Maldives' — The 10th India-Maldives Foreign Office Consultations were held in:",
+    "options": [
+      "New Delhi",
+      "Colombo",
+      "Dubai",
+      "Male"
+    ],
+    "answer": 3,
+    "explanation": "The tenth round of the India-Maldives Foreign Office Consultations was held in Male in March 2024, and the discussions covered the security and the defence cooperation and the economic and the developmental partnership.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2024
+  },
+  {
+    "q": "The 'India and the 'G7' — India is not a member of the G7, and the G20 presidency of 2023 was the first that:",
+    "options": [
+      "was convened in New Delhi",
+      "was held in a country of the Global South",
+      "was chaired by the Prime Minister of India",
+      "included the African Union as a permanent member"
+    ],
+    "answer": 1,
+    "explanation": "India's G20 presidency in 2023 was historic because it was the first G20 presidency in the Global South, and it was also the first to include the African Union as a permanent member and to take the leaders' declaration through consensus.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'New Development Bank' of the BRICS allows the lending in:",
+    "options": [
+      "the local currencies of the member countries, apart from the Indian rupee and the Brazilian real",
+      "only the US dollar",
+      "only the renminbi",
+      "the renminbi, the rupee and the real"
+    ],
+    "answer": 0,
+    "explanation": "The NDB is the first multilateral development bank established by the BRICS countries and it permits the lending in the local currencies of the members, other than the Indian rupee and the Brazilian real, in order to reduce the dollarisation of the financing.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "New Development Bank",
+    "year": null
+  },
+  {
+    "q": "India is the largest contributor of the troops to the United Nations peacekeeping operations and the Indian contingent is drawn largely from:",
+    "options": [
+      "the civilian volunteers",
+      "the border security forces only",
+      "the central armed police forces and the state police forces",
+      "the armed forces of the States only"
+    ],
+    "answer": 2,
+    "explanation": "The Indian peacekeepers are drawn from the central armed police forces, the state police forces, the engineering units and the medical staff, and the government has consistently expanded the deployment.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Ocean Rim Association' is a:",
+    "options": [
+      "organisation of the littoral states only",
+      "a military alliance of the Indian Ocean nations",
+      "an economic union of the east African countries",
+      "three-tier organisation of the littoral states of the Indian Ocean, the mainland nations and the overseas territories"
+    ],
+    "answer": 3,
+    "explanation": "The IORA, with its headquarters in Mauritius, has a three-tier structure of the member states, the dialogue partners and the the states of the Indian Ocean rim, and it works on the maritime safety, the fisheries and the trade liberalisation.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": null
+  },
+  {
+    "q": "The 'Sagar' vision of India's engagement with the Indian Ocean, unveiled at the first IORA summit, emphasizes:",
+    "options": [
+      "the peaceful, the growth and the prosperity of the Indian Ocean region",
+      "the naval dominance of the Indian Ocean",
+      "the commercial monopoly of the Indian ports",
+      "the collective defence of the island states"
+    ],
+    "answer": 0,
+    "explanation": "The Sagar vision, articulated by the Prime Minister at the first IORA summit in 2015, emphasises the peace, the growth and the prosperity of the Indian Ocean region and follows the principles of the freedom of navigation, the respect for the sovereignty of the coastal states and the peaceful resolution of the disputes.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": null
+  },
+  {
+    "q": "The 'International North-South Transport Corridor' connects:",
+    "options": [
+      "the Baltic Sea and the Black Sea",
+      "the ports of the Persian Gulf and the Indian Ocean with the Russian ports",
+      "Europe and South America",
+      "India and Japan"
+    ],
+    "answer": 1,
+    "explanation": "The INSTC is the proposed corridor that would link the ports of the Persian Gulf and the Indian Ocean with the ports of Russia through the territory of Iran, and the concept was first announced at the Russia-India-China summit in 2016.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": null
+  },
+  {
+    "q": "The 'Bilateral Currency Swap' arrangements of the RBI are with:",
+    "options": [
+      "the Asian Development Bank alone",
+      "the New Development Bank only",
+      "the central banks of the United States, the United Kingdom, the UAE, the Japan and the others",
+      "only the World Bank"
+    ],
+    "answer": 2,
+    "explanation": "The RBI has entered into the bilateral currency swap agreements with the central banks of the United States, the United Kingdom, the UAE, the Japan, the Switzerland and the others, to provide the foreign exchange liquidity during the crisis.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'UN Security Council Resolution 2728' of 2023:",
+    "options": [
+      "imposed the sanctions on the South Sudan",
+      "authorised the use of force in the Mali operation",
+      "established the sanctions regime on the ISIL",
+      "demanded the immediate cessation of the hostilities in the Gaza Strip and the protection of the civilians"
+    ],
+    "answer": 3,
+    "explanation": "Resolution 2728, adopted in October 2023, demanded the immediate cessation of the hostilities in Gaza and the release of the hostages and the protection of the civilians, and it also stressed the need for the humanitarian assistance to reach the civilians.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "United Nations",
+    "year": 2023
+  },
+  {
+    "q": "The 'UN General Assembly' — The 79th session of the United Nations General Assembly was chaired by:",
+    "options": [
+      "the Secretary-General of the United Nations",
+      "the President of the Security Council for the month",
+      "the President of the 78th session from the Republic of Trinidad and Tobago",
+      "the President of India"
+    ],
+    "answer": 2,
+    "explanation": "The President of the General Assembly presides over the session and the 78th session was presided by the President of Trinidad and Tobago, and the 79th session was presided over by the President of the 78th session until the election of the new President.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "United Nations",
+    "year": null
+  },
+  {
+    "q": "In the context of the World Bank, which of the following is correct?",
+    "options": [
+      "a single window platform of the World Bank for the development projects and the financing data of the member countries",
+      "the India's own development portal",
+      "a database of the UNDP",
+      "a platform of the ADB for the private investment"
+    ],
+    "answer": 0,
+    "explanation": "The India Development Gateway is a World Bank initiative that provides a single window for the information on the development projects, the financing and the results in the country, and it was developed with the Ministry of Finance and the NITI Aayog.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "World Bank",
+    "year": null
+  },
+  {
+    "q": "The 'Global Partnership for SDGs' agreement between India and Japan, signed in 2023:",
+    "options": [
+      "provided for the joint patrolling of the Indian Ocean",
+      "provided for the cooperation on the SDGs with a contribution of USD 50 million by Japan",
+      "provided for the Japanese investment of USD 500 billion in India",
+      "created a free trade area between the two countries"
+    ],
+    "answer": 1,
+    "explanation": "The Global Partnership for SDGs agreement between India and Japan, signed in 2023, provides for a Japanese contribution of USD 50 million for the projects in the sustainable development goals in the areas of the health, the education, the agriculture and the climate action.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2023
+  },
+  {
+    "q": "The 'India and the 'G20' — The 'Global Alliance against Hunger' launched in 2024 is an initiative of:",
+    "options": [
+      "the United Nations alone",
+      "the European Union",
+      "the World Bank and the IMF",
+      "the G20 under the Brazilian presidency"
+    ],
+    "answer": 3,
+    "explanation": "The Global Alliance against Hunger was launched at the G20 summit in Rio de Janeiro in 2024 with the aim of promoting the policies that eradicate hunger and the malnutrition, and it is now supported by a large number of the countries.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2024
+  },
+  {
+    "q": "The 'India and the 'BRICS' — The BRICS expansion in 2024 was announced at the:",
+    "options": [
+      "New Delhi summit of 2021",
+      "Johannesburg summit of 2023",
+      "Kazan summit of 2024",
+      "Beijing summit of 2023"
+    ],
+    "answer": 1,
+    "explanation": "The expansion was announced at the Johannesburg summit of August 2023 and the new members were formally included from January 2024, and the membership of the grouping then extended to nine countries and the partner countries.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": null
+  },
+  {
+    "q": "In the context of the RCEP, which of the following is correct?",
+    "options": [
+      "1 June 2021",
+      "1 January 2019",
+      "1 January 2022",
+      "1 January 2020"
+    ],
+    "answer": 2,
+    "explanation": "The Agreement on the Trade in Goods under the RCEP framework entered into force for India on 1 January 2022, and it was the first such agreement that involved the accession of the third country, that is the ASEAN.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Ministry of Commerce and Industry",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Ministry of External Affairs?",
+    "options": [
+      "2001",
+      "1999",
+      "2005",
+      "1995"
+    ],
+    "answer": 0,
+    "explanation": "The Shanghai Convention on Combating Terrorism was signed in June 2001 in Shanghai, and it provides the legal framework for the member states of the SCO to cooperate against the terrorism, the separatism and the extremism.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the SCO?",
+    "options": [
+      "Astana",
+      "Beijing",
+      "Moscow",
+      "Shanghai"
+    ],
+    "answer": 2,
+    "explanation": "The Regional Anti-Terrorist Structure of the SCO, created in 2002, has its permanent Secretariat in Moscow, and it coordinates the anti-terrorism efforts of the member states.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the nine years?",
+    "options": [
+      "nine years",
+      "six years",
+      "three years",
+      "twelve years"
+    ],
+    "answer": 0,
+    "explanation": "The judges of the International Court of Justice are elected by the General Assembly and the Security Council for a term of nine years, and the seat of the Court is at The Hague.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "United Nations",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the NATO?",
+    "options": [
+      "military command of the alliance",
+      "civilian agency for the procurement",
+      "the body that handles the nuclear policy",
+      "principal political forum and the decision-making body of the alliance"
+    ],
+    "answer": 3,
+    "explanation": "The North Atlantic Council is the principal political forum and the decision-making body of the alliance, and the NATO Secretary General chairs it, and the alliance's Article 5 provides for the collective defence.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Commonwealth?",
+    "options": [
+      "Geneva",
+      "London",
+      "New Delhi",
+      "Nairobi"
+    ],
+    "answer": 1,
+    "explanation": "The Secretariat of the Commonwealth is located at Marlborough House in London and the organisation has fifty-six members, with the Head of the Commonwealth being the British monarch.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Lusophone?",
+    "options": [
+      "Maputo",
+      "Lisbon",
+      "Brasilia",
+      "Luanda"
+    ],
+    "answer": 1,
+    "explanation": "The CPLP has its headquarters in Lisbon and it brings together the Portuguese speaking countries of Africa, Europe and Asia, with the lusophone community numbering about 250 million people.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Indian Ocean Rim Association?",
+    "options": [
+      "its location in the Pacific Ocean",
+      "its being the world's largest coral atoll of the Atlantic",
+      "its location in the Indian Ocean, which hosts the Diego Garcia base used by the United States and the United Kingdom",
+      "its rich bauxite deposits"
+    ],
+    "answer": 2,
+    "explanation": "The Chagos Archipelago hosts the Diego Garcia base in the Indian Ocean, and the sovereignty and the transfer of the archipelago to Mauritius has been a long standing issue in the Assembly of the United Nations and the subject of an advisory opinion of the ICJ.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'India and the 'Pacific' — The 'Pacific Islands Forum' has its Secretariat at:",
+    "options": [
+      "Suva, Fiji",
+      "Noumea, New Caledonia",
+      "Port Vila, Vanuatu",
+      "Apia, Samoa"
+    ],
+    "answer": 0,
+    "explanation": "The Secretariat of the Pacific Islands Forum is based at Suva in Fiji, and the organisation of the Pacific island states works on the free movement, the fisheries, the climate change and the development financing.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'India and the 'IISS' — The 'International Institute for Strategic Studies' is based at:",
+    "options": [
+      "Washington DC",
+      "Brussels",
+      "Paris",
+      "London"
+    ],
+    "answer": 3,
+    "explanation": "The IISS, one of the world's leading think tanks on the strategic studies, is based in London and it publishes the Military Balance and the Strategic Survey every year.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Treaty on the Prohibition of Nuclear Weapons' entered into force in:",
+    "options": [
+      "2018",
+      "2022",
+      "2021",
+      "2019"
+    ],
+    "answer": 2,
+    "explanation": "The TPNW entered into force on 22 January 2021 after the ratification by the required number of the states parties, and it is the first legally binding international treaty to prohibit the nuclear weapons.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the World Health Organization is correct?",
+    "options": [
+      "UNICEF",
+      "the World Bank",
+      "the Global Fund",
+      "World Health Organization"
+    ],
+    "answer": 3,
+    "explanation": "The World Health Organization certified India as malaria free in October 2023 after the country reported zero indigenous cases for three consecutive years, and the certification is valid for the next five years.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "WHO",
+    "year": 2023
+  },
+  {
+    "q": "Which of the following statements regarding the COP23 in Bonn is correct?",
+    "options": [
+      "COP24 in Katowice",
+      "COP23 in Bonn",
+      "COP21 in Paris",
+      "COP26 in Glasgow"
+    ],
+    "answer": 1,
+    "explanation": "The framework agreement of the International Solar Alliance was opened for signature on the sidelines of the COP23 in Bonn in November 2017, and the organisation was formally launched at the COP24 in Katowice in 2018.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the 2016 is correct?",
+    "options": [
+      "2016",
+      "2012",
+      "2019",
+      "2005"
+    ],
+    "answer": 0,
+    "explanation": "The contract for the thirty-six Rafale fighter jets was signed in September 2016, and the first squadron of the Rafale was formally inducted into the Indian Air Force at the Ambala air base in September 2020.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Ministry of Defence",
+    "year": 2016
+  },
+  {
+    "q": "The 'India and the 'Israel' — The 'India-Israel' strategic partnership was elevated to a 'strategic partnership' in:",
+    "options": [
+      "2010",
+      "2015",
+      "2017",
+      "2003"
+    ],
+    "answer": 2,
+    "explanation": "The India-Israel relations were elevated to a strategic partnership in 2017 during the visit of the Israeli Prime Minister to India, and the two countries have a defence cooperation agreement and a space cooperation framework.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2017
+  },
+  {
+    "q": "The 'India and the 'Vietnam' — The 'defence partnership' between India and Vietnam was upgraded to a 'strategic partnership' in:",
+    "options": [
+      "2016",
+      "2007",
+      "2010",
+      "2013"
+    ],
+    "answer": 0,
+    "explanation": "The India-Vietnam defence partnership was upgraded to a strategic partnership in 2016, and the two countries also signed an agreement on the credit line and the defence equipment for the United States, which was the first such defence credit line for Vietnam.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2016
+  },
+  {
+    "q": "The 'India and the 'Indonesia' — The 'India and Indonesia' strategic partnership was elevated to a 'strategic partnership' and the defence cooperation agreement was signed in:",
+    "options": [
+      "2003",
+      "2010",
+      "2015",
+      "2018"
+    ],
+    "answer": 3,
+    "explanation": "During the visit of the Indonesian President to India in December 2018, the two countries signed a defence cooperation agreement and the agreement on the sharing of the maritime surveillance information.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "Ministry of External Affairs",
+    "year": 2018
+  },
+  {
+    "q": "Which of the following is correct in the case of the navies India?",
+    "options": [
+      "the navies of India and Japan with the United Kingdom",
+      "the navies of India, the United States and Japan",
+      "the navies of India, the United States and Australia",
+      "the Indian Navy alone with the coast guard"
+    ],
+    "answer": 1,
+    "explanation": "Exercise Malabar, which began as a bilateral exercise between India and the United States in 2004, is now conducted by the navies of India, the United States and Japan, and it was the first of its kind in 2020.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Indian Navy",
+    "year": null
+  }
+]

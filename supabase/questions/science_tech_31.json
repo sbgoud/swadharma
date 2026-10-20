@@ -1,0 +1,4022 @@
+[
+  {
+    "q": "The SI unit of force is:",
+    "options": [
+      "Newton",
+      "Watt",
+      "Pascal",
+      "Joule"
+    ],
+    "answer": 0,
+    "explanation": "The newton, named after Isaac Newton, is the SI unit of force and is equivalent to one kilogram metre per second squared.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The SI unit of power is:",
+    "options": [
+      "Newton",
+      "Pascal",
+      "Ohm",
+      "Joule per second"
+    ],
+    "answer": 3,
+    "explanation": "The watt, named after James Watt, is the SI unit of power and equals one joule per second.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The SI unit of electric charge is:",
+    "options": [
+      "Ohm",
+      "Volt",
+      "Coulomb",
+      "Ampere"
+    ],
+    "answer": 2,
+    "explanation": "The coulomb is the SI unit of electric charge and is named after Charles-Augustin de Coulomb.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The SI unit of electrical resistance is:",
+    "options": [
+      "Ampere",
+      "Ohm",
+      "Watt",
+      "Volt"
+    ],
+    "answer": 1,
+    "explanation": "The ohm, named after Georg Ohm, is the SI unit of electrical resistance and is equal to one volt per ampere.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The SI unit of frequency is:",
+    "options": [
+      "Radian",
+      "Pascal",
+      "Joule",
+      "Hertz"
+    ],
+    "answer": 3,
+    "explanation": "The hertz, named after Heinrich Hertz, is the SI unit of frequency and equals one cycle per second.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "One tesla is equal to:",
+    "options": [
+      "One weber per square metre",
+      "One weber",
+      "One gauss",
+      "One henry per metre"
+    ],
+    "answer": 0,
+    "explanation": "A magnetic flux density of one tesla is a magnetic flux of one weber through an area of one square metre.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The dimension of pressure is the same as that of:",
+    "options": [
+      "Power",
+      "Energy",
+      "Force per unit area",
+      "Momentum"
+    ],
+    "answer": 2,
+    "explanation": "Pressure is force per unit area, and its SI unit is the pascal, equal to one newton per square metre.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The dimension of surface tension is the same as that of:",
+    "options": [
+      "Momentum",
+      "Force",
+      "Pressure",
+      "Energy"
+    ],
+    "answer": 1,
+    "explanation": "Surface tension is force per unit length, so its dimensions are the same as those of force.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Newton's second law of motion is:",
+    "options": [
+      "W = mg",
+      "E = mc2",
+      "F = ma",
+      "F = mv"
+    ],
+    "answer": 2,
+    "explanation": "The rate of change of momentum is proportional to the applied force and takes place in the direction of the force, which gives F = ma for a constant mass.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'law of action and reaction' was given by:",
+    "options": [
+      "Galileo",
+      "Einstein",
+      "Archimedes",
+      "Newton"
+    ],
+    "answer": 3,
+    "explanation": "Newton's third law states that to every action there is an equal and opposite reaction, and the two forces act on different bodies.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'escape velocity' from the earth's surface is approximately:",
+    "options": [
+      "11.2 km/s",
+      "3.7 km/s",
+      "15.4 km/s",
+      "7.9 km/s"
+    ],
+    "answer": 0,
+    "explanation": "The escape velocity from the earth's surface is about 11.2 km per second, compared with the orbital velocity of about 7.9 km per second.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'value of g' at the surface of the earth is approximately:",
+    "options": [
+      "9.8 m/s2",
+      "6.67 x 10-11",
+      "3 x 10^8",
+      "1.6 x 10-19"
+    ],
+    "answer": 0,
+    "explanation": "The acceleration due to gravity at the earth's surface is about 9.8 metres per second squared, and it decreases with the height and increases with the depth.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The value of the universal gravitational constant G is:",
+    "options": [
+      "3 x 10^8 m/s",
+      "1.6 x 10-19 C",
+      "6.67 x 10-11 N m2/kg2",
+      "9.8 m/s2"
+    ],
+    "answer": 2,
+    "explanation": "The universal gravitational constant, measured by Cavendish, is 6.67 x 10 to the power of minus 11 newton metre squared per kilogram squared.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "'Kepler's third law' states that:",
+    "options": [
+      "Planets move in ellipses with the sun at one focus",
+      "The square of the orbital period is proportional to the cube of the semi-major axis",
+      "The orbit is a circle",
+      "The speed of a planet is constant"
+    ],
+    "answer": 1,
+    "explanation": "Kepler's third law, or the law of periods, states that the square of the time period of revolution is proportional to the cube of the semi-major axis of the ellipse.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'geostationary satellite' is at a distance of about:",
+    "options": [
+      "42,000 km from the earth's centre",
+      "22,000 km from the earth's centre",
+      "16,000 km from the earth's centre",
+      "36,000 km from the earth's centre"
+    ],
+    "answer": 3,
+    "explanation": "A geostationary satellite orbits in the equatorial plane at about 35,786 km from the earth's centre, which is about 42,164 km from the earth's surface.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'first law of thermodynamics' is also known as:",
+    "options": [
+      "The law of constant entropy",
+      "The law of heat exchange",
+      "The zeroth law",
+      "The law of conservation of energy"
+    ],
+    "answer": 3,
+    "explanation": "The first law states that the total energy of an isolated system is conserved and is usually expressed as the first law of thermodynamics or the law of conservation of energy.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Carnot engine' operates on:",
+    "options": [
+      "The Brayton cycle",
+      "The Otto cycle",
+      "The Carnot cycle with maximum possible efficiency",
+      "The Diesel cycle"
+    ],
+    "answer": 2,
+    "explanation": "The Carnot engine is the ideal heat engine working between two temperatures, and it has the maximum possible efficiency among all the heat engines working between the same temperatures.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Newton's formula of cooling' applies to:",
+    "options": [
+      "Radiation",
+      "Conduction only",
+      "Convection and conduction",
+      "Convection only"
+    ],
+    "answer": 0,
+    "explanation": "The rate of cooling of a body by radiation is proportional to the difference between the temperature of the body and the surroundings.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Barkhausen effect' relates to:",
+    "options": [
+      "The photoelectric effect",
+      "Magnetisation of ferromagnetic materials",
+      "Refraction of light",
+      "Emission of electrons from a metal"
+    ],
+    "answer": 1,
+    "explanation": "The Barkhausen effect is the magnetisation of ferromagnetic material in discontinuous jumps, which supports the domain theory of magnetism.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The charge carriers and their is correct?",
+    "options": [
+      "The charge carriers and their density in a semiconductor",
+      "The speed of light",
+      "The mass of an electron",
+      "The temperature of a star"
+    ],
+    "answer": 0,
+    "explanation": "The Hall effect, the development of a transverse voltage across a current-carrying conductor in a magnetic field, is used to study the carriers in semiconductors.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A 'p-n junction diode' acts as:",
+    "options": [
+      "A resistor always",
+      "A one-way valve allowing current to flow from the p to the n side in forward bias",
+      "A capacitor only",
+      "An amplifier"
+    ],
+    "answer": 1,
+    "explanation": "In forward bias the p-n junction diode allows the current to flow from the p-side anode to the n-side cathode, and in reverse bias it blocks it, which is the basis of the rectification.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'NAND gate' is equivalent to:",
+    "options": [
+      "A NOR gate",
+      "An OR gate followed by a NOT gate",
+      "An AND gate followed by a NOT gate",
+      "An XOR gate"
+    ],
+    "answer": 2,
+    "explanation": "The NAND gate is the AND gate followed by a NOT gate and is called the universal gate, since all the other gates can be built from it.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'photoelectric effect' was explained by:",
+    "options": [
+      "Rutherford",
+      "Bohr",
+      "de Broglie",
+      "Einstein"
+    ],
+    "answer": 3,
+    "explanation": "Einstein explained the photoelectric effect with the quantum theory of light, for which he received the Nobel Prize in Physics in 1921.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'de Broglie wavelength' of a particle is inversely proportional to:",
+    "options": [
+      "Its mass alone",
+      "Its charge",
+      "Its energy",
+      "Its momentum"
+    ],
+    "answer": 3,
+    "explanation": "The de Broglie wavelength is inversely proportional to the momentum of the particle, and it is significant only for microscopic particles.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Raman effect' is the scattering of:",
+    "options": [
+      "X-rays",
+      "Light with a change in frequency",
+      "Light without any change in frequency",
+      "Radio waves"
+    ],
+    "answer": 1,
+    "explanation": "In the Raman effect, light is scattered with a change in frequency, and the scattered light has a lower frequency when there is a gain of energy by the molecule.",
+    "difficulty": "hard",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bohr model' of the atom was:",
+    "options": [
+      "A relativistic model",
+      "Classical",
+      "A quantum model with stationary orbits",
+      "Based on the wave function only"
+    ],
+    "answer": 2,
+    "explanation": "Bohr proposed that electrons revolve only in certain permitted orbits without radiating energy, and this model successfully explained the hydrogen spectrum.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Pauli exclusion principle' states that:",
+    "options": [
+      "No two electrons in an atom can have the same four quantum numbers",
+      "Two electrons cannot be in the same orbit",
+      "Electrons spin only clockwise",
+      "An atom can hold only two electrons"
+    ],
+    "answer": 0,
+    "explanation": "The Pauli exclusion principle, proposed by Wolfgang Pauli in 1925, restricts the occupancy of the quantum states and explains the structure of the periodic table.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Heisenberg uncertainty principle' relates to:",
+    "options": [
+      "The charge of the electron",
+      "The speed of light",
+      "The uncertainty in the position and the momentum of a particle",
+      "The energy of an atom"
+    ],
+    "answer": 2,
+    "explanation": "The Heisenberg uncertainty principle states that the product of the uncertainties in position and momentum cannot be less than a certain constant.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Bohr radius' of the hydrogen atom is:",
+    "options": [
+      "0.53 nanometre",
+      "1.5 nanometre",
+      "0.1 nanometre",
+      "5.3 nanometre"
+    ],
+    "answer": 0,
+    "explanation": "The Bohr radius of the hydrogen atom is 0.53 nanometre, which is the most probable distance of the electron from the nucleus in the ground state.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Avogadro number' is:",
+    "options": [
+      "9.8 x 10^3",
+      "3 x 10^8",
+      "1.6 x 10-19",
+      "6.022 x 10^23"
+    ],
+    "answer": 3,
+    "explanation": "The Avogadro constant is 6.022 x 10 to the power of 23 per mole, the number of particles in one mole of a substance.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The pH of a neutral solution at 25 degrees Celsius is:",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "At 25 degrees Celsius the pH of pure water is 7, and it changes with temperature, which is why the neutral pH is defined as 7 only at the standard temperature.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Charles's law' relates to:",
+    "options": [
+      "The pressure and the temperature at constant volume",
+      "The volume and the pressure",
+      "The mass and the density",
+      "The volume and the temperature of a gas at constant pressure"
+    ],
+    "answer": 3,
+    "explanation": "Charles's law states that at constant pressure the volume of a fixed mass of gas is directly proportional to the absolute temperature.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Graham's law of diffusion' relates the rate of diffusion to:",
+    "options": [
+      "The density of the gas",
+      "The temperature",
+      "The square root of the molar mass",
+      "The molar mass"
+    ],
+    "answer": 2,
+    "explanation": "Graham's law states that the rate of diffusion of a gas is inversely proportional to the square root of its molar mass.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'law of conservation of mass' was given by:",
+    "options": [
+      "Lavoisier",
+      "Dalton",
+      "Boyle",
+      "Avogadro"
+    ],
+    "answer": 0,
+    "explanation": "Antoine Lavoisier formulated the law of conservation of mass, and Dalton gave the atomic theory and the law of partial pressures.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Periodic Law' was given by:",
+    "options": [
+      "Lavoisier",
+      "Mendeleev",
+      "Moseley",
+      "Bohr"
+    ],
+    "answer": 1,
+    "explanation": "Mendeleev formulated the periodic law in 1869, and Moseley later refined it by using the atomic number as the basis of classification.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Moseley's law' states that the physical properties of an element depend on:",
+    "options": [
+      "Its atomic number",
+      "Its density",
+      "Its valency",
+      "Its atomic mass"
+    ],
+    "answer": 0,
+    "explanation": "Moseley's law states that the physical properties of an element depend on its atomic number, and Moseley's law defeated the Mendeleev law.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'octet rule' is applicable to:",
+    "options": [
+      "All the elements",
+      "Only the noble gases",
+      "The main group elements",
+      "The transition metals"
+    ],
+    "answer": 2,
+    "explanation": "The octet rule, proposed by Kossel and Lewis, applies mainly to the main group elements, and it does not strictly apply to the transition metals.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Hund's rule' concerns:",
+    "options": [
+      "The energy of the atom",
+      "The ionisation energy",
+      "The size of the atom",
+      "The filling of degenerate orbitals"
+    ],
+    "answer": 3,
+    "explanation": "Hund's rule states that the orbitals of a degenerate set are singly occupied before they are paired, and this is why the magnetic moment of oxygen is higher than expected.",
+    "difficulty": "hard",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aufbau principle' is concerned with:",
+    "options": [
+      "The size of the nucleus",
+      "The filling of the lowest available energy orbitals",
+      "The bonding of atoms",
+      "The ionisation of atoms"
+    ],
+    "answer": 1,
+    "explanation": "The Aufbau principle, the German word for building up, states that the orbitals of an atom are filled in the order of increasing energy.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Faraday's laws of electrolysis' relate to:",
+    "options": [
+      "The mass of the substance deposited to the charge passed",
+      "The speed of light to the frequency",
+      "The pressure of a gas to the temperature",
+      "The colour of a solution to the concentration"
+    ],
+    "answer": 0,
+    "explanation": "Faraday's first law states that the mass of the substance deposited is directly proportional to the quantity of electricity passed through the electrolyte.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Haber process' is used to produce:",
+    "options": [
+      "Methanol",
+      "Ammonia",
+      "Sulphuric acid",
+      "Soda ash"
+    ],
+    "answer": 1,
+    "explanation": "The Haber-Bosch process produces ammonia by the direct combination of nitrogen and hydrogen at high pressure and around 450 degrees Celsius.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Contact process' is used to produce:",
+    "options": [
+      "Caustic soda",
+      "Ammonia",
+      "Sulphuric acid",
+      "Nitric acid"
+    ],
+    "answer": 2,
+    "explanation": "In the contact process, sulphur dioxide is oxidised to sulphur trioxide with vanadium pentoxide as the catalyst, and the trioxide is absorbed in sulphuric acid.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ostwald process' is used to produce:",
+    "options": [
+      "Ammonia",
+      "Sulphuric acid",
+      "Chlorine",
+      "Nitric acid"
+    ],
+    "answer": 3,
+    "explanation": "The Ostwald process for nitric acid involves the catalytic oxidation of ammonia to nitric oxide, followed by further oxidation and absorption in water.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Franck-Hertz experiment' demonstrated:",
+    "options": [
+      "The photoelectric effect",
+      "The wave nature of the electron",
+      "The nuclear fission",
+      "The existence of energy levels in the atom"
+    ],
+    "answer": 3,
+    "explanation": "The Franck-Hertz experiment with mercury vapour showed that the energy of the electrons is absorbed in discrete quanta, confirming the quantised energy levels of the atom.",
+    "difficulty": "hard",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Benzene' is described by Kekule as:",
+    "options": [
+      "A hexagon with delocalised pi electrons",
+      "A saturated hydrocarbon",
+      "A polymer of acetylene",
+      "A cyclohexatriene with alternating single and double bonds"
+    ],
+    "answer": 0,
+    "explanation": "Kekule proposed the oscillating structure of benzene, and the modern description is a hexagonal ring with delocalised pi electrons and all the carbon-carbon bonds equal.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'IUPAC' name of the compound C6H5COOH is:",
+    "options": [
+      "Toluene",
+      "Benzoic acid",
+      "Benzaldehyde",
+      "Phenol"
+    ],
+    "answer": 1,
+    "explanation": "C6H5COOH is benzoic acid, C6H5CHO is benzaldehyde, C6H5OH is phenol and C6H5CH3 is toluene.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'oxidation number of chromium' in K2Cr2O7 is:",
+    "options": [
+      "+2",
+      "+3",
+      "+6",
+      "+7"
+    ],
+    "answer": 2,
+    "explanation": "In potassium dichromate, potassium is +1 and oxygen is -2, so 2 + 2x + 7(-2) = 0 gives x = +6 for chromium.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "'Colligative properties' of a solution depend on:",
+    "options": [
+      "The mass of the solute",
+      "The colour of the solute",
+      "The nature of the solute",
+      "The number of particles of the solute"
+    ],
+    "answer": 3,
+    "explanation": "Colligative properties such as osmotic pressure, boiling point elevation and freezing point depression depend only on the number of particles of the solute, not on its nature.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'mole' is defined as:",
+    "options": [
+      "The volume of 22.4 litres of a gas",
+      "The number of molecules in one gram",
+      "The amount of substance containing 6.022 x 10^23 particles",
+      "The mass of one gram"
+    ],
+    "answer": 2,
+    "explanation": "A mole is the amount of substance containing exactly 6.02214076 x 10 to the power of 23 particles, which is the Avogadro constant.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Nernst equation' and the 'electrochemical series' are related to:",
+    "options": [
+      "The metallurgy and the corrosion of metals",
+      "The synthesis of polymers",
+      "The purification of water",
+      "The fertilisers"
+    ],
+    "answer": 0,
+    "explanation": "The electrochemical series helps in predicting the feasibility of a reaction, the relative nobility of metals and the spontaneous corrosion of metals.",
+    "difficulty": "hard",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ozone layer' is destroyed mainly by:",
+    "options": [
+      "Carbon dioxide",
+      "Chlorofluorocarbons",
+      "Methane",
+      "Nitrous oxide"
+    ],
+    "answer": 1,
+    "explanation": "Chlorofluorocarbons and other ozone-depleting substances release chlorine and bromine radicals in the stratosphere that catalytically destroy ozone.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'greenhouse effect' is chiefly due to:",
+    "options": [
+      "Nitrogen and oxygen",
+      "Ozone and nitrous oxide only",
+      "Water vapour only",
+      "Carbon dioxide and methane"
+    ],
+    "answer": 3,
+    "explanation": "Carbon dioxide, methane, water vapour, nitrous oxide and ozone are the main greenhouse gases, with carbon dioxide being the most important anthropogenic contributor.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Freon, the chlorofluorocarbon, is a:",
+    "options": [
+      "A fuel",
+      "A refrigerant chlorofluorocarbon",
+      "A pesticide",
+      "A detergent"
+    ],
+    "answer": 1,
+    "explanation": "Freons, the chlorofluorocarbons, were widely used as refrigerants and propellants and were later phased out under the Montreal Protocol because of their ozone-depleting potential.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'catalyst' in a reaction:",
+    "options": [
+      "Lowers the activation energy without changing the equilibrium position",
+      "Is consumed in the reaction",
+      "Always increases the temperature",
+      "Increases the yield at equilibrium"
+    ],
+    "answer": 0,
+    "explanation": "A catalyst provides an alternative path with a lower activation energy and speeds up both the forward and the reverse reactions, leaving the equilibrium position unchanged.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "'Alloy' is a homogeneous mixture of:",
+    "options": [
+      "Gases only",
+      "Liquids only",
+      "Two metals or a metal and a non-metal",
+      "Two non-metals only"
+    ],
+    "answer": 2,
+    "explanation": "An alloy is a homogeneous mixture of two or more metals, or of a metal and a non-metal, in which the constituent elements retain their properties.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Ramsay' and the 'Nobel gases':",
+    "options": [
+      "Ramsay discovered the electron",
+      "Ramsay proposed the quantum theory",
+      "Ramsay discovered the noble gases in association with Rayleigh",
+      "Ramsay discovered radium"
+    ],
+    "answer": 2,
+    "explanation": "Lord Rayleigh and Sir William Ramsay shared the Nobel Prize in Chemistry in 1904 for the discovery of argon, and Ramsay later discovered helium, neon and krypton.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Radium' was discovered by:",
+    "options": [
+      "Einstein",
+      "Marie and Pierre Curie",
+      "Roentgen",
+      "Becquerel"
+    ],
+    "answer": 1,
+    "explanation": "Marie and Pierre Curie discovered radium and polonium in 1898, and Marie Curie won two Nobel Prizes, the only scientist to win in two different sciences.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Haber-Bosch process' and the 'Ostwald process' are examples of:",
+    "options": [
+      "Industrial synthesis of chemicals",
+      "Electrolysis",
+      "Refining of ores",
+      "Fermentation"
+    ],
+    "answer": 0,
+    "explanation": "Both are large-scale industrial chemical processes for the production of ammonia and nitric acid, central to the fertiliser and explosives industries.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bingham plastic' and the 'Newtonian fluid':",
+    "options": [
+      "They are the same",
+      "The Bingham plastic flows without limit",
+      "The Newtonian fluid has no viscosity",
+      "A Bingham plastic has a yield stress and the Newtonian fluid has a viscosity proportional to the shear rate"
+    ],
+    "answer": 3,
+    "explanation": "A Newtonian fluid flows with a shear stress proportional to the rate of shear, while a Bingham plastic shows a yield value below which it does not flow.",
+    "difficulty": "hard",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'cell unit' of a crystal is:",
+    "options": [
+      "The molecule of the compound",
+      "The smallest unit of a crystal lattice that by repetition generates the crystal",
+      "The largest atom in the lattice",
+      "The unit cell of a liquid"
+    ],
+    "answer": 1,
+    "explanation": "A unit cell is the smallest portion of a crystal lattice that, when repeated in three dimensions, generates the entire lattice.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'close packing' in a solid is of the type:",
+    "options": [
+      "Only hexagonal",
+      "Random packing",
+      "Cubic close packing and hexagonal close packing",
+      "Only cubic"
+    ],
+    "answer": 2,
+    "explanation": "The two types of close packing are the cubic close packing or the face-centred cubic and the hexagonal close packing, each with a packing efficiency of about 74 per cent.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "'Bronze' is an alloy of:",
+    "options": [
+      "Copper and zinc",
+      "Lead and tin",
+      "Iron and carbon",
+      "Copper and tin"
+    ],
+    "answer": 3,
+    "explanation": "Bronze, the first alloy used by man, is an alloy of copper and tin, and it was used in the Harappan and later periods.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "'Stainless steel' is made by adding:",
+    "options": [
+      "Nickel and chromium to iron",
+      "Zinc to copper",
+      "Manganese to iron",
+      "Tin to lead"
+    ],
+    "answer": 0,
+    "explanation": "Stainless steel is an alloy of iron with at least 10.5 per cent chromium, with nickel added for corrosion resistance in the austenitic grades.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Solar cell' converts:",
+    "options": [
+      "Heat into electrical energy",
+      "Sound into electrical energy",
+      "Chemical energy into electrical energy",
+      "Light energy into electrical energy"
+    ],
+    "answer": 3,
+    "explanation": "A solar cell is a photovoltaic device that converts light energy directly into electrical energy through the photovoltaic effect.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'LED' stands for:",
+    "options": [
+      "Laser Emission Diode",
+      "Light Electric Detector",
+      "Light Emitting Diode",
+      "Low Energy Device"
+    ],
+    "answer": 2,
+    "explanation": "An LED is a light emitting diode, a p-n junction device that emits light when forward biased, and it is a source of monochromatic light.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'fuels' with the highest calorific value among the common fuels:",
+    "options": [
+      "Hydrogen and LPG",
+      "Coal and kerosene",
+      "Wood and charcoal",
+      "Petrol and diesel"
+    ],
+    "answer": 0,
+    "explanation": "Hydrogen has the highest calorific value among the common fuels, followed by the petroleum products, and it is regarded as the future fuel.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'calorific value' of a fuel is measured in:",
+    "options": [
+      "Watts",
+      "Kilojoules per kilogram",
+      "Kilojoules per cubic metre",
+      "Joules per second"
+    ],
+    "answer": 1,
+    "explanation": "The calorific value is the amount of heat produced by the complete combustion of one kilogram of a fuel and is expressed in kilojoules per kilogram or in calories per gram.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'octane number' of petrol measures:",
+    "options": [
+      "Its energy content",
+      "Its viscosity",
+      "Its freezing point",
+      "Its resistance to knocking"
+    ],
+    "answer": 3,
+    "explanation": "The octane number expresses the resistance of a fuel to knocking, and higher octane ratings allow a higher compression ratio in the engine.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Bio-diesel' is produced from:",
+    "options": [
+      "Ethanol",
+      "Fossil fuels",
+      "Vegetable oils and animal fats",
+      "Coal tar"
+    ],
+    "answer": 2,
+    "explanation": "Bio-diesel is produced by the transesterification of vegetable oils and animal fats, and India runs a National Biodiesel Policy for the blending of biodiesel with diesel.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Methanol' and the 'Ethanol' are:",
+    "options": [
+      "Both alcohols used as fuels",
+      "Both hydrocarbons",
+      "Both acids",
+      "Both gases"
+    ],
+    "answer": 0,
+    "explanation": "Methanol and ethanol are alcohols used as fuels, with ethanol being used in India for the blending of petrol and in the production of sugar and alcohol.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Polymers' that are naturally occurring are called:",
+    "options": [
+      "Thermosets",
+      "Biopolymers",
+      "Thermoplastics",
+      "Elastomers"
+    ],
+    "answer": 1,
+    "explanation": "Natural polymers such as starch, cellulose and proteins are called biopolymers, while synthetic polymers are made from man-made monomers.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'condensation polymerisation' requires:",
+    "options": [
+      "Heat and pressure",
+      "An initiator",
+      "A monomer with two functional groups",
+      "A catalyst only"
+    ],
+    "answer": 2,
+    "explanation": "In condensation polymerisation the monomers carry functional groups such as -OH and -COOH, and the polymer is formed with the elimination of small molecules like water.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Bakelite' is:",
+    "options": [
+      "A rubber",
+      "A thermosetting polymer from phenol and formaldehyde",
+      "A thermoplastic from styrene",
+      "A fibre from cellulose"
+    ],
+    "answer": 1,
+    "explanation": "Bakelite, the first fully synthetic plastic, is a thermosetting polymer made from phenol and formaldehyde and was discovered by Leo Baekeland.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Buna-S' and the 'neoprene' are:",
+    "options": [
+      "Thermosetting plastics",
+      "Polymers of nylon",
+      "Ceramics",
+      "Synthetic rubbers"
+    ],
+    "answer": 3,
+    "explanation": "Buna-S and neoprene are among the synthetic rubbers developed in the 1930s, with neoprene being the first synthetic rubber of commercial importance.",
+    "difficulty": "hard",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Nylon 6,6' is a polymer of:",
+    "options": [
+      "Hexamethylene diamine and adipic acid",
+      "Ethylene glycol and terephthalic acid",
+      "Propene and butadiene",
+      "Vinyl chloride"
+    ],
+    "answer": 0,
+    "explanation": "Nylon 6,6 is a condensation polymer of hexamethylene diamine and adipic acid, and it was first synthesised by Wallace Carothers at DuPont.",
+    "difficulty": "hard",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'cellophane' and the 'Teflon':",
+    "options": [
+      "Are both alloys",
+      "Are both ceramics",
+      "Are both isotopes",
+      "Are both polymers"
+    ],
+    "answer": 3,
+    "explanation": "Cellophane is a cellulose derivative and Teflon is polytetrafluoroethylene, both of them polymers.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'drug' metronidazole is used to treat:",
+    "options": [
+      "Diabetes",
+      "Malaria",
+      "Amoebiasis and other protozoal infections",
+      "Tuberculosis"
+    ],
+    "answer": 2,
+    "explanation": "Metronidazole is the drug of choice for amoebiasis, giardiasis and anaerobic bacterial infections, and it was discovered by Nobel laureate Selman Waksman.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The drug Aspirin is chemically:",
+    "options": [
+      "Penicillin",
+      "Acetylsalicylic acid",
+      "Paracetamol",
+      "Ibuprofen"
+    ],
+    "answer": 1,
+    "explanation": "Aspirin is acetylsalicylic acid, an anti-inflammatory drug, and the smallest drug of plant origin to be fully synthesised and commercialised.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'chemotherapy' of cancer uses drugs that:",
+    "options": [
+      "Kill the fast dividing cells of the tumour",
+      "Strengthen the bones",
+      "Lower the blood pressure",
+      "Digest the tumour"
+    ],
+    "answer": 0,
+    "explanation": "Chemotherapeutic drugs target the rapidly dividing cells of a tumour, at the cost of also affecting other fast dividing cells of the body.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Antibiotics' work by:",
+    "options": [
+      "Lowering the body temperature",
+      "Increasing the blood sugar",
+      "Blocking the cell wall synthesis of the bacteria",
+      "Breaking the DNA of the host cell"
+    ],
+    "answer": 2,
+    "explanation": "Many antibiotics, including penicillin and the cephalosporins, inhibit the synthesis of the bacterial cell wall, and they are effective only against bacteria.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Vaccination' was pioneered by:",
+    "options": [
+      "Joseph Lister",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Alexander Fleming"
+    ],
+    "answer": 1,
+    "explanation": "Louis Pasteur developed the first vaccines, against rabies and anthrax, and is called the founder of microbiology.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'cell membrane' is made of:",
+    "options": [
+      "Chitin and proteins",
+      "Peptidoglycan",
+      "Cellulose and pectin",
+      "A phospholipid bilayer with proteins"
+    ],
+    "answer": 3,
+    "explanation": "The fluid mosaic model describes the cell membrane as a phospholipid bilayer with proteins embedded in it, and it was proposed by Singer and Nicolson.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'mitochondria' and the 'chloroplasts' are called:",
+    "options": [
+      "Semi-autonomous organelles",
+      "Endoplasmic reticulum",
+      "Ribosomes",
+      "Lysosomes"
+    ],
+    "answer": 0,
+    "explanation": "Mitochondria and chloroplasts are called semi-autonomous organelles because they have their own DNA and can divide, though most of their proteins are encoded by the nuclear genes.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'master of the cell' is the:",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Golgi body"
+    ],
+    "answer": 0,
+    "explanation": "The nucleus, which controls all the cellular activities and holds the genetic material, is called the master of the cell.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'powerhouse of the cell' is the:",
+    "options": [
+      "Ribosome",
+      "Mitochondrion",
+      "Golgi body",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "explanation": "The mitochondria are called the powerhouse of the cell because they produce ATP through oxidative phosphorylation.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'protein synthesis' in a cell takes place in the:",
+    "options": [
+      "Lysosome",
+      "Peroxisome",
+      "Ribosome",
+      "Golgi body"
+    ],
+    "answer": 2,
+    "explanation": "The ribosomes, made of ribosomal RNA and proteins, are the site of protein synthesis, and the rough endoplasmic reticulum has embedded ribosomes.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The ' lysosome' is called the:",
+    "options": [
+      "Powerhouse of the cell",
+      "Master of the cell",
+      "Junk box of the cell",
+      "Suicide bag of the cell"
+    ],
+    "answer": 3,
+    "explanation": "The lysosome, containing hydrolytic enzymes, is called the suicide bag of the cell because it can digest the cell's own contents and the cell when the membrane ruptures.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'centriole' is found in:",
+    "options": [
+      "Both plant and animal cells",
+      "Only in bacterial cells",
+      "Only in animal cells",
+      "Only in plant cells"
+    ],
+    "answer": 2,
+    "explanation": "The centrioles are present in the centrosome of the animal cells and are absent in the plant cells.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'genetic material' of a bacteriophage is:",
+    "options": [
+      "DNA or RNA",
+      "Protein only",
+      "RNA only",
+      "DNA only"
+    ],
+    "answer": 0,
+    "explanation": "In a bacteriophage the genetic material may be DNA or RNA depending on the type of phage, as in the case of the RNA phages of the E. coli.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'double helix' structure of DNA was proposed by:",
+    "options": [
+      "Watson and Crick",
+      "Watson, Crick, Franklin and Wilkins",
+      "Mendel and Morgan",
+      "Darwin and Wallace"
+    ],
+    "answer": 1,
+    "explanation": "The double helix model of DNA was published by Watson and Crick in 1953, drawing crucially on the X-ray diffraction work of Rosalind Franklin and Maurice Wilkins.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'discovery of the structure of DNA' and the Nobel Prize of 1962 was awarded to:",
+    "options": [
+      "Linus Pauling",
+      "Francis Crick alone",
+      "Maurice Wilkins and Rosalind Franklin",
+      "Watson, Crick and Wilkins"
+    ],
+    "answer": 3,
+    "explanation": "The Nobel Prize in Physiology or Medicine of 1962 was awarded to Watson, Crick and Wilkins, and Rosalind Franklin's death in 1958 meant she was not eligible.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mendelian' laws of inheritance were based on the experiments on:",
+    "options": [
+      "Maize",
+      "The fruit fly",
+      "The rat",
+      "The garden pea"
+    ],
+    "answer": 3,
+    "explanation": "Gregor Mendel experimented on the garden pea in his monastery garden at Brno and formulated the laws of inheritance.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'chromosomal theory of inheritance' was proposed by:",
+    "options": [
+      "Mendel",
+      "Sutton and Boveri",
+      "Morgan",
+      "Darwin"
+    ],
+    "answer": 1,
+    "explanation": "Sutton and Boveri in 1902 independently proposed that the chromosomes carry the Mendelian factors, and Thomas Hunt Morgan's experiments on the fruit fly confirmed it.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'sex determination' in human beings is:",
+    "options": [
+      "Autosomes only",
+      "Haplodiploidy",
+      "X and Y chromosomes",
+      "X and Z chromosomes"
+    ],
+    "answer": 2,
+    "explanation": "In humans the sex is determined by the X and Y chromosomes, with the Y chromosome carrying the SRY gene that initiates male development.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "'Sickle cell anaemia' is a genetic disorder of:",
+    "options": [
+      "The haemoglobin",
+      "The pancreas",
+      "The retina",
+      "The bone marrow only"
+    ],
+    "answer": 0,
+    "explanation": "Sickle cell anaemia is caused by a single base substitution in the beta globin gene, and the molecular basis was worked out by Linus Pauling.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'genetic disorder' of Down's syndrome is:",
+    "options": [
+      "Monosomy of chromosome 5",
+      "A recessive gene mutation",
+      "Trisomy of chromosome 21",
+      "Deletion of a chromosome"
+    ],
+    "answer": 2,
+    "explanation": "Down's syndrome is caused by the presence of an extra copy of chromosome 21, and it was the first human disorder to be linked to a chromosomal abnormality.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'Turner's syndrome' is associated with:",
+    "options": [
+      "46,XY",
+      "45,X",
+      "47,XXY",
+      "47,Down"
+    ],
+    "answer": 1,
+    "explanation": "Turner's syndrome is a monosomy of the X chromosome, with a karyotype of 45,X, and it was the first human disorder to be linked to a chromosomal abnormality.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Klinefelter's syndrome' has the karyotype:",
+    "options": [
+      "47,XXY",
+      "47,XXX",
+      "46,XY",
+      "45,X"
+    ],
+    "answer": 0,
+    "explanation": "Klinefelter's syndrome is 47,XXY, with an extra X chromosome in a phenotypic male.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hardy-Weinberg principle' states that:",
+    "options": [
+      "Genes are inherited in a Mendelian ratio",
+      "Mutation is the only source of variation",
+      "Selection always increases fitness",
+      "Allele frequencies in a population remain constant across generations in the absence of evolutionary forces"
+    ],
+    "answer": 3,
+    "explanation": "The Hardy-Weinberg principle states that the allele and genotype frequencies in a population remain constant in the absence of mutation, migration, selection and genetic drift.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'FOOD and agriculture' and the 'photosynthesis':",
+    "options": [
+      "Both occur in the thylakoid",
+      "Both occur in the cytoplasm",
+      "The light reaction occurs in the thylakoid and the dark reaction in the stroma",
+      "Both occur in the stroma"
+    ],
+    "answer": 2,
+    "explanation": "In the light reaction the water is split and oxygen is released in the thylakoid membranes, while the carbon fixation or the Calvin cycle occurs in the stroma of the chloroplast.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'C4 plants' differ from the C3 plants in:",
+    "options": [
+      "They do not perform photorespiration",
+      "They have no chloroplasts",
+      "They lack the Kranz anatomy",
+      "They have a different carbon acceptor"
+    ],
+    "answer": 0,
+    "explanation": "The C4 plants use a different initial carbon acceptor and show almost no photorespiration, and the Kranz anatomy is characteristic of them.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'cyclic photophosphorylation' produces:",
+    "options": [
+      "Glucose",
+      "ATP only",
+      "ATP and NADPH",
+      "NADPH only"
+    ],
+    "answer": 1,
+    "explanation": "The cyclic photophosphorylation produces only ATP, since it involves photosystem I alone and no photolysis of water or formation of NADPH.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'human insulin' was first produced by recombinant DNA technology in:",
+    "options": [
+      "1982",
+      "1990",
+      "1969",
+      "1977"
+    ],
+    "answer": 3,
+    "explanation": "Genentech produced the first recombinant human insulin in 1978, and it was marketed from 1982, the first recombinant medicine to be approved.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Bt cotton' uses the gene from:",
+    "options": [
+      "Bacillus thuringiensis",
+      "Escherichia coli",
+      "Pseudomonas putida",
+      "Bacillus anthracis"
+    ],
+    "answer": 0,
+    "explanation": "Bt cotton carries the cry gene from Bacillus thuringiensis, which codes for a toxin protein that kills the cotton bollworm.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'Golden Rice' is rich in:",
+    "options": [
+      "Protein",
+      "Vitamin A",
+      "Vitamin C",
+      "Iron"
+    ],
+    "answer": 1,
+    "explanation": "Golden Rice is genetically modified to produce beta-carotene, a precursor of vitamin A, in the endosperm of the rice grain.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RNA interference' or RNAi technology is based on:",
+    "options": [
+      "The polymerase chain reaction",
+      "The use of a restriction enzyme",
+      "The hybridisation of two DNA strands",
+      "The complementary base pairing of RNA with the target mRNA"
+    ],
+    "answer": 3,
+    "explanation": "RNA interference silences a specific gene by the base pairing of a small interfering RNA with the complementary mRNA, and it was discovered by Andrew Fire and Craig Mello.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'restriction enzyme' discovery and the Nobel Prize of 1978 was awarded to:",
+    "options": [
+      "Meselson and Stahl",
+      "Leder and Nirenberg",
+      "Werner Arber, Hamilton Smith and Daniel Nathans",
+      "Watson and Crick"
+    ],
+    "answer": 2,
+    "explanation": "The Nobel Prize in Physiology or Medicine of 1978 was shared by Arber, Smith and Nathans for the discovery of the restriction enzymes and their use in the study of the structure of DNA.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'first successful human organ transplant' was the:",
+    "options": [
+      "Liver",
+      "Lung",
+      "Kidney",
+      "Heart"
+    ],
+    "answer": 2,
+    "explanation": "The first successful human organ transplant was a kidney transplant performed by Joseph Murray in 1954, for which he received the Nobel Prize in 1990.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Louis Pasteur Institute' is at:",
+    "options": [
+      "London",
+      "Berlin",
+      "New York",
+      "Paris"
+    ],
+    "answer": 3,
+    "explanation": "The Institut Pasteur is in Paris, and it was named after Louis Pasteur, who worked there in the laboratory he founded.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'immune system' and the 'antibodies':",
+    "options": [
+      "Antibodies are hormones",
+      "Antibodies are produced by the lymphocytes, particularly the B cells",
+      "Antibodies are produced by the RBCs",
+      "Antibodies are part of the blood clotting cascade"
+    ],
+    "answer": 1,
+    "explanation": "Antibodies are the proteins produced by the B lymphocytes in response to an antigen, and they are the basis of humoral immunity.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'vaccination' and the 'memory cells':",
+    "options": [
+      "Memory cells enable a faster response on a second exposure to an antigen",
+      "Memory cells produce oxygen",
+      "Memory cells are red blood cells",
+      "Memory cells are found only in the blood"
+    ],
+    "answer": 0,
+    "explanation": "The memory B and T cells are responsible for the secondary immune response, which is faster and stronger, and this is the basis of the effectiveness of vaccination.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'human genome project' was completed in:",
+    "options": [
+      "1990",
+      "2001",
+      "2003",
+      "1997"
+    ],
+    "answer": 2,
+    "explanation": "The Human Genome Project was declared complete in April 2003, and the 3.1 billion base pairs of the human genome were mapped.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'DNA fingerprinting' was first used in India in the:",
+    "options": [
+      "1993 Bombay blasts case",
+      "1975 Emergency",
+      "1999 Pokhran tests",
+      "1984 case of Rajiv Gandhi"
+    ],
+    "answer": 0,
+    "explanation": "DNA fingerprinting was first used in India in the 1993 Bombay blasts case, after the 1984 case in the Rajiv Gandhi assassination had also raised the issue of sampling.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'stem cell therapy' and the '1998 Nobel Prize' was awarded to:",
+    "options": [
+      "Murray and Thomas",
+      "Fleming and Florey",
+      "Baltimore and G Nobel",
+      "Gurdon and Yamanaka"
+    ],
+    "answer": 3,
+    "explanation": "The 2012 Nobel Prize in Physiology or Medicine was awarded to John Gurdon and Shinya Yamanaka for the discovery that mature cells can be reprogrammed to become pluripotent.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Biotechnology and the insulin' and the 'recombinant DNA technology':",
+    "options": [
+      "It was developed by Gregor Mendel",
+      "Recombinant DNA technology was developed by Paul Berg, Herbert Boyer and Stanley Cohen",
+      "It was developed by Watson and Crick",
+      "It was developed by Alexander Fleming"
+    ],
+    "answer": 1,
+    "explanation": "Paul Berg created the first recombinant DNA molecule in 1972, and Boyer and Cohen developed the technique of transferring a gene from one organism to another.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'human milk' contains:",
+    "options": [
+      "No antibodies",
+      "Only carbohydrates",
+      "Digestive enzymes only",
+      "Colostrum with antibodies in the first days"
+    ],
+    "answer": 3,
+    "explanation": "The first few days of breast milk are the colostrum, which is rich in antibodies such as the immunoglobulin A and gives the newborn passive immunity.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'biodiversity hotspots' in the 'Western Ghats' and the 'endemic species':",
+    "options": [
+      "There are no endemic species in India",
+      "Endemic species are found only in the desert",
+      "Most of the endemic species of India occur in the Western Ghats and the Himalaya",
+      "All the endemic species are marine"
+    ],
+    "answer": 2,
+    "explanation": "The Western Ghats and the Himalaya harbour the largest number of endemic species of India, and the Western Ghats are one of the world's 36 biodiversity hotspots.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'brain' and the 'reflex arc':",
+    "options": [
+      "The reflex arc is a learned response",
+      "The reflex arc is mediated by the spinal cord and does not involve the conscious brain",
+      "The reflex arc is controlled by the cerebrum",
+      "The reflex arc requires the cerebral cortex"
+    ],
+    "answer": 1,
+    "explanation": "A reflex arc is a neural pathway that controls a reflex and does not require the involvement of the conscious brain, which makes the response very rapid.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'human eye' and the 'blind spot':",
+    "options": [
+      "It is the region where the optic nerve leaves the retina",
+      "It is the fovea",
+      "It is the lens",
+      "It is the yellow spot"
+    ],
+    "answer": 0,
+    "explanation": "The blind spot is the point on the retina where the optic nerve leaves and where there are no photoreceptors, so no image is formed there.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'Insulin' is secreted by the:",
+    "options": [
+      "Pituitary",
+      "Alpha cells of the Islets of Langerhans",
+      "Beta cells of the Islets of Langerhans",
+      "Adrenal cortex"
+    ],
+    "answer": 2,
+    "explanation": "Insulin is secreted by the beta cells of the Islets of Langerhans, while the alpha cells secrete glucagon.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'excretory products' of the human body:",
+    "options": [
+      "Only urea",
+      "Only uric acid",
+      "Carbon dioxide and water",
+      "Urea, uric acid, creatinine and ammonia"
+    ],
+    "answer": 3,
+    "explanation": "The human kidney excretes urea, uric acid, creatinine and ammonia, and the composition varies with the water intake and the diet.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XI (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'ozone layer' and the 'skin cancer':",
+    "options": [
+      "Ozone increases the photosynthesis",
+      "Depletion of the ozone layer increases the incidence of skin cancer",
+      "Ozone protects the skin",
+      "Ozone causes the depletion of the ozone layer"
+    ],
+    "answer": 1,
+    "explanation": "Depletion of the stratospheric ozone layer allows more harmful ultraviolet radiation to reach the surface, raising the incidence of skin cancer and cataract.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ecological pyramids' and the 'pyramid of numbers' in a grassland:",
+    "options": [
+      "Is upright",
+      "Is inverted",
+      "Is spindle shaped",
+      "Does not exist"
+    ],
+    "answer": 0,
+    "explanation": "In a grassland ecosystem the pyramid of numbers is upright, while in a tree ecosystem it is inverted.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'sulphur cycle' in nature is:",
+    "options": [
+      "A gaseous cycle",
+      "A sedimentary cycle",
+      "An aquatic cycle",
+      "A seasonal cycle"
+    ],
+    "answer": 0,
+    "explanation": "The sulphur cycle is a gaseous cycle because sulphur dioxide released by respiration and decomposition returns to the atmosphere and is brought back by precipitation.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Michaelis-Menten' kinetics is related to:",
+    "options": [
+      "Polymerisation",
+      "Enzyme reactions",
+      "Nuclear reactions",
+      "Radioactive decay"
+    ],
+    "answer": 1,
+    "explanation": "The Michaelis-Menten equation describes the relationship between the reaction velocity and the substrate concentration for an enzyme-catalysed reaction.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chandrayaan-2' mission included a:",
+    "options": [
+      "Only an orbiter",
+      "Only a lander",
+      "A sample return mission",
+      "Orbiter, Vikram lander and Pragyan rover"
+    ],
+    "answer": 3,
+    "explanation": "Chandrayaan-2, launched in July 2019, comprised an orbiter, the Vikram lander and the Pragyan rover, and the lander failed in September 2019.",
+    "difficulty": "easy",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chandrayaan-3' mission:",
+    "options": [
+      "Was a Mars orbiter",
+      "Was a crewed mission",
+      "Landed near the south pole of the Moon in August 2023",
+      "Orbited Venus"
+    ],
+    "answer": 2,
+    "explanation": "Chandrayaan-3, launched in July 2023, achieved a soft landing near the lunar south pole on 23 August 2023, making India the fourth country to land on the Moon.",
+    "difficulty": "easy",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mangalyaan' was India's:",
+    "options": [
+      "First manned mission",
+      "First Mars mission, launched in 2013",
+      "First lunar mission",
+      "First solar mission"
+    ],
+    "answer": 1,
+    "explanation": "Mangalyaan, launched in November 2013, was India's first Mars mission and the first space mission of any country to succeed on the first attempt.",
+    "difficulty": "easy",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aditya-L1' mission was launched to study:",
+    "options": [
+      "The Sun",
+      "Venus",
+      "The outer heliosphere",
+      "A comet"
+    ],
+    "answer": 0,
+    "explanation": "Aditya-L1, launched in July 2023, is a solar observatory mission to study the corona of the Sun from an orbit around the Lagrange point L1.",
+    "difficulty": "easy",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chandrayaan-1' mission was launched in:",
+    "options": [
+      "1997",
+      "2003",
+      "2013",
+      "2008"
+    ],
+    "answer": 3,
+    "explanation": "Chandrayaan-1 was launched in October 2008 and was the first Indian lunar mission, and it also confirmed the presence of water molecules on the Moon.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vikram Sarabhai Space Centre' is at:",
+    "options": [
+      "Sriharikota",
+      "Hyderabad",
+      "Thiruvananthapuram",
+      "Bengaluru"
+    ],
+    "answer": 2,
+    "explanation": "The Vikram Sarabhai Space Centre is at Thiruvananthapuram in Kerala, and the Satish Dhawan Space Centre with the launch complex is at Sriharikota.",
+    "difficulty": "easy",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Satish Dhawan Space Centre' is at:",
+    "options": [
+      "Hyderabad",
+      "Sriharikota in Andhra Pradesh",
+      "Thiruvananthapuram",
+      "Bengaluru"
+    ],
+    "answer": 1,
+    "explanation": "The Satish Dhawan Space Centre, the space port of India with the first and second launch pads, is at Sriharikota on the coast of Andhra Pradesh.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PSLV' and the 'GSLV' differ in that:",
+    "options": [
+      "The GSLV is a launch vehicle and the PSLV is a satellite",
+      "Both are satellites",
+      "Both are launch vehicles for Mars",
+      "The PSLV is a launch vehicle and the GSLV places the satellites in the geosynchronous orbit"
+    ],
+    "answer": 3,
+    "explanation": "The PSLV is a launch vehicle for satellites in the low earth orbit, while the GSLV is an indigenous launch vehicle that places the satellites in the geosynchronous transfer orbit.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IRS' series of satellites are for:",
+    "options": [
+      "Navigation",
+      "Weather forecasting only",
+      "Earth resources and remote sensing",
+      "Communication"
+    ],
+    "answer": 2,
+    "explanation": "The Indian Remote Sensing satellites, the IRS series, are used for the survey of the natural resources, and the Cartosat series is meant for cartographic applications.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NAVIC' or the Indian GPS equivalent is:",
+    "options": [
+      "A regional navigation system",
+      "A weather satellite",
+      "A lunar probe",
+      "A remote sensing satellite"
+    ],
+    "answer": 0,
+    "explanation": "NAVIC, the Indian Navigation Satellite System, is a regional navigation system covering India and 1,500 km around it, and it was completed in 2016.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'GSAT' series of satellites:",
+    "options": [
+      "Are communication satellites",
+      "Are navigation satellites",
+      "Are remote sensing satellites",
+      "Are meteorological satellites"
+    ],
+    "answer": 0,
+    "explanation": "The GSAT series of geostationary communication satellites provides communication services over the Indian region.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'light year' is the:",
+    "options": [
+      "Time taken by light to travel one year",
+      "Distance from the Sun to the nearest star",
+      "Brightness of a star",
+      "Distance travelled by light in one year"
+    ],
+    "answer": 3,
+    "explanation": "A light year is the distance that light travels in one Julian year, about 9.46 trillion kilometres, and it is a unit of distance, not of time.",
+    "difficulty": "easy",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'parsec' is equal to:",
+    "options": [
+      "10 light years",
+      "0.5 light years",
+      "3.26 light years",
+      "One light year"
+    ],
+    "answer": 2,
+    "explanation": "A parsec, the unit used for the distances of the stars, is about 3.26 light years or 32,600 astronomical units.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'astronomical unit' is the:",
+    "options": [
+      "Distance travelled by light in a year",
+      "Average distance from the Earth to the Sun",
+      "Distance from the Sun to Pluto",
+      "Radius of the solar system"
+    ],
+    "answer": 1,
+    "explanation": "The astronomical unit is the average distance from the Earth to the Sun, about 149.6 million kilometres, and it is used to measure the distances within the solar system.",
+    "difficulty": "easy",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'James Webb Space Telescope' was launched in:",
+    "options": [
+      "2018",
+      "2021",
+      "2016",
+      "2023"
+    ],
+    "answer": 1,
+    "explanation": "The James Webb Space Telescope was launched on 25 December 2021 and is the largest and most powerful space telescope placed in orbit.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'black hole' was first proposed by:",
+    "options": [
+      "Einstein and Hubble",
+      "Newton and Kepler",
+      "Rutherford and Bohr",
+      "S. Chandrasekhar and Karl Schwarzschild"
+    ],
+    "answer": 3,
+    "explanation": "Subrahmanyan Chandrasekhar worked out the limiting mass of a white dwarf and Karl Schwarzschild worked out the solution for a black hole in 1916.",
+    "difficulty": "hard",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'redshift' of a galaxy indicates:",
+    "options": [
+      "It is receding from us",
+      "It is approaching us",
+      "It is rotating fast",
+      "It is of high temperature"
+    ],
+    "answer": 0,
+    "explanation": "The redshift of the spectral lines indicates that the galaxy is moving away from us, and this observation by Hubble led to the theory of an expanding universe.",
+    "difficulty": "easy",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ring of Fire' and the 'Pacific':",
+    "options": [
+      "Is the region of the ozone hole",
+      "Is the region of the deepest ocean trenches only",
+      "Is the belt of volcanoes and earthquakes around the Pacific Ocean",
+      "Is a cold current in the Pacific"
+    ],
+    "answer": 2,
+    "explanation": "The Ring of Fire marks the boundaries of the Pacific plate and the adjoining plates and is the most active zone of volcanism and seismicity on the earth.",
+    "difficulty": "easy",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Outer Space Treaty' of 1967 provides that:",
+    "options": [
+      "The use of space is restricted to the superpowers",
+      "No nation may claim sovereignty over outer space",
+      "Space can be colonised by the space powers",
+      "The Moon can be divided among the claimants"
+    ],
+    "answer": 1,
+    "explanation": "The Outer Space Treaty of 1967 states that outer space is not subject to national appropriation and that the Moon and the celestial bodies are free for the use of all countries.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NASA' was founded in:",
+    "options": [
+      "1961",
+      "1969",
+      "1958",
+      "1957"
+    ],
+    "answer": 2,
+    "explanation": "The National Aeronautics and Space Administration was created in October 1958, replacing the National Advisory Committee for Aeronautics.",
+    "difficulty": "easy",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ISRO's Chandrayaan-1' discovered:",
+    "options": [
+      "Ice in the polar craters only",
+      "A volcano on the Moon",
+      "The Moon's magnetic field",
+      "Water molecules on the lunar surface"
+    ],
+    "answer": 3,
+    "explanation": "The Moon Mineralogy Mapper on Chandrayaan-1 confirmed the presence of water molecules on the lunar surface in 2009.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gaganyaan' mission:",
+    "options": [
+      "Is the Indian human spaceflight programme",
+      "Is a Mars orbiter",
+      "Is a weather satellite",
+      "Is a radar mission"
+    ],
+    "answer": 0,
+    "explanation": "Gaganyaan is the Indian human spaceflight programme, and the uncrewed test flights were carried out in 2024 as part of the mission.",
+    "difficulty": "medium",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PS4' and the 'PS4A' satellites:",
+    "options": [
+      "Are the navigation satellites of the NavIC system",
+      "Are the remote sensing satellites",
+      "Are the communication satellites",
+      "Are the weather satellites"
+    ],
+    "answer": 0,
+    "explanation": "The IRNSS or NavIC constellation includes three geostationary satellites, the PS4, PS4A and PS4B, and a seventh in orbit.",
+    "difficulty": "hard",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'exoplanet' is a:",
+    "options": [
+      "An asteroid",
+      "A planet outside the solar system",
+      "A satellite of another planet",
+      "A comet"
+    ],
+    "answer": 1,
+    "explanation": "An exoplanet is a planet outside the solar system, and the first confirmed ones were found around a pulsar in 1992.",
+    "difficulty": "easy",
+    "category": "space",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'nuclear fission' and the 'Otto Hahn' and 'Lise Meitner':",
+    "options": [
+      "They discovered the electron",
+      "They discovered the neutron",
+      "They discovered the laser",
+      "Otto Hahn and Fritz Strassmann discovered fission and Lise Meitner explained it with Otto Frisch"
+    ],
+    "answer": 3,
+    "explanation": "Otto Hahn and Fritz Strassmann discovered the nuclear fission of uranium in 1938, and Lise Meitner and Otto Frisch gave the physical explanation, and Hahn alone received the Nobel Prize.",
+    "difficulty": "hard",
+    "category": "nuclear-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'nuclear fusion' happens:",
+    "options": [
+      "Only in the atomic bomb",
+      "In the radioactive decay",
+      "In the core of the sun and in hydrogen bombs",
+      "In all nuclear reactors"
+    ],
+    "answer": 2,
+    "explanation": "Fusion, the joining of light nuclei with the release of energy, powers the sun and the hydrogen bomb, and it is the basis of the fusion reactors under development.",
+    "difficulty": "easy",
+    "category": "nuclear-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'three-stage nuclear programme' of India was propounded by:",
+    "options": [
+      "Dr. A.P.J. Abdul Kalam",
+      "Bhabha and Raman",
+      "Raja Ramanna",
+      "Dr. Homi Bhabha"
+    ],
+    "answer": 3,
+    "explanation": "Dr. Homi Bhabha formulated the three-stage programme of 15, 80 and 250 GWe with the first stage relying on the existing natural uranium reactors, the second on the plutonium and the third on the thorium cycle.",
+    "difficulty": "medium",
+    "category": "nuclear-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'India's three-stage programme' and the 'PHWR':",
+    "options": [
+      "The PHWR is a fusion reactor",
+      "The Pressurised Heavy Water Reactors of the second stage use heavy water as the moderator and the fuel",
+      "The PHWR is the third stage",
+      "The PHWR uses graphite"
+    ],
+    "answer": 1,
+    "explanation": "The PHWRs, as at Narora, Kakrapar and Kalpakkam, use heavy water as the moderator and as the coolant in the second stage of the programme.",
+    "difficulty": "hard",
+    "category": "nuclear-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kakrapar Atomic Power Station' is in:",
+    "options": [
+      "Gujarat",
+      "Kerala",
+      "Tamil Nadu",
+      "Rajasthan"
+    ],
+    "answer": 2,
+    "explanation": "Kakrapar in Gujarat and Rawatbhata in Rajasthan are the nuclear power stations of the first stage, and the Kalpakkam and Narora sites have the PHWRs of the second stage.",
+    "difficulty": "medium",
+    "category": "nuclear-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kalpakkam' nuclear complex includes:",
+    "options": [
+      "The Madras Atomic Power Station, the Heavy Water Reactor and the Fast Breeder Reactor",
+      "A gas-based reactor and a coastal missile test range",
+      "A uranium enrichment plant and a reprocessing plant",
+      "Only a heavy water research reactor"
+    ],
+    "answer": 0,
+    "explanation": "The Kalpakkam complex in Tamil Nadu houses the Madras Atomic Power Station, the Heavy Water Reactor and the Prototype Fast Breeder Reactor, and the Kalpakkam nuclear security unit.",
+    "difficulty": "hard",
+    "category": "nuclear-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CTBT' treaty:",
+    "options": [
+      "Bans only underground testing",
+      "Bans the use of nuclear weapons",
+      "Bans the production of plutonium",
+      "Bans nuclear testing in all environments"
+    ],
+    "answer": 3,
+    "explanation": "The Comprehensive Nuclear-Test-Ban Treaty bans all nuclear test explosions in any environment, and it has not entered into force because the ratifying states are not all.",
+    "difficulty": "medium",
+    "category": "nuclear-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NPT' treaty:",
+    "options": [
+      "Bans the use of nuclear power",
+      "Was signed at the Hague",
+      "Divides the states into the nuclear-weapon states and the non-nuclear-weapon states",
+      "Bans all nuclear testing"
+    ],
+    "answer": 2,
+    "explanation": "The Non-Proliferation Treaty of 1968 divides the world into the five recognised nuclear-weapon states, including India as a nuclear capable state outside the treaty's framework, and the non-nuclear-weapon states.",
+    "difficulty": "medium",
+    "category": "nuclear-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pokhran-II' of 1998 was carried out under:",
+    "options": [
+      "Atal Bihari Vajpayee",
+      "P.V. Narasimha Rao",
+      "Indira Gandhi",
+      "Morarji Desai"
+    ],
+    "answer": 0,
+    "explanation": "The Pokhran-II tests of May 1998 were conducted under the Prime Minister Atal Bihari Vajpayee, with the Chief Minister of Rajasthan Ashok Gehlot present at the site.",
+    "difficulty": "easy",
+    "category": "nuclear-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IAEA' headquarters is at:",
+    "options": [
+      "Geneva",
+      "Vienna",
+      "New York",
+      "Paris"
+    ],
+    "answer": 1,
+    "explanation": "The International Atomic Energy Agency, founded in 1957, has its headquarters in Vienna and its safeguards system is the basis of the international non-proliferation regime.",
+    "difficulty": "medium",
+    "category": "nuclear-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indium' and the 'nuclear waste' in India:",
+    "options": [
+      "India has no nuclear waste",
+      "The waste is stored in the Arihant submarine",
+      "India exports its nuclear waste",
+      "India's nuclear waste is stored in the glass waste vitrification facility at Kalpakkam"
+    ],
+    "answer": 3,
+    "explanation": "The radioactive waste is managed at the BARC facilities, and the glass waste vitrification facility at Kalpakkam immobilises the low and intermediate level waste.",
+    "difficulty": "hard",
+    "category": "nuclear-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'thorium' in India is found mainly in:",
+    "options": [
+      "The bauxite of Gujarat",
+      "The monazite sands of Kerala",
+      "The iron ore of Odisha",
+      "The coal of Jharkhand"
+    ],
+    "answer": 1,
+    "explanation": "India has vast th reserves in the monazite sands of Kerala, and the three-stage programme aims at exploiting the thorium cycle in the third stage.",
+    "difficulty": "hard",
+    "category": "nuclear-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'DRDO' was set up in:",
+    "options": [
+      "1958",
+      "1950",
+      "1962",
+      "1970"
+    ],
+    "answer": 0,
+    "explanation": "The Defence Research and Development Organisation was set up in 1958, and it was reorganised as a corporation in the 1990s.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Missile Technology Control Regime' and India's membership:",
+    "options": [
+      "India joined the MTCR in 2008",
+      "India chaired the MTCR",
+      "India is not a member of the MTCR",
+      "India is a member of the MTCR"
+    ],
+    "answer": 2,
+    "explanation": "India is not a member of the Missile Technology Control Regime, having declared itself a missile capable state, and it maintains a self-imposed missile range from 25 to 290 kilometres for the MTCR members.",
+    "difficulty": "hard",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Agni-V' is the:",
+    "options": [
+      "Surface to air missile",
+      "Cruise missile",
+      "Long range ballistic missile",
+      "Air-to-air missile"
+    ],
+    "answer": 2,
+    "explanation": "The Agni-V is an intercontinental ballistic missile with a range of over 5,000 km, and it was first test fired in 2018.",
+    "difficulty": "easy",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'BrahMos' missile is a:",
+    "options": [
+      "Anti-submarine missile",
+      "Cruise missile developed jointly by India and Russia",
+      "Ballistic missile developed indigenously",
+      "Air defence missile"
+    ],
+    "answer": 1,
+    "explanation": "The BrahMos is a supersonic cruise missile developed jointly by India and Russia, and it is among the fastest cruise missiles in the world.",
+    "difficulty": "easy",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Akash' missile system:",
+    "options": [
+      "Is a medium range surface-to-air missile system",
+      "Is an air-to-air missile",
+      "Is a submarine launched ballistic missile",
+      "Is a cruise missile"
+    ],
+    "answer": 0,
+    "explanation": "The Akash is a medium range surface-to-air missile system developed by the DRDO, and the indigenous system has been exported to several countries.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tejas' is:",
+    "options": [
+      "A four engine transport aircraft",
+      "A naval fighter",
+      "A missile",
+      "A single engine light fighter aircraft"
+    ],
+    "answer": 3,
+    "explanation": "The Tejas is a single engine, multirole light fighter with a tailless compound delta wing, developed by the ADA and the HAL.",
+    "difficulty": "easy",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tejas Mk2' and the 'AESA' radar:",
+    "options": [
+      "The Mk2 has an active electronically scanned array radar",
+      "The Mk2 is a two-seater trainer",
+      "The Mk2 is a heavy transport",
+      "The Mk2 has no radar"
+    ],
+    "answer": 0,
+    "explanation": "The Tejas Mk1A or Mk2 incorporates an active electronically scanned array radar from the DRDO and is a two-seat version for the training role.",
+    "difficulty": "hard",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'INS Vikrant' is:",
+    "options": [
+      "A frigate",
+      "An indigenous aircraft carrier",
+      "A nuclear submarine",
+      "A missile"
+    ],
+    "answer": 1,
+    "explanation": "INS Vikrant, commissioned in August 2022, is India's first indigenous aircraft carrier, with a 45,000 tonne displacement and a full-length stern deck with a ski jump.",
+    "difficulty": "easy",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'INS Arihant' is:",
+    "options": [
+      "An aircraft carrier",
+      "A research vessel",
+      "A nuclear powered ballistic missile submarine",
+      "A diesel submarine"
+    ],
+    "answer": 2,
+    "explanation": "INS Arihant is a nuclear powered ballistic missile submarine, and its successful launch of a K-15 in 2018 made India the first country to demonstrate a nuclear triad with an indigenous system.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Scorpene' class submarines are:",
+    "options": [
+      "Russian nuclear submarines",
+      "American attack submarines",
+      "Japanese submarines",
+      "French made diesel electric submarines"
+    ],
+    "answer": 3,
+    "explanation": "The Scorpene class, made by the French Naval Group, is a conventionally propelled submarine of about 1,600 tonnes, and the Mazagiri was the first to be commissioned in 2024.",
+    "difficulty": "hard",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kilo class' submarines in the Indian Navy are:",
+    "options": [
+      "French submarines",
+      "Japanese submarines",
+      "Russian made diesel electric submarines",
+      "American submarines"
+    ],
+    "answer": 2,
+    "explanation": "The Kilo class, or the Project 877, are Russian built diesel electric submarines, and the earlier Sindhughosh class was also of the Kilo design.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Arjun' main battle tank:",
+    "options": [
+      "Is an amphibious tank",
+      "Is indigenous with a 120 mm gun",
+      "Is a Russian tank",
+      "Is a light tank imported from France"
+    ],
+    "answer": 1,
+    "explanation": "The Arjun is an indigenous third generation main battle tank with a 120 mm rifled gun and a composite armour, and it was developed by the DRDO with the BAE Systems collaboration.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chief of Defence Staff' of India was created in 2019 as the:",
+    "options": [
+      "Chief of the Army staff",
+      "Head of the Integrated theatre commands",
+      "Chairman of the Chiefs of Staff Committee",
+      "Permanent post of the highest military officer in the Armed Forces"
+    ],
+    "answer": 3,
+    "explanation": "The post of the Chief of Defence Staff was created in 2019, and the CDS is the highest military officer in the armed forces with a four-year tenure and a rank of four-star.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Integrated theatre commands' of India:",
+    "options": [
+      "Are a long-term goal of the military reform",
+      "Were created in 2019",
+      "Have been fully implemented",
+      "Were created during the Emergency"
+    ],
+    "answer": 0,
+    "explanation": "The creation of the integrated theatre commands with joint forces for the army, navy and air force is a long-term goal of the military reforms, and the concept of the integrated command structures is still being worked out.",
+    "difficulty": "hard",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Drones' in the Indian armed forces:",
+    "options": [
+      "Are manned",
+      "Are used for surveillance and the destruction of targets",
+      "Are only for the ceremonial role",
+      "Are banned in the airspace"
+    ],
+    "answer": 1,
+    "explanation": "The UAVs or the drones are used for surveillance, the tracking of targets, the logistics and the precision strikes, and the armed forces have a large fleet of them.",
+    "difficulty": "medium",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Integrated Rocket Fuel Plant' and the 'solid propellant':",
+    "options": [
+      "Are the fertiliser plants",
+      "Are the coal gasification plants",
+      "Are related to the manufacture of the solid propellant for the missiles",
+      "Are for the production of the nuclear fuel"
+    ],
+    "answer": 2,
+    "explanation": "The solid propellant is the main ingredient of the missiles and the Integrated Rocket Fuel Plant is a key facility in the missile programme.",
+    "difficulty": "hard",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Advanced Systems Laboratory' and the 'missile self-reliance':",
+    "options": [
+      "The ASL is a nuclear research centre",
+      "The ASL works on the electronic voting machines",
+      "The ASL is a university",
+      "The ASL at Hyderabad was instrumental in the missile programme"
+    ],
+    "answer": 3,
+    "explanation": "The Advanced Systems Laboratory of the DRDO at Hyderabad played a key role in the integrated guided missile development programme of India.",
+    "difficulty": "hard",
+    "category": "defence-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'artificial intelligence' in agriculture in India refers to:",
+    "options": [
+      "AI-driven advisory services for the farmers",
+      "Robotic harvesting only",
+      "The automation of the nuclear plants",
+      "The detection of the border infiltration"
+    ],
+    "answer": 0,
+    "explanation": "The AI-based advisory services in the local languages for the farmers, as in the Kisan e-Mitra chatbot, are a significant application in agriculture.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'blockchain technology' was first described by:",
+    "options": [
+      "Tim Berners-Lee",
+      "Satoshi Nakamoto",
+      "Vitalik Buterin",
+      "Charles Babbage"
+    ],
+    "answer": 1,
+    "explanation": "The first blockchain was described by Satoshi Nakamoto in 2008 with the Bitcoin white paper, and the term was coined later.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'zero day' vulnerability refers to:",
+    "options": [
+      "A vulnerability found on the first day of the year",
+      "A vulnerability in the zero-th release",
+      "A vulnerability in the operating system",
+      "A vulnerability that is exploited before a patch is available"
+    ],
+    "answer": 3,
+    "explanation": "A zero day exploit takes advantage of a vulnerability that is unknown to the vendor, so no patch is available at the time of the attack.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CERT-In' is the:",
+    "options": [
+      "Central Electoral Reform Team",
+      "Centre for Educational Research and Training",
+      "Indian Computer Emergency Response Team of the MeitY",
+      "Central Economic Regulatory Team"
+    ],
+    "answer": 2,
+    "explanation": "The Indian Computer Emergency Response Team, under the MeitY, was established in 2004 to coordinate the response to the cyber security incidents.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Information Technology Act, 2000' deals with:",
+    "options": [
+      "Electronic records and the electronic signatures",
+      "The telegraph messages only",
+      "The broadcasting only",
+      "The copyright only"
+    ],
+    "answer": 0,
+    "explanation": "The IT Act of 2000 gave legal recognition to electronic records and electronic signatures and provided for the offences in cyberspace.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The '5G' spectrum in India:",
+    "options": [
+      "Is a part of the spectrum for the police",
+      "Is only for the defence",
+      "Was auctioned by the Department of Telecommunications",
+      "Is allocated free of cost"
+    ],
+    "answer": 2,
+    "explanation": "The 5G spectrum was auctioned by the Department of Telecommunications in 2021, and the auction raised about Rs. 43,949 crore.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'semiconductor policy' of India and the 'India Semiconductor Mission':",
+    "options": [
+      "The mission was approved in 2021 with a fiscal support of about Rs. 76,000 crore",
+      "It was approved in 1991",
+      "It is a part of the IT Act",
+      "It was launched in 2005"
+    ],
+    "answer": 0,
+    "explanation": "The India Semiconductor Mission was approved in September 2021 with a fiscal support of about Rs. 76,000 crore, and it aims to build a fab ecosystem in the country.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PARAM' supercomputing series:",
+    "options": [
+      "Is a US project",
+      "Is developed by the C-DAC for the Indian Institute of Science",
+      "Is a Japanese computer",
+      "Is a Russian machine"
+    ],
+    "answer": 1,
+    "explanation": "The PARAM series of supercomputers was developed by the Centre for Development of Advanced Computing in association with the Indian Institute of Science, and the PARAM-Siddhi and PARAM-Shakti are the recent ones.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'quantum communication' and the 'National Quantum Mission':",
+    "options": [
+      "It was approved in 1991",
+      "It is a NASA programme",
+      "It relates to the nuclear weapons",
+      "The mission was approved in 2021 to promote the quantum technologies"
+    ],
+    "answer": 3,
+    "explanation": "The National Quantum Mission, approved in 2021, covers the development of the quantum computers, the quantum communication and the quantum sensing and the associated human resource generation.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aadhaar' and the 'UIDAI':",
+    "options": [
+      "Aadhaar is a biometric identity document issued by the UIDAI",
+      "Aadhaar is a passport",
+      "Aadhaar is a voter identity card",
+      "Aadhaar is issued by the Election Commission"
+    ],
+    "answer": 0,
+    "explanation": "The Unique Identification Authority of India, a statutory body under the Ministry of Electronics and Information Technology, issues the Aadhaar, a 12-digit biometric identity number.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'DigiLocker' and the 'MeitY':",
+    "options": [
+      "DigiLocker is a payment system",
+      "DigiLocker is a satellite navigation system",
+      "DigiLocker is a scheme for the rural broadband",
+      "DigiLocker is an electronic platform for the digital documents issued by the government"
+    ],
+    "answer": 3,
+    "explanation": "DigiLocker, operated by the NeGD under the MeitY, allows the citizens to access the government issued certificates and documents electronically.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Starlink' and the 'satellite internet' in India:",
+    "options": [
+      "Starlink is a part of the NavIC",
+      "Starlink is a low earth orbit satellite constellation of SpaceX",
+      "Starlink is a Indian navigation system",
+      "Starlink is a Japanese weather service"
+    ],
+    "answer": 1,
+    "explanation": "Starlink is the low earth orbit broadband constellation of SpaceX, and it has been authorised in India for the provision of the satellite internet services.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RFID' technology is used in:",
+    "options": [
+      "The magnetic recording",
+      "The optical fibres",
+      "The identity cards and the toll collection and the supply chains",
+      "The television signals"
+    ],
+    "answer": 2,
+    "explanation": "The radio frequency identification tags are used for the identity documents, the toll collection, the tracking of the goods and the livestock identification.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'encryption' and the 'AES' algorithm:",
+    "options": [
+      "AES is used only in the military",
+      "AES is a symmetric block cipher used in the commercial encryption",
+      "AES is a public key algorithm",
+      "AES is a hashing algorithm"
+    ],
+    "answer": 1,
+    "explanation": "The Advanced Encryption Standard is a symmetric key block cipher standardised in 2001, with a key size of 128, 192 or 256 bits.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RSA' algorithm is:",
+    "options": [
+      "A symmetric cipher",
+      "A hashing function",
+      "A compression algorithm",
+      "A public key cryptosystem based on the difficulty of factoring large numbers"
+    ],
+    "answer": 3,
+    "explanation": "RSA is a public key cryptosystem in which the security rests on the practical difficulty of factoring the product of two large prime numbers.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SHA-1' and the 'MD5' are:",
+    "options": [
+      "Cryptographic hash functions",
+      "Encryption algorithms",
+      "Compression tools",
+      "Programming languages"
+    ],
+    "answer": 0,
+    "explanation": "MD5 and SHA-1 are cryptographic hash functions that produce a fixed length digest, and MD5 is now considered broken for the security purposes.",
+    "difficulty": "easy",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'edge computing' reduces:",
+    "options": [
+      "The number of the satellites",
+      "The need for the encryption",
+      "The latency by processing the data closer to the source",
+      "The storage cost only"
+    ],
+    "answer": 2,
+    "explanation": "Edge computing brings the computation and the storage closer to the data source, which reduces the latency and the bandwidth use.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'UPI' and the 'National Payments Corporation of India':",
+    "options": [
+      "NPCI is based in Mumbai and is a listed company",
+      "NPCI is an umbrella organisation for the retail payments set up by the RBI and the IBA",
+      "NPCI is a private company",
+      "NPCI is a government department"
+    ],
+    "answer": 1,
+    "explanation": "The National Payments Corporation of India was set up in 2008 as an initiative of the RBI and the Indian Banks' Association for the retail payments.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'C-DAC' is:",
+    "options": [
+      "A defence laboratory",
+      "A space centre",
+      "A centre of the MeitY for the development of the advanced computing technologies",
+      "A university"
+    ],
+    "answer": 2,
+    "explanation": "The Centre for Development of Advanced Computing is a research and development institution of the MeitY, and it developed the PARAM supercomputers and the PARAM and the Multilingual and the other language technologies.",
+    "difficulty": "medium",
+    "category": "information-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'graphene' is:",
+    "options": [
+      "A single layer of carbon atoms arranged in a hexagonal lattice",
+      "A polymer of vinyl chloride",
+      "A radioactive element",
+      "A magnetic material"
+    ],
+    "answer": 0,
+    "explanation": "Graphene is a single layer of carbon atoms arranged in a two-dimensional hexagonal lattice, and it was isolated by Andre Geim and Konstantin Novoselov in 2004.",
+    "difficulty": "easy",
+    "category": "materials-science",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'carbon nanotube' was discovered by:",
+    "options": [
+      "Andre Geim",
+      "Richard Feynman",
+      "Alan Turing",
+      "Sumio Iijima"
+    ],
+    "answer": 3,
+    "explanation": "Sumio Iijima of Japan first observed the multi-walled carbon nanotubes in 1991, and the Nobel Prize in Physics in 2010 went to Geim and Novoselov for the graphene experiments.",
+    "difficulty": "hard",
+    "category": "materials-science",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'shape memory alloy' nitinol is an alloy of:",
+    "options": [
+      "Nickel and titanium",
+      "Copper and zinc",
+      "Iron and carbon",
+      "Aluminium and silicon"
+    ],
+    "answer": 0,
+    "explanation": "Nitinol, the nickel-titanium alloy, has the shape memory and the superelasticity properties, and it is used in the medical stents and the actuators.",
+    "difficulty": "medium",
+    "category": "materials-science",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'superconductivity' was first discovered by:",
+    "options": [
+      "Fermi",
+      "Heike Kamerlingh Onnes",
+      "Einstein",
+      "Bose"
+    ],
+    "answer": 1,
+    "explanation": "Superconductivity was discovered by Heike Kamerlingh Onnes in 1911 in mercury, and he received the first Nobel Prize in Physics in 1913.",
+    "difficulty": "easy",
+    "category": "materials-science",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'semiconductor' materials used in the electronics include:",
+    "options": [
+      "Copper and silver",
+      "Iron and nickel",
+      "Glass and ceramic",
+      "Silicon and germanium"
+    ],
+    "answer": 3,
+    "explanation": "Silicon and germanium are the most important semiconductors, and the doping of the silicon produces the p-type and the n-type materials for the diodes and the transistors.",
+    "difficulty": "easy",
+    "category": "materials-science",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'biomaterials' used in the medical implants:",
+    "options": [
+      "Copper and the brass",
+      "Cotton and the silk",
+      "Titanium and the stainless steel and the ceramics",
+      "Wood and the clay"
+    ],
+    "answer": 2,
+    "explanation": "Titanium, the stainless steel and the certain ceramics are the biomaterials of choice for the implants because of their biocompatibility, and pyrolytic carbon is used in the heart valves.",
+    "difficulty": "medium",
+    "category": "materials-science",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'composite material' used in the aerospace:",
+    "options": [
+      "Wooden laminates",
+      "Glass",
+      "Carbon fibre reinforced polymers",
+      "Pure aluminium"
+    ],
+    "answer": 2,
+    "explanation": "The carbon fibre reinforced polymers and the glass fibre reinforced composites are widely used in the aerospace because of their high strength to weight ratio.",
+    "difficulty": "medium",
+    "category": "materials-science",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CSIR' was founded in:",
+    "options": [
+      "1942",
+      "1956",
+      "1961",
+      "1947"
+    ],
+    "answer": 0,
+    "explanation": "The Council of Scientific and Industrial Research was founded in February 1942, and it was renamed from the Imperial Chemical and Industrial Research in 1946.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ICAR' is the apex organisation for:",
+    "options": [
+      "Defence research",
+      "Agricultural research",
+      "Space research",
+      "Medical research"
+    ],
+    "answer": 1,
+    "explanation": "The Indian Council of Agricultural Research is the apex organisation for agricultural research, and it is an autonomous organisation under the Department of Agricultural Research and Education.",
+    "difficulty": "easy",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ICMR' was founded in:",
+    "options": [
+      "1919",
+      "1921",
+      "1935",
+      "1911"
+    ],
+    "answer": 3,
+    "explanation": "The Indian Council of Medical Research began in 1911 as the Indian Research Fund Association and is the apex body for the biomedical research in India.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Department of Science and Technology' and the 'Fifth Science and Technology Policy':",
+    "options": [
+      "The National Science and Technology Policy of 2023 was the fifth such policy",
+      "It was the first such policy",
+      "It was adopted in 1983",
+      "It deals only with the nuclear power"
+    ],
+    "answer": 0,
+    "explanation": "The National Science and Technology Policy 2023 was the fifth in the series, and it aims to make India a global leader in the science and technology by 2047.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Science, Technology and Innovation Policy of India 2023' was launched in:",
+    "options": [
+      "2021",
+      "2023",
+      "2020",
+      "2024"
+    ],
+    "answer": 1,
+    "explanation": "The Science, Technology and Innovation Policy 2023 was launched in January 2023 with the vision of making India a global leader in innovation by 2030.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Intellectual Property Rights Policy' was released in:",
+    "options": [
+      "2021",
+      "2014",
+      "2016",
+      "2008"
+    ],
+    "answer": 2,
+    "explanation": "The National IPR Policy was released in 2016 with the aim of making IP a vital tool for the creation of wealth and the promotion of the economic and the social development.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'patents' in India are granted by:",
+    "options": [
+      "The Indian Patent Office of the Cabinet",
+      "The Ministry of Commerce directly",
+      "The RBI",
+      "The Office of the Controller General of Patents, Designs and Trademarks"
+    ],
+    "answer": 3,
+    "explanation": "The patents, the designs and the trademarks are administered by the Office of the Controller General of Patents, Designs and Trademarks, which is under the Department of Promotion of Industry and Internal Trade.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Patent Rules' were amended in 2021 to:",
+    "options": [
+      "Allow the patents on the human embryos",
+      "Streamline the patent prosecution and introduce the grace period for the disclosure of the public disclosures",
+      "Ban the patents for the pharmaceuticals",
+      "Increase the fees for the foreign firms only"
+    ],
+    "answer": 1,
+    "explanation": "The 2021 amendment to the Patent Rules streamlined the patent prosecution, introduced the grace period and provided for the expedited examination for the recognised universities and institutes.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Technology India' and the 'seven pillars':",
+    "options": [
+      "It is a comprehensive roadmap for the technology development until 2030",
+      "It is a policy on the IT exports only",
+      "It was launched in 1998",
+      "It deals with the public procurement"
+    ],
+    "answer": 0,
+    "explanation": "Technology India, the roadmap released in 2018, rests on seven pillars including the bio-economy, the advanced manufacturing, the space, the nuclear and the energy, the deep ocean and the additive manufacturing.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'INSPIRE' scheme is for:",
+    "options": [
+      "The civil service recruitment",
+      "The industrial subsidies",
+      "The urban housing",
+      "Innovation and the scientific talent in the schools"
+    ],
+    "answer": 3,
+    "explanation": "The Innovation in Science Pursuit for Inspired Research scheme was launched in 2008 to build up the scientific talent at the school and the undergraduate level.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Science Talent Search' scheme:",
+    "options": [
+      "Is a scheme for the women scientists only",
+      "Is a defence research programme",
+      "Is for the school students of classes 5 to 12",
+      "Is for the doctoral students"
+    ],
+    "answer": 2,
+    "explanation": "The National Science Talent Search scheme for the school students of classes 5 to 12, the NEST, is conducted by the NCERT and it includes the scholarship for the higher studies.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PRISM' scheme of the DST promotes:",
+    "options": [
+      "The primary health care",
+      "The rural housing",
+      "The sports",
+      "The research in the academic institutions"
+    ],
+    "answer": 3,
+    "explanation": "The Promoting Innovations in Individuals, Start-ups and MSMEs scheme provides the support for the applied research and the prototyping in the academic institutions in the country.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rise of India' and the 'Biotechnology' and the 'National Botanical Research Institute':",
+    "options": [
+      "The NBRI is under the DRDO",
+      "The NBRI is a premier research institute of the CSIR at Lucknow",
+      "The NBRI is at Kolkata",
+      "The NBRI is a private university"
+    ],
+    "answer": 1,
+    "explanation": "The National Botanical Research Institute is one of the premier research institutes of the CSIR and is located at Lucknow, and it is known for the BSI herbarium and the industrial products.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Institute of Science' is located at:",
+    "options": [
+      "Kolkata",
+      "Mumbai",
+      "Bengaluru",
+      "Chennai"
+    ],
+    "answer": 2,
+    "explanation": "The Indian Institute of Science in Bengaluru is a premier research and higher education institution with the Nobel laureates among its alumni and faculty.",
+    "difficulty": "easy",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhabha Atomic Research Centre' is at:",
+    "options": [
+      "Trombay and Mumbai",
+      "Chennai",
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "answer": 0,
+    "explanation": "The Bhabha Atomic Research Centre is at Trombay in Mumbai, and it was renamed after Homi Bhabha in 1954.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Atomic Energy Commission' and its chairman:",
+    "options": [
+      "The chairman is the Leader of the Opposition",
+      "The Prime Minister is the chairman",
+      "The chairman is the President",
+      "The chairman is the Chief Justice"
+    ],
+    "answer": 1,
+    "explanation": "The Prime Minister is the chairperson of the Atomic Energy Commission of India, which is a nodal organisation for the nuclear matters under the Department of Atomic Energy.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Space Development Agency' and the 'ISRO':",
+    "options": [
+      "The NSDA is a private body",
+      "The NSDA was set up in 2020",
+      "The space activities of the non-government entities are regulated by ISRO",
+      "The NSDA replaces the ISRO"
+    ],
+    "answer": 2,
+    "explanation": "The space policy of 2020 mandates that a private space entity must register with the Department of Space and the ISRO guides and authorises the space activities.",
+    "difficulty": "hard",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Atomic Energy Act' in India was enacted in:",
+    "options": [
+      "1954",
+      "1948",
+      "1970",
+      "1962"
+    ],
+    "answer": 3,
+    "explanation": "The Atomic Energy Act, 1962 provided for the constitution of the Atomic Energy Commission and the licensing of the nuclear activities.",
+    "difficulty": "medium",
+    "category": "science-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Calibration Institute' and the 'metrology' in India:",
+    "options": [
+      "The metrology is the science of measurement",
+      "The metrology is the science of the minerals",
+      "The metrology is the study of the meteors",
+      "The metrology is the study of the mutation"
+    ],
+    "answer": 0,
+    "explanation": "Metrology is the science of measurement, and the National Physical Laboratory of India is the apex laboratory for the calibration of the standards in the country.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SI base units' number seven includes:",
+    "options": [
+      "The gram, litre, second, newton, kelvin, mole and candela",
+      "The metre, kilogram, second, volt, ohm, tesla and weber",
+      "The metre, kilogram, second, ampere, kelvin, mole and candela",
+      "The metre, kilogram, second, newton, joule, watt and hertz"
+    ],
+    "answer": 2,
+    "explanation": "The seven SI base units are the metre, the kilogram, the second, the ampere, the kelvin, the mole and the candela, and all the other units are derived from them.",
+    "difficulty": "easy",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SI prefixes' of the largest and the smallest:",
+    "options": [
+      "Yotta and yocto",
+      "Giga and nano",
+      "Mega and micro",
+      "Kilo and pico"
+    ],
+    "answer": 0,
+    "explanation": "The yotta, 10 to the power of 24, is the largest and the yocto, 10 to the power of minus 24, is the smallest of the SI prefixes.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "One horsepower equals about:",
+    "options": [
+      "735 watts",
+      "1000 watts",
+      "500 watts",
+      "746 watts"
+    ],
+    "answer": 3,
+    "explanation": "One British mechanical horsepower is about 746 watts, while the metric horsepower used in Europe is about 735.5 watts.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Richter scale' and the 'Mercalli scale':",
+    "options": [
+      "The Mercalli is used for the wind speed",
+      "The Richter measures the magnitude and the Mercalli the intensity",
+      "Both measure the intensity",
+      "Both measure the magnitude"
+    ],
+    "answer": 1,
+    "explanation": "The Richter scale expresses the magnitude of an earthquake and the Mercalli scale the observed intensity of the shaking at a place.",
+    "difficulty": "easy",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Beaufort scale' measures:",
+    "options": [
+      "The rainfall",
+      "The visibility",
+      "The wind speed",
+      "The sea depth"
+    ],
+    "answer": 2,
+    "explanation": "The Beaufort scale is an empirical measure of the wind speed, ranging from calm at force 0 to a hurricane at force 12.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'knot' is a unit of:",
+    "options": [
+      "Weight",
+      "Speed of the ship",
+      "Distance",
+      "Depth"
+    ],
+    "answer": 1,
+    "explanation": "A knot is a unit of speed equal to one nautical mile per hour, about 1.85 kilometres per hour, and it derives from the chip log used to measure the speed of the ship.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'lux' is the unit of:",
+    "options": [
+      "Luminous intensity",
+      "Luminous flux",
+      "Radiant energy",
+      "Illuminance"
+    ],
+    "answer": 3,
+    "explanation": "The lux is the SI unit of illuminance and the lumen measures the luminous flux while the candela measures the luminous intensity.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'calorie' in nutrition:",
+    "options": [
+      "Is the amount of heat needed to raise one gram of water by one degree Celsius",
+      "Is the heat needed to raise one kilogram of water by one degree",
+      "Is a unit of power",
+      "Is a unit of pressure"
+    ],
+    "answer": 0,
+    "explanation": "The small calorie is the heat required to raise one gram of water by one degree Celsius, and the large kilocalorie or the food calorie is a thousand times that.",
+    "difficulty": "easy",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'hectare' and the 'acre':",
+    "options": [
+      "One hectare is a unit of volume",
+      "One hectare is about 2.47 acres",
+      "One acre is about 10 hectares",
+      "One hectare is equal to one acre"
+    ],
+    "answer": 1,
+    "explanation": "One hectare equals 10,000 square metres and is about 2.47 acres, and one square kilometre equals 100 hectares.",
+    "difficulty": "easy",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Celsius' and the 'Fahrenheit' scales:",
+    "options": [
+      "Boiling point is 100 in both",
+      "They cannot be converted",
+      "Freezing point of water is 0 and 32 degrees",
+      "Freezing point is 100 and 32 degrees"
+    ],
+    "answer": 2,
+    "explanation": "On the Celsius scale the freezing point of water is 0 degrees and on the Fahrenheit scale it is 32 degrees, and the boiling points are 100 and 212 respectively.",
+    "difficulty": "easy",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kelvin' scale:",
+    "options": [
+      "Starts at zero Celsius",
+      "Is a hundredth of the centigrade scale",
+      "Is used only in India",
+      "Starts at absolute zero, minus 273.15 degrees Celsius"
+    ],
+    "answer": 3,
+    "explanation": "The Kelvin scale is the absolute scale of temperature and starts at absolute zero, which is minus 273.15 degrees Celsius.",
+    "difficulty": "easy",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'molarity' of a solution is the:",
+    "options": [
+      "Number of moles of the solute per litre of the solution",
+      "Number of grams per litre of the solution",
+      "Number of moles per kilogram of the solvent",
+      "Percentage by weight"
+    ],
+    "answer": 0,
+    "explanation": "Molarity is the number of moles of the solute per litre of the solution, while the molality is the number of moles per kilogram of the solvent.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'pressure' of 1 atmosphere is equal to:",
+    "options": [
+      "1 bar",
+      "10 metres of water",
+      "760 mm of mercury",
+      "1.013 x 10^5 pascals"
+    ],
+    "answer": 2,
+    "explanation": "One standard atmosphere is 101325 pascals, which is about 760 millimetres of mercury or 1.01325 bars, and the millibar is used in the weather maps.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'atomic mass unit' is:",
+    "options": [
+      "The mass of a hydrogen atom",
+      "The mass of a proton",
+      "The mass of an alpha particle",
+      "One-twelfth of the mass of a carbon-12 atom"
+    ],
+    "answer": 3,
+    "explanation": "The unified atomic mass unit is one-twelfth of the mass of a carbon-12 atom and is equal to about 1.66 x 10 to the power of minus 27 kilogram.",
+    "difficulty": "medium",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'magnetic declination' is:",
+    "options": [
+      "The angle between the magnetic north and the geographic north",
+      "The dip of the magnetic needle",
+      "The strength of the magnetic field",
+      "The angle of the dip"
+    ],
+    "answer": 0,
+    "explanation": "The magnetic declination is the angle between the magnetic north and the true north at a place, and the dip is the angle that the magnetic needle makes with the horizontal.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'isobar' and the 'isotherm' on a weather map:",
+    "options": [
+      "They are the same",
+      "The isobar joins the points of equal pressure and the isotherm the points of equal temperature",
+      "The isobar joins the points of equal temperature",
+      "The isotherm joins the points of equal humidity"
+    ],
+    "answer": 1,
+    "explanation": "An isobar connects the places of equal atmospheric pressure and an isotherm the places of equal temperature on the weather map.",
+    "difficulty": "easy",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SIB' or the 'Standard Atmosphere' conditions:",
+    "options": [
+      "25 degrees Celsius and 1 atmosphere",
+      "20 degrees Celsius and 1 bar",
+      "15 degrees Celsius and 760 mm",
+      "0 degrees Celsius and 101325 pascals"
+    ],
+    "answer": 3,
+    "explanation": "The International Standard Atmosphere is defined as 0 degrees Celsius, 101325 pascals of pressure, the standard gravity of 9.80665 metres per second squared and a relative humidity of zero.",
+    "difficulty": "hard",
+    "category": "measurements-and-units",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chemotherapy' and the 'cancer' and the 'adjuvant':",
+    "options": [
+      "An adjuvant is a diagnostic test",
+      "An adjuvant is a type of radiation",
+      "An adjuvant chemotherapy is given after the surgical removal of the tumour",
+      "An adjuvant is given before the surgery only"
+    ],
+    "answer": 2,
+    "explanation": "In the adjuvant setting the chemotherapy is given after the complete surgical removal of the tumour to reduce the risk of the recurrence.",
+    "difficulty": "medium",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'COVAXIN' and the 'COVISHIELD':",
+    "options": [
+      "Both are the inactivated vaccines",
+      "Covaxin is the inactivated whole virion vaccine and Covishield the viral vector vaccine",
+      "Both are the mRNA vaccines",
+      "Both are the protein subunit vaccines"
+    ],
+    "answer": 1,
+    "explanation": "Covaxin, developed by the Bharat Biotech, is the inactivated whole virion vaccine, and Covishield, by the Serum Institute, is the viral vector vaccine.",
+    "difficulty": "easy",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'mRNA vaccines' work by:",
+    "options": [
+      "Delivering the messenger RNA that instructs the cells to make the antigen",
+      "Delivering the weakened virus",
+      "Delivering the inactivated virus",
+      "Delivering the antibodies"
+    ],
+    "answer": 0,
+    "explanation": "The mRNA vaccines deliver the messenger RNA that codes for the spike protein, and the cells then present the antigen to the immune system.",
+    "difficulty": "medium",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PCR test' for COVID-19 detects:",
+    "options": [
+      "The antigens only",
+      "The whole virus",
+      "The genetic material of the virus",
+      "The antibodies in the serum"
+    ],
+    "answer": 2,
+    "explanation": "The RT-PCR test amplifies and detects the viral genetic material, while the serological test detects the antibodies.",
+    "difficulty": "easy",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Telemedicine' guidelines in India were notified in:",
+    "options": [
+      "2018",
+      "2020",
+      "2015",
+      "2008"
+    ],
+    "answer": 1,
+    "explanation": "The Telemedicine Practice Guidelines were notified by the Ministry of Health and Family Welfare in March 2020 during the pandemic.",
+    "difficulty": "medium",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ayushman Bharat' and the 'National Health Mission':",
+    "options": [
+      "The NHM was launched in 2013 and Ayushman Bharat PM-JAY in 2018",
+      "Both were launched in 2005",
+      "Both were launched in 2010",
+      "Ayushman Bharat preceded the NHM"
+    ],
+    "answer": 0,
+    "explanation": "The National Health Mission was launched in 2013, replacing the National Rural Health Mission, and Ayushman Bharat PM-JAY was launched in September 2018.",
+    "difficulty": "medium",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'One Health' approach:",
+    "options": [
+      "Is a malaria eradication programme",
+      "Is a nutrition scheme",
+      "Is a hospital insurance scheme",
+      "Integrates the health of the people, the animals and the environment"
+    ],
+    "answer": 3,
+    "explanation": "One Health is a collaborative approach that recognises the interconnection of the human, the animal and the environmental health, and it is central to the pandemic preparedness.",
+    "difficulty": "medium",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'antimicrobial resistance':",
+    "options": [
+      "Is an allergy to the drugs",
+      "Is a side effect of the vaccination",
+      "Is a genetic disease",
+      "Is the reduced effectiveness of the drugs against the pathogens"
+    ],
+    "answer": 3,
+    "explanation": "Antimicrobial resistance occurs when the microorganisms evolve so that the drugs used to treat the infections no longer work, and India launched the national action plan on it in 2015.",
+    "difficulty": "medium",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ROTAC' and the 'measles' vaccine:",
+    "options": [
+      "The Rotac is a tuberculosis vaccine",
+      "The Rotavirus vaccine is given to prevent the rotavirus diarrhoea in the infants",
+      "The Rotac is a measles vaccine",
+      "The Rotac is a vitamin A supplement"
+    ],
+    "answer": 1,
+    "explanation": "The rotavirus vaccine, Rotac, prevents the rotavirus diarrhoea, which is a leading cause of the deaths of the children under five in India.",
+    "difficulty": "hard",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Japanese encephalitis' vaccine and the 'SA 14-14-2':",
+    "options": [
+      "The live attenuated vaccine for the Japanese encephalitis",
+      "The vaccine for the cholera",
+      "The vaccine for the measles",
+      "The oral polio vaccine"
+    ],
+    "answer": 0,
+    "explanation": "The SA 14-14-2 is the live attenuated Japanese encephalitis vaccine produced in India, and it is part of the universal immunisation programme in the endemic districts.",
+    "difficulty": "hard",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chandrayaan' and the 'AIDS vaccine' are:",
+    "options": [
+      "Both space missions",
+      "Both approved in 2023",
+      "Different things entirely",
+      "Both vaccines"
+    ],
+    "answer": 2,
+    "explanation": "The Chandrayaan is a lunar mission and the AIDS vaccine is a biomedical research programme, and they belong to entirely different fields.",
+    "difficulty": "easy",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'prosthetic' and the 'bionic' limbs:",
+    "options": [
+      "Cannot be controlled by the patient",
+      "Are powered by the nuclear energy",
+      "Use the myoelectric control based on the electrical signals of the residual muscles",
+      "Are only cosmetic"
+    ],
+    "answer": 2,
+    "explanation": "The modern myoelectric prostheses use the electrical signals generated by the residual muscles to control the movement of the limb.",
+    "difficulty": "medium",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'wearable devices' in health monitoring:",
+    "options": [
+      "Are only for the athletes",
+      "Store the medical records only",
+      "Are the implanted pacemakers",
+      "Continuously monitor the vital parameters like the heart rate and the blood glucose"
+    ],
+    "answer": 3,
+    "explanation": "The wearables, from the fitness bands to the continuous glucose monitors, allow the remote monitoring of the vital parameters and the chronic conditions.",
+    "difficulty": "easy",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'vertical' and the 'horizontal' gene transfer in bacteria:",
+    "options": [
+      "The vertical transfer is the parent to the offspring and the horizontal is between the unrelated individuals",
+      "Both are the same",
+      "The vertical is the mating in the eukaryotes",
+      "The horizontal is the cell division"
+    ],
+    "answer": 0,
+    "explanation": "The vertical gene transfer occurs from the parent to the offspring during the reproduction, while the horizontal transfer, including the conjugation, the transformation and the transduction, takes place between the unrelated bacteria.",
+    "difficulty": "medium",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'genome editing' with the 'CRISPR-Cas9':",
+    "options": [
+      "Uses the polymerase chain reaction",
+      "Uses a guide RNA to direct the Cas9 enzyme to the target DNA",
+      "Uses a viral vector only",
+      "Uses a microinjection"
+    ],
+    "answer": 1,
+    "explanation": "The CRISPR-Cas9 system uses a guide RNA to direct the Cas9 nuclease to the specific DNA sequence, and the technology was developed from the bacterial immune system and won the Nobel Prize in 2020.",
+    "difficulty": "easy",
+    "category": "health-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'drone' technology in agriculture:",
+    "options": [
+      "Is banned in India",
+      "Is used for the warehousing only",
+      "Is used for the crop monitoring and the spraying of the pesticides",
+      "Is used only for the crop cutting"
+    ],
+    "answer": 2,
+    "explanation": "The drones are used for the crop and the soil monitoring, the precision spraying of the pesticides and the sowing of the seeds, and the Drone Kisan Yantra and the other schemes promote their use.",
+    "difficulty": "medium",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'precision agriculture' in India:",
+    "options": [
+      "Uses the GPS, the remote sensing and the sensors to optimise the inputs",
+      "Is only the organic farming",
+      "Is the large scale mechanisation only",
+      "Is the cultivation of the GM crops only"
+    ],
+    "answer": 0,
+    "explanation": "Precision agriculture uses the georeferencing, the remote sensing and the soil and the moisture sensors to apply the right input at the right place and time.",
+    "difficulty": "medium",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'hydroponics' is the:",
+    "options": [
+      "Cultivation in the flooded fields",
+      "The cultivation of the seaweed",
+      "The storage of the grain",
+      "Cultivation of the plants without soil, in a nutrient solution"
+    ],
+    "answer": 3,
+    "explanation": "Hydroponics is the soilless cultivation in which the plants are grown in a nutrient solution, and it saves about 90 per cent of the water used in the soil based farming.",
+    "difficulty": "easy",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'tissue culture' in agriculture:",
+    "options": [
+      "The storage of the grains",
+      "The propagation of the plants from the small plant parts in a sterile medium",
+      "The preservation of the seeds in the cold storage",
+      "The cross breeding of the crops"
+    ],
+    "answer": 1,
+    "explanation": "The tissue culture, or the micropropagation, produces a large number of disease free plants from a small plant part in a sterile nutrient medium, and it is used for the banana, the sugarcane and the teak.",
+    "difficulty": "medium",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'neem coated urea':",
+    "options": [
+      "Increases the urea production",
+      "Is a pesticide against the insects only",
+      "Is a soil conditioner only",
+      "Slows the release of the nitrogen and reduces the misuse"
+    ],
+    "answer": 3,
+    "explanation": "The neem coated urea slows the release of the nitrogen, reduces the misuse of the fertiliser and cuts down the emission of the nitrous oxide.",
+    "difficulty": "medium",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'drip irrigation' saves water because:",
+    "options": [
+      "It delivers the water directly to the root zone and reduces the evaporation and the percolation losses",
+      "It irrigates the whole field uniformly",
+      "It is used only in the greenhouses",
+      "It increases the evaporation from the soil"
+    ],
+    "answer": 0,
+    "explanation": "The drip irrigation delivers the water at the root zone with a low flow rate, which reduces the evaporation, the percolation and the weeds and typically saves 30 to 50 per cent of the water.",
+    "difficulty": "easy",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'climate smart agriculture' involves:",
+    "options": [
+      "Only the vertical farming",
+      "Only the GM crops",
+      "Sustainable productivity with the adaptation and the mitigation and the reduced emissions",
+      "Only the organic farming"
+    ],
+    "answer": 2,
+    "explanation": "Climate smart agriculture aims at raising the productivity sustainably while building the resilience to the climate change and reducing the greenhouse gas emissions.",
+    "difficulty": "medium",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'artificial insemination' in the livestock:",
+    "options": [
+      "Is the artificial insemination of the fish",
+      "Is the technique of the artificial introduction of the semen in the female",
+      "Is the cross breeding of the animals",
+      "Is the feeding of the animals with the synthetic feed"
+    ],
+    "answer": 1,
+    "explanation": "Artificial insemination allows the wide use of the superior germ plasma of the elite bulls in the livestock, and the technique was first used in India at the Imperial Veterinary Research Institute at Mukteshwar in the 1920s.",
+    "difficulty": "hard",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'cold chain' in agriculture:",
+    "options": [
+      "Is a method of the irrigation",
+      "Is a method of the weed control",
+      "Preserves the produce from the spoilage between the harvest and the market",
+      "Is a method of the crop breeding"
+    ],
+    "answer": 2,
+    "explanation": "The cold chain with the pre-cooling, the reefer transport and the storage is essential to reduce the post-harvest losses, which are substantial in the Indian horticulture sector.",
+    "difficulty": "easy",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'food processing' and the 'food fortification':",
+    "options": [
+      "Fortification adds the micronutrients to the food to combat the deficiencies",
+      "Fortification is the preservation of the food by the cold chain",
+      "Fortification is the GM technology",
+      "Fortification is the organic certification"
+    ],
+    "answer": 0,
+    "explanation": "The fortification of the staples with the iron, the folic acid and the vitamin A is a cost effective public health intervention used widely in India.",
+    "difficulty": "medium",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'vertical farming' involves:",
+    "options": [
+      "Growing the forest crops",
+      "Growing the crops in the stacked layers under the controlled conditions",
+      "Growing the crops in the open fields",
+      "Growing the crops in the seawater"
+    ],
+    "answer": 1,
+    "explanation": "The vertical farming grows the crops in the stacked layers with the artificial light and the hydroponics, using far less water and land, and it is being tried out in the Indian metros.",
+    "difficulty": "easy",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'greenhouse gas' emission of the agriculture sector in India is mainly from:",
+    "options": [
+      "The tractors only",
+      "The fertiliser plants",
+      "The cold storage",
+      "The enteric fermentation, the manure management and the rice cultivation"
+    ],
+    "answer": 3,
+    "explanation": "The agricultural emissions in India come mainly from the enteric fermentation, the manure management and the cultivation of the rice under the flooded conditions.",
+    "difficulty": "medium",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sankalp' and the 'agritech startups':",
+    "options": [
+      "They are the research institutes",
+      "They are the seed companies",
+      "They are the cooperatives",
+      "They are the agri business incubation centres supported by the Department of Agriculture"
+    ],
+    "answer": 3,
+    "explanation": "The Sankalp agri business incubation centres support the agri tech startups with the mentoring and the market linkage.",
+    "difficulty": "hard",
+    "category": "agriculture-technology",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

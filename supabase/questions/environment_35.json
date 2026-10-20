@@ -1,0 +1,1562 @@
+[
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Ecosystem?",
+    "options": [
+      "It is a group of the same species in an area",
+      "It is a group of the populations in an area",
+      "It is the non-living part of the environment",
+      "It is a functional unit of nature where the living organisms interact with each other and the physical environment"
+    ],
+    "answer": 3,
+    "explanation": "An ecosystem is a functional unit of nature in which the organisms and the physical environment interact with each other and it is the basic unit of the ecological study.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Food chain?",
+    "options": [
+      "It is the sequence of the organisms feeding on one another with the flow of the energy",
+      "It is the group of the species of an area",
+      "It is the total of the biomass",
+      "It is the set of the decomposers"
+    ],
+    "answer": 0,
+    "explanation": "A food chain is the sequence of the organisms in which one feeds on the other and the energy flows from the producers to the consumers.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'Grazing food chain' starts from:",
+    "options": [
+      "The decomposers",
+      "The parasites",
+      "The producers and it is the terrestrial food chain",
+      "The carnivores"
+    ],
+    "answer": 2,
+    "explanation": "The grazing food chain begins with the green plants and it is the major conduit of the energy flow in the terrestrial ecosystem, while the detritus food chain operates in the soil.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The '10 per cent law' was given by:",
+    "options": [
+      "A.G. Tansley",
+      "R. Lindeman",
+      "Charles Elton",
+      "E.P. Odum"
+    ],
+    "answer": 1,
+    "explanation": "The 10 per cent law of the energy transfer was given by the R. Lindeman in 1942 and it explains the pyramid of energy.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pyramid of numbers' in a grassland ecosystem is:",
+    "options": [
+      "Inverted",
+      "Spindle shaped",
+      "Always rectangular",
+      "Upright"
+    ],
+    "answer": 3,
+    "explanation": "The pyramid of numbers is upright in a grassland ecosystem while it is inverted in a tree ecosystem, where a single tree supports many herbivores.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Net primary productivity' is:",
+    "options": [
+      "The rate of the biomass production remaining after the respiratory losses",
+      "The total biomass produced",
+      "The biomass of the decomposers",
+      "The productivity of the consumers"
+    ],
+    "answer": 0,
+    "explanation": "The net primary productivity is the rate at which the plants produce the biomass available for the consumption after the losses of the respiration and the heat.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Primary succession' occurs:",
+    "options": [
+      "After a forest fire",
+      "On the abandoned farmland",
+      "On a bare rock or in a newly formed water body",
+      "On a land where a community has existed before"
+    ],
+    "answer": 2,
+    "explanation": "The primary succession begins on a bare rock or in a new water body where there is no soil and the pioneer species are the lichens, while the secondary succession occurs on the disturbed area where the soil remains.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Eutrophication' of a lake results in:",
+    "options": [
+      "The rise of the water table",
+      "The excessive growth of the algae and the depletion of the dissolved oxygen",
+      "The cooling of the water",
+      "The increase of the salinity"
+    ],
+    "answer": 1,
+    "explanation": "The eutrophication is the nutrient enrichment of the water that leads to the algal blooms and the subsequent depletion of the dissolved oxygen, and it is the main cause of the lake degradation.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Biomagnification' of DDT resulted in:",
+    "options": [
+      "The rise of the fish population",
+      "The increase of the crop yield",
+      "The melting of the glaciers",
+      "The decline of the bird population in the USA in the 1970s"
+    ],
+    "answer": 3,
+    "explanation": "The biomagnification of the DDT led to the sharp decline of the bird population, particularly the birds of prey, in the United States and it led to the ban on the DDT in 1972.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Keystone species have:",
+    "options": [
+      "Are the largest organisms",
+      "Have a disproportionately large effect on the structure of the community",
+      "Are always the producers",
+      "Are the most numerous"
+    ],
+    "answer": 1,
+    "explanation": "The keystone species exert a controlling influence on the community structure and their removal can cause a major change in the ecosystem.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Biodiversity hotspots' in India:",
+    "options": [
+      "Are six in number",
+      "There are no hotspots in India",
+      "Only the Western Ghats is a hotspot",
+      "Are four in number, the Himalaya, the Indo-Burma, the Western Ghats and Sri Lanka and the Nicobar Islands"
+    ],
+    "answer": 3,
+    "explanation": "India has four of the world's 36 biodiversity hotspots: the Himalaya, the Indo-Burma, the Western Ghats and Sri Lanka and the Nicobar Islands.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indo-Burma' biodiversity hotspot includes:",
+    "options": [
+      "Only the Western Ghats",
+      "Only the Nicobar Islands",
+      "The north-east India and the Myanmar and the Thailand and the Malaysia",
+      "Only the Andaman Islands"
+    ],
+    "answer": 2,
+    "explanation": "The Indo-Burma hotspot extends from the north-east India through the Myanmar, the Thailand and the Malaysia and it is the most species rich of the Indian hotspots.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the IUCN Red List, which of the following is correct?",
+    "options": [
+      "Extinct, Extinct in the Wild, Critically Endangered, Endangered, Vulnerable, Near Threatened, Least Concern and Data Deficient",
+      "Only Endangered and Vulnerable",
+      "Only the Extinct and the Vulnerable",
+      "There are four categories"
+    ],
+    "answer": 0,
+    "explanation": "The IUCN Red List has eight categories, from the Extinct to the Data Deficient, and the categories indicate the level of the extinction risk.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Red Data Book' of India is the:",
+    "options": [
+      "The book of the Indian birds",
+      "The plant census",
+      "The wetland register",
+      "The Red List of the endangered species of India published by the Zoological Survey of India"
+    ],
+    "answer": 3,
+    "explanation": "The Red Data Book of India is the Red List of the endangered species of India and it is published by the Zoological Survey of India.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CITES' appendices:",
+    "options": [
+      "The Appendix III is the most restrictive",
+      "The Appendix I lists the species threatened with extinction and the trade is banned",
+      "The Appendix I lists the species of the least concern",
+      "There is only one appendix"
+    ],
+    "answer": 1,
+    "explanation": "The CITES has three appendices and the Appendix I lists the species threatened with extinction for which the trade is generally banned, and the Appendix II the ones that need a permit.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ramsar' convention was signed in:",
+    "options": [
+      "1980 in Nairobi",
+      "1969 in Vienna",
+      "1971 at Ramsar in Iran",
+      "1972 in Paris"
+    ],
+    "answer": 2,
+    "explanation": "The Convention on the Wetlands of International Importance, the Ramsar Convention, was signed in 1971 at Ramsar in Iran and it was the first treaty of its kind on the wetlands.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Migratory species' in India come under the:",
+    "options": [
+      "The Central Asian Flyway and the East Asian-Australasian Flyway",
+      "The Mediterranean Flyway only",
+      "The Pacific Flyway",
+      "The African Flyway"
+    ],
+    "answer": 0,
+    "explanation": "The migratory birds of India come under the Central Asian Flyway and the East Asian-Australasian Flyway, and the Central Asian Flyway covers the Arctic, Central Asia and South Asia.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bengal tiger' is the state animal of:",
+    "options": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Rajasthan",
+      "West Bengal"
+    ],
+    "answer": 3,
+    "explanation": "The Bengal tiger is the state animal of the West Bengal and the national animal of the India and it is the most numerous of the tigers in the world.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Asiatic lion' is the state animal of:",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Odisha"
+    ],
+    "answer": 0,
+    "explanation": "The Asiatic lion is the state animal of the Gujarat and the Gir forest is the only place in the world where it survives in the wild.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'one-horned rhinoceros' is the state animal of:",
+    "options": [
+      "Odisha",
+      "Assam",
+      "West Bengal",
+      "Uttar Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "The one-horned rhinoceros, the Indian rhino, is the state animal of the Assam and the Kaziranga National Park holds the largest population of the world.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'snow leopard' is the state animal of:",
+    "options": [
+      "Uttarakhand",
+      "Sikkim",
+      "Jammu and Kashmir",
+      "Himachal Pradesh"
+    ],
+    "answer": 2,
+    "explanation": "The snow leopard was the state animal of the erstwhile Jammu and Kashmir and it is found in the high-altitude regions of the Ladakh, the Himachal, the Uttarakhand and the Sikkim.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Markhor' is the state animal of:",
+    "options": [
+      "Uttarakhand",
+      "Sikkim",
+      "Jammu and Kashmir",
+      "Himachal Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "The markhor is the state animal of the Himachal Pradesh and the state animal of the Ladakh is the snow leopard.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian elephant' is the state animal of:",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu",
+      "Odisha"
+    ],
+    "answer": 0,
+    "explanation": "The Indian elephant is the state animal of the Karnataka, the Kerala and the Tamil Nadu and the Project Elephant is the major conservation programme for it.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'grizzled giant squirrel' is the state animal of:",
+    "options": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Kerala",
+      "Karnataka"
+    ],
+    "answer": 2,
+    "explanation": "The grizzled giant squirrel, the ratel, is the state animal of the Kerala and it is an endangered mammal of the Western Ghats.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nilgiri langur' is the state animal of:",
+    "options": [
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka"
+    ],
+    "answer": 1,
+    "explanation": "The Nilgiri langur or the lion-tailed macaque is the state animal of the Tamil Nadu and it is an endangered primate of the Western Ghats.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Indian robin is correct?",
+    "options": [
+      "Is the state bird of the Kerala",
+      "Is the state bird of the Gujarat",
+      "Is the state bird of the Delhi",
+      "Is the state bird of the Maharashtra"
+    ],
+    "answer": 2,
+    "explanation": "The Indian robin is the state bird of the Delhi and the northern robin of the black and the white is the state bird of the Maharashtra.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Himalayan fly valley is:",
+    "options": [
+      "in the Deccan",
+      "the bird paradise of the higher Himalayas",
+      "in the Western Ghats",
+      "in the Sundarbans"
+    ],
+    "answer": 1,
+    "explanation": "The Himalayan fly valleys, with the deciduous forests of the higher Himalayas, are the bird paradise and the national bird of the nepal is the Danphe.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Silent Valley' of Kerala is famous for the:",
+    "options": [
+      "The lion-tailed macaque and the evergreen forest",
+      "The elephants",
+      "The tigers",
+      "The rhinos"
+    ],
+    "answer": 0,
+    "explanation": "The Silent Valley National Park, a part of the Nilgiri Biosphere Reserve, is the last refuge of the lion-tailed macaque and it has one of the last tracts of the tropical evergreen forest in India.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Palamau Tiger Reserve' is in:",
+    "options": [
+      "West Bengal",
+      "Odisha",
+      "Chhattisgarh",
+      "Jharkhand"
+    ],
+    "answer": 3,
+    "explanation": "The Palamau Tiger Reserve, in the Palamau forest division of the Jharkhand, has a significant population of the Indian leopard and the sloth bear.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Buxa Tiger Reserve' is in:",
+    "options": [
+      "Assam",
+      "Sikkim",
+      "Meghalaya",
+      "West Bengal"
+    ],
+    "answer": 3,
+    "explanation": "The Buxa Tiger Reserve in the Alipurduar district of the West Bengal is in the foothills of the Himalayas and it is the northernmost of the tiger reserves.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhitarkanika Mangroves' are a Ramsar site in:",
+    "options": [
+      "Tamil Nadu",
+      "Odisha",
+      "West Bengal",
+      "Andhra Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "The Bhitarkanika Mangroves in the Odisha are the only mangrove Ramsar site in the country and they are the home of the saltwater crocodile.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sundarbans' is famous for:",
+    "options": [
+      "The snow leopards",
+      "The corals",
+      "The Royal Bengal tiger and the largest mangrove forest of the world",
+      "The elephants"
+    ],
+    "answer": 2,
+    "explanation": "The Sundarbans, the largest mangrove forest of the world in the Bay of Bengal, is the home of the Royal Bengal tiger and it is a UNESCO World Heritage site.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IUCN categories' of the protected areas:",
+    "options": [
+      "Include the Category I of the strict nature reserve and the Category VI of the protected landscape",
+      "Only two categories",
+      "Only the national parks",
+      "There are four categories"
+    ],
+    "answer": 0,
+    "explanation": "The IUCN has six categories of the protected areas, from the Category I of the strict nature reserve to the Category VI of the protected landscape or the seascape.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Group of Monuments at Mahabalipuram' was inscribed in:",
+    "options": [
+      "1993",
+      "2004",
+      "1984",
+      "1983"
+    ],
+    "answer": 2,
+    "explanation": "The Group of Monuments at Mahabalipuram, the rock-cut caves and the Shore Temple, was inscribed as a World Heritage site in 1984.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Khangchendzonga National Park' in Sikkim is:",
+    "options": [
+      "A national park in the Rajasthan",
+      "A UNESCO World Heritage site for the Himalayan tiger and the red panda",
+      "A Ramsar site",
+      "A biosphere reserve only"
+    ],
+    "answer": 1,
+    "explanation": "The Khangchendzonga National Park, inscribed in 2016, is a World Heritage site that protects the snow leopard, the red panda and the Himalayan tiger.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Red Fort' and the 'Qutb Minar' are:",
+    "options": [
+      "World Heritage sites in Agra",
+      "Biosphere reserves",
+      "Ramsar sites",
+      "World Heritage sites in Delhi inscribed in 1993"
+    ],
+    "answer": 3,
+    "explanation": "The Red Fort Complex and the Qutb Minar and its monuments in Delhi were inscribed as the World Heritage sites in 1993.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hill Forts of Rajasthan' were inscribed as a World Heritage site in:",
+    "options": [
+      "2013",
+      "2011",
+      "2005",
+      "2018"
+    ],
+    "answer": 0,
+    "explanation": "The six Hill Forts of Rajasthan, the Chittorgarh, the Kumbhalgarh, the Ranthambore, the Gagron, the Amber and the Jaisalmer, were inscribed in 2013.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": 2013
+  },
+  {
+    "q": "The 'Victorian Gothic and the Art Deco' ensembles of Mumbai were inscribed in:",
+    "options": [
+      "2004",
+      "1993",
+      "2012",
+      "2018"
+    ],
+    "answer": 0,
+    "explanation": "The Victorian Gothic and Art Deco Ensembles of Mumbai were inscribed as a World Heritage site in 2004 and they include the Gateway of India and the High Court.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": 2004
+  },
+  {
+    "q": "The 'Sacred Ensembles of the Hoysalas' was inscribed in:",
+    "options": [
+      "2019",
+      "2023",
+      "2021",
+      "2016"
+    ],
+    "answer": 1,
+    "explanation": "The Sacred Ensembles of the Hoysalas, the temples of the Belur, the Halebidu and the Somnathpur, was inscribed in 2023.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The 'Moidams of the Ahom Dynasty' at Charaideo was inscribed in:",
+    "options": [
+      "2023",
+      "2016",
+      "2021",
+      "2019"
+    ],
+    "answer": 2,
+    "explanation": "The Moidams, the royal burial mounds of the Ahom dynasty at Charaideo in Assam, were inscribed as a World Heritage site in 2021.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The 'Santiniketan' of the Rabindranath Tagore was inscribed in:",
+    "options": [
+      "2016",
+      "2012",
+      "2019",
+      "2023"
+    ],
+    "answer": 3,
+    "explanation": "The Santiniketan, the ashram and the university campus of the Rabindranath Tagore, was inscribed as a World Heritage site in July 2023.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The 'Ramsar' sites of the total in India (approximately) are:",
+    "options": [
+      "More than two hundred",
+      "More than eighty",
+      "About twenty",
+      "About forty"
+    ],
+    "answer": 1,
+    "explanation": "India has one of the largest networks of the Ramsar sites in the world with more than eighty sites designated, and the Chilika and the Vembanad are among the oldest.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Paris Agreement' on the climate was adopted in:",
+    "options": [
+      "2018",
+      "2021",
+      "2015",
+      "2012"
+    ],
+    "answer": 2,
+    "explanation": "The Paris Agreement was adopted in December 2015 at the COP21 and it aims to hold the increase of the global average temperature well below 2 degrees Celsius above the pre-industrial level.",
+    "difficulty": "easy",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'COP21' was held in:",
+    "options": [
+      "Paris",
+      "Cancun",
+      "Sharm el-Sheikh",
+      "Durban"
+    ],
+    "answer": 0,
+    "explanation": "The COP21 was held in Paris in 2015 and the Paris Agreement and the entry into force of the Paris Agreement are the outcomes.",
+    "difficulty": "easy",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IPCC' was established in:",
+    "options": [
+      "1992",
+      "1980",
+      "2002",
+      "1988"
+    ],
+    "answer": 3,
+    "explanation": "The Intergovernmental Panel on Climate Change was established in 1988 by the WMO and the UNEP and it has prepared the assessment reports of 1990, 1995, 2001, 2007, 2014 and 2021.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Kyoto Protocol was:",
+    "options": [
+      "about the ozone",
+      "about the biodiversity",
+      "adopted in 1997 and it committed the industrialised countries to the reduction of the greenhouse gas emissions",
+      "adopted in 1987"
+    ],
+    "answer": 2,
+    "explanation": "The Kyoto Protocol of 1997 committed the industrialised countries to the legally binding reduction of the greenhouse gas emissions, and it entered into force in 2005.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Montreal Protocol' is concerned with:",
+    "options": [
+      "The greenhouse gases",
+      "The biodiversity",
+      "The marine pollution",
+      "The ozone depleting substances"
+    ],
+    "answer": 3,
+    "explanation": "The Montreal Protocol of 1987 phased out the ozone depleting substances and it is the most successful of the environmental treaties with the universal ratification.",
+    "difficulty": "easy",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the carbon sink, which of the following is correct?",
+    "options": [
+      "The cities are the carbon sinks",
+      "The oceans and the forests are the major carbon sinks",
+      "The deserts are the carbon sinks",
+      "The atmosphere is a carbon sink"
+    ],
+    "answer": 1,
+    "explanation": "The oceans and the terrestrial vegetation, the forests, are the major sinks of the atmospheric carbon dioxide and the forests of the tropics are the most effective of them.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'greenhouse gases' include:",
+    "options": [
+      "Carbon dioxide, methane, nitrous oxide, water vapour and ozone",
+      "Only carbon dioxide",
+      "Only methane and the carbon dioxide",
+      "Oxygen and nitrogen"
+    ],
+    "answer": 0,
+    "explanation": "The greenhouse gases are the carbon dioxide, the methane, the nitrous oxide, the water vapour and the ozone and the water vapour is the largest contributor naturally.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Global Warming Potential' of a gas is:",
+    "options": [
+      "The ratio of the heat trapped by the gas to that of the carbon dioxide over the same time",
+      "The total heat of the gas",
+      "The lifetime of the gas in the atmosphere",
+      "The concentration of the gas"
+    ],
+    "answer": 0,
+    "explanation": "The GWP is the ratio of the heat trapped by the gas to that of the carbon dioxide over the same period and the methane has a GWP of about 28 to 34 over a century.",
+    "difficulty": "hard",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The ozone depletion is:",
+    "options": [
+      "linked to the eutrophication",
+      "linked to the skin cancer and the cataracts",
+      "linked to the acid rain",
+      "linked to the global warming"
+    ],
+    "answer": 1,
+    "explanation": "The depletion of the ozone layer lets the ultraviolet-B radiation reach the surface and it raises the incidence of the skin cancer, the cataracts and the damage to the crops.",
+    "difficulty": "easy",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The AR6 of the IPCC was:",
+    "options": [
+      "released in 2007",
+      "no AR6",
+      "released in 2021-2023",
+      "released in 1995"
+    ],
+    "answer": 2,
+    "explanation": "The Sixth Assessment Report of the IPCC, the AR6, was released between 2021 and 2023 with the Synthesis Report of 2023 and it is the most comprehensive scientific assessment of the climate change.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The 'Net zero' for India is committed by:",
+    "options": [
+      "2050",
+      "2030",
+      "2060",
+      "2070"
+    ],
+    "answer": 3,
+    "explanation": "India has committed to the net zero greenhouse gas emissions by 2070 and to the 500 GW of the non-fossil capacity by 2030, and the Panchamrit was announced at the COP26.",
+    "difficulty": "easy",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The AQI is reported:",
+    "options": [
+      "on a scale of 1 to 100",
+      "The AQI measures the visibility only",
+      "measured only in the winter",
+      "on a scale of 1 to 500 and the satisfactory level is 1 to 50"
+    ],
+    "answer": 3,
+    "explanation": "The Air Quality Index, the AQI, is reported on a scale of 1 to 500 and the categories are the Good (1 to 50), the Satisfactory (51 to 100), the Moderate (101 to 200), the Poor (201 to 300), the Very Poor (301 to 400) and the Severe (401 to 500).",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NAAQS' of India for the PM2.5 is:",
+    "options": [
+      "100 micrograms per cubic metre",
+      "40 micrograms per cubic metre",
+      "60 micrograms per cubic metre over 24 hours",
+      "500 micrograms per cubic metre"
+    ],
+    "answer": 2,
+    "explanation": "The National Ambient Air Quality Standards of India prescribe the 60 micrograms per cubic metre of the PM2.5 over 24 hours and the 100 for the PM10.",
+    "difficulty": "hard",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the BOD, which of the following is correct?",
+    "options": [
+      "It measures the salinity",
+      "The BOD is the amount of the biodegradable organic matter and it indicates the pollution of the water",
+      "The BOD measures the acidity",
+      "It measures the hardness"
+    ],
+    "answer": 1,
+    "explanation": "The Biochemical Oxygen Demand measures the amount of the biodegradable organic matter in the water and the higher the BOD, the greater is the pollution of the water.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Eutrophication is:",
+    "options": [
+      "caused by the nutrients of the fertilisers and the detergents and it leads to the algal blooms",
+      "caused by the oil spills",
+      "the cooling of the water",
+      "the dilution of the salts"
+    ],
+    "answer": 0,
+    "explanation": "The eutrophication is caused by the phosphates and the nitrates of the fertilisers and the detergents and it leads to the algal blooms and the oxygen depletion.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'acid rain' is caused mainly by:",
+    "options": [
+      "The oxides of sulphur and the nitrogen",
+      "The carbon dioxide",
+      "The particulates",
+      "The chlorofluorocarbons"
+    ],
+    "answer": 0,
+    "explanation": "The acid rain is caused by the oxides of sulphur and the nitrogen that combine with the water vapour in the atmosphere to form the sulphuric and the nitric acids.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the noise pollution?",
+    "options": [
+      "It is measured in parts per million",
+      "It is measured by the BOD",
+      "The permissible noise level in the industrial areas in the day is 75 dB",
+      "It is 100 dB everywhere"
+    ],
+    "answer": 2,
+    "explanation": "The permissible noise level in the industrial areas is 75 dB in the day and 70 dB at night, in the commercial areas it is 65 and 55, and in the residential 55 and 45.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The identified single-use plastic items are banned:",
+    "options": [
+      "into effect in 2016",
+      "not regulated in India",
+      "only to the Delhi",
+      "from 1 July 2022"
+    ],
+    "answer": 3,
+    "explanation": "The ban on the identified single-use plastic items came into effect on 1 July 2022 and the plastic waste management rules of 2016 had already banned their manufacture, the import and the use.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The 'Municipal Solid Waste Rules, 2016' required the states to:",
+    "options": [
+      "Notify the landfill sites",
+      "Have their own rules within two years and the waste segregation at the source",
+      "Ban the plastic immediately",
+      "Set up the waste to energy plants"
+    ],
+    "answer": 1,
+    "explanation": "The Municipal Solid Waste Management Rules of 2016 required the states to have their own rules and the source segregation of the waste and the segregation of the waste in the three bins.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "The 'EPR' in the extended producer responsibility:",
+    "options": [
+      "Is a tax on the consumers",
+      "Is a deposit scheme of the glass",
+      "Is a ban on the packaging",
+      "Makes the producers responsible for the end of life of their products"
+    ],
+    "answer": 3,
+    "explanation": "The EPR makes the producers responsible for the collection, the recycling and the disposal of the products after the consumption and the plastic packaging EPR was notified in 2022.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Biodegradable' and the 'compostable' plastics:",
+    "options": [
+      "Have no quality standards",
+      "Are allowed without any conditions",
+      "Are governed by the quality standards notified in 2022 and they are applicable from April 2023",
+      "Are banned in India"
+    ],
+    "answer": 2,
+    "explanation": "The quality standards for the biodegradable and the compostable plastics were notified in 2022 and they became applicable from 1 April 2023 to the products of the large scale producers.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "Which of the following is correct in the case of the Biogas?",
+    "options": [
+      "Are the plants that convert the organic waste into the biogas and the bio-fertiliser",
+      "Are the nuclear plants",
+      "Are the coal washeries",
+      "Are the desalination plants"
+    ],
+    "answer": 0,
+    "explanation": "The biogas plants, the gobar gas plants, convert the organic waste into the biogas for the cooking and the slurry into the bio-fertiliser for the agriculture.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Waste to energy' plants in India:",
+    "options": [
+      "Are the coal mines",
+      "Are set up under the SMART cities and the Swachh mission",
+      "Are only in the Kerala",
+      "Are the nuclear plants"
+    ],
+    "answer": 1,
+    "explanation": "The waste to energy plants are set up under the SMART Cities Mission and the Swachh Bharat Mission and they have faced the objections of the resident and the environmental groups.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ocean acidification' is caused by:",
+    "options": [
+      "The oil spills",
+      "The thermal pollution",
+      "The absorption of the carbon dioxide by the seawater",
+      "The dumping of the plastic"
+    ],
+    "answer": 2,
+    "explanation": "The absorption of the atmospheric carbon dioxide by the seawater lowers the pH and it harms the shell forming organisms and the corals.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Coral bleaching' is caused by:",
+    "options": [
+      "The salinity",
+      "The oxygen",
+      "The wave action",
+      "The rise in the sea temperature"
+    ],
+    "answer": 3,
+    "explanation": "The coral bleaching is caused by the stress of the higher sea temperatures that make the corals expel their symbiotic zooxanthellae.",
+    "difficulty": "easy",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CRZ' of the Coastal Regulation Zones:",
+    "options": [
+      "Applies only to the Kerala",
+      "Divided the coastal areas into the CRZ categories I to IV and it was notified in 1991",
+      "Was notified in 2001",
+      "Divides the coast into 10 zones"
+    ],
+    "answer": 1,
+    "explanation": "The Coastal Regulation Zones, notified in 1991 under the Environment Protection Act, divided the coastal areas into the categories I to IV with the different permissible activities.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Deep Sea mining' in the Indian Ocean:",
+    "options": [
+      "Is regulated by the International Seabed Authority under the UNCLOS",
+      "Is completely banned in India",
+      "Is done only by the Japan",
+      "Is not regulated"
+    ],
+    "answer": 0,
+    "explanation": "The deep sea mining is regulated by the International Seabed Authority that was established under the UNCLOS and India has a pioneer area in the central Indian Ocean.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'blue economy' of India:",
+    "options": [
+      "Is a state scheme",
+      "Covers only the shipping",
+      "Covers the oceans, the coastal areas and the marine resources and the National Blue Economy Policy was notified in 2021",
+      "Covers only the fisheries"
+    ],
+    "answer": 2,
+    "explanation": "The National Blue Economy Policy was notified in 2021 and it covers the economic activities of the oceans, the coastal areas and the marine and the coastal resources.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The 'MARPOL' convention is concerned with:",
+    "options": [
+      "The ozone depletion",
+      "The marine biodiversity",
+      "The fisheries",
+      "The pollution of the sea by the ships"
+    ],
+    "answer": 3,
+    "explanation": "The MARPOL is the international convention for the prevention of the pollution from the ships and it deals with the oil pollution, the garbage and the sewage.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Island Development Agency was:",
+    "options": [
+      "set up in 2001",
+      "set up in 2021 for the development of the islands",
+      "set up in 1991",
+      "a fisheries body"
+    ],
+    "answer": 1,
+    "explanation": "The Island Development Agency was set up in 2021 under the Ministry of Ports, Shipping and Waterways for the holistic development of the islands and it merged the erstwhile three organisations.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the solar energy?",
+    "options": [
+      "India is among the largest solar power producers in the world with the Khavda and the Bhadla as the largest plants",
+      "India is the smallest producer",
+      "The solar power was introduced in 2015",
+      "There are no solar plants in the Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "India is among the largest solar power producers in the world and the Bhadla in the Rajasthan is the largest solar park in Asia and the Kamuthi in the Tamil Nadu is among the largest in the world.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PM Surya Ghar Muft Bijli Yojana' of 2024:",
+    "options": [
+      "It is a state scheme",
+      "Provides the rooftop solar with a maximum of 300 units per household",
+      "Provides the free electricity to all the households",
+      "Provides the solar to the industries only"
+    ],
+    "answer": 1,
+    "explanation": "The PM Surya Ghar Muft Bijli Yojana, with an outlay of Rs. 75,021 crore, provides the rooftop solar of up to 300 units per household with the Central Subsidy.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "Energy Storage Obligation requires:",
+    "options": [
+      "the renewable energy developers to store a part of their generation for a later use",
+      "the thermal plants to be modernised",
+      "a subsidy for the rooftop solar",
+      "the obligation of the discoms to buy the coal"
+    ],
+    "answer": 0,
+    "explanation": "The Energy Storage Obligation in the electricity regulations requires the renewable energy developers to store a part of their generation for the later use in the peak hours.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Environment Protection Act, 1986' provides for:",
+    "options": [
+      "The control of the noise only",
+      "The regulation of the industries only",
+      "The powers of the Central and the state pollution control boards to control the pollution and to set the standards",
+      "The protection of the forests only"
+    ],
+    "answer": 2,
+    "explanation": "The Environment Protection Act of 1986 provided for the powers of the Central and the state pollution control boards to control the pollution and the standards and it also gave the umbrella framework for the environment laws.",
+    "difficulty": "easy",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Green Tribunal':",
+    "options": [
+      "Was established in 1995",
+      "Is a part of the Supreme Court",
+      "Is a state body",
+      "Was established in 2010 under the Environment Protection Act and it is a specialised body for the environmental disputes"
+    ],
+    "answer": 3,
+    "explanation": "The National Green Tribunal was established in 2010 under the Environment Protection Act of 1986 and it is a specialised body for the environmental disputes with the powers of the civil court.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Biodiversity Act, 2002' provides for the:",
+    "options": [
+      "The National Biodiversity Authority and the State and the district councils",
+      "The National Green Tribunal",
+      "The Central Pollution Control Board",
+      "The National Wildlife Board"
+    ],
+    "answer": 0,
+    "explanation": "The Biodiversity Act of 2002 provided for the National Biodiversity Authority and the state and the district biodiversity councils and for the sharing of the benefits with the local and the indigenous communities.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Forest Conservation Act, 1980':",
+    "options": [
+      "It nationalised the forests",
+      "It created the national parks",
+      "It is about the tribal rights",
+      "Prohibits the diversion of the forest land for the non-forest use and it was amended in 2023"
+    ],
+    "answer": 3,
+    "explanation": "The Forest (Conservation) Act of 1980 prohibits the diversion of the forest land for the non-forest use and the 2023 amendment allowed the diversion for the linear infrastructure and the the exemptions for the forests within the revenue limits of the villages.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Scheduled Tribes and the Other Traditional Forest Dwellers Act' was enacted in:",
+    "options": [
+      "1992",
+      "2002",
+      "2006",
+      "1980"
+    ],
+    "answer": 2,
+    "explanation": "The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act of 2006, amended in 2021, recognises the rights of the forest dwellers over the forest resources.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CAMPA Act, 2016' provides for:",
+    "options": [
+      "The tax on the forest produce",
+      "The Compensatory Afforestation Fund and the National and the state funds for the diversion of the forest land",
+      "The nationalisation of the forests",
+      "The ban on the mining"
+    ],
+    "answer": 1,
+    "explanation": "The CAMPA Act of 2016 provided for the Compensatory Afforestation Fund and the National and the state funds to be used for the afforestation and the improvement of the forests.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'EIA Notification, 2006':",
+    "options": [
+      "It created the wildlife board",
+      "Lists the projects that require the environmental impact assessment and the categorisation of the projects",
+      "It created the NGT",
+      "It banned the mining"
+    ],
+    "answer": 1,
+    "explanation": "The EIA Notification of 2006 listed the projects requiring the environmental impact assessment and the categories and the conditions of the clearances.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Convention on Biological Diversity' was opened for signature in:",
+    "options": [
+      "1972 at Stockholm",
+      "1998 in Kyoto",
+      "2002 in Johannesburg",
+      "1992 at Rio de Janeiro"
+    ],
+    "answer": 3,
+    "explanation": "The Convention on Biological Diversity was opened for signature at the Rio de Janeiro Earth Summit in 1992 and it entered into force in 1993.",
+    "difficulty": "easy",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cartagena Protocol' of the CBD is about:",
+    "options": [
+      "The biosafety of the genetically modified organisms",
+      "The climate change",
+      "The ozone",
+      "The seas"
+    ],
+    "answer": 0,
+    "explanation": "The Cartagena Protocol on Biosafety deals with the movement, the handling and the use of the living modified organisms that may have adverse effects on the biological diversity.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nagoya Protocol' of the CBD is about:",
+    "options": [
+      "The climate change",
+      "The migratory species",
+      "The access and the benefit sharing from the genetic resources",
+      "The biosafety"
+    ],
+    "answer": 2,
+    "explanation": "The Nagoya Protocol, adopted in 2010, deals with the access to the genetic resources and the fair and equitable sharing of the benefits arising from their utilisation.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kunming-Montreal Global Biodiversity Framework' was adopted at:",
+    "options": [
+      "The COP14 in 2010",
+      "The COP15 of the CBD in 2022",
+      "The COP26 in 2021",
+      "The COP28 in 2023"
+    ],
+    "answer": 1,
+    "explanation": "The Kunming-Montreal Global Biodiversity Framework was adopted at the COP15 of the CBD at Kunming in December 2022 with the target of the protection of the 30 per cent of the land and the sea by 2030.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the UNFCCC?",
+    "options": [
+      "It is the framework convention of the 1992 Rio de Janeiro with the Kyoto Protocol and the Paris Agreement under it",
+      "It was adopted in 1997",
+      "It is about the ozone",
+      "It is a fisheries treaty"
+    ],
+    "answer": 0,
+    "explanation": "The UNFCCC is the framework convention of the 1992 Rio de Janeiro and the Kyoto Protocol and the Paris Agreement are the protocols and the agreements under it.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sendai Framework' was adopted in:",
+    "options": [
+      "2005 in Kobe",
+      "1994 in Yokohama",
+      "1989 in Geneva",
+      "2015 in Sendai, Japan"
+    ],
+    "answer": 3,
+    "explanation": "The Sendai Framework for Disaster Risk Reduction 2015-2030 was adopted in Sendai, Japan in March 2015 and it replaced the Hyogo Framework.",
+    "difficulty": "easy",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sendai Framework' has how many priorities?",
+    "options": [
+      "Five",
+      "Seven",
+      "Four",
+      "Three"
+    ],
+    "answer": 2,
+    "explanation": "The Sendai Framework has the four priorities of the understanding the disaster risk, the strengthening the disaster risk governance, the investing in the resilience and the enhancing the preparedness for the effective response and the recovery.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Disaster Management Act, 2005' created:",
+    "options": [
+      "The NDMA and the NDRF",
+      "The National Commission",
+      "The NDMA, the SDMA, the DDMA and the NDRF",
+      "Only the NDMA"
+    ],
+    "answer": 2,
+    "explanation": "The National Disaster Management Act of 2005 created the NDMA at the national level, the SDMA and the DDMA at the state and the district levels and the National Response Force for the rescue.",
+    "difficulty": "easy",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NDMA' is chaired by:",
+    "options": [
+      "The President",
+      "The Chief Minister",
+      "The Home Secretary",
+      "The Prime Minister"
+    ],
+    "answer": 3,
+    "explanation": "The National Disaster Management Authority is chaired by the Prime Minister and the National Executive Committee is also chaired by the Prime Minister.",
+    "difficulty": "easy",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Response Force' was constituted in:",
+    "options": [
+      "2006 with the 16 battalions",
+      "1996 with the 8 battalions",
+      "2000 with the 12 battalions",
+      "2010 with the 20 battalions"
+    ],
+    "answer": 0,
+    "explanation": "The National Response Force was constituted in 2006 with 16 battalions and the NDRF is the body of the SDRF and it is led by the Director General of the NDRF.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The '13th Finance Commission' recommended the NDDRF with a corpus of:",
+    "options": [
+      "Rs. 8,000 crore",
+      "Rs. 28,000 crore",
+      "Rs. 12,000 crore",
+      "Rs. 40,000 crore"
+    ],
+    "answer": 1,
+    "explanation": "The 13th Finance Commission recommended the National Disaster Damage and Restoration Fund with an initial corpus of Rs. 28,000 crore and the NDDRF was constituted in 2019.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'heat wave' in India is declared by the IMD when the temperature is:",
+    "options": [
+      "Below 20 degrees",
+      "At least 4 degrees above the normal for a plains station",
+      "Above 40 degrees for two days",
+      "Above 45 degrees in the hills"
+    ],
+    "answer": 1,
+    "explanation": "The IMD declares a heat wave when the maximum temperature is at least 4 degrees above the normal for a plains station, 3 degrees for the hills and the coastal and the severe heat wave at a difference of 6.5 degrees.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the INCOIS?",
+    "options": [
+      "It is a fisheries institute",
+      "It is a space centre",
+      "It is a meteorological department of the state",
+      "The INCOIS at Hyderabad issues the cyclone and the ocean heat potential advisories for the Indian Ocean"
+    ],
+    "answer": 3,
+    "explanation": "The Indian National Centre for Ocean Information Services at Hyderabad issues the cyclone and the ocean heat potential advisories and the 3D ocean temperature products for the Indian Ocean.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Sendai?",
+    "options": [
+      "The Sendai Framework replaced the Hyogo Framework of 2005-2015",
+      "The Sendai Framework replaced the Yokohama Strategy",
+      "It was adopted by the UN Security Council",
+      "It is a purely national framework"
+    ],
+    "answer": 0,
+    "explanation": "The Sendai Framework of 2015-2030 replaced the Hyogo Framework of 2005-2015 and it was the first instrument of the post-2015 disaster risk reduction after the adoption of the Sendai Declaration.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The NDRF battalions are:",
+    "options": [
+      "a state force",
+      "under the NITI Aayog",
+      "drawn from the CAPF and the BSF and the CRPF",
+      "the army reserve"
+    ],
+    "answer": 2,
+    "explanation": "The NDRF battalions are drawn from the CAPF and the BSF and the CRPF and the NDRF is the core of the SDRF for the rescue operations.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PM CARES Fund' was established in:",
+    "options": [
+      "2001",
+      "2020 during the Covid pandemic",
+      "2015",
+      "2004"
+    ],
+    "answer": 1,
+    "explanation": "The PM CARES Fund was established in March 2020 to support the fight against the Covid-19 and the other causes of distress.",
+    "difficulty": "easy",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Guidelines for the Management of the Chemical Accidents were:",
+    "options": [
+      "released in 2004",
+      "released in 1989",
+      "no such guidelines",
+      "released in 1999"
+    ],
+    "answer": 3,
+    "explanation": "The National Guidelines for the Management of the Chemical Accidents were released in 1999 and the NDMA is the nodal agency for the mitigation of the chemical accidents.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rashtriya Barh Ayog was:",
+    "options": [
+      "set up in 1980 to give the effective flood protection in the Ganga and the Brahmaputra basins",
+      "set up in 1990",
+      "a state body",
+      "set up in 2000"
+    ],
+    "answer": 0,
+    "explanation": "The Rashtriya Barh Ayog, the National Commission for Floods, was set up in 1980 under the Ministry of Water Resources to give the effective flood protection in the Ganga and the Brahmaputra basins.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Water Policy' of 2012 recommended:",
+    "options": [
+      "The uniform water tariff",
+      "The abolition of the irrigation canals",
+      "The principle of the equitable distribution of the water and the basin-level planning",
+      "The privatisation of the water supply"
+    ],
+    "answer": 2,
+    "explanation": "The National Water Policy of 2012 recommended the equitable and the rational use of the water, the basin-level planning and the minimum use of the potable water for the domestic use.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The cyclones of the Bay of Bengal are:",
+    "options": [
+      "the storms",
+      "interchangeable",
+      "called the storms and the ones of the Arabian Sea are the cyclones",
+      "called the cyclones"
+    ],
+    "answer": 2,
+    "explanation": "The tropical cyclones of the Bay of Bengal are called the storms and the ones of the Arabian Sea are called the cyclones and the frequency is much higher in the Bay.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the 2004 tsunami is correct?",
+    "options": [
+      "Was caused by the 2005 Kashmir earthquake",
+      "Was caused by the cyclone of 2004",
+      "Was caused by the volcanic eruption",
+      "Was triggered by the 26 December 2004 Sumatra earthquake of the magnitude 9.0"
+    ],
+    "answer": 3,
+    "explanation": "The 2004 tsunami was triggered by the undersea Sumatra-Andaman earthquake of the magnitude 9.0 on 26 December 2004 and it killed about 2,30,000 people in 14 countries.",
+    "difficulty": "easy",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Ooty?",
+    "options": [
+      "The Ooty is a nuclear centre",
+      "The Ooty is the site of the Tropical Botanical Garden and the Avalanche of the Nilgiri Biosphere Reserve",
+      "The Ooty is the site of the IIT",
+      "The Ooty is a port"
+    ],
+    "answer": 1,
+    "explanation": "The Ooty in the Nilgiris is the site of the Tropical Botanical Garden, one of the oldest in the world, and the Nilgiri Biosphere Reserve.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

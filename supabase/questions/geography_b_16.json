@@ -1,0 +1,752 @@
+[
+  {
+    "q": "The 'NATO' was founded in:",
+    "options": [
+      "1951",
+      "1949",
+      "1955",
+      "1945"
+    ],
+    "answer": 1,
+    "explanation": "The North Atlantic Treaty Organization was founded in April 1949 with twelve founding members, and its Article 5 collective defence clause is the basis of the alliance's security guarantee.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'European Union' after the withdrawal of the United Kingdom has how many member states?",
+    "options": [
+      "25",
+      "30",
+      "27",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "The United Kingdom's withdrawal in 2020 left the European Union with 27 member states, and the euro area covers twenty of them, with several candidate countries still in accession talks.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ASEAN' comprises how many member states?",
+    "options": [
+      "10",
+      "11",
+      "9",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "ASEAN, the Association of South-East Asian Nations, has ten members after the admission of Timor-Leste as the newest member, and it operates on the basis of consensus and non-interference.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "South Asia's regional grouping, which has been largely inactive, was founded in:",
+    "options": [
+      "1985",
+      "1990",
+      "1980",
+      "1975"
+    ],
+    "answer": 0,
+    "explanation": "SAARC was founded in 1985 with the Dhaka Declaration and its secretariat is in Kathmandu, but the organisation has been unable to hold a summit for many years, and India has insisted on a bilateral approach instead.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'BIMSTEC' connects:",
+    "options": [
+      "the Central Asian republics",
+      "Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation",
+      "the countries of the Indian Ocean Rim Association",
+      "the Indian Ocean rim countries"
+    ],
+    "answer": 1,
+    "explanation": "BIMSTEC is a grouping of the seven Bay of Bengal countries - India, Bangladesh, Sri Lanka, Nepal, Bhutan, Myanmar and Thailand - and it is often seen as the building block for the Indian Ocean Rim Association.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The grouping of the world's major economies, in which the African Union was admitted as a permanent member, consists of:",
+    "options": [
+      "20 countries",
+      "19 countries and the European Union",
+      "22 countries",
+      "19 countries, the European Union and the African Union"
+    ],
+    "answer": 3,
+    "explanation": "The G20 comprises 19 countries, the European Union and, since 2023, the African Union, and it was formally elevated to the level of a leaders' forum at the New Delhi summit in September 2023.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cotonou Agreement' of 2000 governs the relationship between:",
+    "options": [
+      "NATO and its partners",
+      "the IMF and its borrowers",
+      "the European Union and the African, Caribbean and Pacific countries",
+      "the WTO and the developing countries"
+    ],
+    "answer": 2,
+    "explanation": "The Cotonou Agreement, the successor to the Lome Convention, defines the EU's partnership and trade preferences with the African, Caribbean and Pacific group of countries.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Antarctic Treaty' signed in 1959 provides that the continent shall be used for:",
+    "options": [
+      "military basing",
+      "exclusive economic exploitation by the signatories",
+      "commercial exploitation of mineral resources",
+      "peaceful purposes only, with freedom of scientific investigation"
+    ],
+    "answer": 3,
+    "explanation": "The Antarctic Treaty suspends territorial claims, prohibits military activity and any exploitation of resources and guarantees freedom of scientific investigation, which is the regime the Antarctic Treaty System builds on.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The International Union for Conservation of Nature maintains the world's largest database on:",
+    "options": [
+      "species that are threatened with extinction",
+      "protected forest areas",
+      "national parks",
+      "wetland sites"
+    ],
+    "answer": 0,
+    "explanation": "The IUCN Red List, maintained with the Species Survival Commission, is the world's most comprehensive inventory of the conservation status of species and is used by CITES and by national legislation.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Montreux Convention' relates to:",
+    "options": [
+      "the control of transboundary radiation",
+      "the protection of the Alpine environment",
+      "the regulation of fisheries in the high seas",
+      "the governance of the Arctic Ocean"
+    ],
+    "answer": 1,
+    "explanation": "The Montreux Convention of 1980 protects the Alpine environment, and it is a good example of the regional environmental agreements that exist alongside the global conventions.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Greenland ice sheet is significant because it:",
+    "options": [
+      "is the only remaining ice sheet in the Northern Hemisphere",
+      "is the largest source of ocean salinity",
+      "if melted entirely would raise global sea level by about seven metres",
+      "contains most of the world's freshwater in a liquid state"
+    ],
+    "answer": 2,
+    "explanation": "The Greenland ice sheet holds enough water to raise global mean sea level by about seven metres, and its mass balance is one of the most closely watched indicators of climate change.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sahel' region of Africa is characterised by:",
+    "options": [
+      "alpine meadows on the Ethiopian plateau",
+      "desert on the Atlantic coast",
+      "tropical rainforest along the equator",
+      "semi-arid grasslands south of the Sahara"
+    ],
+    "answer": 3,
+    "explanation": "The Sahel lies between the Sahara and the savanna belt, and its pastoral economies have been severely affected by the droughts of the 1970s and 1980s and by desertification.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mediterranean climate' is characterised by:",
+    "options": [
+      "dry hot summers and mild wet winters",
+      "a desert climate with very low rainfall",
+      "rainfall throughout the year with no dry season",
+      "cold winters and hot dry summers with no rain"
+    ],
+    "answer": 0,
+    "explanation": "The Mediterranean climate has hot dry summers under the subtropical high and mild wet winters under the westerlies, and it is the classic climate of the Mediterranean basin, California, central Chile, the Cape of Good Hope and south-western Australia.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Katabatic' winds are:",
+    "options": [
+      "the westerly winds of the Southern Ocean",
+      "cold winds blowing down from high ground to the lowlands",
+      "warm winds blowing up a mountain slope during the day",
+      "the trade winds of the Pacific"
+    ],
+    "answer": 1,
+    "explanation": "A katabatic wind descends from high ground, cooling as it goes, while an anabatic wind is the daytime upslope breeze, and the Mistral and the Bora are well-known katabatic winds.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'westerlies' of the Southern Hemisphere are strongest in the latitude belt known as the:",
+    "options": [
+      "Subpolar low pressure belt",
+      "Doldrums",
+      "Roaring Forties",
+      "Horse latitudes"
+    ],
+    "answer": 2,
+    "explanation": "The unimpeded westerly belt around 40 to 50 degrees south, called the Roaring Forties, is famously stormy, and it was the belt used by the clipper ships on the route to Australia and the Americas.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "During an El Nino event, the:",
+    "options": [
+      "trade winds weaken and warm water shifts eastward towards the central Pacific",
+      "equatorial currents intensify in the western Pacific",
+      "the Southern Oscillation pressure difference reverses",
+      "trade winds strengthen and the thermocline deepens in the east"
+    ],
+    "answer": 0,
+    "explanation": "During an El Nino, weakened trade winds allow warm water to migrate eastward, the thermocline flattens in the eastern Pacific and the Walker Circulation reverses, with effects on the Indian monsoon.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ozone hole' over Antarctica is associated with:",
+    "options": [
+      "the greenhouse effect of carbon dioxide",
+      "the depletion of the phytoplankton in the Southern Ocean",
+      "the breakdown of ozone in the stratosphere by chlorofluorocarbons",
+      "the melting of the West Antarctic ice shelf"
+    ],
+    "answer": 2,
+    "explanation": "Chlorofluorocarbons release chlorine and bromine in the stratosphere, which destroy ozone catalytically, and the resulting hole over Antarctica led to the Montreal Protocol of 1987.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Antarctic Circumpolar Current' is significant because it:",
+    "options": [
+      "flows only between South America and Africa",
+      "is the warm current of the South Atlantic",
+      "prevents the formation of the Antarctic ice sheet",
+      "circulates uninterrupted around Antarctica and isolates the Antarctic continent"
+    ],
+    "answer": 3,
+    "explanation": "The ACC is the only current that flows right around the globe without being interrupted by a continent, and the cold water it carries isolates Antarctica thermally and maintains its ice sheet.",
+    "difficulty": "easy",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The current that flows along the north-west coast of Africa carrying cold water is the:",
+    "options": [
+      "Gulf Stream",
+      "Canary Current",
+      "Guinea Current",
+      "Benguela Current"
+    ],
+    "answer": 1,
+    "explanation": "The Canary Current, a cold current flowing south along the north-west coast of Africa, is a continuation of the North Atlantic Drift, and the warm Guinea Current flows in the opposite sense along the Gulf of Guinea.",
+    "difficulty": "hard",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Oyashio' current in the Pacific is a:",
+    "options": [
+      "warm current in the North Atlantic",
+      "cold current off the coast of Peru",
+      "warm current flowing north along the coast of Japan",
+      "cold current flowing south along the coast of Hokkaido and the Kurils"
+    ],
+    "answer": 3,
+    "explanation": "The Oyashio flows south from the Bering Sea along the Kurils and Hokkaido, and where it meets the warm Kuroshio there are the rich fishing grounds of Hokkaido.",
+    "difficulty": "easy",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The cold Labrador Current contributes to:",
+    "options": [
+      "the coral reefs of the Caribbean",
+      "the rise of the Amazon from the Andes",
+      "the frequent fogs off Newfoundland, where it meets the Gulf Stream",
+      "the dry climate of the Atacama"
+    ],
+    "answer": 2,
+    "explanation": "The meeting of the cold Labrador Current with the warm Gulf Stream off Newfoundland produces the dense fogs of the Grand Banks and the rich fishing grounds for which the area is famous.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Antarctic Circumpolar Current' has an important role in:",
+    "options": [
+      "the global overturning circulation and the storage of carbon in the deep ocean",
+      "the formation of the Gulf Stream",
+      "the salinity of the Red Sea",
+      "the monsoon winds of the Indian Ocean"
+    ],
+    "answer": 0,
+    "explanation": "The cold dense waters formed in the Southern Ocean sink and drive the global overturning circulation, while the circulation also allows the deep ocean to store carbon for long periods.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sargasso Sea' lies in the:",
+    "options": [
+      "Southern Ocean",
+      "North Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean"
+    ],
+    "answer": 1,
+    "explanation": "The Sargasso Sea is the only sea without a land boundary, in the subtropical North Atlantic, and its floating sargassum weed supports a distinctive marine community.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Coral Triangle' is located in:",
+    "options": [
+      "the western Indian Ocean",
+      "the Red Sea",
+      "the seas around Indonesia, the Philippines, Malaysia and Papua New Guinea",
+      "the Caribbean Sea"
+    ],
+    "answer": 2,
+    "explanation": "The Coral Triangle, centred on Indonesian waters, holds the world's greatest diversity of reef species, including most of the known species of reef-building corals, and it is also the most threatened by warming and acidification.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Weddell Sea?",
+    "options": [
+      "the Arctic bays adjacent to Greenland",
+      "the largest fjords of Norway",
+      "the marginal seas of the Indian Ocean",
+      "the two great seas of Antarctica"
+    ],
+    "answer": 3,
+    "explanation": "The Ross Sea and the Weddell Sea are the two deep embayments of the Antarctic coast, and the Ross Sea is the southernmost open water of the world, where the Ross Ice Shelf and Mount Erebus are found.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Montreal Protocol' on ozone-depleting substances was agreed in:",
+    "options": [
+      "1987",
+      "1992",
+      "1985",
+      "1990"
+    ],
+    "answer": 0,
+    "explanation": "The Montreal Protocol of 1987 placed controls on chlorofluorocarbons and other ozone-depleting substances and is widely regarded as the most successful environmental agreement to date.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Paris Agreement' of 2015 aims to:",
+    "options": [
+      "replace the IPCC with a new scientific body",
+      "hold the increase in global average temperature to well below 2 degrees Celsius above pre-industrial levels and pursue efforts to limit it to 1.5 degrees",
+      "reduce the greenhouse gas emissions of Annex I countries by 5 per cent against 1990 levels",
+      "bind all states to uniform emission reduction commitments"
+    ],
+    "answer": 1,
+    "explanation": "The Paris Agreement works on nationally determined contributions with a global stocktake every five years, and both the 2 degrees and the 1.5 degrees goals are stated in the treaty text.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The phenomenon of a sharp fall in the rate of population growth in the late twentieth century is called the:",
+    "options": [
+      "urban renaissance",
+      "dependency crisis",
+      "population explosion",
+      "demographic transition"
+    ],
+    "answer": 3,
+    "explanation": "The demographic transition describes the shift from high birth and death rates with high growth to low birth and death rates with low growth, and it passed through different stages in different countries.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "A metropolitan area in India is defined as one with:",
+    "options": [
+      "a population of five lakh or more",
+      "a municipal corporation status",
+      "a population of one lakh or more with a contiguous urban area of at least ten lakh",
+      "a population of one lakh or more"
+    ],
+    "answer": 2,
+    "explanation": "Under the Census definition, a metropolitan area has a population of one lakh or more with a contiguous urban area of at least ten lakh, and a town has five thousand or more with a dense and permanent population.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The term 'megacity' is used for a city with:",
+    "options": [
+      "more than fifty million inhabitants",
+      "more than ten million inhabitants",
+      "more than one million inhabitants",
+      "more than twenty million inhabitants"
+    ],
+    "answer": 1,
+    "explanation": "A megacity has more than ten million inhabitants, and by the United Nations reckoning the number of such cities has grown sharply since 2000, most of them in Asia and Africa.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Norman Borlaug, who is called the 'Father of the Green Revolution', was awarded the Nobel Peace Prize in:",
+    "options": [
+      "1970",
+      "1965",
+      "1975",
+      "1980"
+    ],
+    "answer": 0,
+    "explanation": "Norman Borlaug received the Nobel Peace Prize in 1970 for developing high-yielding varieties of wheat and maize, and the prize citation described him as the man who has 'saved more lives than any other person in history'.",
+    "difficulty": "hard",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mekong river rises in the Tibetan plateau and flows through China, Myanmar, Laos, Thailand, Cambodia and Vietnam before emptying into the:",
+    "options": [
+      "Gulf of Thailand",
+      "South China Sea",
+      "Bay of Bengal",
+      "Java Sea"
+    ],
+    "answer": 1,
+    "explanation": "The Mekong is the longest river of mainland South-East Asia, about 4,800 kilometres long, and its delta in Vietnam forms the country's rice bowl and the backbone of its inland waterway network.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Iron Gate' gorge of the Danube is located on the border of:",
+    "options": [
+      "Romania and Serbia",
+      "Slovakia and Hungary",
+      "Hungary and Austria",
+      "Bulgaria and Romania"
+    ],
+    "answer": 0,
+    "explanation": "The Iron Gate gorge, through which the Danube cuts between the Iron Gates mountains, marks the frontier between Romania and Serbia and is the site of the Djerdap hydroelectric project.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The White Nile originates mainly from:",
+    "options": [
+      "the Ethiopian Highlands",
+      "the equatorial lakes of the Congo",
+      "Lake Victoria and Lake Kyoga",
+      "Lake Tana"
+    ],
+    "answer": 2,
+    "explanation": "The White Nile flows from Lake Victoria and Lake Kyoga, while the Blue Nile and the Atbara come from the Ethiopian Highlands, and the combined flow gives the Nile most of its water.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Volga, the longest river of Europe, empties into the:",
+    "options": [
+      "Black Sea",
+      "Baltic Sea",
+      "Mediterranean Sea",
+      "Caspian Sea"
+    ],
+    "answer": 3,
+    "explanation": "The Volga flows into the Caspian Sea, the world's largest enclosed body of water, and the Volga-Caspian system accounts for a large share of the drainage of European Russia.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ural mountain range is significant because it:",
+    "options": [
+      "separates Europe from Asia and contains the rich Ural mineral belt",
+      "forms the northern limit of the Indian subcontinent",
+      "is the youngest fold mountain system of the world",
+      "marks the boundary between the Pacific and the Indian oceans"
+    ],
+    "answer": 0,
+    "explanation": "The Urals are among the oldest mountains of the world, yet they hold enormous deposits of oil, natural gas, coal, iron ore, copper, nickel and diamonds, which made them the foundation of Russian industrialisation.",
+    "difficulty": "medium",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The famous black soil chernozem belt of the world lies in:",
+    "options": [
+      "the Amazon basin",
+      "the Deccan Plateau",
+      "the grassland zone of the Eurasian steppes",
+      "the Nile valley"
+    ],
+    "answer": 2,
+    "explanation": "The chernozem belt extends across the Russian and Ukrainian steppes and into the Canadian prairies, and its deep fertile humus made it the granary of eastern Europe.",
+    "difficulty": "medium",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Prairie provinces' of Canada are:",
+    "options": [
+      "Nova Scotia and New Brunswick",
+      "Alberta, Saskatchewan and Manitoba",
+      "Ontario and Quebec",
+      "British Columbia and Alberta"
+    ],
+    "answer": 1,
+    "explanation": "The three prairie provinces of Alberta, Saskatchewan and Manitoba contain the bulk of Canada's wheat production, and their chernozem soils are among the most fertile in the world.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Australia is the world's largest exporter of:",
+    "options": [
+      "wheat",
+      "sugar",
+      "coffee",
+      "wool"
+    ],
+    "answer": 3,
+    "explanation": "Australia is the largest producer and exporter of wool in the world, and it is also a leading exporter of wheat, iron ore, coal and beef, which makes it a major resource exporter despite its small population.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "New Zealand is the world's largest exporter of:",
+    "options": [
+      "beef",
+      "cocoa",
+      "wool",
+      "dairy products"
+    ],
+    "answer": 3,
+    "explanation": "New Zealand is the largest exporter of dairy products in the world, and its dairy exports, together with meat, wool and forestry products, account for a large share of its export earnings.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The coffee 'Belt of Brazil' runs through the states of:",
+    "options": [
+      "Minas Gerais, Sao Paulo and Espirito Santo",
+      "Bahia and Pernambuco",
+      "Amazonas and Para",
+      "Rio Grande do Sul and Parana"
+    ],
+    "answer": 0,
+    "explanation": "Brazil's coffee belt lies in the south-east of the country around Minas Gerais, Sao Paulo and Espirito Santo, and the country has been the world's largest coffee producer for well over a century.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Llanos' of Venezuela and Colombia are:",
+    "options": [
+      "desert scrubs",
+      "tropical grasslands or savannas",
+      "tropical rainforests",
+      "alpine meadows"
+    ],
+    "answer": 1,
+    "explanation": "The Llanos are seasonally flooded tropical savannas that occupy the flat lands between the Andes and the Caribbean coast, and they are the cattle country of northern South America.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Egypt's agriculture depends on the Nile and is critically dependent on:",
+    "options": [
+      "the groundwater of the Sahara",
+      "the seasonal flooding of the Senegal river",
+      "the Aswan High Dam and the irrigation system it supports",
+      "the monsoon rainfall of the Ethiopian plateau"
+    ],
+    "answer": 2,
+    "explanation": "The Aswan High Dam, completed in 1970, created Lake Nasser and allowed year-round irrigation and multiple cropping, but it also reduced the silt that used to fertilise the fields and increased salinity problems.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pantanal' of Brazil and Paraguay is the world's largest:",
+    "options": [
+      "tropical wetland",
+      "alpine pasture",
+      "coral reef system",
+      "savanna of red soil"
+    ],
+    "answer": 0,
+    "explanation": "The Pantanal is the largest tropical wetland in the world, a flood-prone basin in which the Paraguay river spreads into vast seasonal marshes with an extraordinary biodiversity.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Black Sea Grain Initiative' was designed to facilitate:",
+    "options": [
+      "the sale of Russian grain through the Baltic ports",
+      "the migration of labour from Central Asia",
+      "the transit of Gulf oil through the Suez route",
+      "the export of grain and fertilisers from the Black Sea region through Ukrainian ports"
+    ],
+    "answer": 3,
+    "explanation": "The initiative, brokered by the United Nations and Turkey, opened the Black Sea ports for the safe passage of grain and fertiliser exports from Ukraine, which is a major source of world wheat and maize.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The San Andreas Fault is a boundary between the:",
+    "options": [
+      "Nazca and South American plates",
+      "North American and Eurasian plates",
+      "Pacific and North American plates",
+      "Pacific and South American plates"
+    ],
+    "answer": 2,
+    "explanation": "The San Andreas Fault is a transform boundary between the Pacific and the North American plates, and movement along it has caused major earthquakes such as the 1906 and 1989 San Francisco events.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The name for a tropical cyclone in the western Pacific Ocean is a:",
+    "options": [
+      "willy-willies",
+      "typhoon",
+      "hurricane",
+      "cyclone"
+    ],
+    "answer": 1,
+    "explanation": "The same phenomenon is called a hurricane in the Atlantic and the eastern Pacific, a cyclone in the Indian Ocean and the south-west Pacific, and a typhoon in the western Pacific.",
+    "difficulty": "hard",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 2004 Indian Ocean tsunami was generated by an undersea earthquake off the:",
+    "options": [
+      "Sumatra",
+      "Nicobar Islands only",
+      "Java",
+      "Srilanka"
+    ],
+    "answer": 0,
+    "explanation": "The magnitude 9.0 earthquake off the west coast of Sumatra generated the tsunami that struck the shores of a dozen countries, and the Indian coastline faced its force in the Andaman and Nicobar Islands, Tamil Nadu, Kerala and Andhra Pradesh.",
+    "difficulty": "easy",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Great East Japan Earthquake and tsunami of 2011 caused the Fukushima Daiichi nuclear accident because of:",
+    "options": [
+      "a direct strike of the tsunami on the reactor core",
+      "a deliberate design flaw in the containment",
+      "the loss of off-site power and the failure of the emergency diesel generators, leading to the decay of residual heat",
+      "an earthquake of a magnitude never recorded before"
+    ],
+    "answer": 2,
+    "explanation": "The tsunami flooded the diesel generators that were the last line of off-site cooling, and without cooling the reactors and the spent fuel pools overheated, causing the release of radioactive material.",
+    "difficulty": "easy",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which mountain ranges form the western mountain wall of North America, separating the Pacific from the interior?",
+    "options": [
+      "the Sierra Nevada",
+      "the Appalachian Mountains",
+      "the Great Basin ranges",
+      "the Coast Mountains and the Cascades"
+    ],
+    "answer": 3,
+    "explanation": "The Coast Range, the Cascade Range and the Sierra Nevada together form the western mountain wall of North America, and the Cascades contain the volcanoes such as Mount St Helens and Mount Rainier.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

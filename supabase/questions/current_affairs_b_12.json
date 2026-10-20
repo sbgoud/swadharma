@@ -1,0 +1,752 @@
+[
+  {
+    "q": "The Ayushman Bharat Pradhan Mantri Jan Arogya Yojana provides health cover of:",
+    "options": [
+      "Rs 2 lakh per family per year on a reimbursement basis",
+      "Rs 10 lakh for senior citizens and Rs 5 lakh for other families",
+      "Rs 5 lakh per family per year, portable across all States and Union Territories",
+      "Rs 5 lakh per individual for listed tertiary care packages"
+    ],
+    "answer": 2,
+    "explanation": "PM-JAY provides cashless hospital cover of Rs 5 lakh per family per year to about 55 crore people identified on the basis of deprivation criteria, and the entitlement is portable across the country.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Jal Jeevan Mission' is implemented by:",
+    "options": [
+      "the Department of Drinking Water and Sanitation with the States executing the works in rural areas",
+      "the Ministry of Housing and Urban Affairs alone",
+      "the National Water Development Agency",
+      "the Central Water Commission"
+    ],
+    "answer": 0,
+    "explanation": "The Jal Jeevan Mission is implemented by the Department of Drinking Water and Sanitation in partnership with the States and the local bodies, with the Centre and the States sharing the cost in a 75:25 ratio.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM-KISAN' scheme excludes:",
+    "options": [
+      "small and marginal farmers only",
+      "landless agricultural labourers",
+      "all the farmers of the North-Eastern States",
+      "landholding farmer families who pay income tax, institutional landholders and the serving or retired government employees above the notified category"
+    ],
+    "answer": 3,
+    "explanation": "Institutional landholders, landholding farmer families who pay income tax, and serving or retired government employees above a notified category, are excluded from PM-KISAN, as are the families covered under the Income Support Act of 2020.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "Under the 'Pradhan Mantri Mudra Yojana', loans are classified into which categories?",
+    "options": [
+      "Sakhi, Samarthya and Udyam",
+      "Shishu, Kishore and Tarun",
+      "Kanya, Kishor and Yuva",
+      "Micro, Small and Medium"
+    ],
+    "answer": 1,
+    "explanation": "MUDRA classifies loans as Shishu up to Rs 50,000, Kishore from Rs 50,000 to Rs 5 lakh and Tarun from Rs 5 lakh to Rs 10 lakh, and the loans are collateral free for the new categories.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "Under the 'PM SVANidhi' scheme, the loan repayment guarantee is available for:",
+    "options": [
+      "12 months from the date of the first disbursement",
+      "36 months from the date of the first disbursement",
+      "24 months from the date of the sanction",
+      "6 months from the date of the application"
+    ],
+    "answer": 0,
+    "explanation": "The PM SVANidhi provides a cash credit of up to Rs 50,000 to street vendors with a 12-month loan repayment guarantee from the lending institution, and a booster of Rs 12,000 is available for the timely repayment and the digital transactions.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Pradhan Mantri Jan Dhan Yojana' accounts carry:",
+    "options": [
+      "a life insurance cover of Rs 2 lakh",
+      "an accident insurance cover of Rs 1 lakh",
+      "a Rs 1,000 annual credit card",
+      "a free overdraft facility of up to Rs 10,000 after six months of satisfactory operation"
+    ],
+    "answer": 3,
+    "explanation": "The Jan Dhan accounts come with a free RuPay debit card, accident insurance of Rs 2 lakh and a overdraft of up to Rs 10,000 after six months of satisfactory operation, and they form the core of the national financial inclusion effort.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "Under the restructured 'Pradhan Mantri Fasal Bima Yojana':",
+    "options": [
+      "the coverage has been restricted to the notified states",
+      "the scheme has been made voluntary for all farmers, with the government paying the full premium for the notified crops",
+      "the premium has been raised to 5 per cent for kharif crops",
+      "the scheme now covers only commercial crops"
+    ],
+    "answer": 1,
+    "explanation": "From the 2020 season the crop insurance scheme was restructured and made voluntary for all farmers, and the government continues to pay the entire premium for the notified crops, with the farmer paying a small share in the other cases.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "Under the 'PM Kisan Maandhan Yojana', the farmer's monthly contribution to the pension fund is:",
+    "options": [
+      "subsidised only for women farmers",
+      "borne entirely by the State Governments",
+      "matched by an equal contribution from the Central Government",
+      "refunded to the farmer after retirement"
+    ],
+    "answer": 2,
+    "explanation": "The farmer contributes between Rs 800 and Rs 1,200 a month and the Central Government matches that contribution in the corpus, and the accumulated sum at the age of sixty determines the monthly pension of Rs 3,000.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Atal Pension Yojana' guarantees a pension of:",
+    "options": [
+      "Rs 1,000 to Rs 5,000 per month after the age of 60",
+      "a variable pension determined by the market",
+      "a fixed Rs 3,000 per month after the age of 60",
+      "Rs 6,000 a year after the age of 65"
+    ],
+    "answer": 0,
+    "explanation": "Atal Pension Yojana offers a guaranteed minimum pension of Rs 1,000 to Rs 5,000 a month after the age of sixty, and the pension is managed by the Pension Fund Regulatory and Development Authority.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM Vishwakarma' scheme covers:",
+    "options": [
+      "the handloom weavers of the North-East only",
+      "18 traditional trades and 5 artisan crafts, with 14 sub-schemes for credit, training, toolkits, digital empowerment and marketing",
+      "only the tailoring and weaving trades",
+      "all small manufacturers of electronics"
+    ],
+    "answer": 1,
+    "explanation": "The PM Vishwakarma scheme, launched in 2023 with 14 sub-schemes, covers 18 traditional trades and 5 artisan crafts and provides end-to-end support including credit at 5 per cent interest, skill training, toolkits, digital empowerment and market linkage.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "'Mission Shakti' has two sub-schemes, namely:",
+    "options": [
+      "Suraksha and Samarthya",
+      "Sambal and Suraksha",
+      "Kalyan and Pragati",
+      "Sambal and Samarthya"
+    ],
+    "answer": 3,
+    "explanation": "Mission Shakti has Sambal, which covers the One Stop Centre, the women's helpline 181 and the Safe City project, and Samarthya, which covers the Beti Bachao Beti Padhao campaign, the Sukanya Samriddhi account and the Ujjwala scheme.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "Under the 'Swachh Bharat Mission-U', the responsibility for the solid waste management rests with:",
+    "options": [
+      "the Border Roads Organisation",
+      "the Centre alone",
+      "the urban local bodies, assisted by the States",
+      "the Central Pollution Control Board"
+    ],
+    "answer": 2,
+    "explanation": "SBM-U was launched in 2019 with the urban local bodies responsible for the planning and implementation of the solid waste management and the States supporting them with the funding and the policy framework.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "'DAY-NRLM' provides community funds through the:",
+    "options": [
+      "Community Investment Fund at the Gram Panchayat level and the Community Development Fund at the block level",
+      "a bank credit line for the SHGs",
+      "a revolving fund at the village level only",
+      "a matching grant for the State Governments"
+    ],
+    "answer": 0,
+    "explanation": "Under the Deendayal Antyodaya Yojana-National Rural Livelihoods Mission, the Community Investment Fund is provided to Gram Panchayats and the Community Development Fund to the Intermediate Panchayats or blocks for lending to the SHGs.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'AMRUT' mission covers which five components?",
+    "options": [
+      "housing, sanitation, drainage, lighting and waste management",
+      "water supply, sewerage and solid waste, stormwater drainage, urban mobility and urban resilience",
+      "water supply, sanitation, housing, health and education",
+      "roads, transport, logistics, power and telecom"
+    ],
+    "answer": 1,
+    "explanation": "The Atal Mission for Rejuvenation and Urban Transformation covers water supply, sewerage and solid waste management, stormwater drainage, urban mobility and urban resilience, and it works through the State Urban Local Body Mission.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'National Green Hydrogen Mission' targets the production of at least 5 million metric tonnes of green hydrogen per annum by:",
+    "options": [
+      "2035",
+      "2047",
+      "2030",
+      "2025"
+    ],
+    "answer": 2,
+    "explanation": "The National Green Hydrogen Mission seeks to replace the grey hydrogen used in refineries and fertiliser plants with green hydrogen produced from renewable energy, and the associated decarbonisation of the industrial sector is expected to create about 1.2 million jobs by 2030.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM-KUSUM' scheme is administered by:",
+    "options": [
+      "the Ministry of Coal",
+      "the Central Electricity Authority",
+      "the Ministry of Agriculture and Farmers Welfare",
+      "the Ministry of New and Renewable Energy"
+    ],
+    "answer": 3,
+    "explanation": "PM-KUSUM, launched in 2019, is administered by the Ministry of New and Renewable Energy, and it has three components, namely small solar power plants, solar pumps with subsidy and solar cold storage facilities.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'POSHAN 2.0' programme has five components, namely:",
+    "options": [
+      "the Supplementary Nutrition Programme, POSHAN Abhiyaan, Vats, Poshan Vatika and Poshan Pakhwad",
+      "ICDS, WASH, Poshan Pakhwad, Vats and Poshan Vatika",
+      "Mid-Day Meal, POSHAN Abhiyaan, Vats, Poshan Vatika and Saksham Anganwadi",
+      "the Supplementary Nutrition Programme, Vats, Anganwadi, Poshan Vatika and Poshan Pakhwad"
+    ],
+    "answer": 0,
+    "explanation": "POSHAN 2.0 integrates the Supplementary Nutrition Programme, POSHAN Abhiyaan, Vats for anganwadi centres, Poshan Vatika for the school level and Poshan Pakhwad, and it also incorporates the WASH components in anganwadi centres.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'National Legal Services Authority' was reconstituted in 2020 to provide:",
+    "options": [
+      "legal aid only to women, children and senior citizens",
+      "mediation services to commercial disputes only",
+      "legal aid to the Central Government employees",
+      "free legal aid to all eligible persons irrespective of gender and economic status"
+    ],
+    "answer": 3,
+    "explanation": "The NALSA was reconstituted as a statutory body in 2020 under the Legal Services Authorities Act, extending free legal aid to all eligible persons regardless of gender and income, and it also runs the Nyaya Bandhu portal and the Tele-Law service.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Accessible India Campaign', or Sugamya Bharat Abhiyan, has how many key focus areas?",
+    "options": [
+      "Eight",
+      "Four",
+      "Twelve",
+      "Six"
+    ],
+    "answer": 2,
+    "explanation": "The campaign works on twelve key focus areas, among them the building of barrier-free campuses, assistive technology, accessible transportation and the training of professionals in accessible construction, under the Rights of Persons with Disabilities Act, 2016.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Rights of Persons with Disabilities Act, 2016' recognises:",
+    "options": [
+      "12 categories of disability",
+      "21 categories of disability",
+      "7 categories of disability",
+      "18 categories of disability"
+    ],
+    "answer": 1,
+    "explanation": "The 2016 Act expanded the definition of disability from seven to 21 categories, including acid attack victims, autism, intellectual disability and multiple disabilities, and it is aligned with the Convention on the Rights of Persons with Disabilities.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Shram Yogi Maandhan' scheme provides:",
+    "options": [
+      "free skill training with a placement guarantee",
+      "a matching contribution in the Employees' Provident Fund",
+      "a 12-month wage subsidy for hiring women",
+      "a monthly pension of Rs 1,000 after the age of 60 on contribution by the worker and the Central Government"
+    ],
+    "answer": 3,
+    "explanation": "The Shram Yogi Maandhan national pension scheme for unorganised workers provides Rs 1,000 a month after the age of sixty, with the worker contributing between Rs 800 and Rs 1,200 a month and the Central Government matching the contribution.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Atal Beemit Vyakti Kalyan Yojana' provides:",
+    "options": [
+      "a scholarship for students with disabilities",
+      "a skill training allowance for disabled persons",
+      "a monthly assistance of Rs 1,000 to persons with severe disabilities in the age group of 18 to 59",
+      "a pension of Rs 2,000 to all senior citizens"
+    ],
+    "answer": 2,
+    "explanation": "The scheme, renamed from ADIP, provides a monthly cash transfer of Rs 1,000 to the identified beneficiaries with severe disabilities, along with convergence with other welfare schemes through the UDID portal.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Pradhan Mantri Awas Yojana-Urban 2.0' provides an interest subsidy of up to:",
+    "options": [
+      "Rs 70,000 for rental housing",
+      "Rs 1.80 lakh for affordable housing in any of the four income categories",
+      "Rs 1.20 lakh for housing for the Economically Weaker Section",
+      "Rs 2.50 lakh for all beneficiaries"
+    ],
+    "answer": 1,
+    "explanation": "PMAY-U 2.0 offers an interest subsidy of up to Rs 1.80 lakh on loans of up to Rs 25 lakh for four income categories, with a preference for women, the elderly, persons with disabilities and the differently abled, and the scheme is implemented through four verticals.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'National Logistics Policy' aims to:",
+    "options": [
+      "reduce the logistics cost of the economy to about 8 per cent of GDP",
+      "double the freight rail network within five years",
+      "merge the Port Community Trust with the railways",
+      "raise the logistics cost to 15 per cent of GDP"
+    ],
+    "answer": 0,
+    "explanation": "The National Logistics Policy of 2021 seeks to reduce the cost of logistics from about 14-15 per cent of GDP to 8 per cent, with an integrated network, a National Logistics Master Plan and the use of the PM Gati Shakti platform.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM Gati Shakti National Master Plan' covers how many critical infrastructure sectors?",
+    "options": [
+      "Fourteen",
+      "Eleven",
+      "Eight",
+      "Twenty"
+    ],
+    "answer": 0,
+    "explanation": "The National Master Plan covers fourteen critical infrastructure sectors, including roads, railways, ports, airports, telecom, power, oil and gas, and the plan is anchored on the Gati Shakti portal for coordinated planning and faster approvals.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Bharatmala Pariyojana' envisages the development of:",
+    "options": [
+      "the expressways and the ropeways only",
+      "about 6,000 km of access-controlled expressways, over 9,000 km of national highways and about 40,000 km of state roads",
+      "only the Golden Quadrilateral and the North-South East-West corridors",
+      "the coastal roads and the border roads only"
+    ],
+    "answer": 1,
+    "explanation": "The Bharatmala Pariyojana envisages the development of about 6,000 km of access-controlled expressways, over 9,000 km of the national highway network and about 40,000 km of state roads, with the Sagarmala, NMP and the Inland Waterways forming the other components.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'One Nation One Ration' portability of foodgrain entitlements is implemented through:",
+    "options": [
+      "the UPI payment system",
+      "a common e-commerce portal",
+      "the GeM platform",
+      "the National Grain Framework and the ePoS machines at the fair price shops"
+    ],
+    "answer": 3,
+    "explanation": "Under the National Grain Framework, beneficiaries of the National Food Security Act can draw their entitlements from any fair price shop in the country through the ePoS machines, which makes the ration card portable across States.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Garib Kalyan Anna Yojana' provides:",
+    "options": [
+      "free foodgrains to the migrant workers only",
+      "free foodgrains only to the Antyodaya Anna Yojana families",
+      "free foodgrains to all the ration card holders, extended for several years",
+      "a monthly food allowance of Rs 2,000 to every household"
+    ],
+    "answer": 2,
+    "explanation": "The PM Garib Kalyan Anna Yojana supplied free foodgrains to about 80 crore people through the fair price shops, and the Government has extended the scheme for several years beyond its original period.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Ayushman Arogya Mandir' component of the Ayushman Bharat programme envisages:",
+    "options": [
+      "about 1,72,500 health and wellness centres, one in every 5,000 people in the plains and 2,500 in hill and tribal areas",
+      "one wellness centre in every village",
+      "about 5,000 multi-specialty hospitals in the States",
+      "one district hospital in every district of the country"
+    ],
+    "answer": 0,
+    "explanation": "The Ayushman Arogya Mandir, the health and wellness centre component, converts sub-centres and primary health centres into centres that provide the expanded package of services, and 1.72 lakh such centres are being operationalised.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM-ABHIM' (Ayushman Bharat Health and Wellness Infrastructure Mission) has an outlay of:",
+    "options": [
+      "Rs 21,000 crore for five years",
+      "Rs 13,000 crore for five years",
+      "Rs 1,00,000 crore for ten years",
+      "Rs 64,180 crore for five years"
+    ],
+    "answer": 3,
+    "explanation": "The PM-ABHIM, announced in the Union Budget for 2021-22, has an outlay of Rs 64,180 crore for five years for the construction and upgradation of health and wellness infrastructure and for public health laboratories and critical care blocks.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Tele-MANAS' helpline launched in 2022 is a:",
+    "options": [
+      "child helpline for missing children",
+      "national 24x7 mental health helpline",
+      "tele-medicine service for general physicians",
+      "helpline for senior citizens"
+    ],
+    "answer": 1,
+    "explanation": "Tele-MANAS is the national mental health rehabilitation helpline of the Ministry of Health and Family Welfare, offering free tele-mental health services in 20 languages through a single 14416 number.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Skill India' umbrella programme includes:",
+    "options": [
+      "Kaushal Bharat, DAY-NRLM and PMKVY",
+      "Rozgar Bharat, Skill India Digital and PMKVY only",
+      "Rozgar Bharat, Kaushal Bharat, Skill India Digital, Apprenticeship India and the National Career Service",
+      "Apprenticeship India, PMKVY and the National Career Service"
+    ],
+    "answer": 2,
+    "explanation": "The five schemes that constitute Skill India are Rozgar Bharat, Kaushal Bharat, Skill India Digital, Apprenticeship India and the National Career Service, which together aim at skilling, apprenticeship and job matching.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'National Apprenticeship Enhancement Scheme' provides:",
+    "options": [
+      "a 50 per cent wage subsidy for hiring women",
+      "free residential training for apprentices",
+      "a 25 per cent wage stipend to the employer for the apprentice, capped at Rs 1,500 a month",
+      "a loan of Rs 1 lakh for starting an apprenticeship"
+    ],
+    "answer": 2,
+    "explanation": "The scheme shares 25 per cent of the prescribed stipend, up to Rs 1,500 a month, with the employer engaging an apprentice under the Apprentices Act, 1961, and it is administered with the National Skill Development Corporation and the National Apprenticeship Board.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM-DAY' (Development of Ageing: Alleviating Yojana) addresses the needs of:",
+    "options": [
+      "children in the age group of 0 to six years",
+      "young farmers in the drought prone districts",
+      "the differently abled in the urban areas",
+      "the elderly, particularly the poor and the women in rural and urban areas"
+    ],
+    "answer": 3,
+    "explanation": "PM-DAY, announced in the Union Budget for 2021-22, addresses the needs of the elderly with a focus on the poor, the landless and women, combining community care, institutional care and the grant of assistive devices.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Deendayal Antyodaya Yojana-National Urban Livelihoods Mission' (DAY-NULM) is designed to:",
+    "options": [
+      "reduce the vulnerability of the urban poor by enabling them to access self-employment and wage employment services",
+      "provide housing to the urban poor",
+      "sanitize the cities under the Swachh Bharat Mission",
+      "build rural roads under the PM Gati Shakti"
+    ],
+    "answer": 0,
+    "explanation": "DAY-NULM addresses the vulnerability of the urban poor, especially the homeless and the destitute, through social protection, community organisations, skill training, self-employment, placement and access to the Urban Employment and Poverty Alleviation institutions.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "Under the 'Pradhan Mantri Krishi Sinchayee Yojana', the three components are:",
+    "options": [
+      "micro irrigation, canal renovation and rainwater harvesting",
+      "accelerated irrigation benefit programme, watershed development and on-farm water management",
+      "drip irrigation, sprinkler irrigation and farm ponds only",
+      "watershed development, check dams and percolation tanks"
+    ],
+    "answer": 1,
+    "explanation": "PMKSY has three components, namely the Accelerated Irrigation Benefit Programme for the command area development, the Watershed Development Programme for the rain-fed areas and the On-Farm Water Management Programme for the micro irrigation and water use efficiency.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'National Apprenticeship Training Scheme' and the 'National Skill Development Corporation' are concerned with:",
+    "options": [
+      "the certification of exports",
+      "the training of artisans and the upgrading of industrial skills",
+      "the financing of MSMEs",
+      "the grading of agricultural produce"
+    ],
+    "answer": 1,
+    "explanation": "NSDC is a not-for-profit company set up by the Ministry of Skill Development and Entrepreneurship to catalyse skill building across the country, and it works with the National Skill Development Fund and the National Apprenticeship Board.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Stand-Up India' scheme provides bank credit to:",
+    "options": [
+      "SC-ST and woman entrepreneurs for setting up greenfield enterprises",
+      "all small enterprises for working capital",
+      "startups for market development",
+      "artisans for the purchase of tools"
+    ],
+    "answer": 0,
+    "explanation": "Stand-Up India, launched in 2016, provides bank credit between Rs 10 lakh and Rs 1 crore to Scheduled Caste, Scheduled Tribe and woman entrepreneurs for setting up greenfield enterprises in manufacturing, services, trading and allied agriculture.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM SVANidhi' scheme is administered by the:",
+    "options": [
+      "Ministry of Micro, Small and Medium Enterprises",
+      "Ministry of Agriculture and Farmers Welfare",
+      "Ministry of Housing and Urban Affairs, with SIDBI as the nodal agency",
+      "Ministry of Finance and the Reserve Bank of India"
+    ],
+    "answer": 2,
+    "explanation": "PM SVANidhi is administered by the Ministry of Housing and Urban Affairs, with the Small Industries Development Bank of India as the nodal agency for the scheme and the State Urban Local Body Department and the ULB as the implementing agencies.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'National Urban Sanitation Policy' and the 'Swachh Bharat Mission-U' seek to achieve:",
+    "options": [
+      "the supply of bottled water to every household",
+      "the sewerage of every city before 2025",
+      "the replacement of manual scavenging alone",
+      "a city free of open defecation and of untreated municipal solid waste, with the waste safely disposed of"
+    ],
+    "answer": 3,
+    "explanation": "The SBM-U and the National Urban Sanitation Policy aim at achieving a city free of open defecation and of unmanaged municipal solid waste, with the waste safely disposed of in scientific landfills and the sewage treated to prevent contamination of the groundwater.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Beti Bachao Beti Padhao' campaign focuses on:",
+    "options": [
+      "preventing gender-biased sex selection, ensuring survival, protection, education and empowerment of the girl child",
+      "the marriage of adolescent girls",
+      "the financial inclusion of women",
+      "the skilling of rural women"
+    ],
+    "answer": 0,
+    "explanation": "The campaign, launched in 2015 and now under Mission Shakti, addresses the issue of sex selection and seeks to ensure the survival, protection, education and empowerment of the girl child, with the District Action Plan and the Saksham Beti classes as its instruments.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM Fasal Bima Yojana' is administered by:",
+    "options": [
+      "the Ministry of Finance through the Reserve Bank of India",
+      "the Ministry of Rural Development",
+      "the Food Corporation of India",
+      "the Ministry of Agriculture and Farmers Welfare, with the administrative agency being the Agriculture Insurance Company of India"
+    ],
+    "answer": 3,
+    "explanation": "The crop insurance scheme is administered by the Ministry of Agriculture and Farmers Welfare, and the Agriculture Insurance Company of India Limited is the implementing agency for both the crop and the livestock components.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Sukanya Samriddhi Yojana' account can be opened for a girl child who is:",
+    "options": [
+      "below eighteen years of age",
+      "below twenty-one years of age",
+      "below ten years of age",
+      "below sixteen years of age"
+    ],
+    "answer": 2,
+    "explanation": "A Sukanya Samriddhi account can be opened for a girl child below the age of ten, and the account continues till she attains eighteen years of age or marries, whichever is earlier, with a maximum deposit of Rs 1.5 lakh a year.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Deen Dayal Upadhyaya Grameen Kaushalya Yojana' focuses on:",
+    "options": [
+      "the farm mechanisation of small holdings",
+      "the skilling of rural youth and the placement of trained youth in the non-farm sector",
+      "the digital literacy of farmers",
+      "the housing of rural youth"
+    ],
+    "answer": 1,
+    "explanation": "DDU-GKY is a placement-linked skilling scheme for rural youth in the non-farm sector, with a mandatory placement target of at least 70 per cent and a mandatory wage range linked to the notified average wage of the district.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'NIPUN Bharat' programme is the national mission for:",
+    "options": [
+      "vocational training in the manufacturing sector",
+      "higher education",
+      "teacher training",
+      "foundational literacy and numeracy"
+    ],
+    "answer": 3,
+    "explanation": "NIPUN Bharat, launched in 2021, is the national mission for foundational literacy and numeracy, and it is aligned with the National Curriculum Framework for School Education 2023, which is a five-stage structure.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Pariksha' recommended in the National Education Policy 2020 for the school education system is:",
+    "options": [
+      "a streamlined and common assessment across the classes, reducing the multiplicity of examinations",
+      "an entrance examination for every class",
+      "a national examination only for the secondary stage",
+      "a continuous internal assessment with no external examination"
+    ],
+    "answer": 0,
+    "explanation": "The NEP recommends a streamlined and common assessment across the school system, with the reduction of the multiplicity of examinations and the development of a holistic assessment, and it also provides for a Pariksha in the higher education segment.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM e-Vidya' and 'DIKSHA' are:",
+    "options": [
+      "two satellite navigation systems",
+      "two supercomputing projects",
+      "digital education initiatives, with DIKSHA hosting the school and higher education content",
+      "the names of two payment systems"
+    ],
+    "answer": 2,
+    "explanation": "PM e-Vidya is a comprehensive digital education initiative with DIKSHA as its school education platform, while SWAYAM provides the online higher education courses, and the National Digital Library supports the learners.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Nari Shakti Vandan Adhiniyam' provides for reservation of one-third of the seats:",
+    "options": [
+      "in the Rajya Sabha only",
+      "in the Lok Sabha and the State Legislative Assemblies for women, including among the reserved seats",
+      "in the Panchayats and Municipalities",
+      "in the Central Government services"
+    ],
+    "answer": 1,
+    "explanation": "The 106th Amendment Act provides for one-third of the seats in the Lok Sabha and the State Legislative Assemblies, including the seats reserved for the Scheduled Castes and the Scheduled Tribes, to be filled by women, with effect after the next delimitation based on the first census after the law.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Lakhpati Didi' initiative under DAY-NRLM aims at:",
+    "options": [
+      "providing every woman with a bank deposit of one lakh rupees",
+      "helping SHG members become 'Lakhpati Didi' entrepreneurs with an annual household income of one lakh rupees",
+      "replacing the anchor SHGs with the State corporations",
+      "training women in the manufacture of handicrafts only"
+    ],
+    "answer": 1,
+    "explanation": "The Lakhpati Didi initiative under the DAY-NRLM enables SHG members to become 'Lakhpati Didi' entrepreneurs with a sustainable annual household income of one lakh rupees, through community enterprise and the diversification of livelihoods.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Stand-Up India' credit is routed through:",
+    "options": [
+      "the scheduled commercial banks, with a SIDBI portal for the greenfield projects of SC-ST and woman entrepreneurs",
+      "the micro finance institutions only",
+      "the NABARD refinance window",
+      "the State industrial corporations"
+    ],
+    "answer": 0,
+    "explanation": "Stand-Up India, launched in 2016, provides bank credit between Rs 10 lakh and Rs 1 crore to Scheduled Caste, Scheduled Tribe and woman entrepreneurs for setting up greenfield enterprises, and the portal of the SIDBI is used for the greenfield projects.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  }
+]

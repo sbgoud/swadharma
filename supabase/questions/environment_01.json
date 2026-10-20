@@ -1,0 +1,3482 @@
+[
+  {
+    "q": "In an ecosystem, which of the following is correctly classified as a biotic component?",
+    "options": [
+      "Water, minerals and soil",
+      "Sunlight and air currents",
+      "Green plants, animals and microorganisms",
+      "Temperature and wind velocity"
+    ],
+    "answer": 2,
+    "explanation": "Biotic components are the living parts of the ecosystem, while water, soil, sunlight, temperature and wind are abiotic (non-living) factors.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "A food chain represents which of the following?",
+    "options": [
+      "A sequence of organisms in which one feeds on the other, beginning with producers",
+      "The recycling of nutrients between living and non-living components",
+      "The interrelationship of all food chains of an area",
+      "The total set of organisms of one habitat"
+    ],
+    "answer": 0,
+    "explanation": "A food chain is a linear sequence of organisms linked by feeding; the interlinked food chains of a community constitute a food web.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Which ecological pyramid is always upright, regardless of the ecosystem studied?",
+    "options": [
+      "Pyramid of species diversity",
+      "Pyramid of numbers",
+      "Pyramid of biomass",
+      "Pyramid of energy flow"
+    ],
+    "answer": 3,
+    "explanation": "The pyramid of energy is always upright because energy is lost at each transfer, whereas pyramids of numbers and biomass can be inverted, for example in a tree ecosystem.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Gross primary productivity (GPP) of an ecosystem is best described as",
+    "options": [
+      "The rate of energy stored as biomass after plant respiration",
+      "The total rate of energy fixed by producers through photosynthesis",
+      "The rate of energy flow from producers to herbivores",
+      "The rate of decomposition of dead organic matter"
+    ],
+    "answer": 1,
+    "explanation": "GPP is the gross amount of energy captured by photosynthesis; NPP equals GPP minus the energy used up in respiration by the plants themselves.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The first organisms that usually colonise bare rock during primary succession are",
+    "options": [
+      "Shrubs and bushes",
+      "Herbaceous grasses",
+      "Lichens and mosses",
+      "Large coniferous trees"
+    ],
+    "answer": 2,
+    "explanation": "Lichens and mosses are pioneer species that weather the rock and initiate soil formation, allowing other, more demanding species to establish later.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Secondary succession differs from primary succession because it occurs",
+    "options": [
+      "In an area already occupied by a community where the soil remains intact",
+      "On sand dunes with no soil at all",
+      "On land newly exposed by a volcanic eruption",
+      "In a completely new aquatic habitat"
+    ],
+    "answer": 0,
+    "explanation": "Secondary succession follows a disturbance that leaves soil, seed banks and underground organs behind, so succession starts from a more advanced stage than in primary succession.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The climax stage of an ecological succession is characterised by",
+    "options": [
+      "The maximum number of pioneer species",
+      "A relatively stable community of long-lived species",
+      "A steep and continuous fall in total biomass",
+      "Dominance of fast growing pioneer species"
+    ],
+    "answer": 1,
+    "explanation": "In the climax stage species composition and biomass become relatively stable and the community is dominated by long-lived, competitively superior species.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a classic example of a keystone species?",
+    "options": [
+      "A pollinator species that has the widest geographic range",
+      "A large herbivore occurring in large numbers in a grassland",
+      "A grass species that is abundant in a plain",
+      "The sea otter controlling sea urchins in a kelp forest"
+    ],
+    "answer": 3,
+    "explanation": "A keystone species has a disproportionately large effect on ecosystem structure relative to its abundance; the sea otter prevents urchin overgrazing and maintains the kelp forest.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The ecological niche of an organism refers to",
+    "options": [
+      "Only the food and feeding habits of the organism",
+      "The full range of environmental conditions and resources it uses and its functional role",
+      "The list of species to which the organism is most closely related",
+      "The specific physical place where the organism lives"
+    ],
+    "answer": 1,
+    "explanation": "Hutchinson defined the niche as an n-dimensional hypervolume describing the range of conditions and resources an organism uses and its functional role in the community.",
+    "difficulty": "hard",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Grinnell's concept of the ecological niche mainly emphasises the",
+    "options": [
+      "Physical place occupied by a species",
+      "Rate of energy flow through the food chain",
+      "Competition between a species and its predators",
+      "Functional role played by a species in the community"
+    ],
+    "answer": 0,
+    "explanation": "Grinnell (1917) described the niche in spatial or habitat terms, whereas Elton emphasised the functional role and the n-dimensional Hutchinson concept combined both.",
+    "difficulty": "hard",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Biomagnification refers to",
+    "options": [
+      "Loss of stratospheric ozone due to chlorofluorocarbons",
+      "A fall in pollutant concentration with increasing altitude",
+      "Accumulation of a pollutant within the body of a single organism over time",
+      "An increase in the concentration of a pollutant in successive trophic levels"
+    ],
+    "answer": 3,
+    "explanation": "Biomagnification is the increase in pollutant concentration at each higher trophic level, as with DDT and mercury, whereas accumulation within one organism is bioaccumulation.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Bioaccumulation differs from biomagnification because it refers to",
+    "options": [
+      "Increase of a substance in successive trophic levels of a food chain",
+      "Movement of a pollutant from water into sediment",
+      "Increase of a substance in an individual organism over its lifetime",
+      "Conversion of a pollutant into a less harmful form"
+    ],
+    "answer": 2,
+    "explanation": "Bioaccumulation is the build-up of a substance within one organism over time because uptake exceeds elimination; biomagnification is the concentration increase across trophic levels.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Minamata disease in Japan was caused by",
+    "options": [
+      "Industrial discharge of methylmercury into Minamata Bay",
+      "Radium leakage from a nuclear plant",
+      "Lead contamination of drinking water",
+      "Excessive use of DDT in rice fields"
+    ],
+    "answer": 0,
+    "explanation": "Industrial effluent rich in methylmercury was discharged into Minamata Bay; mercury biomagnified through fish and shellfish and caused severe neurological disease in the local population.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The enrichment of a water body with nutrients leading to excessive algal growth and oxygen depletion is called",
+    "options": [
+      "Thermal stratification",
+      "Oligotrophication",
+      "Eutrophication",
+      "Siltation"
+    ],
+    "answer": 2,
+    "explanation": "Eutrophication results from excess phosphorus and nitrogen inputs, causing algal blooms whose decomposition depletes dissolved oxygen and creates dead zones.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "In the nitrogen cycle, the process that converts atmospheric nitrogen into ammonia is",
+    "options": [
+      "Ammonification",
+      "Denitrification",
+      "Nitrification",
+      "Nitrogen fixation"
+    ],
+    "answer": 3,
+    "explanation": "Nitrogen fixation by diazotrophic bacteria and industrial processes converts molecular nitrogen into ammonia; nitrification oxidises ammonia to nitrates and denitrification returns nitrogen to the air.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Which of the following biogeochemical cycles has essentially no gaseous phase in nature?",
+    "options": [
+      "Water cycle",
+      "Phosphorus cycle",
+      "Carbon cycle",
+      "Nitrogen cycle"
+    ],
+    "answer": 1,
+    "explanation": "Phosphorus moves mainly through rocks, soil, water and organisms and has no significant atmospheric reservoir, unlike carbon, nitrogen and water.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Species richness of a community refers to",
+    "options": [
+      "The total biomass of the community",
+      "The relative abundance of each species",
+      "The number of different species present in it",
+      "The genetic variation within a single species"
+    ],
+    "answer": 2,
+    "explanation": "Species richness is simply the count of species, whereas species evenness describes how equally individuals are distributed among those species.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "A community in which a few species dominate in numbers while many other species are rare is said to have",
+    "options": [
+      "Low species evenness",
+      "High primary productivity",
+      "High species richness and high evenness",
+      "Low species richness"
+    ],
+    "answer": 0,
+    "explanation": "Evenness measures the similarity of abundance among species; dominance of a few species indicates low evenness even if richness is high.",
+    "difficulty": "hard",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "An ecosystem that absorbs more carbon dioxide than it releases is described as",
+    "options": [
+      "A carbon neutral system",
+      "A carbon sink",
+      "An open ecosystem",
+      "A carbon source"
+    ],
+    "answer": 1,
+    "explanation": "Forests, oceans and wetlands that take up more CO2 through photosynthesis than they release act as carbon sinks and help offset anthropogenic emissions.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Decomposers are ecologically significant chiefly because they",
+    "options": [
+      "Form the base of all food chains",
+      "Fix atmospheric nitrogen into ammonia",
+      "Produce oxygen in the atmosphere",
+      "Recycle nutrients from dead matter back into the abiotic pool"
+    ],
+    "answer": 3,
+    "explanation": "Bacteria and fungi break down detritus and return inorganic nutrients to the soil and water, completing the nutrient cycles of the ecosystem.",
+    "difficulty": "easy",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Which of the following best describes an r-selected species?",
+    "options": [
+      "Having a long life span and slow growth",
+      "Producing many offspring with little parental care",
+      "Occurring only in climax communities",
+      "Producing few offspring with intensive parental care"
+    ],
+    "answer": 1,
+    "explanation": "r-selected species maximise reproductive output in unstable habitats, whereas K-selected species invest heavily in few offspring with high parental care.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Primary productivity in terrestrial ecosystems is generally highest in",
+    "options": [
+      "Desert scrub",
+      "Tundra and alpine meadows",
+      "Tropical rainforests",
+      "Deep sea zones"
+    ],
+    "answer": 2,
+    "explanation": "Warm temperature, abundant rainfall and year-round canopy photosynthesis make tropical rainforests the most productive terrestrial ecosystems.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The detritus food chain in a terrestrial ecosystem is principally maintained by",
+    "options": [
+      "Zooplankton",
+      "Green plants",
+      "Carnivorous plants",
+      "Decomposers such as bacteria and fungi"
+    ],
+    "answer": 3,
+    "explanation": "Dead organic matter is consumed by detritivores and decomposers, forming detritus food chains that are dominant in most terrestrial ecosystems.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a component of the standing crop of an ecosystem?",
+    "options": [
+      "Total biomass of living organisms in an area at a given time",
+      "Amount of water in the soil",
+      "Rate of energy fixed by photosynthesis",
+      "Solar energy incident on the area"
+    ],
+    "answer": 0,
+    "explanation": "Standing crop is the living biomass present at a particular time; biomass flow refers to the rate of generation of that biomass.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Allelopathy in plants refers to",
+    "options": [
+      "Mutualism between roots of different species",
+      "Production of chemicals that inhibit the growth of other plants",
+      "The vertical layering of vegetation in a forest",
+      "The shedding of leaves in the dry season"
+    ],
+    "answer": 1,
+    "explanation": "Allelopathic plants release secondary metabolites that suppress germination and growth of competitors, as seen in black walnut and eucalyptus.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Ecological amplitude of a species refers to",
+    "options": [
+      "The range of environmental conditions within which it can survive and reproduce",
+      "Its position in the trophic hierarchy",
+      "The size of its population in its habitat",
+      "The total biomass it produces annually"
+    ],
+    "answer": 0,
+    "explanation": "A species with wide ecological amplitude (eurytopic) tolerates a broad range of conditions, while a narrow amplitude (stenotopic) species is restricted.",
+    "difficulty": "hard",
+    "category": "ecology-basics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT one of the criteria used by Norman Myers to identify a biodiversity hotspot?",
+    "options": [
+      "Loss of at least 70 per cent of its original natural vegetation",
+      "Endemicity of a high number of vertebrate species",
+      "Location entirely within the tropics",
+      "At least 1500 endemic vascular plant species"
+    ],
+    "answer": 2,
+    "explanation": "The two quantitative criteria are 1500 endemic vascular plants and 70 per cent habitat loss; hotspots may lie outside the tropics, for example the Cape Floristic Region and California Floristic Province.",
+    "difficulty": "hard",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following biodiversity hotspots does NOT extend into India?",
+    "options": [
+      "Himalaya",
+      "Indo-Burma",
+      "Sundaland",
+      "Madagascar and the Mascarenes"
+    ],
+    "answer": 3,
+    "explanation": "India's hotspots are the Himalaya, Indo-Burma, Western Ghats and Sri Lanka, and the Sundaland hotspot covering the Nicobar Islands; Madagascar lies in the western Indian Ocean.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Among the IUCN Red List categories, the highest degree of immediate threat after extinction is classified as",
+    "options": [
+      "Near Threatened",
+      "Vulnerable",
+      "Endangered",
+      "Critically Endangered"
+    ],
+    "answer": 3,
+    "explanation": "The categories run Extinct, Extinct in the Wild, Critically Endangered, Endangered, Vulnerable, Near Threatened, Least Concern, Data Deficient and Not Evaluated.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "How many categories does the IUCN Red List of Threatened Species currently recognise?",
+    "options": [
+      "Four",
+      "Six",
+      "Nine",
+      "Twelve"
+    ],
+    "answer": 2,
+    "explanation": "The Red List has nine categories: EX, EW, CR, EN, VU, NT, LC, DD and NE, of which CR, EN and VU together form the threatened categories.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Schedule VI of the Wildlife (Protection) Act, 1972 deals with",
+    "options": [
+      "Plants",
+      "Amphibians",
+      "Reptiles",
+      "Birds"
+    ],
+    "answer": 0,
+    "explanation": "Schedule I covers animals, Schedule II other protected animals, Schedule III plants endemic to India, Schedule IV plants threatened with extinction and Schedule VI plants under cultivation.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ramsar Convention on Wetlands was adopted in",
+    "options": [
+      "1972 at Stockholm, Sweden",
+      "1971 at Ramsar, Iran",
+      "1982 at Rio de Janeiro, Brazil",
+      "1975 at Nairobi, Kenya"
+    ],
+    "answer": 1,
+    "explanation": "The Convention was adopted on 2 February 1971 at Ramsar in Iran; India acceded to it and Keoladeo National Park became the first Indian Ramsar site in 1981.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The largest Ramsar site in India by area is",
+    "options": [
+      "Loktak Lake",
+      "Keoladeo National Park",
+      "Chilika Lake",
+      "Nalsarovar"
+    ],
+    "answer": 3,
+    "explanation": "Nalsarovar in Gujarat, a large freshwater reservoir of the Nal Sarovar, is the largest Ramsar site in India; Loktak is the largest freshwater lake of the north-east.",
+    "difficulty": "hard",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The only freshwater lake in India that has a floating national park within it is",
+    "options": [
+      "Loktak Lake, Manipur",
+      "Gobind Sagar, Himachal Pradesh",
+      "Dal Lake, Srinagar",
+      "Wular Lake, Jammu and Kashmir"
+    ],
+    "answer": 0,
+    "explanation": "Keibul Lamjao, the world's only floating national park, lies within Loktak Lake in Manipur and is the only refuge of the sangai.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The largest brackish water lagoon in India, designated a Ramsar site, is",
+    "options": [
+      "Vembanad Lake, Kerala",
+      "Chilika Lake, Odisha",
+      "Pulicat Lake, Andhra Pradesh",
+      "Sambhar Lake, Rajasthan"
+    ],
+    "answer": 1,
+    "explanation": "Chilika, the largest brackish water lagoon of India, is a Ramsar wetland and an Important Bird Area supporting millions of migratory waterfowl.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under CITES, species listed in Appendix I are those",
+    "options": [
+      "Not threatened but likely to become threatened",
+      "Protected in at least one party country but not others",
+      "Threatened with extinction, for which trade is permitted only in exceptional circumstances",
+      "Exempt from all trade control measures"
+    ],
+    "answer": 2,
+    "explanation": "Appendix I covers species threatened with extinction and allows trade only in exceptional circumstances; Appendix II lists species that are not currently threatened but could become so.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The CITES Convention on International Trade in Endangered Species was signed in",
+    "options": [
+      "Washington, 1973",
+      "Ramsar, 1971",
+      "Geneva, 1973",
+      "Stockholm, 1972"
+    ],
+    "answer": 0,
+    "explanation": "CITES was agreed in Washington D.C. on 3 March 1973 and entered into force in July 1975; the Washington Convention is another name for it.",
+    "difficulty": "hard",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The sacred groves of India are significant mainly because they",
+    "options": [
+      "Provide the largest area for commercial forestry",
+      "Preserve pockets of native vegetation in situ and act as refuges for biodiversity",
+      "Mark the boundaries of protected areas",
+      "Serve as the main source of timber for tribal communities"
+    ],
+    "answer": 1,
+    "explanation": "Sacred groves are forest patches traditionally protected by local communities and religious taboos, and they are valuable in-situ conservation sites for endemic species.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "In India, the state with the largest area under mangrove cover is",
+    "options": [
+      "Kerala",
+      "Odisha",
+      "West Bengal",
+      "Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "West Bengal, with the Sundarbans delta holding the bulk of the mangrove area, has the largest mangrove cover in the country; Odisha's Mahanadi delta is the second largest.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "Forest Survey of India",
+    "year": 2021
+  },
+  {
+    "q": "The sangai, the state animal of Manipur, is notable because it is",
+    "options": [
+      "The only deer found in a tropical rainforest canopy",
+      "The only deer species with completely antlerless females",
+      "The only deer that swims between the floating islands of a lake",
+      "The only deer species in which both males and females bear antlers"
+    ],
+    "answer": 3,
+    "explanation": "The sangai or Manipur brow-antlered deer is the only free-ranging deer in which both sexes carry antlers, and it survives only in the Loktak wetland landscape of Manipur.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Namdapha flying squirrel of Arunachal Pradesh is distinctive because it is",
+    "options": [
+      "The only squirrel capable of true powered flight",
+      "The largest flying squirrel in the world",
+      "The only flying squirrel in India with a fully developed gliding membrane",
+      "The only mammal with a prehensile tail in India"
+    ],
+    "answer": 2,
+    "explanation": "The Namdapha flying squirrel (Biswamoyopterus namdaphaensis) has a full patagium and is the only Indian flying squirrel with such a complete gliding membrane.",
+    "difficulty": "hard",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The purple frog, endemic to the Western Ghats, is notable because it",
+    "options": [
+      "Belongs to a lineage far removed from other Indian frogs and breeds in seasonal forest pools",
+      "Is a brightly coloured arboreal reptile",
+      "Lives in high-altitude alpine meadows",
+      "Is the largest frog in India"
+    ],
+    "answer": 0,
+    "explanation": "The purple frog (Indirana) belongs to the ancient family Micrixalidae, a lineage diverging before the break-up of Gondwana, and breeds in ephemeral pools on forest floors.",
+    "difficulty": "hard",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Biodiversity at the level of genetic variation within a species is best illustrated by",
+    "options": [
+      "The number of mangrove trees in an estuary",
+      "Different sizes of tiger populations in two reserves",
+      "The number of different fish species in a river",
+      "The variety of rice varieties cultivated by a farmer"
+    ],
+    "answer": 3,
+    "explanation": "Genetic diversity exists within a single species, for example among the many landraces and wild relatives of rice; species diversity operates at the level of different species.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Agro-biodiversity includes",
+    "options": [
+      "Only genetically engineered crop varieties",
+      "Crop varieties, wild relatives of crops, and the farming practices that sustain them",
+      "Only the wild animals of a landscape",
+      "Only the soil organisms of a farm"
+    ],
+    "answer": 1,
+    "explanation": "Agro-biodiversity covers cultivated varieties, wild crop relatives, livestock breeds and the farming systems that maintain them, and it is shrinking rapidly with monoculture.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The migratory flyway that passes over the Indian subcontinent and links Siberia with the Indian subcontinent is the",
+    "options": [
+      "Central Asian Flyway",
+      "Western Palearctic Flyway",
+      "East Asian-Australasian Flyway",
+      "African-Eurasian Flyway"
+    ],
+    "answer": 0,
+    "explanation": "The Central Asian Flyway is one of the three major flyways in India, covering central Asia, the Himalaya and the Indian subcontinent; the other Indian flyway is the East Asian-Australasian.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The black-necked crane, a migratory bird of the trans-Himalayan region, breeds in",
+    "options": [
+      "Assam's Kaziranga National Park",
+      "Kerala's Silent Valley",
+      "Ladakh, in the Changthang and Pangong lake region",
+      "Rajasthan's Keoladeo sanctuary"
+    ],
+    "answer": 2,
+    "explanation": "The black-necked crane breeds in the high-altitude lakes of Ladakh and winters in the Brahmaputra valley, Tibet and Nepal; it is India's rarest breeding crane.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kunming-Montreal Global Biodiversity Framework adopted at COP15 sets a target to protect",
+    "options": [
+      "20 per cent of terrestrial areas by 2025",
+      "30 per cent of land and sea by 2030",
+      "50 per cent of the ocean by 2035",
+      "10 per cent of land and sea by 2020"
+    ],
+    "answer": 1,
+    "explanation": "The 30x30 target of the Kunming-Montreal GBF calls for conserving at least 30 per cent of terrestrial, inland water and marine areas by 2030.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is an example of ex-situ conservation?",
+    "options": [
+      "Grazing by local communities inside a sanctuary",
+      "Creation of a national park",
+      "Declaration of a biosphere reserve",
+      "Storage of seed and pollen in gene banks"
+    ],
+    "answer": 3,
+    "explanation": "Ex-situ conservation keeps material outside the natural habitat, as in seed banks, gene banks, botanical gardens and zoos, whereas protected areas are in-situ conservation.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "According to the 2019 IPBES Global Assessment, the direct drivers of biodiversity loss include",
+    "options": [
+      "Population growth in developing countries",
+      "Only habitat destruction and poaching",
+      "Climate change alone as the leading driver",
+      "Land and sea use change, direct exploitation, climate change, pollution and invasive alien species"
+    ],
+    "answer": 3,
+    "explanation": "The IPBES assessment identified five direct drivers of change: land and sea use change, direct exploitation, climate change, pollution and introduction of invasive alien species.",
+    "difficulty": "hard",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The largest mangrove forest in the world, and India's most important tiger habitat, is located in",
+    "options": [
+      "The Mahanadi delta",
+      "The Sundarbans delta",
+      "The Gulf of Mannar",
+      "The Godavari delta"
+    ],
+    "answer": 1,
+    "explanation": "The Sundarbans in West Bengal is the largest mangrove forest in the world and the only mangrove tiger reserve in India, with Royal Bengal tigers adapted to saline conditions.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Tropical evergreen forests in India occur mainly in areas receiving rainfall above",
+    "options": [
+      "2000 mm per year",
+      "3000 mm per year",
+      "1000 mm per year",
+      "1500 mm per year"
+    ],
+    "answer": 0,
+    "explanation": "Tropical evergreen forests need more than 2000 mm of annual rainfall with a short dry season, as on the Western Ghats, north-east India and the Andaman Islands.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "NCERT Geography",
+    "year": null
+  },
+  {
+    "q": "Tropical deciduous forests in India are found in regions of",
+    "options": [
+      "Above 3000 mm rainfall with frost",
+      "Below 700 mm rainfall",
+      "1000 to 2000 mm rainfall",
+      "Above 2000 mm rainfall"
+    ],
+    "answer": 2,
+    "explanation": "Moist deciduous forests occur with 1000-2000 mm rainfall and dry deciduous forests with 700-1000 mm, the latter losing their leaves during the dry season.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "NCERT Geography",
+    "year": null
+  },
+  {
+    "q": "The National Forest Policy of 1988 states that the basic needs of the people should be given priority in the",
+    "options": [
+      "Afforestation of degraded wastelands",
+      "Conservation of the existing forest cover",
+      "Sustained yield from forests",
+      "Use and development of forests"
+    ],
+    "answer": 3,
+    "explanation": "The 1988 policy declared that the basic needs of the people should be given priority in the use and development of forests, while emphasising sustained yield and conservation.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The main aim of the Forest (Conservation) Act, 1980 is to",
+    "options": [
+      "Prevent inappropriate conversion of forest areas for non-forest uses",
+      "Increase the revenue from state forests",
+      "Transfer forest lands to the tribal cooperatives",
+      "Promote large-scale plantation of commercial species"
+    ],
+    "answer": 0,
+    "explanation": "The 1980 Act restricts diversion of forest land for non-forest purposes and provides for compensatory afforestation and net present value for such diversions.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Project Tiger was launched in India in",
+    "options": [
+      "1992",
+      "1987",
+      "1973",
+      "1951"
+    ],
+    "answer": 2,
+    "explanation": "Project Tiger was launched on 1 April 1973 with nine tiger reserves, of which Corbett in Uttarakhand was the first; the project was merged into the Wildlife (Protection) Act framework later.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "According to the Fourth All-India Tiger Estimation released in 2022, the total number of tigers estimated in India was",
+    "options": [
+      "4,161",
+      "3,682",
+      "2,967",
+      "5,012"
+    ],
+    "answer": 1,
+    "explanation": "The 2022 report estimated 3,682 tigers in India, of which about 3,040 were in tiger reserves, showing a recovery from the 2018 estimate of 2,967.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "PIB 2022",
+    "year": 2022
+  },
+  {
+    "q": "Gir National Park in Gujarat is the only place in the world where one can find",
+    "options": [
+      "The Indian wild ass",
+      "The Asiatic lion",
+      "The Arabian gazelle",
+      "The Asiatic cheetah"
+    ],
+    "answer": 1,
+    "explanation": "The Gir landscape sustains the entire world population of the Asiatic lion, recovered from a remnant population in the Gir forests; the cheetah has been lost from India.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Kanha National Park in Madhya Pradesh is particularly renowned for its population of",
+    "options": [
+      "Sambar and gaur",
+      "Wild buffalo and rhino",
+      "Gaur and barasingha",
+      "Blackbuck and chinkara"
+    ],
+    "answer": 2,
+    "explanation": "Kanha supports significant populations of gaur (Indian bison) and barasingha (swamp deer), along with tigers, and it inspired Rudyard Kipling's The Jungle Book.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Ranthambore National Park in Rajasthan is famous for its",
+    "options": [
+      "Snow leopards",
+      "Himalayan black bears",
+      "Asiatic lions",
+      "Royal Bengal tigers"
+    ],
+    "answer": 3,
+    "explanation": "Ranthambore, which also houses the UNESCO listed Ranthambore Fort, is one of the most important tiger reserves in northern India.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Silent Valley National Park in Kerala is especially significant for the conservation of",
+    "options": [
+      "The lion-tailed macaque and Nilgiri langur",
+      "The mouse deer and the civet",
+      "The gaur and the sambar",
+      "The hornbill and the trogon"
+    ],
+    "answer": 0,
+    "explanation": "Silent Valley, an extension of the Western Ghats World Heritage Site, protects the lion-tailed macaque, the Nilgiri langur and the Nilgiri tahr of the Eravikulam area.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Great Himalayan National Park in Himachal Pradesh was inscribed as a UNESCO World Heritage Site in",
+    "options": [
+      "2019",
+      "2004",
+      "2008",
+      "2014"
+    ],
+    "answer": 3,
+    "explanation": "It was inscribed in 2014 together with the Valley of Flowers as a natural World Heritage Site, and in 2021 it was designated a UNESCO Biosphere Reserve.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The one-horned rhinoceros in India is found chiefly in",
+    "options": [
+      "Ranthambore and Sariska",
+      "Periyar and Bandipur",
+      "Kaziranga National Park and the Assam Rhino Valley",
+      "Sunderbans and Bhitarkanika"
+    ],
+    "answer": 2,
+    "explanation": "Kaziranga in Assam holds the largest population of the Indian one-horned rhinoceros, and the Assam Rhino Valley has been a separate conservation site for the species since the 1990s.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The snow leopard of India is found predominantly in",
+    "options": [
+      "The Sundarbans and the Brahmaputra delta",
+      "Ladakh, Himachal Pradesh and the higher Himalayan ranges",
+      "The Western Ghats and the Deccan plateau",
+      "The Rann of Kutch"
+    ],
+    "answer": 1,
+    "explanation": "Snow leopard occupies the cold desert and alpine habitats of Ladakh, Himachal Pradesh, Uttarakhand and Jammu and Kashmir, where it preys on ibex and wild sheep.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The hangul or Kashmir stag is the state animal of Jammu and Kashmir and is found mainly in",
+    "options": [
+      "Dachigam National Park",
+      "Nagarjunsagar-Srisailam",
+      "Gir National Park",
+      "Kanha National Park"
+    ],
+    "answer": 0,
+    "explanation": "Dachigam in the Kashmir Valley is the last stronghold of the hangul, whose population has recovered from a very low base through conservation breeding.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The musk deer of India occurs in the",
+    "options": [
+      "Sahyadri hills of Maharashtra",
+      "Garo hills of Meghalaya",
+      "Nilgiri hills of Tamil Nadu",
+      "Alpine slopes of Uttarakhand near the Nepal border"
+    ],
+    "answer": 3,
+    "explanation": "The Indian musk deer is found in the high-altitude Himalayan tracts of Uttarakhand, chiefly in Kedarnath Wildlife Sanctuary and the Doda district.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Great Indian Hornbill, the state bird of Arunachal Pradesh, is the largest hornbill of",
+    "options": [
+      "South America",
+      "Africa",
+      "Asia",
+      "Australia"
+    ],
+    "answer": 2,
+    "explanation": "The Great Indian Hornbill is the largest hornbill in Asia and a flagship species of the Eastern Himalaya, found in the forests of Assam, Arunachal Pradesh and the Western Ghats.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sarus crane is the state bird of Uttar Pradesh and is noted for being",
+    "options": [
+      "The tallest flying bird",
+      "The only crane that nests on floating vegetation",
+      "A flightless bird of the wetlands",
+      "The heaviest of all flying birds"
+    ],
+    "answer": 0,
+    "explanation": "The Sarus crane is the tallest flying bird in the world, and it breeds in the wetlands of the Terai and the Ganga-Yamuna Doab of Uttar Pradesh.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Great Indian Bustard, the state bird of Gujarat, is a bird of",
+    "options": [
+      "Dense coniferous forests",
+      "Grasslands and semi-desert scrub",
+      "Mangrove swamps",
+      "High-altitude alpine meadows"
+    ],
+    "answer": 1,
+    "explanation": "The Great Indian Bustard inhabits dry grasslands and semi-desert scrub of Gujarat and Rajasthan; India's largest flying bird, it is critically endangered.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Project Elephant, launched to protect elephants and their habitats, was started in",
+    "options": [
+      "1999",
+      "1973",
+      "1986",
+      "1992"
+    ],
+    "answer": 3,
+    "explanation": "Project Elephant was launched in 1992; India has more than 30 elephant reserves, and the Asian elephant is the state animal of several states including Assam, Jharkhand and Odisha.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Indian wild ass or khur is found in",
+    "options": [
+      "The Deccan plateau",
+      "The Rann of Kutch and Ladakh",
+      "The Andaman Islands",
+      "The Sundarbans and the Brahmaputra delta"
+    ],
+    "answer": 1,
+    "explanation": "Two distinct populations of khur survive, one in the Rann of Kutch and the other in the Ladakh cold desert; the species is the state animal of Gujarat.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the state animal of Assam?",
+    "options": [
+      "The one-horned rhinoceros",
+      "The sangai",
+      "The hangul",
+      "The white-winged wood duck"
+    ],
+    "answer": 0,
+    "explanation": "The one-horned rhinoceros is the state animal of Assam and its emblem appears on the state seal; the white-winged wood duck is the state bird of Assam.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Periyar Tiger Reserve in Kerala is named after",
+    "options": [
+      "A local plant called Periyar",
+      "The Periyar river",
+      "The Periyar lake",
+      "The tribal chief Periyar"
+    ],
+    "answer": 2,
+    "explanation": "The reserve is named after Periyar Lake, the artificial reservoir created by the 1895 Mullaperiyar dam across the Periyar river.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Buxa Tiger Reserve in West Bengal is notable for the presence of",
+    "options": [
+      "The Chinese fishing cat",
+      "A large population of the Indian elephant",
+      "The Buxa tiger and the Indian rock python",
+      "The Sundarbans tiger population"
+    ],
+    "answer": 2,
+    "explanation": "Buxa in the Dooars region shelters the Bengal tiger and provides refuge to the Indian rock python, and it forms part of the elephant landscape of the north Bengal plains.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Indian flying fox, the largest bat in India, is chiefly a",
+    "options": [
+      "Frugivorous bat feeding on fruit and nectar",
+      "Insectivorous bat of cave colonies",
+      "Vampire bat feeding on blood",
+      "Carnivorous bat feeding on fish"
+    ],
+    "answer": 0,
+    "explanation": "The Indian flying fox (Pteropus medius) is a frugivorous bat that disperses seeds over long distances and is important in the regeneration of tropical forests.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The name Sundarbans is derived from",
+    "options": [
+      "The ruling dynasty of the region",
+      "The Sundari tree that grows abundantly in the delta",
+      "The name of the main river of the delta",
+      "The word for mangrove mud in Bengali"
+    ],
+    "answer": 1,
+    "explanation": "Sundarban takes its name from the Sundari tree (Heritiera littoralis), the dominant mangrove species of the delta, which gives the forest its distinctive character.",
+    "difficulty": "easy",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Among the IUCN protected area management categories, Category Ia is designated as",
+    "options": [
+      "Habitat management area",
+      "Protected landscape",
+      "National park",
+      "Strict nature reserve"
+    ],
+    "answer": 3,
+    "explanation": "Category Ia is a strict nature reserve managed for the protection of nature, Category Ib is a wilderness area, Category II a national park and Category IV a habitat and species management area.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A wildlife sanctuary differs from a national park in India in that in a sanctuary",
+    "options": [
+      "Grazing by local communities is entirely prohibited",
+      "Only the central government can administer it",
+      "Commercial hunting is completely banned",
+      "Private ownership of land and activities such as grazing are permitted"
+    ],
+    "answer": 3,
+    "explanation": "In sanctuaries private ownership of land is permitted and grazing, cultivation and other activities continue under regulatory control; hunting is prohibited in both categories.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Community reserves under the Wildlife (Protection) Act were introduced through",
+    "options": [
+      "The Scheduled Tribes and Other Traditional Forest Dwellers Act, 2006",
+      "The Wildlife (Protection) Amendment Act, 2002",
+      "The Biological Diversity Act, 2002",
+      "The Forest (Conservation) Amendment Act, 2004"
+    ],
+    "answer": 1,
+    "explanation": "The 2002 amendment provided for community reserves in areas where traditional communities had customary rights and were not protected as national parks or sanctuaries.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The eco-sensitive zone around a protected area is a concept introduced under",
+    "options": [
+      "The Biological Diversity Act, 2002",
+      "The Environment Protection Act, 1986",
+      "The Wildlife (Protection) Act, 1972",
+      "The Forest (Conservation) Act, 1980"
+    ],
+    "answer": 2,
+    "explanation": "Section 3 of the Wildlife (Protection) Act, 1972 provides for eco-sensitive zones around national parks and sanctuaries to be notified by the state governments.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "UNESCO's Man and the Biosphere Programme was launched in",
+    "options": [
+      "1971",
+      "1975",
+      "1984",
+      "1965"
+    ],
+    "answer": 0,
+    "explanation": "The MAB Programme was launched in 1971 with the aim of reconciling the conservation of nature with the sustained use of natural resources.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The difference between a biosphere reserve and a UNESCO World Heritage Site is that a biosphere reserve",
+    "options": [
+      "Is a Category VI IUCN protected area",
+      "Is a legal category created by Indian statute",
+      "Is nominated by a national committee and recognised by UNESCO but has no separate legal status in India",
+      "Is always a transboundary protected area"
+    ],
+    "answer": 2,
+    "explanation": "Biosphere reserves are designated through the UNESCO MAB Programme after national nomination; they have no separate statutory status under Indian law, unlike national parks and sanctuaries.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "As of 2024, the number of UNESCO World Heritage Sites located in India is",
+    "options": [
+      "43",
+      "47",
+      "36",
+      "40"
+    ],
+    "answer": 0,
+    "explanation": "India had 43 World Heritage Sites after the inscription of the Maratha Military Landscapes of Pune in 2023, spanning cultural, natural and mixed sites.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The UNESCO World Heritage Convention, under which sites of outstanding universal value are listed, was adopted in",
+    "options": [
+      "1965",
+      "1972",
+      "1978",
+      "1983"
+    ],
+    "answer": 1,
+    "explanation": "The Convention concerning the Protection of the World Cultural and Natural Heritage was adopted by UNESCO in 1972 and entered into force in 1975.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The concept of Other Effective Area-Based Conservation Measures (OECM) is associated with",
+    "options": [
+      "The World Heritage Convention",
+      "The Convention on Migratory Species",
+      "The Ramsar Convention",
+      "The Convention on Biological Diversity"
+    ],
+    "answer": 3,
+    "explanation": "OECM is a concept formalised by decisions of the Convention on Biological Diversity to complement the existing system of protected areas in conserving biodiversity.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Khangchendzonga National Park in Sikkim is important because it is",
+    "options": [
+      "A biosphere reserve with no human habitation at all",
+      "A transboundary park shared with Bhutan and Nepal",
+      "A park whose high-altitude valleys provide refuge to the musk deer and snow leopard",
+      "The largest mangrove park in the country"
+    ],
+    "answer": 2,
+    "explanation": "Khangchendzonga, inscribed as a World Heritage Site in 2016, shelters the snow leopard, musk deer and Himalayan tahr in its high-altitude valleys of the Lepcha and Limbu communities.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Agasthyamalai Biosphere Reserve in Tamil Nadu was inscribed as a UNESCO World Heritage Site in",
+    "options": [
+      "2021",
+      "2023",
+      "2016",
+      "2019"
+    ],
+    "answer": 1,
+    "explanation": "The reserve was designated a biosphere reserve in 2016 and inscribed as a natural World Heritage Site in 2023, extending the Western Ghats to the Agasthyamalai hills.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Important Bird Areas (IBA) network in India is coordinated by",
+    "options": [
+      "BirdLife International",
+      "Bombay Natural History Society",
+      "Centre for Wildlife and Habitat Studies",
+      "Wildlife Institute of India"
+    ],
+    "answer": 0,
+    "explanation": "The IBA network is coordinated by BirdLife International; India has more than 1,300 IBAs, which form the backbone of the country's bird area conservation.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Park and Wildlife Sanctuaries in the Andaman and Nicobar Islands lie in one of the world's biodiversity hotspots named",
+    "options": [
+      "Western Ghats and Sri Lanka",
+      "Himalaya",
+      "Indo-Burma",
+      "Sundaland"
+    ],
+    "answer": 3,
+    "explanation": "The Nicobar Islands form part of the Sundaland hotspot, which also covers Malaysia, Indonesia and the Philippines and is rich in endemic species.",
+    "difficulty": "easy",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a transboundary protected area shared by India and another country?",
+    "options": [
+      "W National Park in Niger",
+      "Sundarbans National Park",
+      "Bandipur National Park",
+      "Kanha National Park"
+    ],
+    "answer": 0,
+    "explanation": "The W National Park of Niger straddles the Niger-Benin border and is a transboundary tiger reserve; India also shares such ecosystems with Bangladesh and Nepal.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The concept of a biosphere reserve involves a core zone, a buffer zone and a",
+    "options": [
+      "Settlement zone",
+      "Transition zone",
+      "Exclusion zone",
+      "Commercial zone"
+    ],
+    "answer": 1,
+    "explanation": "A biosphere reserve is divided into a legally protected core, a buffer or multiple-use zone, and a transition zone where sustainable development is encouraged.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Protected Planet, the global database of protected areas, is maintained by",
+    "options": [
+      "World Bank and UNDP",
+      "IUCN alone",
+      "UNFCCC secretariat",
+      "UNEP and the World Database on Protected Areas"
+    ],
+    "answer": 3,
+    "explanation": "Protected Planet, the UNEP-WCMC World Database on Protected Areas, records all nationally designated marine and terrestrial protected areas and is updated with national submissions.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kanheri Caves and the SGNP together form one of the largest protected urban areas in the world. This protected area lies in",
+    "options": [
+      "Gujarat",
+      "Karnataka",
+      "Maharashtra",
+      "Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "Sanjay Gandhi National Park at Borivali in Mumbai and the adjoining SGNP Bioreserve form a large protected green lung within the metropolis of Maharashtra.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Joint forest management in India is a form of",
+    "options": [
+      "Community-based conservation of forests",
+      "Commercial plantation management",
+      "Diverting forest revenue to states",
+      "Ex-situ conservation of timber species"
+    ],
+    "answer": 0,
+    "explanation": "Joint forest management involves forest departments sharing protection and usufruct rights with Gram Panchayats, a widely used community-based conservation approach.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Ambient Air Quality Standards notified in India specify limits for how many parameters?",
+    "options": [
+      "Sixteen",
+      "Twenty",
+      "Eight",
+      "Twelve"
+    ],
+    "answer": 3,
+    "explanation": "The NAAQS notified in 2009 prescribe standards for twelve parameters, including PM2.5, PM10, SO2, NO2, NH3, CO, lead, ozone, benzene, benzo(a)pyrene, ethylene dibromide and arsenic.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In India's air quality reporting, the pollutant designated as PM2.5 refers to particulate matter with an aerodynamic diameter of",
+    "options": [
+      "Less than 10 micrometres",
+      "Less than 2.5 micrometres",
+      "Between 2.5 and 10 micrometres",
+      "Less than 100 micrometres"
+    ],
+    "answer": 1,
+    "explanation": "PM2.5 denotes particles of 2.5 micrometres or less, which penetrate deep into the lungs and enter the bloodstream, while PM10 denotes coarse particles up to 10 micrometres.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "CPCB",
+    "year": null
+  },
+  {
+    "q": "The Air Quality Index category 'Severe' in India's National AQI corresponds to an AQI value of",
+    "options": [
+      "201 to 300",
+      "301 to 400",
+      "401 to 500",
+      "101 to 200"
+    ],
+    "answer": 2,
+    "explanation": "The six AQI categories are Good (0-50), Satisfactory (51-100), Moderately Polluted (101-200), Poor (201-300), Very Poor (301-400) and Severe (401-500).",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "CPCB",
+    "year": null
+  },
+  {
+    "q": "Photochemical or Los Angeles type smog is chiefly characterised by",
+    "options": [
+      "High concentrations of sulphur dioxide and particulate matter during winter inversion",
+      "Ozone and peroxyacetyl nitrate formed by sunlight acting on oxides of nitrogen and hydrocarbons",
+      "Dense fog with freezing conditions near industrial areas",
+      "Acid deposition on buildings and monuments"
+    ],
+    "answer": 1,
+    "explanation": "Photochemical smog forms when sunlight reacts with vehicle exhaust oxides of nitrogen and volatile organic compounds, producing ground level ozone and PAN; London type smog is driven by SO2 and smoke.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "London type smog is associated with which set of conditions?",
+    "options": [
+      "Low humidity and very cold winds",
+      "High temperature, strong sunlight and vehicle exhaust",
+      "High wind speed and dust storms",
+      "Low temperature, high humidity and emissions of sulphur dioxide and smoke"
+    ],
+    "answer": 3,
+    "explanation": "London smog forms in winter when cold, humid, stagnant air combines with SO2 and soot, forming sulphurous acid that irritates the respiratory system.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The major cause of depletion of the stratospheric ozone layer is the release of",
+    "options": [
+      "Methane and nitrous oxide",
+      "Sulphur dioxide and nitrogen oxides",
+      "Chlorofluorocarbons and other ozone-depleting substances",
+      "Carbon monoxide and unburnt hydrocarbons"
+    ],
+    "answer": 2,
+    "explanation": "Chlorofluorocarbons, halons, carbon tetrachloride and methyl chloroform release chlorine and bromine radicals in the stratosphere that catalytically destroy ozone.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Montreal Protocol, which phases out ozone depleting substances, was adopted in",
+    "options": [
+      "1987",
+      "2005",
+      "1992",
+      "1997"
+    ],
+    "answer": 0,
+    "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer was adopted in September 1987; the Kigali Amendment of 2016 brought hydrofluorocarbons under its control.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Acid rain is primarily caused by the atmospheric emission of",
+    "options": [
+      "Oxides of carbon and hydrogen",
+      "Chlorofluorocarbons and methane",
+      "Oxides of sulphur and nitrogen",
+      "Particulate matter and dust"
+    ],
+    "answer": 2,
+    "explanation": "Sulphur dioxide and nitrogen oxides are oxidised in the atmosphere to sulphuric and nitric acids, which return to the surface as acid deposition and cause damage to crops, soil and buildings.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Biochemical Oxygen Demand is a measure of",
+    "options": [
+      "Oxygen required by microorganisms to decompose organic matter in a water sample",
+      "Oxygen consumed by fish in a pond",
+      "Oxygen used by plants during photosynthesis",
+      "Oxygen dissolved in water at a given temperature"
+    ],
+    "answer": 0,
+    "explanation": "BOD is the amount of dissolved oxygen needed by aerobic microorganisms to decompose organic matter in a litre of water, standardly measured over five days at 20 degrees Celsius.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A high ratio of BOD to COD in an industrial effluent indicates that the effluent is",
+    "options": [
+      "Free of any suspended solids",
+      "Almost entirely non-biodegradable",
+      "Highly toxic to aquatic life",
+      "Highly biodegradable with a low concentration of toxic substances"
+    ],
+    "answer": 3,
+    "explanation": "A BOD/COD ratio of about 0.3 or higher indicates good biodegradability, while a ratio below 0.3 shows that the organic matter is largely non-biodegradable and requires other treatment methods.",
+    "difficulty": "hard",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The permissible noise level in an industrial zone in India during day time, as prescribed by the CPCB, is",
+    "options": [
+      "65 dB",
+      "75 dB",
+      "50 dB",
+      "55 dB"
+    ],
+    "answer": 1,
+    "explanation": "CPCB standards allow 75 dB in the day and 70 dB at night for industrial areas, 55 dB and 45 dB for residential areas, and 50 dB in silence zones around hospitals and educational institutions.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "CPCB",
+    "year": null
+  },
+  {
+    "q": "The Hazardous Waste (Management and Handling) Rules were first notified in India in",
+    "options": [
+      "2016",
+      "1986",
+      "1989",
+      "1998"
+    ],
+    "answer": 2,
+    "explanation": "The Hazardous Waste Rules were notified in 1989 and later amended, most significantly in 2003 and 2016, and are administered by the CPCB and the state pollution control boards.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Radioactive waste disposal in India is governed primarily by",
+    "options": [
+      "The Hazardous Waste Rules, 1989",
+      "The National Environmental Policy, 2006",
+      "The Environment Protection Act, 1986",
+      "The Atomic Energy Act, 1962 and the directives of the Atomic Energy Regulatory Board"
+    ],
+    "answer": 3,
+    "explanation": "The Atomic Energy Act, 1962 vests waste disposal and safety regulation in the Atomic Energy Regulatory Board, which approves disposal facilities and monitors waste management.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Torrey Canyon oil spill of 1967 and the Exxon Valdez spill of 1989 are classic cases of",
+    "options": [
+      "Marine pollution caused by tanker accidents",
+      "Industrial effluents causing eutrophication",
+      "Atmospheric deposition of persistent pesticides",
+      "Radioactive contamination of coastal waters"
+    ],
+    "answer": 0,
+    "explanation": "Both were tanker accidents, the Torrey Canyon off England and the Exxon Valdez off Alaska, which prompted the establishment of the International Convention for the Prevention of Pollution from Ships.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Environment Impact Assessment Notification in India was first issued in",
+    "options": [
+      "1994",
+      "2006",
+      "2011",
+      "1986"
+    ],
+    "answer": 1,
+    "explanation": "The EIA Notification of 2006, issued under the Environment Protection Act, 1986, lists projects requiring prior environmental clearance and was later amended several times, notably in 2011 and 2014.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Household air pollution in rural and low-income households is mainly caused by",
+    "options": [
+      "Leakage of LPG from cylinders",
+      "Use of kerosene lamps",
+      "Burning of solid fuels such as wood, coal and cow dung in cookstoves",
+      "Use of electric induction cookers"
+    ],
+    "answer": 2,
+    "explanation": "Solid fuel combustion in poorly ventilated cookstoves releases fine particles and carbon monoxide and is a leading cause of respiratory illness, prompting clean cooking measures such as PM Surya Ghar.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The benzene pollution in urban India is mainly associated with",
+    "options": [
+      "Fly ash from thermal power stations",
+      "Use of DDT in agriculture",
+      "Burning of crop residue",
+      "Coking plants and vehicular exhaust"
+    ],
+    "answer": 3,
+    "explanation": "Benzene, a Group 1 carcinogen, is emitted from vehicular exhaust, coke ovens and the petroleum and chemical industries; it is one of the twelve NAAQS parameters.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "CPCB",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a thermal pollution indicator that affects aquatic life?",
+    "options": [
+      "A sharp fall in the dissolved oxygen at night",
+      "A rise in water temperature that lowers dissolved oxygen solubility",
+      "A decrease in the salinity of coastal waters",
+      "An increase in the turbidity of river water"
+    ],
+    "answer": 1,
+    "explanation": "Warm water discharged from industries and power plants holds less dissolved oxygen and raises the metabolic oxygen demand of aquatic organisms, stressing fish populations.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Control of Transboundary Movements of Hazardous Wastes and their Disposal is governed by the",
+    "options": [
+      "Basel Convention",
+      "Vienna Convention",
+      "Stockholm Convention",
+      "Rotterdam Convention"
+    ],
+    "answer": 0,
+    "explanation": "The Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal was adopted in Basel in 1989 and India is a party to it.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Central Pollution Control Board is correct?",
+    "options": [
+      "It is chaired by the Prime Minister",
+      "It is a statutory body set up under the Water (Prevention and Control of Pollution) Act, 1974",
+      "It has no powers to enforce environmental standards",
+      "It is a non-statutory advisory body created in 1974"
+    ],
+    "answer": 1,
+    "explanation": "The CPCB was constituted in 1974 under the Water Act and is a statutory body that coordinates with state boards, sets standards and monitors the national air and water quality programmes.",
+    "difficulty": "hard",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Municipal Solid Waste (Management and Handling) Rules, 2016, which of the following is the correct division of responsibility for waste collection and disposal?",
+    "options": [
+      "The municipal body alone is responsible for segregation and collection of all waste",
+      "Waste generators must dispose of all waste themselves without municipal involvement",
+      "Waste generators must segregate waste at source and the municipal body must collect and dispose of it",
+      "The state pollution control board must segregate and collect every category of waste"
+    ],
+    "answer": 2,
+    "explanation": "The Rules place the duty of segregation at source on waste generators and the duty of collection, transport and disposal on the municipal body, with private collectors allowed under contract.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The practice of converting kitchen and garden waste into compost with the help of earthworms is known as",
+    "options": [
+      "Vermicomposting",
+      "Incineration",
+      "Vermiculture",
+      "Anaerobic digestion"
+    ],
+    "answer": 0,
+    "explanation": "Vermicomposting uses earthworms such as Eisenia fetida to convert organic residues into vermicompost, a nutrient-rich soil conditioner; vermiculture refers to culturing the worms themselves.",
+    "difficulty": "easy",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Solid Waste Management Rules in India for plastic waste were notified in",
+    "options": [
+      "2021",
+      "2003",
+      "2011",
+      "2016"
+    ],
+    "answer": 3,
+    "explanation": "The Plastic Waste (Management and Handling) Rules, 2016 were notified in 2016, with amendments in 2018 and 2022 that extended producer responsibility and banned identified single-use plastic items from July 2022.",
+    "difficulty": "easy",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Extended Producer Responsibility in India under the plastic waste rules requires producers to",
+    "options": [
+      "Pay the full cost of municipal solid waste collection",
+      "Establish plastic waste collection centres in every village",
+      "Collect and manage the end-of-life of the plastic they introduce into the market",
+      "Ban the manufacture of all plastic products"
+    ],
+    "answer": 2,
+    "explanation": "EPR makes producers responsible for the end-of-life management of their products through collection, recycling targets and, for identified items, deposit return and back-end responsibility systems.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The single-use plastic items banned in India from July 2022 include",
+    "options": [
+      "Plastic syringes and medical tubes",
+      "All plastic food packaging",
+      "Plastic water bottles and PET containers",
+      "Plastic bags, disposable cups, straws, cutlery and ear buds"
+    ],
+    "answer": 3,
+    "explanation": "The banned list covers plastic carry bags, disposable cups and plates, straws, cutlery, ear buds, toothpicks and packaging straps; PET bottles and food packaging are covered by EPR instead.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "PIB 2022",
+    "year": 2022
+  },
+  {
+    "q": "The waste pickers who collect recyclables from municipal waste streams are formally recognised in India through",
+    "options": [
+      "The Solid Waste Management Rules amendment of 2022 that recognises them as an essential service",
+      "The National Urban Sanitation Policy of 2008",
+      "The National Skill Development Mission",
+      "The Building and Other Construction Workers Act, 1996"
+    ],
+    "answer": 0,
+    "explanation": "The 2022 amendment recognises waste pickers as an essential part of the waste management chain and requires their formal integration, identity cards and access to safety equipment.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Waste-to-energy plants that incinerate municipal solid waste must comply with the emission norms laid down by",
+    "options": [
+      "The Bureau of Energy Efficiency",
+      "The Central Pollution Control Board",
+      "The Bureau of Standards",
+      "The Ministry of Power"
+    ],
+    "answer": 1,
+    "explanation": "CPCB lays down stack emission and ash disposal norms for waste-to-energy and incineration facilities, including limits on dioxins, particulates and bottom ash disposal.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "CPCB",
+    "year": null
+  },
+  {
+    "q": "Greywater reuse for gardening and flushing is generally encouraged because it",
+    "options": [
+      "Reduces the demand for potable water and the load on sewage treatment plants",
+      "Converts sewage directly into biogas",
+      "Eliminates the need for septic tanks in urban areas",
+      "Increases the oxygen content of rivers"
+    ],
+    "answer": 0,
+    "explanation": "Greywater is wastewater from baths, kitchens and laundry that can be treated and reused for non-potable purposes, cutting freshwater abstraction and sewer load.",
+    "difficulty": "easy",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A circular economy approach to waste differs from the linear economy in that it",
+    "options": [
+      "Increases the use of virgin raw materials",
+      "Values the entire life cycle of products and emphasises reuse, repair and recycling",
+      "Relies entirely on disposal in landfills",
+      "Applies only to organic waste"
+    ],
+    "answer": 1,
+    "explanation": "The circular economy keeps products and materials in use for as long as possible, designing out waste and regeneration, in contrast to the take-make-dispose linear model.",
+    "difficulty": "easy",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Waste Pickers Bill 2019 proposed in India sought to",
+    "options": [
+      "Impose a cess on all plastic packaging",
+      "Ban the informal waste picking sector",
+      "Recognise waste pickers, cooperatives and recyclers and provide them identity and social security",
+      "Privatise municipal solid waste collection"
+    ],
+    "answer": 2,
+    "explanation": "The Bill aimed at integrating waste pickers into the formal recycling chain through cooperatives, identity cards and welfare measures, though it was withdrawn before being enacted.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Biodegradable waste should preferably be processed by",
+    "options": [
+      "Deep burial in secured landfills",
+      "Landfilling",
+      "Incineration without energy recovery",
+      "Composting or anaerobic digestion"
+    ],
+    "answer": 3,
+    "explanation": "Composting converts biodegradable waste into a soil conditioner and anaerobic digestion produces biogas, thereby reducing the volume reaching landfills and avoiding methane emissions.",
+    "difficulty": "easy",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Used Battery (Management and Handling) Rules were notified in India in",
+    "options": [
+      "2022",
+      "2024",
+      "2016",
+      "2018"
+    ],
+    "answer": 0,
+    "explanation": "The Used Battery Rules, 2022 brought all types of batteries, including lithium and lead-acid, under a producer responsibility framework with collection centres and recycling obligations.",
+    "difficulty": "easy",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the most appropriate method for the final disposal of hospital liquid waste after proper treatment?",
+    "options": [
+      "Dilution in a pit outside the hospital",
+      "Discharge into a nearby water body",
+      "Incineration followed by disposal of ash in an authorised facility",
+      "Burning in an open dump"
+    ],
+    "answer": 2,
+    "explanation": "Treated liquid biomedical waste is discharged into designated sewage treatment systems, while sharps and solid clinical waste are autoclaved or incinerated with ash disposed of authoritatively.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The concept of circular economy in the waste sector in India is promoted prominently by",
+    "options": [
+      "The Election Commission of India",
+      "NITI Aayog",
+      "The Planning Commission's erstwhile disinvestment programme",
+      "The Reserve Bank of India"
+    ],
+    "answer": 1,
+    "explanation": "NITI Aayog has published a circular economy strategy for India with priority sectors including waste management, and promotes resource efficiency across the economy.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "NITI Aayog",
+    "year": null
+  },
+  {
+    "q": "Waste segregation at source in Indian cities is encouraged mainly to",
+    "options": [
+      "Reduce the number of waste pickers in the city",
+      "Simplify the work of the municipal sanitation department",
+      "Increase the tonnage of waste sent to landfills",
+      "Recover materials such as paper, plastic, glass and metal and keep organic waste out of landfills"
+    ],
+    "answer": 3,
+    "explanation": "Segregation at source keeps recyclables and hazardous fractions out of the landfill stream, enabling resource recovery, compost production and lower disposal costs.",
+    "difficulty": "easy",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Waste Management Policy in India was launched in",
+    "options": [
+      "2016",
+      "2017",
+      "2019",
+      "2014"
+    ],
+    "answer": 1,
+    "explanation": "The National Waste Management Policy, 2017 replaced the National Solid Waste Management Policy of 2009 and is aligned with the Swachh Bharat mission and the circular economy goal.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Municipal Solid Waste (Management and Handling) Rules, 2016, waste generators must segregate waste at source into which two streams?",
+    "options": [
+      "Hazardous and non-hazardous",
+      "Domestic and industrial",
+      "Solid and liquid",
+      "Biodegradable and non-biodegradable"
+    ],
+    "answer": 3,
+    "explanation": "Rule 5 requires segregation into biodegradable and non-biodegradable streams, with the latter further divided into recyclable, hazardous and inert fractions for processing.",
+    "difficulty": "easy",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The oceans cover roughly what proportion of the Earth's surface?",
+    "options": [
+      "51 per cent",
+      "61 per cent",
+      "71 per cent",
+      "81 per cent"
+    ],
+    "answer": 2,
+    "explanation": "The ocean covers about 71 per cent of the Earth's surface, contains 97 per cent of its water and holds the great majority of the planet's habitable volume.",
+    "difficulty": "easy",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The zone of the ocean in which sunlight penetrates and photosynthesis is possible is called the",
+    "options": [
+      "Photic zone",
+      "Benthic zone",
+      "Abyssal zone",
+      "Aphotic zone"
+    ],
+    "answer": 0,
+    "explanation": "The photic zone is the sunlit surface layer, roughly the upper 200 metres, where marine plants and phytoplankton carry out photosynthesis; below it lies the aphotic zone.",
+    "difficulty": "easy",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Ocean acidification results mainly from the ocean's absorption of",
+    "options": [
+      "Methane seeps from the seabed",
+      "Excess nitrogen and phosphorus",
+      "Carbon dioxide dissolved from the atmosphere",
+      "Sulphur dioxide from shipping"
+    ],
+    "answer": 2,
+    "explanation": "Dissolved CO2 forms carbonic acid, lowering seawater pH and reducing carbonate ions, which weakens coral skeleton formation and shell formation in molluscs and plankton.",
+    "difficulty": "easy",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Coral bleaching occurs when corals expel their symbiotic zooxanthellae under stress such as",
+    "options": [
+      "Higher salinity of the sea water",
+      "Excessive sedimentation and rising seawater temperature",
+      "Reduced water currents",
+      "An increase in the number of zooxanthellae"
+    ],
+    "answer": 1,
+    "explanation": "Thermal stress from warm anomalies causes corals to expel their algal symbionts, losing their colour and their main food source; pollution and sedimentation aggravate the damage.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "MARPOL is the international convention dealing with",
+    "options": [
+      "Prevention of pollution from ships",
+      "Exploration of the continental shelf",
+      "Prevention of dumping of waste at sea",
+      "Marine pollution from land-based sources"
+    ],
+    "answer": 0,
+    "explanation": "The International Convention for the Prevention of Pollution from Ships (MARPOL) sets standards for discharges from ships, including Annexes on oil, bulk chemicals, packaged goods, sewage, garbage and air emissions.",
+    "difficulty": "easy",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ballast Water Management Convention aims to",
+    "options": [
+      "Set standards for the disposal of fishing gear",
+      "Control the dumping of radioactive waste at sea",
+      "Regulate the discharge of oil from tankers",
+      "Prevent the transfer of invasive non-native organisms through ballast water"
+    ],
+    "answer": 3,
+    "explanation": "The convention, adopted in 2004 and in force since 2017, requires ships to treat and control ballast water to avoid introducing harmful aquatic organisms into new environments.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Ocean Policy of India was released in",
+    "options": [
+      "2004",
+      "2020",
+      "2008",
+      "2015"
+    ],
+    "answer": 0,
+    "explanation": "The National Ocean Policy released in 2004 encouraged exploration of marine resources and proposed an Island Development Authority and integrated coastal zone management.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Marine Protected Areas in India are notified under the",
+    "options": [
+      "Marine Fisheries Act, 1957",
+      "Wildlife (Protection) Act, 1972",
+      "Coastal Zone Regulation Management Act, 2010",
+      "Environment Protection Act, 1986"
+    ],
+    "answer": 1,
+    "explanation": "Marine Protected Areas such as the Gulf of Mannar, Gulf of Kachchh and the Andaman marine reserves are notified under the Wildlife (Protection) Act, 1972.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Seagrass meadows are significant because they",
+    "options": [
+      "Are the main source of atmospheric oxygen",
+      "Provide the only food for dugongs",
+      "Grow only in the deep ocean beyond the continental shelf",
+      "Store large amounts of carbon in marine sediments"
+    ],
+    "answer": 3,
+    "explanation": "Seagrass meadows are highly efficient blue carbon sinks, sequestering carbon in sediments for centuries while providing nursery habitat, coastal protection and carbon storage services.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Noise pollution in the ocean affects marine life chiefly by",
+    "options": [
+      "Reducing the oxygen content of deep water",
+      "Reducing the salinity of seawater",
+      "Disrupting the acoustic communication and navigation of whales, dolphins and fish",
+      "Increasing the temperature of the surface layer"
+    ],
+    "answer": 2,
+    "explanation": "Shipping, sonar and construction noise mask the low-frequency sounds used by cetaceans for communication and navigation, causing stress, behavioural change and loss of feeding efficiency.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Deep sea or polymetallic nodule mining is controversial chiefly because",
+    "options": [
+      "It consumes more oxygen than can be replenished",
+      "It is restricted only to frozen polar waters",
+      "It would destroy the ecosystems of the abyssal plain that are poorly known and slow to recover",
+      "It produces no economic benefit whatsoever"
+    ],
+    "answer": 2,
+    "explanation": "Nodules grow extremely slowly and support unique abyssal ecosystems, so removing them can cause long-lasting damage, a major reason for the mining moratorium requested by island states.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The continental shelf of an ocean is the shallow, gently sloping extension of the landmass that",
+    "options": [
+      "Forms where ocean plates are created at mid-ocean ridges",
+      "Reaches generally up to 200 metres depth and is the most productive zone for fisheries",
+      "Is the flat-floored basin of the deep ocean",
+      "Is the deepest part of the ocean where trenches occur"
+    ],
+    "answer": 1,
+    "explanation": "The continental shelf carries the world's richest fisheries, holds most of the offshore oil and gas resources and is legally the basis of India's extended continental shelf claims.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Hydrothermal vents on mid-ocean ridges support unusual ecosystems because they",
+    "options": [
+      "Release mineral-rich water that sustains chemosynthetic organisms without sunlight",
+      "Are caused by underwater volcanic eruptions of lava",
+      "Receive continuous sunlight on the ocean floor",
+      "Form where the ocean floor is covered by thick ice"
+    ],
+    "answer": 0,
+    "explanation": "At the ridges the hot water carries dissolved sulphides that bacteria use to synthesise organic matter chemosynthetically, forming the unique vent communities studied in the deep sea.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The global conveyor belt or thermohaline circulation of the ocean is driven mainly by",
+    "options": [
+      "The heating of the equatorial waters by the sun",
+      "The rotation of the earth and the Coriolis force alone",
+      "The pull of the moon on the ocean surface",
+      "Differences in temperature and salinity that alter water density"
+    ],
+    "answer": 3,
+    "explanation": "Cold saline water sinks in the polar regions and flows along the seabed before surfacing again, creating a slow global circulation that stores and redistributes heat and carbon.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Coral Triangle, the global centre of marine biodiversity, is located in",
+    "options": [
+      "The Red Sea and the Persian Gulf",
+      "The Baltic Sea and the North Sea",
+      "The Caribbean and the Gulf of Mexico",
+      "Indonesia, Malaysia, the Philippines, Papua New Guinea and the Solomon Islands"
+    ],
+    "answer": 3,
+    "explanation": "The Coral Triangle holds the world's greatest diversity of reef-building corals and reef-associated species and is the focus of global marine conservation efforts.",
+    "difficulty": "easy",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Thermal expansion of seawater contributes to sea level rise because",
+    "options": [
+      "Warm water evaporates and reduces the mass of the ocean",
+      "Salt dissolves faster in warm water",
+      "Warm water is less dense and therefore occupies a larger volume",
+      "Cold water sinks and pushes the surface layer down"
+    ],
+    "answer": 2,
+    "explanation": "As the ocean warms the density of water falls and the same mass occupies a greater volume; this accounted for about 40 per cent of sea level rise between 1971 and 2018 in the IPCC assessment.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The red tide bloom of Karenia brevis in the Gulf of Mexico is damaging mainly because it",
+    "options": [
+      "Accelerates the growth of mangrove roots",
+      "Produces neurotoxins that kill fish and marine mammals",
+      "Increases the oxygen content of the seabed",
+      "Raises the salinity of the coastal water"
+    ],
+    "answer": 1,
+    "explanation": "The bloom releases brevetoxins that cause fish kills and respiratory problems in humans and can be carried ashore by wind, threatening the livelihoods of fishing communities.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The United Nations Decade on Ecosystem Restoration, proclaimed by the General Assembly, covers the period",
+    "options": [
+      "2021 to 2030",
+      "2030 to 2040",
+      "2002 to 2012",
+      "2015 to 2024"
+    ],
+    "answer": 0,
+    "explanation": "The UN Decade on Ecosystem Restoration runs from 2021 to 2030 and supports restoration of degraded ecosystems worldwide, aligning with the Kunming-Montreal biodiversity targets.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "National parks and sanctuaries in India are notified by the",
+    "options": [
+      "The state government",
+      "The National Biodiversity Authority",
+      "The National Board for Wildlife",
+      "The Union Ministry of Environment, Forest and Climate Change"
+    ],
+    "answer": 0,
+    "explanation": "Section 3 of the Wildlife (Protection) Act, 1972 empowers the state government to notify national parks, sanctuaries and conservation reserves, though listing also requires central concurrence.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Paris Agreement on climate change was adopted at which conference and in which year?",
+    "options": [
+      "COP15, Kyoto, 1997",
+      "COP19, Warsaw, 2013",
+      "COP26, Glasgow, 2021",
+      "COP21, Paris, 2015"
+    ],
+    "answer": 3,
+    "explanation": "The Paris Agreement was adopted at COP21 in Paris in December 2015 and entered into force on 4 November 2016, bringing nearly every country into a common framework with NDCs.",
+    "difficulty": "easy",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kyoto Protocol was adopted in 1997 and",
+    "options": [
+      "Applied emission cuts to all countries from the start",
+      "Created the carbon market under Article 6",
+      "Set binding emissions targets only for developed countries listed in Annex I",
+      "Was the first treaty to use the term net zero"
+    ],
+    "answer": 2,
+    "explanation": "The Kyoto Protocol placed binding targets only on industrialised Annex I countries, leaving developing countries to take non-binding steps, a point of contention that shaped the later Paris Agreement.",
+    "difficulty": "easy",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The United Nations Framework Convention on Climate Change was opened for signature at",
+    "options": [
+      "The 1997 Kyoto Conference",
+      "The 1992 Rio Earth Summit",
+      "The 2002 Johannesburg Summit",
+      "The 1972 Stockholm Conference"
+    ],
+    "answer": 1,
+    "explanation": "The UNFCCC was opened for signature at the Rio Earth Summit in June 1992 and entered into force in 1994; its conference of parties has met annually since COP1 in Berlin in 1995.",
+    "difficulty": "easy",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Intergovernmental Panel on Climate Change was established in 1988 by",
+    "options": [
+      "The World Bank and the International Monetary Fund",
+      "The World Meteorological Organization and the United Nations Environment Programme",
+      "The European Commission and the World Trade Organization",
+      "The United Nations Framework Convention on Climate Change"
+    ],
+    "answer": 1,
+    "explanation": "The IPCC was created jointly by WMO and UNEP to assess the science, impacts, adaptation and mitigation of climate change; it does not conduct research itself.",
+    "difficulty": "easy",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kigali Amendment to the Montreal Protocol, adopted in 2016, deals with",
+    "options": [
+      "Regulation of carbon credit markets",
+      "Control of ozone-depleting CFC production",
+      "Reduction of sulphur emissions from shipping",
+      "Phase-out of hydrofluorocarbons"
+    ],
+    "answer": 3,
+    "explanation": "The Kigali Amendment, adopted at COP22 in Doha, added hydrofluorocarbons to the Montreal Protocol and required their phasedown, a measure that also curbs climate warming.",
+    "difficulty": "easy",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's pledge of net zero emissions by 2070 was announced in",
+    "options": [
+      "2021 at the Glasgow climate summit",
+      "2022 at COP27",
+      "2023 at COP28",
+      "2015 at COP21"
+    ],
+    "answer": 0,
+    "explanation": "At the Glasgow summit in November 2021 India announced a Panchamrit including net zero by 2070, presented as a long-term low emission development strategy rather than a treaty obligation.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under India's updated Nationally Determined Contribution, the country has committed to",
+    "options": [
+      "A 70 per cent reduction in absolute emissions by 2030 from 2005 levels",
+      "A 35 per cent cut in emissions intensity by 2025",
+      "A 45 per cent reduction in emissions intensity of GDP by 2030 from the 2005 level and about 50 per cent non-fossil installed electric capacity",
+      "A 100 per cent non-fossil capacity target by 2040"
+    ],
+    "answer": 2,
+    "explanation": "India's updated NDC set a 45 per cent cut in emissions intensity of GDP from 2005 by 2030, about 50 per cent cumulative installed electric power capacity from non-fossil sources by 2030 and net zero by 2070.",
+    "difficulty": "hard",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Climate adaptation differs from climate mitigation in that adaptation",
+    "options": [
+      "Reduces greenhouse gas emissions or enhances sinks",
+      "Is financed only through carbon credits",
+      "Reduces vulnerability to the impacts of climate change that has already occurred or is unavoidable",
+      "Applies only to coastal states"
+    ],
+    "answer": 2,
+    "explanation": "Adaptation adjusts systems to actual or expected climate and its effects, for example flood defences or drought-resistant crops, whereas mitigation tackles the causes by cutting emissions.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The principle of Common But Differentiated Responsibilities and Respective Capabilities in the UNFCCC implies that",
+    "options": [
+      "All states share the goal of climate protection but have different obligations according to their capacities",
+      "Developing states must accept binding targets immediately",
+      "All countries must adopt identical emission reduction targets",
+      "Only industrialised states are responsible for climate protection"
+    ],
+    "answer": 0,
+    "explanation": "CBDR-RC, elaborated in the Kyoto Protocol, recognises a common responsibility for climate protection with differentiated obligations reflecting historical responsibility and the differing capacities of states.",
+    "difficulty": "hard",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 6 of the Paris Agreement provides for",
+    "options": [
+      "A fund for the rehabilitation of coal mines",
+      "Cooperative approaches in the trading of emission reduction credits between countries",
+      "A global carbon tax on fossil fuel producers",
+      "Mandatory emission caps for all countries"
+    ],
+    "answer": 1,
+    "explanation": "Article 6 covers internationally transferred mitigation outcomes, including the mechanism for sustainable development and the Paris Agreement Crediting Mechanism, which underpin international carbon markets.",
+    "difficulty": "hard",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The global warming potential of methane over a hundred-year period is roughly how many times that of carbon dioxide?",
+    "options": [
+      "About 100",
+      "About 500",
+      "About 5",
+      "About 28"
+    ],
+    "answer": 3,
+    "explanation": "The IPCC Sixth Assessment Report gives methane a 100-year global warming potential of about 27 to 30 and nitrous oxide about 273 relative to carbon dioxide, though methane's 20-year value is far higher.",
+    "difficulty": "easy",
+    "category": "climate-change",
+    "source": "IPCC AR6",
+    "year": 2021
+  },
+  {
+    "q": "Thawing of permafrost is a climate concern mainly because it",
+    "options": [
+      "Increases the reflection of sunlight off the ground",
+      "Reduces the albedo of Arctic ice",
+      "Releases stored carbon dioxide and methane into the atmosphere",
+      "Creates new fish-rich rivers in the Arctic"
+    ],
+    "answer": 2,
+    "explanation": "Permafrost soils hold vast stores of organic carbon; thawing converts this into a carbon source through microbial decomposition, creating a positive feedback that accelerates warming.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The term climate refugee is used for persons who",
+    "options": [
+      "Are granted asylum by the Geneva Convention of 1951",
+      "Move temporarily to escape a cyclone season",
+      "Are internally displaced due to a dam project",
+      "Must move because climate change has seriously degraded their livelihoods or living conditions"
+    ],
+    "answer": 3,
+    "explanation": "Climate refugees or climate migrants are forced to move because of the adverse effects of climate change, a category not yet covered by a dedicated international legal instrument.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The first Global Stocktake under the Paris Agreement was concluded at COP28 in Dubai with the call to",
+    "options": [
+      "Transition away from fossil fuels in energy systems and triple renewables by 2030",
+      "Impose a global carbon price of 100 dollars a tonne",
+      "Expand the use of coal for energy security",
+      "Create a global climate migration compact"
+    ],
+    "answer": 0,
+    "explanation": "The 2023 UAE Consensus called for transitioning away from fossil fuels, tripling renewable capacity and doubling energy efficiency by 2030, and accelerating action in this critical decade.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Loss and Damage Fund for countries most affected by climate change was agreed at",
+    "options": [
+      "COP26, Glasgow, 2021",
+      "COP27, Sharm el-Sheikh, 2022",
+      "COP28, Dubai, 2023",
+      "COP29, Baku, 2024"
+    ],
+    "answer": 1,
+    "explanation": "COP27 in Sharm el-Sheikh agreed to establish a fund to assist developing countries with loss and damage from climate impacts, operationalised after COP28 in Dubai.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which conference adopted the Glasgow Climate Pact and saw India present its Panchamrit of climate action?",
+    "options": [
+      "COP25, Madrid, 2019",
+      "COP26, Glasgow, 2021",
+      "COP27, Sharm el-Sheikh, 2022",
+      "COP29, Baku, 2024"
+    ],
+    "answer": 1,
+    "explanation": "At COP26 in Glasgow in 2021 India presented five-fold action spanning clean energy, decarbonisation of transport and industry, climate resilient agriculture, sustainable natural resources and disaster preparedness.",
+    "difficulty": "medium",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Concentrated solar power differs from photovoltaic solar technology because CSP",
+    "options": [
+      "Converts sunlight directly into electricity through semiconductor cells",
+      "Requires no direct sunlight and works only in cloudy weather",
+      "Is used only for cooking and water heating",
+      "Uses mirrors to produce steam that drives turbines and can store heat for use after sunset"
+    ],
+    "answer": 3,
+    "explanation": "CSP plants concentrate solar radiation onto a receiver, typically in a parabolic trough or central tower, and thermal storage lets them run after sunset, unlike PV systems.",
+    "difficulty": "easy",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Jawaharlal Nehru National Solar Mission was launched in India in",
+    "options": [
+      "2015",
+      "2006",
+      "2009",
+      "2013"
+    ],
+    "answer": 2,
+    "explanation": "The JNNSM, launched in 2009, aimed at a hundred megawatt of large solar capacity and setting up decentralised solar capacity for rural electrification, and was later renamed the National Solar Mission.",
+    "difficulty": "easy",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The PM Surya Ghar Muft Bijli Yojana, launched in 2024, is aimed at",
+    "options": [
+      "Providing rooftop solar installations to households with up to 300 units of free electricity a month",
+      "Setting up large solar parks in desert states",
+      "Electrifying every agricultural pump in the country",
+      "Buying back rooftop solar power from households"
+    ],
+    "answer": 0,
+    "explanation": "The scheme, announced in the Union Budget of 2024, offers subsidy for rooftop solar to households without an existing connection and allows up to 300 units of free electricity a month.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "PIB 2024",
+    "year": 2024
+  },
+  {
+    "q": "India's first offshore wind project is being developed off the coast of",
+    "options": [
+      "Kerala",
+      "Odisha",
+      "Gujarat",
+      "Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "The first offshore wind project of about 100 MW is being set up at Pipavav in Gujarat, while the Tamil Nadu coast has been identified for a larger offshore wind zone.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Known geothermal prospects in India include",
+    "options": [
+      "Puga and Mani in Himachal Pradesh and Tattapani in Chhattisgarh",
+      "The Rann of Kutch and the Gulf of Cambay",
+      "The Sundarbans and the Godavari delta",
+      "The Bhotia thermal fields of Ladakh"
+    ],
+    "answer": 0,
+    "explanation": "Puga in Lahaul and Spiti, Mani in Kullu and Tattapani are among the principal geothermal fields explored for direct use and power generation in India.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Tidal energy in India is considered most feasible in the",
+    "options": [
+      "Gulf of Mannar and Palk Bay",
+      "Gulf of Kutch and Gulf of Cambay",
+      "Bay of Bengal and the Andaman Sea",
+      "Arabian Sea off Kerala"
+    ],
+    "answer": 1,
+    "explanation": "The narrow and shallow gulfs of Kutch and Cambay have the tidal ranges and geology needed for tidal barrages, and detailed projects have been prepared for the Kutch region.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Kudankulam, the largest nuclear power installation in India, is located in",
+    "options": [
+      "Kerala",
+      "Karnataka",
+      "Gujarat",
+      "Tamil Nadu"
+    ],
+    "answer": 3,
+    "explanation": "The Kudankulam nuclear power project in Tamil Nadu, built with Russian collaboration, is India's largest nuclear power station and a flagship example of the Russia-India nuclear cooperation agreement.",
+    "difficulty": "easy",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Kadamattom in Kerala is known for India's",
+    "options": [
+      "Only tidal barrage",
+      "Largest pumped storage hydroelectric project",
+      "First offshore wind farm",
+      "Largest solar park"
+    ],
+    "answer": 1,
+    "explanation": "The Kadamattom pumped storage project, with a large underground powerhouse and reservoirs, stores energy by pumping water uphill when surplus power is available and releases it at peak demand.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Renewable purchase obligations and renewable energy certificates in India are",
+    "options": [
+      "Instruments that compel obligated entities to buy a specified share of renewable power or the certificates issued for it",
+      "Tax rebates granted to companies that install rooftop solar",
+      "Quotas fixed for states to build hydro dams",
+      "Penalties levied on coal plants for using fossil fuels"
+    ],
+    "answer": 0,
+    "explanation": "Under the mechanism, designated consumers must meet a renewable purchase obligation, either by installing renewable capacity or by buying renewable energy certificates issued for renewable generation.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Energy Conservation Act, 2002 provided for the creation of the",
+    "options": [
+      "Central Electricity Authority only",
+      "Renewable Energy Centre",
+      "Bureau of Energy Standards",
+      "Bureau of Energy Efficiency"
+    ],
+    "answer": 3,
+    "explanation": "The Act enabled the Bureau of Energy Efficiency to set standards and labels for appliances and to run the Perform, Achieve, Trade scheme for energy-intensive industries.",
+    "difficulty": "easy",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Solar Energy Corporation of India and the Indian Renewable Energy Development Agency are the nodal agencies for",
+    "options": [
+      "Hydroelectric development and transmission",
+      "Biogas and waste-to-energy only",
+      "Renewable energy promotion and finance respectively",
+      "Coal procurement and grid operations"
+    ],
+    "answer": 2,
+    "explanation": "SECI implements government solar and renewable schemes while IREDA provides financing for renewable projects through loans and refinance support from banks and institutions.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bhadla solar park in Madhya Pradesh is significant because it is",
+    "options": [
+      "The largest rooftop solar project in the world",
+      "A floating solar park on the Narmada",
+      "An offshore solar installation in the Gulf of Kutch",
+      "One of the largest solar parks in Asia, built on degraded land"
+    ],
+    "answer": 3,
+    "explanation": "The Bhadla park in the Rewa district was developed on degraded government land and became one of the largest photovoltaic parks in Asia when expanded.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The three components of the PM-KUSUM scheme relate to",
+    "options": [
+      "Wind farms, tidal energy and geothermal heating",
+      "Electric vehicles, energy storage and hydrogen",
+      "Solar pumps, solarisation of grid-connected pumps and solar power on barren land",
+      "Rooftop solar for households, biogas plants and small hydro"
+    ],
+    "answer": 2,
+    "explanation": "PM-KUSUM focuses on providing solar power to agricultural users, including standalone solar pumps, solarisation of existing grid pumps and solar plants on barren and degraded land.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Net metering as provided in Indian electricity rules allows a rooftop solar consumer to",
+    "options": [
+      "Claim a subsidy for every unit generated",
+      "Export surplus generated power to the grid and receive credit against the electricity bill",
+      "Sell electricity at wholesale market rates to any consumer",
+      "Avoid the need for a grid connection"
+    ],
+    "answer": 1,
+    "explanation": "Under net metering the excess solar power injected into the grid is adjusted against the consumer's consumption, which encourages rooftop installations and reduces payback time.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Environment (Protection) Act, 1986 is described as an",
+    "options": [
+      "Umbrella law that gives the central government broad powers to set standards and oversee environmental protection",
+      "Act that primarily deals with the pricing of carbon credits",
+      "Law that regulates only the discharge of effluents into rivers",
+      "Statute that deals exclusively with wildlife trade"
+    ],
+    "answer": 0,
+    "explanation": "The 1986 Act is an umbrella legislation that empowers the Centre to set standards, notifications and oversight for air, water, noise, waste and industrial pollution.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Air (Prevention and Control of Pollution) Act, 1981 was India's",
+    "options": [
+      "Statute that regulates the export of e-waste",
+      "First pollution control statute, which led to the creation of the pollution control boards",
+      "Law that deals only with industrial safety",
+      "Act that created the National Green Tribunal"
+    ],
+    "answer": 1,
+    "explanation": "The Air Act of 1981 provided for the Central and State Pollution Control Boards and for the National Air Quality Monitoring and Standards programmes.",
+    "difficulty": "easy",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Water (Prevention and Control of Pollution) Act, 1974 provides for",
+    "options": [
+      "The management of municipal solid waste",
+      "The control of marine dumping of dredged material",
+      "The constitution of pollution control boards and the prevention and control of water pollution",
+      "The regulation of groundwater extraction by tubewells"
+    ],
+    "answer": 2,
+    "explanation": "The Water Act established the CPCB and SPCBs and gave them powers to control and abate water pollution and to set standards for effluents in streams and wells.",
+    "difficulty": "easy",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Wildlife (Protection) Act was substantially amended in 2022 to",
+    "options": [
+      "Strengthen protection of habitats, expand the Schedule I list and implement the Forest Rights Act provisions in protected areas",
+      "Ban all wildlife trade in the country",
+      "Transfer management of national parks to the private sector",
+      "Create the National Board for Wildlife"
+    ],
+    "answer": 0,
+    "explanation": "The 2022 amendment inserted sections on record of rights and duties of forest dwellers in protected areas, expanded schedules and increased penalties for offences.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Biodiversity Authority is a statutory body set up under",
+    "options": [
+      "The Wildlife (Protection) Act, 1972",
+      "The Environment Protection Act, 1986",
+      "The Biological Diversity Rules of 2006 only",
+      "The Biological Diversity Act, 2002"
+    ],
+    "answer": 3,
+    "explanation": "The NBA, headquartered in Chennai, implements the Biological Diversity Act of 2002 and deals with access and benefit sharing, species and habitats, and the management of protected areas.",
+    "difficulty": "easy",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 recognises rights over forest resources for",
+    "options": [
+      "All inhabitants of a district irrespective of residence",
+      "Only members of the revenue forest staff",
+      "Scheduled tribes, other traditional forest dwellers and other forest dwellers living in forest areas",
+      "Only those who own documented land titles in the forest"
+    ],
+    "answer": 2,
+    "explanation": "The 2006 Act as amended in 2021 recognises three categories of rights holders and titles such as community forest resource rights, habitat rights and individual rights.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Green Tribunal was constituted under the",
+    "options": [
+      "Environment Protection Act, 1986",
+      "Water Act, 1974",
+      "Air Act, 1981",
+      "National Green Tribunal Act, 2010"
+    ],
+    "answer": 3,
+    "explanation": "The NGT Act, 2010 created an independent body for effective enforcement of environmental rights and for redressal of environmental disputes, with the tribunal becoming operational in 2011.",
+    "difficulty": "easy",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "An appeal against the orders of the National Green Tribunal lies to the",
+    "options": [
+      "Supreme Court",
+      "High Court",
+      "Central Board of Revenue",
+      "District Court"
+    ],
+    "answer": 0,
+    "explanation": "Section 22 of the NGT Act provides for appeals to the Supreme Court, and the tribunal is expected to dispose of cases as expeditiously as possible, ordinarily within six months.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The funds raised as compensatory afforestation for diversion of forest land are managed by",
+    "options": [
+      "The Reserve Bank of India",
+      "The state-level Compensatory Afforestation Fund Management and Planning Authority",
+      "The National Green Tribunal",
+      "The Central Board of Direct Taxes"
+    ],
+    "answer": 1,
+    "explanation": "CAMPA, created by amending the Forest Conservation Act, holds the money and the state authorities plan and execute the compensatory afforestation works on unnotified forest land.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Coastal Zone Regulation Management Rules, 2010 classify the Indian coast into how many coastal regulatory zones?",
+    "options": [
+      "Two",
+      "Three",
+      "Five",
+      "Seven"
+    ],
+    "answer": 2,
+    "explanation": "The CRZ rules of 2010, notified under the Environment Protection Act, divide the coast into CRZ-I to CRZ-V with progressively relaxed norms on construction from the ecologically sensitive CRZ-I.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The right to a clean environment in India is derived from",
+    "options": [
+      "Article 21A read with Article 48A of the Constitution",
+      "Article 19(1)(g) alone",
+      "Article 44 only",
+      "Article 262 alone"
+    ],
+    "answer": 0,
+    "explanation": "Article 48A makes it a fundamental duty of the citizen to protect the environment, and Article 21A provides a right to a clean environment, both read together with Article 21.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Environment Policy of India was released in",
+    "options": [
+      "1999",
+      "2006",
+      "2012",
+      "1992"
+    ],
+    "answer": 1,
+    "explanation": "The National Environment Policy 2006 provided the vision, principles and a framework of action for integrating environmental concerns into the national development process.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Wildlife Crime Control Act, as amended in 2022, provides for",
+    "options": [
+      "A moratorium on all trade in rare plants",
+      "The creation of a separate wildlife crime force in every district",
+      "Mandatory community radio stations in tiger reserves",
+      "Special courts for wildlife offences and a central inter-agency wildlife crime control bureau"
+    ],
+    "answer": 3,
+    "explanation": "The amended Act strengthens the Wildlife Crime Control Bureau, provides for state-level bureaus and special designated courts, and raises penalties for offences under the wildlife laws.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Environmental clearance for a project is granted by the Ministry of Environment, Forest and Climate Change on the recommendation of",
+    "options": [
+      "The Supreme Court alone",
+      "The National Biodiversity Authority alone",
+      "The Central Pollution Control Board alone",
+      "The State Environment Impact Assessment Authority and the Expert Appraisal Committee"
+    ],
+    "answer": 3,
+    "explanation": "The EIA process requires scrutiny by the SEAC at the state level and the SAC at the central level before the ministry issues a final environmental clearance.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The polluter pays principle was articulated in the Indian context in",
+    "options": [
+      "The Oleum Gas Leak case of 1985",
+      "The Goa mining case of 1991",
+      "The Vellore church case of 1996",
+      "The Nairobi waste case of 2001"
+    ],
+    "answer": 0,
+    "explanation": "In the Oleum Gas Leak case the Supreme Court laid down that the cost of remedying the harm caused by industrial pollution lies with the industrial unit responsible for it.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Companies Act, 2013, corporate social responsibility includes an obligation relating to",
+    "options": [
+      "Procurement from a single vendor",
+      "Environmental sustainability",
+      "Promotion of a particular political party",
+      "Payment of dividends"
+    ],
+    "answer": 1,
+    "explanation": "Schedule VII of the Companies Act lists environmental sustainability among the CSR activities that qualifying companies may undertake, along with education, health and rural development.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Convention on Biological Diversity was opened for signature at the Rio Earth Summit in",
+    "options": [
+      "2000",
+      "1985",
+      "1992",
+      "1997"
+    ],
+    "answer": 2,
+    "explanation": "The CBD was opened for signature at the 1992 Rio Earth Summit and entered into force in 1993, with the first Conference of the Parties held in Nassau, Bahamas, in 1994.",
+    "difficulty": "easy",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The first Conference of the Parties to the Convention on Biological Diversity was held at",
+    "options": [
+      "Nairobi, Kenya, 1995",
+      "Montreal, Canada, 1996",
+      "Bali, Indonesia, 1997",
+      "Nassau, Bahamas, 1994"
+    ],
+    "answer": 3,
+    "explanation": "COP1 of the CBD was held in Nassau in November 1994 and adopted a decision on the Convention's programme of work and the global biodiversity strategy.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Nagoya Protocol adopted in 2010 under the Convention on Biological Diversity deals with",
+    "options": [
+      "The regulation of marine navigation",
+      "Access to genetic resources and the fair sharing of benefits arising from their utilisation",
+      "Transboundary movement of hazardous wastes",
+      "The phaseout of ozone depleting substances"
+    ],
+    "answer": 1,
+    "explanation": "The Nagoya Protocol, adopted at COP10 in Nagoya, is the CBD's instrument on access and benefit sharing and is implemented in India through the Biological Diversity Act.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Cartagena Protocol on Biosafety regulates",
+    "options": [
+      "The transboundary movement, handling and use of living modified organisms",
+      "The conservation of migratory birds",
+      "The dumping of radioactive waste in the ocean",
+      "The trading of endangered plants in Appendix I"
+    ],
+    "answer": 0,
+    "explanation": "The Biosafety Protocol, adopted in 2000 and in force since 2003, deals with the risks of genetically modified organisms and sets procedures for their transboundary movement.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Cartagena Convention of 1982 relates to",
+    "options": [
+      "The control of transboundary movement of hazardous wastes",
+      "The conservation of the ozone layer",
+      "Protection and development of the marine and coastal environment of the seas and oceans",
+      "The international trade in endangered species"
+    ],
+    "answer": 2,
+    "explanation": "The Cartagena Convention on the Protection and Development of the Marine and Coastal Environment of the Seas and Oceans covers regional seas and provides for the designation of particularly sensitive areas.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Vienna Convention for the Protection of the Ozone Layer was adopted in",
+    "options": [
+      "1992",
+      "1999",
+      "1985",
+      "1987"
+    ],
+    "answer": 2,
+    "explanation": "The Vienna Convention was adopted in March 1985 and provided the framework within which the Montreal Protocol and its amendments were negotiated to phase out ozone depleting substances.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Stockholm Convention on Persistent Organic Pollutants was adopted in",
+    "options": [
+      "2001",
+      "2005",
+      "2009",
+      "1998"
+    ],
+    "answer": 0,
+    "explanation": "The Stockholm Convention, adopted in May 2001, lists persistent organic pollutants such as aldrin, dieldrin and DDT for elimination or restriction of production and use.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rotterdam Convention deals with",
+    "options": [
+      "The regulation of trade in timber",
+      "Prior informed consent procedure for the import of certain hazardous chemicals and pesticides",
+      "The reduction of sulphur dioxide emissions from ships",
+      "The protection of plant genetic resources"
+    ],
+    "answer": 1,
+    "explanation": "The Rotterdam Convention on the Prior Informed Consent Procedure requires importing parties to be informed and to give consent before importing listed chemicals and pesticides, many of them persistent organic pollutants.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ban Amendment to the Basel Convention prohibits",
+    "options": [
+      "All trade in recyclable plastics between developed countries",
+      "The export of agricultural produce from developing countries",
+      "Imports of e-waste into any country",
+      "Transboundary shipments of hazardous waste destined for landfill or incineration"
+    ],
+    "answer": 3,
+    "explanation": "The Ban Amendment, in force since 2019, bars exporting hazardous waste from developed to developing countries for landfill, incineration and recycling, so that such waste cannot be dumped.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The United Nations Convention on the Law of the Sea was adopted in",
+    "options": [
+      "1972",
+      "1982",
+      "1994",
+      "2000"
+    ],
+    "answer": 1,
+    "explanation": "UNCLOS was adopted at Montego Bay, Jamaica, in 1982 and entered into force in 1994; it codifies the rights of coastal and flag states, including the 200-mile exclusive economic zone.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Convention on the Conservation of Migratory Species of Wild Animals, also called the Bonn Convention, was adopted in",
+    "options": [
+      "1979",
+      "1985",
+      "1992",
+      "1971"
+    ],
+    "answer": 0,
+    "explanation": "The Bonn Convention was adopted in June 1979 and operates through memoranda of understanding on specific species groups, such as for the African-Eurasian and Asian-Australasian flyways.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Montreux Amendment to the Ramsar Convention, adopted in 2022,",
+    "options": [
+      "Created a new category of World Heritage Sites",
+      "Set limits on wetland tourism",
+      "Required Ramsar sites to become biosphere reserves",
+      "Introduced climate change considerations into the definition of wetlands"
+    ],
+    "answer": 3,
+    "explanation": "The Montreux Amendment explicitly recognises that wetlands are integral to the climate system and that their loss or degradation can contribute to greenhouse gas emissions and climate change impacts.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The United Nations Convention to Combat Desertification addresses",
+    "options": [
+      "Regulation of greenhouse gas emissions from shipping",
+      "Conservation of migratory birds in wetlands",
+      "Land degradation and desertification in drylands and the reduction of poverty",
+      "Protection of marine mammals in polar waters"
+    ],
+    "answer": 2,
+    "explanation": "UNCCD, adopted in 1994, aims at preventing desertification, mitigating land degradation and improving the livelihoods of people in dryland areas.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Agreement under the United Nations Convention on the Law of the Sea on the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction, known as the High Seas Treaty, was adopted in",
+    "options": [
+      "2018",
+      "2020",
+      "2023",
+      "2025"
+    ],
+    "answer": 2,
+    "explanation": "The BBNJ Agreement, known as the High Seas Treaty, was adopted in June 2023 and opens for signature and ratification, enabling marine protected areas in international waters.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The International Seabed Authority, which regulates activities in the deep seabed beyond national jurisdiction, was established under",
+    "options": [
+      "The UNCLOS Part XI Agreement of 1994",
+      "The United Nations Convention on the Law of the Sea",
+      "The Rio Declaration on Environment and Development",
+      "The Convention on Biological Diversity"
+    ],
+    "answer": 1,
+    "explanation": "The ISA was established by UNCLOS in 1994 to administer the mineral resources of the deep seabed and issues exploitation regulations; the 1994 agreement harmonised the convention with the interests of developing states.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Aarhus Convention, adopted in 1998, concerns",
+    "options": [
+      "Access to information, public participation and access to justice in environmental matters",
+      "The pricing of carbon credits in international markets",
+      "The protection of cultural heritage sites under water",
+      "The regulation of fisheries subsidies"
+    ],
+    "answer": 0,
+    "explanation": "The Aarhus Convention of the UN Economic Commission for Europe established the pillars of environmental democracy, often called the Aarhus Convention, and inspired Indian environmental legislation on public participation.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Disaster Management Act, 2005 in India was enacted following the",
+    "options": [
+      "Bhopal gas tragedy of 1984",
+      "Super cyclone of 1999 in Odisha",
+      "Kashmir earthquake of 2005",
+      "Gujarat earthquake of 2001 and the Indian Ocean tsunami of 2004"
+    ],
+    "answer": 3,
+    "explanation": "The experience of the Gujarat earthquake and the December 2004 tsunami led to the enactment of the Disaster Management Act in 2005, creating the NDMA, SDMA and DDMA structure.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The four priorities for disaster risk reduction of the Sendai Framework for Disaster Risk Reduction 2015-2030 are",
+    "options": [
+      "Assessment, mapping, warning and evacuation",
+      "Understanding disaster risk, strengthening governance, investing in resilience, and building back better in recovery",
+      "Prevention, mitigation, response and rehabilitation",
+      "Preparedness, response, recovery and reconstruction"
+    ],
+    "answer": 1,
+    "explanation": "The Sendai Framework, adopted in March 2015, has four priorities for action: understanding risk, strengthening governance, investing in resilience and enhancing preparedness for effective response and build back better.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Response Framework in India is a part of",
+    "options": [
+      "The Sendai Framework of the United Nations",
+      "The National Water Policy",
+      "The National Urban Sanitation Policy",
+      "The national disaster management guidelines issued by the NDMA in 2016"
+    ],
+    "answer": 3,
+    "explanation": "The NDMA's National Disaster Management Guidelines of 2016 include the National Response Framework, which lays out the roles of all responders in an incident and the standard operating procedures for different hazards.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The State Disaster Response Fund is constituted and administered by",
+    "options": [
+      "The National Disaster Management Authority",
+      "The Reserve Bank of India",
+      "The state government, with the Chief Executive Committee chaired by the Chief Minister",
+      "The central government directly"
+    ],
+    "answer": 2,
+    "explanation": "The SDRF is a centrally funded pool with the state in charge of its utilisation, while the NDRF is maintained by the central government for response to severe calamities, as provided under the DM Act.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The PM CARES Fund was created in 2020 for",
+    "options": [
+      "Health, disaster relief and other charitable works during the COVID-19 pandemic and similar emergencies",
+      "Funding of all state disaster response funds",
+      "Establishment of the National Disaster Response Force",
+      "Financing of the India Carbon Credit Trading Scheme"
+    ],
+    "answer": 0,
+    "explanation": "The PM's Citizen Assistance and Relief in Emergency Situations Fund was created in March 2020 and has since been used for relief work and for responding to the COVID-19 pandemic and other emergencies.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Disaster Response Force is raised and commanded by",
+    "options": [
+      "The Chief Minister of the affected state",
+      "The Governor of the state",
+      "The Chairman of the National Development Council",
+      "The Director General of the NDRF under the Ministry of Home Affairs"
+    ],
+    "answer": 3,
+    "explanation": "The NDRF, with sixteen battalions, is a centrally armed force under the Ministry of Home Affairs directed by a Director General and deployed by the state authorities for rescue and response operations.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "According to the India Meteorological Department, a heat wave is declared over a plain region when the maximum temperature is at least",
+    "options": [
+      "40 degrees Celsius",
+      "42 degrees Celsius",
+      "45 degrees Celsius",
+      "35 degrees Celsius"
+    ],
+    "answer": 0,
+    "explanation": "IMD declares a heat wave when the maximum temperature in a plain exceeds 40 degrees Celsius, or 30 degrees Celsius for hilly areas, with a departure of at least 4.5 degrees Celsius from the normal.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "IMD",
+    "year": null
+  },
+  {
+    "q": "The Indian Tsunami Early Warning Centre and the ocean forecast services of India are operated by",
+    "options": [
+      "The National Institute of Oceanography at Goa",
+      "The Indian National Centre of Ocean Information Services at Chennai",
+      "The National Remote Sensing Centre at Hyderabad",
+      "The Geological Survey of India at Kolkata"
+    ],
+    "answer": 1,
+    "explanation": "INCOIS, under the Ministry of Earth Sciences, operates the Indian Tsunami Early Warning Centre and issues forecasts for storm surges, ocean waves and cyclone tracks for the Indian Ocean.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Cyclones in the north Indian Ocean are given names by",
+    "options": [
+      "The World Bank",
+      "The Intergovernmental Oceanographic Commission",
+      "The India Meteorological Department from a regional list of names agreed by the WMO/ESCAP Panel",
+      "The United Nations Security Council"
+    ],
+    "answer": 2,
+    "explanation": "Since 2004 the IMD has been naming north Indian Ocean cyclones using a list of 169 names suggested by the eight member countries of the WMO/ESCAP Panel on Tropical Cyclones.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Indian Ocean tsunami of December 2004 first hit the Indian coast at",
+    "options": [
+      "Chennai in Tamil Nadu",
+      "The Meenachil beach at Nagapatnam in Odisha",
+      "Kochi in Kerala",
+      "Digha in West Bengal"
+    ],
+    "answer": 1,
+    "explanation": "The waves generated by the magnitude 8.1 undersea earthquake off Sumatra struck the Odisha coast near Nagapatnam on 26 December 2004 before reaching the Tamil Nadu and Andhra coasts.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 2013 Cyclone Phailin in Odisha is remembered for",
+    "options": [
+      "The largest evacuation of about ten lakh people from the coastal districts with very few deaths",
+      "The highest wind speed ever recorded on the Indian coast",
+      "The destruction of the Chilika lake ecosystem",
+      "The first use of satellite navigation by the NDRF"
+    ],
+    "answer": 0,
+    "explanation": "Massive evacuation ahead of landfall, guided by the IMD forecasts and the state administration, kept the death toll in the low tens compared with about ten thousand deaths in the 1999 super cyclone.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a well known instance of a cloudburst disaster in India?",
+    "options": [
+      "The earthquake of 1934 in Bihar",
+      "The tsunami of 2004 in Odisha",
+      "The Leh cloudburst of 2010",
+      "The cyclone of 1999 in Odisha"
+    ],
+    "answer": 2,
+    "explanation": "The August 2010 cloudburst over Leh in Ladakh caused flash floods and mudslides with heavy loss of life, and the 2013 Kedarnath disaster in Uttarakhand was similarly linked to intense cloudbursts.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Urban flooding in Indian cities has been aggravated chiefly by",
+    "options": [
+      "The failure of nuclear power plants",
+      "Overuse of groundwater for irrigation",
+      "The expansion of coastal fisheries",
+      "Encroachment of natural drainage channels and impervious surfaces coupled with short-duration heavy rainfall"
+    ],
+    "answer": 3,
+    "explanation": "Concrete surfaces, filled wetlands and encroached floodplains reduce infiltration and storage, so even moderate cloudbursts over cities such as Chennai in 2015 and Mumbai cause severe waterlogging.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Wayanad landslides of July 2024 occurred in",
+    "options": [
+      "Tamil Nadu",
+      "Goa",
+      "Kerala",
+      "Karnataka"
+    ],
+    "answer": 2,
+    "explanation": "The intensely heavy monsoon rain of July 2024 triggered landslides in the Wayanad district of Kerala, causing widespread destruction in the villages of Chooralmala, Mundakkai and Chooralmala region.",
+    "difficulty": "easy",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Drought management in India is principally the responsibility of the",
+    "options": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Ministry of Rural Development",
+      "Ministry of Earth Sciences",
+      "Department of Drinking Water and Sanitation under the Ministry of Jal Shakti"
+    ],
+    "answer": 3,
+    "explanation": "The Department of Drinking Water and Sanitation handles drought mitigation through drinking water supply and the National Rural Drinking Water Programme, while NDMA issues drought guidelines.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Building Code of India, which provides for disaster resistant construction, was published by",
+    "options": [
+      "The Indian Institute of Technology",
+      "The Bureau of Indian Standards",
+      "The Ministry of Housing and Urban Affairs only",
+      "The National Remote Sensing Centre"
+    ],
+    "answer": 1,
+    "explanation": "The NBC 2005, developed by the BIS with inputs from eleven technical agencies, deals with earthquake, wind and flood safety provisions for buildings across the country.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Chamoli disaster of February 2021 in Uttarakhand was a",
+    "options": [
+      "Rock and ice avalanche triggered by a rock-ice avalanche from a glacier",
+      "Cyclone induced storm surge",
+      "Cloudburst leading to a dam failure",
+      "Submarine landslide generating a tsunami"
+    ],
+    "answer": 0,
+    "explanation": "A massive rock-ice avalanche from the Ronti Peak area struck the Rishiganga and Dhauliganga rivers, causing flash floods and debris flows with hundreds of deaths.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The global initiative Early Warnings for All seeks to",
+    "options": [
+      "Provide insurance to all disaster affected households",
+      "Standardise cyclone nomenclature worldwide",
+      "Ensure that every country has multi-hazard early warning systems by 2027",
+      "Ban all construction in hazard prone zones by 2030"
+    ],
+    "answer": 2,
+    "explanation": "The UN initiative launched in 2022 aims for universal multi-hazard early warning coverage by 2027, supported by the Early Warnings for All Executive Group and the Global Multi-Hazard Early Warning System.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In India, the National Fire Service and civil defence measures are administered by the",
+    "options": [
+      "Ministry of Home Affairs",
+      "Ministry of Environment, Forest and Climate Change",
+      "Ministry of Housing and Urban Affairs",
+      "Ministry of Earth Sciences"
+    ],
+    "answer": 0,
+    "explanation": "Fire prevention and fire services, including the National Fire Service and the National Disaster Management Authority's fire guidelines, fall within the Home Ministry, while state disaster management authorities handle local response.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The term blue economy refers to",
+    "options": [
+      "The high seas area beyond national jurisdiction",
+      "The fisheries sector alone",
+      "Only the tourism potential of beaches",
+      "The sustainable use of ocean and coastal resources for economic activity, livelihoods and resilience"
+    ],
+    "answer": 3,
+    "explanation": "Blue economy covers the sustainable use of marine and coastal resources including fisheries, aquaculture, tourism, renewable energy and ocean observation, and is central to India's maritime economy.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Energy storage is critical in a renewable-dominated electricity grid mainly because it",
+    "options": [
+      "Eliminates the need for forecasting of wind resources",
+      "Balances the intermittent nature of solar and wind generation against hourly demand",
+      "Increases the calorific value of coal",
+      "Reduces the need for transmission lines"
+    ],
+    "answer": 1,
+    "explanation": "Because solar and wind output varies with weather and time of day, storage in batteries, pumped hydro or thermal form shifts surplus generation to periods of peak demand and steadies the grid.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

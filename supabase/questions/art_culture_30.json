@@ -1,0 +1,452 @@
+[
+  {
+    "q": "The Sanchi stupa's original core brick structure was built under which ruler?",
+    "options": [
+      "Ashoka",
+      "Kanishka",
+      "Samudragupta",
+      "Harsha"
+    ],
+    "answer": 0,
+    "explanation": "The original brick stupa at Sanchi was built by Ashoka and later enlarged and faced with stone.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The chaitya hall at Karle was excavated mainly under the patronage of which dynasty?",
+    "options": [
+      "Gupta",
+      "Chola",
+      "Satavahana",
+      "Maurya"
+    ],
+    "answer": 3,
+    "explanation": "The great rock-cut chaitya hall at Karle was excavated chiefly under Satavahana patronage.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Lomas Rishi cave facade imitates which architectural feature?",
+    "options": [
+      "wooden chaitya arch",
+      "stupa dome",
+      "torana gateway",
+      "vimana tower"
+    ],
+    "answer": 2,
+    "explanation": "The Lomas Rishi cave in the Barabar hills has a facade that imitates a wooden chaitya arch.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which material was chiefly used for carving the Gandhara school Buddha images?",
+    "options": [
+      "Marble",
+      "Bronze",
+      "Grey schist",
+      "Sandstone"
+    ],
+    "answer": 1,
+    "explanation": "Gandhara school Buddha images were typically carved in grey schist, reflecting Greco-Roman influence.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Didarganj Yakshi sculpture belongs to which period?",
+    "options": [
+      "Mauryan",
+      "Gupta",
+      "Chola",
+      "Pala"
+    ],
+    "answer": 0,
+    "explanation": "The Didarganj Yakshi, with its highly polished surface and chauri, is a Mauryan period sculpture.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Chola bronze images were cast using which technique?",
+    "options": [
+      "Repousse",
+      "Chiselling",
+      "Lost-wax casting",
+      "Sand casting"
+    ],
+    "answer": 3,
+    "explanation": "The Chola bronze images were cast using the lost-wax casting technique.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Who wrote the collection of poems 'Gitanjali'?",
+    "options": [
+      "Premchand",
+      "Rabindranath Tagore",
+      "Bankim Chandra",
+      "Sarojini Naidu"
+    ],
+    "answer": 2,
+    "explanation": "The collection of poems 'Gitanjali' was written by Rabindranath Tagore.",
+    "difficulty": "easy",
+    "category": "literature",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Diwali is celebrated on the new moon day of which lunar month?",
+    "options": [
+      "Vaishakha",
+      "Kartika",
+      "Ashvina",
+      "Chaitra"
+    ],
+    "answer": 3,
+    "explanation": "Diwali is celebrated on the new moon day (amavasya) of the lunar month Kartika.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Who wrote the novel 'Godan'?",
+    "options": [
+      "Bankim Chandra",
+      "Sharatchandra",
+      "Premchand",
+      "Rabindranath Tagore"
+    ],
+    "answer": 1,
+    "explanation": "The novel 'Godan' was written by Munshi Premchand.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Nataraja of Chidambaram is a famous example of which art form?",
+    "options": [
+      "Pala bronze",
+      "Terracotta",
+      "Chola bronze sculpture",
+      "Gupta stone sculpture"
+    ],
+    "answer": 2,
+    "explanation": "The Nataraja of Chidambaram is a famous example of Chola bronze sculpture.",
+    "difficulty": "easy",
+    "category": "ancient-art",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Kailasa temple at Ellora was built by which dynasty?",
+    "options": [
+      "Rashtrakuta",
+      "Chalukya",
+      "Pallava",
+      "Chola"
+    ],
+    "answer": 0,
+    "explanation": "The Kailasa temple at Ellora was built by the Rashtrakuta king Krishna I in the 8th century.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Ramappa temple (Kakatiya) at Warangal was inscribed as a UNESCO World Heritage site in which year?",
+    "options": [
+      "2023",
+      "2021",
+      "2019",
+      "2017"
+    ],
+    "answer": 1,
+    "explanation": "The Ramappa temple was inscribed as a UNESCO World Heritage site in 2021.",
+    "difficulty": "medium",
+    "category": "unesco-and-heritage",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Kangra school of painting flourished in which region?",
+    "options": [
+      "Punjab",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Himachal Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "The Kangra school of painting flourished in Himachal Pradesh under Raja Sansar Chand.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Tamil Nadu is correct?",
+    "options": [
+      "Andhra Pradesh",
+      "Karnataka",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "answer": 2,
+    "explanation": "The festival of Pongal is celebrated in Tamil Nadu as a harvest festival.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Kerala is correct?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "The festival of Thrissur Pooram is celebrated in Kerala.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Arthashastra', the treatise on statecraft, is attributed to which author?",
+    "options": [
+      "Kautilya",
+      "Banabhatta",
+      "Kalidasa",
+      "Panini"
+    ],
+    "answer": 0,
+    "explanation": "The Arthashastra is attributed to Kautilya (Chanakya), the minister of Chandragupta Maurya.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which GI tagged handicraft is the clay toy of Channapatna in Karnataka?",
+    "options": [
+      "Nirmal toys",
+      "Channapatna toys",
+      "Kondapalli toys",
+      "Thanjavur dolls"
+    ],
+    "answer": 1,
+    "explanation": "Channapatna toys are GI tagged clay and wood lacquerware toys from Karnataka.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The varaha panel at Udayagiri near Vidisha shows Vishnu rescuing which figure?",
+    "options": [
+      "Lakshmi",
+      "Brahma",
+      "Indra",
+      "Earth (Prithvi)"
+    ],
+    "answer": 3,
+    "explanation": "The Varaha panel shows Vishnu in his boar avatar rescuing the Earth goddess from the cosmic waters.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The festival of Vaisakhi is a harvest festival celebrated in which state?",
+    "options": [
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Punjab",
+      "Haryana"
+    ],
+    "answer": 2,
+    "explanation": "Vaisakhi is a harvest festival celebrated in Punjab.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Phad painting tradition belongs to which state?",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Maharashtra"
+    ],
+    "answer": 0,
+    "explanation": "The Phad painting tradition belongs to Rajasthan and depicts stories of local deities.",
+    "difficulty": "easy",
+    "category": "handicrafts-and-folk",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Mrichchhakatika' was written by which author?",
+    "options": [
+      "Bhasa",
+      "Bharavi",
+      "Sudraka",
+      "Kalidasa"
+    ],
+    "answer": 2,
+    "explanation": "The 'Mrichchhakatika' was written by Sudraka.",
+    "difficulty": "hard",
+    "category": "literature",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Buddha Charita' was written by which author?",
+    "options": [
+      "Vasubandhu",
+      "Nagarjuna",
+      "Dignaga",
+      "Ashvaghosha"
+    ],
+    "answer": 3,
+    "explanation": "The 'Buddha Charita' was written by Ashvaghosha.",
+    "difficulty": "hard",
+    "category": "literature",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Warli painting is practised mainly by which community?",
+    "options": [
+      "Santhal of Jharkhand",
+      "Tribal community of Maharashtra",
+      "Bhil of Madhya Pradesh",
+      "Gond of Chhattisgarh"
+    ],
+    "answer": 1,
+    "explanation": "Warli painting is practised mainly by the tribal community of Maharashtra.",
+    "difficulty": "easy",
+    "category": "painting",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The festival of Onam is the harvest festival of which state?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "Onam is the harvest festival of Kerala.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Who wrote the 'Rajatarangini', a chronicle of the kings of Kashmir?",
+    "options": [
+      "Harsha",
+      "Kalhana",
+      "Banabhatta",
+      "Kalidasa"
+    ],
+    "answer": 1,
+    "explanation": "The 'Rajatarangini' was written by Kalhana, a chronicle of the kings of Kashmir.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Gudivada' and 'Kalamkari' of Andhra Pradesh traditionally used which dyes?",
+    "options": [
+      "Mineral pigments",
+      "Animal dyes",
+      "Natural vegetable dyes",
+      "Synthetic dyes"
+    ],
+    "answer": 3,
+    "explanation": "Kalamkari traditionally used natural vegetable dyes and a mordant of iron or alum.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Chariot' or 'Ratha' temples at Mahabalipuram were built by which dynasty?",
+    "options": [
+      "Chera",
+      "Pallava",
+      "Chola",
+      "Pandya"
+    ],
+    "answer": 2,
+    "explanation": "The ratha temples at Mahabalipuram were built by the Pallava dynasty.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Rigveda' is organised into how many mandalas (books)?",
+    "options": [
+      "Four",
+      "Ten",
+      "Eight",
+      "Twelve"
+    ],
+    "answer": 0,
+    "explanation": "The Rigveda is organised into ten mandalas.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Seven is correct?",
+    "options": [
+      "Eight",
+      "Six",
+      "Seven",
+      "Five"
+    ],
+    "answer": 2,
+    "explanation": "The Ramayana of Valmiki is divided into seven kandas.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Arthashastra' deals primarily with which subject?",
+    "options": [
+      "Astrology",
+      "Statecraft and economic policy",
+      "Medicine",
+      "Grammar"
+    ],
+    "answer": 3,
+    "explanation": "The Arthashastra deals primarily with statecraft and economic policy.",
+    "difficulty": "medium",
+    "category": "literature",
+    "source": "NCERT Class XI",
+    "year": null
+  }
+]

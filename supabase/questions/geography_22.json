@@ -1,0 +1,4907 @@
+[
+  {
+    "q": "The Tropic of Cancer, the Equator and the Tropic of Capricorn divide the earth into how many climatic zones?",
+    "options": [
+      "Five",
+      "Seven",
+      "Nine",
+      "Three"
+    ],
+    "answer": 0,
+    "explanation": "The earth is divided into five climatic zones: the torrid, the north temperate, the south temperate, the frigid and the polar zones.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the outermost layer of the Earth?",
+    "options": [
+      "Mantle",
+      "Crust",
+      "Inner core",
+      "Outer core"
+    ],
+    "answer": 1,
+    "explanation": "The crust is the outermost and thinnest layer, the mantle lies below it, and the core forms the innermost part of the Earth.",
+    "difficulty": "easy",
+    "category": "physical-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Sial and Sima correspond to which layers of the Earth?",
+    "options": [
+      "Inner core and outer core",
+      "Crust and mantle",
+      "Mantle and core",
+      "Core and mantle"
+    ],
+    "answer": 1,
+    "explanation": "Sial (silica and alumina) is the continental crust while Sima (silica and magnesium) makes up the oceanic crust and the upper mantle.",
+    "difficulty": "hard",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Moho discontinuity' separates the:",
+    "options": [
+      "Mantle and core",
+      "Outer core and inner core",
+      "Lithosphere and asthenosphere",
+      "Crust and mantle"
+    ],
+    "answer": 3,
+    "explanation": "The Mohorovicic discontinuity, discovered by Andrija Mohorovicic, separates the crust from the mantle.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Gutenberg discontinuity lies between the:",
+    "options": [
+      "Lithosphere and asthenosphere",
+      "Crust and mantle",
+      "Upper mantle and lower mantle",
+      "Outer core and inner core"
+    ],
+    "answer": 2,
+    "explanation": "The Gutenberg discontinuity marks the boundary between the lower mantle and the outer core at a depth of about 2,900 km.",
+    "difficulty": "hard",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the deepest point of the ocean floor?",
+    "options": [
+      "Mariana Trench",
+      "Puerto Rico Trench",
+      "Tonga Trench",
+      "Philippine Trench"
+    ],
+    "answer": 0,
+    "explanation": "The Mariana Trench in the western Pacific, with the Challenger Deep at over 10,900 metres, is the deepest known part of the ocean floor.",
+    "difficulty": "easy",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ring of Fire' is associated with:",
+    "options": [
+      "The great desert belt",
+      "The belt of volcanoes around the Pacific Ocean",
+      "The Coral Triangle",
+      "The Mediterranean coast"
+    ],
+    "answer": 1,
+    "explanation": "The Ring of Fire is the belt of active volcanoes and earthquake zones encircling the Pacific Ocean.",
+    "difficulty": "easy",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Dividing Range' separates:",
+    "options": [
+      "Eastern and western Australia",
+      "The Pacific Ocean from the Indian Ocean",
+      "China from Siberia",
+      "Europe from Asia"
+    ],
+    "answer": 0,
+    "explanation": "The Great Dividing Range or the Eastern Highlands runs parallel to Australia's east coast and separates the coastal plains from the interior basin.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Caledonian' mountains were formed in the:",
+    "options": [
+      "Cenozoic era",
+      "Hercynian period",
+      "Palaeozoic era",
+      "Mesozoic era"
+    ],
+    "answer": 2,
+    "explanation": "The Caledonian mountains formed in the Palaeozoic era and include the Scandinavian mountains and the Scottish Highlands.",
+    "difficulty": "hard",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Alpine orogeny' mainly affected which region?",
+    "options": [
+      "The Urals",
+      "The Himalayas and Tibet",
+      "The Appalachians",
+      "Southern Europe and the Alps"
+    ],
+    "answer": 3,
+    "explanation": "The Alpine orogeny formed the Alps, the Caucasus, the Atlas and the Himalayas during the Alpine or tertiary period.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest island of the Mediterranean?",
+    "options": [
+      "Sardinia",
+      "Crete",
+      "Sicily",
+      "Cyprus"
+    ],
+    "answer": 2,
+    "explanation": "Sicily, with an area of about 25,700 square kilometres, is the largest island in the Mediterranean Sea.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which river is the longest in South America?",
+    "options": [
+      "Magdalena",
+      "Paraná",
+      "Orinoco",
+      "Amazon"
+    ],
+    "answer": 3,
+    "explanation": "The Amazon is the largest river by discharge and the longest in South America, flowing about 6,400 kilometres into the Atlantic.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which river drains the largest area in the world?",
+    "options": [
+      "Nile",
+      "Amazon",
+      "Mississippi",
+      "Yangtze"
+    ],
+    "answer": 1,
+    "explanation": "The Amazon basin covers about 7 million square kilometres, the largest drainage basin in the world.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Danube river flows into which sea?",
+    "options": [
+      "Black Sea",
+      "Adriatic Sea",
+      "Caspian Sea",
+      "Baltic Sea"
+    ],
+    "answer": 0,
+    "explanation": "The Danube empties into the Black Sea through a large delta in Romania, after passing through ten countries.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the world's largest desert?",
+    "options": [
+      "Sahara Desert",
+      "Gobi Desert",
+      "Arabian Desert",
+      "Thar Desert"
+    ],
+    "answer": 0,
+    "explanation": "The Sahara, at about 9.2 million square kilometres, is the largest hot desert, while the Antarctic desert is the largest desert overall.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Roof of the World' is a description of:",
+    "options": [
+      "The Scandinavian mountains",
+      "The Andes",
+      "The Pamirs",
+      "The Alps"
+    ],
+    "answer": 2,
+    "explanation": "The Pamir mountains of Central Asia, known as the Roof of the World, contain several peaks above 7,000 metres.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Land of the Midnight Sun' refers to:",
+    "options": [
+      "Iceland",
+      "Finland",
+      "Denmark",
+      "Norway and Sweden"
+    ],
+    "answer": 3,
+    "explanation": "Norway and Sweden, lying partly inside the Arctic Circle, are known as the land of the midnight sun in summer.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which country has the longest coastline in the world?",
+    "options": [
+      "Russia",
+      "Canada",
+      "Norway",
+      "Indonesia"
+    ],
+    "answer": 1,
+    "explanation": "Canada has the longest coastline in the world, over 200,000 kilometres, because of its many islands.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Land of the Rising Sun' is:",
+    "options": [
+      "Japan",
+      "Korea",
+      "Thailand",
+      "China"
+    ],
+    "answer": 0,
+    "explanation": "Japan, the Land of the Rising Sun, is an archipelago of about 6,800 islands in East Asia.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest country in the world by area?",
+    "options": [
+      "Canada",
+      "Russia",
+      "China",
+      "United States"
+    ],
+    "answer": 1,
+    "explanation": "Russia, spanning eleven time zones, is the largest country in the world by area.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the most populous country in the world as per recent estimates?",
+    "options": [
+      "China",
+      "Indonesia",
+      "USA",
+      "India"
+    ],
+    "answer": 3,
+    "explanation": "India overtook China in 2023 to become the most populous country in the world.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which two countries share the longest land border between India and a neighbour?",
+    "options": [
+      "India and Nepal",
+      "India and China",
+      "India and Pakistan",
+      "India and Bangladesh"
+    ],
+    "answer": 2,
+    "explanation": "India and Pakistan share a border of about 3,323 kilometres, the longest between India and any neighbouring country.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the highest peak in Africa?",
+    "options": [
+      "Mount Kenya",
+      "Mount Kilimanjaro",
+      "Mount Elbrus",
+      "Atlas Peak"
+    ],
+    "answer": 1,
+    "explanation": "Mount Kilimanjaro in Tanzania, at 5,895 metres, is the highest peak in Africa and the highest free-standing mountain in the world.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest island of Africa?",
+    "options": [
+      "Madagascar",
+      "Zanzibar",
+      "Mauritius",
+      "Socotra"
+    ],
+    "answer": 0,
+    "explanation": "Madagascar, in the Indian Ocean, is the largest island of Africa and the fourth largest in the world.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pampas' of Argentina are:",
+    "options": [
+      "High plateaus",
+      "Deserts",
+      "Grasslands",
+      "Floodplains"
+    ],
+    "answer": 2,
+    "explanation": "The Pampas are the fertile grasslands of central Argentina, the country's main agricultural region.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cerrado' of Brazil is a region of:",
+    "options": [
+      "Desert",
+      "Tundra",
+      "Tropical rainforest",
+      "Savanna"
+    ],
+    "answer": 3,
+    "explanation": "The Cerrado is the vast savanna of central Brazil, known as the 'inverted forest' because of its deep roots and twisted trunks.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest island of the Mediterranean by population?",
+    "options": [
+      "Cyprus",
+      "Sardinia",
+      "Crete",
+      "Sicily"
+    ],
+    "answer": 0,
+    "explanation": "Cyprus is the most populous island of the Mediterranean with more than a million inhabitants.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Fertile Crescent' region is associated with the early:",
+    "options": [
+      "Maritime trade",
+      "Gunpowder empires",
+      "Rise of agriculture and settled civilisations",
+      "Iron smelting"
+    ],
+    "answer": 2,
+    "explanation": "The Fertile Crescent, extending from Mesopotamia through the Levant to Egypt, is where agriculture and settled civilisations first developed.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following countries is a member of the European Union?",
+    "options": [
+      "Turkey",
+      "Norway",
+      "Switzerland",
+      "Germany"
+    ],
+    "answer": 3,
+    "explanation": "Germany is a founding member of the European Union; Norway and Switzerland are not members and Turkey is an aspirant.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chornobyl' nuclear disaster occurred in:",
+    "options": [
+      "Russia",
+      "Ukraine",
+      "Belarus",
+      "Kazakhstan"
+    ],
+    "answer": 1,
+    "explanation": "The 1986 Chernobyl disaster occurred at the plant in the Ukrainian SSR, in the then Soviet Union.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Panama Canal' connects the:",
+    "options": [
+      "Mediterranean and Atlantic Oceans",
+      "Black Sea and Mediterranean",
+      "Atlantic and Pacific Oceans",
+      "Indian and Pacific Oceans"
+    ],
+    "answer": 2,
+    "explanation": "The Panama Canal links the Atlantic Ocean with the Pacific Ocean, cutting out the long route around South America.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Suez Canal' connects the Mediterranean Sea with:",
+    "options": [
+      "The Red Sea",
+      "The Persian Gulf",
+      "The Indian Ocean",
+      "The Atlantic Ocean"
+    ],
+    "answer": 0,
+    "explanation": "The Suez Canal connects the Mediterranean Sea with the Red Sea and is a key part of the Europe-Asia maritime route.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which country has the largest number of islands in the world?",
+    "options": [
+      "Japan",
+      "Sweden",
+      "Indonesia",
+      "Philippines"
+    ],
+    "answer": 1,
+    "explanation": "Sweden has the greatest number of islands, more than 267,570, followed by Norway.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Weddell Sea' is located in:",
+    "options": [
+      "North Pacific",
+      "Baltic Sea",
+      "Arctic Ocean",
+      "Antarctic region"
+    ],
+    "answer": 3,
+    "explanation": "The Weddell Sea is a marginal sea of the Southern Ocean adjacent to the Antarctic Peninsula.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the largest bay in the world?",
+    "options": [
+      "Bay of Bengal",
+      "Bay of Fundy",
+      "Bengal Bay",
+      "Gulf of Mexico"
+    ],
+    "answer": 1,
+    "explanation": "The Bay of Fundy in Canada has the highest tidal range in the world, exceeding 16 metres.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which two oceans border the southern tip of Africa?",
+    "options": [
+      "Atlantic and Indian",
+      "Pacific and Atlantic",
+      "Indian and Pacific",
+      "Indian and Southern"
+    ],
+    "answer": 0,
+    "explanation": "The Cape of Good Hope marks the meeting point of the Atlantic and the Indian Oceans.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest island of the Pacific Ocean?",
+    "options": [
+      "Oahu",
+      "Madagascar",
+      "New Guinea",
+      "Borneo"
+    ],
+    "answer": 2,
+    "explanation": "New Guinea, the world's second largest island, is the largest island in the Pacific Ocean.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which current is the cold current flowing along the coast of Peru?",
+    "options": [
+      "El Nino Current",
+      "Brazil Current",
+      "Benguela Current",
+      "Peru Current"
+    ],
+    "answer": 3,
+    "explanation": "The Peru or Humboldt Current is a cold current that supports the world's richest anchovy fishery.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Pacific Garbage Patch' is located in the:",
+    "options": [
+      "Mediterranean Sea",
+      "North Atlantic Ocean",
+      "North Pacific Ocean",
+      "Indian Ocean"
+    ],
+    "answer": 2,
+    "explanation": "The Great Pacific Garbage Patch is a system of marine debris in the North Pacific Subtropical Convergence Zone.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the deepest ocean trench in the Indian Ocean?",
+    "options": [
+      "Sunda Trench",
+      "Mariana Trench",
+      "Tonga Trench",
+      "Java Trench"
+    ],
+    "answer": 3,
+    "explanation": "The Sunda Trench, also called the Java Trench, is the deepest point of the Indian Ocean at about 7,290 metres.",
+    "difficulty": "hard",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Ocean currents are influenced by the:",
+    "options": [
+      "Earth's rotation and the Coriolis effect",
+      "Only the direction of the wind",
+      "Salinity alone",
+      "The moon's gravity"
+    ],
+    "answer": 0,
+    "explanation": "The Coriolis force caused by the Earth's rotation deflects moving water to the right in the northern hemisphere, producing the great subtropical gyres.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Sargasso Sea is located in the:",
+    "options": [
+      "Mediterranean Sea",
+      "North Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean"
+    ],
+    "answer": 1,
+    "explanation": "The Sargasso Sea in the North Atlantic is the only sea without a land boundary, bordered by the Gulf Stream, the North Atlantic Drift and the Canary Current.",
+    "difficulty": "hard",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which ocean current warms the coast of Norway in winter?",
+    "options": [
+      "Labrador Current",
+      "North Atlantic Drift",
+      "Norwegian Current",
+      "East Greenland Current"
+    ],
+    "answer": 1,
+    "explanation": "The warm North Atlantic Drift, an extension of the Gulf Stream, keeps the Norwegian coast ice-free in winter.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Whaling' and 'high seas' freedom to fish beyond 200 nautical miles is governed by:",
+    "options": [
+      "The Ramsar Convention",
+      "The London Convention",
+      "UNCLOS",
+      "The Kyoto Protocol"
+    ],
+    "answer": 2,
+    "explanation": "The United Nations Convention on the Law of the Sea governs maritime zones, the rights of coastal states and the freedom of the high seas.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Coral bleaching is caused primarily by:",
+    "options": [
+      "Rise in sea temperature",
+      "Ocean acidification only",
+      "Reduction in salinity",
+      "Increase in oxygen"
+    ],
+    "answer": 0,
+    "explanation": "Rising sea temperatures cause corals to expel their symbiotic zooxanthellae, which produces bleaching.",
+    "difficulty": "easy",
+    "category": "oceanography",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "Which of the following organisms form the base of the ocean food chain?",
+    "options": [
+      "Squids",
+      "Coral polyps",
+      "Copepods",
+      "Phytoplankton"
+    ],
+    "answer": 3,
+    "explanation": "Phytoplankton, mainly diatoms and dinoflagellates, are the primary producers at the base of marine food webs.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "NCERT Class XII (Biology)",
+    "year": null
+  },
+  {
+    "q": "The 'continental shelf' of India extends up to:",
+    "options": [
+      "350 nautical miles",
+      "50 nautical miles",
+      "200 nautical miles",
+      "12 nautical miles"
+    ],
+    "answer": 2,
+    "explanation": "The continental shelf of India extends to about 200 nautical miles or the edge of the continental margin, whichever is closer, in some cases beyond 200 nautical miles by continental shelf rules.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following best describes the salinity of the Red Sea?",
+    "options": [
+      "About 5 ppt",
+      "About 10 ppt",
+      "About 35 ppt",
+      "Over 40 ppt"
+    ],
+    "answer": 3,
+    "explanation": "The Red Sea has very high salinity, over 40 parts per thousand, because of intense evaporation and low freshwater inflow.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Thermocline' is the layer in the ocean where:",
+    "options": [
+      "Temperature decreases rapidly with depth",
+      "Salinity increases with depth",
+      "Light penetrates fully",
+      "Pressure is constant"
+    ],
+    "answer": 0,
+    "explanation": "Below the mixed layer lies the thermocline, a zone of rapid decrease in temperature with depth that separates surface waters from the deep ocean.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which instrument is used to measure the depth of the ocean?",
+    "options": [
+      "Secchi disc",
+      "Sounding line or echo sounder",
+      "Thermometer",
+      "Current meter"
+    ],
+    "answer": 1,
+    "explanation": "An echo sounder measures depth by timing the echo of sound waves from the sea bed, while a simple sounding line was used traditionally.",
+    "difficulty": "easy",
+    "category": "oceanography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following currents is a warm current of the southern hemisphere?",
+    "options": [
+      "Peru Current",
+      "Benguela Current",
+      "West Australian Current",
+      "East Australian Current"
+    ],
+    "answer": 3,
+    "explanation": "The East Australian Current, a warm western boundary current, flows southward along eastern Australia.",
+    "difficulty": "hard",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of these is the only sea without a land boundary?",
+    "options": [
+      "The Sea of Marmara",
+      "The Adriatic Sea",
+      "The Sargasso Sea",
+      "The Baltic Sea"
+    ],
+    "answer": 2,
+    "explanation": "The Sargasso Sea in the North Atlantic is bounded only by currents and has no continental coastline.",
+    "difficulty": "medium",
+    "category": "oceanography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Coriolis force is maximum at the:",
+    "options": [
+      "Equator",
+      "Poles",
+      "Tropics",
+      "Subtropics"
+    ],
+    "answer": 1,
+    "explanation": "The Coriolis force is proportional to the sine of the latitude and is therefore zero at the equator and maximum at the poles.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Horse latitudes' are the regions of:",
+    "options": [
+      "Calm winds around 30 degrees latitude",
+      "Heavy rainfall at the equator",
+      "Persistent cyclones",
+      "Very cold winds"
+    ],
+    "answer": 0,
+    "explanation": "The subtropical high-pressure belts around 30 degrees are known as the horse latitudes, where descending air produces calm and dry conditions.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ITCZ' is also known as:",
+    "options": [
+      "The subtropical high belt",
+      "The equatorial trough of low pressure",
+      "The polar front",
+      "The westerly wind belt"
+    ],
+    "answer": 1,
+    "explanation": "The Inter-Tropical Convergence Zone is the low-pressure belt near the equator where the trade winds converge and heavy convectional rainfall occurs.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Subtropical jet stream' is located over which latitudes?",
+    "options": [
+      "25 to 35 degrees",
+      "50 to 60 degrees",
+      "70 to 80 degrees",
+      "5 to 10 degrees"
+    ],
+    "answer": 0,
+    "explanation": "The subtropical jet stream, which drives the westerly cyclonic systems, lies around 25 to 35 degrees latitude in both hemispheres.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chinook' is a warm dry wind of:",
+    "options": [
+      "Central Asia",
+      "Southern Africa",
+      "North America",
+      "Australia"
+    ],
+    "answer": 2,
+    "explanation": "The Chinook, also called the snow eater, is a warm dry wind that descends the eastern slopes of the Rockies and melts snow rapidly.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mistral' is a cold wind blowing over:",
+    "options": [
+      "The Balkans in winter",
+      "The Ganga plain",
+      "The Iberian Peninsula",
+      "The Rhone valley and the Mediterranean"
+    ],
+    "answer": 3,
+    "explanation": "The Mistral is a strong cold north-westerly wind that descends the Rhone valley and the Alps into the Mediterranean.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bora' is a wind of:",
+    "options": [
+      "The Adriatic coast",
+      "The Siberian plain",
+      "The Thar Desert",
+      "The Deccan Plateau"
+    ],
+    "answer": 0,
+    "explanation": "The Bora is a strong cold north-easterly wind that blows from the Balkans across the Adriatic coast.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Loo' is the hot dry summer wind blowing over:",
+    "options": [
+      "The Deccan Plateau",
+      "The Konkan coast",
+      "The Brahmaputra valley",
+      "The Thar Desert and the Gangetic plain"
+    ],
+    "answer": 3,
+    "explanation": "The Loo is a strong hot and dry summer wind that blows over the north-western Indian plains during May and June.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Mawsynram' and 'Cherrapunji' are famous for:",
+    "options": [
+      "Highest wind speed",
+      "Longest coastline",
+      "Highest recorded rainfall",
+      "Lowest temperature"
+    ],
+    "answer": 2,
+    "explanation": "Mawsynram in Meghalaya holds the record for the highest average annual rainfall, on the windward slope of the Khasi hills.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bengal Bay' and the 'Chadwick' rainfall:",
+    "options": [
+      "Occurs in winter due to western disturbances",
+      "Occurs in summer due to convection and the retreating monsoon",
+      "Occurs in spring due to western cyclones",
+      "Occurs in autumn due to the western jet"
+    ],
+    "answer": 1,
+    "explanation": "Rain near the head of the Bay of Bengal and the retreating monsoon, called the 'Chadwick' or 'October' rain, is a local feature of the Bay region.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the main cause of the winter rainfall of the Mediterranean climate?",
+    "options": [
+      "Westerly cyclones of the temperate zone",
+      "Local convection",
+      "The subtropical jet",
+      "The retreating monsoon"
+    ],
+    "answer": 0,
+    "explanation": "The Mediterranean climate has mild wet winters caused by the westerly cyclonic systems of the temperate latitudes.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tropical wet and dry' climate is also called:",
+    "options": [
+      "Steppe climate",
+      "Savanna climate",
+      "Monsoon climate",
+      "Equatorial climate"
+    ],
+    "answer": 2,
+    "explanation": "The tropical wet and dry climate, also called the monsoon or savanna climate, has a short wet and a long dry season.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sturm' in European weather refers to:",
+    "options": [
+      "A foggy spell",
+      "A dry wind",
+      "A heat wave",
+      "A blizzard of snow and wind"
+    ],
+    "answer": 3,
+    "explanation": "A Sturm is a severe snowstorm with strong winds, common in the alpine regions of Europe.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Western Disturbances' that cause winter rain in north India originate over the:",
+    "options": [
+      "Bay of Bengal",
+      "Mediterranean Sea",
+      "Arabian Sea",
+      "Pacific Ocean"
+    ],
+    "answer": 1,
+    "explanation": "Western disturbances are extratropical storms from the Mediterranean region that travel eastwards and bring rain and snow to the western Himalayas and the plains.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Kal Baisakhi' storms occur in which part of India?",
+    "options": [
+      "Rajasthan desert",
+      "North-west India",
+      "West Bengal and Odisha",
+      "Tamil Nadu coast"
+    ],
+    "answer": 2,
+    "explanation": "Kal Baisakhi is the pre-monsoon convective rainfall and hailstorm activity of West Bengal and Odisha in April and May.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which is the wettest place in India?",
+    "options": [
+      "Cherrapunji in Meghalaya",
+      "Amarkantak in Madhya Pradesh",
+      "Agumbe in Maharashtra",
+      "Mawsynram in Meghalaya"
+    ],
+    "answer": 3,
+    "explanation": "Mawsynram in Meghalaya records the highest average annual rainfall in India, slightly ahead of nearby Cherrapunji.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Tropical cyclones that form in the Bay of Bengal and strike the Odisha and West Bengal coasts are locally called:",
+    "options": [
+      "Aila",
+      "Nor'westers or Kal Baisakhi",
+      "Maha",
+      "Chapala"
+    ],
+    "answer": 1,
+    "explanation": "Cyclones forming in the Bay of Bengal that strike the Odisha and West Bengal coasts are known locally as Kal Baisakhi or Nor'westers.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a rain shadow area for the southwest monsoon?",
+    "options": [
+      "The Deccan Plateau interior",
+      "The Malabar coast",
+      "The Coromandel coast",
+      "The Konkan coast"
+    ],
+    "answer": 0,
+    "explanation": "The interior of the Deccan Plateau lies in the rain shadow of the Western Ghats and receives far less rainfall than the windward Konkan and Malabar coasts.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Apu' or 'Mistral' type of local wind in India is:",
+    "options": [
+      "Loo",
+      "Mawsynram",
+      "Kal Baisakhi",
+      "Nor'westers"
+    ],
+    "answer": 0,
+    "explanation": "The Loo is the hot dry wind of the north Indian plains in summer.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which atmospheric layer contains the ozone layer?",
+    "options": [
+      "Mesosphere",
+      "Thermosphere",
+      "Troposphere",
+      "Stratosphere"
+    ],
+    "answer": 3,
+    "explanation": "The ozone layer is found in the stratosphere at roughly 15 to 35 kilometres above the surface.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The greenhouse effect is caused mainly by:",
+    "options": [
+      "Nitrogen oxides only",
+      "Dust and aerosols",
+      "Carbon dioxide, methane and water vapour",
+      "Oxygen and nitrogen"
+    ],
+    "answer": 2,
+    "explanation": "Carbon dioxide, methane, water vapour, nitrous oxide and ozone are the principal greenhouse gases that trap outgoing long-wave radiation.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which is the largest climatic zone of India in terms of area?",
+    "options": [
+      "Tropical wet and dry",
+      "Tropical wet (monsoon)",
+      "Semi-arid and arid",
+      "Temperate"
+    ],
+    "answer": 1,
+    "explanation": "The tropical wet and dry climate covers the largest part of India, with the tropical monsoon climate covering the remaining wetter north-east and coastal areas.",
+    "difficulty": "hard",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the driest place in India?",
+    "options": [
+      "Bhopal",
+      "Chennai",
+      "Kolkata",
+      "Jaisalmer"
+    ],
+    "answer": 3,
+    "explanation": "Jaisalmer in western Rajasthan, with under 150 mm of annual rainfall, is the driest inhabited place in India.",
+    "difficulty": "medium",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Western coastal plain' of India receives most of its rainfall from:",
+    "options": [
+      "The retreating monsoon",
+      "The south-west monsoon",
+      "The western disturbances",
+      "The north-east monsoon"
+    ],
+    "answer": 1,
+    "explanation": "The west coast of India receives the bulk of its rainfall from the Arabian Sea branch of the south-west monsoon, making it one of the wettest regions.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The soil of the Terai region is:",
+    "options": [
+      "Alluvial and fertile",
+      "Black and sticky",
+      "Saline",
+      "Lateritic"
+    ],
+    "answer": 0,
+    "explanation": "The Terai belt has deep, fertile alluvial deposits renewed by each year's floods.",
+    "difficulty": "easy",
+    "category": "soil-and-vegetation",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following soils is most suitable for growing cotton?",
+    "options": [
+      "Red soil",
+      "Alluvial soil",
+      "Black soil",
+      "Laterite soil"
+    ],
+    "answer": 2,
+    "explanation": "Black soil, with its high clay content and moisture retention, is the classic soil for cotton, soybean and sugarcane.",
+    "difficulty": "easy",
+    "category": "soil-and-vegetation",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which soil is found in the north-western India and requires heavy irrigation?",
+    "options": [
+      "Red soil",
+      "Laterite soil",
+      "Saline soil",
+      "Desert soil"
+    ],
+    "answer": 3,
+    "explanation": "Desert soil, sandy and fertile enough with irrigation, covers large parts of Rajasthan and is the soil of the Indira Gandhi Canal command area.",
+    "difficulty": "medium",
+    "category": "soil-and-vegetation",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Champaign' or black soil region of India is mainly found in:",
+    "options": [
+      "Maharashtra, Madhya Pradesh and parts of Karnataka",
+      "Punjab and Haryana",
+      "Tamil Nadu coast",
+      "North-East India"
+    ],
+    "answer": 0,
+    "explanation": "The black soil or regur covers Maharashtra, much of Madhya Pradesh, parts of Karnataka, Andhra Pradesh and Tamil Nadu.",
+    "difficulty": "easy",
+    "category": "soil-and-vegetation",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Khadar' and 'Bangar' are the two types of:",
+    "options": [
+      "Desert soil",
+      "Laterite soil",
+      "Alluvial soil",
+      "Black soil"
+    ],
+    "answer": 2,
+    "explanation": "Alluvial soil is divided into khadar, the new alluvium of the flood plains, and bangar, the older alluvium above the flood level.",
+    "difficulty": "medium",
+    "category": "soil-and-vegetation",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Soil erosion by wind is a serious problem in:",
+    "options": [
+      "The Sundarbans delta",
+      "The Thar Desert",
+      "The Gangetic plain",
+      "The Konkan coast"
+    ],
+    "answer": 1,
+    "explanation": "Wind erosion and the movement of sand dunes are characteristic problems of the Thar Desert region.",
+    "difficulty": "medium",
+    "category": "soil-and-vegetation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a method of soil conservation in India?",
+    "options": [
+      "Over-irrigation",
+      "Deep ploughing in the monsoon",
+      "Terrace farming and contour ploughing",
+      "Fallowing and burning"
+    ],
+    "answer": 2,
+    "explanation": "Terrace farming, contour ploughing, shelter belts and afforestation are the standard soil conservation techniques.",
+    "difficulty": "easy",
+    "category": "soil-and-vegetation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Biosphere Reserve' concept was developed by UNESCO under its:",
+    "options": [
+      "World Heritage Programme",
+      "World Network of Biosphere Reserves Programme only",
+      "MAB and World Heritage Conventions",
+      "Man and the Biosphere Programme"
+    ],
+    "answer": 3,
+    "explanation": "The Man and the Biosphere Programme, launched in 1971, designates biosphere reserves to reconcile conservation with development.",
+    "difficulty": "medium",
+    "category": "soil-and-vegetation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a moist deciduous forest of India?",
+    "options": [
+      "Teak and sal forests",
+      "Bamboo forest of the north-east",
+      "Khirgai forest",
+      "Sandalwood forest"
+    ],
+    "answer": 0,
+    "explanation": "Moist deciduous forests are dominated by teak and sal and cover a large part of the central Indian plateau.",
+    "difficulty": "medium",
+    "category": "soil-and-vegetation",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Khirgai' or 'Dry deciduous' forests are typical of:",
+    "options": [
+      "Western Ghats",
+      "Rajasthan and Central India",
+      "The north-east hills",
+      "Kerala coast"
+    ],
+    "answer": 1,
+    "explanation": "The khirgai forests, with teak, sal and acacia, are typical of Rajasthan and the drier parts of central India.",
+    "difficulty": "medium",
+    "category": "soil-and-vegetation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which state has the largest area under mangrove forests in India?",
+    "options": [
+      "Kerala",
+      "Goa",
+      "West Bengal",
+      "Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "West Bengal, with the Sundarbans, has the largest mangrove cover in India, followed by Gujarat and Andhra Pradesh.",
+    "difficulty": "medium",
+    "category": "soil-and-vegetation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sandalwood' forests of India are found mainly in:",
+    "options": [
+      "Karnataka and Tamil Nadu",
+      "Punjab",
+      "Rajasthan",
+      "The Gangetic plain"
+    ],
+    "answer": 0,
+    "explanation": "Sandalwood forests occur in the dry deciduous forests of Karnataka and Tamil Nadu, especially in the Sathyamangalam and Marayamalai hills.",
+    "difficulty": "medium",
+    "category": "soil-and-vegetation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pil' cycle of forest harvesting in India refers to:",
+    "options": [
+      "Clear felling",
+      "Slash and burn",
+      "Coppice system",
+      "Selective felling over a fixed rotation"
+    ],
+    "answer": 3,
+    "explanation": "In the pil system, a portion of the forest area is felled in rotation while the rest remains closed, ensuring sustained yield.",
+    "difficulty": "hard",
+    "category": "soil-and-vegetation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Agroforestry' practice in India involves:",
+    "options": [
+      "Reclaiming saline land",
+      "Growing trees together with agricultural crops",
+      "Raising only fodder crops",
+      "Planting pure forests"
+    ],
+    "answer": 1,
+    "explanation": "Agroforestry integrates trees with crops and livestock on the same land, improving soil fertility and providing multiple outputs.",
+    "difficulty": "medium",
+    "category": "soil-and-vegetation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Indian state has the largest area under tea gardens?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Assam",
+      "West Bengal"
+    ],
+    "answer": 2,
+    "explanation": "Assam accounts for the largest share of Indian tea acreage, followed by West Bengal, Tamil Nadu, Kerala and Karnataka.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Golden Circle' of coffee is mainly in:",
+    "options": [
+      "Andhra Pradesh",
+      "Karnataka",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "answer": 1,
+    "explanation": "The coffee growing region of Karnataka, called the Golden Circle, accounts for most of India's coffee production.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest producer of rice in India?",
+    "options": [
+      "Punjab",
+      "Uttar Pradesh",
+      "Andhra Pradesh",
+      "West Bengal"
+    ],
+    "answer": 3,
+    "explanation": "West Bengal is the largest producer of rice in India, followed by Uttar Pradesh, Punjab and Andhra Pradesh.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which is the largest producer of wheat in India?",
+    "options": [
+      "Uttar Pradesh",
+      "Punjab",
+      "Haryana",
+      "Madhya Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "Uttar Pradesh is the largest producer of wheat, though Punjab and Haryana have much higher yields per hectare.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "'Plantation agriculture' in India is characterised by:",
+    "options": [
+      "Fallow cultivation",
+      "Large-scale capital-intensive farming of a single crop with a processing plant",
+      "Small holdings with subsistence crops",
+      "Mixed cropping with livestock"
+    ],
+    "answer": 1,
+    "explanation": "Plantation agriculture involves large capital investment, a single crop, scientific methods and a processing plant near the plantation, as in tea, coffee, rubber and sugarcane.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Kharif' season in India corresponds to:",
+    "options": [
+      "Sowing in spring and harvesting in summer",
+      "Harvesting of the winter crop",
+      "Sowing in autumn and harvesting in winter",
+      "Sowing with the onset of the monsoon and harvesting in autumn"
+    ],
+    "answer": 3,
+    "explanation": "Kharif crops are sown with the onset of the monsoon in June-July and harvested in September-October; the rabi crop follows in winter.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which crop is called the 'queen of the cereals'?",
+    "options": [
+      "Maize",
+      "Pearl millet",
+      "Wheat",
+      "Rice"
+    ],
+    "answer": 0,
+    "explanation": "Maize is called the queen of the cereals because of its high nutritional value and wide industrial uses.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kharif' and 'Rabi' seasons in India are named after:",
+    "options": [
+      "The type of soil",
+      "The crops grown",
+      "The harvest months of the traditional calendar",
+      "The monsoon intensity"
+    ],
+    "answer": 2,
+    "explanation": "The names derive from the traditional six-monthly seasons of the Hindu calendar, with Kharif harvested in autumn and Rabi in summer.",
+    "difficulty": "hard",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Indian state leads in the production of pulses?",
+    "options": [
+      "Rajasthan",
+      "West Bengal",
+      "Madhya Pradesh and Maharashtra",
+      "Madhya Pradesh"
+    ],
+    "answer": 2,
+    "explanation": "Madhya Pradesh and Maharashtra together produce the largest share of India's pulses.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'System of Rice Intensification' (SRI) was developed in:",
+    "options": [
+      "Madagascar",
+      "Indonesia",
+      "Philippines",
+      "India"
+    ],
+    "answer": 0,
+    "explanation": "The System of Rice Intensification was developed in Madagascar in the 1980s and later adapted widely in India.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a horticulture crop of the Nilgiri hills?",
+    "options": [
+      "Wheat and mustard",
+      "Rubber and tea",
+      "Coconut and rice",
+      "Jute and maize"
+    ],
+    "answer": 1,
+    "explanation": "Rubber, tea, coffee, spices and apples are the major horticultural crops of the Nilgiri hills.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Blue Revolution' in India is associated with:",
+    "options": [
+      "Milk production",
+      "Poultry",
+      "Oilseeds",
+      "Fish production"
+    ],
+    "answer": 3,
+    "explanation": "The Blue Revolution refers to the rapid growth of fish and shrimp production in India, championed by Dr. Arun Krishnan and later by the government.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest producer of milk in India?",
+    "options": [
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Gujarat",
+      "Karnataka"
+    ],
+    "answer": 0,
+    "explanation": "Uttar Pradesh is the largest milk producer in India, with Kerala, Rajasthan, Gujarat and Karnataka following.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Green Revolution' in India was associated with the:",
+    "options": [
+      "Pulses and millets",
+      "Wheat and rice",
+      "Cotton and jute",
+      "Tea and coffee"
+    ],
+    "answer": 1,
+    "explanation": "The Green Revolution, led by M.S. Swaminathan with high-yielding varieties of wheat and rice, transformed Indian food security.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which is the largest producer of sugarcane in the world?",
+    "options": [
+      "China",
+      "Thailand",
+      "India",
+      "Brazil"
+    ],
+    "answer": 2,
+    "explanation": "India is the largest producer of sugarcane in the world, followed by Brazil and China.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Arhar' or pigeon pea is known in India as:",
+    "options": [
+      "Urad dal",
+      "Moong dal",
+      "Masoor dal",
+      "Tur dal"
+    ],
+    "answer": 3,
+    "explanation": "Arhar, the most widely grown pulse in India, is known as tur dal.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest producer of oilseeds in India?",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Andhra Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "Rajasthan, with mustard and groundnut, is the largest producer of oilseeds in India, followed by Gujarat and Madhya Pradesh.",
+    "difficulty": "hard",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Zaid' season crop in India is:",
+    "options": [
+      "Wheat",
+      "Cotton",
+      "Rice",
+      "Watermelon and fodder maize"
+    ],
+    "answer": 3,
+    "explanation": "Zaid, the short season between rabi and kharif, is used for watermelon, fodder maize, muskmelon and other summer vegetables.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which agricultural practice is the 'Drip irrigation' also called?",
+    "options": [
+      "Well irrigation",
+      "Sprinkler irrigation",
+      "Micro irrigation",
+      "Flood irrigation"
+    ],
+    "answer": 2,
+    "explanation": "Drip irrigation, which delivers water drop by drop to the root zone, is part of micro irrigation along with sprinkler systems.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the 2015 is correct?",
+    "options": [
+      "2015",
+      "2018",
+      "2020",
+      "2012"
+    ],
+    "answer": 0,
+    "explanation": "The Soil Health Card scheme was launched in 2015 to provide farmers with soil testing and crop-wise recommendations.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest producer of maize in India?",
+    "options": [
+      "Karnataka",
+      "Bihar",
+      "Uttar Pradesh",
+      "Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "Karnataka is the largest producer of maize in India, followed by Bihar and Uttar Pradesh.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the major producer of coconut in India?",
+    "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Kerala"
+    ],
+    "answer": 3,
+    "explanation": "Kerala, with its vast coastal areas, is the largest producer of coconut in India.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Marigold' and 'Gladiolus' flowers that fill the floriculture export market are grown mainly in:",
+    "options": [
+      "Uttarakhand",
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "answer": 2,
+    "explanation": "Tamil Nadu, with its floriculture clusters around Madurai, is a leading exporter of marigold and gladiolus.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The largest producer of rubber in India is:",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "Kerala is the largest producer of rubber in India, followed by Tamil Nadu and Karnataka.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which type of farming is practised in the 'D|System' of Nepal and the terrace fields of the Philippines?",
+    "options": [
+      "Mixed farming",
+      "Shifting cultivation",
+      "Intensive subsistence farming",
+      "Commercial plantation farming"
+    ],
+    "answer": 1,
+    "explanation": "Shifting cultivation, known as jhum or dahiya in Nepal and as camarling in the Philippines, is practised on slash-and-burn slopes.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Borewell irrigation' is most common in:",
+    "options": [
+      "Tamil Nadu",
+      "West Bengal",
+      "Rajasthan",
+      "Punjab"
+    ],
+    "answer": 3,
+    "explanation": "Borewell and tubewell irrigation dominate in Punjab and Haryana, where the alluvial aquifers are deep and the canal network is extensive.",
+    "difficulty": "hard",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the largest producer of wheat in the world?",
+    "options": [
+      "Russia",
+      "USA",
+      "China",
+      "India"
+    ],
+    "answer": 2,
+    "explanation": "China is the largest producer of wheat in the world, followed by India and the United States.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Matsushita' and 'Paddy' cropping in the Kerala model of rice farming refers to:",
+    "options": [
+      "Multiple cropping with irrigation",
+      "Shifting cultivation",
+      "Dryland farming",
+      "Contract farming"
+    ],
+    "answer": 0,
+    "explanation": "The Kerala model combines canal and well irrigation with multiple cropping to raise yields per hectare.",
+    "difficulty": "hard",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which state of India is the largest producer of spices?",
+    "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Kerala"
+    ],
+    "answer": 3,
+    "explanation": "Kerala, particularly Wayanad and Idukki, is the largest producer of spices in India.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest producer of millets in India?",
+    "options": [
+      "Tamil Nadu",
+      "Rajasthan",
+      "Bihar",
+      "Gujarat"
+    ],
+    "answer": 1,
+    "explanation": "Rajasthan is the largest producer of millets such as jowar and bajra in India.",
+    "difficulty": "medium",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Assam' is famous for which one-crop plantation?",
+    "options": [
+      "Tea",
+      "Rubber",
+      "Coconut",
+      "Coffee"
+    ],
+    "answer": 0,
+    "explanation": "Assam is the birthplace of the Indian tea industry, with estates established by the British in the 19th century.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pushy' or 'Fertile crescent' of high density in India is in:",
+    "options": [
+      "The Ladakh region",
+      "The Western Ghats",
+      "The Gangetic plain and coastal areas",
+      "The Thar Desert"
+    ],
+    "answer": 2,
+    "explanation": "Population is concentrated in the Gangetic plain, the coastal plains and the major river valleys, while the desert and mountain regions are sparsely populated.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The main cause of the decline of India's population growth rate is:",
+    "options": [
+      "Mass migration abroad",
+      "Emigration of the educated",
+      "Falling death rates with a lagging birth rate",
+      "Rising death rates"
+    ],
+    "answer": 2,
+    "explanation": "The death rate has fallen sharply while the birth rate has declined more slowly, which is the demographer's explanation of the population transition.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's decadal population growth between 2001 and 2011 was about:",
+    "options": [
+      "12 per cent",
+      "18 per cent",
+      "24 per cent",
+      "32 per cent"
+    ],
+    "answer": 1,
+    "explanation": "The decadal growth rate in Census 2011 was about 17.7 per cent, down from about 21.6 per cent in 1991-2001.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The sex ratio of India as per Census 2011 was:",
+    "options": [
+      "943 females per 1000 males",
+      "915 females per 1000 males",
+      "972 females per 1000 males",
+      "929 females per 1000 males"
+    ],
+    "answer": 0,
+    "explanation": "The overall sex ratio in Census 2011 was 943 females per 1,000 males, up from 929 in 2001.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The child sex ratio (0-6 years) in Census 2011 was:",
+    "options": [
+      "943 girls per 1000 boys",
+      "919 girls per 1000 boys",
+      "902 girls per 1000 boys",
+      "914 girls per 1000 boys"
+    ],
+    "answer": 3,
+    "explanation": "The child sex ratio improved to 914 girls per 1,000 boys in Census 2011 from 909 in 2001.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which state had the highest literacy rate in Census 2011 after Kerala?",
+    "options": [
+      "Lakshadweep",
+      "Tamil Nadu",
+      "Goa",
+      "Mizoram"
+    ],
+    "answer": 0,
+    "explanation": "Lakshadweep recorded a literacy rate of about 91.9 per cent, ahead of Tamil Nadu, Goa and Mizoram.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Census of India' is conducted by:",
+    "options": [
+      "Ministry of Finance",
+      "Planning Commission",
+      "NITI Aayog",
+      "The Registrar General and Census Commissioner"
+    ],
+    "answer": 3,
+    "explanation": "The Office of the Registrar General and Census Commissioner, under the Ministry of Home Affairs, conducts the census.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Population Register' is a database of:",
+    "options": [
+      "Only voters",
+      "Every Indian citizen",
+      "Only urban households",
+      "Only households below the poverty line"
+    ],
+    "answer": 1,
+    "explanation": "The National Population Register is a verified database of every usual resident in India, unique by National Identity Number.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The term 'demographic dividend' refers to:",
+    "options": [
+      "Rapid urbanisation",
+      "An increase in the elderly population",
+      "A large working-age population relative to dependents",
+      "A fall in the birth rate"
+    ],
+    "answer": 2,
+    "explanation": "A demographic dividend arises when the share of the working-age population is high relative to the dependent population, provided jobs and skills are available.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's urbanisation level in Census 2011 was about:",
+    "options": [
+      "31 per cent",
+      "45 per cent",
+      "60 per cent",
+      "17 per cent"
+    ],
+    "answer": 0,
+    "explanation": "About 31 per cent of India's population lived in urban areas in Census 2011, up from about 27.8 per cent in 2001.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nagpur' scheme of 1963 was related to:",
+    "options": [
+      "Land reforms",
+      "Panchayati Raj",
+      "Green Revolution",
+      "Reorganisation of states"
+    ],
+    "answer": 3,
+    "explanation": "The Nagpur Formula of 1963, formulated by the States Reorganisation Commission, set the principles for reorganising Indian states on linguistic lines.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'linguistic states' reorganisation of India was completed in:",
+    "options": [
+      "1950",
+      "1956",
+      "1963",
+      "1972"
+    ],
+    "answer": 1,
+    "explanation": "The States Reorganisation Act of 1956 created the linguistic states, with further changes later including the creation of Haryana in 1966.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Official Languages Act' was amended in 1963 to give Hindi and English the status of:",
+    "options": [
+      "Minority languages",
+      "Provincial languages",
+      "The languages of the Union",
+      "Classical languages"
+    ],
+    "answer": 2,
+    "explanation": "The Official Languages Act, 1908 as amended in 1963 designated Hindi as the language of the Union, with English continuing for official purposes under Article 343.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest linguistic group of India by number of speakers?",
+    "options": [
+      "Indo-Aryan",
+      "Dravidian",
+      "Austroasiatic",
+      "Tibeto-Burman"
+    ],
+    "answer": 0,
+    "explanation": "The Indo-Aryan languages, which include Hindi, Bengali, Punjabi, Marathi and Urdu, are spoken by the largest share of Indians.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the largest city of India by population according to the Census 2011?",
+    "options": [
+      "Mumbai",
+      "Delhi",
+      "Kolkata",
+      "Chennai"
+    ],
+    "answer": 1,
+    "explanation": "Delhi had the largest urban agglomeration population in Census 2011 at about 28 million, ahead of Mumbai.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'migration' of rural workers to cities in India is called:",
+    "options": [
+      "Transhumance",
+      "Seasonal migration",
+      "Urbanisation",
+      "Ruralisation"
+    ],
+    "answer": 2,
+    "explanation": "Rural to urban migration is the dominant component of India's urbanisation, driven by push factors in agriculture and pull factors of urban jobs.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Internal Migration' in India is largest for which group?",
+    "options": [
+      "Skilled professionals",
+      "Retired people",
+      "Tourists",
+      "Seasonal agricultural labourers"
+    ],
+    "answer": 3,
+    "explanation": "Seasonal migration of agricultural labourers between the plains and the eastern states during the agricultural cycle is the largest internal migration flow.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Majority religion' of India as per Census 2011 is:",
+    "options": [
+      "Sikhism",
+      "Islam",
+      "Hinduism",
+      "Christianity"
+    ],
+    "answer": 2,
+    "explanation": "Hinduism was the religion of about 79.8 per cent of the population in Census 2011.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Scheduled Castes' population in India as per Census 2011 was about:",
+    "options": [
+      "5.4 per cent",
+      "26 per cent",
+      "8.6 per cent",
+      "16.6 per cent"
+    ],
+    "answer": 3,
+    "explanation": "Scheduled Castes constituted about 16.6 per cent of the population and Scheduled Tribes about 8.6 per cent in Census 2011.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Demographic Transition Model' describes:",
+    "options": [
+      "The change in the age structure",
+      "The shift from high birth and death rates to low birth and death rates",
+      "Migration between countries",
+      "Urban growth"
+    ],
+    "answer": 1,
+    "explanation": "The demographic transition model describes the shift from high birth and death rates with low growth to low birth and death rates with low growth, passing through a stage of rapid growth.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'dependency ratio' of India as per Census 2011 was about:",
+    "options": [
+      "0.4",
+      "0.7",
+      "1.2",
+      "2.0"
+    ],
+    "answer": 0,
+    "explanation": "India's dependency ratio of about 0.4 in 2011 means roughly four dependants per 100 working-age persons.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Naxalbari' and the 'Telangana' movements were:",
+    "options": [
+      "Anti-colonial non-cooperation movements",
+      "Peasant and tribal struggles",
+      "Labour movements",
+      "Anti-liquidation movements"
+    ],
+    "answer": 1,
+    "explanation": "The Naxalbari movement in West Bengal and the Telangana movement were peasant and tribal struggles against the zamindars and the state.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The highest urbanisation in India is found in:",
+    "options": [
+      "Small towns of Kerala",
+      "Village clusters of Assam",
+      "Hills of Himachal Pradesh",
+      "Delhi and the metropolitan cities of Maharashtra"
+    ],
+    "answer": 3,
+    "explanation": "The metropolitan cities of Delhi, Mumbai and Kolkata have the highest shares of urban population in India.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Leap Forward' and the 'Cultural Revolution' were associated with:",
+    "options": [
+      "Mao Zedong's China",
+      "Nixon's America",
+      "Stalin's Soviet Union",
+      "Nehru's India"
+    ],
+    "answer": 0,
+    "explanation": "The Great Leap Forward (1958-62) and the Cultural Revolution (1966-76) were campaigns in Mao Zedong's China.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Leap Forward' and 'Land reforms in India' share the common objective of:",
+    "options": [
+      "Reducing population",
+      "Land redistribution to the urban poor",
+      "Increasing agricultural output",
+      "Industrialisation"
+    ],
+    "answer": 2,
+    "explanation": "Both aimed at raising agricultural production, though by different means: collectivisation and forced procurement in China and land reform with better inputs in India.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chipko movement' was:",
+    "options": [
+      "A traders' association in Gujarat",
+      "A forest conservation movement led by women in Uttarakhand",
+      "A peasant uprising in Bihar",
+      "A labour movement in Maharashtra"
+    ],
+    "answer": 1,
+    "explanation": "The Chipko movement, led by women like Gaura Devi, hugged trees to prevent commercial felling in the Uttarakhand Himalaya.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Narmada Bachao Andolan' was against:",
+    "options": [
+      "Bauxite mining in the Eastern Ghats",
+      "Nuclear testing at Pokhran",
+      "Coal mining in Jharkhand",
+      "The Sardar Sarovar dam project"
+    ],
+    "answer": 3,
+    "explanation": "The Narmada Bachao Andolan, led by Medha Patkar, campaigned against the Sardar Sarovar dam and the displacement it caused.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gandhian and Ambedkarite' debate in land reform was about:",
+    "options": [
+      "Whether to adopt a monetary policy",
+      "How to fund irrigation",
+      "Whether land reform should be landlord and ryot based",
+      "Whether to industrialise"
+    ],
+    "answer": 2,
+    "explanation": "Gandhi favoured a decentralised village economy with a compromise with the zamindar, while Ambedkar wanted the complete abolition of zamindari and land to the tiller.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Deccan Development' and 'Tribal Areas' movements relate to:",
+    "options": [
+      "Development of forest and tribal regions",
+      "Urban housing",
+      "Industrial safety",
+      "Flood control"
+    ],
+    "answer": 0,
+    "explanation": "The Deccan Development movement and the Jharkhand and tribal movements sought development of the tribal belt and forest dwellers' rights.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Indian city is known as the 'Manchester of the East'?",
+    "options": [
+      "Coimbatore",
+      "Kanpur",
+      "Ahmedabad",
+      "Surat"
+    ],
+    "answer": 0,
+    "explanation": "Coimbatore, the major centre of the cotton textile industry, is called the Manchester of the East.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which city is known as the 'Silicon Valley of India'?",
+    "options": [
+      "Chennai",
+      "Pune",
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "answer": 3,
+    "explanation": "Bengaluru, with its large information technology and research base, is known as the Silicon Valley of India.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which city is known as the 'City of Nawabs'?",
+    "options": [
+      "Bhopal",
+      "Jaipur",
+      "Lucknow",
+      "Hyderabad"
+    ],
+    "answer": 2,
+    "explanation": "Lucknow, the capital of the Awadh nawabs, is known as the City of Nawabs.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which city is known as the 'City of Pearls'?",
+    "options": [
+      "Bhopal",
+      "Hyderabad",
+      "Jodhpur",
+      "Surat"
+    ],
+    "answer": 1,
+    "explanation": "Hyderabad, famed for its pearls, is called the City of Pearls, though Surat is known as the City of Diamonds.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which city is known as the 'Rice Bowl of India'?",
+    "options": [
+      "Patna",
+      "Chennai",
+      "Kolkata",
+      "Cuttack"
+    ],
+    "answer": 3,
+    "explanation": "Cuttack in Odisha, on the Mahanadi delta, is called the Rice Bowl of India because of its huge paddy output.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which city is known as the 'City of Lakes'?",
+    "options": [
+      "Ahmedabad",
+      "Udaipur",
+      "Pune",
+      "Bhopal"
+    ],
+    "answer": 1,
+    "explanation": "Udaipur, with its series of artificial lakes, is called the City of Lakes or the Venice of the East.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which city is known as the 'Paris of the East'?",
+    "options": [
+      "Hyderabad",
+      "Kolkata",
+      "Patna",
+      "Lucknow"
+    ],
+    "answer": 0,
+    "explanation": "Hyderabad, with its broad avenues and monuments, is sometimes called the Paris of the East.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Golden Temple' of Amritsar is dedicated to:",
+    "options": [
+      "Guru Angad Dev",
+      "Guru Nanak",
+      "Guru Gobind Singh",
+      "Guru Arjan Dev"
+    ],
+    "answer": 2,
+    "explanation": "The Harmandir Sahib, in the complex of the Golden Temple at Amritsar, is dedicated to the fourth Sikh Guru, Guru Arjan Dev.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The highest civilian award of India is the:",
+    "options": [
+      "Bharat Ratna",
+      "Padma Vibhushan",
+      "Param Vir Chakra",
+      "Sahitya Akademi Award"
+    ],
+    "answer": 0,
+    "explanation": "The Bharat Ratna, instituted in 1954, is India's highest civilian award.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The headquarters of the Indian Air Force is at:",
+    "options": [
+      "Dehradun",
+      "Hyderabad",
+      "New Delhi",
+      "Bangalore"
+    ],
+    "answer": 2,
+    "explanation": "The headquarters of the Indian Air Force is in New Delhi, with the operational command at Bangalore.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sualkuchi' and the 'Chandratal' lake are in which state?",
+    "options": [
+      "Jammu and Kashmir",
+      "Ladakh",
+      "Himachal Pradesh",
+      "Uttarakhand"
+    ],
+    "answer": 3,
+    "explanation": "The Sualkuchi Lake and Chandratal are high-altitude lakes in the upper Spiti valley of Himachal Pradesh.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indus' river enters India at which place?",
+    "options": [
+      "Hundar in Nubra",
+      "Demchok in Ladakh",
+      "Gurdaspur in Punjab",
+      "Khardung in Ladakh"
+    ],
+    "answer": 1,
+    "explanation": "The Indus enters India at Demchok in Ladakh before flowing through Baltistan and Gilgit-Baltistan into Pakistan.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rann of Kutch' was formed by the:",
+    "options": [
+      "Sutlej and Beas",
+      "Tapti and Godavari",
+      "Brahmaputra and Teesta",
+      "Saraswati and Narmada"
+    ],
+    "answer": 3,
+    "explanation": "The Rann of Kutch was formed by the periodic overflow of the Kori and the Saraswati and by the Narmada and Tapti deltas.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Indian state has the maximum number of districts?",
+    "options": [
+      "Rajasthan",
+      "Maharashtra",
+      "Uttar Pradesh",
+      "Madhya Pradesh"
+    ],
+    "answer": 2,
+    "explanation": "Uttar Pradesh has the largest number of districts, followed by Madhya Pradesh and Rajasthan.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gopalganj' and 'Munger' districts of Bihar are part of the:",
+    "options": [
+      "Gangetic plain",
+      "Chota Nagpur Plateau",
+      "Deccan Plateau",
+      "Thar Desert"
+    ],
+    "answer": 0,
+    "explanation": "Bihar's districts in the south, including Gopalganj and Munger, lie on the southern edge of the Gangetic plain near the Kharagpur hills.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gora' and 'Barwa' are the two hills near:",
+    "options": [
+      "Mount Abu in Rajasthan",
+      "Deoghar in Jharkhand",
+      "Munnar in Kerala",
+      "Kodaikanal in Tamil Nadu"
+    ],
+    "answer": 1,
+    "explanation": "The Gora and Barwa hills near Deoghar in the Santhal Parganas are formed of volcanic rock and are the highest hills in Jharkhand.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ranthambore' and 'Sariska' national parks are in:",
+    "options": [
+      "Gujarat",
+      "Madhya Pradesh",
+      "Uttarakhand",
+      "Rajasthan"
+    ],
+    "answer": 3,
+    "explanation": "Ranthambore and Sariska, both former tiger reserves, are in Rajasthan, along with the Mukundra hills.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhitarkanika' and 'Similipal' national parks are in:",
+    "options": [
+      "Kerala",
+      "Odisha",
+      "West Bengal",
+      "Assam"
+    ],
+    "answer": 1,
+    "explanation": "Bhitarkanika in Odisha is a Ramsar wetland and Similipal in Odisha is a biosphere reserve, both famous for the Asiatic lion in Bhitarkanika.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gir' national park is famous for the:",
+    "options": [
+      "Snow leopard",
+      "Elephant",
+      "Asiatic lion",
+      "Bengal tiger"
+    ],
+    "answer": 2,
+    "explanation": "Gir in Gujarat is the last refuge of the Asiatic lion, the only lion population outside Africa.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kanha' and 'Bandhavgarh' national parks are in:",
+    "options": [
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Gujarat",
+      "Maharashtra"
+    ],
+    "answer": 0,
+    "explanation": "Kanha in Madhya Pradesh is the original tiger reserve and Bandhavgarh in the same state has one of the highest tiger densities.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the highest dam in India in terms of height?",
+    "options": [
+      "Tehri Dam",
+      "Bhakra Dam",
+      "Sardar Sarovar Dam",
+      "Hirakud Dam"
+    ],
+    "answer": 0,
+    "explanation": "The Tehri Dam on the Bhagirathi, at 260.5 metres, is the highest dam in India and the second highest in Asia.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indira Gandhi Canal' is also known as the:",
+    "options": [
+      "Rajasthan Canal",
+      "Indira Gandhi Canal and the Rajasthan Canal",
+      "Sutlej Canal",
+      "Krishna Canal"
+    ],
+    "answer": 1,
+    "explanation": "The Indira Gandhi Canal, earlier the Rajasthan Canal, is one of the longest irrigation canals in the world and irrigates western Rajasthan.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest inland lake in India by area?",
+    "options": [
+      "Wular Lake",
+      "Chilika Lake",
+      "Vembanad Lake",
+      "Sambhar Lake"
+    ],
+    "answer": 2,
+    "explanation": "Vembanad Lake in Kerala is the largest lake in India by surface area, while Chilika is the largest brackish water lagoon.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chandrabhaga' or the 'Damodar' river valley is famous for:",
+    "options": [
+      "Copper and bauxite",
+      "Gold and silver",
+      "Manganese and mica",
+      "Coal and iron ore"
+    ],
+    "answer": 3,
+    "explanation": "The Damodar valley in West Bengal is the major coal and iron ore belt of India and the site of the country's first major multipurpose river valley project.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the highest point of peninsular India?",
+    "options": [
+      "Anamudi",
+      "Doddabetta",
+      "Arma Konda",
+      "Kalsubai"
+    ],
+    "answer": 2,
+    "explanation": "Arma Konda in the Eastern Ghats of Andhra Pradesh, at 1,680 metres, is the highest point of peninsular India.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kaveri' and the 'Krishna' rivers have their interbasin link through the:",
+    "options": [
+      "Hospet canal",
+      "Kallanai",
+      "Upper Ganga canal",
+      "Periyar diversion"
+    ],
+    "answer": 0,
+    "explanation": "The erstwhile Hunsi and Krishnapatnam canals form the interbasin transfer between the Kaveri and the Krishna at the Hunsi and Rangireddy project.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Indian state has the longest coast along the Arabian Sea?",
+    "options": [
+      "Goa",
+      "Karnataka",
+      "Maharashtra",
+      "Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "Gujarat, with about 1,600 km of Arabian Sea coastline including the Gulf of Kutch and Gulf of Khambhat, has the longest.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gulf of Mannar' Marine National Park is famous for:",
+    "options": [
+      "Sea turtle nesting",
+      "Coral reefs and a marine biosphere reserve",
+      "Mangrove forests",
+      "Mud volcanoes"
+    ],
+    "answer": 1,
+    "explanation": "The Gulf of Mannar Marine National Park, a UNESCO Biosphere Reserve, protects fringing reefs and marine life in Tamil Nadu.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lal Bagh' and 'Cubbon Park' are in:",
+    "options": [
+      "Hyderabad",
+      "Chennai",
+      "Pune",
+      "Bengaluru"
+    ],
+    "answer": 3,
+    "explanation": "Both the Lal Bagh and the Cubbon Park are landmark gardens of Bengaluru, the Garden City of India.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sabarmati Ashram' of Mahatma Gandhi is at:",
+    "options": [
+      "Sabarmati Ashram in Gandhinagar",
+      "Vadnagar",
+      "Ahmedabad",
+      "Porbandar"
+    ],
+    "answer": 2,
+    "explanation": "The Sabarmati Ashram, his home on the banks of the Sabarmati in Ahmedabad, is now a memorial museum.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cellular Jail' of Andaman is at:",
+    "options": [
+      "Car Nicobar",
+      "Port Blair",
+      "Havelock Island",
+      "Diglipur"
+    ],
+    "answer": 1,
+    "explanation": "The Cellular Jail, also called Kala Pani, is at Port Blair in the Andaman and Nicobar Islands and is a national memorial.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Indian state borders the maximum number of neighbouring states?",
+    "options": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Chhattisgarh",
+      "Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "Uttar Pradesh shares boundaries with nine states and one union territory, the largest number of neighbours.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Phumdis' of Bhutan border the Indian state of:",
+    "options": [
+      "Assam",
+      "Sikkim",
+      "Arunachal Pradesh",
+      "West Bengal"
+    ],
+    "answer": 2,
+    "explanation": "The Phumdis region of Bhutan shares a border with Arunachal Pradesh in the Kameng and Tawang districts.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pangong Lake' lies on the border of India and:",
+    "options": [
+      "Pakistan",
+      "Bhutan",
+      "Nepal",
+      "China"
+    ],
+    "answer": 3,
+    "explanation": "Pangong Tso is a high-altitude lake extending between Ladakh in India and Tibet in China.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Khyber Pass' connects Pakistan with:",
+    "options": [
+      "India",
+      "Afghanistan",
+      "Iran",
+      "Central Asia"
+    ],
+    "answer": 1,
+    "explanation": "The Khyber Pass connects Peshawar in Pakistan with Kabul in Afghanistan and was a key route of the ancient trade and later of invasions.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Shipki La' pass connects India with:",
+    "options": [
+      "China",
+      "Nepal",
+      "Bhutan",
+      "Pakistan"
+    ],
+    "answer": 0,
+    "explanation": "Shipki La in the upper Sutlej valley of Himachal Pradesh is the trade route that connects India with Tibet in China.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Zoji La' pass connects:",
+    "options": [
+      "Himachal with Tibet",
+      "Sikkim with Nepal",
+      "Arunachal with Myanmar",
+      "Kashmir with Ladakh"
+    ],
+    "answer": 3,
+    "explanation": "Zoji La is the strategic pass on the Srinagar-Leh highway that connects the Kashmir valley with Ladakh.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lipulekh' pass is the tri-junction of India, China and:",
+    "options": [
+      "Bhutan",
+      "Myanmar",
+      "Pakistan",
+      "Nepal"
+    ],
+    "answer": 2,
+    "explanation": "The Lipulekh pass in the Kumaon Himalaya marks the tri-junction of India, China and Pakistan.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nathu La' pass is between India and:",
+    "options": [
+      "Bhutan",
+      "China",
+      "Myanmar",
+      "Nepal"
+    ],
+    "answer": 1,
+    "explanation": "Nathu La in Sikkim connects India with Tibet in China and reopened for trade in 2006 after a long closure.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rohtang Pass' links Kullu with:",
+    "options": [
+      "Lahaul and Spiti",
+      "Kinnaur",
+      "Ladakh",
+      "Chamba"
+    ],
+    "answer": 0,
+    "explanation": "The Rohtang Pass in Himachal Pradesh connects the Kullu valley with Lahaul and Spiti.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Khardung La' is the highest motorable road pass in India at:",
+    "options": [
+      "3,000 m",
+      "5,799 m",
+      "4,000 m",
+      "5,359 m"
+    ],
+    "answer": 3,
+    "explanation": "Khardung La in Ladakh, at 5,359 metres, is one of the highest motorable road passes in the world.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which pass connects the Kashmir valley with Ladakh and is open for most of the year?",
+    "options": [
+      "Rohtang La",
+      "Nathu La",
+      "Zoji La",
+      "Khardung La"
+    ],
+    "answer": 2,
+    "explanation": "Zoji La, at about 3,528 metres, is the highest of the passes on the Srinagar-Leh route and stays open for most of the year.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Siliguri Corridor' or the 'Chicken's Neck' connects:",
+    "options": [
+      "India with Bhutan",
+      "Northeast India with the rest of India",
+      "India with Bangladesh",
+      "India with Nepal"
+    ],
+    "answer": 1,
+    "explanation": "The Siliguri Corridor between Sikkim and West Bengal is the narrow land link connecting the North-East with the rest of India.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which state of India is the smallest in area?",
+    "options": [
+      "Goa",
+      "Sikkim",
+      "Tripura",
+      "Nagaland"
+    ],
+    "answer": 0,
+    "explanation": "Goa, with an area of about 3,702 square kilometres, is the smallest state in India by area.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The largest state of India by area is:",
+    "options": [
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "Rajasthan, at about 342,239 square kilometres, is the largest state in India by area, followed by Madhya Pradesh.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Union Territory has the highest population density?",
+    "options": [
+      "Lakshadweep",
+      "Delhi",
+      "Puducherry",
+      "Chandigarh"
+    ],
+    "answer": 1,
+    "explanation": "Delhi has the highest population density among the Union Territories, far ahead of Puducherry and Chandigarh.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The southernmost point of the Indian union is:",
+    "options": [
+      "Dhanushkodi",
+      "Kanyakumari",
+      "Indira Point",
+      "Rameswaram"
+    ],
+    "answer": 2,
+    "explanation": "Indira Point in the Great Nicobar Island is the southernmost point of the Indian union, while Kanyakumari is the southernmost point of the mainland.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The easternmost point of India is in:",
+    "options": [
+      "Nagaaland",
+      "Arunachal Pradesh",
+      "Ladakh",
+      "Andaman and Nicobar Islands"
+    ],
+    "answer": 3,
+    "explanation": "The easternmost point of India lies in the Andaman and Nicobar Islands, at about 92 degrees east longitude.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the largest island of India?",
+    "options": [
+      "Diu",
+      "Majuli",
+      "Salsette",
+      "Sriharikota"
+    ],
+    "answer": 1,
+    "explanation": "Majuli, a river island in the Brahmaputra in Assam, is the largest river island in the world and the largest island of India.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which state has the highest proportion of the Scheduled Tribe population?",
+    "options": [
+      "Lakshadweep",
+      "Mizoram",
+      "Nagaland",
+      "Chhattisgarh"
+    ],
+    "answer": 0,
+    "explanation": "Lakshadweep has the highest proportion of Scheduled Tribes, with the people of Minicoy, the only surviving Mahé area in the Lakshadweep.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'HIMALAYAS' are the youngest fold mountains and are still rising:",
+    "options": [
+      "Only in the north",
+      "Only in the west",
+      "True",
+      "False"
+    ],
+    "answer": 2,
+    "explanation": "The Himalayas are geologically young and continue to rise due to the ongoing collision of the Indian plate with the Eurasian plate.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Aravalli Range' extends from:",
+    "options": [
+      "Tamil Nadu to Kerala",
+      "Ladakh to Himachal Pradesh",
+      "Kashmir to Assam",
+      "Gujarat to near Delhi"
+    ],
+    "answer": 3,
+    "explanation": "The Aravalli Range runs from the hills of Gujarat northeastwards to the Delhi region, forming the divide between the Thar desert and the plain.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Purvanchal' or the 'Patkai' hills are located in:",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Rajasthan",
+      "The North-East India"
+    ],
+    "answer": 3,
+    "explanation": "The Purvanchal or Patkai hills form the eastern frontier of the North-East and run from Arunachal Pradesh to Nagaland.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nilgiri' hills are located in:",
+    "options": [
+      "Rajasthan and Gujarat",
+      "Kerala, Karnataka and Tamil Nadu",
+      "Maharashtra and Goa",
+      "Assam and Meghalaya"
+    ],
+    "answer": 1,
+    "explanation": "The Nilgiri hills lie at the junction of Kerala, Karnataka and Tamil Nadu and include Doddabetta, the highest point of the range.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jashpur hills' and the 'Garhwal hills' are part of the:",
+    "options": [
+      "Himalaya",
+      "Nilgiri range",
+      "Satpura range",
+      "Aravalli range"
+    ],
+    "answer": 0,
+    "explanation": "The Jashpur hills in Chhattisgarh and the Garhwal hills of Uttarakhand are part of the Himalayan system.",
+    "difficulty": "hard",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kashmir Valley' is surrounded by the Pir Panjal range on which side?",
+    "options": [
+      "West",
+      "North",
+      "South",
+      "East"
+    ],
+    "answer": 2,
+    "explanation": "The Pir Panjal range forms the southern wall of the Kashmir valley, with the Great Himalaya to the north.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Brahmaputra' takes a sharp turn at:",
+    "options": [
+      "Dibrugarh",
+      "Sadiya",
+      "Kundia",
+      "Dhubri"
+    ],
+    "answer": 1,
+    "explanation": "At Sadiya in Arunachal Pradesh the Brahmaputra takes a great hairpin bend and enters the Brahmaputra valley in Assam.",
+    "difficulty": "hard",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indus' river in India flows through:",
+    "options": [
+      "Himachal plains",
+      "Punjab and Sindh",
+      "Ladakh and Gilgit-Baltistan",
+      "Rajasthan"
+    ],
+    "answer": 2,
+    "explanation": "The Indus flows through Ladakh and Gilgit-Baltistan before entering Pakistan.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Shyok' and the 'Nubra' rivers are in:",
+    "options": [
+      "Ladakh",
+      "Kashmir",
+      "Himachal Pradesh",
+      "Sikkim"
+    ],
+    "answer": 0,
+    "explanation": "The Shyok and Nubra rivers drain the cold desert of Ladakh and join the Indus at different points.",
+    "difficulty": "hard",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gandak' and the 'Kosi' rivers are tributaries of the:",
+    "options": [
+      "Brahmaputra",
+      "Yamuna",
+      "Son",
+      "Ganga"
+    ],
+    "answer": 3,
+    "explanation": "The Gandak, Kosi and Gandak confluence with the Ganga in Bihar, forming the largest river island of Majuli further downstream.",
+    "difficulty": "easy",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Damodar' and the 'Subarnarekha' rivers flow in:",
+    "options": [
+      "Jharkhand and West Bengal",
+      "Odisha",
+      "Bihar",
+      "Chhattisgarh"
+    ],
+    "answer": 0,
+    "explanation": "Both the Damodar and the Subarnarekha flow through Jharkhand and West Bengal before reaching the Bay of Bengal.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sharavathi' river with its 'Sharavathi Falls' is in:",
+    "options": [
+      "Maharashtra",
+      "Kerala",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "The Sharavathi, a west-flowing river of Karnataka, has the impressive Sharavathi Falls near Sagara.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Periyar' river is the lifeline of:",
+    "options": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "answer": 3,
+    "explanation": "The Periyar, with its Periyar Dam and the Idukki hydroelectric project, is the lifeline of Kerala.",
+    "difficulty": "easy",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bharathapuzha' and the 'Pamba' rivers are in:",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka",
+      "Odisha"
+    ],
+    "answer": 1,
+    "explanation": "The Bharathapuzha and the Pamba flow through Kerala, and the Pamba is known as the 'Dakshin Ganga' of the region.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hemadri' or 'Panchganga' river of Maharashtra flows into the:",
+    "options": [
+      "Indian Ocean",
+      "Caspian Sea",
+      "Arabian Sea",
+      "Bay of Bengal"
+    ],
+    "answer": 2,
+    "explanation": "The Panchganga rises in the Sahyadris and reaches the Arabian Sea at Ratnagiri.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Wardha' and the 'Wainganga' rivers meet to form the:",
+    "options": [
+      "Krishna",
+      "Chambal",
+      "Narmada",
+      "Godavari"
+    ],
+    "answer": 3,
+    "explanation": "The Wardha and the Wainganga join near Jagdalpur to form the Godavari, called the Dakshin Ganga.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pamba' is the longest river entirely within Kerala:",
+    "options": [
+      "It flows into the Bay of Bengal",
+      "True",
+      "False",
+      "It is the shortest"
+    ],
+    "answer": 1,
+    "explanation": "The Pamba, at about 179 km, is the longest river in Kerala that flows entirely within the state.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Son' and the 'Mahanadi' rivers join the Ganga and the sea respectively. The Son originates in:",
+    "options": [
+      "Himalayas near Trimbakeshwar",
+      "Himalayas near Darchula",
+      "Nilgiri hills",
+      "Amarkantak plateau"
+    ],
+    "answer": 0,
+    "explanation": "The Son originates near Trimbakeshwar in Maharashtra, flows through Madhya Pradesh and joins the Ganga near Patna.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sone' and the 'Damodar' rivers were affected by which early industrial development?",
+    "options": [
+      "Cotton mills of Bombay",
+      "Coal and iron mining and the Damodar Valley project",
+      "Ship building in Kochi",
+      "Tea plantations of Assam"
+    ],
+    "answer": 1,
+    "explanation": "The Damodar Valley Corporation was created in 1947 for planned development of the valley's coal and mineral resources, modelled on the Tennessee Valley Authority.",
+    "difficulty": "hard",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mansar' and 'Surinsar' lakes are in:",
+    "options": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Punjab",
+      "Jammu and Kashmir"
+    ],
+    "answer": 3,
+    "explanation": "Mansar and Surinsar are famous freshwater lakes in the Shivalik hills of the Jammu region.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nagin and Surinsar' are examples of:",
+    "options": [
+      "Tectonic lakes",
+      "Oxbow lakes",
+      "Artificial reservoirs",
+      "Volcanic crater lakes"
+    ],
+    "answer": 0,
+    "explanation": "Mansar and Surinsar are tectonic lakes formed by the subsidence of the earth along a fault line.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ooty lake' is an artificial lake created in:",
+    "options": [
+      "Karnataka",
+      "Maharashtra",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "answer": 2,
+    "explanation": "The Ooty lake in the Nilgiris, Tamil Nadu, was created by John Sullivan in 1845 to supply water to the cantonment.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gobind Sagar' lake is created by which dam?",
+    "options": [
+      "Bhakra Dam",
+      "Hirakud Dam",
+      "Damodar Dam",
+      "Sardar Sarovar Dam"
+    ],
+    "answer": 0,
+    "explanation": "The Gobind Sagar Lake was formed by the Bhakra Dam across the Sutlej in Punjab and Himachal Pradesh.",
+    "difficulty": "easy",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sardar Sarovar' dam is built on which river?",
+    "options": [
+      "Sutlej",
+      "Narmada",
+      "Tapti",
+      "Mahanadi"
+    ],
+    "answer": 1,
+    "explanation": "The Sardar Sarovar Dam is built on the Narmada in Gujarat and is the largest concrete gravity dam in the country.",
+    "difficulty": "easy",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nagarjuna Sagar' dam is on the:",
+    "options": [
+      "Godavari",
+      "Tungabhadra",
+      "Narmada",
+      "Krishna"
+    ],
+    "answer": 3,
+    "explanation": "The Nagarjuna Sagar Dam, on the Krishna, is one of the largest masonry dams in India.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tungabhadra' dam is located in:",
+    "options": [
+      "Maharashtra and Goa",
+      "Gujarat and Rajasthan",
+      "Karnataka and Andhra Pradesh",
+      "Tamil Nadu and Kerala"
+    ],
+    "answer": 2,
+    "explanation": "The Tungabhadra Dam is a masonry gravity dam on the Tungabhadra river at the border of Karnataka and Andhra Pradesh.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Srisailam' dam is on the:",
+    "options": [
+      "Krishna",
+      "Godavari",
+      "Narmada",
+      "Kaveri"
+    ],
+    "answer": 1,
+    "explanation": "The Srisailam Dam is built on the Godavari river and is one of the largest masonry dams in the country.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhakra Nangal' project was built to:",
+    "options": [
+      "Provide irrigation and drinking water to Chandigarh",
+      "Regulate the floods of the Ganga",
+      "Generate power for Kerala",
+      "Supply water to Chennai"
+    ],
+    "answer": 0,
+    "explanation": "The Bhakra Nangal project, built on the Sutlej, was created after the displacement of Chandigarh and provides irrigation, drinking water and power.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Beas' and the 'Satluj' rivers meet at:",
+    "options": [
+      "G-obind Sagar",
+      "Nangal",
+      "Ropar",
+      "Harike"
+    ],
+    "answer": 2,
+    "explanation": "The Beas joins the Sutlej at Ropar, upstream of the Harike Barrage where the confluence of the three rivers forms the headwaters of the Indira Gandhi Canal.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mangla' and the 'Tarbela' dams are on the:",
+    "options": [
+      "Ganga",
+      "Brahmaputra",
+      "Kabul",
+      "Indus and its tributary"
+    ],
+    "answer": 3,
+    "explanation": "The Mangla Dam is on the Jhelum and the Tarbela Dam on the Indus, both in Pakistan and built with World Bank assistance.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the longest river of the Indian subcontinent entirely within India?",
+    "options": [
+      "Indus",
+      "Godavari",
+      "Ganga",
+      "Brahmaputra"
+    ],
+    "answer": 2,
+    "explanation": "The Ganga, at about 2,525 km, is the longest river in India, while the Brahmaputra is longer but flows through Tibet.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Teesta' river is a tributary of the:",
+    "options": [
+      "Brahmaputra",
+      "Ganga",
+      "Jamuna only",
+      "Tributary of the Kosi"
+    ],
+    "answer": 0,
+    "explanation": "The Teesta, a tributary of the Brahmaputra, originates in Tibet and flows through Sikkim and West Bengal before entering Bangladesh.",
+    "difficulty": "easy",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kaveri' and the 'Ponnyar' rivers are in:",
+    "options": [
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka"
+    ],
+    "answer": 1,
+    "explanation": "The Kaveri, rising in the Brahmagiri hills of Karnataka, forms the border with Tamil Nadu for much of its course.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mullaperiyar' and the 'Pamba' meet in the:",
+    "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Kerala"
+    ],
+    "answer": 3,
+    "explanation": "The Mullaperiyar and the Pamba meet near Kuttanad in Kerala to form a large inland delta and the Vembanad Lake.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Barak' and the 'Surlei' rivers form the:",
+    "options": [
+      "Brahmaputra delta",
+      "Kaveri delta",
+      "Mahanadi delta",
+      "Ganga delta"
+    ],
+    "answer": 3,
+    "explanation": "The Barak and the Surlei form the southern part of the Ganga-Brahmaputra delta in West Bengal.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Krishna' river is called the 'Palghat' or 'Palkhed'? The Palkhed river is a tributary of:",
+    "options": [
+      "Krishna",
+      "Narmada",
+      "Bhima",
+      "Godavari"
+    ],
+    "answer": 0,
+    "explanation": "The Palkhed, also called the Purna or Palghat, is a tributary of the Krishna river in Maharashtra.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kanheri' and the 'Vihar' lakes are in:",
+    "options": [
+      "Kerala",
+      "Gujarat",
+      "Maharashtra",
+      "Karnataka"
+    ],
+    "answer": 2,
+    "explanation": "The Kanheri and Vihar lakes lie within the Sanjay Gandhi National Park on the outskirts of Mumbai.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pulicat' lake is a:",
+    "options": [
+      "Artificial reservoir in Punjab",
+      "Brackish water lagoon on the Coromandel coast",
+      "Freshwater lake in Kerala",
+      "Volcanic crater lake"
+    ],
+    "answer": 1,
+    "explanation": "The Pulicat lagoon is the second largest brackish water lagoon in India, lying along the Andhra coast and forming the boundary with Tamil Nadu.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhitarkanika Mangroves' are in:",
+    "options": [
+      "Tamil Nadu",
+      "West Bengal",
+      "Odisha",
+      "Andhra Pradesh"
+    ],
+    "answer": 2,
+    "explanation": "The Bhitarkanika mangroves in Odisha are a Ramsar site and one of the largest mangrove forests in India.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sundarbans' delta is formed by the:",
+    "options": [
+      "Godavari and Krishna",
+      "Ganga and Brahmaputra",
+      "Ganga only",
+      "Brahmaputra and Teesta"
+    ],
+    "answer": 1,
+    "explanation": "The Sundarbans, the largest mangrove forest in the world, is the delta of the Ganga, Brahmaputra and Meghna.",
+    "difficulty": "easy",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chambal Valley' and 'Kota Barrage' are associated with which state?",
+    "options": [
+      "Uttar Pradesh",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Rajasthan"
+    ],
+    "answer": 3,
+    "explanation": "The Chambal Valley in Rajasthan, with the Kota Barrage and the Gandhi Sagar dam, is one of the most productive agricultural regions of the state.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ganga Barrage' and 'Farakka' are located in:",
+    "options": [
+      "West Bengal",
+      "Bihar",
+      "Uttar Pradesh",
+      "Jharkhand"
+    ],
+    "answer": 0,
+    "explanation": "The Farakka Barrage in West Bengal diverts the Ganga to the Bhagirathi-Hooghly to keep the Hooghly navigable and to flush the silt.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ganga Barrage' at Farakka was built with the help of:",
+    "options": [
+      "The British",
+      "The World Bank and the British",
+      "The United Nations",
+      "The World Bank"
+    ],
+    "answer": 1,
+    "explanation": "The Farakka Barrage was built in the 1960s with World Bank and British assistance to divert water to the Hooghly.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indira Gandhi Canal' is fed by the:",
+    "options": [
+      "Godavari",
+      "Narmada",
+      "Sutlej-Beas and Ravi",
+      "Ganga and Yamuna"
+    ],
+    "answer": 2,
+    "explanation": "The canal is fed by the Harike Barrage, which is fed by the confluence of the Sutlej, Beas and Ravi.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Narmada valley project' and the 'Sardar Sarovar' were opposed by:",
+    "options": [
+      "Narmada Bachao Andolan",
+      "Greenpeace India only",
+      "Fisherfolk of Kerala",
+      "The Naxalite movement"
+    ],
+    "answer": 0,
+    "explanation": "The Narmada Bachao Andolan, led by Medha Patkar, led the movement against the dam and the displacement it caused.",
+    "difficulty": "easy",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nagarjuna Sagar' and 'Krishna' projects were part of the:",
+    "options": [
+      "First Five Year Plan",
+      "Third Five Year Plan",
+      "Fourth Five Year Plan",
+      "Second Five Year Plan"
+    ],
+    "answer": 3,
+    "explanation": "The Second Five Year Plan (1956-61) gave priority to heavy industries and river valley projects such as the Bhakra, Nagarjuna Sagar and Hirakud dams.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is the largest freshwater lake in the Indian state of Kerala?",
+    "options": [
+      "Vembanad Lake",
+      "Wular Lake",
+      "Sasthamcotta Lake",
+      "Paravur Lake"
+    ],
+    "answer": 2,
+    "explanation": "The Sasthamcotta Lake, the largest freshwater lake in Kerala, is a Ramsar site in Kollam district.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kallada' and 'Bharathapuzha' river basin in Kerala is known for:",
+    "options": [
+      "Backwater tourism and the Neendal Paravur canal",
+      "Gold mining",
+      "Tea estates",
+      "Mangrove plantation"
+    ],
+    "answer": 0,
+    "explanation": "The Neendal Paravur canal links the Periyar and Bharathapuzha and is the largest stretch of backwaters in Asia.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mangrove' of the Godavari delta in Andhra Pradesh is protected under the:",
+    "options": [
+      "Godavari Estuary management",
+      "Krishna river scheme",
+      "Sriramapatam scheme",
+      "Coromandel Coast Project"
+    ],
+    "answer": 3,
+    "explanation": "The Coromandel Coast Project of the World Bank focuses on the restoration of the mangrove ecosystems of the Godavari delta.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Upper Ganga' and 'Lower Ganga' projects are concerned with:",
+    "options": [
+      "Shipping",
+      "Navigation and flood control",
+      "Thermal power",
+      "Fish breeding"
+    ],
+    "answer": 1,
+    "explanation": "The upper and lower Ganga projects were designed for navigation and the control of floods and salinity in the delta.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rajasthan Canal Project' was renamed the:",
+    "options": [
+      "Beas Canal",
+      "Ganga Canal",
+      "Indira Gandhi Canal",
+      "Sutlej Canal"
+    ],
+    "answer": 2,
+    "explanation": "The Rajasthan Canal Project was renamed the Indira Gandhi Canal in 1985 in memory of the former Prime Minister.",
+    "difficulty": "easy",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mandal Commission' was related to:",
+    "options": [
+      "Railway development",
+      "Primary education",
+      "Land reforms",
+      "Waterlogging and salinity in the canal colonies"
+    ],
+    "answer": 3,
+    "explanation": "The Mandal Commission dealt with the problem of waterlogging and salinity in the canal colonies of Punjab and Haryana.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mettur Dam' and the 'Bhadra Dam' are in:",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+    ],
+    "answer": 0,
+    "explanation": "The Mettur Dam on the Kaveri and the Bhadra Dam on the Bhadra are both major projects in Karnataka.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mullaperiyar Dam' and the 'Paravur Lake' are part of the:",
+    "options": [
+      "Bhojpur project",
+      "Kerala's water supply from the Periyar",
+      "Karnataka's Cauvery project",
+      "Tamil Nadu's Mettur project"
+    ],
+    "answer": 1,
+    "explanation": "The Mullaperiyar Dam diverts Periyar water for Thiruvananthapuram and the Paravur Lake through the Neendal Paravur canal.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indira Sagar' dam and the 'Sardar Sarovar' dam are on which river and in which state?",
+    "options": [
+      "Narmada in Gujarat and Maharashtra",
+      "Tapti in Gujarat",
+      "Narmada in Madhya Pradesh and Rajasthan",
+      "Narmada in Madhya Pradesh and Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "The Indira Sagar dam is on the Narmada in Madhya Pradesh and the Sardar Sarovar on the Narmada in Gujarat.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vishnugad' or the 'Balimela' and the 'Bansagar' projects are in:",
+    "options": [
+      "Jharkhand",
+      "Odisha",
+      "Andhra Pradesh",
+      "Chhattisgarh"
+    ],
+    "answer": 1,
+    "explanation": "The Balimela and Bansagar projects on the Mahanadi in Odisha are among the largest irrigation and power projects of the state.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Karnataka's Cauvery project' and the 'Hogenakkal' scheme are aimed at:",
+    "options": [
+      "Urban water supply to Chennai only",
+      "Navigation",
+      "Flood control and irrigation",
+      "Marine fisheries"
+    ],
+    "answer": 2,
+    "explanation": "The Cauvery project with the Hogenakkal integrated project aims at the irrigation, flood control and supply of water to Tamil Nadu.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Krishna-Godavari' link canal is proposed to transfer water to:",
+    "options": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Odisha",
+      "Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "The proposed link between the Godavari and the Krishna would transfer water to the deficit regions of Tamil Nadu.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Periyar' and 'Pamba' rivers of Kerala were affected by the:",
+    "options": [
+      "1953 flood",
+      "1978 flood",
+      "2004 tsunami",
+      "2018 flood"
+    ],
+    "answer": 0,
+    "explanation": "The Periyar and Pamba basins were devastated by the devastating 1953 floods in the Malabar region of Kerala.",
+    "difficulty": "hard",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pamba' river was the focus of the 'Pamba and its tributaries' integrated action plan for:",
+    "options": [
+      "Navigation",
+      "Flood control and ecological improvement",
+      "Mining",
+      "Urbanisation"
+    ],
+    "answer": 1,
+    "explanation": "The state government's integrated action plan for the Pamba focused on flood control, riverine ecosystem restoration and pollution control.",
+    "difficulty": "medium",
+    "category": "rivers-and-lakes",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following Indian states has the highest proportion of the population in urban areas?",
+    "options": [
+      "Maharashtra",
+      "Tamil Nadu",
+      "Delhi",
+      "Gujarat"
+    ],
+    "answer": 2,
+    "explanation": "Delhi, entirely urban, has the highest urban share, followed by the metropolitan and industrial states of Gujarat, Maharashtra and Tamil Nadu.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Narmada' and the 'Tapti' rivers flow into the:",
+    "options": [
+      "Bay of Bengal",
+      "Indian Ocean",
+      "Gulf of Kutch",
+      "Arabian Sea"
+    ],
+    "answer": 3,
+    "explanation": "Both the Narmada and the Tapti are west-flowing rivers of peninsular India and reach the Arabian Sea in Gujarat.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Penner' and the 'Krishna' rivers form a delta in:",
+    "options": [
+      "Odisha",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "The Krishna and the Penner (Penna) form a large delta in coastal Andhra Pradesh.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is the southernmost point of the Indian mainland?",
+    "options": [
+      "Rameswaram",
+      "Kanyakumari",
+      "Dhanushkodi",
+      "Indira Point"
+    ],
+    "answer": 1,
+    "explanation": "Kanyakumari, the 'land's end' of the mainland, is the southernmost point; Indira Point is the southernmost of the union.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kanyakumari' temple of the Sun and the 'Thiruvalluvar' statue are located in:",
+    "options": [
+      "Tirunelveli",
+      "Rameswaram",
+      "Kanyakumari",
+      "Thanjavur"
+    ],
+    "answer": 2,
+    "explanation": "Kanyakumari, on the tip of the peninsula, has the Vivekananda Rock Memorial and the Thiruvalluvar statue.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Indian state has the maximum number of Ramsar sites?",
+    "options": [
+      "Tamil Nadu",
+      "Uttar Pradesh",
+      "Kerala",
+      "Gujarat"
+    ],
+    "answer": 0,
+    "explanation": "Tamil Nadu has the highest number of Ramsar sites in India, with several including the Vembanad and the Suchindram Theroor wetlands.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ramsar' sites of India include the:",
+    "options": [
+      "Loktak and Keibul",
+      "Dal Lake and Wular Lake",
+      "Chilika and Vembanad",
+      "Sambhar and Didwana"
+    ],
+    "answer": 2,
+    "explanation": "Chilika in Odisha and Vembanad in Kerala are Ramsar sites, as are many others including Dal, Wular and Loktak.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indus Valley' of the Indian subcontinent corresponds to the region of:",
+    "options": [
+      "Punjab and Sindh",
+      "Gangetic plain",
+      "Deccan Plateau",
+      "Brahmaputra valley"
+    ],
+    "answer": 0,
+    "explanation": "The Indus Valley civilisation centred on the plains of the Indus in present-day Punjab and Sindh in Pakistan.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kashmir valley' is separated from the rest of India by:",
+    "options": [
+      "The Pir Panjal range",
+      "The Great Himalayan range",
+      "The Shivaliks",
+      "The Zanskar range"
+    ],
+    "answer": 1,
+    "explanation": "The Great Himalayan range to the north and the Pir Panjal to the south bound the Kashmir valley.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ganga plain' extends in India from:",
+    "options": [
+      "The Himalaya to the Deccan",
+      "Kashmir to Kanyakumari",
+      "The Indus to the Brahmaputra",
+      "The Punjab to Assam"
+    ],
+    "answer": 3,
+    "explanation": "The Indo-Gangetic plain stretches from the Punjab through the Ganga valley to the Brahmaputra valley in Assam.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Malwa Plateau' is drained mainly by the:",
+    "options": [
+      "Son and Damodar",
+      "Chambal and Betwa",
+      "Godavari and Krishna",
+      "Narmada and Tapi"
+    ],
+    "answer": 1,
+    "explanation": "The rivers of the Malwa Plateau, chiefly the Chambal and the Betwa, flow north to the Yamuna and the Ganga.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bundelkhand plateau' lies between the:",
+    "options": [
+      "Godavari and Krishna",
+      "Brahmaputra and Teesta",
+      "Son and Damodar",
+      "Ganga and Narmada"
+    ],
+    "answer": 3,
+    "explanation": "The Bundelkhand plateau lies between the Ganga valley to the north and the Narmada to the south.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chota Nagpur plateau' is bounded on the north by the:",
+    "options": [
+      "Son and Betwa",
+      "Narmada and Tapi",
+      "Damodar and Subarnarekha",
+      "Ganga and Yamuna"
+    ],
+    "answer": 2,
+    "explanation": "The Chota Nagpur plateau is bounded on the north by the Damodar and Subarnarekha rivers and on the east by the Subarnarekha and the Ranchi plateau.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mahanadi basin' is bounded by the:",
+    "options": [
+      "Garhwal and Rajmahal hills",
+      "Himalaya and Aravalli",
+      "Nilgiri and Western Ghats",
+      "Satpura and Vindhya"
+    ],
+    "answer": 0,
+    "explanation": "The Mahanadi basin, marked by the Hirakud dam, is bounded by the Garhwal hills and the Rajmahal hills.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Narmada basin' is bounded by the:",
+    "options": [
+      "Aravalli and Malwa hills",
+      "Vindhya and Satpura ranges",
+      "Garhwal and Kumaon hills",
+      "Nilgiri and Javadi hills"
+    ],
+    "answer": 1,
+    "explanation": "The Narmada flows through a rift valley between the Vindhyas to the north and the Satpuras to the south.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ganga basin' in India extends from the:",
+    "options": [
+      "Vindhyas to the coast",
+      "Deccan to the coast",
+      "Himalayas to the Deccan Plateau",
+      "Himalayas to the Peninsula only"
+    ],
+    "answer": 2,
+    "explanation": "The Ganga basin, the largest in India, extends from the Himalayas to the Deccan Plateau, covering about a quarter of the country's area.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Brahmaputra' in India is known as the:",
+    "options": [
+      "Tsangpo",
+      "Siang",
+      "Dihang",
+      "Saraswati"
+    ],
+    "answer": 0,
+    "explanation": "The Brahmaputra is known as the Tsangpo in Tibet and as the Siang and Dihang in Arunachal Pradesh before it is called the Brahmaputra in Assam.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which state of India has the maximum number of coastal districts?",
+    "options": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Odisha",
+      "Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "Gujarat, with its long and deeply indented coast, has the largest number of coastal districts.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Diu' and the 'Daman and Diu' were former Union Territories merged with:",
+    "options": [
+      "Maharashtra",
+      "Dadra and Nagar Haveli",
+      "Goa",
+      "Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "Diu and Daman were merged with Gujarat, and Dadra and Nagar Haveli with the Andaman and Nicobar Islands, in 2020.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Union Territory was formed in 2019 by merging Dadra and Nagar Haveli with Daman and Diu?",
+    "options": [
+      "Ladakh",
+      "Dadra and Nagar Haveli and Daman and Diu",
+      "Jammu and Kashmir",
+      "Lakshadweep"
+    ],
+    "answer": 1,
+    "explanation": "Dadra and Nagar Haveli and Daman and Diu was formed as a new Union Territory in 2020.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chandigarh' is the capital of:",
+    "options": [
+      "Punjab and Haryana",
+      "Punjab only",
+      "Haryana only",
+      "Punjab and Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "Chandigarh serves as the joint capital of Punjab and Haryana and is a Union Territory with its own administrator.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which state was formed in 2019 from the erstwhile state of Jammu and Kashmir?",
+    "options": [
+      "Puducherry",
+      "Telangana",
+      "Ladakh",
+      "Jammu and Kashmir"
+    ],
+    "answer": 2,
+    "explanation": "The former state of Jammu and Kashmir was reorganised on 31 October 2019 into the Union Territories of Jammu and Kashmir and Ladakh.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Puducherry' capital of the Union Territory is:",
+    "options": [
+      "Puducherry",
+      "Mahe",
+      "Yanam",
+      "Karaikal"
+    ],
+    "answer": 0,
+    "explanation": "Puducherry is the capital of the Union Territory, which also includes Karaikal, Mahe, Yanam and Puducherry.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bahawalpur' and the 'Ganga Ram' are the two major canals of the:",
+    "options": [
+      "Ganga system",
+      "Cauvery system",
+      "Krishna system",
+      "Indus system"
+    ],
+    "answer": 3,
+    "explanation": "The Bahawalpur canal and the Ganga Ram canal are the two main canals of the Indus river system in Punjab and Rajasthan.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Upper Ganga Canal' takes off from the:",
+    "options": [
+      "Harike Barrage",
+      "Ramganga barrage",
+      "Hirakud Dam",
+      "Nagarjuna Sagar"
+    ],
+    "answer": 1,
+    "explanation": "The Upper Ganga Canal takes off from the Ramganga barrage at Kalagarh in Uttar Pradesh.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Krishna-Godavari' basin is bounded by the 'Rajmahal hills' in the:",
+    "options": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "answer": 2,
+    "explanation": "The Rajmahal hills form the northern boundary of the Krishna-Godavari basin.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Saurashtra' region's inland drainage is provided by the:",
+    "options": [
+      "Krishna and Godavari",
+      "Sabarmati and Mahi",
+      "Narmada and Tapti",
+      "Ganga and Yamuna"
+    ],
+    "answer": 1,
+    "explanation": "Saurashtra has no major rivers; the Sabarmati, Mahi and Sabarmati tributaries drain its inland region to the Gulf of Kutch.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which state is known for the 'Dhol' and the 'Terah Tali' folk dances?",
+    "options": [
+      "Rajasthan",
+      "Bihar",
+      "Punjab",
+      "Gujarat"
+    ],
+    "answer": 2,
+    "explanation": "The Bhangra, Giddha, Dhol and Terah Tali are the folk dances of Punjab.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bharat Mata' and the 'Vande Mataram' are associated with:",
+    "options": [
+      "Bankim Chandra Chattopadhyay and Rabindranath Tagore",
+      "Rabindranath Tagore only",
+      "Sarojini Naidu",
+      "Subhash Chandra Bose"
+    ],
+    "answer": 0,
+    "explanation": "Bankim Chandra Chattopadhyay composed Vande Mataram and Rabindranath Tagore wrote the song Bharat Mata, both taken up by the nationalist movement.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Seven Pagodas' or the 'Mahabalipuram' monuments belong to which dynasty?",
+    "options": [
+      "Vijayanagara",
+      "Hoysala",
+      "Chola",
+      "Pallava"
+    ],
+    "answer": 3,
+    "explanation": "The rock-cut cave temples and the Shore Temple at Mahabalipuram were built under the Pallava ruler Narasimhavarman I.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hampi' monuments belong to which empire?",
+    "options": [
+      "Chola",
+      "Vijayanagara",
+      "Bahmani",
+      "Mughal"
+    ],
+    "answer": 1,
+    "explanation": "The Hampi monuments, including the Virupaksha temple and the Vittala temple, belong to the Vijayanagara Empire.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Khajuraho' temples were built by the:",
+    "options": [
+      "Chandela",
+      "Paramara",
+      "Kalachuri",
+      "Karkota"
+    ],
+    "answer": 0,
+    "explanation": "The Chandela rulers of Bundelkhand built the temples of Khajuraho in the 10th and 11th centuries.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ellora' caves were hewn out under the:",
+    "options": [
+      "Kalachuri and Chalukya",
+      "Chola",
+      "Vijayanagara",
+      "Kalachuri"
+    ],
+    "answer": 3,
+    "explanation": "The Ellora cave complex was excavated between the 6th and 10th centuries under the Kalachuri, Chalukya and Rashtrakuta rulers.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Stupa' at Sanchi was originally commissioned by:",
+    "options": [
+      "Gupta rulers",
+      "Harishchandra",
+      "Ashoka",
+      "Kanishka"
+    ],
+    "answer": 2,
+    "explanation": "The Great Stupa at Sanchi was commissioned by Ashoka in the 3rd century BCE, though the brick stupa was later enlarged in stone.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Elliptical' Mauryan capital of Pataliputra was located on the:",
+    "options": [
+      "Ganga near Patna",
+      "Yamuna near Delhi",
+      "Son near Rewa",
+      "Godavari near Hyderabad"
+    ],
+    "answer": 0,
+    "explanation": "Pataliputra, the Mauryan capital, stood on the southern bank of the Ganga near modern Patna.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Taxila' and the 'Sanchi' sites belong to which ancient period?",
+    "options": [
+      "Gupta",
+      "Sangam",
+      "Vijayanagara",
+      "Mauryan"
+    ],
+    "answer": 3,
+    "explanation": "Taxila, an ancient university town, and Sanchi, with its great stupa, both flourished under the Mauryan period.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Badami' caves were cut under the:",
+    "options": [
+      "Kakatiyas",
+      "Chalukyas of Badami",
+      "Pallavas",
+      "Cholas"
+    ],
+    "answer": 1,
+    "explanation": "The Badami cave temples were excavated in the sixth century by the Chalukya ruler Pulakeshin I.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pataliputra' university and the 'Nalanda' university belong to:",
+    "options": [
+      "Both medieval",
+      "Both modern",
+      "Ancient and medieval India respectively",
+      "Both ancient"
+    ],
+    "answer": 2,
+    "explanation": "Pataliputra University dates from the Mauryan era and Nalanda flourished from the 5th to the 12th century CE.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kanheri' caves are located near:",
+    "options": [
+      "Bhubaneswar",
+      "Mumbai",
+      "Pune",
+      "Aurangabad"
+    ],
+    "answer": 1,
+    "explanation": "The Kanheri caves, more than a hundred in number, are in the Sanjay Gandhi National Park near Mumbai.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aihole' and the 'Pattadakal' temples belong to the:",
+    "options": [
+      "Pallava dynasty",
+      "Kakatiya dynasty",
+      "Chalukya dynasty",
+      "Hoysala dynasty"
+    ],
+    "answer": 2,
+    "explanation": "The Aihole and Pattadakal experimental temples were built under the early Chalukyas of Badami between the 6th and 8th centuries.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sun Temple' of Modhera is in:",
+    "options": [
+      "Gujarat",
+      "Odisha",
+      "Rajasthan",
+      "Kerala"
+    ],
+    "answer": 0,
+    "explanation": "The Sun Temple at Modhera in Gujarat was built in the eleventh century by the Solanki ruler Bhima I.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Thanjavur' temple of Brihadisvara was built by:",
+    "options": [
+      "Kulothunga Chola I",
+      "Vikrama Chola",
+      "Rajaraja II",
+      "Rajaraja Chola I"
+    ],
+    "answer": 3,
+    "explanation": "The Brihadisvara temple at Thanjavur was completed by Rajaraja Chola I in 1010 CE.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Devaraja' and the 'Cholas' temple at Gangaikonda Cholapuram was built by:",
+    "options": [
+      "Aditya Chola",
+      "Rajaraja I",
+      "Kulothunga Chola I",
+      "Vikrama Chola"
+    ],
+    "answer": 2,
+    "explanation": "The Gangaikonda Cholapuram temple was built by Rajendra Chola I and completed under Kulothunga Chola I.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hoysala' temples at Somnathpur and Halebidu were built in the:",
+    "options": [
+      "10th century",
+      "12th and 13th centuries",
+      "15th century",
+      "9th century"
+    ],
+    "answer": 1,
+    "explanation": "The Hoysala temples of Somnathpur, Halebidu and Belur were built in the 12th and 13th centuries.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Qutub complex' in Delhi includes the:",
+    "options": [
+      "Red Fort and Jama Masjid",
+      "Jahangir's Tomb and Safdarjung's Tomb",
+      "Fatehpur Sikri and Agra Fort",
+      "Qutb Minar, Iron Pillar and Quwwat-ul-Islam Mosque"
+    ],
+    "answer": 3,
+    "explanation": "The Qutb complex contains the Qutb Minar, the Iron Pillar of Delhi and the Quwwat-ul-Islam mosque, all a UNESCO World Heritage site.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Fatehpur Sikri' was built by Akbar as the capital of:",
+    "options": [
+      "Mughal Empire",
+      "Sultanate of Delhi",
+      "Vijayanagara Empire",
+      "Maratha Empire"
+    ],
+    "answer": 0,
+    "explanation": "Akbar built Fatehpur Sikri between 1571 and 1585 as the Mughal capital before shifting to Agra.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mehtab Bagh' in Agra is famous for its:",
+    "options": [
+      "Taj Mahal view and the charbagh garden",
+      "Mughal tombs",
+      "Hindu temple architecture",
+      "British cemetery"
+    ],
+    "answer": 0,
+    "explanation": "The Mehtab Bagh, opposite the Taj Mahal, was laid out as a charbagh garden and is famous for its aligned view of the Taj Mahal.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Red Fort' of Delhi was built by:",
+    "options": [
+      "Shah Jahan",
+      "Akbar",
+      "Humayun",
+      "Jahangir"
+    ],
+    "answer": 1,
+    "explanation": "The Red Fort, called the Lal Qila, was built by Akbar between 1638 and 1648 and completed by Shah Jahan.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Humayun's Tomb' was designed by:",
+    "options": [
+      "Ustad Isa",
+      "Muhammad Shah",
+      "Mirak Mirza Ghiyas",
+      "Sinan"
+    ],
+    "answer": 2,
+    "explanation": "Humayun's Tomb in Delhi was designed by Mirak Mirza Ghiyas, a Persian architect, and is a precursor of the Taj Mahal.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Charminar' was built to commemorate the end of:",
+    "options": [
+      "A famine",
+      "The Mughal rule",
+      "A war",
+      "A plague epidemic"
+    ],
+    "answer": 3,
+    "explanation": "Muhammad Quli Qutb Shah built the Charminar in 1591 to commemorate the end of a plague epidemic in Hyderabad.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gateway of India' was built to commemorate:",
+    "options": [
+      "The opening of the Suez Canal",
+      "The visit of King George V",
+      "The Indian independence",
+      "The Second World War"
+    ],
+    "answer": 1,
+    "explanation": "The Gateway of India was erected in 1924 to commemorate the landing in 1911 of King George V, then the Prince of Wales.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ellora' and the 'Ajanta' caves were discovered in the 19th century by:",
+    "options": [
+      "Henry Cousens",
+      "James Burgess",
+      "Alexander Cunningham",
+      "John Marshall"
+    ],
+    "answer": 2,
+    "explanation": "The caves were first documented by the British officer Alexander Cunningham, the founder of the Archaeological Survey of India.",
+    "difficulty": "hard",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Buddhist stupa' of Sanchi and the 'Great Bath' of Mohenjo-daro belong respectively to:",
+    "options": [
+      "Mauryan and Harappan",
+      "Gupta and Vedic",
+      "Vijayanagara and Sangam",
+      "Kushan and Maurya"
+    ],
+    "answer": 0,
+    "explanation": "The Sanchi stupa was commissioned under Ashoka and the Great Bath is a Harappan structure at Mohenjo-daro.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Thar desert' of India extends chiefly in the state of:",
+    "options": [
+      "Haryana",
+      "Punjab",
+      "Gujarat",
+      "Rajasthan"
+    ],
+    "answer": 3,
+    "explanation": "The Thar desert, the largest hot desert of Asia, lies mainly in Rajasthan and extends into Gujarat, Punjab and Haryana.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cold desert' of Ladakh is also known as:",
+    "options": [
+      "Shyok",
+      "Karakoram",
+      "Thar",
+      "Sindhu"
+    ],
+    "answer": 3,
+    "explanation": "The cold desert of Ladakh is known as the Sindhu valley region, bounded by the Karakoram and the Zanskar ranges.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rann of Kutch' region is famous for:",
+    "options": [
+      "Coal mining",
+      "Salt production and the Rann Utsav",
+      "Rice cultivation",
+      "Tea gardens"
+    ],
+    "answer": 1,
+    "explanation": "The Rann of Kutch is the largest salt producing region of India and hosts the annual Rann Utsav festival.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nokrek' biosphere reserve and the 'Nongkhrem' are in:",
+    "options": [
+      "Meghalaya",
+      "Nagaland",
+      "Manipur",
+      "Mizoram"
+    ],
+    "answer": 0,
+    "explanation": "The Nokrek biosphere reserve, the home of the red panda in Meghalaya, and the Nongkhrem sanctuary are in the North-East hills.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Phang Nga' and the 'Similan' marine national parks are in:",
+    "options": [
+      "Philippines",
+      "Indonesia",
+      "Thailand",
+      "Malaysia"
+    ],
+    "answer": 2,
+    "explanation": "Phang Nga and Similan are marine national parks of Thailand, with Similan known for its coral reefs.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chitwan' national park and the 'Everest' lie in:",
+    "options": [
+      "Bhutan",
+      "India",
+      "Sri Lanka",
+      "Nepal"
+    ],
+    "answer": 3,
+    "explanation": "Chitwan National Park, the first park of Nepal, and Mount Everest lie within Nepal.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kaziranga' and the 'Manas' national parks of Assam are famous for:",
+    "options": [
+      "The one-horned rhinoceros and the tiger",
+      "The Asiatic lion and the elephant",
+      "The snow leopard and the markhor",
+      "The crocodile and the gharial"
+    ],
+    "answer": 0,
+    "explanation": "Kaziranga protects the one-horned rhinoceros and Manas the tiger, both UNESCO World Heritage sites in Assam.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Periyar' and the 'Nagarjunsagar' sanctuaries are in:",
+    "options": [
+      "Kerala and Tamil Nadu",
+      "Tamil Nadu and Karnataka",
+      "Tamil Nadu and Andhra Pradesh",
+      "Kerala and Karnataka"
+    ],
+    "answer": 2,
+    "explanation": "Periyar is in Kerala and Nagarjunsagar-Srisailam in Andhra Pradesh.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ranthambore' and the 'Sariska' are the two tiger reserves of:",
+    "options": [
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Maharashtra"
+    ],
+    "answer": 1,
+    "explanation": "Rajasthan has the Ranthambore, Sariska, Mukundra and Raksha reserves, and hosts the successful tiger relocation programme.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Corbett' national park, India's first, is in:",
+    "options": [
+      "Uttarakhand",
+      "Uttar Pradesh",
+      "Nepal",
+      "Madhya Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "Corbett, established in 1936 as Hailey National Park, was India's first national park and lies in Uttarakhand.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Similipal' biosphere reserve and the 'Gopalpur-on-Bay' are in:",
+    "options": [
+      "Kerala",
+      "Odisha",
+      "West Bengal",
+      "Andhra Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "Similipal, the largest biosphere reserve of India, and Gopalpur-on-Bay are in Odisha.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sunderbans' and the 'Sundarbans Biosphere Reserve' are in:",
+    "options": [
+      "Odisha",
+      "Bangladesh only",
+      "West Bengal and Bangladesh",
+      "West Bengal"
+    ],
+    "answer": 3,
+    "explanation": "The Sundarbans, the largest mangrove forest of the world, straddles West Bengal and Bangladesh; the Indian part lies in West Bengal.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Point Calimere' bird sanctuary is in:",
+    "options": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "answer": 2,
+    "explanation": "Point Calimere, on the Coromandel coast of Tamil Nadu, is a coastal and marine bird sanctuary.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Painted Hills' and the 'Ranthambore' of Rajasthan are known for:",
+    "options": [
+      "Birds and tigers",
+      "Elephants",
+      "Crocodiles",
+      "Tigers"
+    ],
+    "answer": 0,
+    "explanation": "The Bharatpur bird sanctuary, called the Keoladeo Ghana, and Ranthambore together make the 'tiger and bird' circuit of Rajasthan.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

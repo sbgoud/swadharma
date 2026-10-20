@@ -1,0 +1,752 @@
+[
+  {
+    "q": "The four components of India's foreign exchange reserves are:",
+    "options": [
+      "gold, silver, SDRs and the reserve tranche in the IMF",
+      "foreign currency assets, gold, SDRs and the reserve tranche in the IMF",
+      "foreign currency assets, gold, SDRs and euro-denominated deposits",
+      "foreign currency assets, gold, silver and SDRs"
+    ],
+    "answer": 1,
+    "explanation": "Since 1999-2000 the RBI reports reserves as foreign currency assets, gold, SDRs held with the IMF and the country's reserve tranche position with the IMF.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "In the Balance of Payments, the identity that must always hold is that:",
+    "options": [
+      "the current account balance must always be positive",
+      "the capital account balance must always be negative",
+      "the current account balance plus the capital account balance plus the financial account balance plus errors and omissions equals zero",
+      "exports must always equal imports"
+    ],
+    "answer": 2,
+    "explanation": "Every transaction is recorded on both sides, so the BOP identity is that the current, capital and financial accounts together with errors and omissions sum to zero.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Appellate Body' of the World Trade Organization has been unable to function since:",
+    "options": [
+      "January 2020, due to the pandemic",
+      "June 2017, after the Brexit vote",
+      "March 2015, following the Paris Agreement",
+      "December 2019, because of the blockage of new appointments"
+    ],
+    "answer": 3,
+    "explanation": "The Appellate Body has not been able to hear appeals since 11 December 2019 because the United States has blocked the appointment of new members, and this has left the dispute settlement system of the WTO partly paralysed.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "WTO",
+    "year": null
+  },
+  {
+    "q": "The RCEP agreement entered into force for India in:",
+    "options": [
+      "2023",
+      "2022",
+      "2020",
+      "2021"
+    ],
+    "answer": 1,
+    "explanation": "The Regional Comprehensive Economic Partnership entered into force for India on 1 January 2022, and it covers tariff reduction, rules of origin, customs procedures and services commitments among the fifteen parties.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Ministry of Commerce and Industry",
+    "year": null
+  },
+  {
+    "q": "The 'Export-Import Bank of India' finances:",
+    "options": [
+      "the purchase of crude oil by oil companies",
+      "the working capital needs of small farmers",
+      "the construction of port infrastructure",
+      "export and import credit programmes for Indian buyers and overseas buyers of Indian goods"
+    ],
+    "answer": 3,
+    "explanation": "EXIM Bank provides financing for exports and imports, including buyer's credit and supplier's credit through its banking network, and it does not trade on its own account.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Export Credit Guarantee Corporation of India' provides:",
+    "options": [
+      "reinsurance to life insurance companies",
+      "credit guarantees for small enterprises in India",
+      "insurance cover to exporters against payment risk from overseas buyers",
+      "guarantees to banks against project risk"
+    ],
+    "answer": 2,
+    "explanation": "ECGC offers export credit insurance, both the whole-turnover and the small export policy, so that exporters are protected against commercial and political risks of non-payment by overseas buyers.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the 'Cabotage' rules in India:",
+    "options": [
+      "a foreign vessel requires a licence from the Director General of Shipping to carry cargo between two Indian ports",
+      "only Indian built vessels may be registered in India",
+      "Indian flag vessels must sail only on domestic routes",
+      "no vessel may carry cargo between Indian ports without a cabotage licence"
+    ],
+    "answer": 0,
+    "explanation": "Under the Merchant Shipping Act and the relevant notifications, a foreign flag vessel needs a cabotage licence to carry cargo between Indian ports, which is a way of protecting the domestic shipping industry.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Shipping Board of India' is an apex body for:",
+    "options": [
+      "the development of inland waterways",
+      "the certification of exporters",
+      "the regulation of insurance companies",
+      "the development of the Indian shipping industry and the training of seafarers"
+    ],
+    "answer": 3,
+    "explanation": "The Shipping Board of India, constituted in 1961, promotes the Indian shipping industry, runs the National Shipping Academy for seafarer training and advises the government on shipping policy.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's research stations in Antarctica are named:",
+    "options": [
+      "Maharaja and Maitri",
+      "Bharati and Dakshin Gangotri",
+      "Dakshin Gangotri and Bharati",
+      "Maitri and Bharati"
+    ],
+    "answer": 2,
+    "explanation": "Dakshin Gangotri, India's first Antarctic station, was set up in 1984 and Bharati, commissioned in 2024, is India's second permanent station in the Larsemann Hills of Antarctica.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Major Port Authorities Act, 2021' provides for:",
+    "options": [
+      "the transfer of major ports to private operators",
+      "the corporatisation of major ports with professional management and the devolution of powers to the port authorities",
+      "the merger of major ports with the Indian Navy",
+      "the abolition of the port trusts"
+    ],
+    "answer": 1,
+    "explanation": "The Major Port Authorities Act, 2021 replaced the major port trusts with autonomous port authorities that are corporatised, with greater administrative and financial powers and a statutory Board of Directors.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The 'Land Ports Authority of India' was constituted to:",
+    "options": [
+      "regulate and manage the land ports on the western and northern borders of India",
+      "develop the inland waterways",
+      "administer the customs duty on seaports",
+      "operate the airports along the borders"
+    ],
+    "answer": 0,
+    "explanation": "The Land Ports Authority of India was set up in 2010 to manage the land ports along the borders with Nepal, Bhutan and Bangladesh, upgrading their infrastructure and facilities.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "India's transhipment traffic is mainly routed through:",
+    "options": [
+      "the ports of Colombo, Singapore and Dubai",
+      "the ports of Kochi and Mangaluru",
+      "the inland waterways of the Ganga",
+      "the ports of Chennai and Kolkata only"
+    ],
+    "answer": 0,
+    "explanation": "A large share of India's container transhipment cargo is handled at Colombo, Singapore and Dubai because of the deeper drafts and better connectivity available at those transhipment hubs.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'India-EFTA' trade agreement signed in 2022 provided for:",
+    "options": [
+      "the opening of the Indian market to EFTA services alone",
+      "a free trade pact with the European Union",
+      "a currency swap with the EFTA countries",
+      "duty-free access for Indian exports to the EFTA countries and a commitment of Indian origin for over 90 per cent of Indian exports"
+    ],
+    "answer": 3,
+    "explanation": "The India-EFTA BIPA of 2022 offers preferential tariff access to Indian goods in the four EFTA countries and required India to extend a commitment of origin to more than 90 per cent of its exports.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Ministry of Commerce and Industry",
+    "year": 2022
+  },
+  {
+    "q": "The 'Comprehensive Economic and Trade Agreement' between India and Australia entered into force in:",
+    "options": [
+      "2018",
+      "2024",
+      "2022",
+      "2020"
+    ],
+    "answer": 2,
+    "explanation": "The India-Australia ECTA was signed in 2020 and came into force on 5 May 2022, giving Indian exporters preferential access to the Australian market and Australian firms to the Indian market.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Ministry of Commerce and Industry",
+    "year": 2022
+  },
+  {
+    "q": "The 'New Development Bank' established by the BRICS countries in 2014 is headquartered at:",
+    "options": [
+      "Brasilia",
+      "Shanghai",
+      "New Delhi",
+      "Moscow"
+    ],
+    "answer": 1,
+    "explanation": "The New Development Bank, with an initial authorised capital of USD 100 billion, is headquartered in Shanghai and India is one of its five founding members with a share of the capital.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Asian Development Bank' is headquartered at:",
+    "options": [
+      "Tokyo",
+      "Manila",
+      "Beijing",
+      "Bangkok"
+    ],
+    "answer": 1,
+    "explanation": "The Asian Development Bank, established in 1966, is headquartered in Manila and India has been a member since its inception, with the ADB's India resident mission based in New Delhi.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Asian Infrastructure Investment Bank, of which India is a founding member, began operations in:",
+    "options": [
+      "2010",
+      "2008",
+      "2019",
+      "2016"
+    ],
+    "answer": 3,
+    "explanation": "The AIIB was established by the Articles of Agreement in 2015 and commenced operations in January 2016, with its headquarters in Beijing and India as one of the five founding members.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IDA' of the World Bank Group lends to:",
+    "options": [
+      "the poorest countries on interest-free or concessional terms",
+      "all member countries on commercial terms",
+      "middle-income countries only",
+      "Indian states for infrastructure projects"
+    ],
+    "answer": 0,
+    "explanation": "The International Development Association, the concessional window of the World Bank Group, lends to the poorest countries on interest-free or very low interest terms, while the IBRD lends to middle-income countries.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The IMF's 'Rapid Financing Instrument' is available to:",
+    "options": [
+      "only countries in the euro area",
+      "only low-income countries",
+      "all member countries facing a balance of payments need, without a programme review",
+      "only countries facing a balance of payments need caused by a commodity price shock"
+    ],
+    "answer": 2,
+    "explanation": "The RFI, introduced in 2011, provides rapid and unconditional financing to any member country facing an urgent balance of payments need, without a programmatic review, and the RFI and RCF are the Fund's non-financing facilities.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "IMF",
+    "year": null
+  },
+  {
+    "q": "In the WTO, the 'Special and Differential Treatment' provisions:",
+    "options": [
+      "provide for tariff-free access to their exports",
+      "apply only to the least developed countries",
+      "give developing countries longer implementation periods and additional flexibilities in their commitments",
+      "allow developing countries to opt out of all dispute settlement"
+    ],
+    "answer": 2,
+    "explanation": "Special and differential treatment gives developing and least developed countries longer implementation periods, exemptions and additional flexibilities in the use of subsidies and in dispute settlement.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "WTO",
+    "year": null
+  },
+  {
+    "q": "The WTO's 'Agreement on Subsidies and Countervailing Measures' governs:",
+    "options": [
+      "the tariff concessions of developing countries",
+      "prohibiting or disciplining trade subsidies that cause injury and the countervailing duties on subsidised imports",
+      "the settlement of disputes over patents",
+      "the rules of origin"
+    ],
+    "answer": 1,
+    "explanation": "The SCM Agreement regulates the use of subsidies by prohibiting those that cause adverse effects and allows importing members to impose countervailing duties on subsidised imports after an investigation.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "WTO",
+    "year": null
+  },
+  {
+    "q": "A 'countervailing duty' is imposed on an import when:",
+    "options": [
+      "the import price falls below the cost of production",
+      "the exporting country imposes a restriction on Indian goods",
+      "the good is listed in the special economic zone",
+      "the import is found to be subsidised and the subsidy causes injury to the domestic industry"
+    ],
+    "answer": 3,
+    "explanation": "Countervailing duties are imposed after an investigation establishes that the imported product receives a specific subsidy and that the subsidised imports cause injury to the domestic industry; anti-dumping duties address dumping instead.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "DGFT",
+    "year": null
+  },
+  {
+    "q": "The 'Rules of Origin' under India's trade agreements determine:",
+    "options": [
+      "the origin of goods for preference treatment, and consequently the applicable preferential tariff",
+      "the customs valuation of imports",
+      "the shipping cost of exports",
+      "the exchange rate for settlement"
+    ],
+    "answer": 0,
+    "explanation": "Rules of origin establish whether goods qualify for preferential tariff treatment under a trade agreement, usually through substantial transformation, production or value-addition criteria.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Ministry of Commerce and Industry",
+    "year": null
+  },
+  {
+    "q": "A 'Preferential Trade Agreement' between India and a partner country differs from a 'Free Trade Agreement' in that it:",
+    "options": [
+      "covers a limited number of tariff lines with a narrower scope of commitments",
+      "has no rules of origin",
+      "is negotiated only at the multilateral level",
+      "eliminates all tariffs immediately"
+    ],
+    "answer": 0,
+    "explanation": "A preferential trade agreement covers a limited number of goods with lower commitments, while a free trade agreement seeks substantially complete elimination of tariffs on most traded goods and deeper coverage of services and investment.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Ministry of Commerce and Industry",
+    "year": null
+  },
+  {
+    "q": "The 'CEPA' between India and a partner is:",
+    "options": [
+      "a currency swap arrangement",
+      "a Comprehensive Economic and Trade Agreement covering goods, services and investment",
+      "a bilateral defence agreement",
+      "a customs union"
+    ],
+    "answer": 1,
+    "explanation": "A Comprehensive Economic and Trade Agreement covers trade in goods, trade in services, investment, movement of persons and regulatory cooperation, and India has such agreements with the UAE, Australia and others.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Wildlife Crime Control Act' and the 'CITES' conventions are relevant to India's international trade because:",
+    "options": [
+      "they fix the export duty on timber",
+      "they regulate the import of coal from Australia",
+      "they standardise the quality of pharma products for export",
+      "they restrict the export of species and products covered by international wildlife treaties"
+    ],
+    "answer": 3,
+    "explanation": "CITES, to which India is a party, lists endangered species whose trade is regulated, and the Wildlife Crime Control Act enforces the ban on trade in such species and products like ivory, rhino horn and tiger parts.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Foreign Direct Investment' in India differs from 'Foreign Portfolio Investment' because FDI:",
+    "options": [
+      "cannot be made in the services sector",
+      "is short term and easily reversible",
+      "involves a lasting management interest and is made in the capital of an enterprise in which the investor has significant control",
+      "is always routed through the mutual funds"
+    ],
+    "answer": 2,
+    "explanation": "FDI is an investment that confers a lasting interest and effective management influence, whereas FPI is a purely financial investment in securities that is readily reversible; the two are governed by separate FEMA regulations.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Press Note 3 of 2020' issued by the DPIIT relates to:",
+    "options": [
+      "the extension of the e-commerce rules",
+      "the revision of the export promotion schemes",
+      "the abolition of the SEZ",
+      "the redefinition of the beneficial owner for the purpose of determining the sector under which FDI could be made"
+    ],
+    "answer": 3,
+    "explanation": "Press Note 3 of 2020 changed the definition of beneficial owner for FDI, which altered the automatic-route treatment of investments in sectors with Press Note 3 restrictions, such as media and certain technology areas.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "DPIIT",
+    "year": 2020
+  },
+  {
+    "q": "Under the 'automatic route' of FDI, an investor may:",
+    "options": [
+      "invest only in special economic zones",
+      "make the investment without the prior approval of the government",
+      "make the investment only through the automatic listing route",
+      "make the investment only after the approval of the RBI"
+    ],
+    "answer": 1,
+    "explanation": "Under the automatic route, the foreign investor does not need prior government approval, though the investment must still comply with the FEMA regulations and sectoral caps and the RBI must be informed.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "DPIIT",
+    "year": null
+  },
+  {
+    "q": "The 'special economic zones' in India offer, among others, the facility of:",
+    "options": [
+      "free of the requirement to pay land revenue",
+      "exemption from the corporate tax for ever",
+      "exemption from customs duty on imports and from taxes on exports",
+      "a waiver of all labour laws permanently"
+    ],
+    "answer": 2,
+    "explanation": "Units in special economic zones enjoy a duty free enclave with no duty on imports and no taxes on exports, along with infrastructure and a faster dispute resolution mechanism, but they remain subject to labour and environmental law.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'duty drawback' and 'RoDTEP' schemes in India are:",
+    "options": [
+      "both intended to refund the taxes and duties embedded in the cost of inputs of exported goods",
+      "tariff concessions granted to the least developed countries",
+      "the two components of the GST Council's compensation formula",
+      "the instruments used by the RBI to sterilise foreign exchange"
+    ],
+    "answer": 0,
+    "explanation": "Both duty drawback and RoDTEP aim at refunding the taxes and duties embedded in inputs of exports; RoDTEP replaced duty drawback and the focus product scheme with a single scrip-based mechanism.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "DGFT",
+    "year": null
+  },
+  {
+    "q": "The 'Export Promotion Mission' also known as 'Niryat Bandhu' was launched in 2021 to:",
+    "options": [
+      "simplify the customs procedure for the e-commerce exports",
+      "regulate the export of strategic minerals",
+      "assist Indian exporters, particularly small exporters, in reaching international markets",
+      "finance the setting up of export oriented industrial parks"
+    ],
+    "answer": 2,
+    "explanation": "Niryat Bandhu, the Niryat Bandhu Vridhi scheme, was launched to provide handholding support to small exporters and enable them to participate in international trade and use digital tools.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "DGFT",
+    "year": 2021
+  },
+  {
+    "q": "The 'Import Duty' in the Union Budget is levied by the:",
+    "options": [
+      "the Directorate General of Foreign Trade",
+      "State Governments on goods entering their territory",
+      "both the Union and the States in equal proportion",
+      "Union Government and the proceeds accrue to the Union"
+    ],
+    "answer": 3,
+    "explanation": "Customs duty is a Union subject under the Seventh Schedule and the proceeds accrue to the Consolidated Fund of India, whereas GST on goods sold within a State is shared with the States.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Customs Act, 1962 and the Customs Tariff Act, 1961 are concerned with:",
+    "options": [
+      "the levy and collection of customs duty on imported goods",
+      "the rate of corporate income tax",
+      "the regulation of the insurance business",
+      "the pricing of petroleum products"
+    ],
+    "answer": 0,
+    "explanation": "The Customs Act, 1962 and the Customs Tariff Act, 1961 govern the assessment and collection of customs duty, with the tariff rates being revised through the annual customs notifications.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Decommissioning of Embossed Duty on Goods' in the Indian customs system relates to:",
+    "options": [
+      "the end of the export incentive scheme",
+      "the simplification of the procedure for duty drawback and the removal of the requirement of embossing on duty drawback certificates",
+      "the abolition of basic customs duty on imports",
+      "the introduction of the single window for customs clearance"
+    ],
+    "answer": 1,
+    "explanation": "The measure removed the requirement of affixing an embossed serial number on the duty drawback certificates and streamlined the procedure, in line with the ease of doing business reforms of the GST era.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Basic Customs Duty' and the 'Special Additional Duty' levied on petroleum products are:",
+    "options": [
+      "both part of the GST",
+      "levied only on imports and not on domestic production",
+      "both levied by the States",
+      "a Union tax and a cess-like levy used to fund downstream subsidies"
+    ],
+    "answer": 3,
+    "explanation": "Basic customs duty is a Union tax on imports, while the special additional duty on petroleum products accrues to the Union and is used to compensate oil companies for the controlled retail prices of petroleum products.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'per unit value standard' and the 'specific duty' are the two methods of:",
+    "options": [
+      "ad valorem duty calculation",
+      "determining the excise duty on petroleum",
+      "computing the GDP deflator",
+      "fixing the customs valuation of imports"
+    ],
+    "answer": 0,
+    "explanation": "Ad valorem duty is levied as a percentage of the assessed value of the import, which may be calculated either on the basis of the specific value per unit of the goods or on the specific rate of duty per unit.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A 'real exchange rate' differs from a nominal exchange rate in that it:",
+    "options": [
+      "is used only for official reserves",
+      "refers to the rate at which the central bank buys foreign currency",
+      "takes account of the difference in price levels between countries",
+      "is quoted only in terms of the dollar"
+    ],
+    "answer": 2,
+    "explanation": "The real exchange rate adjusts the nominal rate for relative price levels, and a depreciation of the real exchange rate makes Indian goods cheaper for foreigners once inflation is taken into account.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A deterioration in the 'terms of trade' of a country means:",
+    "options": [
+      "its import demand curve shifts inwards",
+      "the prices of its exports fall relative to the prices of its imports",
+      "the volume of its exports falls",
+      "its currency appreciates in real terms"
+    ],
+    "answer": 1,
+    "explanation": "The terms of trade measure the ratio of export prices to import prices, so a fall in export prices relative to import prices is a deterioration, and for India a fall in petroleum prices is a classic example of an improvement.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'exchange rate pass-through' refers to:",
+    "options": [
+      "the mechanism by which the RBI sterilises forex intervention",
+      "the extent to which a change in the exchange rate is reflected in domestic prices",
+      "the rate at which exporters convert dollars into rupees",
+      "the cost of hedging a currency forward"
+    ],
+    "answer": 1,
+    "explanation": "Pass-through measures how much of a depreciation is transmitted into domestic prices, and its size matters for the inflation consequences of an exchange rate adjustment.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "When the RBI purchases foreign currency from the market, the liquidity it adds to the system is called:",
+    "options": [
+      "sterilised liquidity",
+      "primary deficit",
+      "quasi-fiscal deficit",
+      "fiscal deficit"
+    ],
+    "answer": 0,
+    "explanation": "Foreign exchange intervention that injects liquidity into the domestic system is termed sterilised liquidity, and the RBI usually absorbs it through open market sales or reverse repos when it wants to keep liquidity conditions stable.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Interest Equalisation Deposit Scheme' of the RBI was introduced in 2022 to:",
+    "options": [
+      "raise the repo rate to control inflation",
+      "enable Indian companies to borrow in foreign currency",
+      "subsidise the import of edible oil",
+      "allow exporters to park their foreign currency proceeds with the RBI at a fixed rate for a specified period"
+    ],
+    "answer": 3,
+    "explanation": "The scheme allowed exporters to deposit foreign currency proceeds with the RBI for a period at a fixed interest rate, in order to boost foreign exchange inflows and provide a hedge against exchange rate risk.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "RBI",
+    "year": 2022
+  },
+  {
+    "q": "The 'Foreign Currency Non-Resident' deposits in India are:",
+    "options": [
+      "the reserve account of the RBI",
+      "short term loans from the IMF",
+      "term deposits made by Indian residents holding foreign currency, and by foreign nationals from outside India",
+      "current account balances of foreign companies in rupee"
+    ],
+    "answer": 2,
+    "explanation": "FCNR deposits may be made by Indian residents who hold foreign currency and by foreigners resident outside India, and they are of a specified minimum maturity, attracting an interest rate fixed by the RBI.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'NRI' in the FEMA regulations denotes:",
+    "options": [
+      "any foreigner holding an Indian visa",
+      "a person who is an Indian citizen and who has stayed outside India for more than 180 days during the preceding financial year",
+      "a person of Indian origin resident outside India irrespective of citizenship",
+      "an overseas Indian who has permanently settled abroad"
+    ],
+    "answer": 1,
+    "explanation": "For FEMA purposes, a non-resident Indian is a person who, during the financial year, has stayed in India for less than 182 days, while a person of Indian origin is defined separately and can be of any nationality.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Liberalised Remittance Scheme' of the RBI allows an Indian resident to remit:",
+    "options": [
+      "up to USD 50,000 a year for trade related remittances",
+      "any amount for personal travel abroad",
+      "up to USD 2,50,000 a year for any permissible purpose without any approval",
+      "unlimited amounts for medical treatment only"
+    ],
+    "answer": 2,
+    "explanation": "Under the LRS, an individual may remit up to USD 2,50,000 in a financial year to any country for any permissible purpose, and the limit was temporarily revised during the pandemic period.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Indian diaspora' remittances to India have been:",
+    "options": [
+      "the main source of India's outward foreign investment",
+      "restricted by the FEMA since 1991",
+      "the largest source of India's fiscal deficit",
+      "one of the largest sources of India's inward remittances and a significant support for the balance of payments"
+    ],
+    "answer": 3,
+    "explanation": "Inward remittances from Indians working abroad, mainly from the Gulf and the OECD countries, are a major and relatively stable component of the current account, and the World Bank estimates that India is the world leader in remittance inflows.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "In India's expenditure approach to national income, 'net exports' equal:",
+    "options": [
+      "exports of goods and services minus imports of goods and services",
+      "exports of goods minus imports of goods only",
+      "the balance of the current account plus capital account",
+      "the forex reserves at the end of the year"
+    ],
+    "answer": 0,
+    "explanation": "Net exports in the domestic product identity include both goods and services, and a negative net export figure means the country is running a deficit on the overall trade in goods and services.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The share of 'services' in India's exports has increased mainly because of:",
+    "options": [
+      "the removal of all quantitative restrictions on imports",
+      "the growth of information technology, business process and financial services with a comparative advantage in skilled labour",
+      "the devaluation of the rupee",
+      "the large-scale migration of Indian professionals"
+    ],
+    "answer": 1,
+    "explanation": "India's comparative advantage in skilled labour has driven the rapid expansion of information technology and business process service exports, which have made services the dominant share of the export basket.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'import cover' of India is measured as:",
+    "options": [
+      "the ratio of exports to imports",
+      "the ratio of the fiscal deficit to the GDP",
+      "the ratio of foreign exchange reserves to the value of annual imports",
+      "the ratio of the trade deficit to the current account deficit"
+    ],
+    "answer": 2,
+    "explanation": "Import cover is the number of months of imports that the forex reserves can finance, and a higher cover implies a larger buffer against external shocks.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'current account deficit' of an economy is:",
+    "options": [
+      "the difference between the fiscal deficit and the primary deficit",
+      "the gap between the current and the capital account of the budget",
+      "the sum of the fiscal deficit and the external commercial borrowing",
+      "the excess of imports of goods and services plus income payments over exports plus income receipts"
+    ],
+    "answer": 3,
+    "explanation": "The current account records trade in goods and services, primary income and secondary income, and a deficit means that the country is receiving less than it spends abroad, which must be financed by capital inflows.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "RBI",
+    "year": null
+  }
+]

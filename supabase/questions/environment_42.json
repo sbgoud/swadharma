@@ -1,0 +1,512 @@
+[
+  {
+    "q": "The 'Exclusive Economic Zone' of a coastal state extends up to:",
+    "options": [
+      "200 nautical miles from the baseline",
+      "350 nautical miles from the baseline",
+      "The edge of the continental shelf",
+      "12 nautical miles from the baseline"
+    ],
+    "answer": 0,
+    "explanation": "Under the United Nations Convention on the Law of the Sea, the coastal states have an Exclusive Economic Zone extending up to 200 nautical miles from the baseline, in which they have the sovereign rights over the natural resources.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'territorial waters' of a coastal state extend up to:",
+    "options": [
+      "24 nautical miles from the baseline",
+      "200 nautical miles from the baseline",
+      "The edge of the continental shelf",
+      "12 nautical miles from the baseline"
+    ],
+    "answer": 3,
+    "explanation": "The territorial sea of a coastal state extends up to 12 nautical miles from the baseline, in which the sovereignty of the coastal state is complete, subject to the right of innocent passage of the foreign ships.",
+    "difficulty": "medium",
+    "category": "ocean-and-marine",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'High Seas' in the law of the sea refers to the areas of the ocean:",
+    "options": [
+      "Beyond the territorial waters but within the exclusive economic zone of the coastal states",
+      "Beyond the exclusive economic zones of all the coastal states, where the high seas freedoms apply",
+      "Within the twelve nautical miles of the coastline",
+      "The area of the ocean above the continental shelf"
+    ],
+    "answer": 1,
+    "explanation": "The high seas are the parts of the ocean that lie beyond the exclusive economic zones of all the coastal states, and the freedom of navigation, of overflight, of the laying of the cables and of the scientific research apply there.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Ocean Dipole' is:",
+    "options": [
+      "A climate pattern that involves the difference in the sea surface temperature between the western and the eastern equatorial Indian Ocean",
+      "The difference in the salinity between the Arabian Sea and the Bay of Bengal",
+      "The tidal difference between the Gulf of Khambhat and the Gulf of Cambay",
+      "The difference in the depth of the continental shelf on the two coasts of India"
+    ],
+    "answer": 0,
+    "explanation": "The Indian Ocean Dipole is an interannual climate pattern of the tropical Indian Ocean in which the sea surface temperature of the western part of the basin is warmer than that of the eastern part, and it influences the monsoon rainfall over India.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'International Seabed Authority' administers:",
+    "options": [
+      "The navigation in the Arctic Ocean",
+      "The marine pollution in the Mediterranean Sea",
+      "The mineral resources of the deep seabed beyond the national jurisdiction of the coastal states",
+      "The fisheries of the high seas"
+    ],
+    "answer": 2,
+    "explanation": "The International Seabed Authority, established under the United Nations Convention on the Law of the Sea of 1982, administers the mineral resources of the Area, the deep seabed and the ocean floor that lie beyond the national jurisdiction of the coastal states.",
+    "difficulty": "hard",
+    "category": "ocean-and-marine",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhadla Solar Park' is located in:",
+    "options": [
+      "Jaisalmer in Rajasthan",
+      "Pavagada in Karnataka",
+      "Khaveda in Gujarat",
+      "Koprnaharaj in Maharashtra"
+    ],
+    "answer": 0,
+    "explanation": "The Bhadla solar park in the Jaisalmer district of Rajasthan is one of the largest solar parks of Asia, with a capacity of about 2,250 megawatts, and it is a wholly owned project of the Adani group.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pavagada' or the 'Shakti Sthala' solar park is located in:",
+    "options": [
+      "Tamil Nadu",
+      "Gujarat",
+      "Andhra Pradesh",
+      "Karnataka"
+    ],
+    "answer": 3,
+    "explanation": "The Pavagada solar park, also called the Shakti Sthala, is located in the Pavagada taluk of the Chitradurga district of Karnataka and has a capacity of about 2,050 megawatts, which makes it one of the largest solar parks of the world.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PM-Surya Ghar: Muft Bijli Yojana' launched in 2024 aims at:",
+    "options": [
+      "The electrification of the railway network with the solar energy",
+      "One crore households with a rooftop solar plant of up to 3 kW and a monthly electricity bill of up to 300 units free",
+      "The installation of the solar pumps in every village of the country",
+      "The conversion of the coal plants of the country into the solar parks"
+    ],
+    "answer": 1,
+    "explanation": "The PM-Surya Ghar: Muft Bijli Yojana, launched in February 2024, provides the rooftop solar plants of up to 3 kW to about one crore households and allows a monthly electricity bill of up to 300 units to be free.",
+    "difficulty": "medium",
+    "category": "renewable-energy",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The three components of the 'PM-KUSUM' scheme launched in 2019 are:",
+    "options": [
+      "The solar irrigation, the solar cold storage and the solar street lights",
+      "The offshore wind, the tidal energy and the geothermal energy",
+      "Small solar plants, solar parks and standalone solar pumps",
+      "Rooftop solar, wind farms and the biomass plants"
+    ],
+    "answer": 2,
+    "explanation": "The PM-KUSUM scheme has three components: the installation of 10 lakh small solar plants of up to 2 kW, the setting up of 1,500 MW of the solar parks, and the provision of 4 lakh standalone solar pumps to the farmers.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The first offshore wind project of India was tendered in 2023 for:",
+    "options": [
+      "500 megawatts off the coast of Tamil Nadu",
+      "2 gigawatts off the coast of Maharashtra",
+      "100 megawatts in the Gulf of Kachchh",
+      "1 gigawatt of the capacity off the coast of Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "The first offshore wind project of India was tendered in November 2023 for the installation of 1 gigawatt of the wind capacity off the coast of Gujarat, and the projects are to be commissioned by 2025-26.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'National Green Hydrogen Mission' approved in 2023 targets the production of:",
+    "options": [
+      "10 million metric tonnes of green hydrogen per year by 2047 with an outlay of Rs 40,000 crore",
+      "1 million metric tonnes of green hydrogen per year by 2027 with an outlay of Rs 2,000 crore",
+      "5 million metric tonnes of green hydrogen per year by 2030 with an outlay of Rs 19,744 crore",
+      "2 million metric tonnes of green hydrogen per year by 2030 with an outlay of Rs 8,000 crore"
+    ],
+    "answer": 2,
+    "explanation": "The National Green Hydrogen Mission, approved in January 2023 with an outlay of Rs 19,744 crore over five years, targets the production of 5 million metric tonnes of green hydrogen per year by 2030 and the reduction of about 50 million tonnes of the annual greenhouse gas emissions.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Kadamakudy' pumped storage hydro project is located in:",
+    "options": [
+      "Arunachal Pradesh",
+      "Kerala",
+      "Tamil Nadu",
+      "Himachal Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "The 1,200 MW pumped storage hydro project of Kadamakudy, the largest in the country, is being built in Kerala on the Bharathapuzha river, and the Sorang project in Arunachal Pradesh is the other large pumped storage project under construction.",
+    "difficulty": "hard",
+    "category": "renewable-energy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Environment (Protection) Act, 1986, the Central Government is empowered to:",
+    "options": [
+      "Lay down the standards for the quality of the environment and to take the measures to prevent, control and abate the pollution",
+      "Declare any area as a wildlife sanctuary on its own",
+      "Appoint the members of the National Green Tribunal",
+      "Levy the environmental compensation on the polluters"
+    ],
+    "answer": 0,
+    "explanation": "The Environment (Protection) Act of 1986 gives the Central Government the power to take all the necessary measures to prevent, control and abate the environmental pollution and to prescribe the standards for the quality of the environment, while the declaration of the protected areas rests with the state governments.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Forest (Conservation) Act, 1980, the diversion of the forest land for the non-forest use:",
+    "options": [
+      "Is allowed if the area is below one hectare",
+      "Can be done by the local bodies for the public utilities",
+      "Is permitted by the State Government without any condition",
+      "Requires the prior approval of the Central Government"
+    ],
+    "answer": 3,
+    "explanation": "The Forest (Conservation) Act of 1980 restricts the diversion of the forest land for the non-forest use and requires the prior approval of the Central Government, though the state governments and the union territories are exempt for the small areas of the forest land.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Compensatory Afforestation Fund Management and Planning Act, 2016' provides for:",
+    "options": [
+      "The declaration of the community forests in the village forests",
+      "A national and a state level fund for the compensatory afforestation and the improvement of the forest cover",
+      "The right of the tribal communities to the minor forest produce",
+      "The financial assistance to the mangrove restoration projects"
+    ],
+    "answer": 1,
+    "explanation": "The CAMPA Act of 2016 created the national and the state level funds for the compensatory afforestation and the improvement of the forest cover in the government forests, and it also dealt with the funds that had been accumulated with the states for this purpose.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Biodiversity Authority' is constituted under the:",
+    "options": [
+      "Environment (Protection) Act, 1986",
+      "Forest (Conservation) Act, 1980",
+      "Biological Diversity Act, 2002",
+      "Wildlife (Protection) Act, 1972"
+    ],
+    "answer": 2,
+    "explanation": "The National Biodiversity Authority is the apex body for the conservation of the biological diversity, and it is constituted under the Biological Diversity Act, 2002, with the mandate to implement the access and the benefit sharing regime and to oversee the commercial utilisation of the biological resources.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the National Green Tribunal Act, 2010, an appeal from the orders of the Tribunal lies to:",
+    "options": [
+      "The concerned High Court",
+      "The Union Public Service Commission",
+      "The National Green Tribunal itself",
+      "The Supreme Court"
+    ],
+    "answer": 0,
+    "explanation": "Section 22 of the National Green Tribunal Act, 2010 provides that an appeal against the orders of the National Green Tribunal lies to the High Court within ninety days, and the appeal to the Supreme Court lies only on the question of the law.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Coastal Regulation Zone notification of 2019 provides for:",
+    "options": [
+      "The prohibition of the construction in the hill stations of the coastal states",
+      "The setting up of the marine national parks in the coastal states",
+      "The regulation of the fisheries in the territorial waters",
+      "The classification of the coastal areas into the CRZ I to the CRZ IV categories"
+    ],
+    "answer": 3,
+    "explanation": "The Coastal Regulation Zone Notification of 2019, which replaced the 1991 notification, divides the coastal areas into the CRZ I to the CRZ IV categories with the detailed activities permitted in each of them, and it provides for the Island Eco Development Zones for the islands.",
+    "difficulty": "medium",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Wildlife Crime Control Bureau' was established in 2007 under the:",
+    "options": [
+      "Biological Diversity Act, 2002",
+      "Wildlife Crime Control Act, 2006",
+      "Wildlife (Protection) Act, 1972",
+      "Forest (Conservation) Act, 1980"
+    ],
+    "answer": 2,
+    "explanation": "The Wildlife Crime Control Bureau was constituted in 2007 under the Wildlife (Protection) Act, 1972 to strengthen the enforcement of the wildlife protection laws, with its headquarters at New Delhi and the regional offices at a number of places.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'green audit' that the Comptroller and Auditor General of India introduced in 2011 was for:",
+    "options": [
+      "The audit of the environmental performance of the government departments",
+      "The audit of the forest and the wildlife management",
+      "The certification of the environmental management systems of the industries",
+      "The audit of the corporate social responsibility spending"
+    ],
+    "answer": 0,
+    "explanation": "The Comptroller and Auditor General of India in 2011 introduced the green audit, that is the audit of the environmental performance of the government departments and the bodies that they control, so as to strengthen the parliamentary oversight of the environmental outcomes.",
+    "difficulty": "hard",
+    "category": "environment-governance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Disaster Management Act, 2005' provides for:",
+    "options": [
+      "The compulsory insurance of the disaster prone assets",
+      "The National Disaster Management Authority, the State Disaster Management Authority and the District Disaster Management Authority",
+      "Only the National Disaster Management Authority",
+      "The National and the State Relief Commissions"
+    ],
+    "answer": 1,
+    "explanation": "The Disaster Management Act, 2005 provides for the creation of the National Disaster Management Authority chaired by the Prime Minister, the State Disaster Management Authority chaired by the Chief Minister and the District Disaster Management Authority chaired by the District Magistrate.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sendai Framework for Disaster Risk Reduction' covers the period:",
+    "options": [
+      "2020 to 2035",
+      "1999 to 2015",
+      "2015 to 2030",
+      "2005 to 2015"
+    ],
+    "answer": 2,
+    "explanation": "The Sendai Framework for Disaster Risk Reduction was adopted in 2015 and covers the period 2015 to 2030, and it replaced the Hyogo Framework of 2005 to 2015 with the four priorities of the understanding the risk, the strengthening of the governance, the investing in the resilience and the preparedness for the response and the recovery.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The names of the cyclones in the Bay of Bengal are suggested by:",
+    "options": [
+      "A committee of the World Meteorological Organisation and the ESCAP Panel on the Tropical Cyclones",
+      "The India Meteorological Department alone",
+      "The Inter-Ministerial Committee of the Ministry of Earth Sciences",
+      "The United Nations Development Programme"
+    ],
+    "answer": 0,
+    "explanation": "The names of the tropical cyclones in the North Indian Ocean are suggested by the countries of the WMO and the ESCAP Panel on the Tropical Cyclones, and a list of 169 names was prepared with each country of the region contributing 4 names per column of the list.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'MGNREGA' guarantees to the rural households:",
+    "options": [
+      "The right to the food grains through the fair price shops",
+      "One hundred days of wage employment in a year and the unemployment allowance if the work is not provided within fifteen days",
+      "Two hundred days of wage employment in a year",
+      "One hundred days of the wage employment but only in the drought prone areas"
+    ],
+    "answer": 1,
+    "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act guarantees 100 days of wage employment in a financial year to the rural households whose adult members opt for it, and the unemployment allowance has to be paid if the work is not provided within fifteen days of the demand.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jal Jeevan Mission' launched in 2019 aims at:",
+    "options": [
+      "The irrigation of every village through the canal system",
+      "The rainwater harvesting in the rural schools",
+      "The desalination of the water in the coastal villages",
+      "A functional household tap connection with 55 litres per capita per day of potable water in every rural household"
+    ],
+    "answer": 3,
+    "explanation": "The Jal Jeevan Mission aims to provide a functional household tap connection to every rural household with 55 litres per capita per day of potable water, and it also promotes the grey water management, the recharge and the rainwater harvesting.",
+    "difficulty": "medium",
+    "category": "disasters-and-management",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'River Boards Act, 1956' provides for:",
+    "options": [
+      "The navigation in the navigable rivers",
+      "The flood protection works in the river basins",
+      "The establishment of the river boards for the regulation and the development of the inter-State rivers",
+      "The irrigation projects in the river valleys"
+    ],
+    "answer": 2,
+    "explanation": "The River Boards Act, 1956 provides for the establishment of the river boards for the regulation and the development of the inter-State rivers and of the river valleys, and it also provides for the adjudication of the disputes on the water sharing.",
+    "difficulty": "hard",
+    "category": "disasters-and-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Biological Diversity Act, 2002, an 'alien species' is a species that:",
+    "options": [
+      "Has been introduced by the humans for the food",
+      "Occurs outside its natural range and threatens the biological diversity of the country",
+      "Is not a native species but is harmless to the local ecology",
+      "Is found only within a single state"
+    ],
+    "answer": 1,
+    "explanation": "An alien species is a species that occurs outside its natural range and that threatens the biological diversity of the country, and the Act makes it incumbent on the Central Government to regulate the introduction and the use of such species and to lay down the rules for their management.",
+    "difficulty": "hard",
+    "category": "biodiversity",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Social forestry' means:",
+    "options": [
+      "The raising of the trees on the government and the community lands that are not under the forest department",
+      "The afforestation of the private estates by the corporate houses",
+      "The farming of the trees for the timber in the private forests",
+      "The collection of the minor forest produce by the village communities"
+    ],
+    "answer": 0,
+    "explanation": "Social forestry is the raising of the trees on the government and the community lands that are not under the forest department, for the production of the fuel wood, the fruit and the fodder, and it also covers the raising of the trees on the private lands.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'National Agroforestry Policy' of India was released in:",
+    "options": [
+      "2010",
+      "2014",
+      "2021",
+      "2018"
+    ],
+    "answer": 3,
+    "explanation": "The first ever National Agroforestry Policy of India was released in 2018, and it defines agroforestry as the purposeful integration of the trees and the shrubs with the crops and the livestock to create a productive and a sustainable ecosystem.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'gharial' or the long-snouted crocodile of the National Crocodile Conservation Centre is:",
+    "options": [
+      "The largest crocodile of the world",
+      "A species that is found in the mangrove swamps of the Sundarbans",
+      "A freshwater turtle of the Western Ghats",
+      "A critically endangered species of the rivers of the northern India"
+    ],
+    "answer": 3,
+    "explanation": "The gharial, the long-snouted thin-snouted crocodile of the National Crocodile Conservation Centre at Bhitarkanika in Odisha, is a critically endangered species that survives in the perennial rivers of the northern India, and the National Gharial Conservation Programme has been running since 1975.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The mass nesting of the 'olive ridley sea turtles' takes place every year at:",
+    "options": [
+      "The Rushikonda and the Bhitarkanika coasts of Odisha",
+      "The Gulf of Kachchh of Gujarat",
+      "The Pulicat lake of Andhra Pradesh",
+      "The Pamban island of Tamil Nadu"
+    ],
+    "answer": 0,
+    "explanation": "The Arribada, the mass nesting of the olive ridley sea turtles, takes place every year at the Rushikonda and the Bhitarkanika coasts of Odisha, and the state government runs the Operation Smile programme for the protection of the nesting turtles.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bharal' or the blue sheep is the state animal of:",
+    "options": [
+      "Ladakh",
+      "Jammu and Kashmir",
+      "Himachal Pradesh",
+      "Uttarakhand"
+    ],
+    "answer": 2,
+    "explanation": "The Bharal or the blue sheep is the state animal of Himachal Pradesh, while the state animal of Uttarakhand is the alpine musk deer and that of Ladakh is the Himalayan ibex.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Barasingha' or the swamp deer is the state animal of:",
+    "options": [
+      "Chhattisgarh",
+      "Madhya Pradesh",
+      "Odisha",
+      "Jharkhand"
+    ],
+    "answer": 1,
+    "explanation": "The Barasingha or the swamp deer is the state animal of Madhya Pradesh, and the Kanha National Park of the state is one of the important strongholds of this species.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian wild ass' or the khur is the state animal of:",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Punjab",
+      "Haryana"
+    ],
+    "answer": 0,
+    "explanation": "The Indian wild ass or the khur is the state animal of Gujarat, and the Little Rann of Kutch and the Greater Rann of Kutch of Gujarat hold the last major population of the species, for which the 'Khur' is the Asiatic wild ass.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

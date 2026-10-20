@@ -1,0 +1,1172 @@
+[
+  {
+    "q": "The rotational form of Newton's second law is:",
+    "options": [
+      "tau = I alpha",
+      "F = ma",
+      "tau = I omega",
+      "F = dp/dt"
+    ],
+    "answer": 0,
+    "explanation": "For rotation about a fixed axis the torque equals the moment of inertia multiplied by the angular acceleration, the rotational counterpart of F = ma.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The modulus of rigidity is the appropriate elastic constant for:",
+    "options": [
+      "Gases only",
+      "Both solids and liquids",
+      "Solids only",
+      "Liquids only"
+    ],
+    "answer": 2,
+    "explanation": "The modulus of rigidity measures resistance to shear deformation and applies to solids, whereas the bulk modulus is used for solids, liquids and gases and Young's modulus is used for solids.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The mechanical advantage of an ideal machine and its efficiency are related as:",
+    "options": [
+      "Efficiency equals mechanical advantage multiplied by 100",
+      "Efficiency is always less than 100 per cent and equals output work divided by input work",
+      "Efficiency equals one for all simple machines",
+      "Mechanical advantage is always greater than efficiency"
+    ],
+    "answer": 1,
+    "explanation": "Efficiency is the ratio of useful output work to input work, and it is always less than 100 per cent in practice because of friction, so it is always less than or equal to the mechanical advantage.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Kepler's third law of planetary motion states that:",
+    "options": [
+      "The square of the orbital period is proportional to the cube of the semi-major axis",
+      "Planets move in circular orbits",
+      "The orbit of a planet is an ellipse with the Sun at a focus",
+      "All planets have the same orbital speed"
+    ],
+    "answer": 0,
+    "explanation": "Kepler's third law gives T^2 proportional to a^3, which shows that the outer planets move much more slowly, and it applies equally to artificial satellites around a body.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The safe speed of a vehicle on a level circular road of radius r depends on:",
+    "options": [
+      "The power of the engine",
+      "The colour of the vehicle",
+      "The mass of the vehicle",
+      "The coefficient of friction between tyres and road"
+    ],
+    "answer": 3,
+    "explanation": "The centripetal force is provided by friction, so the maximum safe speed is v = sqrt(mu g r), which is why banking of roads allows higher speeds with less reliance on friction.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Two waves of equal frequency and amplitude travelling in the same direction superpose to give a wave of twice the amplitude. This is:",
+    "options": [
+      "Constructive interference",
+      "Diffraction",
+      "Dispersion",
+      "Destructive interference"
+    ],
+    "answer": 0,
+    "explanation": "When the two waves arrive in phase, their displacements add, giving constructive interference with amplitude equal to the sum, while opposite phases produce destructive interference and near zero amplitude.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The beat frequency produced by two sound waves of frequencies 512 Hz and 520 Hz is:",
+    "options": [
+      "1028 Hz",
+      "4 Hz",
+      "8 Hz",
+      "516 Hz"
+    ],
+    "answer": 1,
+    "explanation": "The beat frequency is the absolute difference of the two frequencies, here 8 divided by 2 which equals 4 Hz, and beats are used in musical tuning and in Doppler velocity measurements.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The pitch of a sound is determined by its:",
+    "options": [
+      "Quality",
+      "Loudness",
+      "Amplitude",
+      "Frequency"
+    ],
+    "answer": 3,
+    "explanation": "Pitch is the perceptual attribute linked to frequency, so a higher frequency gives a shriller sound, whereas amplitude determines loudness and the waveform determines quality or timbre.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The speed of sound in air increases with:",
+    "options": [
+      "An increase in pressure only",
+      "An increase in humidity",
+      "A rise in temperature and a decrease in humidity",
+      "A fall in temperature"
+    ],
+    "answer": 2,
+    "explanation": "The speed of sound in air is roughly proportional to the square root of the absolute temperature and increases with humidity because water vapour is lighter than dry air, which is why sound travels faster on humid summer nights.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "SONAR, which is used to measure the depth of the sea, works on the principle of:",
+    "options": [
+      "Refraction of sound at the sea surface",
+      "Doppler shift of radio waves",
+      "Emission of radio waves",
+      "Reflection of ultrasonic waves from the sea bed"
+    ],
+    "answer": 3,
+    "explanation": "SONAR measures the echo time of an ultrasonic pulse, and the depth is half the speed of sound multiplied by the round trip time, which is useful for mapping the sea floor and detecting submarines.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Lithotripsy, a technique for breaking kidney stones, uses:",
+    "options": [
+      "High intensity ultrasonic shock waves",
+      "Radio waves",
+      "X-ray beams",
+      "Magnetic pulses"
+    ],
+    "answer": 0,
+    "explanation": "In lithotripsy, focused shock waves are used to pulverise the stone into fragments small enough to pass, and it avoids open surgery in most cases.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Doppler effect is used in medicine to:",
+    "options": [
+      "Measure the depth of an ocean",
+      "Detect nuclear radiation",
+      "Measure the blood flow and velocity in the heart using ultrasound",
+      "Determine the distance of a star from Earth"
+    ],
+    "answer": 2,
+    "explanation": "The change in the frequency of ultrasound reflected from moving red blood cells is used in the Doppler echocardiogram to assess the speed and direction of blood flow, and it is also the basis of police radar speed guns.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "When an object is placed between the pole and the focus of a concave mirror, the image formed is:",
+    "options": [
+      "Virtual, erect and diminished",
+      "Real, inverted and magnified",
+      "Real, erect and magnified",
+      "Virtual, inverted and magnified"
+    ],
+    "answer": 1,
+    "explanation": "For a concave mirror with the object beyond the centre of curvature the image is real, inverted and diminished, but between the pole and the focus the image is real, inverted and enlarged and can be projected on a screen.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "A convex mirror always forms an image that is:",
+    "options": [
+      "Virtual, inverted and magnified",
+      "Real and erect",
+      "Real and inverted",
+      "Virtual, erect and diminished"
+    ],
+    "answer": 3,
+    "explanation": "A convex mirror always gives a virtual, erect and diminished image with a wide field of view, which is the reason it is used as a rear-view mirror in vehicles.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The defect of vision in which distant objects appear blurred but near objects are seen clearly is corrected by:",
+    "options": [
+      "Bifocal lenses with the near portion concave",
+      "A convex lens",
+      "A concave lens",
+      "A cylindrical lens"
+    ],
+    "answer": 2,
+    "explanation": "Myopia is corrected with a concave lens of suitable power, which diverges the incoming rays so that the image forms on the retina, while hypermetropia needs a convex lens and astigmatism needs a cylindrical lens.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Cataract is a clouding of which part of the eye?",
+    "options": [
+      "Cornea",
+      "Lens",
+      "Retina",
+      "Optic nerve"
+    ],
+    "answer": 1,
+    "explanation": "A cataract is the opacification of the crystalline lens, which scatters light and causes dim and blurred vision, and it is treated by surgical replacement of the lens with an artificial one.",
+    "difficulty": "easy",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The rainbow is produced by:",
+    "options": [
+      "Refraction of sunlight in raindrops followed by internal reflection and dispersion",
+      "Reflection from cloud particles only",
+      "Diffraction of moonlight by dust",
+      "Refraction of sunlight through ice crystals only"
+    ],
+    "answer": 0,
+    "explanation": "Sunlight entering a raindrop is refracted and internally reflected and then refracted again, and the different colours emerge at different angles because the refractive index of water varies with wavelength.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Lenz's law is a statement of:",
+    "options": [
+      "Conservation of charge",
+      "Conservation of momentum",
+      "Conservation of mass",
+      "Conservation of energy"
+    ],
+    "answer": 3,
+    "explanation": "Lenz's law says that the induced current opposes the change that produces it, and it is a direct consequence of the conservation of energy, so work done by the induced current appears as heat or kinetic energy.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The braking of a train by an electromagnetic brake works on the principle of:",
+    "options": [
+      "Chemical action of brake oil",
+      "Friction between pads and wheels",
+      "Eddy currents induced in the rails",
+      "Static electricity"
+    ],
+    "answer": 2,
+    "explanation": "Electromagnetic brakes use eddy currents induced in the rail by a magnetic field, and the resulting drag force opposes the motion of the train without any physical contact.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "A choke coil used in domestic circuits improves the:",
+    "options": [
+      "Power factor by compensating the inductive reactance of the load",
+      "Voltage of the supply",
+      "Resistance of the circuit",
+      "Frequency of the supply"
+    ],
+    "answer": 0,
+    "explanation": "A choke coil draws a lagging current that offsets the lagging current of inductive loads, and this raises the power factor and reduces current drawn from the supply.",
+    "difficulty": "medium",
+    "category": "physics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The nitration of benzene is an example of:",
+    "options": [
+      "Nucleophilic substitution",
+      "Electrophilic substitution",
+      "Free radical addition",
+      "Chelation"
+    ],
+    "answer": 1,
+    "explanation": "Nitration introduces an electrophile, the nitronium ion generated by nitric and sulphuric acids, in place of a ring hydrogen, and it is the classic example of electrophilic aromatic substitution.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "A Grignard reagent is prepared by the reaction of:",
+    "options": [
+      "An alkyl halide with magnesium in dry ether",
+      "An alkyl halide with zinc in aqueous medium",
+      "An aldehyde with hydrogen in presence of nickel",
+      "An acid with lithium aluminium hydride"
+    ],
+    "answer": 0,
+    "explanation": "Grignard reagents RMgX are made by reacting an alkyl or aryl halide with magnesium ribbon in dry ether, and they must be protected from moisture because they are decomposed by water.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Williamson's synthesis is used to prepare:",
+    "options": [
+      "Carboxylic acids",
+      "Ethers",
+      "Esters",
+      "Ketones"
+    ],
+    "answer": 1,
+    "explanation": "Williamson's synthesis couples an alkoxide with a primary alkyl halide to give an ether, and it is particularly useful for making unsymmetrical ethers that cannot be made by dehydration of alcohols.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The aldol condensation involves:",
+    "options": [
+      "Oxidation of an alcohol to an aldehyde",
+      "Polymerisation of an alkene",
+      "Addition of a carbonyl compound to an aldehyde or ketone with an alpha hydrogen",
+      "Replacement of a hydroxyl group by a halogen"
+    ],
+    "answer": 2,
+    "explanation": "In aldol condensation the alpha carbanion of one aldehyde or ketone adds to the carbonyl of another to give a beta-hydroxy carbonyl, which on heating dehydrates to give an alpha,beta-unsaturated carbonyl.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The SN1 mechanism of substitution is favoured when the substrate is:",
+    "options": [
+      "Primary halide with a strong nucleophile",
+      "Vinyl halide in an alcohol solvent",
+      "Methyl halide in a polar aprotic solvent",
+      "Tertiary halide in a polar protic solvent"
+    ],
+    "answer": 3,
+    "explanation": "An SN1 reaction proceeds through a carbocation intermediate, and tertiary carbocations are stabilised by hyperconjugation, so polar protic solvents that stabilise ions favour it, whereas SN2 favours primary substrates in polar aprotic solvents.",
+    "difficulty": "hard",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Among the following, the strongest base is:",
+    "options": [
+      "Aniline",
+      "Ammonia",
+      "Ethylamine",
+      "Methylamine"
+    ],
+    "answer": 2,
+    "explanation": "Aliphatic amines are more basic than ammonia because the electron donating alkyl group increases the electron density on nitrogen, and among ethylamine and methylamine the ethyl group gives slightly greater basicity in aqueous solution.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Diazotisation of an aromatic primary amine is carried out at:",
+    "options": [
+      "Room temperature",
+      "50 degrees Celsius",
+      "100 degrees Celsius",
+      "0 to 5 degrees Celsius"
+    ],
+    "answer": 3,
+    "explanation": "Diazotisation with nitrous acid generated from sodium nitrite and hydrochloric acid is kept between 0 and 5 degrees Celsius because the diazonium salt is unstable at higher temperatures and decomposes to release nitrogen.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The gross calorific value of a fuel is higher than its net calorific value because:",
+    "options": [
+      "Net value excludes the carbon dioxide produced",
+      "Gross value assumes the condensation of water vapour produced during combustion",
+      "Net value is measured at higher temperatures",
+      "Gross value is measured at lower pressures"
+    ],
+    "answer": 1,
+    "explanation": "Gross calorific value includes the heat recovered when the water vapour formed during combustion condenses back to liquid, while net calorific value assumes the vapour escapes without condensing.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The octane number of a fuel measures its:",
+    "options": [
+      "Resistance to knocking in a petrol engine",
+      "Ignition delay in a diesel engine",
+      "Viscosity at low temperature",
+      "Calorific value per unit mass"
+    ],
+    "answer": 0,
+    "explanation": "Octane rating indicates resistance to knocking in spark ignition engines, and higher octane fuels are needed for higher compression ratios, while cetane rating measures the ignition delay of diesel fuel.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Under the National Biofuel Policy, the target grade of ethanol blending in petrol is:",
+    "options": [
+      "E5",
+      "E10",
+      "E20",
+      "E100"
+    ],
+    "answer": 2,
+    "explanation": "The National Biofuel Policy sets a target of 20 per cent ethanol blending in petrol by 2025-26, and ethanol is produced mainly from sugarcane molasses, grain and damaged foodgrains, which supports farmers and cuts imports.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Photochemical smog is characterised by the presence of:",
+    "options": [
+      "Oxides of nitrogen, hydrocarbons and ozone",
+      "Carbon monoxide and carbon dioxide only",
+      "Ammonia and hydrogen sulphide",
+      "Oxides of sulphur and particulate matter"
+    ],
+    "answer": 0,
+    "explanation": "Photochemical or Los Angeles type smog forms in sunny conditions from nitrogen oxides and hydrocarbons, and it contains oxidising substances such as peroxyacetyl nitrate and ground level ozone, whereas London type smog is sulphur dioxide and smoke based.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Acid rain is caused mainly by the atmospheric oxides of:",
+    "options": [
+      "Carbon and sulphur",
+      "Sulphur and nitrogen",
+      "Nitrogen and phosphorus",
+      "Calcium and magnesium"
+    ],
+    "answer": 1,
+    "explanation": "Sulphur dioxide and nitrogen oxides react with water and oxygen in the atmosphere to form sulphuric and nitric acids, and when this lowers the pH of rain below about 5.6 it is called acid rain.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Bhopal gas tragedy of 1984 was caused by the leakage of:",
+    "options": [
+      "Ammonia",
+      "Phosgene",
+      "Chlorine",
+      "Methyl isocyanate"
+    ],
+    "answer": 3,
+    "explanation": "Methyl isocyanate leaked from the Union Carbide pesticide plant in Bhopal, and the gas killed thousands of people and left many more permanently disabled, making it one of the worst industrial disasters in India.",
+    "difficulty": "easy",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Minamata disease in Japan was caused by:",
+    "options": [
+      "Cadmium in rice",
+      "Lead poisoning from industrial effluents",
+      "Mercury poisoning through consumption of contaminated fish",
+      "Arsenic in pesticides"
+    ],
+    "answer": 2,
+    "explanation": "Industrial discharge of mercury compounds was converted by microorganisms into methylmercury, which accumulated in fish and shellfish, and the resulting neurological disorder was named after the Japanese city of Minamata.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The chief cause of stratospheric ozone depletion is the release of:",
+    "options": [
+      "Chlorofluorocarbons and halons",
+      "Nitrogen oxides and hydrocarbons",
+      "Sulphur dioxide and particulates",
+      "Carbon dioxide and methane"
+    ],
+    "answer": 0,
+    "explanation": "Chlorofluorocarbons and halons release chlorine and bromine radicals in the stratosphere that catalytically destroy ozone, and this is what the Montreal Protocol of 1987 and its Kigali Amendment of 2016 seek to phase out.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Among the following, the most powerful greenhouse gas per molecule is:",
+    "options": [
+      "Methane",
+      "Nitrous oxide",
+      "Water vapour",
+      "Carbon dioxide"
+    ],
+    "answer": 1,
+    "explanation": "Nitrous oxide has a global warming potential of roughly 270 to 310 times that of carbon dioxide over a century, methane about 25 to 30 times, and carbon dioxide is taken as the reference unit of one.",
+    "difficulty": "hard",
+    "category": "chemistry",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Temporary hardness of water is removed by:",
+    "options": [
+      "Use of ion exchange resins",
+      "Addition of lime",
+      "Addition of washing soda",
+      "Boiling"
+    ],
+    "answer": 3,
+    "explanation": "Boiling decomposes the soluble calcium and magnesium bicarbonates into insoluble carbonates that settle, whereas permanent hardness caused by sulphates and chlorides requires washing soda or ion exchange.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following is an amphoteric oxide?",
+    "options": [
+      "Magnesium oxide",
+      "Sodium oxide",
+      "Aluminium oxide",
+      "Carbon dioxide"
+    ],
+    "answer": 2,
+    "explanation": "Aluminium oxide reacts with both acids and strong alkalis to form salts and aluminates, and zinc oxide and chromium oxide behave similarly, whereas sodium and magnesium oxides are basic and carbon dioxide is acidic.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "A solution of sodium acetate in water is:",
+    "options": [
+      "Acidic because of hydrolysis of the cation",
+      "Basic because of hydrolysis of the acetate anion",
+      "Neutral because both ions are inert",
+      "Acidic because of strong acid hydrolysis"
+    ],
+    "answer": 1,
+    "explanation": "Sodium acetate is the salt of a strong base and a weak acid, and the acetate ion hydrolyses to give OH- ions, so the solution is basic, whereas ammonium chloride from a weak base and strong acid gives an acidic solution.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "In a redox titration using potassium permanganate in acidic medium, the indicator used is:",
+    "options": [
+      "The permanganate itself, which is self indicating",
+      "Phenolphthalein",
+      "Methyl orange",
+      "Starch solution"
+    ],
+    "answer": 0,
+    "explanation": "In acidic medium permanganate is reduced to colourless manganese ions, so the first excess drop of permanganate gives a persistent faint pink colour, and no external indicator is needed.",
+    "difficulty": "medium",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Linkage isomerism is illustrated by the pair:",
+    "options": [
+      "cis and trans isomers of a square complex",
+      "Optical isomers of a chiral complex",
+      "Ionisation isomers of a salt",
+      "[Co(NH3)5NO2]Cl2 and [Co(NH3)5ONO]Cl2"
+    ],
+    "answer": 3,
+    "explanation": "In one compound the nitrite ligand is bonded through nitrogen and in the other through oxygen, so the same ligand gives different linkages, and this is called linkage or ambidentate isomerism.",
+    "difficulty": "hard",
+    "category": "chemistry",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Spermatogenesis in the human testis takes place in the:",
+    "options": [
+      "Epididymis",
+      "Vas deferens",
+      "Seminiferous tubules",
+      "Sertoli cells only"
+    ],
+    "answer": 2,
+    "explanation": "Spermatogenesis occurs in the seminiferous tubules where spermatogonia develop into spermatozoa with the help of Sertoli cells, and the sperm then travel to the epididymis for maturation and storage.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Ovulation in the human female cycle is triggered by:",
+    "options": [
+      "Decrease in follicle stimulating hormone",
+      "A surge in luteinising hormone",
+      "A fall in oestrogen",
+      "Rising progesterone"
+    ],
+    "answer": 1,
+    "explanation": "A sharp surge in luteinising hormone, triggered by the rise in oestrogen from the mature follicle, causes the release of the secondary oocyte from the ovary about 14 days into a 28 day cycle.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Fertilisation in the human female reproductive tract normally occurs in the:",
+    "options": [
+      "Ampullary-isthmic junction of the oviduct",
+      "Cervical canal",
+      "Vagina",
+      "Uterine cavity"
+    ],
+    "answer": 0,
+    "explanation": "Fertilisation usually occurs in the ampullary-isthmic junction of the oviduct, and the resulting zygote undergoes cleavage to form a morula and then a blastocyst, which implants in the uterine endometrium about a week later.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Medical Termination of Pregnancy (MTP) Act, as amended in 2021, permits termination up to:",
+    "options": [
+      "28 weeks",
+      "12 weeks",
+      "20 weeks",
+      "24 weeks"
+    ],
+    "answer": 3,
+    "explanation": "The 2021 amendment extended the permissible limit for termination in defined categories of women to 24 weeks, and the law also requires the woman's consent and the opinion of a registered medical practitioner.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The reflex arc of the nervous system involves:",
+    "options": [
+      "The cerebellum and the medulla",
+      "Receptor, sensory neuron, spinal cord, motor neuron and effector",
+      "Only the brain and spinal cord",
+      "Muscles and bones only"
+    ],
+    "answer": 1,
+    "explanation": "A reflex arc runs from the receptor through a sensory neuron to the spinal cord, where the synapse occurs, and then via a motor neuron to the effector muscle, and it allows a fast response without conscious volition.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The part of the human brain that regulates body temperature, hunger and thirst is the:",
+    "options": [
+      "Hypothalamus",
+      "Medulla oblongata",
+      "Cerebrum",
+      "Cerebellum"
+    ],
+    "answer": 0,
+    "explanation": "The hypothalamus lies at the base of the thalamus and contains centres for thermoregulation, hunger, thirst and sexual behaviour, and it also secretes releasing and inhibiting hormones that control the pituitary.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The neurotransmitter deficient in Parkinson's disease is:",
+    "options": [
+      "Gamma-aminobutyric acid",
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin"
+    ],
+    "answer": 2,
+    "explanation": "Parkinson's disease results from degeneration of dopamine producing neurons in the substantia nigra, so levodopa, a precursor of dopamine, is used in its treatment, whereas Alzheimer's disease involves a loss of acetylcholine.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The rods in the human retina are responsible for:",
+    "options": [
+      "Auditory balance",
+      "Olfactory sensation",
+      "Colour vision and acuity in bright light",
+      "Vision in dim light"
+    ],
+    "answer": 3,
+    "explanation": "Rods contain the photopigment rhodopsin and function in dim light, giving night and peripheral vision, while cones with three types of photopigment provide colour vision and sharp daylight acuity.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The blind spot of the human eye is located where:",
+    "options": [
+      "The fovea is located",
+      "The optic nerve leaves the retina",
+      "The lens meets the vitreous humour",
+      "The iris meets the ciliary body"
+    ],
+    "answer": 1,
+    "explanation": "At the point where the optic nerve fibres converge there are no rods or cones, so this region cannot receive light and forms the physiological blind spot, which is normally not noticed because the other eye compensates.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The organ of Corti in the human ear:",
+    "options": [
+      "Transmits vibrations from the ear drum",
+      "Balances the body and detects head position",
+      "Contains the sensory hair cells that convert sound vibrations into nerve impulses",
+      "Produces the middle ear fluid"
+    ],
+    "answer": 2,
+    "explanation": "The organ of Corti lies on the basilar membrane of the cochlea and contains the hair cells whose stereocilia generate impulses in the auditory nerve in response to vibrations.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Goitre is caused by deficiency of:",
+    "options": [
+      "Iodine",
+      "Calcium",
+      "Zinc",
+      "Iron"
+    ],
+    "answer": 0,
+    "explanation": "Iodine is required for the synthesis of the thyroid hormones thyroxine and triiodothyronine, and its deficiency causes goitre, while the same deficiency in the foetus causes cretinism.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The enzyme that converts starch into maltose in human digestion is:",
+    "options": [
+      "Trypsin",
+      "Lipase",
+      "Pepsin",
+      "Amylase"
+    ],
+    "answer": 3,
+    "explanation": "Salivary and pancreatic amylase break down starch into maltose and dextrins, and the brush border enzymes of the small intestine then split maltose into two molecules of glucose.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The chief function of bile salts in digestion is:",
+    "options": [
+      "Activation of amylase",
+      "Neutralisation of acid",
+      "Emulsification of fats",
+      "Hydrolysis of proteins"
+    ],
+    "answer": 2,
+    "explanation": "Bile salts emulsify fats into fine droplets, increasing the surface area for pancreatic lipase, and they also help in the absorption of fat soluble vitamins.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The total capacity of the lungs is:",
+    "options": [
+      "Vital capacity plus residual volume",
+      "Expiratory reserve volume only",
+      "Tidal volume plus inspiratory reserve volume",
+      "Residual volume plus tidal volume"
+    ],
+    "answer": 0,
+    "explanation": "Total lung capacity is the sum of vital capacity and residual volume, and vital capacity in turn is the sum of tidal, inspiratory reserve and expiratory reserve volumes.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The instrument used to measure the volume of air inhaled and exhaled by the lungs is the:",
+    "options": [
+      "Electrocardiograph",
+      "Spirometer",
+      "Stethoscope",
+      "Blood pressure cuff"
+    ],
+    "answer": 1,
+    "explanation": "A spirometer records the volume of air exchanged during normal and forced breathing, and it is used to assess lung capacity in conditions such as asthma and emphysema.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Bohr's effect in physiology refers to:",
+    "options": [
+      "The effect of altitude on red cell number",
+      "The binding of carbon dioxide by plasma proteins",
+      "The effect of exercise on breathing rate",
+      "The reduction in haemoglobin's affinity for oxygen at higher carbon dioxide and lower pH"
+    ],
+    "answer": 3,
+    "explanation": "At metabolically active tissues with higher CO2 and lower pH, haemoglobin releases oxygen more readily, and this shift of the dissociation curve to the right is known as the Bohr effect.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The counter-current mechanism in the kidney operates in the:",
+    "options": [
+      "Glomerulus only",
+      "Bowman's capsule",
+      "Ureter",
+      "Loop of Henle and collecting duct"
+    ],
+    "answer": 3,
+    "explanation": "The counter-current arrangement of the loop of Henle and the collecting duct establishes a medullary osmotic gradient, which allows the kidney to produce concentrated urine and conserve water.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The hormone that increases water reabsorption by the kidney is:",
+    "options": [
+      "Thyroxine",
+      "Glucagon",
+      "Antidiuretic hormone",
+      "Aldosterone"
+    ],
+    "answer": 2,
+    "explanation": "Antidiuretic hormone, secreted by the posterior pituitary, increases the permeability of the collecting duct to water, so more water is reabsorbed and a smaller volume of concentrated urine is produced.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Sliding filament theory explains muscle contraction on the basis of:",
+    "options": [
+      "Change in the length of the actin and myosin filaments",
+      "Sliding of actin filaments over myosin filaments without changing their length",
+      "Breaking and forming of cross bridges without movement",
+      "Conversion of glucose into ATP"
+    ],
+    "answer": 1,
+    "explanation": "In sliding filament theory the thin actin filaments slide over the thick myosin filaments to shorten the sarcomere, while the filaments themselves keep their length and the cross bridges pull the actin inward using ATP.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The main function of the ribosome is:",
+    "options": [
+      "Synthesis of proteins",
+      "Synthesis of lipids",
+      "Breakdown of glucose",
+      "Production of ATP"
+    ],
+    "answer": 0,
+    "explanation": "Ribosomes are the sites of protein synthesis, translating messenger RNA into polypeptide chains, and they occur free in the cytoplasm or bound to the rough endoplasmic reticulum.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "BOD, a key parameter in sewage treatment, stands for:",
+    "options": [
+      "Biochemical oxygen demand",
+      "Biological oxidation demand",
+      "Basic oxygen dilution",
+      "Bulk organic discharge"
+    ],
+    "answer": 0,
+    "explanation": "BOD is the amount of dissolved oxygen needed by aerobic microorganisms to decompose the organic matter in a given volume of water, and a high BOD indicates heavy organic pollution.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In biogas plants, the microorganism that produces methane is:",
+    "options": [
+      "Azotobacter",
+      "Nitrosomonas",
+      "Methanobacterium",
+      "Rhizobium"
+    ],
+    "answer": 2,
+    "explanation": "Methanogens such as Methanobacterium convert the acetic acid and hydrogen produced by fermentative bacteria into methane, and this is the last step of anaerobic digestion in a biogas plant.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The organism used to produce cheese by ripening is:",
+    "options": [
+      "Saccharomyces cerevisiae",
+      "Acetobacter aceti",
+      "Lactobacillus bulgaricus",
+      "Penicillium roqueforti"
+    ],
+    "answer": 3,
+    "explanation": "Penicillium roqueforti is used to ripen blue cheese, Lactobacillus bulgaricus and Streptococcus thermophilus are used for yoghurt and cheese, and Saccharomyces cerevisiae is the baker's and brewer's yeast.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The World Health Organization recommended formula of oral rehydration solution contains, per litre:",
+    "options": [
+      "Sodium bicarbonate 5 g and potassium chloride 2 g",
+      "Glucose 75 g, sodium chloride 2.5 g, potassium chloride 1.5 g and sodium citrate 2.9 g",
+      "Glucose 25 g only",
+      "Sodium chloride 5 g and glucose 100 g"
+    ],
+    "answer": 1,
+    "explanation": "The low osmolality ORS recommended by WHO contains glucose 75 g, sodium chloride 2.5 g, potassium chloride 1.5 g and sodium citrate 2.9 g per litre, and it exploits the sodium-glucose cotransport in the intestine.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The antacid that is also used to treat acid reflux and is a weakly alkaline milk-like suspension is:",
+    "options": [
+      "Potassium nitrate",
+      "Magnesium hydroxide",
+      "Sodium chloride",
+      "Calcium carbonate"
+    ],
+    "answer": 1,
+    "explanation": "Milk of magnesia, a suspension of magnesium hydroxide, neutralises excess stomach acid, and aluminium hydroxide gels and sodium bicarbonate are also used, with sodium bicarbonate being unsuitable for hypertensive patients.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The four major non-communicable diseases identified by the World Health Organization are:",
+    "options": [
+      "Measles, polio, tetanus and diphtheria",
+      "Malaria, tuberculosis, cholera and HIV",
+      "Cardiovascular diseases, cancers, chronic respiratory diseases and diabetes",
+      "Dengue, chikungunya, leptospirosis and scrub typhus"
+    ],
+    "answer": 2,
+    "explanation": "The WHO identifies cardiovascular disease, cancer, chronic respiratory disease and diabetes as the four main non-communicable diseases, which together cause the majority of deaths worldwide, and India faces a growing burden of these.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'R0' value in epidemiology denotes:",
+    "options": [
+      "The number of secondary cases generated by one infectious case in a fully susceptible population",
+      "The mortality rate of an infection",
+      "The incubation period of a disease",
+      "The proportion of the population that is immune"
+    ],
+    "answer": 0,
+    "explanation": "The basic reproduction number is the average number of secondary infections caused by one infectious individual in a fully susceptible population, and when it falls below one the infection dies out.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Dengue fever is transmitted by:",
+    "options": [
+      "Culex mosquitoes",
+      "Sand flies",
+      "Anopheles mosquitoes",
+      "Aedes mosquitoes"
+    ],
+    "answer": 3,
+    "explanation": "Dengue is transmitted by the Aedes mosquito, and Aedes aegypti also spreads chikungunya and Zika, while Anopheles transmits malaria and Culex transmits Japanese encephalitis and West Nile virus.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Stunting in children is characterised by:",
+    "options": [
+      "High weight for height",
+      "Oedema only",
+      "Low weight for height",
+      "Reduced height for age"
+    ],
+    "answer": 3,
+    "explanation": "Stunting reflects chronic undernutrition and infection leading to reduced linear growth for age, wasting refers to low weight for height, and underweight compares weight for age, and all three are measured against WHO growth standards.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "National Family Health Survey (NFHS-5) in India was conducted in:",
+    "options": [
+      "2012-13",
+      "2019-21",
+      "2023-24",
+      "2005-06"
+    ],
+    "answer": 1,
+    "explanation": "NFHS-5 was carried out in 2019-21 and reported in 2022, and it provided district level data on nutrition, child health, reproductive health and household sanitation.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The number of passengers of a vehicle including the driver in a 'chautha' category of the motor vehicles rules is:",
+    "options": [
+      "Up to 6 persons",
+      "Up to 9 persons",
+      "Up to 12 persons",
+      "Up to 4 persons"
+    ],
+    "answer": 0,
+    "explanation": "Under the Motor Vehicles Rules, a light motor vehicle can carry up to six persons including the driver, while a medium transport vehicle can carry up to nine and a heavy transport vehicle up to twelve.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is an example of incomplete dominance?",
+    "options": [
+      "Skin colour in humans",
+      "The AB blood group",
+      "The red and white flowered Mirabilis jalapa crossing to give pink flowers",
+      "Colour blindness in males"
+    ],
+    "answer": 2,
+    "explanation": "In Mirabilis jalapa a cross between red and white flowered plants gives all pink flowered offspring in the F1, which indicates that neither allele is completely dominant, whereas the AB blood group shows codominance.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Down's syndrome in humans is caused by:",
+    "options": [
+      "Deletion of part of chromosome 5",
+      "An extra Y chromosome",
+      "Monosomy of an autosome",
+      "Trisomy of chromosome 21"
+    ],
+    "answer": 3,
+    "explanation": "Down's syndrome usually results from non-disjunction giving three copies of chromosome 21, so the affected individual has 47 chromosomes, and the risk of this rises sharply with maternal age.",
+    "difficulty": "easy",
+    "category": "biology",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "Sickle cell anaemia is an example of:",
+    "options": [
+      "Pleiotropy",
+      "Incomplete dominance",
+      "Polygenic inheritance",
+      "Sex linked inheritance"
+    ],
+    "answer": 0,
+    "explanation": "Sickle cell anaemia shows pleiotropy because a single gene affects several traits, including the shape of red cells, oxygen transport, spleen function and resistance to malaria, which is why the allele persists in malarial regions.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Indian hotspots of biodiversity include:",
+    "options": [
+      "The Mediterranean and the Balkans",
+      "The Western Ghats and Sri Lanka, Indo-Burma, Himalaya, Sundaland and Nicobar",
+      "The Sahara and the Arctic",
+      "The Amazon and the Congo"
+    ],
+    "answer": 1,
+    "explanation": "India has four of the global hotspots, with the fifth being the Nicobar Islands, and a hotspot must have at least 1,500 endemic vascular plant species and have lost at least 70 per cent of its original vegetation.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Nilgiri Biosphere Reserve was recognised in:",
+    "options": [
+      "2000",
+      "2006",
+      "1986",
+      "1996"
+    ],
+    "answer": 2,
+    "explanation": "The Nilgiri Biosphere Reserve was the first biosphere reserve designated in India in 1986, and the others such as Nanda Devi, Gulf of Mannar, Simlipal and Sundarbans were added later.",
+    "difficulty": "hard",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Wild Life (Protection) Act, 1972, the categories of protected areas include:",
+    "options": [
+      "National parks, sanctuaries and reserve forests",
+      "National parks, wildlife sanctuaries, conservation reserves, community reserves and biosphere reserves",
+      "Only national parks and sanctuaries",
+      "Sanctuaries and tiger reserves"
+    ],
+    "answer": 1,
+    "explanation": "The 1972 Act provides for national parks, wildlife sanctuaries, conservation reserves, community reserves and biosphere reserves, and Project Tiger was launched in 1973 with the setting up of the first tiger reserve at Corbett.",
+    "difficulty": "medium",
+    "category": "biology",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

@@ -1,0 +1,737 @@
+[
+  {
+    "q": "The administrative capital of Australia is:",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "answer": 2,
+    "explanation": "Canberra was purpose-built as the capital after the Australian federation in 1901 because Sydney and Melbourne had competing claims, and it lies in the Australian Capital Territory.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The capital of Brazil is:",
+    "options": [
+      "Salvador",
+      "Brasilia",
+      "Rio de Janeiro",
+      "Sao Paulo"
+    ],
+    "answer": 1,
+    "explanation": "Brasilia, laid out on a modernist plan and inaugurated in 1960, replaced Rio de Janeiro as the capital, and the transfer was made to promote the development of the interior of the country.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The capital of Switzerland is:",
+    "options": [
+      "Bern",
+      "Zurich",
+      "Geneva",
+      "Basel"
+    ],
+    "answer": 0,
+    "explanation": "Bern has been the federal city of Switzerland since 1848, while Zurich is the largest city and Geneva hosts many international organisations.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The capital of Canada is:",
+    "options": [
+      "Montreal",
+      "Vancouver",
+      "Toronto",
+      "Ottawa"
+    ],
+    "answer": 3,
+    "explanation": "Ottawa, selected by Queen Victoria in 1857, is the capital of Canada, and it is located on the Ontario side of the Ottawa River in Quebec.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The capital of Turkey is:",
+    "options": [
+      "Istanbul",
+      "Izmir",
+      "Ankara",
+      "Bursa"
+    ],
+    "answer": 2,
+    "explanation": "Ankara became the capital of Turkey in 1923, replacing Istanbul, and the city lies on the Anatolian plateau at the confluence of the Ankara and Hatip streams.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The administrative capital of Tanzania is:",
+    "options": [
+      "Mombasa",
+      "Dodoma",
+      "Dar es Salaam",
+      "Arusha"
+    ],
+    "answer": 1,
+    "explanation": "Dodoma is the official capital of Tanzania, while Dar es Salaam remains the commercial capital and the seat of many government functions and the country's largest port.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "South Africa has three capitals. The judicial capital is:",
+    "options": [
+      "Bloemfontein",
+      "Pretoria",
+      "Cape Town",
+      "Johannesburg"
+    ],
+    "answer": 0,
+    "explanation": "Pretoria is the administrative capital, Cape Town the legislative capital and Bloemfontein the judicial capital, a unique arrangement that reflects the compromise between the former provinces.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The official capital of Sri Lanka, where the Parliament and the Supreme Court are located, is:",
+    "options": [
+      "Kandy",
+      "Galle",
+      "Colombo",
+      "Sri Jayawardenepura Kotte"
+    ],
+    "answer": 3,
+    "explanation": "Sri Jayawardenepura Kotte, in the Colombo metropolitan area, is the official capital, while Colombo is the commercial capital and the seat of the executive and the central bank.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The constitutional capital of Bolivia is:",
+    "options": [
+      "Santa Cruz",
+      "Sucre",
+      "Cochabamba",
+      "La Paz"
+    ],
+    "answer": 1,
+    "explanation": "Sucre is the constitutional capital of Bolivia, while La Paz is the seat of the government and the national congress, and it is the highest administrative capital in the world.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The capital of the Netherlands is:",
+    "options": [
+      "Rotterdam",
+      "Utrecht",
+      "Amsterdam",
+      "The Hague"
+    ],
+    "answer": 2,
+    "explanation": "Amsterdam is the constitutional capital of the Netherlands, but The Hague is the seat of the government, the parliament and the International Court of Justice.",
+    "difficulty": "easy",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The southernmost national capital of a sovereign country in the world is:",
+    "options": [
+      "Wellington",
+      "Santiago",
+      "Canberra",
+      "Buenos Aires"
+    ],
+    "answer": 0,
+    "explanation": "Wellington, at about 41 degrees south, is the southernmost capital of a sovereign state, being further south than the capitals of Chile and Argentina.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The International Olympic Committee, which oversees the Olympic Games, is headquartered at:",
+    "options": [
+      "Zurich",
+      "Paris",
+      "Vienna",
+      "Lausanne"
+    ],
+    "answer": 3,
+    "explanation": "The IOC is based in Lausanne in Switzerland, while FIFA is headquartered in Zurich and the World Trade Organization in Geneva, a city that hosts the largest number of international organisations.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The International Telecommunication Union, the UN agency that allocates radio frequencies, is headquartered at:",
+    "options": [
+      "Vienna",
+      "Geneva",
+      "Brussels",
+      "Nairobi"
+    ],
+    "answer": 1,
+    "explanation": "The ITU, together with the WIPO and the WHO, is among the United Nations agencies based in Geneva, and its Radio Regulations Bureau manages the global radio frequency spectrum.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The headquarters of the International Maritime Organization is at:",
+    "options": [
+      "Amsterdam",
+      "Rotterdam",
+      "London",
+      "Geneva"
+    ],
+    "answer": 2,
+    "explanation": "The IMO, the UN agency responsible for the safety and prevention of pollution from ships, is headquartered in London, and the SOLAS convention is one of its key instruments.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The headquarters of the African Union is at:",
+    "options": [
+      "Nairobi",
+      "Lagos",
+      "Cairo",
+      "Addis Ababa"
+    ],
+    "answer": 3,
+    "explanation": "The African Union, born from the OAU in 2002, is headquartered in Addis Ababa, which is also the seat of the United Nations Economic Commission for Africa.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The most densely populated independent country in the world is:",
+    "options": [
+      "Monaco",
+      "Malta",
+      "Bangladesh",
+      "Singapore"
+    ],
+    "answer": 0,
+    "explanation": "Monaco, a tiny principality on the French Riviera, has the highest population density of any sovereign country, while Singapore is the most densely populated among larger states.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The smallest independent country in the world by area is:",
+    "options": [
+      "Liechtenstein",
+      "Monaco",
+      "San Marino",
+      "Vatican City"
+    ],
+    "answer": 3,
+    "explanation": "Vatican City, the seat of the Catholic Church, has an area of about 0.44 square kilometres, making it the smallest independent state in the world.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The country with the greatest number of time zones, because of its overseas territories, is:",
+    "options": [
+      "Australia",
+      "France",
+      "Russia",
+      "the United States"
+    ],
+    "answer": 1,
+    "explanation": "France has twelve time zones when its overseas territories are included, exceeding even Russia and the United States, although its metropolitan territory spans only three.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Asia and North America is correct?",
+    "options": [
+      "Africa and Europe",
+      "Australia and New Zealand",
+      "Asia and North America",
+      "Europe and Asia"
+    ],
+    "answer": 2,
+    "explanation": "The Bering Strait, about 82 kilometres wide at its narrowest, separates the Chukchi Peninsula of Russia from Alaska in the United States and marks the conventional boundary between Asia and North America.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Strait of Malacca separates:",
+    "options": [
+      "the Malay Peninsula and Sumatra",
+      "Borneo and the Philippines",
+      "India and Sri Lanka",
+      "Java and Bali"
+    ],
+    "answer": 0,
+    "explanation": "The Strait of Malacca, between the Malay Peninsula and the island of Sumatra, is one of the busiest shipping lanes in the world, carrying much of the trade between the Indian Ocean and the Pacific.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the India and Sri Lanka is correct?",
+    "options": [
+      "Malaysia and Indonesia",
+      "India and Bangladesh",
+      "Myanmar and Thailand",
+      "India and Sri Lanka"
+    ],
+    "answer": 3,
+    "explanation": "The Palk Strait, spanned by the Adam's Bridge chain of islets, lies between the Tamil Nadu coast and northern Sri Lanka, and the Rameswaram island and the Talaimannar island face each other across it.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bab-el-Mandeb strait connects the Red Sea with the:",
+    "options": [
+      "Persian Gulf",
+      "Gulf of Aden",
+      "Gulf of Oman",
+      "Mediterranean Sea"
+    ],
+    "answer": 1,
+    "explanation": "The Bab-el-Mandeb strait connects the Red Sea with the Gulf of Aden and the Arabian Sea, and it is a key chokepoint for the Suez route and for the petroleum exports of the Gulf.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Strait of Magellan connects the Atlantic Ocean with the:",
+    "options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Southern Ocean only",
+      "Caribbean Sea"
+    ],
+    "answer": 0,
+    "explanation": "The Strait of Magellan, named after the Portuguese explorer, links the Atlantic and the Pacific at the southern tip of South America, though the Panama Canal has made it largely obsolete for shipping.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Gulf of Finland connects the Baltic Sea with the:",
+    "options": [
+      "White Sea",
+      "North Sea",
+      "Gulf of Riga and the Gulf of Bothnia",
+      "Black Sea"
+    ],
+    "answer": 2,
+    "explanation": "The Gulf of Finland is the easternmost arm of the Baltic Sea, running from Saint Petersburg to the Estonian coast and opening westward into the Gulf of Riga and the Gulf of Bothnia.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ural River forms part of the conventional boundary between:",
+    "options": [
+      "Europe and Asia",
+      "North and South America",
+      "Europe and Africa",
+      "Asia and Africa"
+    ],
+    "answer": 0,
+    "explanation": "The Ural river, together with the Ural mountains, the Caspian Sea, the Caucasus and the Turkish Straits, forms the conventional Europe-Asia boundary, and the river flows into the Caspian.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The longest river of Europe is the:",
+    "options": [
+      "Dnieper",
+      "Rhine",
+      "Volga",
+      "Danube"
+    ],
+    "answer": 2,
+    "explanation": "The Volga, which flows through Russia and empties into the Caspian Sea, is the longest river of Europe, while the Danube is the second longest and the only major one flowing to the Black Sea.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ob, Yenisei and Lena rivers of Siberia drain into the:",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Caspian Sea",
+      "Arctic Ocean"
+    ],
+    "answer": 3,
+    "explanation": "The great Siberian rivers flow north into the Arctic Ocean, and much of their flow is frozen for several months a year, which is why the Arctic sea ice has a major Siberian contribution.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Amur river marks the international frontier between Russia and which country?",
+    "options": [
+      "Kazakhstan",
+      "China",
+      "Mongolia",
+      "North Korea"
+    ],
+    "answer": 1,
+    "explanation": "The Amur, formed by the Shilka and the Argun, forms the eastern frontier between Russia and China for much of its course before emptying into the Sea of Okhotsk.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The longest river of Australia is the:",
+    "options": [
+      "Gascoyne",
+      "Darling",
+      "Murchison",
+      "Murray"
+    ],
+    "answer": 3,
+    "explanation": "The Murray, flowing for about 2,500 kilometres through southeastern Australia, is the longest single river, and together with its tributary the Darling it forms the Murray-Darling basin, the country's most important irrigation region.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Lake Victoria, the largest lake in Africa, is shared by Uganda, Tanzania and:",
+    "options": [
+      "Kenya",
+      "Rwanda",
+      "Burundi",
+      "Ethiopia"
+    ],
+    "answer": 0,
+    "explanation": "Lake Victoria, about 68,800 square kilometres, is shared by Uganda, Tanzania and Kenya, and the lake drains into the White Nile through the Victoria Nile.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The deepest lake in the world is:",
+    "options": [
+      "Lake Victoria",
+      "Crater Lake",
+      "Lake Baikal",
+      "Lake Tanganyika"
+    ],
+    "answer": 2,
+    "explanation": "Lake Baikal in Siberia, more than 1,600 metres deep, is the deepest lake in the world and holds about a fifth of the unfrozen fresh water on the planet, in a rift valley formed by crustal extension.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Blue Nile and the Atbara rise from the:",
+    "options": [
+      "East African Rift lakes",
+      "Ethiopian Highlands",
+      "Drakensberg mountains",
+      "Congo basin"
+    ],
+    "answer": 1,
+    "explanation": "The Ethiopian Highlands, the source of the Blue Nile, the Atbara and the Sobat, feed the White Nile through Lake Victoria and Lake Tana and give the Nile most of its flow and flooding.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The lowest point on the surface of the earth is the shore of the:",
+    "options": [
+      "Dead Sea",
+      "Lake Eyre",
+      "Lake Assal",
+      "Death Valley"
+    ],
+    "answer": 0,
+    "explanation": "The shore of the Dead Sea, about 430 metres below sea level, is the lowest exposed land surface on earth, and the Dead Sea lake is a hypersaline terminal lake with no outlet.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The lowest point in Africa is the shore of the:",
+    "options": [
+      "Danakil Depression",
+      "Lake Assal",
+      "Dead Sea",
+      "Lake Chad"
+    ],
+    "answer": 1,
+    "explanation": "Lake Assal in Djibouti, about 155 metres below sea level, is the lowest point in Africa, and the Danakil Depression in Ethiopia is only slightly higher.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Empty Quarter' of the Arabian Peninsula is the world's largest:",
+    "options": [
+      "gravel plain",
+      "rocky plateau",
+      "continuous sand desert",
+      "salt pan"
+    ],
+    "answer": 2,
+    "explanation": "The Rub al-Khali, the Empty Quarter, is the largest continuous sand desert in the world, whereas the Sahara is the largest hot desert and Antarctica the largest desert overall.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The largest volcano on earth by volume is:",
+    "options": [
+      "Cotopaxi",
+      "Mount Fuji",
+      "Mount Everest",
+      "Mauna Loa"
+    ],
+    "answer": 3,
+    "explanation": "Mauna Loa in Hawaii is the largest active volcano on earth, rising about 17 kilometres from the sea floor, and the shield volcano has produced the world's largest historical lava flows.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The volcano that buried the Roman city of Pompeii was:",
+    "options": [
+      "Mount Etna",
+      "Mount Stromboli",
+      "Mount Vesuvius",
+      "Mount Pelee"
+    ],
+    "answer": 2,
+    "explanation": "The eruption of Mount Vesuvius in AD 79 overwhelmed the Roman city of Pompeii with ash and pumice, and the site was rediscovered in the eighteenth century.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cascadia' subduction zone lies off the coast of:",
+    "options": [
+      "Chile and Peru",
+      "Japan and the Kurils",
+      "New Zealand",
+      "the north-western United States and Canada"
+    ],
+    "answer": 3,
+    "explanation": "The Cascadia subduction zone runs from northern California through Oregon and Washington to Vancouver Island, and it is the source of the great Cascadia earthquakes.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'East African Rift System' is a zone of:",
+    "options": [
+      "divergent plate boundaries with deep lakes and volcanoes",
+      "convergent boundaries with fold mountains",
+      "transform faults with no volcanic activity",
+      "a stable craton with no seismic activity"
+    ],
+    "answer": 0,
+    "explanation": "The Great Rift Valley is a system of divergent boundaries stretching from the Afar depression in Ethiopia to Mozambique, and along it lie the Rift Valley lakes and the volcanoes of Kilimanjaro and Mount Kenya.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Okavango Delta' in Botswana is notable because it is:",
+    "options": [
+      "the largest delta in the world",
+      "an endorheic delta into which the river does not reach the sea",
+      "a drowned river valley invaded by the sea",
+      "a glacial moraine-dammed lake"
+    ],
+    "answer": 1,
+    "explanation": "The Okavango is an inland delta in the Kalahari where the Okavango River spreads into marshes and never reaches the ocean, and it is a major tourist attraction and a Ramsar wetland.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tibetan Plateau' is known as the:",
+    "options": [
+      "Roof of Europe",
+      "World's breadbasket",
+      "Roof of the World",
+      "Land of the Midnight Sun"
+    ],
+    "answer": 2,
+    "explanation": "With an average height above 4,500 metres, the Tibetan Plateau is called the Roof of the World, and it is the source of the great Asian rivers, the Indus, the Brahmaputra, the Salween and the Mekong.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Caledonian mountain system' was formed in the:",
+    "options": [
+      "Precambrian era",
+      "early Paleozoic era",
+      "Mesozoic era",
+      "Cenozoic era"
+    ],
+    "answer": 1,
+    "explanation": "The Caledonian mountains of the British Isles and Scandinavia were built in the early Paleozoic, while the later Hercynian orogeny in the late Paleozoic created the coal-bearing basins of central Europe.",
+    "difficulty": "medium",
+    "category": "physical-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Guiana Shield' is associated with:",
+    "options": [
+      "the Amazon basin and the Brazilian Highlands",
+      "the La Plata basin and the Pampas",
+      "the Atacama basin and the Andes",
+      "the Orinoco basin and the Guiana Highlands"
+    ],
+    "answer": 3,
+    "explanation": "The Guiana Shield, an ancient crystalline plateau, comprises the Guiana Highlands and the Orinoco basin of Venezuela and Guyana, and it is rich in gold, bauxite and diamonds.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kimberley' region of Western Australia is famous for:",
+    "options": [
+      "diamond mining",
+      "gold panning",
+      "bauxite mining",
+      "iron ore mining"
+    ],
+    "answer": 0,
+    "explanation": "The Kimberley plateau is the centre of the world's largest diamond producing region, and the discovery of the Argyle pipe transformed the world diamond trade.",
+    "difficulty": "hard",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The world's largest producers of rare earth elements, which are vital for permanent magnets and electronics, are:",
+    "options": [
+      "India and Japan",
+      "Brazil and Chile",
+      "China, with Australia and the United States also significant",
+      "Canada and Russia"
+    ],
+    "answer": 2,
+    "explanation": "China dominates rare earth mining and processing, with Australia and the United States as important producers, and this concentration is a frequent subject of trade and strategic discussion.",
+    "difficulty": "hard",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The leading producer of bauxite in the world is:",
+    "options": [
+      "Australia",
+      "China",
+      "Brazil",
+      "Guinea"
+    ],
+    "answer": 3,
+    "explanation": "Guinea, with the vast Boke and Kindia deposits, is the largest producer of bauxite, and the ore is exported mainly to alumina plants in Europe and Asia.",
+    "difficulty": "hard",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The largest proven oil reserves of the world are found in:",
+    "options": [
+      "Russia",
+      "Venezuela",
+      "Saudi Arabia",
+      "Canada"
+    ],
+    "answer": 1,
+    "explanation": "Venezuela holds the largest proven crude oil reserves in the world, largely in the heavy oil belt of the Orinoco, followed by Saudi Arabia and Canada.",
+    "difficulty": "hard",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Dyke' of Zimbabwe is famous for its deposits of:",
+    "options": [
+      "platinum and chromium",
+      "iron ore and coal",
+      "gold and diamonds",
+      "copper and tin"
+    ],
+    "answer": 0,
+    "explanation": "The Great Dyke, a vast linear intrusion in Zimbabwe, hosts an unusually rich concentration of platinum group metals together with chromium and gold, and it has sustained the country's mining economy.",
+    "difficulty": "hard",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Cerro Rico silver mine at Potosi in Bolivia was worked for centuries and is:",
+    "options": [
+      "the chief source of tin in the twentieth century",
+      "the largest gold mine in South America",
+      "a major copper mine of the Andean region",
+      "one of the largest silver mines in the world"
+    ],
+    "answer": 3,
+    "explanation": "Potosi, discovered in 1545, yielded extraordinary silver wealth for the Spanish empire and is a UNESCO World Heritage site, and Bolivia still mines tin in the same region.",
+    "difficulty": "hard",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

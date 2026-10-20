@@ -1,0 +1,2252 @@
+[
+  {
+    "q": "The 'Ghat' painting and the 'Chitrakala' of Karnataka refer to which folk tradition?",
+    "options": [
+      "Tamil Tanjore painting",
+      "Bengal kantha",
+      "Rajasthani miniatures",
+      "Western Indian patachitra"
+    ],
+    "answer": 3,
+    "explanation": "Chitrakala is the folk mural tradition of coastal Karnataka, painted on walls of houses with themes from the epics and local folklore.",
+    "difficulty": "hard",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bathik' or 'Kalamkari' of Andhra Pradesh and the 'Bandhani' of Gujarat are examples of:",
+    "options": [
+      "Stone carving",
+      "Wood carving",
+      "Metal craft",
+      "Textile printing and tying traditions"
+    ],
+    "answer": 3,
+    "explanation": "Bandhani is a tie-and-dye technique of Gujarat while Kalamkari is a hand-painted or block-printed cotton tradition of Andhra Pradesh.",
+    "difficulty": "easy",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kanjeevaram' silk of Tamil Nadu is known for its:",
+    "options": [
+      "Checked patterns with contrasting borders",
+      "Plain white weave",
+      "Gold thread embroidery only",
+      "Cotton blend"
+    ],
+    "answer": 0,
+    "explanation": "Kanjeevaram saris are distinguished by their rich colours, fine zari and bold contrasting borders, and a body of heavy silk.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bomkai' sari and the 'Khandua' fabric are associated with:",
+    "options": [
+      "Kerala",
+      "Odisha",
+      "Tamil Nadu",
+      "Gujarat"
+    ],
+    "answer": 1,
+    "explanation": "Bomkai saris and Khandua sarees are famous Odisha weaves, with Khandua worn during the Rath Yatra of Puri.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Phulkari' embroidery of Punjab is characterised by:",
+    "options": [
+      "Beadwork of the tribal belt",
+      "Floral motifs worked in silk",
+      "Counted-thread geometric embroidery with long stitches",
+      "Block printing with natural dyes"
+    ],
+    "answer": 2,
+    "explanation": "Phulkari, literally 'flower garden', is a counted-thread embroidery of Punjab worked with long stitches in geometric and floral patterns.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Toda' embroidery of the Nilgiris is notable for its:",
+    "options": [
+      "Floral crewel work",
+      "Mirror work",
+      "Black and white geometric motifs",
+      "Red silk with gold zari"
+    ],
+    "answer": 2,
+    "explanation": "Toda embroidery of the Nilgiri hills uses black and white geometric motifs on a red or black base, with characteristic black squares and stripes.",
+    "difficulty": "hard",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chamba rumal' of Himachal Pradesh is an example of:",
+    "options": [
+      "Wood carving",
+      "Silver jewellery",
+      "Tile work",
+      "Embroidery"
+    ],
+    "answer": 3,
+    "explanation": "Chamba rumal is a double-sided embroidered covering of Himachal Pradesh, worked in do-rukha stitch with elaborate multicoloured designs.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pattachitra' of Odisha and Bengal traditionally used as a curtain for:",
+    "options": [
+      "The Mahabodhi temple",
+      "The Jagannath temple at Puri",
+      "The Sun Temple at Konark",
+      "The Lingaraja temple"
+    ],
+    "answer": 1,
+    "explanation": "Pattachitra cloth scrolls, painted in the tradition of the Jagannath temple at Puri, were traditionally used as temple curtains.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sheesha' or glass-bead embroidery of Rajasthan is associated with:",
+    "options": [
+      "Kutch",
+      "Jaipur",
+      "Udaipur",
+      "Jodhpur"
+    ],
+    "answer": 0,
+    "explanation": "Sheesha or shisha embroidery of the Kutch region uses tiny glass mirrors set on elaborately embroidered fabric.",
+    "difficulty": "hard",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cane' furniture of Tripura and Assam is made from the cane of:",
+    "options": [
+      "Calamus (cane palm)",
+      "Rattan",
+      "Areca palm",
+      "Bamboo"
+    ],
+    "answer": 0,
+    "explanation": "Cane furniture in the North-East, especially Tripura and Assam, is made from the strips of the Calamus palm.",
+    "difficulty": "hard",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Toda' community of the Nilgiris is well known for:",
+    "options": [
+      "Wood carving",
+      "Embroidery and pashmina woollens",
+      "Terracotta pottery",
+      "Silk weaving"
+    ],
+    "answer": 1,
+    "explanation": "The Toda community of the Nilgiri hills is famous for its distinctive Toda embroidery and for pashmina shawls woven from the wool of the goats of the region.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kumbal Festival' of the tribal belt of Rajasthan is associated with:",
+    "options": [
+      "Meena tribe",
+      "Bishnoi tribe",
+      "Garasia tribe",
+      "Bhil tribe"
+    ],
+    "answer": 2,
+    "explanation": "The Garasia tribe of Rajasthan celebrates the Kumbal festival, a month-long pilgrimage to the Garh Ganesh temple near Karauli.",
+    "difficulty": "hard",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bishnoi' of Rajasthan are known for their:",
+    "options": [
+      "Silk weaving",
+      "Bronze casting",
+      "Folk theatre",
+      "Protection of trees and wildlife"
+    ],
+    "answer": 3,
+    "explanation": "The Bishnoi community of Rajasthan is famous for its reverence for trees and wildlife; the emblem of the Wildlife Institute of India is inspired by a Bishnoi rule.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jhum' and the 'Bamboo dance' of the North-East are associated with:",
+    "options": [
+      "The Naga and Mizo communities",
+      "The Bhils",
+      "The Santhals",
+      "The Monpa tribe"
+    ],
+    "answer": 0,
+    "explanation": "The bamboo dance and the Cheraw dance of the Mizos and the Naga dances are the best known folk traditions of the North-East.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kathakali' make-up of Kerala uses a chutti of:",
+    "options": [
+      "Cloves and ash",
+      "Rice paste and lime",
+      "Red ochre and sandalwood",
+      "Rice flour and turmeric"
+    ],
+    "answer": 1,
+    "explanation": "Kathakali actors apply a white chutti made of rice paste and lime over the face, with elaborate coloured make-up for the characters.",
+    "difficulty": "hard",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Thanjavur' painting is famous for its use of:",
+    "options": [
+      "Charcoal drawing on paper",
+      "Natural indigo on cotton",
+      "Marble inlay",
+      "Gold foil on wooden panels"
+    ],
+    "answer": 3,
+    "explanation": "Thanjavur painting of Tamil Nadu uses a gesso base and gold foil on teak panels, and is also called Tanjore painting.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Pattachitra' painting of West Bengal is also known as:",
+    "options": [
+      "Warli",
+      "Kalighat painting",
+      "Chitrakala",
+      "Madhubani"
+    ],
+    "answer": 2,
+    "explanation": "The West Bengal variant of the Pattachitra scroll painting tradition is called Chitrakala.",
+    "difficulty": "hard",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kumbh Mela' at Nashik is held on the banks of:",
+    "options": [
+      "Yamuna",
+      "Narmada",
+      "Godavari",
+      "Ganga"
+    ],
+    "answer": 2,
+    "explanation": "The Nashik Kumbh, also called the Nashik-Trimbakeshwar Simhastha, is held on the banks of the Godavari.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pushkar Mela' of Rajasthan is held every:",
+    "options": [
+      "Yearly in Kartik",
+      "Once in twelve years",
+      "Once in six years",
+      "Every five years"
+    ],
+    "answer": 1,
+    "explanation": "The Pushkar Mela, held at Pushkar in Kartika every twelve years, is one of the most important camel and cattle fairs of the world.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mahamaya' temple festival at Gaya is held in:",
+    "options": [
+      "Chaitra",
+      "Kartika",
+      "Magha",
+      "Ashadha"
+    ],
+    "answer": 0,
+    "explanation": "The Mahamaya festival at Gaya, in Chaitra month, attracts pilgrims from all over the country for ancestral rites.",
+    "difficulty": "hard",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rath Yatra' of Lord Jagannath is held at:",
+    "options": [
+      "Ayodhya",
+      "Kashi",
+      "Mathura",
+      "Puri"
+    ],
+    "answer": 3,
+    "explanation": "The Rath Yatra, in which the chariots of Jagannath, Balabhadra and Subhadra are pulled through Puri, is held in Ashadha and Kartika.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hampi Utsav' is an annual festival celebrated in:",
+    "options": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Telangana",
+      "Maharashtra"
+    ],
+    "answer": 0,
+    "explanation": "The Hampi Utsav is a cultural festival organised by the ASI at the Vijayanagara ruins in Karnataka every November.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Losar' festival marks the:",
+    "options": [
+      "Tamil new year",
+      "Islamic new year",
+      "Tibetan new year",
+      "Hindu new year"
+    ],
+    "answer": 2,
+    "explanation": "Losar, celebrated by the Tibetans, marks the beginning of the Tibetan new year, usually in February or March.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Asalha Puja' commemorates:",
+    "options": [
+      "The death of Buddha",
+      "The Mahaparinirvana",
+      "The birth of Buddha",
+      "The first sermon of Buddha"
+    ],
+    "answer": 3,
+    "explanation": "Asalha Puja, observed on the full moon of Ashadha, commemorates the first sermon of the Buddha at Sarnath, Dhamma and the Noble Eightfold Path.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Mahaparinirvana' marks the death of:",
+    "options": [
+      "Mahavira",
+      "Buddha",
+      "Guru Nanak",
+      "Kabir"
+    ],
+    "answer": 1,
+    "explanation": "The Mahaparinirvana marks the passing away of the Buddha at Kushinagar, observed as the Nirvana of the Buddhist tradition.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Paryushan' and 'Mahavir Janma Kalyanak' are festivals of:",
+    "options": [
+      "Buddhism",
+      "Jainism",
+      "Sikhism",
+      "Zoroastrianism"
+    ],
+    "answer": 1,
+    "explanation": "Paryushan is the principal Jain festival of the year, and Mahavir Janma Kalyanak marks the birth of Mahavira, the last tirthankara.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Holi' in Braj is celebrated with:",
+    "options": [
+      "Processions with chariots",
+      "Fasting and kite flying",
+      "Coloured water and dry colours",
+      "Bonfires of sandalwood"
+    ],
+    "answer": 2,
+    "explanation": "Holi is celebrated with coloured water and dry colours thrown at one another, following the Holika Dahan bonfire the previous night.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sankranti' or 'Pongal' harvest festival is connected with the:",
+    "options": [
+      "Moon and the tides",
+      "Rain and the monsoon",
+      "River and the floods",
+      "Sun god and the end of the winter season"
+    ],
+    "answer": 3,
+    "explanation": "The four-day harvest festival marks the end of the sun's southward course and the beginning of its northward journey.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hola Mohalla' festival is celebrated by the:",
+    "options": [
+      "Nishan Sahib and the Sikhs",
+      "Sun temple priests",
+      "Jain monks",
+      "Buddhist lamas"
+    ],
+    "answer": 0,
+    "explanation": "Hola Mohalla, created by Guru Gobind Singh, is a three-day festival of martial demonstrations held the day after Holi at the Nishan Sahib.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Vaisakhi' is a harvest festival celebrated in:",
+    "options": [
+      "Rajasthan",
+      "Bengal",
+      "Kerala",
+      "Punjab"
+    ],
+    "answer": 3,
+    "explanation": "Vaisakhi marks the harvest of the spring crop in Punjab and also the foundation day of the Khalsa in 1699.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gudi Padwa' festival marks the:",
+    "options": [
+      "Kashmir new year",
+      "Kerala new year",
+      "Maharashtra new year",
+      "Tamil new year"
+    ],
+    "answer": 2,
+    "explanation": "Gudi Padwa, the first day of the Chaitra month, marks the beginning of the Marathi and Maharashtrian new year.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Bihu' is celebrated in Assam to mark:",
+    "options": [
+      "The death of a king",
+      "The new year and the spring season",
+      "The end of the monsoon",
+      "The harvest of tea"
+    ],
+    "answer": 1,
+    "explanation": "Bihu, the Assamese new year festival, marks the arrival of spring and the beginning of the agricultural year.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chhau' dance festival is held at:",
+    "options": [
+      "Thrissur and Purulia",
+      "Purulia in West Bengal",
+      "Thrissur in Kerala",
+      "Mathura in Uttar Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "The Chhau festivals are held at Purulia in West Bengal, Seraikella in Jharkhand and Mayurbhanj in Odisha, with the Thrissur Pooram also presenting Chhau.",
+    "difficulty": "hard",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kambala' festival of coastal Karnataka is associated with:",
+    "options": [
+      "Bull jumping",
+      "Buffalo racing",
+      "Boat races",
+      "Cock fighting"
+    ],
+    "answer": 2,
+    "explanation": "Kambala is the traditional boat race held on the rivers of coastal Karnataka during the harvest season.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Thira' is a festival of:",
+    "options": [
+      "Rajasthan",
+      "Assam",
+      "Bihar",
+      "Kerala"
+    ],
+    "answer": 3,
+    "explanation": "Thira is the temple festival of the Malankara Syrian Christian community of Kerala.",
+    "difficulty": "hard",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sangam Festival' is celebrated in:",
+    "options": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Kerala",
+      "Odisha"
+    ],
+    "answer": 0,
+    "explanation": "The Tamil Nadu government organises the Sangam Festival every year to commemorate the Sangam age of Tamil literature.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Eid-e-Fitr' is celebrated on the:",
+    "options": [
+      "10th of Dhu al-Hijjah",
+      "1st of Shawwal",
+      "12th of Rabi al-Awwal",
+      "27th of Rajab"
+    ],
+    "answer": 1,
+    "explanation": "Eid al-Fitr marks the end of the month of Ramadan and is celebrated on the first day of Shawwal.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Milad-un-Nabi' marks the birth anniversary of:",
+    "options": [
+      "Prophet Muhammad",
+      "Imam Abu Bakr",
+      "Imam Ali",
+      "Prophet Noah"
+    ],
+    "answer": 0,
+    "explanation": "Milad-un-Nabi, celebrated on 12 Rabi al-Awwal, commemorates the birth of the Prophet Muhammad.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Saraswati Puja' is associated with:",
+    "options": [
+      "The marriage season",
+      "The beginning of the academic year",
+      "The end of the harvest",
+      "The new year in Tamil Nadu"
+    ],
+    "answer": 1,
+    "explanation": "Saraswati Puja, held on Vasant Panchami, marks the beginning of the academic year and is celebrated widely for the worship of learning.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Raksha Bandhan' festival is linked with:",
+    "options": [
+      "Wedding anniversaries",
+      "Harvest thanksgiving",
+      "Brother-sister ties",
+      "Guru and disciple ties"
+    ],
+    "answer": 2,
+    "explanation": "Raksha Bandhan, on the full moon of Shravana, celebrates the bond between brothers and sisters, where sisters tie a rakhi on their brothers' wrists.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Onam' is the harvest festival of:",
+    "options": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Odisha",
+      "Kerala"
+    ],
+    "answer": 3,
+    "explanation": "Onam, the harvest festival of Kerala, is celebrated with the boat race Payana, the floral arrangement Pookalam and the snake boat race Vallam Kali.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Yuboi' and 'Chapchar Kut' are festivals of:",
+    "options": [
+      "Mizoram",
+      "Manipur",
+      "Arunachal Pradesh",
+      "Nagaland"
+    ],
+    "answer": 1,
+    "explanation": "Yuboi is the Manipuri spring festival of the Vaishnavite rite, while Chapchar Kut is an important festival of Mizoram.",
+    "difficulty": "hard",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Buddha Purnima' is celebrated on the full moon of:",
+    "options": [
+      "Vaisakha",
+      "Kartika",
+      "Ashadha",
+      "Chaitra"
+    ],
+    "answer": 0,
+    "explanation": "Buddha Purnima, the full moon of the Vaisakha month, marks the birth, enlightenment and death of the Buddha.",
+    "difficulty": "hard",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Ram Navami' marks the birth of:",
+    "options": [
+      "Narasimha",
+      "Krishna",
+      "Rama",
+      "Balarama"
+    ],
+    "answer": 2,
+    "explanation": "Ram Navami, held on the ninth day of the Chaitra month, celebrates the birth of Lord Rama.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Guru Nanak Jayanti' and 'Gurpurab' are observed on the same date in:",
+    "options": [
+      "Chaitra",
+      "Bhadon",
+      "Magh",
+      "Kartik"
+    ],
+    "answer": 3,
+    "explanation": "Guru Nanak's birth anniversary, Gurpurab, falls on the full moon of Kartik, which is also the death anniversary of the Guru.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aadi Perukku' festival is celebrated in:",
+    "options": [
+      "Tamil Nadu on the banks of the Cauvery",
+      "Kerala on the backwaters",
+      "Karnataka on the coast",
+      "Andhra Pradesh on the Godavari"
+    ],
+    "answer": 0,
+    "explanation": "Aadi Perukku, celebrated on the banks of the Kaveri in Tamil Nadu, marks the start of the river's rising water and the farming season.",
+    "difficulty": "hard",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Indian city's Diwali celebration is famous as the 'City of Lights'?",
+    "options": [
+      "Jaipur",
+      "Ayodhya",
+      "Kolkata",
+      "Varanasi"
+    ],
+    "answer": 3,
+    "explanation": "Varanasi, on the banks of the Ganga, is known as the City of Lights during Diwali, with millions of lamps lit on the ghats.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Teej' festival is celebrated by:",
+    "options": [
+      "The Anglo-Indians",
+      "Women of Rajasthan and Haryana",
+      "Fisherfolk of Kerala",
+      "The Toda tribe"
+    ],
+    "answer": 1,
+    "explanation": "Teej, a monsoon festival of swings and songs, is celebrated by married women of Rajasthan, Haryana and Uttar Pradesh for the well-being of their husbands.",
+    "difficulty": "medium",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'International Day of Yoga' is observed on:",
+    "options": [
+      "21 January",
+      "21 March",
+      "21 June",
+      "21 December"
+    ],
+    "answer": 2,
+    "explanation": "The International Day of Yoga is observed on 21 June, the International Day of Yoga, which was declared by the UN in 2015.",
+    "difficulty": "easy",
+    "category": "festivals-and-religion",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bharat Mata' painting by Raja Ravi Varma is displayed at:",
+    "options": [
+      "The National Museum, Kolkata",
+      "The Salarjung Museum",
+      "The National Gallery of Modern Art, New Delhi",
+      "The Victoria Memorial"
+    ],
+    "answer": 2,
+    "explanation": "Raja Ravi Varma's Bharat Mata is part of the collection of the National Gallery of Modern Art in New Delhi.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote the autobiography 'The Unhappy Warrior' (unhappy) about India's national movement?",
+    "options": [
+      "Vijay Lakshmi Pandit",
+      "Kamaladevi Chattopadhyay",
+      "Sucheta Kripalani",
+      "V.K. Krishna Menon"
+    ],
+    "answer": 3,
+    "explanation": "Vijay Lakshmi Pandit wrote The Unhappy Warrior, an autobiography of her father's life and India's freedom struggle.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'A History of British India'?",
+    "options": [
+      "James Mill",
+      "Thomas Macaulay",
+      "Robert Montgomery Martin",
+      "William Wilson Hunter"
+    ],
+    "answer": 0,
+    "explanation": "James Mill wrote A History of British India, published in 1817, a classic of colonial historiography.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Annals and Antiquities of Rajasthan'?",
+    "options": [
+      "D.N. Jha",
+      "Colonel James Tod",
+      "C.V. Vaidya",
+      "R.D. Sharma"
+    ],
+    "answer": 1,
+    "explanation": "Colonel James Tod wrote Annals and Antiquities of Rajasthan, published between 1829 and 1831.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Discovery of the Past' book is associated with:",
+    "options": [
+      "D.D. Kosambi",
+      "R.C. Majumdar",
+      "A. Lahiri",
+      "B.N. Sastri"
+    ],
+    "answer": 2,
+    "explanation": "Ashok Lahiri, an early archaeologist, wrote Discovery of the Past, an important early work on Indian archaeology.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote the 'Indian Culture: A Short History of the Hindu Religion'?",
+    "options": [
+      "A.L. Basham",
+      "S. Radhakrishnan",
+      "Radhakumud Mookerji",
+      "R.C. Majumdar"
+    ],
+    "answer": 0,
+    "explanation": "A.L. Basham's The Wonder That Was India remains a classic survey of Indian history and culture.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'An Indian Republic', a critique of democracy?",
+    "options": [
+      "B.R. Ambedkar",
+      "M. N. Roy and Subhash Chandra Bose",
+      "C. Rajagopalachari",
+      "M.N. Roy"
+    ],
+    "answer": 3,
+    "explanation": "M.N. Roy wrote An Indian Republic in 1935, a radical critique of Western democracy and of Congress policies.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Indian Struggle for Independence'?",
+    "options": [
+      "Yogendra Yadav",
+      "Bipan Chandra",
+      "Ramakrishna Mukherjee",
+      "Sumit Sarkar"
+    ],
+    "answer": 1,
+    "explanation": "Bipan Chandra's Indian Struggle for Independence, published in 1988, is a standard three-volume reference work on the freedom movement.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Rise and Fall of the Mughal Empire'?",
+    "options": [
+      "B.R. Ambedkar",
+      "Jadunath Sarkar",
+      "R.S. Sharma",
+      "S.N. Sen"
+    ],
+    "answer": 1,
+    "explanation": "Jadunath Sarkar's three-volume The Rise and Fall of the Mughal Empire remains a classic reference on the Mughal period.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Medieval India: The Study of a Civilization'?",
+    "options": [
+      "B.B. Lal",
+      "S.N. Sen",
+      "R.S. Sharma",
+      "Irfan Habib"
+    ],
+    "answer": 2,
+    "explanation": "R.S. Sharma's Medieval India: The Study of a Civilization is a widely used textbook on the Delhi Sultanate and the Mughals.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Technology in Medieval India, c. 650-1750'?",
+    "options": [
+      "A.L. Basham",
+      "D.N. Jha",
+      "R.C. Majumdar",
+      "Irfan Habib"
+    ],
+    "answer": 3,
+    "explanation": "Irfan Habib wrote Technology in Medieval India, c. 650-1750, a landmark study of technology and the economy.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote the 'Problems of Indian Economic Development'?",
+    "options": [
+      "I.G. Patel",
+      "P.C. Mahalanobis",
+      "M.N. Srinivas",
+      "V. Kurien"
+    ],
+    "answer": 0,
+    "explanation": "I.G. Patel wrote Problems of Indian Economic Development, a classic collection of essays on Indian planning and policy.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Imperialism' book of A.B. Lenin discusses:",
+    "options": [
+      "The Indian national movement",
+      "International trade routes",
+      "Monopoly capitalism and its export of capital",
+      "Colonial land revenue systems"
+    ],
+    "answer": 2,
+    "explanation": "Lenin's Imperialism, the Highest Stage of Capitalism (1917) analyses monopoly capital and the export of capital to the colonies.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Orientalism'?",
+    "options": [
+      "Frantz Fanon",
+      "Amartya Sen",
+      "Eric Hobsbawm",
+      "Edward Said"
+    ],
+    "answer": 3,
+    "explanation": "Edward Said's Orientalism (1978) analysed the Western representation of the Orient and its relation to colonial power.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Orientalism and the Postcolonial Predicament'?",
+    "options": [
+      "Gayatri Chakravorty Spivak",
+      "Homi Bhabha",
+      "Edward Said",
+      "Gayatri Spivak"
+    ],
+    "answer": 0,
+    "explanation": "Gayatri Chakravorty Spivak wrote Orientalism and the Postcolonial Predicament, a critique of Western postcolonial theory.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Wretched of the Earth'?",
+    "options": [
+      "Amartya Sen",
+      "Frantz Fanon",
+      "Albert Camus",
+      "Edward Said"
+    ],
+    "answer": 1,
+    "explanation": "Frantz Fanon's The Wretched of the Earth (1961) examined the colonial condition and revolutionary agency.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Development as Freedom'?",
+    "options": [
+      "Manmohan Singh",
+      "Amartya Sen",
+      "Robert Mundell",
+      "Joseph Stiglitz"
+    ],
+    "answer": 1,
+    "explanation": "Amartya Sen's Development as Freedom (1999) argued that freedom is both the means and the end of development.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Great Derangement'?",
+    "options": [
+      "Joseph Stiglitz",
+      "Amartya Sen",
+      "Amartya Sen and Jagdish Bhagwati",
+      "Amartya Sen and Jean Drèze"
+    ],
+    "answer": 2,
+    "explanation": "Amartya Sen and Jagdish Bhagwati wrote The Great Derangement, a critique of globalisation.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Public Finance and Public Policy'?",
+    "options": [
+      "Dr. R.K. Mundle",
+      "P.C. Mahalanobis",
+      "A.K. Das",
+      "R. Govinda Rao"
+    ],
+    "answer": 0,
+    "explanation": "Dr. R.K. Mundle's Public Finance and Public Policy is a standard Indian textbook on public finance.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Monetary Economics'?",
+    "options": [
+      "D.D. Kosambi",
+      "I.G. Patel",
+      "K.K. Sharma",
+      "M.L. Jhingan"
+    ],
+    "answer": 3,
+    "explanation": "M.L. Jhingan's Monetary Economics is a classic Indian textbook on money, banking and monetary policy.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote the 'History of Indian Philosophy' (Volume I)?",
+    "options": [
+      "D. Sarvapalli Radhakrishnan",
+      "S.N. Dasgupta",
+      "Sarvepalli Radhakrishnan",
+      "Surendranath Dasgupta"
+    ],
+    "answer": 3,
+    "explanation": "Surendranath Dasgupta's History of Indian Philosophy, in five volumes, remains the most comprehensive work on Indian philosophy.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Philosophies of India'?",
+    "options": [
+      "H. H. Wilson",
+      "Paul Edwards",
+      "S. Radhakrishnan",
+      "W. T. Elmore"
+    ],
+    "answer": 1,
+    "explanation": "Paul Edwards wrote The Philosophies of India, a comparative study of Indian and Western thought.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'A History of Indian Literature' by A.C. Nair is in which language originally?",
+    "options": [
+      "Malayalam",
+      "Sanskrit",
+      "Hindi",
+      "English"
+    ],
+    "answer": 0,
+    "explanation": "A.C. Nair's A History of Indian Literature was published in five volumes in Malayalam and later translated into English.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Cultural History of India'?",
+    "options": [
+      "R.C. Majumdar",
+      "S. Radhakrishnan",
+      "A.L. Basham",
+      "B.N. Sastri"
+    ],
+    "answer": 2,
+    "explanation": "A.L. Basham's The Wonder That Was India is the standard cultural history used in competitive examinations.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Indian Sculpture'?",
+    "options": [
+      "M. R. Ryos",
+      "A.L. Basham",
+      "R.C. Majumdar",
+      "S. R. Sharma"
+    ],
+    "answer": 1,
+    "explanation": "A.L. Basham's The Wonder That Was India included a detailed treatment of Indian sculpture.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'The Grammar of Ornament' was written by:",
+    "options": [
+      "Ernst Babel",
+      "Johann Joachim Winckelmann",
+      "Ananda Coomaraswamy",
+      "E.B. Havell"
+    ],
+    "answer": 0,
+    "explanation": "Ernst Babel's The Grammar of Ornament, published in 1856, catalogued the decorative arts of many cultures and influenced British design education.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Arts and Crafts of India and Ceylon'?",
+    "options": [
+      "Ananda Coomaraswamy",
+      "George Birdwood",
+      "James Fergusson",
+      "E.B. Havell"
+    ],
+    "answer": 3,
+    "explanation": "E.B. Havell's Arts and Crafts of India and Ceylon was published in 1911 and remains a standard work on Indian decorative arts.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Dance of India'?",
+    "options": [
+      "Kapila Vatsyayan",
+      "Mrinalini Sarabhai",
+      "Nirmala Joshi",
+      "Rukmini Devi Arundale"
+    ],
+    "answer": 2,
+    "explanation": "Nirmala Joshi's The Dance of India is a classic study of Indian classical and folk dance forms.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'The Art of Indian Dance' by Kapila Vatsyayan covers:",
+    "options": [
+      "The classical dance forms of India",
+      "Only Bharatanatyam",
+      "Folk dances of Rajasthan",
+      "Dance in colonial India"
+    ],
+    "answer": 0,
+    "explanation": "Kapila Vatsyayan's The Art of Indian Dance is a standard work on the classical dance forms and their theory.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Yojana aur Vikas'?",
+    "options": [
+      "D.R. Gadgil",
+      "R.K. Talwar",
+      "P.C. Mahalanobis",
+      "M.S. Swaminathan"
+    ],
+    "answer": 1,
+    "explanation": "R.K. Talwar's Yojana aur Vikas is a standard Hindi work on Indian planning and development.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Modern Indian History' (Nagpur)?",
+    "options": [
+      "N.K. Oak",
+      "B.L. Sharma",
+      "R.C. Sharma",
+      "S.S. Chitra"
+    ],
+    "answer": 3,
+    "explanation": "S.S. Chitra's Modern Indian History, published from Nagpur, is widely used in competitive examinations.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote the novel 'Goda' and won the Sahitya Akademi Award for Odia?",
+    "options": [
+      "Manoj Das",
+      "Sitakant Mahapatra",
+      "Gopinath Mohanty",
+      "Pratibha Ray"
+    ],
+    "answer": 2,
+    "explanation": "Gopinath Mohanty won the Sahitya Akademi Award for his novel Godaa.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Indian writer was awarded the 'Neustadt International Prize for Literature'?",
+    "options": [
+      "Vikram Seth",
+      "V.S. Naipaul",
+      "Salman Rushdie",
+      "Amitav Ghosh"
+    ],
+    "answer": 1,
+    "explanation": "V.S. Naipaul won the Neustadt International Prize for Literature in 2018, having earlier won the Nobel Prize in 2007.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who won the 2014 Sahitya Akademi Award for English?",
+    "options": [
+      "Manilal H. Patel",
+      "Jerry Pinto",
+      "K. Satchidanandan",
+      "Vijay Tendulkar"
+    ],
+    "answer": 0,
+    "explanation": "Manilal H. Patel won the 2014 Sahitya Akademi Award for English for his book Audition, a collection of short stories.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who won the Jnanpith Award in 1998 for 'Bharat Ek Khoj'?",
+    "options": [
+      "Ashapoorna Devi",
+      "Girish Karnad",
+      "U.R. Ananthamurthy",
+      "A.K. Ramanujan"
+    ],
+    "answer": 2,
+    "explanation": "U.R. Ananthamurthy won the Jnanpith Award in 1998 for his epic novel Bharatiya Upakatha, often translated as Bharat Ek Khoj.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who won the 2022 Sahitya Akademi Award for English?",
+    "options": [
+      "K. Satchidanandan",
+      "Ram Kamal Mukherjee",
+      "Deepa Anappara",
+      "Girish Karnad"
+    ],
+    "answer": 3,
+    "explanation": "Girish Karnad won the 2022 Sahitya Akademi Award for English for his novel Yakshagana.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who was awarded the Padma Vibhushan for his contribution to Indian theatre?",
+    "options": [
+      "K. N. Panikkar",
+      "Habib Tanvir",
+      "Utpal Dutt",
+      "Ebrahim Alkazi"
+    ],
+    "answer": 1,
+    "explanation": "Habib Tanvir, a theatre pioneer of the Naya Theatre movement, was awarded the Padma Vibhushan.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Katha of Sacred Books of the East'?",
+    "options": [
+      "F. Max Muller",
+      "William Jones",
+      "Sir William Jones",
+      "James Mill"
+    ],
+    "answer": 0,
+    "explanation": "F. Max Muller published the Sacred Books of the East series, including the twelve Upanishads.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ashtadhyayi' of Pannini and the 'Mahabhashya' of Patanjali are works on:",
+    "options": [
+      "Sanskrit poetics",
+      "Hindu law",
+      "Astronomy",
+      "Sanskrit grammar"
+    ],
+    "answer": 3,
+    "explanation": "Both the Ashtadhyayi and the Mahabhashya are seminal works on Sanskrit grammar and philology.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Darshana' and 'Darshan' books on Indian philosophy?",
+    "options": [
+      "Sri Aurobindo",
+      "Bankim Chandra Chattopadhyay",
+      "S. Radhakrishnan",
+      "Swami Vivekananda"
+    ],
+    "answer": 2,
+    "explanation": "S. Radhakrishnan wrote The Idealist View of Life and The Philosophy of Brahma, in addition to his work on Indian philosophy.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Indian Sculpture: A Study of Indian Sculpture from the 2nd Century BC to the 12th Century AD'?",
+    "options": [
+      "Nihar Ranjan Ray",
+      "Rai Krishnadasa",
+      "Benoytosh Bhattacharyya",
+      "Ananda K. Coomaraswamy"
+    ],
+    "answer": 3,
+    "explanation": "Ananda K. Coomaraswamy wrote Indian Sculpture, a classic study of Indian sculpture.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Classical Dance of India'?",
+    "options": [
+      "Kapila Vatsyayan",
+      "Nirmala Joshi",
+      "Rukmini Devi Arundale",
+      "Mrinalini Sarabhai"
+    ],
+    "answer": 0,
+    "explanation": "Kapila Vatsyayan's The Classical Dance of India is a standard reference on the classical dance forms.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sahitya Akademi Award for the Assamese language in 2021 went to:",
+    "options": [
+      "Birendra Kumar Bhattacharya",
+      "Arupa Kalita Patangia",
+      "Ranjita Barua",
+      "Rajanikanta Bordoloi"
+    ],
+    "answer": 1,
+    "explanation": "Arupa Kalita Patangia won the 2021 Sahitya Akademi Award for Assamese for her short story collection 'Abhismara' collection of stories.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Nishtha' and 'Bicharak' and won the Sahitya Akademi Award for Hindi?",
+    "options": [
+      "Shrilal Shukla",
+      "Krishna Sobti",
+      "Nirmal Verma",
+      "Amitav Ghosh"
+    ],
+    "answer": 2,
+    "explanation": "Nirmal Verma won the Sahitya Akademi Award for Hindi for his novel Naksal and the short story collection 'Bicharak' collection of stories.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Kaagaz Te Patte' and 'Tughlaq' the novel?",
+    "options": [
+      "Badal Sircar",
+      "Girish Karnad",
+      "Chandrashekhara Kambara",
+      "Vijay Tendulkar"
+    ],
+    "answer": 1,
+    "explanation": "Girish Karnad wrote the plays Kaagaz Te Patte, Tughlaq, Tabbal and Chowka Bage.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Ghashiram Kotwal' and 'Chandragupta' in Marathi?",
+    "options": [
+      "P.L. Deshpande",
+      "Mahesh Elkunchwar",
+      "Suresh Bhat",
+      "Vijay Tendulkar"
+    ],
+    "answer": 0,
+    "explanation": "P.L. Deshpande wrote the Marathi plays Ghashiram Kotwal and Chandragupta, a trilogy on the life of Shivaji.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote the Kannada play 'Tughlaq' and 'Ondu Muttina Kathe'?",
+    "options": [
+      "B. V. Karanth",
+      "Kuvempu",
+      "Girish Karnad",
+      "Adya Rangacharya"
+    ],
+    "answer": 3,
+    "explanation": "Adya Rangacharya, a pioneer of modern Kannada theatre, wrote Tughlaq and Ondu Muttina Kathe.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote the Telugu play 'Kanyasulkam'?",
+    "options": [
+      "Chilakamarti Lakshmi Narasimham",
+      "Tirupati Venkata Kavulu",
+      "Gurajada Apparao",
+      "Gummadi Sombattula"
+    ],
+    "answer": 2,
+    "explanation": "Gurajada Apparao wrote Kanyasulkam (1892), a landmark of Telugu social drama.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote the Bengali play 'Sirajuddaula' and 'Chandragupta'?",
+    "options": [
+      "Girish Chandra Ghosh",
+      "Sambhu Mitra",
+      "Badal Sircar",
+      "Utpal Dutt"
+    ],
+    "answer": 0,
+    "explanation": "Girish Chandra Ghosh was the most eminent actor-manager of the Bengali commercial theatre, famous for Sirajuddaula and Chandragupta.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Pather Panchali' based novel and also 'Aparajito'?",
+    "options": [
+      "Tarashankar Bandyopadhyay",
+      "Bibhutibhushan Bandyopadhyay",
+      "Rabindranath Tagore",
+      "Sarat Chandra Chattopadhyay"
+    ],
+    "answer": 1,
+    "explanation": "Bibhutibhushan Bandyopadhyay wrote the novels Pather Panchali, Abar Aranyer Adhikar and Aranyak, which Satyajit Ray adapted for film.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote the novel 'Chokher Bali' and 'Ghare Baire'?",
+    "options": [
+      "Bankim Chandra Chattopadhyay",
+      "Bibhutibhushan Bandyopadhyay",
+      "Sarat Chandra Chattopadhyay",
+      "Rabindranath Tagore"
+    ],
+    "answer": 2,
+    "explanation": "Sarat Chandra Chattopadhyay wrote Chokher Bali, Ghare Baire, Devdas and Srikanta.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Chandalika' and 'Shakuntala'?",
+    "options": [
+      "Utpal Dutt",
+      "Shankar",
+      "Kalidasa",
+      "Girish Chandra Ghosh"
+    ],
+    "answer": 3,
+    "explanation": "Girish Chandra Ghosh adapted Shakuntala and wrote Chandalika, plays that defined modern Bengali theatre.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Nil Darpan', the first Bengali play written by an Indian?",
+    "options": [
+      "Debendranath Tagore",
+      "Girish Chandra Ghosh",
+      "Michael Madhusudan Dutt",
+      "Hemchandra Bandopadhyay"
+    ],
+    "answer": 2,
+    "explanation": "Michael Madhusudan Dutt wrote Nil Darpan in 1860, the first original Bengali play, and is called the Shakespeare of Bengal.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote the first collection of Bengali short stories, 'H|日本 সাহিত্য'?",
+    "options": [
+      "Satyajit Ray",
+      "Bibhutibhushan Bandyopadhyay",
+      "Sankha Ghosh",
+      "Rabindranath Tagore"
+    ],
+    "answer": 3,
+    "explanation": "Rabindranath Tagore's collection of short stories is regarded as the first collection of Bengali short stories.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Aap Ka Bunty' and 'Zindagi Nama'?",
+    "options": [
+      "Amar SHAQ",
+      "Amar Akbar",
+      "Amar SKU",
+      "Amar AKQ"
+    ],
+    "answer": 0,
+    "explanation": "Amar SHAQ, the pen name of Syed Habib Tanvir, wrote Aap Ka Bunty and Zindagi Nama in Hindustani.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'A History of Indian Music' and 'Studies of Indian Music'?",
+    "options": [
+      "P.K. Rajaswamy",
+      "Dr. A.K. Coomaraswamy",
+      "S. Radhakrishnan",
+      "Vijay Raghavan"
+    ],
+    "answer": 1,
+    "explanation": "Dr. A.K. Coomaraswamy's History of Indian Music is a classical work on Indian musicology.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Bhavana of Kutiyattam' and 'The Sanskrit Theatre'?",
+    "options": [
+      "Rukmini Devi Arundale",
+      "Kapila Vatsyayan",
+      "Farley Richmond",
+      "Adya Rangacharya"
+    ],
+    "answer": 2,
+    "explanation": "Farley Richmond wrote The Sanskrit Theatre and works on Kutiyattam and the classical dance forms.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Kathakali: An Indian Classical Dance Form'?",
+    "options": [
+      "Zarrilli",
+      "K. Bharati Iyer",
+      "Ragini Devi",
+      "Zarrilli and K. Bharati Iyer"
+    ],
+    "answer": 3,
+    "explanation": "Zarrilli and K. Bharati Iyer wrote Kathakali: An Indian Classical Dance Form, a standard reference on the form.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Indian Classical Dance'?",
+    "options": [
+      "Margaret Walker",
+      "Kapila Vatsyayan",
+      "Suzanne P. K. P",
+      "K. Bharati Iyer"
+    ],
+    "answer": 0,
+    "explanation": "Margaret Walker wrote Indian Classical Dance, a comprehensive survey of the classical dance forms.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The book 'The Art of Kathakali' is associated with:",
+    "options": [
+      "Kalamandalam Gopi",
+      "Kalamandalam Sankaran Kutty",
+      "Kapila Vatsyayan",
+      "Kutiyattam institutions"
+    ],
+    "answer": 1,
+    "explanation": "Kalamandalam Sankaran Kutty, a leading exponent of Kathakali, is associated with detailed works on the form.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Bharatiya Nritya Kala' and 'The Classical Dance of India'?",
+    "options": [
+      "Ragini Devi",
+      "Kapila Vatsyayan",
+      "Rukmini Devi Arundale",
+      "Nirmala Joshi"
+    ],
+    "answer": 1,
+    "explanation": "Kapila Vatsyayan wrote Bharatiya Nritya Kala and The Classical Dance of India, both standard references.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Heritage of India' series volumes on art and culture?",
+    "options": [
+      "Rai Krishnadasa",
+      "N. R. Pradhan",
+      "S. R. Sharma",
+      "Ananda Coomaraswamy"
+    ],
+    "answer": 0,
+    "explanation": "Rai Krishnadasa, along with N.R. Pradhan, edited the volumes of the 'The Heritage of India' series published by the Indian Council of Cultural Relations.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Cave Temples of Ajanta'?",
+    "options": [
+      "Rai Krishnadasa",
+      "Vijay Kumar",
+      "V. S. Sambamurthy",
+      "S. R. Sharma"
+    ],
+    "answer": 2,
+    "explanation": "V.S. Sambamurthy wrote Cave Temples of Ajanta, a standard study of the Ajanta paintings.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Indian Sculpture: A Review'?",
+    "options": [
+      "P. C. Mukherji",
+      "Rai Krishnadasa",
+      "N. R. Pradhan",
+      "Vasudeva S. Agrawal"
+    ],
+    "answer": 3,
+    "explanation": "Vasudeva S. Agrawal's Indian Sculpture: A Review is a well known study of Indian sculpture.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Grammar of Indian Art'?",
+    "options": [
+      "Ernst Babel",
+      "A.L. Basham",
+      "Ananda K. Coomaraswamy",
+      "Helen B. Chapple"
+    ],
+    "answer": 1,
+    "explanation": "A.L. Basham's The Wonder That Was India and related works remain the standard introduction to Indian art for students.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Hindu Temples: Their Meaning and Forms'?",
+    "options": [
+      "Harold D. G. F. (H.D. G. F.)",
+      "N. R. Pradhan",
+      "R. C. Majumdar",
+      "Rai Krishnadasa"
+    ],
+    "answer": 0,
+    "explanation": "Harold D. G. F. (often cited as H.D.H. George) wrote Hindu Temples, a study of temple architecture and symbolism.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Temple Architecture of India'?",
+    "options": [
+      "Helen B. Chapple",
+      "Christopher S. Kopp",
+      "Sharada Sinha",
+      "Encyclopaedia of Indian Temple Architecture"
+    ],
+    "answer": 3,
+    "explanation": "Helen B. Chapple authored the well known book Indian Temple Architecture: Form and Transformation.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Fairs and Festivals of India'?",
+    "options": [
+      "K. C. Bhattacharya",
+      "Nirmal Kumar",
+      "K. C. Sen",
+      "Vijay Kumar"
+    ],
+    "answer": 2,
+    "explanation": "K.C. Sen wrote Fairs and Festivals of India, a reference work on Indian fairs and festivals.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'India's Ancient Past' and 'Geography of Ancient India'?",
+    "options": [
+      "R.C. Majumdar",
+      "S. Radhakrishnan",
+      "B.B. Lal",
+      "R.C. Sharma"
+    ],
+    "answer": 3,
+    "explanation": "R.C. Sharma authored India's Ancient Past and Geography of Ancient India, standard references for prelims.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Themes in Indian History' and 'Themes in Indian History Part II'?",
+    "options": [
+      "K. L. Khurana",
+      "R.S. Sharma",
+      "R.C. Sharma",
+      "S. R. Sharma"
+    ],
+    "answer": 2,
+    "explanation": "R.S. Sharma authored Themes in Indian History and Themes in Indian History Part II, used widely in prelims preparation.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'A Modern History of India'?",
+    "options": [
+      "R.C. Majumdar",
+      "R.C. Sharma",
+      "Bipan Chandra",
+      "S. L. Bhatia"
+    ],
+    "answer": 1,
+    "explanation": "R.C. Sharma wrote A Modern History of India, covering the period from 1707 to the present.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Visions of History'?",
+    "options": [
+      "S. R. Sharma",
+      "R. C. Sharma",
+      "B. N. Sastri",
+      "R. C. Majumdar"
+    ],
+    "answer": 0,
+    "explanation": "S. R. Sharma authored Visions of History, a collection of essays on modern Indian history.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'An Introduction to Indian Art' Part I was written by:",
+    "options": [
+      "A. L. Basham",
+      "Nirmala Joshi",
+      "Rukmini Devi",
+      "Ananda Coomaraswamy"
+    ],
+    "answer": 0,
+    "explanation": "The NCERT textbook An Introduction to Indian Art, Part I, was written by A.L. Basham.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'India's Cultural Heritage'?",
+    "options": [
+      "V. S. Srinivasan",
+      "R. C. Majumdar",
+      "S. Radhakrishnan",
+      "N. R. Pradhan"
+    ],
+    "answer": 1,
+    "explanation": "R.C. Majumdar's India's Cultural Heritage is a compact survey of Indian history and culture.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Fundamentals of Ancient Indian History and Civilisation'?",
+    "options": [
+      "R.C. Sharma",
+      "K.A. Nilakanta Sastri",
+      "D.N. Jha",
+      "R.C. Majumdar"
+    ],
+    "answer": 3,
+    "explanation": "R.C. Majumdar's Fundamentals of Ancient Indian History and Civilisation is a classic one-volume reference.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Ancient India' (1963) in the New History of India series?",
+    "options": [
+      "R.C. Majumdar",
+      "R.C. Sharma",
+      "Romila Thapar",
+      "B.N. Sastri"
+    ],
+    "answer": 2,
+    "explanation": "Romila Thapar's Ancient India, published in 1963, is a landmark of modern historiography.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Sultanate Delhi' in the New History of India series?",
+    "options": [
+      "R.S. Sharma",
+      "Sunil Chandra",
+      "Irfan Habib",
+      "R.C. Sharma"
+    ],
+    "answer": 2,
+    "explanation": "Irfan Habib's Sultanate Delhi (1970) was one of the earliest volumes of the New History of India series.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Mughal India' in the New History of India series?",
+    "options": [
+      "Satish Chandra",
+      "Irfan Habib",
+      "R.C. Sharma",
+      "B.N. Sastri"
+    ],
+    "answer": 1,
+    "explanation": "Irfan Habib's Mughal India (1973) was also part of the New History of India series.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Rise of Modern India'?",
+    "options": [
+      "Bipan Chandra",
+      "S. Radhakrishnan",
+      "Bimal Mattingly",
+      "D.utt"
+    ],
+    "answer": 0,
+    "explanation": "Bipan Chandra's The Rise of Modern India, published in 1986, is a landmark modern history text.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'India's Struggle for Independence'?",
+    "options": [
+      "R. C. Sharma",
+      "D.utt",
+      "Bipan Chandra",
+      "V. C. Joshi"
+    ],
+    "answer": 3,
+    "explanation": "V.C. Joshi's India's Struggle for Independence, published in 2008, is a detailed account of the freedom movement.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Indian Struggle' (1957)?",
+    "options": [
+      "S. C. Bose",
+      "M. N. Roy",
+      "B. R. Ambedkar",
+      "V. D. Savarkar"
+    ],
+    "answer": 3,
+    "explanation": "V.D. Savarkar's The Indian Struggle, published in 1957, is a narrative of the national movement from 1857 to the partition.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Hind Swaraj' and 'Indian Home Rule'?",
+    "options": [
+      "Gopal Krishna Gokhale",
+      "Sardar Patel",
+      "Mahatma Gandhi",
+      "Bal Gangadhar Tilak"
+    ],
+    "answer": 2,
+    "explanation": "Mahatma Gandhi wrote Hind Swaraj in 1909 and Indian Home Rule in 1921.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Gandhi: An Autobiography'?",
+    "options": [
+      "Verrier Elwin",
+      "Mahatma Gandhi",
+      "C. F. Andrews",
+      "S. N. Banerjea"
+    ],
+    "answer": 1,
+    "explanation": "Mahatma Gandhi wrote the autobiography, which was edited by Mahadev Desai and translated by C.K. Ogden.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Story of My Deportation'?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Maulana Azad",
+      "Lala Lajpat Rai",
+      "Jawaharlal Nehru"
+    ],
+    "answer": 0,
+    "explanation": "Sardar Vallabhbhai Patel wrote The Story of My Deportation, an account of his arrest and deportation in 1930.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Why I Am an Atheist'?",
+    "options": [
+      "Bhagat Singh",
+      "Sachindra Nath Sanyal",
+      "Sukhdev",
+      "Rajgopal"
+    ],
+    "answer": 0,
+    "explanation": "Bhagat Singh wrote Why I Am an Atheist in 1930, a defence of secularism and atheism.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Blasphemy of Islam'?",
+    "options": [
+      "Maulana Hasrat Mohani",
+      "Maulana Abul Kalam Azad",
+      "Maulana Mohammad Ali Jauhar",
+      "Maulana Shaukat Ali"
+    ],
+    "answer": 1,
+    "explanation": "Maulana Abul Kalam Azad wrote The Blasphemy of Islam, in which he used the term 'Fitna' to describe European criticism of Islam.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'India Wins Freedom' and also served as the first Prime Minister?",
+    "options": [
+      "Sardar Patel",
+      "Rajendra Prasad",
+      "C. Rajagopalachari",
+      "Jawaharlal Nehru"
+    ],
+    "answer": 3,
+    "explanation": "Jawaharlal Nehru wrote India Wins Freedom and was the first Prime Minister of independent India.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Making of a Nation' and 'Nehru: A Contemporary's Estimate'?",
+    "options": [
+      "K. M. Panikkar",
+      "B. R. Ambedkar",
+      "Jawaharlal Nehru",
+      "M. N. Roy"
+    ],
+    "answer": 2,
+    "explanation": "Jawaharlal Nehru wrote The Making of a Nation and the essay 'A Contemporary's Estimate' on Mahatma Gandhi.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Strangers from a Strange Land'?",
+    "options": [
+      "Dhun",
+      "R. K. Narayan",
+      "R. K. Laxman",
+      "Khushwant Singh"
+    ],
+    "answer": 1,
+    "explanation": "R.K. Narayan wrote Strangers from a Strange Land, his collection of short stories.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Guide' and 'The Man-Eater of Malgudi'?",
+    "options": [
+      "R.K. Laxman",
+      "Mulk Raj Anand",
+      "Khushwant Singh",
+      "R.K. Narayan"
+    ],
+    "answer": 3,
+    "explanation": "R.K. Narayan wrote The Guide, which was filmed by Satyajit Ray, and The Man-Eater of Malgudi.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Waiting for the Mahatma' and 'The Bachelor of Arts'?",
+    "options": [
+      "Mulk Raj Anand",
+      "R.K. Raman",
+      "R.K. Narayan",
+      "R.K. Laxman"
+    ],
+    "answer": 2,
+    "explanation": "Both Waiting for the Mahatma and The Bachelor of Arts are novels by R.K. Narayan.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Train to Pakistan' and 'Rangbhoomi'?",
+    "options": [
+      "Khushwant Singh",
+      "Amrita Pritam",
+      "Nirad C. Chaudhuri",
+      "P. L. Deshpande"
+    ],
+    "answer": 0,
+    "explanation": "Khushwant Singh wrote Train to Pakistan and Rangbhoomi, among his best known works.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Discovery of India' and 'An Autobiography'?",
+    "options": [
+      "V. K. Krishna Menon",
+      "B. R. Ambedkar",
+      "K. T. Shah",
+      "Jawaharlal Nehru"
+    ],
+    "answer": 3,
+    "explanation": "Both works are by Jawaharlal Nehru; the latter was compiled by Krishna Menon from his speeches and writings.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Prison Diary' and 'Prisoner of Hope'?",
+    "options": [
+      "C. Rajagopalachari",
+      "K. T. Shah",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "answer": 2,
+    "explanation": "Jawaharlal Nehru wrote Prison Diary (compiled from letters written from prison) and Prisoner of Hope, his autobiography.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Struggle for Swaraj'?",
+    "options": [
+      "B. R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Maulana Azad",
+      "Subhash Chandra Bose"
+    ],
+    "answer": 1,
+    "explanation": "Jawaharlal Nehru's Struggle for Swaraj is a collection of his writings from 1922 to 1929.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Letters from a Father to His Daughter' and 'The World I Have Lived In'?",
+    "options": [
+      "Rabindranath Tagore",
+      "Sarojini Naidu",
+      "Jawaharlal Nehru",
+      "H. G. Wells"
+    ],
+    "answer": 0,
+    "explanation": "Rabindranath Tagore wrote Letters from a Father to His Daughter and The World I Have Lived In, a collection of short stories.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Shantiniketan' and 'The Home and the World'?",
+    "options": [
+      "Bankim Chandra Chattopadhyay",
+      "S. Radhakrishnan",
+      "Rabindranath Tagore",
+      "Sri Aurobindo"
+    ],
+    "answer": 2,
+    "explanation": "Rabindranath Tagore wrote Shantiniketan and the novel The Home and the World.",
+    "difficulty": "easy",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Savitri' and 'The Cycle of Spring'?",
+    "options": [
+      "Bankim Chandra Chattopadhyay",
+      "Sri Aurobindo",
+      "Rabindranath Tagore",
+      "S. Radhakrishnan"
+    ],
+    "answer": 1,
+    "explanation": "Sri Aurobindo wrote Savitri, a poem on the life of the Mahabharata heroine, and The Cycle of Spring.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'Essays on the Bhagavad Gita' and 'The Synthesis of Yoga'?",
+    "options": [
+      "Ramakrishna",
+      "Swami Vivekananda",
+      "Bankim Chandra Chattopadhyay",
+      "Sri Aurobindo"
+    ],
+    "answer": 3,
+    "explanation": "Sri Aurobindo wrote Essays on the Bhagavad Gita and The Synthesis of Yoga, setting out his integral yoga.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote 'The Essentials of Hinduism' and 'The World's Religions'?",
+    "options": [
+      "Swami Vivekananda",
+      "Ramakrishna",
+      "Sri Aurobindo",
+      "S. Radhakrishnan"
+    ],
+    "answer": 0,
+    "explanation": "Swami Vivekananda wrote The Essentials of Hinduism and The World's Religions, presenting Hinduism on the world stage.",
+    "difficulty": "medium",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Who wrote The Gospel of Sri Ramakrishna, the first book on Sri Ramakrishna?",
+    "options": [
+      "Swami Vivekananda",
+      "M. C. K",
+      "Rabindranath Tagore",
+      "Mahendranath Gupta"
+    ],
+    "explanation": "Mahendranath Gupta wrote The Gospel of Sri Ramakrishna (1897-98), which Swami Vivekananda used to write Life of Sri Ramakrishna.",
+    "difficulty": "hard",
+    "category": "books-and-authors",
+    "source": "Standard Reference",
+    "year": null,
+    "answer": 3
+  }
+]

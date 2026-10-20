@@ -1,0 +1,692 @@
+[
+  {
+    "q": "The 'Fisher index number' is the:",
+    "options": [
+      "harmonic mean of the Laspeyres and the Paasche index numbers",
+      "geometric mean of the Laspeyres and the Paasche index numbers",
+      "arithmetic mean of the Laspeyres and the Paasche index numbers",
+      "simple average of the base period and the current period values"
+    ],
+    "answer": 2,
+    "explanation": "Fisher's ideal index number is the geometric mean of the Laspeyres and the Paasche index numbers, and it is free from the biases of both the base period and the current period weighting.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "A 'time series' index number is used to compare:",
+    "options": [
+      "different variables at one point of time",
+      "the same variable in different places at one time",
+      "the price of one commodity with another commodity",
+      "the same variable over different periods of time"
+    ],
+    "answer": 3,
+    "explanation": "The time series index numbers measure the changes in a variable over time, like the wholesale price index, while the cross sectional index numbers compare different items at a point of time, like the cost of living index.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Net Stable Funding Ratio' introduced under the Basel III framework is a:",
+    "options": [
+      "long term structural liquidity metric with a one year horizon",
+      "profitability measure of the banks",
+      "asset quality ratio of the banks",
+      "short term liquidity metric with a thirty day stress horizon"
+    ],
+    "answer": 0,
+    "explanation": "The NSFR is a longer term structural liquidity metric with a one year horizon, while the Liquidity Coverage Ratio is the short term metric with a thirty day stress horizon.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The cheque truncation system in India became effective in phases from:",
+    "options": [
+      "1 January 1988",
+      "1 January 1992",
+      "1 January 2001",
+      "1 January 1998"
+    ],
+    "answer": 1,
+    "explanation": "The cheque truncation system was introduced in 1992 and the newer formats CTS-2010 and CTS-2019 superseded the earlier series with the clearing of the balances and the positive pay system.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CTS-2019' format of cheques introduced by the RBI makes it mandatory for the banks to:",
+    "options": [
+      "issue the cheques only against the clearing of the balance in the accounts",
+      "return the cheques unpaid for want of funds only",
+      "use the MICR code for the sorting of the cheques",
+      "print the cheques on the special paper"
+    ],
+    "answer": 0,
+    "explanation": "The CTS-2019 series, effective from 1 January 2019, requires the clearing of the balances before the cheques are issued, and it applies to the government as well as the commercial transactions above a threshold.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The RBI's guidelines on the 'Payment Aggregator - Cross Border' deal with:",
+    "options": [
+      "the licensing of the payment banks in the smaller States",
+      "the regulation of the cryptocurrency exchanges",
+      "the settlement of the card transactions of the overseas tourists",
+      "the facilitation of the cross border payment transactions for the export and the import of goods and services"
+    ],
+    "answer": 3,
+    "explanation": "The RBI issued the guidelines on the Payment Aggregator - Cross Border in 2020 to provide the regulated framework for the entities facilitating the cross border exports and the imports and the remittances of the individuals.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Digital Lending Guidelines' of the RBI require the lending entities to:",
+    "options": [
+      "charge the processing fee of not more than two per cent of the loan",
+      "disclose the key facts, the annualised rate of interest and the borrower's right to approach the Ombudsman",
+      "keep the borrowers' data only on the Indian servers",
+      "seek the prior approval of the RBI for every loan"
+    ],
+    "answer": 1,
+    "explanation": "The Digital Lending Guidelines of 2021 require the disclosure of the key facts, the rate of interest and the fees and the existence of the borrower's right to complain to the digital lending ombudsman, with the data of the borrowers also being placed in the public domain.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Securitisation and Reconstruction of Financial Assets Act, 2002' provides for:",
+    "options": [
+      "the nationalisation of the sick units",
+      "the abolition of the Debt Recovery Tribunals",
+      "the enforcement of the security interest by the banks without the intervention of the courts",
+      "the guarantee of the deposits of the small finance banks"
+    ],
+    "answer": 2,
+    "explanation": "The SARFAESI Act allows the banks and the financial institutions to enforce the security interest over the secured assets without the court intervention, and it also provides for the establishment of the Debt Recovery Tribunals.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Retail Direct' scheme of the RBI allows:",
+    "options": [
+      "the banks to sell the government securities only to the corporates",
+      "the foreign portfolio investors to invest in the retail bonds",
+      "the States to borrow directly from the retail market",
+      "the retail investors to subscribe to the government securities directly with the RBI"
+    ],
+    "answer": 3,
+    "explanation": "Retail Direct, introduced in 2021, enables the individual investors to open a gilt account with the RBI and to subscribe to the government securities directly without a demat account with a broker.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'Marshall-Lerner condition' in international trade states that a devaluation will improve the trade balance only when:",
+    "options": [
+      "the sum of the elasticities of demand for the exports and of the demand for the imports is greater than one",
+      "the elasticity of the demand for the exports is less than one",
+      "the currency is fully convertible",
+      "the country is a net exporter of services only"
+    ],
+    "answer": 0,
+    "explanation": "The Marshall-Lerner condition requires that the sum of the price elasticities of the demand for the exports and of the demand for the imports exceeds unity, otherwise the devaluation only worsens the trade balance.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'J-curve effect' in the balance of payments refers to:",
+    "options": [
+      "a permanent improvement of the trade balance after a devaluation",
+      "a temporary deterioration of the trade balance after a devaluation before it improves",
+      "the inflation caused by a devaluation",
+      "the loss of the reserves after a devaluation"
+    ],
+    "answer": 1,
+    "explanation": "After a devaluation the export and the import contracts adjust at different speeds, so the trade balance may worsen initially before the volume responses improve it, and this is called the J-curve effect.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Equalisation levy' introduced in India in 2016 was levied on:",
+    "options": [
+      "the exports of the software companies",
+      "the profits of the banks",
+      "the income of the e-commerce companies operating in the country",
+      "the import of the luxury goods"
+    ],
+    "answer": 2,
+    "explanation": "The equalisation levy of 2016 at two per cent applied to the income of the e-commerce companies, and a six per cent levy on the online advertising was introduced in 2021.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Monetisation Pipeline' prepared by the government is:",
+    "options": [
+      "a fund for the revival of the closed public sector units",
+      "an inventory of the assets of the public sector entities available for the divestment or the lease",
+      "a schedule of the public sector projects approved by the NITI Aayog",
+      "a list of the assets of the banks taken over by the RBI"
+    ],
+    "answer": 1,
+    "explanation": "The National Monetisation Pipeline is an inventory of the assets of the central public sector enterprises, the public sector undertakings and the government entities that can be offered for the monetisation, the privatisation or the leasing.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'N. K. Singh Committee' on the fiscal policy framework recommended:",
+    "options": [
+      "the abolition of the fiscal deficit target",
+      "the reduction of the fiscal deficit to 2 per cent of the GDP by 2025",
+      "the replacement of the FRBM Act by a new statute",
+      "the setting of the fiscal deficit targets in terms of the GDP and the extension of the escape clause"
+    ],
+    "answer": 3,
+    "explanation": "The committee recommended that the fiscal deficit be expressed as a percentage of the nominal GDP, the escape clause be extended and the target of 3 per cent be achieved in two years instead of three.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Fiscal Policy Statement' in the Union Budget:",
+    "options": [
+      "presents the report of the Comptroller and Auditor General",
+      "contains the details of the schemes of the ministries",
+      "sets out the medium term fiscal policy targets and the key policy priorities",
+      "gives the statement of the foreign exchange reserves"
+    ],
+    "answer": 2,
+    "explanation": "The Fiscal Policy Statement, which was first presented in 2018-19 along with the Medium Term Fiscal Policy Statement and the Macro Economic Framework Statement, sets out the medium term targets and the key priorities of the fiscal policy.",
+    "difficulty": "easy",
+    "category": "economic-survey-and-budget",
+    "source": "Economic Survey 2023-24",
+    "year": null
+  },
+  {
+    "q": "The 'Inflation-indexed bond' issued by the Government of India in 2013 was named:",
+    "options": [
+      "the 6.33 per cent IINSS-C 2030",
+      "the 5.5 per century NSIB 2028",
+      "the 7.5 per cent IINSS-D 2035",
+      "the 6 per cent GSIB 2025"
+    ],
+    "answer": 0,
+    "explanation": "The Government issued the 6.33 per cent IINSS-C 2030 as a pilot inflation indexed security, with the principal indexed to the wholesale price index and the interest taxed as the inflation indexed bond income.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'STRIPS' in the government securities market stand for:",
+    "options": [
+      "Separate Trading of Registered Interest and Principal Securities",
+      "Short Term Repurchase Investment and Purchase System",
+      "Securities Trading and Repurchase in International Settlement",
+      "Standard Term Rate Indexing for Price Settlement"
+    ],
+    "answer": 0,
+    "explanation": "The STRIPS are zero coupon securities that allow the investor to separate the interest and the principal components of a government security, and they are issued for the securities with a residual maturity of more than one year.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "expenditure on the interest payments is:",
+    "options": [
+      "is met from the public account without the appropriation",
+      "is the largest single item of the revenue expenditure",
+      "is a capital expenditure",
+      "is not included in the budget at all"
+    ],
+    "answer": 1,
+    "explanation": "The interest payments are the largest single component of the revenue expenditure of the Union Government and they are a contractual obligation with no tax implications.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Public Account of India' is:",
+    "options": [
+      "the account of the loans taken by the States",
+      "the account of the disinvestment proceeds",
+      "the account of the revenue receipts of the government",
+      "the account of the provident funds, the small savings and the deposits of the banks"
+    ],
+    "answer": 3,
+    "explanation": "The Public Account of India holds the provident fund and the pension funds, the small savings, the deposits of the banks and the other funds, and the liabilities of the government in respect of these are not met from the Consolidated Fund.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "In the national accounts, the 'gross capital formation' comprises:",
+    "options": [
+      "the depreciation and the consumption of fixed capital",
+      "the money supply and the bank credit",
+      "the addition to the fixed assets, the change in the stocks and the depreciation",
+      "the addition to the fixed assets and the change in the stocks"
+    ],
+    "answer": 2,
+    "explanation": "Gross capital formation is the addition to the fixed assets, the change in the stocks and the depreciation, while the net capital formation excludes the depreciation, and the consumption of fixed capital is not a component of the gross capital formation.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'primary sector' of the national accounts includes:",
+    "options": [
+      "agriculture, forestry, fishing and the mining and the quarrying",
+      "the manufacturing, the mining and the services",
+      "all the services and the agriculture",
+      "agriculture and the manufacturing"
+    ],
+    "answer": 0,
+    "explanation": "The primary sector comprises the agriculture and the allied activities, the forestry, the fishing and the mining and the quarrying, and the secondary sector covers the manufacturing and the construction while the tertiary covers the services.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'depreciation' in the national accounts is valued at the:",
+    "options": [
+      "original cost of the assets",
+      "market value of the assets",
+      "current replacement cost of the fixed assets",
+      "the amount of the capital allowances of the income tax"
+    ],
+    "answer": 2,
+    "explanation": "In the national accounts the depreciation is valued at the current replacement cost of the fixed assets, which is a measure of the consumption of the fixed capital during the year.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'per capita income' of a State is best described as:",
+    "options": [
+      "the central government's income divided by the population",
+      "the per capita tax revenue of the State",
+      "the per capita public expenditure of the State",
+      "the state domestic product at current prices divided by the population"
+    ],
+    "answer": 3,
+    "explanation": "The per capita income of a State is the state domestic product at the current prices divided by the mid-year population, and it is a measure of the average income of the residents of the State.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'money multiplier' in India is computed as:",
+    "options": [
+      "the ratio of the credit to the capital",
+      "the reciprocal of the required reserve ratio",
+      "the ratio of the currency with the public to the total deposits",
+      "the ratio of the cash to the total money supply"
+    ],
+    "answer": 1,
+    "explanation": "The money multiplier is the reciprocal of the reserve ratio, and it shows the multiple by which the primary money injection of the central bank is expanded into the total money supply through the credit creation by the banking system.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'high power money' of India includes:",
+    "options": [
+      "the currency with the RBI, the reserves of the commercial banks with the RBI and the other deposits of the RBI",
+      "the currency with the public and the time deposits",
+      "the total deposits of the commercial banks",
+      "the currency with the public and the demand deposits"
+    ],
+    "answer": 0,
+    "explanation": "The monetary base of India consists of the currency issued by the RBI, the reserves of the commercial banks with the RBI and the other deposits of the RBI, and the broad money supply of M3 is the high power money multiplied by the money multiplier.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'primary dealers' in the government securities market are:",
+    "options": [
+      "the institutions that underwrite the corporate bonds",
+      "the mutual funds that invest in the government securities",
+      "the entities authorised by the RBI to trade directly with the RBI in the primary market",
+      "the banks that can subscribe to the securities of the States"
+    ],
+    "answer": 2,
+    "explanation": "The primary dealers are the entities authorised by the RBI to participate in the primary and the secondary markets in the government securities, and they act as the interface between the government, the banks and the investors.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'ways and means advances' by the RBI to the central government:",
+    "options": [
+      "are a permanent source of the government borrowing",
+      "are made only to the State Governments",
+      "are a part of the monetary policy of the RBI",
+      "are limited to the rediscounting of the treasury bills and the Ways and Means Advances to avoid a disorderly imbalance in the cash balance"
+    ],
+    "answer": 3,
+    "explanation": "The Ways and Means Advances are made by the RBI only to the central government and are limited in the extent, with the repayments being made by the issue of the treasury bills, so that the government meets its temporary liquidity needs.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'deflation' in the Indian context is best described as:",
+    "options": [
+      "a fall in the price of the gold alone",
+      "a sustained fall in the general price level",
+      "a fall in the export prices",
+      "a seasonal fall in the food prices"
+    ],
+    "answer": 1,
+    "explanation": "Deflation is a sustained fall in the general level of prices, and it is generally considered harmful because the real burden of the debt rises and the spending is postponed in the expectation of lower prices.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "the prices of the essential goods that are:",
+    "options": [
+      "the prices of the essential goods that are determined by the government and not by the market forces",
+      "the prices fixed by the competition commission for the corporate sector",
+      "the prices of the exports determined by the international prices",
+      "the minimum support prices of the crops"
+    ],
+    "answer": 0,
+    "explanation": "The administered prices are the prices of the essential commodities like the petrol, the diesel, the fertilisers, the sugar and the electricity that are set by the government, and they are a part of the administered price mechanism of the economic policy.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'food inflation' in India is measured with the weights drawn from:",
+    "options": [
+      "the production weights of the crops in the country",
+      "the population of the States in proportion to their area",
+      "the share of the foodgrains in the total exports",
+      "the consumption pattern of the households, with the cereals having the highest weight"
+    ],
+    "answer": 3,
+    "explanation": "The CPI-Combined uses the household consumption pattern of the National Sample Survey for the weights, and the cereals with a weight of about 46 per cent dominate the food inflation measure in India.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'MPC' of the RBI votes on:",
+    "options": [
+      "the fiscal deficit and the revenue deficit",
+      "the exchange rate of the rupee and the forex reserves",
+      "the repo rate and the policy rates, by a majority with the Governor holding a casting vote in the event of a tie",
+      "the repo rate only, by the unanimity of the six members"
+    ],
+    "answer": 2,
+    "explanation": "The Monetary Policy Committee has six members, three from the RBI and three appointed by the Central Government, and it decides the policy rate by a majority, with the Governor holding a casting vote in the event of an equality of votes.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'SBI's Monetary Policy Report' is published:",
+    "options": [
+      "only when the policy rate is changed",
+      "twice a year, in February and August, along with the policy statements",
+      "every quarter along with the credit policy",
+      "once a year in the month of October"
+    ],
+    "answer": 1,
+    "explanation": "The Monetary Policy Report of the RBI is published in February and August along with the statement on the policy and the resolution of the Monetary Policy Committee, and the projections and the risks to the growth and the inflation are set out in it.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'RBI Governor' holds a rank equivalent to:",
+    "options": [
+      "a Secretary of the Ministry of Finance",
+      "a Chief Justice of a High Court",
+      "a Cabinet Secretary of the Government of India",
+      "a Deputy Governor of the Reserve Bank"
+    ],
+    "answer": 2,
+    "explanation": "The Governor of the RBI is given the rank of a Cabinet Secretary in the Government of India, and the Deputy Governors are given the rank of the Secretary to the Government of India.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's annual report' is presented by the Governor to:",
+    "options": [
+      "the Economic Survey",
+      "the Central Board of Directors of the RBI",
+      "the Finance Commission",
+      "the Parliament"
+    ],
+    "answer": 3,
+    "explanation": "The Governor of the RBI presents the annual report on the working and the operations of the Bank to the Parliament, and the annual report also contains the balance sheet and the profit and loss account of the Bank.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Pension System' for the government employees:",
+    "options": [
+      "is administered by the Reserve Bank of India",
+      "was started in 2004 and was made mandatory for the new recruits of the central and the State governments",
+      "was started in 2015 for the private sector",
+      "replaced the EPF for the private employees"
+    ],
+    "answer": 1,
+    "explanation": "The National Pension System for the government employees was started in 2004 and was made applicable to the new recruits of the central and the State governments from 2009, and it is managed by the PFRDA.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Insurance Act, 1938' was replaced by the:",
+    "options": [
+      "Insurance Act, 1998",
+      "Insurance Companies Act, 1999",
+      "Insurance Regulatory Act, 1999",
+      "Insurance Development Act, 2000"
+    ],
+    "answer": 0,
+    "explanation": "The Insurance Act, 1938 was replaced by the Insurance Act, 1998 and the IRDAI was constituted in 1999 under the IRDA Act, 1999 to regulate the insurance sector.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Securities Contracts (Regulation) Act, 1950' provides for the:",
+    "options": [
+      "the licensing of the payment banks",
+      "the supervision of the cooperative societies",
+      "regulation of the insurance companies",
+      "regulation of the stock exchanges, the listing of the securities and the disclosure of the information"
+    ],
+    "answer": 3,
+    "explanation": "The Securities Contracts (Regulation) Act, 1950 provides for the recognition of the stock exchanges, the listing of the securities and the obligations of the issuers regarding the disclosure of the information, and it is administered by the SEBI.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'exemptions under the Income Tax Act' for the charitable trusts and the donations:",
+    "options": [
+      "require the registration under the Income Tax Act for the tax exemption of the income of the trust",
+      "are available only to the foreign donations",
+      "are available to all the non-profit organisations of the country",
+      "are available only to the trusts formed before 1970"
+    ],
+    "answer": 0,
+    "explanation": "The tax exemption under the sections 11, 12 and 80G of the Income Tax Act is available to the registered charitable trusts and institutions, and the registration is with the Principal Commissioner of the Income Tax.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Corporate tax' of India:",
+    "options": [
+      "has been unchanged at 34 per cent since 1991",
+      "does not apply to the domestic companies",
+      "was reduced to 25 per cent in 2021 on the condition of the abandonment of the profit-linked tax incentives",
+      "was raised to 30 per cent in 2018"
+    ],
+    "answer": 2,
+    "explanation": "The Finance Act of 2021 brought down the corporate tax rate to 25 per cent for the companies that abandoned the profit linked incentives, while the effective rate of the others remained at about 25.17 per cent.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The voting weight of the Centre and the States in the GST Council is:",
+    "options": [
+      "one-third to each of the States and one-third to the Centre",
+      "one-third of the total votes to the Centre and two-thirds to all the States together",
+      "one-half to the Centre and one-half to the States",
+      "one-fifth to the Centre and four-fifths to the States"
+    ],
+    "answer": 1,
+    "explanation": "Under Article 279A, one-third of the votes in the GST Council is vested in the Centre and two-thirds in all the States together, and the decisions require a three-fourths majority of the weighted votes.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'compensation to the States for the revenue loss on the abolition of the excise duty and the sales tax' was:",
+    "options": [
+      "payable for five years from the date of the commencement of the GST",
+      "payable permanently",
+      "not payable because the GST was a destination based tax",
+      "payable for ten years"
+    ],
+    "answer": 0,
+    "explanation": "The Constitution provided for the compensation to the States for the loss of the revenue for a period of five years from the commencement of the GST, which was later extended by the 53rd GST Council meeting.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'credit guarantee for the MSMEs' in the Credit Guarantee Fund:",
+    "options": [
+      "requires the pledge of the fixed deposits",
+      "is available only to the export oriented units",
+      "covers only the term loans above ten years",
+      "covers the credit facility of up to Rs 5 crore without the collateral or the third party guarantee"
+    ],
+    "answer": 3,
+    "explanation": "The Credit Guarantee Fund scheme for the MSMEs provides the credit guarantee for the credit facilities of up to Rs 5 crore without the collateral or the third party guarantee, which has been raised to Rs 10 crore for the units in the priority sectors.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aadhaar (Unique Identification Authority of India) Act, 2016' provides for:",
+    "options": [
+      "the use of the Aadhaar number for the purposes of the taxation",
+      "the establishment of the Aadhaar appellate tribunals",
+      "the voluntary and the compulsory enrolment of the residents and the use of the authentication services for the welfare schemes",
+      "the compulsory enrolment of every resident of India"
+    ],
+    "answer": 2,
+    "explanation": "The Aadhaar Act provides for the voluntary and the compulsory enrolment of the residents, and the authentication of the identity for the welfare and the other schemes, with the UIDAI as the authority.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The overdraft facility of Rs 10,000 in the Jan Dhan account is available after:",
+    "options": [
+      "twelve months of the regular credit transactions",
+      "six months of satisfactory operation of the account",
+      "one year of satisfactory operation of the account",
+      "three months of satisfactory operation of the account"
+    ],
+    "answer": 1,
+    "explanation": "The overdraft of up to Rs 10,000 in the Basic Savings Bank Deposit Account is available after six months of the satisfactory operation of the account, and the RuPay debit card carries a personal accident insurance cover of Rs 2 lakh.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The overall priority sector target for the domestic scheduled commercial banks under the priority sector lending norms is:",
+    "options": [
+      "25 per cent of the Adjusted Net Bank Credit",
+      "18 per cent of the Adjusted Net Bank Credit",
+      "40 per cent of the Adjusted Net Bank Credit",
+      "32 per cent of the Adjusted Net Bank Credit"
+    ],
+    "answer": 2,
+    "explanation": "The overall priority sector target is 40 per cent of the Adjusted Net Bank Credit of the domestic scheduled commercial banks, with the agriculture accounting for 18 per cent and the weaker sections for the balance.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 'payment banks' can:",
+    "options": [
+      "accept deposits of up to Rs 2 lakh per customer and lend up to Rs 2 lakh",
+      "issue credit cards of any value",
+      "accept deposits of up to Rs 5 lakh and lend without any limit",
+      "lend only to the corporate sector"
+    ],
+    "answer": 0,
+    "explanation": "A payment bank can accept the deposits of up to Rs 2 lakh per customer and can lend up to Rs 2 lakh and cannot lend to the real estate and the agriculture sectors among others.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "RBI",
+    "year": null
+  }
+]

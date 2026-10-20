@@ -23,3 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+# Kilo local state
+.kilo/
+
+# Supabase CLI temp files
+supabase/.temp/

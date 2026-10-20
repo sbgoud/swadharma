@@ -1,0 +1,602 @@
+[
+  {
+    "q": "An 'ecotone' in ecology refers to:",
+    "options": [
+      "A community of organisms that has reached the climax stage",
+      "A transition zone between two different communities or ecosystems",
+      "The zone of the ocean where the light does not reach",
+      "The layer of the soil in which the waterlogging is maximum"
+    ],
+    "answer": 1,
+    "explanation": "An ecotone is a transition zone between two different biological communities or ecosystems, such as the marshy border between a forest and a grassland, where the species of both the neighbouring communities are usually found.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'carrying capacity' of an environment is:",
+    "options": [
+      "The total biomass produced by the ecosystem in one year",
+      "The number of species that can coexist in a habitat",
+      "The amount of energy that flows from one trophic level to the next",
+      "The maximum size of a population that the environment can sustain indefinitely"
+    ],
+    "answer": 3,
+    "explanation": "Carrying capacity is the maximum population size of a species that an environment can support indefinitely with its available resources. The population grows till it reaches the carrying capacity and then stabilises.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The association of the fungi with the roots of the higher plants that helps in the absorption of water and minerals is called:",
+    "options": [
+      "Amensalism",
+      "Parasitism",
+      "Mutualism",
+      "Commensalism"
+    ],
+    "answer": 2,
+    "explanation": "The association of the mycorrhizal fungi with the roots of the plants is a classic example of mutualism, in which the fungus helps the plant in the absorption of water and minerals and the plant supplies the fungus with the carbohydrates that it synthesises.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Ten per cent of the energy of the trophic level is transferred:",
+    "options": [
+      "Ten per cent of the carbon of the atmosphere is taken up by the vegetation",
+      "Ten per cent of the energy of the trophic level is transferred to the next trophic level",
+      "Ten per cent of the biomass is transferred from one trophic level to the next",
+      "Ten per cent of the species of a community are predators"
+    ],
+    "answer": 1,
+    "explanation": "The ten per cent law states that only about ten per cent of the energy available at one trophic level is transferred to the next trophic level, the rest being lost as heat through the metabolic processes, which is why the energy pyramids are always upright.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'homeostasis' of an ecosystem refers to:",
+    "options": [
+      "The ability of an ecosystem to maintain a stable internal environment despite the external changes",
+      "The tendency of the species of a community to grow exponentially",
+      "The steady decline of the biodiversity with the rise of the temperature",
+      "The equal distribution of the individuals of a population in a habitat"
+    ],
+    "answer": 0,
+    "explanation": "Homeostasis is the property of a natural system that allows it to maintain a stable internal environment despite the changes in the external conditions, through the negative feedback mechanisms.",
+    "difficulty": "medium",
+    "category": "ecology-basics",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "A species that is found only in a particular geographical area and nowhere else is called:",
+    "options": [
+      "An endemic species",
+      "An exotic species",
+      "An invasive species",
+      "A keystone species"
+    ],
+    "answer": 0,
+    "explanation": "An endemic species occurs naturally only in a particular geographical area and is absent everywhere else, while an exotic species is one that is found outside its natural range and an invasive species is an exotic species that spreads and causes harm.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'ex-situ' conservation of the species involves:",
+    "options": [
+      "The protection of the species in its natural habitat",
+      "The maintenance of the species outside its natural habitat, as in the zoos, the botanical gardens and the seed banks",
+      "The declaration of an area as a wildlife sanctuary",
+      "The control of the trade in the endangered species"
+    ],
+    "answer": 1,
+    "explanation": "Ex-situ conservation keeps the species outside its natural habitat, for example in the zoos, the botanical gardens, the aquariums, the wildlife parks and the seed banks, while the protection of the species in its natural habitat is in-situ conservation.",
+    "difficulty": "easy",
+    "category": "biodiversity",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'genetic diversity' in an ecosystem is considered the base of all other biodiversity because:",
+    "options": [
+      "It is the only component that can be measured through the remote sensing",
+      "It decides the carrying capacity of the habitat",
+      "It determines the total biomass of the ecosystem",
+      "It provides the raw material for the evolution of the new species and the new varieties"
+    ],
+    "answer": 3,
+    "explanation": "Genetic diversity, the variability of the genes within a species, provides the raw material for the evolution and for the crop improvement programmes, and it is therefore regarded as the base of all the other forms of biodiversity.",
+    "difficulty": "medium",
+    "category": "biodiversity",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "A 'biodiversity hotspot' qualifies for the designation when it has:",
+    "options": [
+      "At least 1,500 species of birds and has lost at least 90 per cent of its forests",
+      "At least 15,000 endemic plant species and has lost at least 10 per cent of its vegetation",
+      "At least 1,500 endemic vascular plants and has lost at least 70 per cent of its original vegetation",
+      "At least 150 endemic species and has lost at least 30 per cent of its original vegetation"
+    ],
+    "answer": 2,
+    "explanation": "A biodiversity hotspot must contain at least 1,500 endemic vascular plants and must have lost at least 70 per cent of its original vegetation. India has four hotspots: the Western Ghats and Sri Lanka, the Himalaya, Indo-Burma and the Sundaland with the Nicobar Islands.",
+    "difficulty": "hard",
+    "category": "biodiversity",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The 'Sarus crane' is:",
+    "options": [
+      "The only crane found in the high alpine meadows of Ladakh",
+      "The state bird of Uttar Pradesh and the tallest flying bird of the world",
+      "The state bird of Assam and the smallest flying bird of the world",
+      "The national bird of India"
+    ],
+    "answer": 1,
+    "explanation": "The Sarus crane is the state bird of Uttar Pradesh and is the tallest of the flying birds of the world, standing nearly 1.5 metres tall. It is protected in the Keoladeo National Park of Bharatpur.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sangai', the state animal of Manipur, is:",
+    "options": [
+      "The musk deer or the sangai of Manipur",
+      "The Arabian oryx",
+      "The Himalayan tahr",
+      "The Asiatic lion"
+    ],
+    "answer": 0,
+    "explanation": "The Sangai, also called the Manipur brow-antlered deer or the musk deer, is the state animal of Manipur. It is found in the Loktak Lake, Keibul Valley and the Khawnglung wildlife sanctuary of Manipur.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Himalayan monal' is the state bird of:",
+    "options": [
+      "Sikkim",
+      "Himachal Pradesh",
+      "Meghalaya",
+      "Uttarakhand"
+    ],
+    "answer": 3,
+    "explanation": "The Himalayan monal, the national bird of Bhutan, is the state bird of Uttarakhand, and the state animal of the state is the alpine musk deer. The blood pheasant is the state bird of Sikkim.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'great hornbill' is the state bird of:",
+    "options": [
+      "Arunachal Pradesh",
+      "Assam",
+      "Meghalaya",
+      "Nagaland"
+    ],
+    "answer": 2,
+    "explanation": "The great hornbill is the state bird of Meghalaya and the Hornbill Festival of Meghalaya celebrates the bird. The white-necked crane is the state bird of Arunachal Pradesh and the Blyth's tragopan is the state bird of Nagaland.",
+    "difficulty": "medium",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Himalayan quail' of India is:",
+    "options": [
+      "An endangered bird of the Himalayan grasslands",
+      "A bird that was declared extinct in the 1930s and was reported again in 2004",
+      "The state bird of Uttarakhand",
+      "A migratory bird that visits the Chilika lake every winter"
+    ],
+    "answer": 1,
+    "explanation": "The Himalayan quail, the mountain quail or the painted bush quail, was declared extinct in 1930 because of the indiscriminate hunting, and it was reported again in the villages of the Bustan district of Mansehra in Pakistan in 2004.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nagarjunsagar-Srisailam' tiger reserve is located in:",
+    "options": [
+      "Odisha",
+      "Maharashtra",
+      "Andhra Pradesh and Telangana",
+      "Madhya Pradesh"
+    ],
+    "answer": 2,
+    "explanation": "The Nagarjunsagar-Srisailam tiger reserve, the largest tiger reserve of India with an area of about 3,000 square kilometres, lies in the Nandyal district of Andhra Pradesh and the Guntur district of Telangana around the Nagarjunasagar dam.",
+    "difficulty": "hard",
+    "category": "forests-and-wildlife",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Himalayan National Park' was inscribed as a UNESCO World Heritage site in:",
+    "options": [
+      "2018",
+      "2007",
+      "2010",
+      "2014"
+    ],
+    "answer": 3,
+    "explanation": "The Great Himalayan National Park of Himachal Pradesh was inscribed on the UNESCO World Heritage List in 2014 for its outstanding natural beauty and for the high value of its mountain ecosystems, and the park covers the four sanctuaries of the Tirthan Valley.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Valmiki National Park' is:",
+    "options": [
+      "The only tiger reserve of Bihar and the first reserve of the country to be notified after Project Tiger",
+      "The largest national park of India",
+      "The national park that hosts the state bird of Meghalaya",
+      "The first national park of India notified in 1935"
+    ],
+    "answer": 0,
+    "explanation": "The Valmiki National Park in the West Champaran district of Bihar is the only tiger reserve of the state and it was the first reserve of the country to be notified after the launch of Project Tiger, in 1988.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Agasthyamalai Biosphere Reserve' is notable because it is:",
+    "options": [
+      "The southernmost biosphere reserve of India, in the Anamalai hills of Tamil Nadu and Kerala",
+      "The only marine biosphere reserve of the country",
+      "The first biosphere reserve that was declared in 1978",
+      "The largest biosphere reserve of India"
+    ],
+    "answer": 0,
+    "explanation": "The Agasthyamalai Biosphere Reserve, spread over the Anamalai hills of Tamil Nadu and Kerala, is the southernmost biosphere reserve of India and it was designated in 2001.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Project Tiger was launched in India in 1973 with:",
+    "options": [
+      "Twenty tiger reserves spread over the country",
+      "Two tiger reserves in the central India",
+      "Nine tiger reserves, including Corbett, Kanha, Manas, Melghat, Palamau, Ranthambore, Similipal, Sundarbans and Periyar",
+      "Only the reserves of the northeastern states"
+    ],
+    "answer": 2,
+    "explanation": "Project Tiger was launched in 1973 with nine tiger reserves: Corbett, Kanha, Manas, Melghat, Palamau, Ranthambore, Similipal, Sundarbans and Periyar, with a special focus on the preservation of the habitat and the protection of the tiger.",
+    "difficulty": "hard",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sundarbans' is:",
+    "options": [
+      "The largest dry deciduous forest of central India",
+      "A cold desert wetland of western Rajasthan",
+      "The only evergreen biosphere reserve of the eastern Himalaya",
+      "The largest mangrove forest in the world, in the delta of the Ganga, the Brahmaputra and the Meghna"
+    ],
+    "answer": 3,
+    "explanation": "The Sundarbans in West Bengal is the largest mangrove forest in the world, spread over the delta of the Ganga, the Brahmaputra and the Meghna, and it is a UNESCO World Heritage site of the mixed type and a Ramsar site.",
+    "difficulty": "medium",
+    "category": "protected-areas",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cartagena Protocol on Biosafety' deals with:",
+    "options": [
+      "The liability and the compensation for the damage by the hazardous wastes",
+      "The regulation of the transboundary movement of the living modified organisms",
+      "The protection of the ozone layer",
+      "The conservation of the migratory species of wild animals"
+    ],
+    "answer": 1,
+    "explanation": "The Cartagena Protocol on Biosafety, adopted in 2000 under the Convention on Biological Diversity, deals with the regulation of the transboundary movement of the living modified organisms that may have adverse effects on the conservation and the sustainable use of the biological diversity.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'MARPOL Convention' of 1973 is related to:",
+    "options": [
+      "The conservation of the polar bears of the Arctic",
+      "The prevention of the marine pollution by the ships",
+      "The control of the harmful fisheries practices",
+      "The regulation of the exploration of the continental shelf"
+    ],
+    "answer": 1,
+    "explanation": "The MARPOL Convention of 1973, as modified by the Protocol of 1978, is the main international convention on the prevention of the marine pollution from the ships, and it deals with the oil, the noxious substances, the packaged goods, the sewage and the garbage.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ballast Water Management Convention' is concerned with:",
+    "options": [
+      "The control of the emission of the sulphur oxides from the ships",
+      "The safety of the navigation of the ships in the polar waters",
+      "The prevention of the introduction of the invasive alien species through the ballast water of the ships",
+      "The measurement of the depth of the ocean with the echo sounder"
+    ],
+    "answer": 2,
+    "explanation": "The Ballast Water Management Convention, adopted by the IMO in 2004, aims at the prevention of the introduction of the invasive alien species into the aquatic ecosystems through the ballast water and the sediments of the ships.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Convention on the Conservation of the Migratory Species of Wild Animals' is:",
+    "options": [
+      "The Bonn Convention of 1979, with the non-migratory species in its appendices",
+      "The Ramsar Convention of 1971",
+      "The CITES of 1973",
+      "The United Nations Convention on the Law of the Sea of 1982"
+    ],
+    "answer": 0,
+    "explanation": "The Convention on the Conservation of the Migratory Species of Wild Animals, or the Bonn Convention of 1979, deals with the conservation of the migratory species and the habitats of the species listed in its two appendices.",
+    "difficulty": "medium",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Green Climate Fund' is:",
+    "options": [
+      "An agency of the World Bank that funds the biodiversity projects",
+      "The fund of the European Union for the coastal protection works",
+      "The carbon credit registry of the UNFCCC",
+      "The financial mechanism of the UNFCCC that supports the mitigation and the adaptation in the developing countries"
+    ],
+    "answer": 3,
+    "explanation": "The Green Climate Fund is the financial mechanism of the UNFCCC that was established at the COP16 in Cancun in 2010, and it channels the funds to the developing countries for the mitigation of the emissions and for the adaptation to the climate change.",
+    "difficulty": "hard",
+    "category": "international-conventions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nationally Determined Contributions' under the Paris Agreement are:",
+    "options": [
+      "The carbon budgets that are fixed by the IPCC for each decade",
+      "The financial pledges made by the developed countries to the developing countries",
+      "The climate action plans that every party formulates and communicates to the UNFCCC",
+      "The emissions inventories that are submitted every year by the annex I countries"
+    ],
+    "answer": 2,
+    "explanation": "The Nationally Determined Contributions are the climate action plans that each party to the Paris Agreement formulates, communicates and maintains, and the progress of the implementation is reviewed every five years in the global stocktake.",
+    "difficulty": "hard",
+    "category": "climate-change",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Carbon Credit Trading Scheme' of India:",
+    "options": [
+      "Was notified in 2023 and allows the trading of the carbon credits of the emission reduction projects",
+      "Was notified in 2016 and is mandatory for the thermal power plants",
+      "Is administered by the Reserve Bank of India for the banking sector",
+      "Was notified under the Forest Conservation Act for the carbon sinks of the forests"
+    ],
+    "answer": 0,
+    "explanation": "The Carbon Credit Trading Scheme was notified in February 2023, with the aim of creating a market for the carbon credit units of the emission reduction projects and of the carbon sinks, and the scheme is to be operationalised through the detailed procedures.",
+    "difficulty": "hard",
+    "category": "climate-change",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'LiFE' (Lifestyle for Environment) movement launched in India in 2022 is based on the:",
+    "options": [
+      "The compulsory reduction of the personal carbon footprint of the citizens",
+      "The subsidy of the electric vehicles in the cities",
+      "The mandatory labelling of the food products",
+      "LiDAR and the remote sensing of the movement of the people for the estimation of the carbon footprint"
+    ],
+    "answer": 3,
+    "explanation": "The LiFE movement is based on the quantification of the carbon footprint of a community through the LiDAR and the remote sensing of the movement of the people, and it is an extension of the mass movement that was launched in the run-up to the COP26.",
+    "difficulty": "hard",
+    "category": "climate-change",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Bhopal gas tragedy' of 1984 was caused by the leak of:",
+    "options": [
+      "Benzene from a petroleum refinery",
+      "Methyl isocyanate from the Union Carbide pesticide plant",
+      "Phosgene from a chemical plant of the chlorine industry",
+      "Ammonia from a fertiliser plant"
+    ],
+    "answer": 1,
+    "explanation": "The Bhopal gas tragedy of December 1984 was caused by the leak of the methyl isocyanate from the pesticide plant of the Union Carbide at Bhopal, and thousands of people died in the city for years afterwards.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Minamata disease' was caused by:",
+    "options": [
+      "The lead pollution of the drinking water of the town of Minamata",
+      "The pesticide spraying over the rice fields of the region",
+      "The release of the sulphur dioxide from the copper smelter",
+      "The industrial discharge of the methylmercury into the Minamata Bay of Japan"
+    ],
+    "answer": 3,
+    "explanation": "The Minamata disease, first reported in 1956 in Japan, was caused by the industrial discharge of the methylmercury into the Minamata Bay, which entered the food chain through the fish and the shellfish and caused the neurological damage in the human beings.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'DDT' is a pesticide whose use led to:",
+    "options": [
+      "The rise of the sea level in the Bay of Bengal",
+      "The decline in the population of the birds of prey, including the peregrine falcon and the osprey",
+      "The increase in the population of the malarial mosquitoes",
+      "The depletion of the ozone layer"
+    ],
+    "answer": 1,
+    "explanation": "The wide use of the DDT, an organochlorine pesticide, led to the biomagnification up the food chain and to the sharp decline in the population of the birds of prey, such as the peregrine falcon and the osprey, which is why the DDT was banned in most of the countries.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The oxides of sulphur and the oxides of nitrogen that are:",
+    "options": [
+      "The chlorofluorocarbons that deplete the ozone layer",
+      "The soot and the particulate matter of the thermal power plants",
+      "The oxides of sulphur and the oxides of nitrogen that are released into the atmosphere",
+      "The excess of the carbon dioxide that traps the heat of the sun"
+    ],
+    "answer": 2,
+    "explanation": "The acid rain is caused by the oxides of sulphur and the oxides of nitrogen that are released by the industries and the thermal power plants, and it reacts with the water vapour in the atmosphere to form the sulphuric and the nitric acids.",
+    "difficulty": "medium",
+    "category": "pollution",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "A by-product that is used:",
+    "options": [
+      "A by-product that is used in the cement, the bricks and the road construction",
+      "A liquid effluent that is discharged in the rivers",
+      "A gaseous emission that is released through the chimneys",
+      "A hazardous waste that has to be stored in the lined ponds"
+    ],
+    "answer": 0,
+    "explanation": "The fly ash of the thermal power plants is a by-product of the combustion of the coal, and it is used in the cement, the bricks, the road construction and the mine filling, which makes it one of the largest industrial wastes of the country.",
+    "difficulty": "easy",
+    "category": "pollution",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Swachh Bharat Mission' was launched in India on:",
+    "options": [
+      "1 October 2015",
+      "2 October 2014",
+      "15 August 2015",
+      "26 January 2016"
+    ],
+    "answer": 1,
+    "explanation": "The Swachh Bharat Mission was launched on 2 October 2014, the 150th birth anniversary of Mahatma Gandhi, and it was later split into the urban and the rural components, the rural one being launched in 2019.",
+    "difficulty": "easy",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Construction and Demolition waste' is managed under:",
+    "options": [
+      "The Plastic Waste Management Rules, 2016",
+      "The E-waste (Management) Rules, 2016",
+      "The Hazardous and Other Wastes (Management and Handling) Rules, 1989",
+      "The Construction and Demolition (Management and Handling) Rules, 2016"
+    ],
+    "answer": 3,
+    "explanation": "The Construction and Demolition waste, which is a bulky and a very heterogeneous material, is managed under the Construction and Demolition (Management and Handling) Rules, 2016, which require the recovery of the fraction of the material and its reuse.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Batteries (Management and Handling) Rules, 2022' in India deal with:",
+    "options": [
+      "The import of the lithium cells for the electric vehicles",
+      "The setting up of the common facilities for the battery manufacturing",
+      "The production, the collection, the transportation, the treatment and the recycling of the waste batteries",
+      "The certification of the lead acid batteries of the vehicles"
+    ],
+    "answer": 2,
+    "explanation": "The Batteries (Management and Handling) Rules, 2022, which replaced the 2010 rules, lay down the framework for the producers, the importers and the recyclers for the collection, the transportation, the treatment and the recycling of the waste batteries, with the aim of a circular economy.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'single use plastic' items were banned in India with effect from:",
+    "options": [
+      "1 July 2022",
+      "1 April 2021",
+      "15 August 2020",
+      "1 January 2023"
+    ],
+    "answer": 0,
+    "explanation": "The identified single use plastic items, which include the plastic carry bags, the cups, the plates, the cutlery, the straws and the ear buds, were banned in India with effect from 1 July 2022 under the Plastic Waste Management (Amendment) Rules, 2022.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Guidelines for the Recognition of the Waste Pickers' notified in India in 2021 provide for:",
+    "options": [
+      "The ban on the plastic waste pickers from the landfill sites",
+      "The payment of the social security to the municipal corporations",
+      "The certification of the waste pickers and the integration of them into the formal system of the waste management",
+      "The setting up of the recycling plants in every urban local body"
+    ],
+    "answer": 2,
+    "explanation": "The National Guidelines for the Recognition of the Waste Pickers, 2021 provide for the certification of the waste pickers, the integration of them into the formal system of the waste management and the issue of the identity cards and the access to the social security benefits.",
+    "difficulty": "hard",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The segregation of the municipal solid waste into the wet, the dry and the hazardous waste is:",
+    "options": [
+      "The last step of the solid waste management, done at the landfill site",
+      "Optional for the urban local bodies under the Solid Waste Rules",
+      "Applicable only to the cities with a population above ten million",
+      "The first step of the scientific management of the solid waste"
+    ],
+    "answer": 3,
+    "explanation": "The segregation of the waste at the source into the wet, the dry and the hazardous waste is the first and the most important step of the scientific management of the solid waste, as it prevents the contamination and makes the composting and the recycling possible.",
+    "difficulty": "easy",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Extended Producer Responsibility' under the plastic waste rules in India obliges the producers to:",
+    "options": [
+      "Manufacte the plastic from the bio-degradable feedstock",
+      "Manage the collection and the disposal of the plastic waste that they generate",
+      "Deposit a fixed amount for every plastic packet that is sold",
+      "Use only the recycled plastic in the packaging of the beverages"
+    ],
+    "answer": 1,
+    "explanation": "The Extended Producer Responsibility places the responsibility on the producers, the importers and the plastic waste generators to manage the collection and the disposal of the plastic waste that they generate, and the registration of the producers on the centralised portal is mandatory.",
+    "difficulty": "medium",
+    "category": "waste-management",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

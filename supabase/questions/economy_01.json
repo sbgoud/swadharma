@@ -1,0 +1,3467 @@
+[
+  {
+    "q": "The fundamental economic problem of scarcity arises because",
+    "options": [
+      "Resources are unlimited but their prices rise continuously",
+      "Government intervention restricts the free allocation of goods and services",
+      "Human wants are unlimited while the means of satisfying them are limited",
+      "Human wants are finite while the means of production are infinite"
+    ],
+    "answer": 2,
+    "explanation": "Scarcity exists because human wants are unlimited whereas the resources and time available to satisfy them are limited and have alternative uses, so rationing such as foodgrain ration cards becomes necessary.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "In a market economy, the price mechanism performs the function of",
+    "options": [
+      "Coordinating the allocation of scarce resources across competing uses",
+      "Eliminating the need for government intervention in all markets",
+      "Guaranteeing a minimum level of consumption for every household",
+      "Distributing income equitably among all sections of society"
+    ],
+    "answer": 0,
+    "explanation": "Prices act as signals and incentives: the equilibrium price equates marginal benefit with marginal cost, thereby channelling scarce resources to their most valued uses.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The opportunity cost of producing one more unit of a good is",
+    "options": [
+      "The average cost of production of all units produced",
+      "The value of the next best alternative that has been forgone",
+      "The fixed cost of the firm divided by the number of units produced",
+      "The total money spent on producing the extra unit"
+    ],
+    "answer": 1,
+    "explanation": "Opportunity cost is the value of the best alternative given up when a choice is made, so it measures the real cost of the extra unit in terms of what could have been produced instead.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Marginal utility refers to",
+    "options": [
+      "Total satisfaction obtained from consuming a given quantity of a good",
+      "The satisfaction obtained from the very first unit of a good consumed",
+      "The maximum satisfaction obtainable from a bundle of goods",
+      "The additional satisfaction derived from consuming one more unit of a good"
+    ],
+    "answer": 3,
+    "explanation": "Marginal utility is the extra utility from the last unit consumed, while total utility is the sum of marginal utilities of all units, which is why the law of diminishing marginal utility applies.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The law of diminishing marginal utility states that",
+    "options": [
+      "Marginal utility is the same for every unit of every good",
+      "Marginal utility turns negative only after total utility has started falling",
+      "As consumption of a good rises, the marginal utility from each additional unit declines",
+      "Total utility from a good always rises at an increasing rate"
+    ],
+    "answer": 2,
+    "explanation": "Diminishing marginal utility means that each successive unit of a good yields less extra satisfaction than the previous one, which is the basis of the law of demand and consumer equilibrium analysis.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "A market characterised by very large numbers of buyers and sellers, homogeneous products, perfect information and free entry is",
+    "options": [
+      "A monopolistically competitive market",
+      "A perfectly competitive market",
+      "A monopoly market",
+      "An oligopolistic market"
+    ],
+    "answer": 1,
+    "explanation": "Perfect competition has many buyers and sellers, identical products, free entry and exit and full information, so no single participant can influence price; the other structures involve market power.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "A monopolist can raise prices without losing all its customers mainly because",
+    "options": [
+      "The demand for its product is perfectly elastic",
+      "The government fixes its maximum price at a high level",
+      "Its product is always of superior quality to that of rivals",
+      "Barriers to entry prevent new firms from competing with it"
+    ],
+    "answer": 3,
+    "explanation": "A monopoly retains the power to influence price because entry barriers such as licences, patents, control over raw materials or scale economies keep competitors out of the market.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Gross Domestic Product is valued at",
+    "options": [
+      "Market prices",
+      "Wholesale prices",
+      "Basic prices",
+      "Factor cost"
+    ],
+    "answer": 0,
+    "explanation": "In the Indian national accounts, GDP is published at market prices, which is gross value added at basic prices plus net taxes on products, whereas basic prices and factor cost exclude such taxes.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The difference between India's GDP and GNP, computed on the same basis, arises from",
+    "options": [
+      "The net factor income earned by residents from abroad",
+      "The value of exports of goods and services",
+      "The depreciation of capital assets in the economy",
+      "The net unrecorded cash transactions in the economy"
+    ],
+    "answer": 0,
+    "explanation": "GNP equals GDP plus net factor income from abroad, so the two differ because of the income Indian residents earn overseas less the income earned by foreign residents in India.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT included in the computation of Gross Value Added at basic prices?",
+    "options": [
+      "Compensation of employees",
+      "Operating surplus",
+      "Consumption of fixed capital",
+      "Net taxes on products"
+    ],
+    "answer": 3,
+    "explanation": "Gross value added at basic prices is output less intermediate consumption, and net taxes on products are added separately when converting GVA into GDP at market prices.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The base year used for compiling the National Accounts Statistics of India is",
+    "options": [
+      "1999-2000",
+      "2011-12",
+      "2004-05",
+      "2015-16"
+    ],
+    "answer": 1,
+    "explanation": "The Central Statistics Office uses 2011-12 as the base year for the constant price series of national accounts published since the 2019 base year revision, replacing the earlier 2004-05 base.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Real GDP differs from nominal GDP because real GDP",
+    "options": [
+      "Is calculated using current year prices",
+      "Excludes the depreciation of capital assets",
+      "Is computed at constant prices and thus removes the effect of price changes",
+      "Includes net factor income from abroad"
+    ],
+    "answer": 2,
+    "explanation": "Real GDP is expressed at base year prices so that it measures only the change in the volume of output, while nominal GDP is at current prices and mixes volume with price changes.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Per capita income in India is calculated as",
+    "options": [
+      "Total national income divided by the labour force",
+      "Total national income divided by the working age population",
+      "Total national income divided by the mid-year total population",
+      "Total national income divided by the number of households"
+    ],
+    "answer": 2,
+    "explanation": "Per capita income is the average income of the population, obtained by dividing national income by the mid-year population, which is why a rising population dilutes per capita gains.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Human Development Index is a composite of",
+    "options": [
+      "Employment rate, wages and labour productivity",
+      "Life expectancy at birth, education measured by mean and expected years of schooling, and GNI per capita",
+      "Per capita income, poverty ratio and literacy rate",
+      "Life expectancy, infant mortality and access to electricity"
+    ],
+    "answer": 1,
+    "explanation": "The HDI, published by the UNDP, combines three equally weighted dimensions, health measured by life expectancy, education through mean and expected years of schooling, and a measure of income.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The Multidimensional Poverty Index is published jointly by",
+    "options": [
+      "UNDP and the Oxford Poverty and Human Development Initiative",
+      "The ILO and the ILO",
+      "NITI Aayog and the Reserve Bank of India",
+      "The World Bank and the IMF"
+    ],
+    "answer": 0,
+    "explanation": "The global MPI is produced by the UNDP with the Oxford Poverty and Human Development Initiative, while NITI Aayog publishes a separate domestic index built on health, education and living standard indicators.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "According to the Tendulkar Committee, the all-India poverty line should be",
+    "options": [
+      "The median per capita consumption expenditure of the country",
+      "The per capita expenditure of the bottom 20 percent of households",
+      "The average per capita consumption expenditure of the poorest states",
+      "The per capita consumption expenditure of the poorest 10 percent of the population"
+    ],
+    "answer": 3,
+    "explanation": "The Tendulkar Committee fixed a single all-India poverty line at the per capita consumption expenditure of the poorest 10 percent of the population, with state specific lines adjusted upward to that level.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rangarajan Committee differed from the Tendulkar Committee in that it",
+    "options": [
+      "Recommended state specific poverty lines derived from each state's own expenditure distribution",
+      "Recommended a uniform poverty line for rural and urban areas",
+      "Rejected the use of consumption expenditure as the poverty measure",
+      "Recommended a food energy based normative calorie requirement"
+    ],
+    "answer": 0,
+    "explanation": "The Rangarajan Committee used separate state specific poverty lines derived from the distribution of consumption expenditure within each state, unlike the single all-India line recommended by Tendulkar.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Disguised unemployment refers to",
+    "options": [
+      "Persons who have stopped seeking work and left the labour force",
+      "New entrants who have not yet obtained their first job",
+      "Workers engaged in an activity whose marginal contribution to output is negligible",
+      "Workers unemployed for a short period due to seasonal factors"
+    ],
+    "answer": 2,
+    "explanation": "Disguised unemployment exists where too many workers are engaged in an activity such as farming on small holdings so that removing some of them would not reduce output, a situation typical of Indian agriculture.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "Under the ILO definition, a person is counted as unemployed when he is",
+    "options": [
+      "Working fewer hours than the full time standard",
+      "Not in employment and not actively seeking work",
+      "Without work but available for work, regardless of whether he seeks it",
+      "Without work, available for work and actively seeking work"
+    ],
+    "answer": 3,
+    "explanation": "The International Labour Organization's usual status approach counts a person as unemployed if he has no work, is available for work and is actively seeking work, which is the basis of the Indian labour force surveys.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "Seasonal unemployment is best described as",
+    "options": [
+      "Unemployment arising from a mismatch between worker skills and available jobs",
+      "Unemployment that occurs when the demand for labour varies with the season",
+      "Unemployment that lasts for more than six months",
+      "Unemployment caused by a fall in aggregate demand during a downturn"
+    ],
+    "answer": 1,
+    "explanation": "Seasonal unemployment arises because demand for labour changes with the season, as in agriculture, tourism and construction, and it is pronounced in countries with a large agricultural workforce.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a growth indicator that does not take into account the distribution of income?",
+    "options": [
+      "Multidimensional Poverty Index",
+      "Gini coefficient",
+      "Per capita real gross domestic product",
+      "Human Development Index"
+    ],
+    "answer": 2,
+    "explanation": "GDP per capita is an average measure of output per head and is silent on how that output is distributed, whereas the HDI, MPI and Gini coefficient explicitly capture distribution and human development.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "Inclusive growth is best described as",
+    "options": [
+      "Growth that benefits all sections of society, especially the poor, so that inequality does not rise",
+      "Growth driven entirely by the export oriented sector",
+      "Growth accompanied by a fall in the participation rate of women",
+      "Growth concentrated in the most dynamic states of the country"
+    ],
+    "answer": 0,
+    "explanation": "Inclusive growth means that the benefits of growth are widely shared, that the poorest grow faster than the average and that inequality does not widen, a theme adopted in the Eleventh Five Year Plan.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The First Five Year Plan in India was mainly directed towards",
+    "options": [
+      "The development of heavy and machine based industries",
+      "Agricultural development with an emphasis on food self sufficiency",
+      "Establishment of a sound monetary and credit policy",
+      "Rapid industrialisation through an import substitution model"
+    ],
+    "answer": 1,
+    "explanation": "The First Plan (1951-56) was centred on agricultural development, irrigation and the aim of achieving self sufficiency in foodgrains, with heavy industry receiving attention only in the Second Plan.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Five Year Plan had higher growth with inclusive growth and employment as its stated objective?",
+    "options": [
+      "The Twelfth Five Year Plan of 2012-17",
+      "The Second Five Year Plan of 1956-61",
+      "The Seventh Five Year Plan of 1985-90",
+      "The Eleventh Five Year Plan of 2007-12"
+    ],
+    "answer": 3,
+    "explanation": "The Eleventh Plan set the twin goals of higher growth and inclusive growth with employment, and it was the first plan to be framed as a National Employment Plan and monitored through the Five Year Plan Advisory Council.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Fifth Five Year Plan of 1974-79 is notable for",
+    "options": [
+      "Setting an explicit target for reducing the poverty ratio and introducing the rolling plan",
+      "Prioritising the development of the electronics industry",
+      "Giving the highest priority to defence production",
+      "Rejecting the five year allocation of resources to development goals"
+    ],
+    "answer": 0,
+    "explanation": "The Fifth Plan introduced the concept of a rolling plan and set out a specific target for reducing the poverty ratio, marking a decisive shift in planning towards poverty alleviation.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "NITI Aayog was constituted to",
+    "options": [
+      "Allocate five year plan funds among the states",
+      "Regulate the prices of essential commodities across the country",
+      "Supervise the working of the Central Board of Direct Taxes",
+      "Replace the Planning Commission with a cooperative and holistic institution that promotes state participation in policy making"
+    ],
+    "answer": 3,
+    "explanation": "NITI Aayog, which replaced the Planning Commission in 2015, does not allocate plan funds but works as a think tank that fosters cooperative federalism and provides policy advice to the centre and the states.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Make in India programme launched in 2014 primarily aimed at",
+    "options": [
+      "Setting up special economic zones exclusively for information technology firms",
+      "Doubling the number of public sector enterprises",
+      "Improving the competitiveness of the manufacturing sector through ease of doing business and better infrastructure",
+      "Replacing the Planning Commission with a new body for state coordination"
+    ],
+    "answer": 2,
+    "explanation": "Make in India sought to make India a global manufacturing hub by improving the ease of doing business, upgrading infrastructure and attracting investment, with twenty sectors identified for focused attention.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Economic development, as distinct from economic growth, implies",
+    "options": [
+      "An increase in the per capita output of the country",
+      "A widening of the range of goods available to the population together with an improvement in living standards",
+      "A steady rise in the rate of investment in the economy",
+      "A rise in the real gross domestic product of the economy"
+    ],
+    "answer": 1,
+    "explanation": "Growth is a quantitative increase in output whereas development is broader, combining growth with structural change, diversification of the economy and improvements in health, education and living standards.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Rationalisation of the Consumer Price Index in India resulted in",
+    "options": [
+      "Combining rural and urban prices into a single series",
+      "Fixing the base year as 1986-87 for the combined series",
+      "Reducing the number of price quotations collected in every city",
+      "Splitting the CPI into eight subgroups for the combined rural and urban series"
+    ],
+    "answer": 3,
+    "explanation": "The 2011 rationalisation replaced the separate rural and urban series with a CPI Combined, divided into eight subgroups, with the base year for the new series fixed at 2012.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Scarcity, choice, opportunity cost and elasticity belong primarily to the study of",
+    "options": [
+      "International economics",
+      "Microeconomics",
+      "Macroeconomics",
+      "Public finance"
+    ],
+    "answer": 1,
+    "explanation": "These are the core tools of microeconomics, which analyses individual decision makers, firms and markets, whereas macroeconomics deals with aggregates such as inflation, output and unemployment.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "In a two period consumption model, a consumer will borrow when",
+    "options": [
+      "The consumer wants to hold a larger money balance for transaction purposes",
+      "Current income exceeds current consumption and the consumer prefers to hold money idle",
+      "Current income is below desired consumption and the consumer expects future income to be higher",
+      "The interest rate is zero and the consumer faces a liquidity constraint"
+    ],
+    "answer": 2,
+    "explanation": "Intertemporal choice leads to borrowing when present income is insufficient relative to present desired consumption and future income is expected to rise, so repayment is possible from future earnings.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The law of one price states that",
+    "options": [
+      "Identical goods traded across countries cost the same in each country once transport costs and trade barriers are excluded",
+      "The domestic price of a non traded good equals the price of its closest substitute",
+      "The price of a good in the domestic market must equal its price in every foreign market",
+      "Exchange rates between two currencies remain constant over time"
+    ],
+    "answer": 0,
+    "explanation": "The law of one price holds that arbitrage keeps prices of identical goods equal across countries, with any difference explained by transport costs, tariffs and other barriers to trade.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is an example of a positive externality?",
+    "options": [
+      "A factory discharging smoke into the atmosphere",
+      "A vehicle emitting carbon dioxide on a public road",
+      "A coal fired power plant generating electricity for sale",
+      "A firm's research and development spending that benefits other firms in the industry"
+    ],
+    "answer": 3,
+    "explanation": "A positive externality occurs when an action creates benefits for third parties, as with knowledge spillovers from research and development, leading to under production of such goods by the market.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Comparative advantage as formulated by Ricardo rests on",
+    "options": [
+      "The exchange rate at which goods are traded between countries",
+      "Differences in the relative costs of producing goods across countries rather than on absolute cost levels",
+      "The absolute productivity of each country in every industry",
+      "The size of a country's defence expenditure"
+    ],
+    "answer": 1,
+    "explanation": "Ricardo showed that even a country with absolute cost disadvantages can gain from trade if it specialises relatively in goods that it produces at a lower opportunity cost, which is the basis of comparative advantage.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Public goods are characterised by",
+    "options": [
+      "Non rivalrous consumption and non excludability, which give rise to the free rider problem",
+      "The ability of producers to keep non consumers out of the market",
+      "High rivalry in consumption and easy exclusion of non payers",
+      "Perfectly competitive supply by a large number of small producers"
+    ],
+    "answer": 0,
+    "explanation": "Because one person's consumption does not reduce availability to others and non payers cannot be excluded, public goods tend to be under provided by the market, which is why they are financed through taxation.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The market failure that arises when the benefits of an activity spill over to third parties is",
+    "options": [
+      "The Coase theorem",
+      "The paradox of thrift",
+      "The presence of positive externalities, which leads to under consumption",
+      "The tragedy of the commons"
+    ],
+    "answer": 2,
+    "explanation": "Positive externalities mean that private producers do not capture the full social benefit of their activity, so output is below the socially efficient level and corrective measures such as subsidies may be needed.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The term gross in Gross Domestic Product implies that",
+    "options": [
+      "Net factor income from abroad has been included in the computation",
+      "Depreciation of capital assets has not been deducted from the value of output",
+      "Only the value of final goods has been included in the computation",
+      "The value of intermediate goods has been excluded from the computation"
+    ],
+    "answer": 1,
+    "explanation": "Gross measures do not deduct consumption of fixed capital, so GDP overstates the net addition to the stock of wealth, which is why net domestic product is also published.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The concept of a sunk cost implies that",
+    "options": [
+      "Variable costs that vary with the level of output",
+      "The minimum cost that a firm must bear in the short run",
+      "Costs that can be recovered if the firm abandons the project",
+      "Costs already incurred that cannot be recovered and should not influence future decisions"
+    ],
+    "answer": 3,
+    "explanation": "A sunk cost has already been incurred and cannot be recovered whatever the decision taken, so rational decisions depend only on future marginal costs and benefits.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'factor cost' or basic price measure of national income excludes",
+    "options": [
+      "Indirect taxes and subsidies",
+      "Consumption of fixed capital",
+      "Compensation of employees",
+      "Rent and interest paid to factors of production"
+    ],
+    "answer": 0,
+    "explanation": "At factor cost the net product of the economy is shown without the impact of indirect taxes and subsidies, which is why GDP at market prices equals GVA at basic prices plus net taxes on products.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "In the Indian system of national accounts, National Income is measured as",
+    "options": [
+      "Gross Domestic Product at factor cost",
+      "Net Domestic Product at market prices",
+      "Net National Income at factor cost, that is net value added within the country plus net factor income from abroad",
+      "Gross National Product at market prices"
+    ],
+    "answer": 2,
+    "explanation": "National income is the net factor income accruing to the residents of the country, so it is net value added at factor cost within the country adjusted for net factor income from abroad.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Value added by an industry is computed as",
+    "options": [
+      "Its gross sales less the value of its exports",
+      "The total value of all goods and services produced by the industry",
+      "The value of its output minus the value of intermediate goods and services consumed in production",
+      "The sum of wages and salaries paid by the industry"
+    ],
+    "answer": 2,
+    "explanation": "Value added equals output minus intermediate consumption, and summing value added across all industries gives GDP while avoiding the double counting of intermediate goods.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "In the national accounts, intermediate consumption refers to",
+    "options": [
+      "The depreciation of machinery and equipment",
+      "Goods and services used up in the production of other goods and services",
+      "The gross fixed capital formation of enterprises",
+      "Final goods purchased by households"
+    ],
+    "answer": 1,
+    "explanation": "Intermediate consumption comprises goods and services that are fully used up in production, and it is deducted from gross value added to avoid counting them as part of final output.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The primary sector continues to account for a disproportionately high share of employment in India because",
+    "options": [
+      "Indian agriculture is the most mechanised among the major economies",
+      "Manufacturing output in India is not counted in the national accounts",
+      "The services sector does not create jobs in the Indian economy",
+      "A large number of workers remain in low productivity informal and subsistence agriculture"
+    ],
+    "answer": 3,
+    "explanation": "Because agricultural productivity remains low and non farm jobs have not grown fast enough, a very large share of the workforce continues to depend on low wage, low productivity agriculture.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Economic Survey 2021",
+    "year": 2021
+  },
+  {
+    "q": "Gross capital formation in the national accounts refers to",
+    "options": [
+      "Addition to the stock of physical assets, including changes in inventories, after allowing for depreciation",
+      "The total savings of the household sector",
+      "The total investment of the corporate sector alone",
+      "Investment made by the government in roads and hospitals"
+    ],
+    "answer": 0,
+    "explanation": "Gross capital formation is the gross addition to the stock of fixed assets plus the change in stocks of inventories, and gross fixed capital formation is the part that corresponds to investment.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT a component of gross capital formation as defined in the national accounts?",
+    "options": [
+      "Acquisition of machinery and equipment",
+      "Repayment of an outstanding bank loan",
+      "Construction of a new factory building",
+      "Changes in stocks of finished goods"
+    ],
+    "answer": 1,
+    "explanation": "Repayment of a loan is a financial transaction and involves no new physical asset, so it is excluded from capital formation; only additions to fixed assets and inventories are counted.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Gross Value Added by economic activity is used in the national accounts to",
+    "options": [
+      "Show the distribution of national income among households",
+      "Measure the rate of inflation in the economy",
+      "Show the sectoral composition of GDP while avoiding double counting of intermediate inputs",
+      "Measure the level of unemployment in the country"
+    ],
+    "answer": 2,
+    "explanation": "Since value added strips out the intermediate inputs used by each industry, adding the value added of all industries gives GDP without double counting and also reveals the sectoral composition of output.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The problem of double counting in national accounting arises because",
+    "options": [
+      "Intermediate goods used in production are counted again as part of the value of the final product",
+      "Goods are counted both at market prices and at factor cost",
+      "Some sectors report both gross and net values of output",
+      "Some goods are counted both as inputs and as final outputs"
+    ],
+    "answer": 0,
+    "explanation": "Adding the output of all industries would count the value of intermediate goods several times, which is why the value added approach is used to compute GDP.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Gini coefficient is used to measure",
+    "options": [
+      "The rate at which poverty is reduced over a period of time",
+      "The share of income going to the top ten percent of the population",
+      "The ratio of the richest district to the poorest district",
+      "Inequality in the distribution of income or consumption"
+    ],
+    "answer": 3,
+    "explanation": "The Gini coefficient ranges from zero for perfect equality to one for perfect inequality and is used to compare the degree of inequality across societies and over time.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The Lorenz curve depicts",
+    "options": [
+      "The cumulative share of income held by the cumulative percentage of the population arranged from poorest to richest",
+      "The relationship between price and quantity demanded of a good",
+      "The growth rate of the money supply over time",
+      "The relationship between savings and income in an economy"
+    ],
+    "answer": 0,
+    "explanation": "The Lorenz curve plots cumulative population share against cumulative income share, and the Gini coefficient is derived from the area between this curve and the line of perfect equality.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The poverty line recommended by the Tendulkar Committee is based on",
+    "options": [
+      "A calorie norm of 2100 calories per person per day for urban areas",
+      "The per capita consumption expenditure of the poorest ten percent of the population",
+      "The median consumption expenditure of the population",
+      "The average consumption expenditure of the bottom thirty percent of households"
+    ],
+    "answer": 1,
+    "explanation": "The committee derived a single all-India line from the consumption expenditure of the poorest ten percent of the population and adjusted the state specific lines upward to that level.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Sample Survey is conducted by",
+    "options": [
+      "The Reserve Bank of India",
+      "NITI Aayog",
+      "The Ministry of Statistics and Programme Implementation",
+      "The Central Statistical Organisation of the erstwhile Planning Commission"
+    ],
+    "answer": 2,
+    "explanation": "The National Sample Survey Office under the Ministry of Statistics and Programme Implementation conducts the periodic labour force survey and other household surveys.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Periodic Labour Force Survey in India is conducted by",
+    "options": [
+      "The Labour Bureau of the Ministry of Employment",
+      "The Ministry of Rural Development",
+      "The Indian Statistical Institute",
+      "The National Statistical Office under the Ministry of Statistics and Programme Implementation"
+    ],
+    "answer": 3,
+    "explanation": "The PLFS is conducted by the National Statistical Office, which replaced the quinquennial employment surveys and reports unemployment rates quarterly with annual averages.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following pairs is correctly matched?",
+    "options": [
+      "Base year for WPI : 2012",
+      "Base year for constant price GDP : 2004-05",
+      "Base year for CPI Combined : 2010-11",
+      "Base year for CPI Combined : 2012"
+    ],
+    "answer": 3,
+    "explanation": "The CPI Combined series uses 2012 as its base year, while the WPI series uses 2011-12 and constant price GDP also uses 2011-12, so the other pairs are wrong.",
+    "difficulty": "hard",
+    "category": "national-income",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "In the classification used in the national accounts, the primary sector comprises",
+    "options": [
+      "Manufacturing, mining and utilities",
+      "Trade, transport, banking and real estate",
+      "Agriculture, forestry, fishing and mining",
+      "Public administration, defence and education services"
+    ],
+    "answer": 2,
+    "explanation": "The primary sector covers the extraction of natural resources, that is agriculture and allied activities, forestry and fishing along with mining and quarrying of minerals.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which of the following activities is classified under the secondary sector?",
+    "options": [
+      "Software services exported over the internet",
+      "Sugar milling and food processing",
+      "Fishing and animal husbandry",
+      "Financial intermediation"
+    ],
+    "answer": 1,
+    "explanation": "Sugar milling and food processing transform raw materials into finished goods and therefore belong to the secondary or industrial sector, whereas the other options are primary or tertiary activities.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Gross Value Added at basic prices for the services sector is",
+    "options": [
+      "The value of output less intermediate consumption, with net taxes on products shown separately",
+      "Net factor income earned from abroad",
+      "The value of output after deducting consumption of fixed capital",
+      "The gross value of exports of services alone"
+    ],
+    "answer": 0,
+    "explanation": "GVA is a gross measure, so consumption of fixed capital is not deducted from it, and net taxes on products are shown separately before arriving at GDP at market prices.",
+    "difficulty": "hard",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Net national income at factor cost is the measure used in India to compute",
+    "options": [
+      "The real effective exchange rate of the rupee",
+      "The fiscal deficit of the Union Budget",
+      "Per capita income and the incidence of poverty",
+      "The monetary deficit of the central government"
+    ],
+    "answer": 2,
+    "explanation": "Per capita net national income at factor cost is the standard measure of average income and is also the denominator used in computing poverty ratios from consumption data.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the estimation of GDP in India is correct?",
+    "options": [
+      "India does not publish a constant price series for GDP",
+      "Estimates are compiled by combining administrative sources, surveys and the accounts of the central and state governments",
+      "GDP is computed exclusively from the national accounts of the central government",
+      "GDP estimates are compiled from a census of enterprises conducted every five years"
+    ],
+    "answer": 1,
+    "explanation": "Indian national accounts combine data from the Central and State government accounts, enterprise surveys, the Economic Census, the labour force survey and price data from the CPI and WPI series.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "In India, the advance estimates of GDP are released",
+    "options": [
+      "Twice a year, in May and December",
+      "Once a year, in February",
+      "Quarterly, along with the quarterly monetary policy statement",
+      "First with a provisional estimate for the first quarter of the financial year"
+    ],
+    "answer": 3,
+    "explanation": "The National Statistical Office brings out quarterly estimates with a First Advance Estimate in May accompanied by a Provisional Estimate for the first quarter, followed by later revisions through the year.",
+    "difficulty": "hard",
+    "category": "national-income",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Economic growth in India is best measured by",
+    "options": [
+      "Real gross domestic product at constant prices, and per head for per capita growth",
+      "Nominal GDP converted at the current exchange rate",
+      "The ratio of exports to GDP",
+      "The index of industrial production"
+    ],
+    "answer": 0,
+    "explanation": "Real GDP at constant prices removes price effects and measures volume growth, and dividing it by population gives the per capita growth that matters for living standards.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Economic Survey 2021",
+    "year": 2021
+  },
+  {
+    "q": "Per capita income cannot by itself serve as a measure of well being because",
+    "options": [
+      "It is calculated at current prices",
+      "It is an average that ignores distribution as well as non economic aspects of welfare",
+      "It is based on gross rather than net flows of income",
+      "It is measured at factor cost only"
+    ],
+    "answer": 1,
+    "explanation": "Per capita income is a distribution neutral average and ignores inequality, unpaid work, leisure, environment and access to public services, which is why the HDI and MPI were developed.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The multidimensional poverty index used by NITI Aayog measures poverty through a composite of",
+    "options": [
+      "Employment type and wage levels",
+      "Access to banking and digital payments",
+      "Income and consumption levels",
+      "Health, education and standard of living indicators"
+    ],
+    "answer": 3,
+    "explanation": "The NITI Aayog index uses twelve indicators grouped under health, education and standard of living, and is computed for districts to guide convergence of schemes.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NITI Aayog",
+    "year": null
+  },
+  {
+    "q": "The Sustainable Development Goals replaced which earlier global development framework?",
+    "options": [
+      "The Millennium Development Goals",
+      "The Paris Agreement and the Kyoto Protocol",
+      "The Washington Consensus and the Doha Round",
+      "The Rio Declaration and Agenda 21"
+    ],
+    "answer": 0,
+    "explanation": "The seventeen Sustainable Development Goals and their 169 targets adopted in 2015 replaced the eight Millennium Development Goals that ran from 2000 to 2015.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Human Development Report is published annually by",
+    "options": [
+      "The International Monetary Fund",
+      "The World Economic Forum",
+      "The United Nations Development Programme",
+      "The World Bank"
+    ],
+    "answer": 2,
+    "explanation": "The UNDP brings out the Human Development Report every year, which ranks countries on the HDI and related indices such as the IHDI, GDI and the planetary pressure adjusted HDI.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Gender Development Index published in the Human Development Report measures",
+    "options": [
+      "Differences between female and male human development across health, education and income dimensions",
+      "The ratio of women's wages to men's wages in the formal sector",
+      "The share of women in the labour force of a country",
+      "The overall gender gap in economic participation"
+    ],
+    "answer": 0,
+    "explanation": "The GDI compares the HDI achieved by women and men in the same country and highlights gaps in health, education and income rather than only labour market participation.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Inequality adjusted Human Development Index differs from the ordinary HDI by",
+    "options": [
+      "Using mean years of schooling in place of expected years of schooling",
+      "Using GNI per capita at purchasing power parity instead of market exchange rates",
+      "Including a measure of the carbon footprint of the country",
+      "Discounting each dimension of human development for inequality in its distribution"
+    ],
+    "answer": 3,
+    "explanation": "The IHDI adjusts the HDI for the inequality that prevails within each of the three dimensions, so a country with a high HDI but wide disparities may have a much lower IHDI.",
+    "difficulty": "hard",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Plan of Action to Exit Poverty in India is based on the idea that",
+    "options": [
+      "Assets of the poor should be pooled into common property resources",
+      "Financial inclusion alone can lift every household out of poverty",
+      "A convergence approach covering health, nutrition, agriculture, water, sanitation, skilling, housing, education and social security can lift households above the poverty line",
+      "Every poor household should be guaranteed wage employment under MGNREGA"
+    ],
+    "answer": 2,
+    "explanation": "The Plan of Action to Exit Poverty identifies nine essential elements and emphasises convergence of investments through social, financial and physical infrastructure to raise household incomes sustainably.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NITI Aayog",
+    "year": null
+  },
+  {
+    "q": "The three components of the PM-KUSUM scheme are",
+    "options": [
+      "Cold chain support, warehouse modernisation and market yard development",
+      "Solar power plants of 500 kW to 2 MW capacity, solar pumps for farmers and solarisation of grid connected small power plants",
+      "Drip and sprinkler irrigation, rainwater harvesting and soil health cards",
+      "Crop insurance, Kisan Credit Cards and integration with e-NAM markets"
+    ],
+    "answer": 1,
+    "explanation": "PM-KUSUM has three components, namely solar power plants of 500 kW to 2 MW per unit, standalone solar pumps for farmers and solarisation of grid connected small power plants.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The SDG India Index published by NITI Aayog is",
+    "options": [
+      "An index of the competitiveness of Indian exports",
+      "A composite index of the health performance of districts",
+      "A ranking of states on their economic performance",
+      "A measure of progress of states and union territories towards the seventeen Sustainable Development Goals, scored out of 100"
+    ],
+    "answer": 3,
+    "explanation": "The SDG India Index scores each state and union territory on its progress against the seventeen SDGs, using 100 indicators, with a categorical score from 0 to 100 for each goal.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NITI Aayog",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a limitation of GDP as a measure of economic performance?",
+    "options": [
+      "GDP is measured for a single year only",
+      "GDP ignores the value of imports",
+      "GDP does not capture income distribution, unpaid household work or environmental degradation",
+      "GDP is computed at current prices in India"
+    ],
+    "answer": 2,
+    "explanation": "GDP is an aggregate of market valued production and omits the distribution of income, unpaid work of women and the depletion of natural assets, so it must be read with complementary social and environmental indicators.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The sectoral approach to national income accounting in India involves",
+    "options": [
+      "Breaking down output and income generation by economic activity such as agriculture, industry and services",
+      "Studying the savings behaviour of households",
+      "Analysing the distribution of income between rural and urban areas",
+      "Studying the foreign trade performance of the economy"
+    ],
+    "answer": 0,
+    "explanation": "The sectoral approach presents national income as a sum of value added by individual industries, which reveals the structure of the economy and the relative importance of each sector.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The unorganised sector in the Indian economy refers to",
+    "options": [
+      "Only the companies listed on the stock exchanges",
+      "The part of the economy outside the organised sector, which is larger in terms of employment and output",
+      "The part of the economy owned by the central government",
+      "Enterprises owned by foreign investors"
+    ],
+    "answer": 1,
+    "explanation": "The unorganised sector comprises small and unregistered enterprises and self employed workers and remains the larger of the two sectors in terms of both output and employment in India.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "Economic Survey 2021",
+    "year": 2021
+  },
+  {
+    "q": "Per capita income as published in official statistics is based on",
+    "options": [
+      "Gross domestic product divided by the total population",
+      "Net national income at factor cost divided by the mid-year population",
+      "Total national income divided by the labour force",
+      "Gross value added by services divided by the total population"
+    ],
+    "answer": 1,
+    "explanation": "Per capita income is net national income at factor cost divided by the mid-year population, and because it is a net concept it is used to compute the poverty ratios from consumption data.",
+    "difficulty": "hard",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The three methods of estimating national income in India are",
+    "options": [
+      "The balance of payments method, the budget method and the census method",
+      "The input output method, the monetary method and the demographic method",
+      "The production method, the income method and the expenditure method",
+      "The value added method, the sales method and the tax method"
+    ],
+    "answer": 2,
+    "explanation": "National income can be estimated from the production side by value added, from the income side by summing factor incomes, and from the expenditure side by final consumption, investment and net exports.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "In the expenditure approach, GDP is measured as",
+    "options": [
+      "The sum of all factor incomes earned in production",
+      "The sum of value added across all industries",
+      "Total output less depreciation",
+      "Final consumption expenditure plus gross capital formation plus net exports"
+    ],
+    "answer": 3,
+    "explanation": "The expenditure method adds up final consumption expenditure, gross capital formation and net exports, which must equal output by the national accounting identity.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Narrow money supply in India, designated M1, comprises",
+    "options": [
+      "Currency with the public, demand deposits with the banking system and other deposits with the RBI",
+      "Currency with the public plus time deposits with the banking system",
+      "Currency with the public, total deposits of the banking sector and postal savings deposits",
+      "Total currency issued by the RBI plus total deposits of scheduled banks"
+    ],
+    "answer": 0,
+    "explanation": "M1, the narrow money aggregate, covers currency with the public, demand deposits of the banking system and other deposits of the public with the Reserve Bank of India.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Broad money supply in India, designated M3, includes",
+    "options": [
+      "Currency with the public and the reserve deposits of the central bank",
+      "Narrow money plus time deposits with the banking system and post office savings deposits",
+      "Currency with the public plus gold and silver held by households",
+      "Total currency issued by the RBI plus total deposits of scheduled commercial banks"
+    ],
+    "answer": 1,
+    "explanation": "M3 is the broad money aggregate and adds time deposits of the banking system and post office savings deposits to narrow money, capturing funds available for spending and investment.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT one of the traditional functions of money?",
+    "options": [
+      "A measure of the physical size of the economy's output",
+      "Store of value",
+      "Medium of exchange",
+      "Unit of account"
+    ],
+    "answer": 0,
+    "explanation": "The basic functions of money are medium of exchange, unit of account and store of value, with the basis of credit and the basis of payments to government taxes being additional functions, not a measure of output.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The currency deposit ratio in India indicates",
+    "options": [
+      "The ratio of bank advances to total deposits",
+      "The proportion of a bank's net worth funded by reserves",
+      "The rate at which currency is converted into deposits",
+      "The extent of public preference for holding cash rather than bank deposits"
+    ],
+    "answer": 3,
+    "explanation": "The currency deposit ratio reflects how much of the system's funds the public prefers to hold as cash, and a rise in it signals a weakening of the money multiplier and of banks' capacity to create credit.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "Basic savings deposit accounts with banks are included in the monetary aggregates as",
+    "options": [
+      "M3, because they are maintained with post offices",
+      "M1, because they carry a minimum balance requirement",
+      "M1, because the RBI treats them as demand deposits",
+      "M2, because they carry interest"
+    ],
+    "answer": 2,
+    "explanation": "Basic savings deposit accounts are operable as demand accounts and the RBI includes them in the narrow money aggregate M1 along with current account balances.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Under the Banking Regulation Act, 1949, the minimum holding of paid up equity capital by the public in a banking company is",
+    "options": [
+      "50 per cent",
+      "51 per cent",
+      "75 per cent",
+      "26 per cent"
+    ],
+    "answer": 0,
+    "explanation": "Section 5 of the Banking Regulation Act requires that at least 50 per cent of the paid up share capital of a banking company be held by the public, which is the condition for licensing a company as a bank.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Cash Reserve Ratio is maintained by banks with",
+    "options": [
+      "The State Governments",
+      "The Reserve Bank of India",
+      "The National Bank for Agriculture and Rural Development",
+      "The Central Government"
+    ],
+    "answer": 1,
+    "explanation": "CRR is a proportion of net demand and time liabilities that banks must hold as cash or approved securities with the RBI, and the RBI does not pay interest on such balances.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "Under the Banking Regulation Act, 1949, the Statutory Liquidity Ratio may be maintained in",
+    "options": [
+      "Gold ornaments of customers held in bank lockers",
+      "Commercial paper and corporate bonds",
+      "Cash, gold or approved securities, mainly government securities",
+      "Equity shares of listed companies"
+    ],
+    "answer": 2,
+    "explanation": "SLR must be held in cash, gold or approved securities such as government bonds and treasury bills, and since these are government liabilities the central government provides a safe asset for this purpose.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "A Non-Banking Financial Company is defined under",
+    "options": [
+      "The Companies Act, 2013",
+      "The Finance Act",
+      "The Securities and Exchange Board of India Act, 1992",
+      "The Banking Regulation Act, 1949"
+    ],
+    "answer": 3,
+    "explanation": "Section 5A of the Banking Regulation Act, 1949, as amended in 1998, defines an NBFC as a company that can accept deposits from the public in any form and lend or invest in the assets specified by the RBI.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "A non-banking financial company registered with the RBI cannot",
+    "options": [
+      "Lend to individuals for consumption purposes",
+      "Issue commercial paper",
+      "Accept deposits from the public for a period of more than one year",
+      "Accept demand deposits from the public"
+    ],
+    "answer": 3,
+    "explanation": "An NBFC is not permitted to accept demand deposits from the public, because that would make it a bank, though it may accept time deposits and issue other instruments permitted by the RBI.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The Banking Ombudsman scheme for redressal of customer grievances operates under",
+    "options": [
+      "The Reserve Bank of India",
+      "The Ministry of Finance",
+      "The Securities and Exchange Board of India",
+      "The Insurance Regulatory and Development Authority"
+    ],
+    "answer": 0,
+    "explanation": "The RBI administers the Banking Ombudsman scheme for retail banking complaints, and its earlier three separate schemes were merged into a single framework with a centralised complaint handling system.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Priority sector lending targets for commercial banks in India are determined by",
+    "options": [
+      "The Securities and Exchange Board of India",
+      "The Government of India in consultation with the Reserve Bank of India",
+      "The RBI alone under the directions of the Monetary Policy Committee",
+      "The Finance Commission every five years"
+    ],
+    "answer": 1,
+    "explanation": "Priority sector lending norms are determined by the Government in consultation with the RBI and notified by the RBI, with the overall priority sector target fixed as a percentage of adjusted net bank credit.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Priority sectors for lending by commercial banks in India include",
+    "options": [
+      "Only housing and education loans",
+      "Infrastructure and corporate lending to large companies",
+      "Agriculture, MSMEs, export credit, education, housing, social infrastructure, renewables and weaker sections",
+      "Only agriculture and export credit"
+    ],
+    "answer": 2,
+    "explanation": "The RBI's priority sector list covers agriculture and allied activities, MSMEs, export credit, education, housing, social infrastructure, renewables and credit to weaker sections, with sub-targets for each.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Under the Pradhan Mantri Jan Dhan Yojana, basic savings bank deposit accounts are provided with",
+    "options": [
+      "A credit guarantee of Rs 5 lakh for each account holder",
+      "An interest rate of seven per cent fixed by the government",
+      "A mandatory life insurance cover of Rs 436 a year paid by the government",
+      "A RuPay debit card, an overdraft facility of up to Rs 10,000 after satisfactory operation and an accident insurance cover of Rs 2 lakh"
+    ],
+    "answer": 3,
+    "explanation": "Jan Dhan accounts come with a RuPay card, a zero balance overdraft of up to Rs 10,000 after six months and an accident insurance cover of Rs 2 lakh, and the overdraft scheme is now linked to the income of the account holder.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Pradhan Mantri Mudra Yojana provides loans to",
+    "options": [
+      "Micro and small enterprises for income generating units in manufacturing, trading and services",
+      "Women entrepreneurs for setting up information technology parks",
+      "Large corporates for export diversification",
+      "Farmers for seasonal cropping needs"
+    ],
+    "answer": 0,
+    "explanation": "MUDRA lending is divided into Shishu, Kishore and Tarun categories for micro enterprises and small units in manufacturing, trading, services and allied activities, and the loan is collateral free.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Unified Payments Interface allows",
+    "options": [
+      "High value fund transfers in tranches of Rs 2 lakh and above",
+      "Instant person to merchant and person to person payments through an app or any other channel, round the clock",
+      "Only inter bank settlement through a central clearing house",
+      "Transfer of funds between two branches of the same bank"
+    ],
+    "answer": 1,
+    "explanation": "UPI is a real time retail payment system built on the Immediate Payment Service, and it enables small value transfers through mobile apps, bank apps, internet banking and other channels without any value ceiling.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Unlike the RTGS system, the National Electronic Funds Transfer operates on",
+    "options": [
+      "A daily settlement cycle with no minimum transaction size",
+      "A fortnightly cycle for government transactions",
+      "A half hourly batch cycle with a minimum transaction size of Rs 2,000",
+      "A continuous real time basis with a minimum size of Rs 2 lakh"
+    ],
+    "answer": 2,
+    "explanation": "NEFT settles on a half hourly basis and allows any amount, while RTGS is a large value system operating in real time with a minimum transaction size of Rs 2 lakh.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The National Automated Clearing House is used primarily for",
+    "options": [
+      "Settlement of stock market trades",
+      "High value inter bank fund transfers",
+      "Bulk processing of recurring credit and debit entries such as salary, dividend and interest payments",
+      "Real time mobile payments between individuals"
+    ],
+    "answer": 2,
+    "explanation": "NACH handles bulk electronic clearing of recurring collections and payments such as salaries, pensions, dividends, insurance premiums and utility dues under the eNACH framework.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The Immediate Payment Service was introduced in India in",
+    "options": [
+      "2010",
+      "2014",
+      "1998",
+      "2006"
+    ],
+    "answer": 0,
+    "explanation": "IMPS was launched by the National Payments Corporation of India in November 2010 and enabled round the clock inter bank fund transfer and, later, person to person payments through the UPI platform.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "A loan account is classified as a Non Performing Asset by the RBI when",
+    "options": [
+      "It is being serviced through the help of a collection agent",
+      "It remains overdue beyond the stipulated period, such as 90 days for term loans",
+      "It has been restructured by the bank",
+      "It has been classified as a sub standard asset"
+    ],
+    "answer": 1,
+    "explanation": "An account becomes an NPA if the dues are not paid for more than 90 days for term loans and over 120 days for other demand loans and cash credit, the latter being termed as a non performing asset in the books of the bank.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Under the RBI's asset classification norms, sub standard assets are those that",
+    "options": [
+      "Have lost the certainty of realisation and are treated as loss assets",
+      "Are being managed through the help of collection agencies",
+      "Are doubtful but have not yet been written off",
+      "Have remained non performing assets for a period of up to twelve months"
+    ],
+    "answer": 3,
+    "explanation": "Sub standard assets are NPAs of up to twelve months, doubtful assets have remained NPAs for more than twelve months, and loss assets are those where the loss has been identified but not yet written off.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The Capital Adequacy Ratio of a bank is computed as",
+    "options": [
+      "Total assets divided by total deposits",
+      "Capital, both Tier 1 and Tier 2, expressed as a percentage of total risk weighted assets",
+      "Net profit after tax divided by total assets",
+      "Total capital employed divided by total borrowings"
+    ],
+    "answer": 1,
+    "explanation": "The CAR compares a bank's capital base with its risk weighted assets, so that the higher the risk of the assets the more capital the bank must hold, as required under the Basel norms.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Under the Basel norms, Tier 2 capital of a bank includes",
+    "options": [
+      "The deposits of the public",
+      "Paid up equity share capital and reserves",
+      "Funds from the profits of the bank not distributed as dividend",
+      "Undisclosed reserves, revaluation reserves and certain subordinated debt instruments"
+    ],
+    "answer": 3,
+    "explanation": "Tier 1 comprises common equity and additional Tier 1 instruments, while Tier 2 includes undisclosed reserves, revaluation reserves, loan loss provisions and subordinated debt with a maturity of at least five years.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The Financial Stability and Development Council is chaired by",
+    "options": [
+      "The Union Finance Minister",
+      "The Governor of the Reserve Bank of India",
+      "The Chairman of the Finance Commission",
+      "The Chief Minister of the largest state"
+    ],
+    "answer": 0,
+    "explanation": "The FSDC, established in 2010, is chaired by the Union Finance Minister and includes the RBI Governor and the chairs of SEBI, IRDAI, PFRDA and the Finance Commission as members.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Digital public infrastructure in India refers to",
+    "options": [
+      "A framework for the mandatory digitisation of all small businesses",
+      "The information technology infrastructure provided to government schools",
+      "A shared digital layer of identity, payments and data such as Aadhaar, UPI linked banking and the account aggregator, built to deliver public services at scale",
+      "The collection of all government data in a single centralised database"
+    ],
+    "answer": 2,
+    "explanation": "Digital public infrastructure builds on the principle of open and interoperable digital public goods, of which Aadhaar, UPI and the account aggregator framework are the best known Indian examples.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Account Aggregator framework in India enables",
+    "options": [
+      "A fintech to obtain, with the consent of the customer, financial information from various banks for a specified purpose",
+      "The government to debit taxes directly from any bank account of a citizen",
+      "Banks to share loan application data without the consent of the customer",
+      "The RBI to collect the balances of all bank accounts in the country"
+    ],
+    "answer": 0,
+    "explanation": "The Account Aggregator is a consented, customer driven data sharing platform through which a fintech can pull financial information from the banks of a customer for a specified purpose, with no blanket access to bank data.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "In the standard textbook classification, near money includes",
+    "options": [
+      "Demand deposits with banks",
+      "Time deposits with banks and post office savings deposits, which can be readily converted into money",
+      "Gold and silver ornaments held by households",
+      "Currency notes held by the public"
+    ],
+    "answer": 1,
+    "explanation": "Assets that are not money in the strict sense but can be readily converted into money without much loss, such as savings and time deposits, are called near money and are part of the broader monetary aggregates.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Repo transactions are undertaken by the RBI with",
+    "options": [
+      "The general public against government securities",
+      "Only non banking financial companies against corporate bonds",
+      "Commercial banks and other financial institutions against government securities",
+      "The Central Government against tax arrears"
+    ],
+    "answer": 2,
+    "explanation": "Under the repo, the RBI lends to banks against government securities with an agreement to repurchase them, thereby injecting liquidity into the system at the repo rate.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "In a reverse repo transaction, the RBI",
+    "options": [
+      "Lends directly to the Central Government",
+      "Raises the cash reserve ratio of banks",
+      "Lends to banks against securities with an obligation to repurchase",
+      "Borrows from banks by buying securities with an agreement to sell them back"
+    ],
+    "answer": 3,
+    "explanation": "In a reverse repo the RBI purchases securities from banks with an agreement to sell them back, which absorbs liquidity from the banking system at the reverse repo rate.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The Marginal Standing Facility allows banks to",
+    "options": [
+      "Borrow for a period of up to one year against government securities",
+      "Borrow overnight from the RBI by dipping up to five per cent below the repo rate",
+      "Borrow overnight against corporate bonds",
+      "Borrow from the National Securities Depository"
+    ],
+    "answer": 1,
+    "explanation": "The MSF is a standing overnight liquidity facility under which banks can borrow from the RBI by dipping into their cash reserve tranche up to five per cent below the repo rate, and the MSF rate stands above the repo rate.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The Liquidity Adjustment Facility of the RBI provides overnight liquidity to banks against",
+    "options": [
+      "Foreign currency deposits",
+      "Equity shares of listed companies",
+      "Government securities",
+      "Corporate bonds"
+    ],
+    "answer": 2,
+    "explanation": "Under the LAF, banks can borrow overnight from the RBI against government securities, with the RBI auctioning such liquidity through repo and reverse repo operations.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a quantitative instrument of monetary policy?",
+    "options": [
+      "Repo rate",
+      "Margin requirements for lending against securities",
+      "Priority sector lending targets",
+      "Ban on fresh credit to certain sectors"
+    ],
+    "answer": 0,
+    "explanation": "Quantitative instruments influence the overall volume and cost of credit, such as the repo rate and the cash reserve ratio, while qualitative or selective instruments direct credit to particular sectors.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "A bank's balance sheet is best described in terms of",
+    "options": [
+      "The number of branches opened during the year",
+      "The total deposits mobilised from the public",
+      "Its income statement alone",
+      "Assets on one side and liabilities plus owners equity on the other"
+    ],
+    "answer": 3,
+    "explanation": "A balance sheet is a statement of financial position showing assets on one side and liabilities and capital on the other, and the difference between assets and liabilities gives the net worth of the bank.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Financial Inclusion Index parameters used by the RBI include",
+    "options": [
+      "The average size of bank balance sheets",
+      "The share of bank branches and ATMs located in villages",
+      "The number of listed companies on the stock exchanges",
+      "Account ownership, deposits and credit relative to GDP, and the number of outlets per 100,000 adults in rural areas"
+    ],
+    "answer": 3,
+    "explanation": "The Network for Financial Inclusion index measures account ownership, the share of deposits and credit in GDP and the number of outlets per 100,000 adults, and it underpins the monitoring of financial inclusion targets.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Credit Information Companies in India are registered with",
+    "options": [
+      "The Reserve Bank of India",
+      "SEBI",
+      "IRDAI",
+      "The Ministry of Corporate Affairs"
+    ],
+    "answer": 0,
+    "explanation": "Credit information companies, which compile credit records on borrowers for lenders, are registered and regulated by the RBI under the Credit Information Companies (Regulation) Act, 2005.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The Insolvency and Bankruptcy Code came into force in India on",
+    "options": [
+      "28 November 2015",
+      "1 April 2016",
+      "1 December 2016",
+      "1 January 2016"
+    ],
+    "answer": 2,
+    "explanation": "The IBC, 2016 received assent in May 2016 and came into force on 1 December 2016, creating a time bound corporate insolvency resolution process and establishing the NCLT and IBBI.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the Insolvency and Bankruptcy Code, the corporate insolvency resolution process is to be completed within",
+    "options": [
+      "180 days from the date of admission",
+      "330 days from the date of admission, which may be extended by 90 days",
+      "270 days with no provision for extension",
+      "One year from the date of admission"
+    ],
+    "answer": 1,
+    "explanation": "The Code provides 330 days from the date of admission, including the 180 day moratorium, and the adjudicating authority may extend the period by 90 days where there is genuine difficulty in completing the process.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The moratorium period under the Insolvency and Bankruptcy Code refers to",
+    "options": [
+      "The period for appeals against an approved resolution plan",
+      "The period during which no suit or proceeding can be instituted or continued against the corporate debtor, generally for 180 days",
+      "The period for which the Financial Creditors Committee remains constituted after approval of the plan",
+      "The period during which the liquidation process is carried out"
+    ],
+    "answer": 1,
+    "explanation": "Once a company is admitted to the resolution process, a moratorium of 180 days is declared during which no proceedings can be initiated or continued against the corporate debtor or its assets.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Company Law Tribunal is the adjudicating authority for",
+    "options": [
+      "Tax disputes between the central and state governments",
+      "Consumer disputes relating to deficiency in services",
+      "Monetary policy decisions of the Reserve Bank of India",
+      "Insolvency resolution and liquidation proceedings of companies"
+    ],
+    "answer": 3,
+    "explanation": "The NCLT has jurisdiction over the corporate insolvency resolution process and liquidation of companies and their partners, while the NCLAT hears appeals against its orders.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The SARFAESI Act deals with",
+    "options": [
+      "Enforcement of security interest in case of default by the borrower without the intervention of the court",
+      "Regulation of the securities market and stock exchanges",
+      "Prevention of money laundering and terrorist financing",
+      "Regulation of payment and settlement systems"
+    ],
+    "answer": 0,
+    "explanation": "The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 allows secured creditors to enforce security without waiting for the delay of civil proceedings, subject to the borrower being given notice.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The regulatory authority for the insurance sector in India is",
+    "options": [
+      "NABARD",
+      "SEBI",
+      "IRDAI",
+      "PFRDA"
+    ],
+    "answer": 2,
+    "explanation": "The Insurance Regulatory and Development Authority of India regulates insurers, while PFRDA supervises pension funds and NABARD is the apex institution for rural and agricultural credit.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Inflation in an economy is best described as",
+    "options": [
+      "A one time rise in the price of a single commodity",
+      "A fall in the general price level over a quarter",
+      "A sustained rise in the general price level of goods and services over a period of time",
+      "A rise in the price of traded goods only, without affecting domestic prices"
+    ],
+    "answer": 2,
+    "explanation": "Inflation is a sustained and generalised rise in the price level, whereas a one time increase in the price of a single commodity is a relative price change.",
+    "difficulty": "easy",
+    "category": "inflation",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "Demand-pull inflation arises when",
+    "options": [
+      "The government reduces subsidies on key inputs",
+      "Aggregate demand grows faster than the economy's capacity to produce, pulling up prices",
+      "The cost of imported raw materials rises sharply",
+      "The exchange rate of the rupee appreciates sharply"
+    ],
+    "answer": 1,
+    "explanation": "Demand-pull inflation arises when spending outruns the capacity of the economy to supply goods and services, so firms respond by raising prices.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "Cost-push inflation is best illustrated by",
+    "options": [
+      "A sharp rise in international crude oil prices feeding into domestic fuel prices",
+      "A boom in consumer demand during a period of full employment",
+      "An increase in money supply without a matching growth in output",
+      "A large fiscal deficit financed by the printing of new notes"
+    ],
+    "answer": 0,
+    "explanation": "Cost-push inflation originates on the supply side when production costs rise, as with a crude oil price shock, and firms pass the higher costs on to consumers.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "Built-in inflation refers to",
+    "options": [
+      "Inflation caused by excess demand in the economy",
+      "Inflation caused by the government hiking administered prices",
+      "Inflation caused by a sharp rise in the international price of crude oil",
+      "Inflation generated by a wage price spiral as workers seek higher wages to match rising prices"
+    ],
+    "answer": 3,
+    "explanation": "Built-in inflation is inherent in the system when higher prices lead workers to demand higher wages, which raise costs again and perpetuate the price rise, so it is hard to control.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following would be most effective in controlling demand-pull inflation?",
+    "options": [
+      "A cut in the corporate tax rate to boost investment",
+      "A large scale release of food stocks from the buffer",
+      "A reduction of import duties on essential commodities",
+      "A contractionary monetary policy involving higher interest rates and reduced liquidity"
+    ],
+    "answer": 3,
+    "explanation": "Demand-pull inflation is best checked by withdrawing demand through tighter monetary policy, while the other options are supply side or expansionary measures.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Wholesale Price Index in India is released by",
+    "options": [
+      "The National Statistical Office under the Ministry of Statistics",
+      "The Central Board of Direct Taxes",
+      "The Office of the Economic Adviser under the Department for Promotion of Industry and Internal Trade",
+      "The Reserve Bank of India"
+    ],
+    "answer": 2,
+    "explanation": "The Office of the Economic Adviser in the Department for Promotion of Industry and Internal Trade compiles and releases the WPI, while the CPI is compiled by the National Statistical Office.",
+    "difficulty": "easy",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The Consumer Price Index Combined in India covers",
+    "options": [
+      "Both rural and urban households across the country",
+      "Only rural households",
+      "Only urban households",
+      "Wholesale prices of traded goods"
+    ],
+    "answer": 0,
+    "explanation": "The CPI Combined, introduced with the 2011 rationalisation, is a single series covering both rural and urban households and is the metric used for inflation targeting.",
+    "difficulty": "easy",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a limitation of using the Consumer Price Index as a measure of inflation in India?",
+    "options": [
+      "It is based on too few price quotations collected every year",
+      "It does not capture changes in asset prices such as house prices and share prices",
+      "It is computed for both rural and urban sectors",
+      "It is revised periodically to remove price biases"
+    ],
+    "answer": 1,
+    "explanation": "The CPI measures the prices of consumption goods and services and excludes asset transactions, so movements in house prices or share prices do not enter the index.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Headline inflation in India is measured by",
+    "options": [
+      "The GDP deflator",
+      "The Wholesale Price Index",
+      "The Index of Industrial Production",
+      "The Consumer Price Index Combined"
+    ],
+    "answer": 3,
+    "explanation": "Headline inflation is the year on year change in the CPI Combined, which includes food and fuel and therefore reflects what households actually pay.",
+    "difficulty": "easy",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Core inflation in India is commonly measured as",
+    "options": [
+      "The inflation in the price of non food manufactured goods only",
+      "The inflation measured by the GDP deflator",
+      "Consumer price inflation excluding the food and fuel components",
+      "Wholesale price inflation minus the price of crude oil"
+    ],
+    "answer": 2,
+    "explanation": "Core inflation strips out the volatile food and fuel components from the CPI, giving a better indication of the underlying trend in inflation.",
+    "difficulty": "easy",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The base year currently used for the Consumer Price Index Combined series is",
+    "options": [
+      "2012",
+      "2004-05",
+      "2011-12",
+      "2009-10"
+    ],
+    "answer": 0,
+    "explanation": "The revised CPI series with eight subgroups uses 2012 as its base year, while the constant price GDP series and the WPI series use 2011-12.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The base year used for the compilation of the Wholesale Price Index in India is",
+    "options": [
+      "2004-05",
+      "2011-12",
+      "2012",
+      "2009-10"
+    ],
+    "answer": 1,
+    "explanation": "The WPI series was rebased to 2011-12, so it uses the prices of that year as the base for measuring changes in wholesale prices.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Under the inflation targeting framework, the inflation target set by the Government in consultation with the RBI is",
+    "options": [
+      "5 per cent of the Wholesale Price Index with a band of 2 to 8 per cent",
+      "6 per cent of the GDP deflator with an upper tolerance of 8 per cent",
+      "4 per cent of the Consumer Price Index Combined with a band of 2 to 6 per cent",
+      "3 per cent of the CPI with a lower tolerance of 1 per cent"
+    ],
+    "answer": 2,
+    "explanation": "The Central Government fixes the inflation target at 4 per cent of the CPI Combined with an upper tolerance of 6 per cent and a lower tolerance of 2 per cent, in consultation with the RBI.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The Monetary Policy Committee of the Reserve Bank of India consists of",
+    "options": [
+      "Six members, three from the RBI including the Governor who chairs it and three appointed by the Central Government, with two Union officials attending without voting rights",
+      "Five members, all drawn from the Reserve Bank of India",
+      "Seven members appointed entirely by Parliament",
+      "Six members appointed by the State Governments in proportion to their representation"
+    ],
+    "answer": 0,
+    "explanation": "The MPC has six members, three from the RBI including the Governor as Chairperson and three external members appointed by the Centre, while the Chief Financial Adviser and a Ministry of Finance representative attend without voting rights.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "UPSC Prelims",
+    "year": null
+  },
+  {
+    "q": "The mandate of the Monetary Policy Committee is to",
+    "options": [
+      "Manage the foreign exchange reserves and the exchange rate of the rupee",
+      "Maintain price stability in the country by keeping inflation within the target band",
+      "Regulate the licensing of banks and non banking financial companies",
+      "Set the tax rates and revenue expenditure of the central government"
+    ],
+    "answer": 1,
+    "explanation": "Section 45ZB of the amended RBI Act requires the MPC to determine the policy rate needed to achieve the inflation target, so price stability is its central mandate.",
+    "difficulty": "easy",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The inflation target in India is notified by",
+    "options": [
+      "The Monetary Policy Committee of the RBI",
+      "The Ministry of Finance alone",
+      "The Reserve Bank of India alone under its own regulations",
+      "The Central Government in consultation with the Reserve Bank of India"
+    ],
+    "answer": 3,
+    "explanation": "Under Section 45ZA of the RBI Act, the Central Government determines the inflation target in consultation with the RBI and notifies it, and a failure to meet the target must be reported by the RBI to the Centre.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "A situation in which prices rise while output growth stagnates or falls is called",
+    "options": [
+      "Stagflation",
+      "Reflation",
+      "Deflation",
+      "Disinflation"
+    ],
+    "answer": 0,
+    "explanation": "Stagflation combines rising prices with stagnant or falling output and high unemployment, and it is particularly difficult to tackle with conventional monetary policy.",
+    "difficulty": "easy",
+    "category": "inflation",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The Phillips curve depicts the relationship between",
+    "options": [
+      "The rate of money supply growth and the rate of economic growth",
+      "The rate of inflation and the rate of unemployment",
+      "The exchange rate and the trade balance",
+      "The fiscal deficit and the current account deficit"
+    ],
+    "answer": 1,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment, suggesting that accepting higher inflation may reduce unemployment.",
+    "difficulty": "easy",
+    "category": "inflation",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "Food inflation in India carries a large weight in the CPI because",
+    "options": [
+      "Food prices are excluded from the WPI but heavily weighted in the CPI",
+      "The government fixes most food prices in the administered price basket",
+      "Food items have a relatively high weight in the CPI basket and their prices are highly volatile",
+      "The CPI is computed exclusively on food and fuel items"
+    ],
+    "answer": 2,
+    "explanation": "Food has a high weight in the Indian CPI basket and is strongly influenced by harvests, weather and international prices, so food inflation moves headline inflation sharply.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Administered prices in India are",
+    "options": [
+      "Fixed annually in the Union Budget without reference to market conditions",
+      "Determined by an international body such as the World Bank",
+      "Fixed by the Reserve Bank of India through its monetary operations",
+      "Announced periodically by the government for crops such as sugarcane and paddy and for items such as fertilisers, petrol and LPG"
+    ],
+    "answer": 3,
+    "explanation": "Administered prices are announced by the government at the beginning of the season or the year for crops such as sugarcane and paddy and for petroleum products, fertilisers and LPG.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The fertiliser subsidy in India is",
+    "options": [
+      "Paid to farmers directly in cash for every bag of fertiliser bought",
+      "Discontinued entirely since the introduction of the nutrient based subsidy scheme",
+      "Granted only for urea produced from domestic gas and never for demeritised phosphate",
+      "Provided mainly to fertiliser producers, who in turn sell subsidised fertiliser to farmers below the cost"
+    ],
+    "answer": 3,
+    "explanation": "The nutrient based subsidy is paid to manufacturers who sell fertiliser to farmers at subsidised prices, with the subsidy notified per kilogram of nutrients for nitrogen, phosphorus and potassium.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "Economic Survey 2021",
+    "year": 2021
+  },
+  {
+    "q": "The fuel subsidy in India",
+    "options": [
+      "Is paid to oil marketing companies to fully compensate them for taxes on crude oil",
+      "Was progressively reduced to nil on petrol and diesel by 2020-21, with subsidised LPG and kerosene retained",
+      "Is paid directly to consumers of petrol and diesel at the pump",
+      "Has been in place continuously since 2014 without any change"
+    ],
+    "answer": 1,
+    "explanation": "The government phased out the subsidy on petrol and diesel, taking it to nil by 2020-21, while retaining subsidies on domestic LPG and kerosene for the poorer households.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "Economic Survey 2021",
+    "year": 2021
+  },
+  {
+    "q": "The repo rate affects the general price level of the economy through",
+    "options": [
+      "A direct change in the administered prices of fertilisers and fuel",
+      "A change in the base year of the price index used to measure inflation",
+      "The cost of borrowing for banks and the resulting effect on credit demand and aggregate demand",
+      "The statutory limits on cash withdrawals by the public"
+    ],
+    "answer": 2,
+    "explanation": "A change in the repo rate changes the cost of bank borrowing, which passes on to lending rates, credit demand and aggregate demand, and eventually to prices and output.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The main instrument used by the RBI to absorb excess liquidity from the banking system is",
+    "options": [
+      "Sale of government securities under open market operations",
+      "Reduction in the cash reserve ratio",
+      "Reduction in the repo rate",
+      "Purchase of foreign currency from authorised dealers"
+    ],
+    "answer": 0,
+    "explanation": "Selling securities in the open market drains rupees from the banking system, and the reverse repo is the other such instrument used to absorb liquidity.",
+    "difficulty": "easy",
+    "category": "inflation",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "Core inflation is useful for monetary policy because",
+    "options": [
+      "It is computed from wholesale prices of manufactured goods only",
+      "It excludes volatile food and fuel prices and so gives a better signal of underlying inflationary pressure",
+      "It reflects the impact of supply disruptions on food prices",
+      "It is the only measure on which the RBI may base its policy rate"
+    ],
+    "answer": 1,
+    "explanation": "Since food and fuel prices are volatile and subject to supply shocks, core inflation gives the MPC a clearer signal of the persistent component of price pressure.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The inflation targeting framework in India was made operational with effect from",
+    "options": [
+      "January 2016",
+      "April 2014",
+      "April 2012",
+      "April 2016"
+    ],
+    "answer": 3,
+    "explanation": "The Finance Act, 2016 amended the RBI Act to create a statutory Monetary Policy Committee and the flexible inflation targeting framework was put in place from 1 April 2016.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a supply side measure to curb inflation?",
+    "options": [
+      "Increasing the buffer stocks of foodgrains and augmenting their release through fair price shops",
+      "Restricting the supply of consumer credit through the RBI",
+      "Raising the repo rate to tighten liquidity",
+      "Lowering the statutory liquidity ratio"
+    ],
+    "answer": 0,
+    "explanation": "Buffer stocks and targeted distribution of foodgrains raise availability and moderate food prices, whereas the other options are demand side monetary measures.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The index of food inflation in India is compiled and released by",
+    "options": [
+      "The Central Board of Direct Taxes",
+      "The Department of Consumer Affairs",
+      "The National Statistical Office under the Ministry of Statistics and Programme Implementation",
+      "The Reserve Bank of India"
+    ],
+    "answer": 2,
+    "explanation": "Food inflation is a component of the CPI released by the National Statistical Office, which also publishes the food price index for monitoring supply conditions.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "When the RBI raises the repo rate, the most likely first order effect is",
+    "options": [
+      "It raises the cost of borrowing, dampening credit demand and moderating inflationary pressure over time",
+      "An immediate fall in food prices",
+      "A rise in the price of petroleum products",
+      "A rise in the price of government securities and hence the cost of borrowing for the government"
+    ],
+    "answer": 0,
+    "explanation": "Higher repo rates raise the cost of bank funds, which passes on to lending rates and credit demand, so aggregate demand and inflation are dampened with a time lag.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The base effect in the measurement of inflation means that",
+    "options": [
+      "The base year of the index is changed every five years",
+      "The price index is calculated using the average prices of a base period",
+      "A high inflation rate in the current year may appear lower because the comparison is with a base year that had unusually high prices",
+      "Inflation is measured after adjusting for the purchasing power of the base year"
+    ],
+    "answer": 2,
+    "explanation": "Inflation is measured against the price level of a year earlier, so an unusually high base year can make the current rate look deceptively low even when prices are still rising.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a correct match?",
+    "options": [
+      "Consumer Price Index: compiled by the Office of the Economic Adviser",
+      "Repo rate: fixed by the Government of India",
+      "Monetary Policy Committee: constituted under the Companies Act",
+      "Inflation target in India: 4 per cent with a band of plus or minus 2 percentage points"
+    ],
+    "answer": 3,
+    "explanation": "The inflation target is 4 per cent with a tolerance band of 2 to 6 per cent, the repo rate is set by the MPC, the MPC is a statutory body under the RBI Act, and the CPI is compiled by the NSO.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The weighted median inflation measure used by the RBI is computed as",
+    "options": [
+      "The inflation rate obtained by dividing the food index by the non food index",
+      "The inflation rate of the median state in terms of CPI, weighted by the shares of states in the CPI",
+      "The simple average of the inflation rates of all states and union territories",
+      "The average of the inflation rates of the ten largest states by GDP"
+    ],
+    "answer": 1,
+    "explanation": "The weighted median inflation takes the state whose CPI weight is the median and reports its inflation rate, so it is less distorted by large states than a simple average.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The implicit weighted median inflation is published by",
+    "options": [
+      "NITI Aayog",
+      "The Reserve Bank of India",
+      "The Central Statistical Organisation",
+      "The Office of the Economic Adviser"
+    ],
+    "answer": 1,
+    "explanation": "The RBI publishes the implicit weighted median inflation as a measure of underlying inflation pressure for use in monetary policy analysis.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Printing currency notes to finance a large fiscal deficit is described as",
+    "options": [
+      "Demand pull inflation",
+      "Stagflation",
+      "Cost push inflation",
+      "Monetisation of the fiscal deficit"
+    ],
+    "answer": 3,
+    "explanation": "When the government meets its financing needs by issuing currency, it adds to the money supply without any matching output, creating monetary overhang and inflationary pressure.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which measure can help check inflation arising from a depreciation of the rupee?",
+    "options": [
+      "A rise in the fiscal deficit of the central government",
+      "An increase in the money supply of the economy",
+      "Sustained inflows of foreign exchange that add to the foreign exchange reserves",
+      "A sharp rise in the administered prices of fertilisers"
+    ],
+    "answer": 2,
+    "explanation": "A weaker rupee raises the domestic cost of imports such as crude oil, but inflows of foreign exchange enable the RBI to build reserves and smooth the adjustment.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Phillips curve is considered an unreliable guide for policy because",
+    "options": [
+      "The trade-off between inflation and unemployment is not stable over time and supply shocks can shift the curve",
+      "It is difficult to measure the rate of unemployment accurately",
+      "It can only be applied to the economies of developed countries",
+      "It measures inflation in terms of the GDP deflator only"
+    ],
+    "answer": 0,
+    "explanation": "Empirical estimates show the inflation unemployment trade-off shifting over time, and supply shocks can move the whole curve, so the Phillips curve is not a dependable policy rule.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The CPI Combined, and not the WPI, is used as the metric for monetary policy targeting because",
+    "options": [
+      "The WPI is published only once a year",
+      "The WPI excludes services and cannot be computed for individual states",
+      "The WPI is compiled by the RBI and the CPI by the government",
+      "It captures the prices that consumers actually pay and includes services and housing rents"
+    ],
+    "answer": 3,
+    "explanation": "The CPI captures the household basket of consumption including services and rents, so it reflects the inflation experienced by consumers, which is what the MPC targets.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Real wages of an employee refer to",
+    "options": [
+      "The nominal wages adjusted for the level of employment",
+      "The purchasing power of money wages, obtained by adjusting nominal wages for the prevailing inflation rate",
+      "The total wage income of the economy",
+      "The wages paid to all workers in the organised sector"
+    ],
+    "answer": 1,
+    "explanation": "Real wages measure what a worker's money wages can buy, so they fall when prices rise faster than nominal wages, which is why wage negotiations are linked to the cost of living index.",
+    "difficulty": "easy",
+    "category": "inflation",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The government raised excise duty on petrol and diesel in July 2021 mainly in order to",
+    "options": [
+      "Fund the construction of highways through the cess collected",
+      "Reduce the losses of oil marketing companies caused by price freezes",
+      "Offset the revenue loss from the reduction in excise duty in 2020-21 rather than to raise additional resources",
+      "Compensate the states for their loss of sales tax revenue"
+    ],
+    "answer": 2,
+    "explanation": "The July 2021 increase in excise duty was described as a partial restoration of the revenue lost when duties were cut in March 2020, rather than as a fresh revenue mobilisation measure.",
+    "difficulty": "hard",
+    "category": "inflation",
+    "source": "Economic Survey 2021",
+    "year": 2021
+  },
+  {
+    "q": "Inflation targeting in India aims primarily at",
+    "options": [
+      "Achieving and maintaining price stability, understood as a stable and moderate rate of inflation over the medium term",
+      "Keeping the exchange rate of the rupee stable against the dollar",
+      "Ensuring that food prices remain stable irrespective of harvest conditions",
+      "Reducing the fiscal deficit of the central government to 3 per cent of GDP"
+    ],
+    "answer": 0,
+    "explanation": "Price stability in the sense of a moderate and predictable inflation rate is the primary goal of inflation targeting, with growth and employment considered as secondary objectives.",
+    "difficulty": "medium",
+    "category": "inflation",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The budget deficit shown in the Annual Financial Statement equals",
+    "options": [
+      "The revenue deficit",
+      "The primary deficit",
+      "The fiscal deficit minus interest payments",
+      "Total expenditure minus total receipts including borrowings"
+    ],
+    "answer": 3,
+    "explanation": "The budget deficit is total expenditure less total receipts including borrowings, and it is smaller than the fiscal deficit by the amount of net market borrowing taken by the government.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following pairs regarding budget terminology is correctly matched?",
+    "options": [
+      "Revenue deficit: revenue expenditure less revenue receipts",
+      "Fiscal deficit: total expenditure less total receipts including borrowings",
+      "Primary deficit: fiscal deficit plus interest payments",
+      "Budget deficit: revenue deficit less capital expenditure"
+    ],
+    "answer": 0,
+    "explanation": "The revenue deficit is revenue expenditure minus revenue receipts, while the other three pairs invert or distort the correct relationships between the four deficit measures.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Fiscal policy refers to",
+    "options": [
+      "The regulation of the volume of money supply in the economy",
+      "The government's policy regarding public spending, taxation and borrowing to influence aggregate demand and the economy",
+      "The central bank's policy of regulating interest rates and credit",
+      "The government's policy on the exchange rate and foreign trade"
+    ],
+    "answer": 1,
+    "explanation": "Fiscal policy covers taxation, public expenditure and government borrowing, all of which the government uses to influence aggregate demand, employment and the level of prices.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The instruments of fiscal policy include",
+    "options": [
+      "Repo rate and the reverse repo rate",
+      "Cash reserve ratio and open market operations",
+      "Taxation, public expenditure and government borrowing",
+      "The money multiplier and the velocity of money"
+    ],
+    "answer": 2,
+    "explanation": "Taxation, public expenditure and borrowing are the fiscal instruments, whereas interest rates, reserve ratios and open market operations belong to monetary policy.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The Laffer curve depicts",
+    "options": [
+      "The relationship between unemployment and inflation",
+      "The relationship between the tax rate and tax revenue, which rises up to a point and then falls",
+      "The relationship between the money supply and the price level",
+      "The relationship between the exchange rate and the trade balance"
+    ],
+    "answer": 1,
+    "explanation": "The Laffer curve shows that tax revenue rises with the tax rate up to a point and then falls as very high rates discourage work, investment and tax compliance.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "According to the Laffer curve, tax revenue falls when the tax rate becomes so high that",
+    "options": [
+      "The marginal cost of collecting the tax exceeds the revenue collected",
+      "The government switches to non tax sources of revenue",
+      "Inflation reduces the real value of tax collections",
+      "It discourages economic activity and encourages tax avoidance and evasion"
+    ],
+    "answer": 3,
+    "explanation": "Beyond the peak of the Laffer curve, high tax rates shrink the tax base and encourage avoidance and evasion, so revenue declines even though the rate is higher.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The fiscal multiplier measures",
+    "options": [
+      "The impact of fiscal policy on the external value of the rupee",
+      "The change in inflation resulting from a change in the money supply",
+      "The change in output resulting from a unit change in government spending or taxation",
+      "The ratio of the fiscal deficit to GDP"
+    ],
+    "answer": 2,
+    "explanation": "The fiscal multiplier is the change in aggregate output or income resulting from a change in government expenditure or taxes, and its value depends on the openness and the import intensity of the economy.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A contractionary fiscal policy is appropriate when the economy is",
+    "options": [
+      "In a state of excess aggregate demand with rising inflation",
+      "Facing a severe drought with a fall in food output",
+      "Suffering from a severe recession with high unemployment",
+      "Facing a sharp fall in exports"
+    ],
+    "answer": 0,
+    "explanation": "When demand exceeds the economy's capacity, cutting expenditure and raising taxes reduces the inflationary gap, whereas the other situations call for expansionary fiscal support.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Fiscal Responsibility and Budget Management Act, 2003 provides for",
+    "options": [
+      "The setting up of the Monetary Policy Committee of the RBI",
+      "The abolition of the distinction between revenue and capital expenditure",
+      "A framework for fiscal discipline including a target fiscal deficit and a mechanism to offload government securities to the public",
+      "A statutory cap on the repo rate of the Reserve Bank of India"
+    ],
+    "answer": 2,
+    "explanation": "The FRBM Act institutionalised fiscal discipline by requiring a medium term fiscal deficit target, a fiscal policy statement and provisions for greater market participation in government borrowing.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the FRBM Act, the objective of fiscal policy is stated as",
+    "options": [
+      "Matching the government's borrowing requirement with the monetary policy stance of the RBI",
+      "Ensuring fiscal sustainability over a medium term while ensuring that fiscal policy is supportive of the growth objective of the government",
+      "Achieving a zero fiscal deficit within three years of the Act coming into force",
+      "Keeping the ratio of government debt to GDP constant every single year"
+    ],
+    "answer": 1,
+    "explanation": "The Act requires the government to aim for fiscal sustainability and to ensure that fiscal policy is supportive of the growth objective, and the objective is kept under review by the Finance Commission.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The financing of the fiscal deficit of the central government can take the form of",
+    "options": [
+      "Printing new currency notes",
+      "Drawing down the foreign exchange reserves",
+      "Raising the tax rates",
+      "Market borrowings and the issuance of treasury bills and dated securities"
+    ],
+    "answer": 3,
+    "explanation": "The government finances its deficit largely through market borrowing, that is treasury bills, dated securities and bonds sold to banks, the public and foreign investors.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "According to the Fiscal Consolidation Roadmap, the fiscal deficit of the central government was to be reduced to",
+    "options": [
+      "4.5 per cent of GDP by 2024-25",
+      "7.5 per cent of GDP by 2030-31",
+      "1.5 per cent of GDP by 2025-26",
+      "3 per cent of GDP by 2020-21"
+    ],
+    "answer": 0,
+    "explanation": "The roadmap set out a phased path for the central government's fiscal deficit to 4.5 per cent of GDP by 2024-25 and then to around 3 per cent, with a nominal GDP growth anchor and expenditure efficiency gains.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Economic Survey 2021",
+    "year": 2021
+  },
+  {
+    "q": "Capital expenditure by the central government",
+    "options": [
+      "Has no effect on the fiscal deficit of the government",
+      "Includes repayment of interest on outstanding loans",
+      "Is a part of revenue expenditure",
+      "Is incurred on the creation of assets and is generally non debt creating in the long run"
+    ],
+    "answer": 3,
+    "explanation": "Capital expenditure builds assets such as roads, railways and school buildings, which add to the stock of national wealth, whereas revenue expenditure such as salaries and interest has to be financed every year.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements on direct and indirect taxes is correct?",
+    "options": [
+      "Direct taxes are levied on income or wealth and cannot be shifted, while indirect taxes are levied on goods and services and can be passed on to consumers",
+      "Direct taxes are levied on the sale of goods and services",
+      "Indirect taxes are levied on the income of individuals",
+      "Direct taxes form the larger share of the total tax revenue of the central government"
+    ],
+    "answer": 0,
+    "explanation": "Direct taxes such as income tax fall on the income or wealth of a person and cannot be passed on, while indirect taxes such as GST and customs duty are collected through prices and are a larger share of central revenue.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The Goods and Services Tax was introduced in India with effect from",
+    "options": [
+      "1 April 2014",
+      "1 July 2017",
+      "1 January 2016",
+      "1 April 2019"
+    ],
+    "answer": 1,
+    "explanation": "GST was launched on 1 July 2017 after the Constitution (122nd Amendment) Bill received presidential assent, subsuming central excise duty, service tax, sales tax and several other levies.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The GST Council, which decides on GST rates and structure, consists of",
+    "options": [
+      "Members of Parliament and members of the state legislatures",
+      "The Prime Minister, the Union Finance Minister and the Chief Finance Ministers of the states",
+      "The Union Finance Minister and the Finance or State Finance Minister of each state government",
+      "The Governor of the RBI, the Union Finance Minister and the Chief Economic Adviser"
+    ],
+    "answer": 2,
+    "explanation": "Under Article 279A the Council comprises the Union Finance Minister and the finance or state finance minister of each state government, with the Centre holding one third of the weighted votes.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "UPSC Prelims",
+    "year": null
+  },
+  {
+    "q": "Disputes between the central government and a state government over the distribution of GST revenue are resolved by",
+    "options": [
+      "The GST Appellate Tribunal",
+      "The civil courts",
+      "The GST Council",
+      "The Finance Commission"
+    ],
+    "answer": 0,
+    "explanation": "Article 279AA provides for the GST Appellate Tribunal to adjudicate revenue disputes between the centre and the states, while inter-state disputes on GST rates go to the GST Council.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the GST regime, the compensation to states for the revenue loss on the abolition of excise duty and sales tax",
+    "options": [
+      "Is provided for an indefinite period as a permanent constitutional right",
+      "Was replaced by the devolution of 42 per cent of the divisible pool to the states",
+      "Is payable only to the states that had the highest rate of sales tax",
+      "Is payable for a period of five years as originally notified, with the GST Council deciding on any extension"
+    ],
+    "answer": 3,
+    "explanation": "The GST (Compensation to States) Act, 2017 provided compensation for five years from July 2017 and allowed the GST Council to extend it, and the arrangement ended in June 2022.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 101st Constitutional Amendment Act, 2016 which gave effect to the GST provides for",
+    "options": [
+      "A separate legislature for the Union and each state for GST matters",
+      "A GST Council to coordinate and harmonise GST policies and a GST Appellate Tribunal for adjudication of GST disputes",
+      "The abolition of all state taxes on petroleum products",
+      "The power of Parliament to levy GST on inter state supplies alone"
+    ],
+    "answer": 1,
+    "explanation": "The amendment inserted the GST provisions into the Constitution, creating the GST Council, the GST Appellate Tribunal and enabling legislation on the GST and the compensation of the states.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The output gap in fiscal policy refers to",
+    "options": [
+      "The difference between the government's revenue and its expenditure",
+      "The amount of government borrowing required to fill the fiscal gap",
+      "The difference between actual output and potential output of the economy",
+      "The gap between the fiscal deficit and the monetary deficit"
+    ],
+    "answer": 2,
+    "explanation": "The output gap measures the difference between actual and potential GDP, and it indicates whether the economy is operating below or beyond its sustainable capacity, which guides the stance of fiscal policy.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A positive output gap generally implies that",
+    "options": [
+      "The economy is in recession and unemployment is rising",
+      "Actual output is below the potential output of the economy",
+      "The government should follow an expansionary fiscal policy",
+      "Actual output exceeds potential output, indicating inflationary pressure"
+    ],
+    "answer": 3,
+    "explanation": "A positive gap means the economy is producing beyond its potential, which creates upward pressure on wages and prices and calls for contractionary fiscal policy.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A public private partnership in infrastructure is best described as",
+    "options": [
+      "An arrangement in which the government and a private entity share the risks, costs and returns of delivering a public service",
+      "A model in which the government raises the entire project cost and a private firm merely operates it",
+      "A scheme for disinvesting public sector units to private buyers",
+      "A loan given by a bank to a private company for the construction of a road"
+    ],
+    "answer": 0,
+    "explanation": "In a PPP the government contributes land, infrastructure or a viability grant while the private partner finances, builds and operates the project under a long term concession agreement.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Viability gap funding helps public private partnership projects by",
+    "options": [
+      "Insuring the project against political and construction risks",
+      "Guaranteeing a minimum revenue stream to the private concessionaire",
+      "Subsidising the project cost so that the project becomes commercially viable",
+      "Providing the land at a concessional rate to the private partner"
+    ],
+    "answer": 2,
+    "explanation": "Viability gap funding is a one time capital subsidy or annuity support to the government for a project that is not viable on user charges alone, so that the concession can be awarded.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Disinvestment by the government means",
+    "options": [
+      "Writing off the losses of a public sector undertaking",
+      "The sale of a portion of the government's equity holding in a public sector enterprise",
+      "Transferring a public asset to a private company free of cost",
+      "Selling government bonds to the public"
+    ],
+    "answer": 1,
+    "explanation": "Disinvestment refers to the government selling all or part of its equity in a public sector enterprise, in contrast to privatisation which transfers ownership and control to private owners.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the New Public Sector Enterprise Policy announced in 2021, the government intends to",
+    "options": [
+      "Increase the minimum public sector stake to 51 per cent in all strategic enterprises",
+      "Retain a minimum presence in strategic sectors while divesting in non strategic and loss making enterprises",
+      "Retain a minimum presence in all sectors through public enterprises",
+      "Privatise all public sector enterprises in the banking and financial services sector"
+    ],
+    "answer": 1,
+    "explanation": "The policy retains a minimum public presence in strategic sectors and in entities providing public or quasi public services while allowing divestment and privatisation in non strategic and loss making units.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Economic Survey 2021",
+    "year": 2021
+  },
+  {
+    "q": "The distinction between revenue and capital expenditure in the government budget is important because",
+    "options": [
+      "Capital expenditure creates assets and is generally non debt creating in the long run, while revenue expenditure is recurring",
+      "Capital expenditure is always financed through external borrowings",
+      "Revenue expenditure is reported only in the capital account of the budget",
+      "Only capital expenditure is included in the fiscal deficit"
+    ],
+    "answer": 0,
+    "explanation": "Capital expenditure adds to the stock of national assets and is funded largely by borrowing, whereas revenue expenditure such as salaries, interest and subsidies must be met from current revenue every year.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The fiscal gap of a government is",
+    "options": [
+      "The sum of the fiscal deficit and the monetary deficit",
+      "The difference between the revenue deficit and the primary deficit",
+      "The excess of actual revenue receipts over budgeted revenue receipts",
+      "The difference between the actual and the budgeted fiscal deficit"
+    ],
+    "answer": 3,
+    "explanation": "The fiscal gap measures the extent to which the actual fiscal deficit exceeds the target set in the budget, and it is a useful indicator of slippage in fiscal discipline.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a direct tax?",
+    "options": [
+      "Goods and Services Tax",
+      "Customs duty",
+      "Corporation tax",
+      "Excise duty"
+    ],
+    "answer": 2,
+    "explanation": "Corporation tax is levied on the income of companies and cannot be shifted to anyone else, whereas GST, customs duty and excise duty are indirect taxes collected through prices.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Automatic stabilisers in fiscal policy refer to",
+    "options": [
+      "The annual revision of tax rates to meet revenue targets",
+      "Features such as progressive taxation and unemployment benefits that moderate business cycles without new legislation",
+      "The government's discretionary decision to raise capital expenditure in a recession",
+      "The central bank's automatic adjustment of the repo rate"
+    ],
+    "answer": 1,
+    "explanation": "Built in stabilisers work automatically, since progressive tax rates and unemployment payments rise in a downturn and fall in a boom, cushioning the cycle without any fresh policy decision.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following are examples of indirect taxes collected by the central government?",
+    "options": [
+      "Land revenue and stamp duty",
+      "Professional tax and entertainment tax",
+      "Customs duty, excise duty and GST",
+      "Income tax and corporation tax"
+    ],
+    "answer": 2,
+    "explanation": "Customs duty, excise duty and GST are central indirect taxes levied on goods and services and collected from the supplier but ultimately borne by consumers, unlike income tax.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Finance Commission of India",
+    "options": [
+      "Is chaired by the Governor of the Reserve Bank of India",
+      "Determines the monetary policy of the country",
+      "Is a statutory body created by the President",
+      "Recommends the distribution of tax revenues between the centre and the states and the principles of horizontal distribution"
+    ],
+    "answer": 3,
+    "explanation": "The Finance Commission is a non statutory body constituted by the President every fifth year, and it recommends the vertical and horizontal distribution of tax revenues and grants in aid.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Union Budget is presented to the Parliament on",
+    "options": [
+      "1 February",
+      "31 March",
+      "31 January",
+      "15 March"
+    ],
+    "answer": 0,
+    "explanation": "The annual budget is presented on 1 February, and the financial year of the government runs from 1 April to 31 March, with the practice of presenting it on the last working day of February having been discontinued.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Expenditure on interest payments of the central government is",
+    "options": [
+      "Treated as capital expenditure in the Union Budget",
+      "Included in the primary deficit of the government",
+      "Not reflected in the fiscal deficit because it is a contractual liability",
+      "Treated as revenue expenditure and deducted while computing the primary deficit"
+    ],
+    "answer": 3,
+    "explanation": "Interest payments are revenue expenditure and are part of the fiscal deficit, but they are excluded when the primary deficit is computed, which isolates the current year's fiscal effort.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Fiscal consolidation of the central government implies",
+    "options": [
+      "A reduction in capital expenditure in order to fund interest payments",
+      "A gradual reduction in the fiscal deficit as a share of GDP, mainly through higher revenue mobilisation and restrained expenditure",
+      "A complete stoppage of all government borrowing",
+      "A shift of all government expenditure to the states"
+    ],
+    "answer": 1,
+    "explanation": "Fiscal consolidation means lowering the deficit ratio gradually through revenue growth, better targeting of subsidies and spending efficiency rather than through a sudden compression of investment spending.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The distinction between the fiscal deficit and the monetary deficit is that",
+    "options": [
+      "The fiscal deficit measures the borrowing requirement of the government, whereas the monetary deficit measures the increase in the monetary liabilities of the public sector",
+      "The fiscal deficit is measured by the RBI while the monetary deficit is computed by the Finance Ministry",
+      "Both terms refer to the same concept in Indian budgetary practice",
+      "The fiscal deficit excludes capital expenditure while the monetary deficit includes it"
+    ],
+    "answer": 0,
+    "explanation": "The fiscal deficit is a budgetary concept measuring government borrowing, while the monetary deficit, computed by the RBI, is the change in the monetary liabilities of the central and state governments less their financial assets.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The objective of reducing the fiscal deficit under the FRBM Act is accompanied by the principle of",
+    "options": [
+      "Increasing the tax burden on the states",
+      "Reducing the market borrowings of the central government to nil",
+      "Substantial reduction in the fiscal deficit over a medium term horizon with better targeting of subsidies and greater expenditure efficiency",
+      "Replacing the annual budget with a five year fiscal framework"
+    ],
+    "answer": 2,
+    "explanation": "The FRBM framework combines a medium term deficit path with commitments on expenditure efficiency and subsidy targeting, so that consolidation does not choke off growth spending.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Goods and Services Tax has been a significant fiscal reform because",
+    "options": [
+      "It has replaced all state taxes on petroleum products",
+      "It has eliminated the distinction between direct and indirect taxes",
+      "It has made the central government independent of state revenue transfers",
+      "It has created a uniform national market by subsuming multiple state and central taxes and allowing input tax credit"
+    ],
+    "answer": 3,
+    "explanation": "By replacing several central and state levies with a single destination based tax and permitting input tax credit, GST removed cascading taxation and barriers to interstate trade.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The share of tax revenues divisible between the centre and the states is determined by",
+    "options": [
+      "The Monetary Policy Committee",
+      "NITI Aayog",
+      "The Finance Commission",
+      "The GST Council"
+    ],
+    "answer": 2,
+    "explanation": "The Finance Commission recommends the distribution of the divisible pool of taxes between the centre and the states, and its recommendations inform the devolution of the pool of states' share of income tax and GST.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Monetary policy in India is formulated by",
+    "options": [
+      "The Union Ministry of Finance",
+      "The Monetary Policy Committee of the Reserve Bank of India",
+      "The Finance Commission",
+      "The Economic Policy Advisory Council"
+    ],
+    "answer": 1,
+    "explanation": "The MPC, constituted under Section 45ZB of the RBI Act, determines the policy rate, and its decisions are binding on the RBI, which conducts monetary policy operations.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The primary instrument of monetary policy in India is",
+    "options": [
+      "The repo rate",
+      "The bank rate",
+      "The cash reserve ratio",
+      "Open market operations"
+    ],
+    "answer": 0,
+    "explanation": "The repo rate, at which the RBI lends to banks against government securities, is the benchmark policy rate and the anchor of the monetary policy transmission process.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The repo rate is the rate at which the RBI",
+    "options": [
+      "Lends short term liquidity to banks against government securities",
+      "Raises the cash reserve ratio of banks",
+      "Allows banks to borrow short term liquidity for a longer period at a concessional rate",
+      "Buys securities from banks with an agreement to sell them back later"
+    ],
+    "answer": 0,
+    "explanation": "Under the repo the RBI lends to banks against government securities with an agreement to repurchase them, so it is the main instrument for injecting short term liquidity.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a qualitative or selective instrument of monetary policy?",
+    "options": [
+      "The repo rate",
+      "The cash reserve ratio",
+      "Open market operations",
+      "Margin requirements for loans against shares and securities"
+    ],
+    "answer": 3,
+    "explanation": "Selective instruments such as margin requirements, credit ceilings and sectoral directives influence the direction of credit, whereas quantitative instruments influence its overall volume and price.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The bank rate in India is",
+    "options": [
+      "The rate of interest paid by the government on its short term borrowings",
+      "The rate at which the RBI lends long term funds to banks against government securities",
+      "The rate at which the RBI lends short term funds to banks and which also serves as a reference for other interest rates",
+      "The rate at which banks lend to the corporate sector"
+    ],
+    "answer": 2,
+    "explanation": "The bank rate is the rate at which the RBI lends short term funds to banks, and since April 2022 it has been aligned with the repo rate and serves as a reference for other money market rates.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Open market operations refer to",
+    "options": [
+      "The RBI changing the cash reserve ratio of banks",
+      "The RBI buying and selling of government securities in the market",
+      "The RBI fixing the ceiling on the interest rates charged by banks on advances",
+      "The RBI allowing banks to borrow for longer periods against securities"
+    ],
+    "answer": 1,
+    "explanation": "Open market operations are the RBI's purchase or sale of government securities in the market, used to inject or absorb liquidity, with their use under the LAF framework expanded after 2016.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The money multiplier is",
+    "options": [
+      "The ratio of the total money supply to the monetary base",
+      "The ratio of the change in money supply to the change in high powered money",
+      "The ratio of the cash reserve ratio to the statutory liquidity ratio",
+      "The ratio of total deposits to total advances of the banking system"
+    ],
+    "answer": 0,
+    "explanation": "The money multiplier measures how many times the monetary base is multiplied into the money supply through deposit creation by banks, and it depends on the reserve ratios and the currency holding preference of the public.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "In the Indian context, the monetary base or high powered money consists of",
+    "options": [
+      "The foreign exchange reserves held by the RBI",
+      "Currency issued by the RBI net of cash with the RBI, plus the RBI's net reserves and other deposits of the banking system",
+      "Currency with the public plus total time and demand deposits with the banking system",
+      "The total capital of scheduled commercial banks"
+    ],
+    "answer": 1,
+    "explanation": "The monetary base is the liability of the RBI on which the money supply is built, and it comprises currency with the public, the RBI's net reserves and other deposits of the banking system with the RBI.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The transmission mechanism of monetary policy in India generally runs through",
+    "options": [
+      "A direct purchase of government securities by the government from the RBI",
+      "A direct link between the repo rate and the administered price of fertilisers",
+      "A sequence from the policy rate to money market rates and bank lending rates, to credit demand and aggregate demand, and finally to prices and output",
+      "The taxation policy of the central government"
+    ],
+    "answer": 2,
+    "explanation": "Monetary policy works through a chain of reactions beginning with the policy rate and passing through money market and lending rates to credit demand, aggregate demand and finally output and prices, with time lags at each stage.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "A rise in the repo rate may not fully translate into lower inflation in India because",
+    "options": [
+      "Banks do not lend to the private sector at all",
+      "The repo rate is not the RBI's policy rate",
+      "The CPI does not include food prices",
+      "Supply shocks such as food price spikes or imported inflation push prices up independently of monetary conditions"
+    ],
+    "answer": 3,
+    "explanation": "Monetary policy can control demand driven inflation, but supply side shocks to food and fuel prices can keep headline inflation high even with tight monetary conditions.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Monetary Policy Committee votes on",
+    "options": [
+      "The allocation of the divisible pool of tax revenues",
+      "The licensing of new banks and non banking financial companies",
+      "The rate of interest paid on the provident fund by the government",
+      "The repo rate and other policy instruments"
+    ],
+    "answer": 3,
+    "explanation": "The MPC determines the policy rate and other monetary instruments, and its decisions are taken by majority with the Governor holding a casting vote in case of a tie.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Under the RBI Act, the surplus of the RBI is transferred to",
+    "options": [
+      "The Financial Stability and Development Council",
+      "The Government of India as a general grant",
+      "The Central Government, credited to the Contingency Fund of India",
+      "The National Bank for Agriculture and Rural Development"
+    ],
+    "answer": 2,
+    "explanation": "Section 18 of the RBI Act requires the surplus of the Bank to be transferred to the Central Government and credited to the Contingency Fund of India, while losses are borne by the government.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The cooperative banking structure in India is a two tier structure consisting of",
+    "options": [
+      "State cooperative banks and primary cooperative banks",
+      "A short term credit structure of state cooperative banks, district central cooperative banks and primary agricultural credit societies, and a long term credit structure",
+      "Central cooperative banks and village councils",
+      "Regional rural banks and self help groups"
+    ],
+    "answer": 1,
+    "explanation": "The short term credit structure supplies crop and short term agricultural credit, while the long term credit structure led by the State Cooperative Agricultural and Rural Development Banks provides term loans and investment finance.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Regional Rural Banks are",
+    "options": [
+      "A hybrid of public and private sector banks with capital held by the centre, the state government and sponsor banks",
+      "Owned entirely by the central government",
+      "A source of direct finance for the corporate sector",
+      "A part of the cooperative banking structure"
+    ],
+    "answer": 0,
+    "explanation": "RRBs were set up in 1975 and combine public sector ownership with the professional expertise of sponsor banks, with shareholding split among the centre, the state government and the sponsors.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The RBI's role as banker to the government includes",
+    "options": [
+      "Approving the annual budget of the government",
+      "Guaranteeing the deposits of government employees",
+      "Managing the government's accounts and making ways and means advances",
+      "Deciding the tax rates of the central government"
+    ],
+    "answer": 2,
+    "explanation": "As banker to the government the RBI keeps the accounts of the centre and the states, manages the Consolidated Fund and provides temporary ways and means advances for cash flow management.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The General Account of the central government is maintained with",
+    "options": [
+      "The State Bank of India",
+      "The National Bank for Agriculture and Rural Development",
+      "The World Bank",
+      "The Reserve Bank of India"
+    ],
+    "answer": 3,
+    "explanation": "The General Account is the account of the central government maintained with the RBI, and the balances in it form part of the government account kept by the central bank.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Ways and means advances provided by the RBI to the government",
+    "options": [
+      "Are temporary advances to smooth cash flows and are repayable within 91 days",
+      "Are available only to the state governments",
+      "Are a permanent source of financing for government expenditure",
+      "Are made against government securities for a period of up to 90 days"
+    ],
+    "answer": 0,
+    "explanation": "Ways and means advances are a temporary bridging facility for cash flow mismatches and must be repaid within 91 days, with outstanding advances at the year end charged to the Consolidated Fund.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "A non banking financial company in India can raise funds from",
+    "options": [
+      "Deposits from cooperative banks",
+      "The general public in the form of time deposits and other instruments permitted by the RBI",
+      "Demand deposits from the general public",
+      "Funds from the Reserve Bank of India at the policy repo rate"
+    ],
+    "answer": 1,
+    "explanation": "An NBFC can accept time deposits and other permitted instruments from the public and can also borrow from banks and the corporate sector, but it cannot take demand deposits.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The call money market in India refers to",
+    "options": [
+      "The market where banks raise deposits from the public for longer terms",
+      "The market for trading government securities with maturities above one year",
+      "The market for very short term loans, generally of up to 14 days, between banks and financial institutions",
+      "The market for loans of one to five years between banks"
+    ],
+    "answer": 2,
+    "explanation": "Call money is borrowed and repaid within a day and the call money rate is the first and most sensitive indicator of the liquidity conditions and the market's expectation of the policy rate.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The repo market in India is",
+    "options": [
+      "The market where banks lend to the public at high interest rates",
+      "The market where banks borrow from each other or from the RBI against short term securities",
+      "The market for the sale of foreign currency by the RBI",
+      "The market where the government raises funds through treasury bills"
+    ],
+    "answer": 1,
+    "explanation": "The repo market is the market for short term borrowing against securities, and the call money rate derived from it is the benchmark for very short term funds in the economy.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The money market in India comprises",
+    "options": [
+      "Instruments of short maturity, generally up to one year, such as treasury bills, commercial paper, certificates of deposit and call money",
+      "The primary market for equity issues of listed companies",
+      "Long term bonds and debentures issued by companies",
+      "Term loans of one year and above given by banks"
+    ],
+    "answer": 0,
+    "explanation": "The money market deals in instruments of maturity up to one year, whereas the capital market deals in longer term securities like government bonds, corporate debentures and equity shares.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The capital market in India consists of",
+    "options": [
+      "Instruments of maturity up to one year issued by the government and companies",
+      "The market where banks borrow from one another overnight",
+      "The market for foreign exchange and gold",
+      "Instruments of maturity over one year, such as government securities, corporate bonds, debentures and equity shares"
+    ],
+    "answer": 3,
+    "explanation": "The capital market mobilises medium and long term savings and includes the debt market of government and corporate securities and the equity market of shares, and it is regulated by SEBI.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "After April 2022, the relationship between the bank rate and the repo rate in India is that",
+    "options": [
+      "The bank rate has been aligned with the repo rate",
+      "The bank rate is fixed at half the repo rate",
+      "The bank rate is always higher than the repo rate by one percentage point",
+      "The bank rate is fixed by the Ministry of Finance"
+    ],
+    "answer": 0,
+    "explanation": "The RBI aligned the bank rate with the repo rate from April 2022 as part of the liquidity based framework, so that the legacy bank rate does not distort money market signals.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT a quantitative instrument of monetary policy?",
+    "options": [
+      "Open market operations",
+      "Repo rate",
+      "Cash reserve ratio",
+      "Moral suasion with banks to follow priority sector lending norms"
+    ],
+    "answer": 3,
+    "explanation": "Moral suasion and priority sector directives belong to the selective or qualitative instruments that direct credit flows, while the repo rate, CRR and open market operations control the volume and cost of credit.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The policy rate referred to in the inflation targeting framework of India is",
+    "options": [
+      "The yield on ten year government bonds",
+      "The weighted average cost of funds of the banking system",
+      "The repo rate of the Reserve Bank of India",
+      "The bank rate"
+    ],
+    "answer": 2,
+    "explanation": "The repo rate is the policy rate that the MPC uses to steer inflation to the target, with other rates in the financial system expected to move with it.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The Liquidity Facility introduced by the RBI in 2019 replaced",
+    "options": [
+      "The repo and the reverse repo operations",
+      "The Marginal Standing Facility",
+      "The cash reserve ratio",
+      "The liquidity adjustment facility"
+    ],
+    "answer": 1,
+    "explanation": "The Liquidity Facility was introduced in April 2019 to provide overnight liquidity to banks facing stress, and the MSF was retained but restricted to banks with serious liquidity stress.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The RBI's Operation Twist involved",
+    "options": [
+      "Simultaneously buying long term securities and selling short term securities to steepen the yield curve",
+      "Cancelling the outstanding reverse repo auctions",
+      "Raising the repo rate while buying long term securities",
+      "Lowering the cash reserve ratio to inject liquidity"
+    ],
+    "answer": 0,
+    "explanation": "Operation Twist combined purchases of long dated securities with sales of short dated securities to push down long term yields, and the RBI conducted similar special operations in 2020 as well.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Under the Minimum Reserve System of the RBI, the foreign exchange reserves are held in",
+    "options": [
+      "The accounts of the central government",
+      "The RBI's own balance sheet",
+      "The accounts of the scheduled commercial banks",
+      "The Consolidated Fund of India"
+    ],
+    "answer": 1,
+    "explanation": "Under the Minimum Reserve System, forex reserves are held by the RBI on its own balance sheet and any change in them is automatically sterilised, unlike under the Multiple Exchange Rate system.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Sterilisation of foreign exchange intervention by the RBI means",
+    "options": [
+      "Using the foreign exchange reserves to pay for imports without raising the repo rate",
+      "Converting the foreign exchange reserves into gold",
+      "Banning the purchase of foreign currency by authorised dealers",
+      "Counteracting the effect of the intervention on domestic liquidity through offsetting open market operations"
+    ],
+    "answer": 3,
+    "explanation": "Sterilisation neutralises the automatic monetary impact of an intervention, so that the RBI can change the exchange rate without altering the domestic liquidity conditions.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "A sterilised intervention by the central bank is designed to",
+    "options": [
+      "Raise the domestic interest rate to attract capital inflows",
+      "Change the level of the exchange rate permanently",
+      "Neutralise the effect of the intervention on the domestic money supply",
+      "Increase the foreign exchange reserves of the central bank"
+    ],
+    "answer": 2,
+    "explanation": "A sterilised intervention leaves the money supply unchanged, which is important under the Minimum Reserve System where every intervention automatically changes liquidity.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The RBI's approach to the exchange rate of the rupee since 1992-93 has been described as",
+    "options": [
+      "A managed float with periodic intervention to check excessive volatility",
+      "A crawling band of two to three per cent around a central parity",
+      "A crawling peg with a fixed parity",
+      "A freely floating exchange rate determined solely by market forces"
+    ],
+    "answer": 0,
+    "explanation": "India moved to a managed float in 1992-93, with the RBI letting the market determine the rate but intervening to smooth excessive volatility and prevent speculative attacks.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "The primary means by which the RBI influences liquidity conditions in the banking system is",
+    "options": [
+      "Conducting the quarterly monetary policy review",
+      "Conducting open market operations and repo and reverse repo transactions",
+      "Advising banks on the priority sector lending targets",
+      "Issuing guidelines on the classification of non performing assets"
+    ],
+    "answer": 1,
+    "explanation": "Day to day liquidity management is carried out through the LAF and the MSF, while open market operations, repo and reverse repo auctions adjust system liquidity to keep the call money rate close to the policy rate.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  },
+  {
+    "q": "Forward contracts in the foreign exchange market are used primarily to",
+    "options": [
+      "Regulate the money market rate of the banking system",
+      "Determine the base year of the price indices",
+      "Raise short term funds for the government",
+      "Hedge against exchange rate risk on future transactions"
+    ],
+    "answer": 3,
+    "explanation": "Forward contracts fix today's exchange rate for a future settlement date, so importers and exporters can hedge the risk of exchange rate movements on their receivables and payables.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A swap in the foreign exchange market refers to",
+    "options": [
+      "The purchase of foreign currency for immediate delivery against domestic currency",
+      "The conversion of one currency into another at the spot rate",
+      "The exchange of spot and forward contracts, involving the purchase of foreign currency spot and its sale forward",
+      "The transfer of foreign exchange reserves between the RBI and the government"
+    ],
+    "answer": 2,
+    "explanation": "A swap involves buying foreign currency spot and selling it forward, or the reverse, and is used to manage short term liquidity flows and to roll over forward positions.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The spot exchange market in India is characterised by",
+    "options": [
+      "Transactions in which the exchange rate is fixed by the RBI each morning",
+      "Transactions settled on the day of the contract, generally within two business days",
+      "Transactions settled after a period of more than two days",
+      "Transactions in which delivery takes place at a future date"
+    ],
+    "answer": 1,
+    "explanation": "Spot transactions are settled on the day of the contract or within two business days, whereas forward contracts are settled at a future date at a rate agreed today.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Interest rate risk faced by a bank arises because",
+    "options": [
+      "The bank's licence to operate is revoked if it earns insufficient interest",
+      "The government can change the interest rate on government securities",
+      "Changes in market interest rates affect the value of the bank's assets and liabilities",
+      "The bank's borrowers default whenever interest rates fall"
+    ],
+    "answer": 2,
+    "explanation": "A mismatch between the maturity and repricing of assets and liabilities exposes a bank to interest rate risk, which is why banks align the duration of their assets and liabilities.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The RBI's approach to the financial stability of the banking system includes",
+    "options": [
+      "Supervision and regulation of financial institutions, macroprudential policy and the publication of financial stability reports",
+      "Determining the fiscal deficit of the central government",
+      "Allocating the funds of the Finance Commission to the states",
+      "Fixing the lending rates of all scheduled banks"
+    ],
+    "answer": 0,
+    "explanation": "Financial stability is pursued through the RBI's supervision of banks and other institutions, macroprudential tools such as counter cyclical capital buffers and periodic financial stability reports.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "RBI Handbook",
+    "year": null
+  }
+]

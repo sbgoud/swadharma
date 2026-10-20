@@ -1,0 +1,782 @@
+[
+  {
+    "q": "The 'Integrated Guided Missile Development Programme' was approved in:",
+    "options": [
+      "1997",
+      "2003",
+      "1983",
+      "1991"
+    ],
+    "answer": 0,
+    "explanation": "The IGMDP was approved in 1997 and it covered the Prithvi, the Akash, the Trishul and the Agni series and later the BrahMos, with the programme managed by the Defence Research and Development Organisation.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": null
+  },
+  {
+    "q": "The 'Agni-P' ballistic missile was first test-fired in:",
+    "options": [
+      "2021",
+      "2023",
+      "2018",
+      "2020"
+    ],
+    "answer": 1,
+    "explanation": "The Agni-P, with the Canopy configuration, was test-fired in July 2023 and it is a canisterised system with a range of about 1,000 to 2,000 kilometres, designed for the tactical use by the armed forces.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": 2023
+  },
+  {
+    "q": "The 'Pinaka' missile system is an indigenous:",
+    "options": [
+      "air defence missile",
+      "cruise missile",
+      "anti-submarine missile",
+      "tactical surface-to-surface missile system for the artillery"
+    ],
+    "answer": 3,
+    "explanation": "The Pinaka is a canisterised, truck based, 122 mm, solid propellant tactical surface-to-surface missile system developed by the DRDO and inducted into the Indian Army for the field artillery.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": null
+  },
+  {
+    "q": "The 'Prahaar' is an indigenous:",
+    "options": [
+      "surface to air missile",
+      "anti-tank guided missile",
+      "tactical ballistic missile for the strike of the operational targets",
+      "submarine launched cruise missile"
+    ],
+    "answer": 2,
+    "explanation": "The Prahaar is a solid propellant, road mobile, tactical ballistic missile developed by the DRDO for the strike of the operational targets in the tactical battle, and it is in the service with the Indian Army.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": null
+  },
+  {
+    "q": "The 'Nirbhay' is an indigenous:",
+    "options": [
+      "air defence missile",
+      "long range subsonic cruise missile",
+      "anti-tank missile",
+      "hypersonic ballistic missile"
+    ],
+    "answer": 1,
+    "explanation": "The Nirbhay is a subsonic, long range, three stage cruise missile developed by the DRDO, and it is similar to the Russian 3M-14 missile and is operated by the Indian Navy and the Air Force.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": null
+  },
+  {
+    "q": "The 'QRSAM' developed by the DRDO is a:",
+    "options": [
+      "quick reaction short range surface-to-air missile",
+      "anti-ballistic missile",
+      "cruise missile",
+      "torpedo"
+    ],
+    "answer": 0,
+    "explanation": "The QRSAM, developed by the DRDO with the private industry, is a single stage, point defence short range air defence missile for the protection of the critical assets, and it was inducted into the Indian Air Force in 2021.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": null
+  },
+  {
+    "q": "The 'Barak-8' long range surface-to-air missile system is a:",
+    "options": [
+      "French system procured from Europe",
+      "American system supplied under the COMET sale",
+      "joint India-Israel system inducted in 2023",
+      "Russian system acquired in 2021"
+    ],
+    "answer": 2,
+    "explanation": "The Barak-8 is developed jointly by the Israel Aerospace Industries and the Indian Defence Research and Development Organisation, and two systems were inducted into the Indian Air Force in 2023.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": 2023
+  },
+  {
+    "q": "The 'S-400' air defence system:",
+    "options": [
+      "is an indigenous system developed by the DRDO",
+      "was procured from France under the Rafale contract",
+      "was supplied by the United States under the COMET sale",
+      "was contracted from Russia in 2021 for the Indian Air Force"
+    ],
+    "answer": 3,
+    "explanation": "India contracted the S-400 Triumf system from Russia in 2021, and the systems are to be supplied in several tranches with the first squadron reported to have been formed in 2024.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "Ministry of Defence",
+    "year": 2021
+  },
+  {
+    "q": "The 'Maitri' missile is an indigenous:",
+    "options": [
+      "cruise missile",
+      "ship-to-ship missile developed by the DRDO",
+      "surface-to-air missile",
+      "air defence missile"
+    ],
+    "answer": 1,
+    "explanation": "The Maitri is a solid propellant, ship-to-ship missile developed by the DRDO for the naval forces, and the first test firing took place in 2019.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": null
+  },
+  {
+    "q": "The 'Project 15B' refers to the indigenously designed:",
+    "options": [
+      "stealth guided missile destroyers",
+      "submarines",
+      "frigates",
+      "aircraft carriers"
+    ],
+    "answer": 0,
+    "explanation": "Project 15B is the class of the stealth guided missile destroyers of the Indian Navy with a reduced radar cross section, and the lead ship, INS Imphal, was commissioned in August 2023.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "Indian Navy",
+    "year": null
+  },
+  {
+    "q": "The 'Project 17A' is the class of:",
+    "options": [
+      "submarines",
+      "destroyers",
+      "landing craft",
+      "guided missile frigates of the Indian Navy"
+    ],
+    "answer": 3,
+    "explanation": "Project 17A is the class of the stealth guided missile frigates, of which INS Nilgiri was the first ship to be commissioned, in 2022, and the class has a displacement of about 6,700 tonnes.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "Indian Navy",
+    "year": null
+  },
+  {
+    "q": "The 'Project 18A' class of aircraft carriers, approved in 2022, is notable because it will have:",
+    "options": [
+      "no hangar deck for the aircraft",
+      "a nuclear reactor for the propulsion",
+      "electromagnetic aircraft launch systems instead of a ski-jump",
+      "a catapult assisted take-off with steam catapults"
+    ],
+    "answer": 2,
+    "explanation": "The Project 18A carriers, to be built by the Mazagon Dock Shipbuilders with the support of the American firms, will use the electromagnetic aircraft launch system, and the first of the two is to be commissioned by about 2030.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "Ministry of Defence",
+    "year": 2022
+  },
+  {
+    "q": "The 'Kamandhat' class programme relates to the development of:",
+    "options": [
+      "surface combatants",
+      "conventional diesel electric submarines for the Indian Navy",
+      "nuclear powered submarines",
+      "aircraft carriers"
+    ],
+    "answer": 1,
+    "explanation": "The Kamandhat programme is the indigenous design of the conventional submarines for the Indian Navy, and the project has been progressing with the design and the technology transfer for the long term self reliance in the ship building.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "Ministry of Defence",
+    "year": null
+  },
+  {
+    "q": "The INS Viraat, the second aircraft carrier of India, was acquired from:",
+    "options": [
+      "Russia",
+      "Italy",
+      "the United Kingdom",
+      "the United States"
+    ],
+    "answer": 2,
+    "explanation": "INS Viraat was the HMS Centaur of the Royal Navy and it was acquired by India in 2015 and commissioned as INS Viraat in 2021, after the decommissioning of the INS Vikramaditya.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Indian Navy",
+    "year": null
+  },
+  {
+    "q": "The series of nuclear tests of May 1998, conducted at Pokhran, was named:",
+    "options": [
+      "Operation Shakti",
+      "Operation Vajra",
+      "Operation Brahma",
+      "Operation Meghdoot"
+    ],
+    "answer": 0,
+    "explanation": "Operation Shakti of May 1998 was conducted by the DRDO with about fifty scientists, and it was preceded by Operation Vajra in 1994 and followed by Operation Meghdoot, the series of the tests of 1998.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": 1998
+  },
+  {
+    "q": "The first Nuclear Security Summit was held in:",
+    "options": [
+      "Moscow in 2016",
+      "Paris in 2008",
+      "Seoul in 2018",
+      "Washington DC in 2016"
+    ],
+    "answer": 3,
+    "explanation": "The first Nuclear Security Summit was hosted by the United States at Washington in March 2016, and the summits have been held biennially since, with India participating in all of them.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Ministry of External Affairs",
+    "year": 2016
+  },
+  {
+    "q": "The 'Atomic Energy Regulatory Board' in India:",
+    "options": [
+      "is a statutory body under the Electricity Act",
+      "was constituted in 1986 under the Atomic Energy Act and is under the Department of Atomic Energy",
+      "functions under the Ministry of Heavy Industries",
+      "is an autonomous body under the Ministry of Environment"
+    ],
+    "answer": 1,
+    "explanation": "The AERB was constituted in 1986 under the Atomic Energy Act, 1962 and it is under the Department of Atomic Energy, and it is responsible for the safety regulation of the nuclear and the radiation facilities.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "DAE",
+    "year": null
+  },
+  {
+    "q": "The 'Nuclear Power Corporation of India Limited':",
+    "options": [
+      "conducts the atomic research at Kalpakkam",
+      "mines the uranium for the reactors",
+      "regulates the safety of the reactors",
+      "is the operating company of the nuclear power stations in the country"
+    ],
+    "answer": 3,
+    "explanation": "The NPCIL, a public sector undertaking under the Department of Atomic Energy, operates the nuclear power stations of the country, while the Bhabha Atomic Research Centre does the research and the AERB does the regulation.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "DAE",
+    "year": null
+  },
+  {
+    "q": "The 'Bhabha Atomic Research Centre' is located at:",
+    "options": [
+      "Hyderabad",
+      "Bhopal",
+      "Kalpakkam, Tamil Nadu",
+      "Mumbai"
+    ],
+    "answer": 2,
+    "explanation": "The BARC, the premier research organisation of the Department of Atomic Energy, is located at Kalpakkam in Tamil Nadu, and it operates the nuclear research reactor and the facilities of the nuclear fuel cycle.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "DAE",
+    "year": null
+  },
+  {
+    "q": "The 'ITER' project, of which India is a member, is a:",
+    "options": [
+      "thermonuclear fusion reactor being built at Cadarache in France",
+      "heavy water reactor being built at Narora",
+      "experimental fusion device in Russia",
+      "fast breeder reactor being built at Kalpakkam"
+    ],
+    "answer": 0,
+    "explanation": "The ITER is an international thermonuclear fusion project at Cadarache in France, and India participates through the DAE with its own Domestic Accelerator and the involvement of the private industry in the engineering partnership.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "DAE",
+    "year": null
+  },
+  {
+    "q": "The 'AstroSat' mission of India is:",
+    "options": [
+      "the first navigation satellite of India",
+      "the first dedicated astronomy satellite of India, launched in 2015",
+      "the first weather satellite of India",
+      "the first communication satellite of India"
+    ],
+    "answer": 1,
+    "explanation": "AstroSat, launched in September 2015, is a multi wavelength observatory that observes the different bands of the electromagnetic spectrum from X-rays to the optical and the infrared, and it is the first dedicated astronomy satellite of India.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": null
+  },
+  {
+    "q": "The 'Augmented Satellite Launch Vehicle' (ASLV) was:",
+    "options": [
+      "the launch vehicle of the Chandrayaan missions",
+      "the launcher of the Mangalyaan mission",
+      "a re-usable launch vehicle of the DRDO",
+      "an expendable launch vehicle of the ISRO used in the 1980s"
+    ],
+    "answer": 3,
+    "explanation": "The ASLV was an expendable launch vehicle developed by the ISRO and flown in the mid-eighties, and it was later replaced by the PSLV which became the workhorse launcher of the country.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": null
+  },
+  {
+    "q": "The 'INSAT-3D' satellite of India provides:",
+    "options": [
+      "the meteorology, the data relay and the communication services for the Indian Ocean region",
+      "only the television and the communication services",
+      "the navigation and the timing services",
+      "the earth observation data for the agriculture"
+    ],
+    "answer": 0,
+    "explanation": "INSAT-3D is an advanced communication and meteorology satellite that also serves as a data relay satellite for the vessels in the Indian Ocean region, and it is stationed at 82 degrees East.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": null
+  },
+  {
+    "q": "The 'Innovations for Defence Excellence' (iDEX) programme of the DRDO:",
+    "options": [
+      "maintains the defence warehouses",
+      "procures the foreign systems for the Indian armed forces",
+      "promotes the indigenous defence innovation through the startups and the MSMEs and theacademia",
+      "trains the personnel of the defence forces"
+    ],
+    "answer": 2,
+    "explanation": "The iDEX, launched in 2018, is the flagship initiative of the DRDO to foster the innovation and the technology development in the defence domain by bringing together the startups, the MSMEs, the academia and the industry with the funds for the development and the procurement.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": null
+  },
+  {
+    "q": "The 'Technologisation Fund' of the DRDO:",
+    "options": [
+      "funds the procurement from abroad",
+      "supports the indigenous technology development for the strategic sectors with the industry and the academia",
+      "finances the infrastructure of the laboratories",
+      "provides the scholarships to the research scholars"
+    ],
+    "answer": 1,
+    "explanation": "The Technologisation Fund, operated through the Technology Development Fund scheme and the partner industry, supports the projects in the critical and the emerging technologies for the defence, with the DRDO retaining the intellectual property rights.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": null
+  },
+  {
+    "q": "The 'Agniveer' scheme of 2022 relates to:",
+    "options": [
+      "the corporatisation of the defence factories",
+      "the induction of the women in the combat roles",
+      "the unified theatre command",
+      "the new scheme for the recruitment to the armed forces, with a four-year term for the Agniveers"
+    ],
+    "answer": 3,
+    "explanation": "The Agniveer scheme, introduced in 2022, provides for the enrolment of the Agniveers into the Indian Armed Forces on a four-year term, after which they can be regularised, and it is open to the candidates between the ages of seventeen and twenty-one.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "Ministry of Defence",
+    "year": null
+  },
+  {
+    "q": "The 'Coastal Security Scheme' of the Indian Navy:",
+    "options": [
+      "provides for the setting up of the coastal police stations and the marine police stations along the coastline",
+      "relates to the protection of the offshore oil platforms",
+      "concerns the training of the marine commandos",
+      "is the scheme for the modernisation of the fishing harbours"
+    ],
+    "answer": 0,
+    "explanation": "The Coastal Security Scheme is a joint programme of the Indian Navy, the Indian Coast Guard and the State police and the home ministries, under which the coastal police stations and the marine police stations are set up along the coastline.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Indian Navy",
+    "year": null
+  },
+  {
+    "q": "The 'Andaman and Nicobar Command' of the Indian Navy:",
+    "options": [
+      "was formed after the creation of the Southern Command",
+      "is an independent naval command under the Eastern Naval Command",
+      "is the tri-service theatre command under the Chief of Defence Staff",
+      "is a joint command with the Coast Guard only"
+    ],
+    "answer": 2,
+    "explanation": "The Andaman and Nicobar Command is the only tri-service theatre command in India and it operates under the Chief of Defence Staff, and the other theatre commands are under their respective service chiefs.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Indian Navy",
+    "year": null
+  },
+  {
+    "q": "The 'National Institute of Biomedical Genomics' is located at:",
+    "options": [
+      "Bengaluru",
+      "Gandhinagar, Gujarat",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "answer": 1,
+    "explanation": "The NIBMG at Gandhinagar in Gujarat, an autonomous institute of the Ministry of Health and Family Welfare, is the premier Indian institution for the biomedical genomics and the genomic medicine.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Ministry of Health and Family Welfare",
+    "year": null
+  },
+  {
+    "q": "The 'Ayushman Bharat Health Account' (ABHA) is:",
+    "options": [
+      "the health insurance card issued by the private insurers",
+      "the identifier of the health facilities for the empanellment",
+      "the record of the vaccination in the CoWIN system",
+      "a digital health identification number that allows the beneficiaries to access the healthcare services anywhere in the country"
+    ],
+    "answer": 3,
+    "explanation": "The ABHA, a 14-digit number created under the National Digital Health Mission, is the digital health identity of a citizen and it is portable across the States and the health facilities, and it is linked with the Ayushman Bharat PM-JAY benefits.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Ministry of Health and Family Welfare",
+    "year": null
+  },
+  {
+    "q": "The 'Covishield' vaccine against COVID-19 was developed by:",
+    "options": [
+      "the Serum Institute of India, in partnership with the Oxford University and AstraZeneca",
+      "the Bharat Biotech",
+      "the Biological E",
+      "the Indian Council of Medical Research"
+    ],
+    "answer": 0,
+    "explanation": "Covishield was developed by the Serum Institute of India with the Oxford University and AstraZeneca, while Covaxin was developed by Bharat Biotech with the ICMR, and the Serum Institute was also the world's largest vaccine maker by the doses supplied.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Ministry of Health and Family Welfare",
+    "year": null
+  },
+  {
+    "q": "The 'Sickle Cell Disease' elimination initiative of India was launched in:",
+    "options": [
+      "2024",
+      "2018",
+      "2021",
+      "2015"
+    ],
+    "answer": 2,
+    "explanation": "The Sickle Cell Disease elimination was launched in 2021 with the aim of eliminating the birth of the children with the disease by 2030, and it involves the screening, the counselling, the testing of the reproductive age population and the prevention of the transmission.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Ministry of Health and Family Welfare",
+    "year": null
+  },
+  {
+    "q": "The 'Measles and Rubella' elimination goal of India is to achieve:",
+    "options": [
+      "the complete eradication of the measles by 2030",
+      "the introduction of the rubella vaccine in the private sector only",
+      "the interruption of the indigenous transmission of the measles and the rubella by 2027",
+      "the reduction of the rubella incidence by half"
+    ],
+    "answer": 2,
+    "explanation": "India has adopted the goal of the interruption of the indigenous transmission of the measles and the rubella by 2027, and it is supported by the routine immunisation with the MR vaccine in the large parts of the country.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Ministry of Health and Family Welfare",
+    "year": null
+  },
+  {
+    "q": "The 'IndiaAI Mission' approved in 2024 has an outlay of:",
+    "options": [
+      "Rs 25,000 crore",
+      "Rs 10,372 crore for the AI innovation centres, the datasets, the compute and the applications",
+      "Rs 1,000 crore",
+      "Rs 4,000 crore"
+    ],
+    "answer": 1,
+    "explanation": "The IndiaAI Mission, with an outlay of Rs 10,372 crore, has four components, namely the AI Innovation Centres, the IndiaAI Datasets Platform, the AI Compute Grid and the AI Application Development, and it is implemented by the MeitY in partnership with the industry.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "MeitY",
+    "year": 2024
+  },
+  {
+    "q": "The 'National Language Mission for the mother tongue' was launched by:",
+    "options": [
+      "the NITI Aayog",
+      "the Ministry of Education",
+      "the Ministry of Culture",
+      "the Election Commission of India"
+    ],
+    "answer": 0,
+    "explanation": "The National Language Mission for the mother tongue was launched by the NITI Aayog in 2024 with the aim of providing the mother tongue based education in the early grades, and the mission is to be implemented with the State governments.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "NITI Aayog",
+    "year": null
+  },
+  {
+    "q": "The 'India Semiconductor Mission' provides for:",
+    "options": [
+      "the setting up of the semiconductor design parks in the States",
+      "the mandatory local sourcing of the electronics",
+      "the subsidised import of the mobile handsets",
+      "the fiscal support of about 50,000 crore rupees for the semiconductor fabrication and the ATMP units"
+    ],
+    "answer": 3,
+    "explanation": "The India Semiconductor Mission offers a fiscal support of about 50,000 crore rupees for the setting up of the semiconductor fabs, the display fabs and the compound semiconductor and the ATMP units, with the design incentive of the Modified Electronics Manufacturing Programme.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "MeitY",
+    "year": null
+  },
+  {
+    "q": "The 'National Optical Fibre' project of the government:",
+    "options": [
+      "aims to connect every gram panchayat with a high speed internet connection",
+      "is the rural electrification programme",
+      "is the scheme for the undersea cable network",
+      "relates to the laying of the optical fibre on the national highways only"
+    ],
+    "answer": 0,
+    "explanation": "The National Optical Fibre or NOF project, taken up under the BharatNet programme with the involvement of the BBNL, aims to provide a fibre connection to every gram panchayat and to strengthen the digital infrastructure of the country.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "MeitY",
+    "year": null
+  },
+  {
+    "q": "The 'Nuclear Power Plant at Kakrapar' is in:",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Rajasthan",
+      "Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "The Kakrapar Atomic Power Station in Gujarat houses the indigenously developed PHWR reactors and the VVER-1000 units, and it is operated by the NPCIL, and the Narora and the Rawatbhata stations are the other indigenously built plants.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "NPCIL",
+    "year": null
+  },
+  {
+    "q": "The 'Uranium Corporation of India Limited' is:",
+    "options": [
+      "the regulator of the radiation safety",
+      "a joint venture with the Russia for the uranium supply",
+      "a public sector undertaking of the Department of Atomic Energy engaged in the uranium mining and the processing",
+      "the body that operates the nuclear power stations"
+    ],
+    "answer": 2,
+    "explanation": "The UCIL, a public sector undertaking of the Department of Atomic Energy, is engaged in the exploration, the mining and the processing of the uranium and it operates the mines at Jaduguda, the Turamdih and the Baghmara.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "DAE",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Rare Earths Limited' is:",
+    "options": [
+      "a unit of the Geological Survey of India for the mineral exploration",
+      "a public sector undertaking of the Department of Atomic Energy that operates the monazite sand mines and the separation plants",
+      "the body that conducts the beach sand mining in the States",
+      "a joint venture with the Russia for the rare earth supply"
+    ],
+    "answer": 1,
+    "explanation": "The IREL, a public sector undertaking of the Department of Atomic Energy, operates the monazite sand mining in the Kerala, the Tamil Nadu and the Odisha coasts and the monazite separation plants at IREL, and it supplies the thorium and the rare earths.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "DAE",
+    "year": null
+  },
+  {
+    "q": "The 'GSLV Mk-III' or the LVM3 has been developed with the cryogenic engine from:",
+    "options": [
+      "the DRDO alone",
+      "the ISRO and the European Space Agency",
+      "the ISRO with the help of the Russian firms",
+      "the private industry of Bengaluru only"
+    ],
+    "answer": 2,
+    "explanation": "The LVM3 uses a cryogenic upper stage with the help of the Russian firms, and it was developed by the ISRO after the failed GSLV Mk-III attempt of 2017, and the first successful flight of the LVM3 carried the Chandrayaan-2 in 2019.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": null
+  },
+  {
+    "q": "The 'Defence Acquisition Council' is:",
+    "options": [
+      "the body that reviews and sanctions the major acquisition proposals of the Ministry of Defence",
+      "the body that certifies the defence equipment for the export",
+      "the body that trains the defence personnel",
+      "the body that audits the defence expenditure"
+    ],
+    "answer": 0,
+    "explanation": "The Defence Acquisition Council, chaired by the Chief of Defence Staff, reviews and sanctions the major acquisition proposals and it works with the Defence Acquisition Authority, the Services and the Financial Management bodies.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "Ministry of Defence",
+    "year": null
+  },
+  {
+    "q": "The 'Integrated Theatre Commands' proposal of the Indian military aims at:",
+    "options": [
+      "the merger of the Coast Guard with the Navy",
+      "the creation of a joint R and D centre",
+      "the unification of the recruitment of the officers",
+      "the integration of the services under a joint command for each theatre"
+    ],
+    "answer": 3,
+    "explanation": "The proposal is to integrate the land, the air and the maritime assets under an integrated theatre command for each theatre so that the operations are conducted with a joint approach and the inter-service issues are resolved at the theatre level itself.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "Ministry of Defence",
+    "year": null
+  },
+  {
+    "q": "The 'National Cyber Security Index' of India is published by:",
+    "options": [
+      "the National Security Council",
+      "the National Cyber Security Coordinator under the Ministry of Electronics and Information Technology",
+      "the CERT-In of the MeitY",
+      "the National Cybercrime Reporting Agency"
+    ],
+    "answer": 1,
+    "explanation": "The National Cyber Security Index, prepared by the Indian Computer Emergency Response Team and the National Cyber Security Coordinator, measures the maturity of the cyber security ecosystem of the country.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "MeitY",
+    "year": null
+  },
+  {
+    "q": "The 'National Supercomputing Mission' of India involves:",
+    "options": [
+      "the standardisation of the AI models",
+      "the development of the exascale computer for the defence",
+      "the setting up of the data centres for the UPI",
+      "the building of a grid of the supercomputers at the institutions of science and the academia"
+    ],
+    "answer": 3,
+    "explanation": "The National Supercomputing Mission, with an outlay of Rs 15,000 crore, is aimed at building a national grid of the supercomputers across the institutions of science and the academia so that the Indian researchers get the high performance computing resources.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "MeitY",
+    "year": null
+  },
+  {
+    "q": "The 'Defence Research and Development Organisation' was set up in:",
+    "options": [
+      "1958",
+      "1975",
+      "1950",
+      "1999"
+    ],
+    "answer": 0,
+    "explanation": "The DRDO was set up in 1958 with the merger of the Defence Research and Development Organisation of the DRDL and the Technical and Development Division of the Indian Army, and it is headed by the Director General with its headquarters in New Delhi.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "DRDO",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Space Research Organisation' was founded in:",
+    "options": [
+      "1963",
+      "1975",
+      "1969",
+      "1972"
+    ],
+    "answer": 2,
+    "explanation": "The ISRO was founded in August 1969 and the Vikram Sarabhai Space Centre at Thumba was the first major establishment, and the organisation became the Department of Space in 1972.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": null
+  },
+  {
+    "q": "The 'Bharati' research station in Antarctica was commissioned in:",
+    "options": [
+      "2021",
+      "2024",
+      "1984",
+      "2015"
+    ],
+    "answer": 1,
+    "explanation": "The Bharati station, the second Indian permanent research station in Antarctica after Dakshin Gangotri, was commissioned in March 2024 in the Larsemann Hills and it can host about forty scientists at a time.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "NCPOR",
+    "year": 2024
+  },
+  {
+    "q": "The 'Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021' require:",
+    "options": [
+      "the social media platforms to be located in India",
+      "the removal of the content within 24 hours of the notice",
+      "the intermediaries to publish the rules of privacy, the grievance officer and the process for the complaints",
+      "the intermediaries to be registered with the MeitY"
+    ],
+    "answer": 2,
+    "explanation": "The Rules of 2021 require the intermediaries to publish the rules of privacy and the user grievance redressal, the grievance officer and the process for the complaints, and the due diligence for the content received and the removal of the prohibited content within 36 hours.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "MeitY",
+    "year": null
+  },
+  {
+    "q": "The 'National Cybersecurity Policy' of India was released in:",
+    "options": [
+      "2018",
+      "2020",
+      "2015",
+      "2012"
+    ],
+    "answer": 1,
+    "explanation": "The National Cybersecurity Policy, released in February 2020, lays out the objectives, the security principles and the roadmap for the development of the cyber ecosystem of the country.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "MeitY",
+    "year": null
+  },
+  {
+    "q": "The 'CERT-In' of India:",
+    "options": [
+      "certifies the hardware for the secure networks",
+      "operates the national cyber crime portal",
+      "is the agency for the encryption of the defence communications",
+      "is the national nodal agency for the computer emergency response, established in 1998"
+    ],
+    "answer": 3,
+    "explanation": "The CERT-In, established in 1998 under the Ministry of Electronics and Information Technology, is the national nodal agency for the computer emergency response and it coordinates the incident response and the vulnerability disclosure.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "MeitY",
+    "year": null
+  },
+  {
+    "q": "The 'National Crime Records Bureau' in India:",
+    "options": [
+      "is a wing of the Ministry of Home Affairs that maintains the data on the crimes and the criminal justice system",
+      "is a unit of the Research and Analysis Wing",
+      "is under the Ministry of Law and Justice",
+      "is a statutory body of the Supreme Court"
+    ],
+    "answer": 0,
+    "explanation": "The NCRB, set up in 1972 and located in New Delhi, is a wing of the Ministry of Home Affairs and it maintains the data on the crimes, the criminal justice system and the prisons, and it publishes the annual reports.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "MHA",
+    "year": null
+  }
+]

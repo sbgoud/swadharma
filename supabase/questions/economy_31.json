@@ -1,0 +1,2852 @@
+[
+  {
+    "q": "The 'basic motive of the state' in a capitalist economy is:",
+    "options": [
+      "The elimination of private property",
+      "The abolition of the state",
+      "The welfare of the people",
+      "The accumulation of wealth by the capitalist class"
+    ],
+    "answer": 3,
+    "explanation": "Marxist theory holds that the basic motive of the capitalist state is the accumulation of wealth for the capitalist class, in contrast to the welfare motive of the socialist state.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "According to Adam Smith, the 'invisible hand' guides:",
+    "options": [
+      "The government towards free trade only",
+      "The producers towards higher prices",
+      "The state towards paternalism",
+      "Individuals towards the common interest in an unregulated market"
+    ],
+    "answer": 3,
+    "explanation": "In The Wealth of Nations Adam Smith argued that individuals pursuing their own interest are guided, as if by an invisible hand, towards outcomes that benefit society.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Law of Diminishing Marginal Utility' was formulated by:",
+    "options": [
+      "Adam Smith",
+      "Alfred Marshall",
+      "David Ricardo",
+      "J.S. Mill"
+    ],
+    "answer": 1,
+    "explanation": "Alfred Marshall formulated the law of diminishing marginal utility, which explains the downward sloping demand curve.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Alfred Marshall is known for the concept of:",
+    "options": [
+      "Partial equilibrium analysis",
+      "General equilibrium analysis",
+      "Trickle-down economics",
+      "Comparative advantage"
+    ],
+    "answer": 0,
+    "explanation": "Marshall developed the method of partial equilibrium, holding other variables constant while analysing a single market, in his Principles of Economics (1890).",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Doctrine of Comparative Advantage' was given by:",
+    "options": [
+      "J.S. Mill",
+      "Adam Smith",
+      "David Ricardo",
+      "Heckscher-Ohlin"
+    ],
+    "answer": 2,
+    "explanation": "David Ricardo explained the gains from trade through comparative advantage, using the example of England and Portugal producing cloth and wine.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Heckscher-Ohlin' theory of international trade is based on:",
+    "options": [
+      "Factor endowments",
+      "Absolute advantage",
+      "Demand and supply",
+      "Comparative advantage"
+    ],
+    "answer": 0,
+    "explanation": "The Heckscher-Ohlin (factor endowment) theory states that a country will export those goods that use its relatively abundant factor intensively.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Keynes's 'General Theory' of employment, interest and money was published in:",
+    "options": [
+      "1919",
+      "1936",
+      "1945",
+      "1929"
+    ],
+    "answer": 1,
+    "explanation": "John Maynard Keynes published The General Theory of Employment, Interest and Money in 1936, laying the foundations of modern macroeconomics.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'General equilibrium theory' of Walras:",
+    "options": [
+      "Applies only to agriculture",
+      "Is used for fiscal policy",
+      "Holds prices and wages constant",
+      "Considers all the markets of an economy simultaneously"
+    ],
+    "answer": 3,
+    "explanation": "Walras's general equilibrium theory analyses all markets of an economy simultaneously, with prices adjusting so that the markets clear.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pigou effect' refers to:",
+    "options": [
+      "The crowding out effect",
+      "The Phillips curve effect",
+      "The wealth effect of a price fall on consumption",
+      "The multiplier effect"
+    ],
+    "answer": 2,
+    "explanation": "The Pigou effect is the wealth effect whereby a fall in prices increases real balances and hence consumption, thereby reversing a deflationary spiral.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'crowding out' effect refers to:",
+    "options": [
+      "An increase in private investment because of lower interest rates",
+      "A reduction in private investment because of higher interest rates caused by public borrowing",
+      "An increase in unemployment",
+      "A fall in the price level"
+    ],
+    "answer": 1,
+    "explanation": "When the government borrows heavily, it raises interest rates and crowds out private investment, a central argument in the public choice critique of Keynesian fiscal policy.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Paradox of thrift' was propounded by:",
+    "options": [
+      "Menger",
+      "Samuelson",
+      "Keynes",
+      "Hayek"
+    ],
+    "answer": 2,
+    "explanation": "In the General Theory Keynes described the paradox of thrift: an increase in saving reduces income and therefore reduces saving in the aggregate.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a 'derived' demand?",
+    "options": [
+      "Demand for wheat",
+      "Demand for a house",
+      "Demand for money",
+      "Demand for labour"
+    ],
+    "answer": 3,
+    "explanation": "Labour is a derived demand because it is demanded for its capacity to produce other goods and services that have demand.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Five Year Plans' in India were first launched in:",
+    "options": [
+      "1951-52",
+      "1956",
+      "1950",
+      "1947"
+    ],
+    "answer": 0,
+    "explanation": "The First Five Year Plan was launched in 1951-52 with the objective of raising the income of the poor through the development of agriculture.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Which Five Year Plan is known as the 'Gadgil Yojana'?",
+    "options": [
+      "Second",
+      "Third",
+      "Fourth",
+      "First"
+    ],
+    "answer": 3,
+    "explanation": "The First Five Year Plan (1951-56) was based on the Gadgil Yojana model, drafted by D.R. Gadgil.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nehru model' of economic development was followed in the:",
+    "options": [
+      "First Five Year Plan",
+      "Second Five Year Plan",
+      "Third Five Year Plan",
+      "Fourth Five Year Plan"
+    ],
+    "answer": 1,
+    "explanation": "The Second Five Year Plan (1956-61) followed the Nehru model, with P.C. Mahalanobis as the architect of a heavy industry-led model.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Garibi Hatao' slogan was associated with:",
+    "options": [
+      "The Third Five Year Plan",
+      "The Fourth Five Year Plan",
+      "The Fifth Five Year Plan",
+      "The Second Five Year Plan"
+    ],
+    "answer": 0,
+    "explanation": "Garibi Hatao (eradicate poverty) was the slogan of the Third Five Year Plan (1961-66), drafted largely by D.R. Gadgil.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which Five Year Plan was called the 'Gadgil Yojana' and focused on agriculture?",
+    "options": [
+      "Fourth",
+      "Sixth",
+      "Second",
+      "Third"
+    ],
+    "answer": 2,
+    "explanation": "The Second Five Year Plan, also called the Mahalanobis Plan, aimed at a faster rate of growth in an industrialising economy.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sixth Five Year Plan' was named:",
+    "options": [
+      "The Rolling Plan",
+      "The Harrod-Domar Plan",
+      "The Fourth Plan",
+      "The Fifth Plan"
+    ],
+    "answer": 1,
+    "explanation": "The Sixth Five Year Plan (1980-85) was named after the Harrod-Domar model of growth.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Eighth Five Year Plan (1992-97) was also known as:",
+    "options": [
+      "The Employment Plan",
+      "The Tourism Plan",
+      "The Privatisation Plan",
+      "The Infrastructure Plan"
+    ],
+    "answer": 0,
+    "explanation": "The Eighth Plan was called the Employment Plan, with the objective of generating more employment through growth in the industrial and service sectors.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NITI Aayog' replaced the Planning Commission in:",
+    "options": [
+      "2016",
+      "2018",
+      "2014",
+      "2015"
+    ],
+    "answer": 3,
+    "explanation": "NITI Aayog was constituted on 1 January 2015 to replace the Planning Commission.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The concept of 'Basic Needs' was given by:",
+    "options": [
+      "Adam Smith",
+      "P.C. Mahalanobis",
+      "Manfred Max-Neef",
+      "Amartya Sen"
+    ],
+    "answer": 2,
+    "explanation": "Manfred Max-Neef put forward the concept of basic needs and the need satisfaction approach to human development.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Capability approach' to development is associated with:",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "Friedrich Hayek",
+      "Amartya Sen"
+    ],
+    "answer": 3,
+    "explanation": "Amartya Sen's capability approach measures development by the substantive freedoms people enjoy rather than by income or goods alone.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Basic Structure' of the Constitution does not include:",
+    "options": [
+      "The supremacy of Parliament",
+      "The Republican form of government",
+      "The rule of law",
+      "Judicial review"
+    ],
+    "answer": 0,
+    "explanation": "In the Minerva Mills case the Supreme Court held that the basic structure includes the supremacy of the Constitution, the rule of law, separation of powers, judicial review, federalism, secularism and the republican form of government.",
+    "difficulty": "hard",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'National income' at market prices includes:",
+    "options": [
+      "Neither taxes nor subsidies",
+      "Indirect taxes",
+      "Indirect taxes less subsidies",
+      "Direct taxes only"
+    ],
+    "answer": 1,
+    "explanation": "National income at market prices is equivalent to the gross value added at factor cost plus indirect taxes less subsidies on products.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "'Gross domestic product' measures the value of all final goods and services produced:",
+    "options": [
+      "Within a country including foreign firms' output",
+      "Only in the manufacturing sector",
+      "Within a country during a given period",
+      "By nationals anywhere in a year"
+    ],
+    "answer": 2,
+    "explanation": "GDP measures production within a country's territory, whereas GNP measures the output of its residents wherever they operate.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "'Gross national product' differs from GDP in that GNP:",
+    "options": [
+      "Includes the output of residents of the country wherever they are located",
+      "Measures only the primary sector",
+      "Is measured at factor cost",
+      "Excludes the output of foreign nationals"
+    ],
+    "answer": 0,
+    "explanation": "GNP equals GDP plus the net factor income from abroad, so it captures the output of the country's residents wherever they work.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT a component of the gross capital formation?",
+    "options": [
+      "Gross fixed capital formation",
+      "Consumption of fixed capital",
+      "Net factor income from abroad",
+      "Change in stocks"
+    ],
+    "answer": 2,
+    "explanation": "Gross capital formation comprises gross fixed capital formation plus the change in stocks of inventories; net factor income from abroad is part of GNP, not of capital formation.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Net national product at factor cost' equals:",
+    "options": [
+      "GDP plus net factor income from abroad",
+      "GNP minus indirect taxes",
+      "GDP minus depreciation",
+      "GNP at market prices less depreciation"
+    ],
+    "answer": 3,
+    "explanation": "NNP at factor cost is GNP at market prices less depreciation and less indirect taxes plus subsidies.",
+    "difficulty": "hard",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'value added' approach to national income accounting:",
+    "options": [
+      "Sums the market value of all final goods",
+      "Avoids double counting by counting the value added at each stage",
+      "Measures the value of exports only",
+      "Uses the income method"
+    ],
+    "answer": 1,
+    "explanation": "The value added or column method of national income accounting avoids double counting by adding up the value added at each stage of production.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "In India, the 'National Accounts Statistics' are compiled by:",
+    "options": [
+      "The Ministry of Finance",
+      "The Reserve Bank of India",
+      "The Central Statistical Organisation",
+      "The Planning Commission"
+    ],
+    "answer": 2,
+    "explanation": "The Central Statistical Organisation, under the Ministry of Statistics and Programme Implementation, compiles the National Accounts Statistics.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'base year' currently used for India's GDP is:",
+    "options": [
+      "2004-05",
+      "2011-12",
+      "2012",
+      "1999-2000"
+    ],
+    "answer": 1,
+    "explanation": "The National Accounts Statistics in India use 2011-12 as the base year for the GDP series.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Per capita income' is calculated by dividing the national income by:",
+    "options": [
+      "The labour force",
+      "The number of workers",
+      "The total output",
+      "The total population"
+    ],
+    "answer": 3,
+    "explanation": "Per capita income is the average income of the population, obtained by dividing national income by the mid-year population.",
+    "difficulty": "easy",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "'Real per capita income' is measured in terms of:",
+    "options": [
+      "Constant prices",
+      "Market prices",
+      "Factor cost",
+      "Current prices"
+    ],
+    "answer": 0,
+    "explanation": "Real per capita income is measured at constant prices, which removes the effect of inflation and is used to assess the purchasing power of income over time.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is NOT a measure of the cost of living in India?",
+    "options": [
+      "Wholesale Price Index (WPI)",
+      "Human Development Index",
+      "Real wage index",
+      "Consumer Price Index (CPI)"
+    ],
+    "answer": 1,
+    "explanation": "The Human Development Index is a composite of health, education and income and is not a measure of the cost of living.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gini coefficient' measures:",
+    "options": [
+      "Income inequality",
+      "Unemployment",
+      "Inflation",
+      "Economic growth"
+    ],
+    "answer": 0,
+    "explanation": "The Gini coefficient runs from zero to one, with zero indicating perfect equality and one perfect inequality of income distribution.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Human Development Index' was developed by:",
+    "options": [
+      "Amartya Sen and Joseph Stiglitz",
+      "Paul Samuelson and Robert Solow",
+      "Friedrich Hayek and Ludwig von Mises",
+      "Mahbub ul Haq and Amartya Sen"
+    ],
+    "answer": 3,
+    "explanation": "Mahbub ul Haq and Amartya Sen developed the Human Development Index, published in the UNDP's 1990 Human Development Report.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Multidimensional Poverty Index' is published by:",
+    "options": [
+      "The ILO",
+      "The World Bank",
+      "The UNDP and the Oxford Poverty and Human Development Initiative",
+      "The IMF"
+    ],
+    "answer": 2,
+    "explanation": "The MPI is published jointly by the UNDP and the Oxford Poverty and Human Development Initiative with the UN Population Fund.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rangarajan Committee' (2008) recommended a poverty line based on:",
+    "options": [
+      "A uniform all-India line",
+      "A separate rural and urban line based on the median consumption expenditure",
+      "A calorie norm",
+      "The 10 per cent expenditure of the poorest"
+    ],
+    "answer": 1,
+    "explanation": "The Rangarajan committee favoured state-specific poverty lines based on the median consumption expenditure, with separate rural and urban lines.",
+    "difficulty": "hard",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "According to the ILO, the working population is:",
+    "options": [
+      "Persons below 60 years",
+      "All persons above 15 years",
+      "Persons of the age of 15 years and above who are employed or seeking employment",
+      "Only the employed"
+    ],
+    "answer": 2,
+    "explanation": "The International Labour Organisation defines the working population, or labour force, as all persons aged 15 and above who are employed or unemployed but seeking work.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Disguised unemployment' in India means:",
+    "options": [
+      "Unemployed graduates",
+      "Seasonal farm workers",
+      "Workers who are unemployed for a short period",
+      "Workers who are engaged in work that does not add to output"
+    ],
+    "answer": 3,
+    "explanation": "Disguised unemployment arises when a large number of workers are engaged in agriculture in a way that their removal does not reduce output, indicating hidden surplus labour.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "'Seasonal unemployment' is best illustrated by:",
+    "options": [
+      "Agricultural labourers working only during the harvest season",
+      "A factory closed for a year",
+      "A graduate who cannot find a job",
+      "A worker who refuses to work"
+    ],
+    "answer": 0,
+    "explanation": "Seasonal unemployment occurs when work is available only for part of the year, as in agriculture where labourers are employed only during sowing and harvesting.",
+    "difficulty": "medium",
+    "category": "national-income",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'ILO definition of unemployment' was adopted in:",
+    "options": [
+      "1956",
+      "1982",
+      "1991",
+      "1933"
+    ],
+    "answer": 1,
+    "explanation": "The 19th International Conference of Labour Statisticians held in Geneva in 1982 adopted the internationally used definition of unemployment.",
+    "difficulty": "hard",
+    "category": "national-income",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a component of M1?",
+    "options": [
+      "Total deposits of the public",
+      "Time deposits with the RBI",
+      "Currency with the public plus demand deposits and other deposits with the RBI",
+      "Post office savings deposits"
+    ],
+    "answer": 2,
+    "explanation": "M1 is the narrow money aggregate comprising currency with the public, demand deposits with the banking system and other deposits with the Reserve Bank of India.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "M3 in India includes:",
+    "options": [
+      "M1 plus time deposits with the banking system",
+      "M1 plus post office savings deposits",
+      "Only currency with the public",
+      "Total capital of the banks"
+    ],
+    "answer": 0,
+    "explanation": "M3, the broadest aggregate used in India, is M1 plus total time deposits with the banking system and includes net inter-bank deposits and certificates of deposits.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Currency with the public' includes:",
+    "options": [
+      "Coins issued by the state governments",
+      "All the deposits of the public",
+      "Only the notes of the RBI",
+      "Currency notes of the RBI and one rupee coins issued by the Government of India"
+    ],
+    "answer": 3,
+    "explanation": "Currency with the public comprises the notes of the Reserve Bank of India and one rupee notes and coins issued by the Government of India.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "repo rate allows:",
+    "options": [
+      "Charges on short-term loans",
+      "Charges on the overdraft facility",
+      "Allows banks to borrow by selling securities to it",
+      "Allows banks to lend securities to it"
+    ],
+    "answer": 2,
+    "explanation": "Under the repo facility, banks sell securities to the RBI and repurchase them later at a slightly higher rate, which is the repo rate; the reverse repo rate is charged when the RBI buys from banks.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Marginal Standing Facility' (formerly MSF) allows banks to:",
+    "options": [
+      "Borrow long-term from the RBI",
+      "Lend securities to the RBI",
+      "Access the call money market",
+      "Borrow overnight from the RBI by dipping into the cash reserve"
+    ],
+    "answer": 3,
+    "explanation": "The Marginal Standing Facility allows banks to borrow overnight from the RBI by dipping into the cash reserve ratio, at a rate that is an emergency measure and normally well above the repo rate.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Cash Reserve Ratio' is maintained by banks with the RBI in the form of:",
+    "options": [
+      "Cash and securities with the RBI",
+      "Cash with the RBI",
+      "Gold with the RBI",
+      "Government securities only"
+    ],
+    "answer": 1,
+    "explanation": "CRR is maintained as cash with the Reserve Bank of India and is not available for lending, while SLR is maintained in cash, gold or approved securities.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "'Statutory Liquidity Ratio' must be maintained by banks in:",
+    "options": [
+      "Gold, cash and approved securities",
+      "Foreign reserves",
+      "Cash with the vaults only",
+      "Cash with the RBI"
+    ],
+    "answer": 0,
+    "explanation": "SLR is maintained in cash, gold or approved securities and is meant to ensure the liquidity of the banking system and the availability of funds to the government.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "NCERT Class XII (Economy)",
+    "year": null
+  },
+  {
+    "q": "The 'minimum CRR' maintained by banks in India is:",
+    "options": [
+      "10 per cent of NDTL",
+      "3 per cent of NDTL",
+      "4 per cent of NDTL",
+      "5 per cent of NDTL"
+    ],
+    "answer": 1,
+    "explanation": "The minimum prescribed cash reserve ratio is 3 per cent of net demand and time liabilities, which the RBI can raise during a crisis.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The repo rate is correct?",
+    "options": [
+      "The repo rate",
+      "Moral suasion",
+      "Direct action",
+      "Selective credit control"
+    ],
+    "answer": 0,
+    "explanation": "Repo rate, CRR, SLR and open market operations are quantitative instruments, while moral suasion and direct action are qualitative instruments.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Moral suasion' as an instrument of monetary policy means:",
+    "options": [
+      "The RBI sells securities in the open market",
+      "The RBI orders banks to lend more",
+      "The RBI advises banks to follow its wishes",
+      "The RBI raises the repo rate"
+    ],
+    "answer": 2,
+    "explanation": "Moral suasion and direct action are qualitative instruments in which the RBI uses advice and directions rather than price-based or quantity-based controls.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A 'non-performing asset' in a bank is a loan where:",
+    "options": [
+      "The loan is of a short duration",
+      "The borrower is a priority sector borrower",
+      "The interest rate is below the market rate",
+      "The borrower has defaulted and the bank no longer considers the loan recoverable"
+    ],
+    "answer": 3,
+    "explanation": "A loan becomes a non-performing asset when the interest or principal remains overdue for more than 90 days or the borrower has defaulted and the bank doubts the recoverability of the loan.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Priority sector lending' target for domestic scheduled commercial banks in India is:",
+    "options": [
+      "12 per cent of net demand and time liabilities",
+      "18 per cent of adjusted net bank credit",
+      "40 per cent of GDP",
+      "25 per cent of deposits"
+    ],
+    "answer": 1,
+    "explanation": "The overall priority sector lending target is 18 per cent of adjusted net bank credit, with sub-targets for agriculture, micro, small and medium enterprises and weaker sections.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jan Dhan Yojana' was launched in:",
+    "options": [
+      "2014",
+      "2015",
+      "2010",
+      "2012"
+    ],
+    "answer": 0,
+    "explanation": "Pradhan Mantri Jan Dhan Yojana was launched on 28 August 2014 with the objective of financial inclusion through a bank account for every household.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'MUDRA' loans are provided for:",
+    "options": [
+      "Export finance",
+      "Large corporate investments",
+      "Micro units and small enterprises",
+      "Agriculture only"
+    ],
+    "answer": 2,
+    "explanation": "PM MUDRA Yojana provides loans to micro units and small enterprises under the Shishu, Kishor and Tarun categories.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'UPI' was launched in India in:",
+    "options": [
+      "2018",
+      "2010",
+      "2012",
+      "2016"
+    ],
+    "answer": 3,
+    "explanation": "The Unified Payments Interface was launched by the National Payments Corporation of India in April 2016, built on the Immediate Payment and Settlement system.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a 'settlement system' regulated by the RBI?",
+    "options": [
+      "RTGS",
+      "All of these",
+      "NEFT",
+      "UPI"
+    ],
+    "answer": 1,
+    "explanation": "NEFT, RTGS, IMPS, NACH and UPI are all payment and settlement systems overseen by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'RTGS' is characterised by:",
+    "options": [
+      "Minimum amount of Rs. 1 lakh and settlement in real time",
+      "Small value instant payments",
+      "Batch processing",
+      "Cheque clearing"
+    ],
+    "answer": 0,
+    "explanation": "RTGS is a large value system with a minimum transaction size of Rs. 1 lakh and real-time gross settlement under the irrevocable finality of the Payment and Settlement Systems Act.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Banking ombudsman' in India was first set up in:",
+    "options": [
+      "2006",
+      "2002",
+      "1993",
+      "1998"
+    ],
+    "answer": 2,
+    "explanation": "The first banking ombudsman was appointed in 1993 under the RBI's scheme for redressal of grievances of customers of banks, later codified in the RBI Ombudsman Scheme.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Basel norms' are issued by:",
+    "options": [
+      "The IMF",
+      "The World Trade Organization",
+      "The World Bank",
+      "The Basel Committee on Banking Supervision"
+    ],
+    "answer": 3,
+    "explanation": "The Basel Committee on Banking Supervision, hosted by the Bank for International Settlements at Basel, issues the capital adequacy norms that apply to Indian banks through the RBI's master directions.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Capital Adequacy Ratio' under the Basel norms is:",
+    "options": [
+      "Total assets divided by total deposits",
+      "Capital to risk weighted assets",
+      "Deposits to total assets",
+      "Profit to capital"
+    ],
+    "answer": 1,
+    "explanation": "The capital adequacy ratio measures Tier I and Tier II capital as a proportion of risk weighted assets, with a minimum prescribed by the RBI.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A 'NBFC' in India:",
+    "options": [
+      "Is a scheduled commercial bank",
+      "Is regulated by SEBI alone",
+      "Can accept deposits from the public",
+      "Cannot accept demand deposits and deposits repayable on demand"
+    ],
+    "answer": 3,
+    "explanation": "Non-banking financial companies cannot accept demand deposits and other deposits repayable on demand, and they are registered with the RBI.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's Monetary Policy Committee' has how many members?",
+    "options": [
+      "6",
+      "7",
+      "4",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "The MPC has six members: three from the RBI including the Governor who has a casting vote, and three appointed by the Central Government.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Inflation target' of the RBI in terms of headline CPI is:",
+    "options": [
+      "5 per cent with a 3-7 per cent band",
+      "2 per cent with a 2-4 per cent band",
+      "4 per cent with a 2-6 per cent band",
+      "6 per cent with a 4-8 per cent band"
+    ],
+    "answer": 2,
+    "explanation": "Under the inflation targeting framework, the RBI is to maintain headline consumer price inflation at 4 per cent with an upper and lower tolerance band of 2 and 6 per cent.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Wholesale Price Index' in India measures:",
+    "options": [
+      "Prices of consumer goods at retail",
+      "Prices of commodities at wholesale level",
+      "Prices of services",
+      "The cost of living of workers"
+    ],
+    "answer": 1,
+    "explanation": "The WPI measures the price of commodities at the wholesale level and is used to deflate the GDP, while the CPI measures retail prices of consumer goods and services.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Headline inflation' in India refers to:",
+    "options": [
+      "The inflation measured by the CPI for combined rural and urban sectors",
+      "The inflation in core items only",
+      "The inflation in the wholesale prices only",
+      "The inflation in food and fuel alone"
+    ],
+    "answer": 0,
+    "explanation": "Headline inflation is measured by the Consumer Price Index (Combined) of rural and urban sectors, while the RBI also tracks core inflation which excludes food, fuel and light.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Core inflation' in India is measured by excluding:",
+    "options": [
+      "Clothing and housing",
+      "Transport",
+      "Services",
+      "Food, fuel and light"
+    ],
+    "answer": 3,
+    "explanation": "Core inflation excludes food, fuel and light, which together account for a large part of the weight of the CPI and are volatile.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Phillips curve' shows the relationship between:",
+    "options": [
+      "Exports and imports",
+      "Money supply and credit",
+      "Inflation and unemployment",
+      "Investment and savings"
+    ],
+    "answer": 2,
+    "explanation": "The Phillips curve posits an inverse relationship between the rate of inflation and the rate of unemployment, which has weakened over time.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Cost-push inflation' is caused by:",
+    "options": [
+      "A fall in the exchange rate",
+      "An increase in aggregate demand",
+      "A rise in input costs such as wages or oil prices",
+      "An increase in the money supply"
+    ],
+    "answer": 2,
+    "explanation": "Cost-push inflation arises from rising production costs, for example because of wage increases or an increase in the price of imported inputs.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Demand-pull inflation' results from:",
+    "options": [
+      "An increase in aggregate demand beyond the capacity of the economy",
+      "A rise in the price of oil",
+      "A contraction in the money supply",
+      "A fall in productivity"
+    ],
+    "answer": 0,
+    "explanation": "Demand-pull inflation occurs when aggregate demand grows faster than the economy's capacity to produce, pulling prices upward.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Stagflation' refers to a situation of:",
+    "options": [
+      "High growth with falling prices",
+      "High inflation and low growth with high unemployment",
+      "Low inflation and high growth",
+      "Deflation with high growth"
+    ],
+    "answer": 1,
+    "explanation": "Stagflation combines stagnation in output with high inflation, which is difficult to remedy with conventional demand management policies.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Deflation' is a situation of:",
+    "options": [
+      "A rise in the price of food only",
+      "High inflation with growth",
+      "A fall in unemployment",
+      "A sustained fall in the general price level"
+    ],
+    "answer": 3,
+    "explanation": "Deflation is a sustained fall in the general price level, which increases the real burden of debt and can lead to a deflationary spiral.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The base year currently used for India's CPI is:",
+    "options": [
+      "2012",
+      "2011-12",
+      "2004-05",
+      "2013-14"
+    ],
+    "answer": 0,
+    "explanation": "The CPI series of the Central Statistical Organisation uses 2012 as the base year, revised from 2010.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a component of the 'Fuel and light' group in the CPI?",
+    "options": [
+      "Housing and rent",
+      "LPG and kerosene",
+      "Wheat and rice",
+      "Clothing and footwear"
+    ],
+    "answer": 1,
+    "explanation": "The fuel and light group in the CPI includes LPG, kerosene, diesel, electricity and firewood, which are administered or import dependent prices.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Deflationary spiral' occurs when:",
+    "options": [
+      "Unemployment falls",
+      "Interest rates rise sharply",
+      "Prices rise and output expands",
+      "Falling prices lead to delayed spending and further price declines"
+    ],
+    "answer": 3,
+    "explanation": "When consumers postpone purchases in expectation of lower prices, demand falls and prices fall further, creating a deflationary spiral.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Index of Industrial Production' in India is released by:",
+    "options": [
+      "The Planning Commission",
+      "The RBI",
+      "The Central Statistical Organisation",
+      "The Ministry of Commerce"
+    ],
+    "answer": 2,
+    "explanation": "The Index of Industrial Production is released by the Central Statistical Organisation and measures the quantum of production in the factory sector.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Purchasing Managers' Index (PMI)' in India is compiled by:",
+    "options": [
+      "The CSO",
+      "The NITI Aayog",
+      "The RBI",
+      "The S&P Global and the HSBC India Manufacturing PMI"
+    ],
+    "answer": 3,
+    "explanation": "The HSBC India Manufacturing PMI, compiled with S&P Global, is a monthly survey-based indicator of the manufacturing sector's performance.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Wholesale Price Index' serves as a deflator of:",
+    "options": [
+      "The money supply",
+      "The revenue expenditure of the government",
+      "The GDP at current prices",
+      "The fiscal deficit"
+    ],
+    "answer": 2,
+    "explanation": "The WPI is used to deflate the nominal GDP to obtain the GDP at constant prices, as it measures the price of commodities at the wholesale level.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'fiscal deficit' of the government is best defined as:",
+    "options": [
+      "Total expenditure minus total receipts",
+      "Total expenditure minus revenue receipts",
+      "Revenue expenditure minus revenue receipts",
+      "Capital expenditure minus borrowings"
+    ],
+    "answer": 1,
+    "explanation": "The fiscal deficit is the total expenditure of the government minus its total receipts excluding borrowings, and it indicates the government's total borrowing requirement.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Primary deficit' is the fiscal deficit minus:",
+    "options": [
+      "Interest payments",
+      "Capital expenditure",
+      "Revenue expenditure",
+      "Subsidies"
+    ],
+    "answer": 0,
+    "explanation": "The primary deficit is the fiscal deficit less interest payments, and it shows the government's current fiscal stance excluding the cost of past borrowing.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Revenue deficit' is:",
+    "options": [
+      "Revenue expenditure minus revenue receipts",
+      "Fiscal deficit minus capital expenditure",
+      "Total borrowings minus repayments",
+      "Total expenditure minus total receipts excluding borrowings"
+    ],
+    "answer": 0,
+    "explanation": "The revenue deficit is the excess of revenue expenditure over revenue receipts, indicating that the government is borrowing to meet current rather than capital needs.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'FRBM Act' came into force in:",
+    "options": [
+      "2010",
+      "2000",
+      "2003",
+      "2006"
+    ],
+    "answer": 2,
+    "explanation": "The Fiscal Responsibility and Budget Management Act, 2003, which came into force in 2004, provided for a framework of fiscal discipline and a medium-term fiscal policy statement.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the FRBM Act, the fiscal deficit is expressed as a percentage of:",
+    "options": [
+      "GDP at factor cost",
+      "Revenue receipts",
+      "Total expenditure",
+      "GDP at market prices"
+    ],
+    "answer": 3,
+    "explanation": "The fiscal deficit is expressed as a percentage of the gross domestic product at market prices, and the 2018 amendment set a target of 3 per cent.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Laffer curve' shows that:",
+    "options": [
+      "Higher taxes always raise revenue",
+      "Tax revenue rises and then falls as the tax rate rises",
+      "Inflation reduces tax revenue",
+      "Budget deficits are always inflationary"
+    ],
+    "answer": 1,
+    "explanation": "The Laffer curve suggests an inverted-U relationship between tax rates and tax revenue, with revenue maximising at an intermediate rate.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is a 'revenue expenditure' of the government?",
+    "options": [
+      "Loan repayment",
+      "Purchase of machinery",
+      "Construction of a school building",
+      "Salaries and interest payments"
+    ],
+    "answer": 3,
+    "explanation": "Salaries, pensions, interest payments and subsidies are revenue expenditures, while building a school or buying machinery are capital expenditures.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The GST in India is:",
+    "options": [
+      "A tax on exports only",
+      "A licence fee",
+      "Destination based consumption tax",
+      "Origin based tax"
+    ],
+    "answer": 2,
+    "explanation": "The GST is a destination based consumption tax collected on goods and services at each stage of value addition up to the final consumption.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The GST came into force in India on:",
+    "options": [
+      "15 August 2017",
+      "1 July 2017",
+      "1 April 2017",
+      "1 January 2018"
+    ],
+    "answer": 1,
+    "explanation": "The Goods and Services Tax was launched on 1 July 2017 in India, subsuming excise duty, service tax, VAT and several other indirect taxes.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The GST Constitution Amendment required the ratification of:",
+    "options": [
+      "At least half of the state legislatures",
+      "All the state legislatures",
+      "Three-fourths of the states",
+      "Only the Parliament"
+    ],
+    "answer": 0,
+    "explanation": "The Constitution (122nd Amendment) Bill required the ratification by at least half of the state legislatures by a simple majority.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is NOT a direct tax?",
+    "options": [
+      "Customs duty",
+      "Goods and Services Tax",
+      "Corporation tax",
+      "Income tax"
+    ],
+    "answer": 0,
+    "explanation": "Customs duty is an indirect tax levied on the import and export of goods, while income tax and corporation tax are direct taxes.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Indirect taxes' are borne finally by:",
+    "options": [
+      "The producer",
+      "The consumer",
+      "The government",
+      "The exporter"
+    ],
+    "answer": 1,
+    "explanation": "Indirect taxes can be passed on to the consumer through higher prices, and they are therefore regressive unless the tax is designed carefully.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'fiscal consolidation roadmap' of the Indian government aims to reduce the fiscal deficit by:",
+    "options": [
+      "2 per cent of GDP every year",
+      "A fixed amount each year",
+      "1 per cent of GDP every year",
+      "0.5 per cent of GDP every year"
+    ],
+    "answer": 2,
+    "explanation": "The fiscal consolidation roadmap set out in the 2018 Budget commits to reducing the fiscal deficit by 0.5 per cent of GDP every year until the 3 per cent target is reached.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'output gap' is the:",
+    "options": [
+      "Difference between exports and imports",
+      "Gap between the revenue and the fiscal deficit",
+      "Difference between the repo and the bank rate",
+      "Difference between actual and potential output"
+    ],
+    "answer": 3,
+    "explanation": "The output gap is the difference between actual output and potential output, indicating whether the economy is operating above or below its capacity.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Disinvestment' refers to:",
+    "options": [
+      "A cut in tax rates",
+      "Reduction in the government's equity holding in public sector enterprises",
+      "Reduction in government expenditure",
+      "Sale of government securities to the public"
+    ],
+    "answer": 1,
+    "explanation": "Disinvestment means the reduction of the government's equity shareholding in a public sector undertaking, as distinct from privatisation or sale of a minority stake.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Fiscal Consolidation Roadmap' and the 'Medium Term Fiscal Policy Statement' are presented in:",
+    "options": [
+      "The Five Year Plan",
+      "The Economic Survey",
+      "The Budget",
+      "The Monetary Policy Statement"
+    ],
+    "answer": 2,
+    "explanation": "The Union Budget presents the Medium Term Fiscal Policy Statement, which sets out the fiscal deficit and the debt targets for the next three years.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which tax is levied by the Union and shared with the states?",
+    "options": [
+      "Stamp duty",
+      "Corporation tax",
+      "Customs duty",
+      "Goods and Services Tax"
+    ],
+    "answer": 3,
+    "explanation": "The GST is levied by the Centre and collected by the states, with the revenue shared through the GST Council, while stamp duty is a state subject.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Tax to GDP ratio' in India is relatively low because:",
+    "options": [
+      "A large share of the economy is in the informal sector with low tax compliance",
+      "The government spends very little",
+      "Indirect taxes have been abolished",
+      "Direct taxes are the only source of revenue"
+    ],
+    "answer": 0,
+    "explanation": "The low tax to GDP ratio in India is attributed to the large informal sector, the narrow tax base and relatively low direct tax rates.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Buoyancy of taxes' refers to:",
+    "options": [
+      "The tax exemption of the poor",
+      "The ability of the government to borrow",
+      "The responsiveness of tax revenue to changes in the tax base or rates",
+      "The buoyancy of the currency"
+    ],
+    "answer": 2,
+    "explanation": "The buoyancy of taxes measures how responsive tax revenue is to changes in the tax base, the tax structure and the compliance levels.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Consolidated Fund of India' and the 'Public Account of India' are provided under:",
+    "options": [
+      "Article 112",
+      "Article 263",
+      "Article 280",
+      "Article 266"
+    ],
+    "answer": 3,
+    "explanation": "Article 266 deals with the Consolidated Fund of India and the Public Account of India, and Article 112 with the Annual Financial Statement, the Budget.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which is a 'capital receipt'?",
+    "options": [
+      "Disinvestment proceeds",
+      "Interest receipts",
+      "Grants from the Centre",
+      "Corporation tax receipts"
+    ],
+    "answer": 0,
+    "explanation": "Disinvestment proceeds are capital receipts because they are a one-off reduction in the government's asset holding, unlike tax and interest receipts which are revenue receipts.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Public Account of India' contains:",
+    "options": [
+      "Disinvestment proceeds",
+      "Small savings and provident fund deposits",
+      "Cash balances of the government",
+      "External loans"
+    ],
+    "answer": 1,
+    "explanation": "The Public Account of India holds provident fund and small savings deposits, and the liabilities of the government in respect of these, which are not part of the Consolidated Fund.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Contingency Fund of India' is placed at the disposal of:",
+    "options": [
+      "The Comptroller and Auditor General",
+      "The Prime Minister",
+      "The President",
+      "The Finance Minister"
+    ],
+    "answer": 2,
+    "explanation": "Article 267 places the Contingency Fund of India at the disposal of the President to enable advances to meet unforeseen expenditure, pending authorisation by Parliament.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Consolidated Fund of India' is at the disposal of:",
+    "options": [
+      "The Union Government on the recommendation of the President",
+      "The Finance Minister",
+      "The President",
+      "The Prime Minister"
+    ],
+    "answer": 0,
+    "explanation": "Under Article 266 the Consolidated Fund and the Public Account are at the disposal of the Union government, and withdrawals require the President's order on the advice of the Council of Ministers.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'defence expenditure' of the government includes:",
+    "options": [
+      "Only the capital expenditure",
+      "The pension of civil servants",
+      "Only the salaries of the armed forces",
+      "Revenue and capital expenditure on defence"
+    ],
+    "answer": 3,
+    "explanation": "Defence expenditure comprises both the revenue and the capital expenditure of the Ministry of Defence, which is the largest single budget head in India.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Public-Private Partnership' in infrastructure:",
+    "options": [
+      "Is a private enterprise fully funded by the government",
+      "Shares the risk and investment between the government and the private sector",
+      "Is a scheme of the Reserve Bank",
+      "Refers to the disinvestment of PSUs"
+    ],
+    "answer": 1,
+    "explanation": "In a PPP the government and the private sector share the cost and risk of an infrastructure project, with the private partner usually responsible for construction and maintenance for a fixed period.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Defence Procurement Manual' and the 'Defence Procurement Procedure 2019' relate to:",
+    "options": [
+      "The process of acquisition of defence equipment",
+      "Training of the personnel",
+      "Border management",
+      "Budgeting of the defence forces"
+    ],
+    "answer": 0,
+    "explanation": "The Defence Procurement Procedure lays down the policy and the processes for the acquisition of defence equipment and services by the Ministry of Defence.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Civil Services' and the 'defence services' expenditure constitute:",
+    "options": [
+      "Fiscal deficit",
+      "Primary deficit",
+      "Revenue expenditure",
+      "Capital expenditure"
+    ],
+    "answer": 2,
+    "explanation": "Salaries and pensions of the civil and defence services are revenue expenditures since they are recurring in nature.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'tax revenue' of the government includes:",
+    "options": [
+      "Only corporation tax",
+      "Taxes on income and expenditure as well as customs and excise duties",
+      "Only customs duty",
+      "Profits of the RBI"
+    ],
+    "answer": 1,
+    "explanation": "Tax revenue comprises taxes on income and expenditure, along with customs and excise duties, which together form the largest source of government revenue.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Non-tax revenue' of the government includes:",
+    "options": [
+      "Corporation tax",
+      "Customs duty",
+      "GST",
+      "Interest receipts, dividends and fees"
+    ],
+    "answer": 3,
+    "explanation": "Non-tax revenue includes interest receipts, dividends from state-owned enterprises, fees and fines and the profits of the Reserve Bank of India.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Monetary Policy Statement' of the RBI is issued:",
+    "options": [
+      "Quarterly",
+      "Every month",
+      "Annually",
+      "Twice a year"
+    ],
+    "answer": 0,
+    "explanation": "The Monetary Policy Statement is released at the end of every quarter, following the meetings of the Monetary Policy Committee.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Financial Stability Report' of the RBI is published:",
+    "options": [
+      "Every quarter",
+      "Every month",
+      "Every year",
+      "Semi-annually"
+    ],
+    "answer": 3,
+    "explanation": "The Financial Stability Report is published by the RBI semi-annually, in June and December, and assesses the stability of the financial system.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'call money market' is:",
+    "options": [
+      "A market for agricultural credit",
+      "A market for overnight loans between banks",
+      "A market for government securities",
+      "A market for foreign exchange"
+    ],
+    "answer": 1,
+    "explanation": "The call money market is an overnight market for loans and deposits among banks, an uncollateralised market regulated by the RBI.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'money multiplier' depends on:",
+    "options": [
+      "The fiscal deficit",
+      "The exchange rate",
+      "The cash reserve ratio and the public's cash-deposit preference",
+      "The repo rate"
+    ],
+    "answer": 2,
+    "explanation": "The money multiplier is the reciprocal of the sum of the cash leakages, principally the CRR and the proportion of deposits held as cash by the public.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Quantitative instruments' of monetary policy include:",
+    "options": [
+      "Moral suasion",
+      "Direct action",
+      "Selective credit controls",
+      "Repo rate, CRR, SLR and open market operations"
+    ],
+    "answer": 3,
+    "explanation": "Quantitative instruments work through price and quantity variables that affect the overall volume of credit, while qualitative instruments influence the direction of credit flows.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Selective credit control' is used by the RBI to:",
+    "options": [
+      "Control the overall volume of credit",
+      "Direct credit to priority sectors and to curb certain speculative activities",
+      "Set the repo rate",
+      "Conduct open market operations"
+    ],
+    "answer": 1,
+    "explanation": "Selective credit controls include differential rates of interest, sectoral priorities and directives to banks to stop lending for speculative purposes such as the trade in shares.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Transmission mechanism' of monetary policy refers to:",
+    "options": [
+      "The transfer of funds to the public sector undertakings",
+      "The process of issuing new currency",
+      "The way in which monetary policy decisions affect aggregate demand and output",
+      "The transmission of the budget to the states"
+    ],
+    "answer": 2,
+    "explanation": "Monetary policy transmission describes the chain from the policy rate through interest rates, credit, demand and prices to output and employment.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The RBI's 'Liquidity Adjustment Facility' provides:",
+    "options": [
+      "Overnight liquidity against securities",
+      "Long term loans for agriculture",
+      "Foreign exchange to importers",
+      "Credit to the housing sector"
+    ],
+    "answer": 0,
+    "explanation": "Under the LAF, the RBI provides overnight liquidity against securities with a marginal rate, and absorbs overnight liquidity with a reverse repo auction.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Inflation Target' of the Central Government and the RBI in terms of headline CPI is:",
+    "options": [
+      "4 per cent",
+      "6 per cent",
+      "8 per cent",
+      "2 per cent"
+    ],
+    "answer": 0,
+    "explanation": "The inflation target is 4 per cent annual headline CPI inflation, with a tolerance band of 2 to 6 per cent, notified by the Central Government in consultation with the RBI.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Flexible inflation targeting' in India was introduced by:",
+    "options": [
+      "The 1991 reforms",
+      "The 2000 Fiscal Responsibility Act",
+      "The 2016 demonetisation",
+      "The 2013 amendment to the RBI Act"
+    ],
+    "answer": 3,
+    "explanation": "The RBI Act was amended in 2013 to give the RBI a statutory mandate to operate a flexible inflation targeting regime with a formal inflation target.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CAGR' in the fiscal context refers to:",
+    "options": [
+      "Capital Asset Growth Reserve",
+      "Compound Annual Growth Rate",
+      "Central Audit and Governance Review",
+      "Consolidated Annual Government Revenue"
+    ],
+    "answer": 1,
+    "explanation": "CAGR is the compounded annual growth rate over a period, a standard measure used for comparing revenue or expenditure over time.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'bank rate' is revised by:",
+    "options": [
+      "Parliament",
+      "The Finance Commission",
+      "The Government of India on the recommendation of the RBI",
+      "The RBI alone"
+    ],
+    "answer": 2,
+    "explanation": "The RBI recommends the bank rate, the repo rate and other policy rates, and the Central Government notifies them after consultation with the Central Board of the RBI.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Currency swap' arrangement between the RBI and the US Federal Reserve was signed in:",
+    "options": [
+      "2000",
+      "2005",
+      "2010",
+      "2018"
+    ],
+    "answer": 2,
+    "explanation": "A three-year currency swap agreement between the RBI and the US Federal Reserve was signed in 2010, renewed in 2013 and 2018.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bilateral Swap Lines' of the RBI are with:",
+    "options": [
+      "Only the United States",
+      "The United States, Japan, the UK, the EU and the ASEAN",
+      "Only the BRICS countries",
+      "The World Bank"
+    ],
+    "answer": 1,
+    "explanation": "The RBI has bilateral swap lines with the central banks of the United States, Japan, the United Kingdom, the European Union and the ASEAN countries.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'financial inclusion' index of India is measured by:",
+    "options": [
+      "The HDI",
+      "The Ease of Doing Business Index",
+      "The Multidimensional Poverty Index",
+      "The Global Findex survey"
+    ],
+    "answer": 3,
+    "explanation": "The Global Findex survey by the World Bank measures the access to and the use of financial services across adults and small businesses.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Digital financial literacy' in India is measured by:",
+    "options": [
+      "The Financial Inclusion Index of the RBI",
+      "The Global Findex",
+      "The SDG Index",
+      "The Innovation Index"
+    ],
+    "answer": 0,
+    "explanation": "The Financial Inclusion Index, developed by the World Bank, has a dimension on digital financial literacy to which the National Strategy for Financial Inclusion gives importance.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Strategy for Financial Inclusion' (NSFI) for 2019-24 was:",
+    "options": [
+      "A legal statute",
+      "A budget scheme",
+      "An international treaty",
+      "An RBI framework with twelve guiding principles"
+    ],
+    "answer": 3,
+    "explanation": "The NSFI for 2019-24 was released by the RBI in January 2019 and set out twelve guiding principles for the financial inclusion agenda.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Credit Guarantee Fund for Micro Units (CGFMU)' provides:",
+    "options": [
+      "Guarantee of export credit",
+      "Credit guarantee for small and micro enterprises",
+      "Loans to the housing sector",
+      "Insurance to depositors"
+    ],
+    "answer": 1,
+    "explanation": "The CGFMU, operated through the DICGC, guarantees credit to micro units and small enterprises without collateral up to a prescribed limit.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SME Credit Guarantee Fund' and the 'credit information companies' help in:",
+    "options": [
+      "Regulating the stock market",
+      "Setting the repo rate",
+      "Reducing the cost of credit for MSMEs by sharing risk and information",
+      "Increasing the money supply"
+    ],
+    "answer": 2,
+    "explanation": "Credit guarantee funds protect lenders against default, while credit information companies reduce information asymmetry about the creditworthiness of borrowers.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Payment and Settlement Systems Act' was enacted in:",
+    "options": [
+      "2007",
+      "2012",
+      "2015",
+      "2000"
+    ],
+    "answer": 0,
+    "explanation": "The Payment and Settlement Systems Act, 2007, provides for the regulation and oversight of payment and settlement systems in India.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bharat Bill Payment Operating Limited' is authorised to operate:",
+    "options": [
+      "The A2A payments rail",
+      "The bill payment segment of the BBPS",
+      "The card payment network",
+      "The UPI settlement"
+    ],
+    "answer": 1,
+    "explanation": "The BBPOL was authorised in 2018 to operate the bill payment segment of the Bharat Bill Payment System.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Credit default swap' is a:",
+    "options": [
+      "Ratio of deposits to advances",
+      "Loan given by banks",
+      "Contract in which the buyer pays a premium for protection against default",
+      "Type of government bond"
+    ],
+    "answer": 2,
+    "explanation": "A credit default swap is an instrument in which the protection buyer pays a periodic premium to the protection seller, who pays out on the occurrence of a credit event.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Securitisation' in the context of banking means:",
+    "options": [
+      "Converting loans into tradable securities",
+      "Lending against securities",
+      "Trading in government securities",
+      "Offering insurance products"
+    ],
+    "answer": 0,
+    "explanation": "Securitisation is the process of pooling loans and converting them into tradable securities, which allows banks to transfer credit risk off their balance sheet.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's Depositor Protection Fund' and the 'DICGC' ensure:",
+    "options": [
+      "Protection of shareholders",
+      "Guarantee of the government debt",
+      "Insurance of exports",
+      "Protection of depositors' interests up to a prescribed limit"
+    ],
+    "answer": 3,
+    "explanation": "The Deposit Insurance and Credit Guarantee Corporation insures deposits up to Rs. 5 lakh per depositor per bank, as revised in 2020.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Small Finance Banks' in India are:",
+    "options": [
+      "Companies limited by guarantee",
+      "Scheduled private sector banks",
+      "Foreign banks",
+      "Companies limited by shares"
+    ],
+    "answer": 0,
+    "explanation": "Small finance banks are formed as companies limited by guarantee under the Companies Act and are required to extend 75 per cent of their credit to priority sectors.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Payment banks' in India:",
+    "options": [
+      "Are scheduled banks",
+      "Can lend to individuals",
+      "Cannot lend and can offer deposits of up to Rs. 2 lakh",
+      "Must be listed companies"
+    ],
+    "answer": 2,
+    "explanation": "Payment banks can accept deposits of up to Rs. 2 lakh per customer, cannot lend and cannot engage in credit creation, and are not allowed to give out loans.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI Governor' is appointed for a term of:",
+    "options": [
+      "Six years",
+      "Three years",
+      "Four years",
+      "Five years"
+    ],
+    "answer": 3,
+    "explanation": "The Governor and the Deputy Governors of the RBI are appointed for a term of five years and can be removed only in the manner prescribed for a judge of the Supreme Court.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's Central Board' consists of:",
+    "options": [
+      "Twelve directors of the central banks",
+      "The Governor, four Deputy Governors and twenty officials",
+      "The Governor and fifteen directors",
+      "Only the Finance Secretary and the Governor"
+    ],
+    "answer": 1,
+    "explanation": "The Central Board of the RBI comprises the Governor, four Deputy Governors, one officer nominated by the Finance Ministry and twenty members representing the central and state governments and the interests of agriculture, industry, commerce and labour.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Lender of Last Resort' in India is:",
+    "options": [
+      "The SBI",
+      "The Reserve Bank of India",
+      "The NABARD",
+      "The SIDBI"
+    ],
+    "answer": 1,
+    "explanation": "The RBI acts as the lender of last resort to the banking system, providing liquidity to banks facing a run or a liquidity crunch.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's balance sheet' is divided into:",
+    "options": [
+      "Revenue and expenditure",
+      "Revenue and capital",
+      "Assets and funds",
+      "Assets and liabilities"
+    ],
+    "answer": 3,
+    "explanation": "Like any balance sheet, the RBI's is divided into assets and liabilities, and it is conventionally published on a Friday.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Profit of the RBI' is credited to:",
+    "options": [
+      "The Consolidated Fund of India",
+      "The Public Account of India",
+      "The Contingency Fund",
+      "The Consolidated Fund of the states"
+    ],
+    "answer": 0,
+    "explanation": "Under Section 22 of the RBI Act, 1934, the net profits of the Bank are transferred to the Consolidated Fund of India.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's Monetary Policy Report' is published:",
+    "options": [
+      "Every month",
+      "Every six months",
+      "Every quarter with the Monetary Policy Statement",
+      "Annually"
+    ],
+    "answer": 2,
+    "explanation": "The Monetary Policy Report is published every quarter along with the statement of the policy stance following the MPC meeting.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Repo rate' in India is announced by:",
+    "options": [
+      "The Central Board of the RBI",
+      "The Finance Minister",
+      "The Monetary Policy Committee of the RBI",
+      "The Governor of the RBI alone"
+    ],
+    "answer": 2,
+    "explanation": "The MPC, which has six members, decides the repo rate and the other policy rates, and its decisions are notified by the RBI.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'OMO' operations of the RBI are conducted by:",
+    "options": [
+      "Parliament",
+      "The National Securities Depository",
+      "The Finance Ministry",
+      "The RBI's dealing desk with the primary dealers"
+    ],
+    "answer": 3,
+    "explanation": "Open market operations are conducted by the RBI through its dealing desk with the primary dealers, with repos and reverse repos accounting for the bulk of the volume.",
+    "difficulty": "medium",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Reverse repo' is used by the RBI to:",
+    "options": [
+      "Absorb liquidity",
+      "Raise the CRR",
+      "Print currency",
+      "Inject liquidity"
+    ],
+    "answer": 0,
+    "explanation": "Under the reverse repo, the RBI buys securities from banks with the promise of selling them back, thereby absorbing liquidity from the system.",
+    "difficulty": "easy",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'VRR' and the 'VRRR' as policy rates were introduced in:",
+    "options": [
+      "2018",
+      "2020",
+      "2022",
+      "2015"
+    ],
+    "answer": 1,
+    "explanation": "The Variable Rate Reverse Repo and the Variable Rate Reverse Repo Repo were introduced as additional tools for managing the liquidity conditions in 2020.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SDF' of the RBI is:",
+    "options": [
+      "A type of deposit by the public",
+      "A loan to the states",
+      "A foreign exchange instrument",
+      "The Special Deposit Facility, a floor for the overnight rate"
+    ],
+    "answer": 3,
+    "explanation": "The Special Deposit Facility, introduced in 2022, absorbs liquidity with a flexible and a risk-free overnight rate and forms the floor of the LAF corridor.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Zero ruin' banking is a concept related to:",
+    "options": [
+      "The RBI's liquidity management with the SDF",
+      "The deposit insurance scheme",
+      "The Basel norms",
+      "The monetisation of the deficit"
+    ],
+    "answer": 0,
+    "explanation": "The zero ruin resolution of the RBI in 2022 sought to ensure that the SDF rate never became a binding constraint, allowing banks to park funds with the RBI without loss.",
+    "difficulty": "hard",
+    "category": "money-and-banking",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SEBI' was given statutory powers in:",
+    "options": [
+      "1988",
+      "1992",
+      "1995",
+      "1999"
+    ],
+    "answer": 1,
+    "explanation": "SEBI was constituted as a non-statutory body in 1988 and was given statutory powers by the SEBI Act, 1992.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "SEBI is headquartered at:",
+    "options": [
+      "Chennai",
+      "Kolkata",
+      "Mumbai",
+      "New Delhi"
+    ],
+    "answer": 2,
+    "explanation": "The Securities and Exchange Board of India has its headquarters in Mumbai.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IRDAI' was constituted in:",
+    "options": [
+      "1998",
+      "1999",
+      "2000",
+      "2003"
+    ],
+    "answer": 1,
+    "explanation": "The Insurance Regulatory and Development Authority of India was constituted in 1999 under the IRDA Act of 1999 and given statutory powers in 2000.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PFRDA' and the 'Pension Fund Regulatory and Development Authority' was set up in:",
+    "options": [
+      "2000",
+      "1999",
+      "2005",
+      "2003"
+    ],
+    "answer": 3,
+    "explanation": "The PFRDA was constituted in 2003 to regulate the pension funds and the National Pension System.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "NABARD is an apex institution for:",
+    "options": [
+      "Agriculture and rural development",
+      "Small finance banks",
+      "Insurance",
+      "Capital markets"
+    ],
+    "answer": 0,
+    "explanation": "The National Bank for Agriculture and Rural Development is the apex institution for agriculture and rural development and the national apex for cooperative banks.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "SIDBI is the apex institution for:",
+    "options": [
+      "Housing finance",
+      "Farm credit",
+      "Small scale industries",
+      "Export credit"
+    ],
+    "answer": 2,
+    "explanation": "The Small Industries Development Bank of India is the principal financial institution for the promotion, financing and growth of small scale enterprises.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "EXIM Bank was established to:",
+    "options": [
+      "Regulate the insurance sector",
+      "Regulate the stock market",
+      "Regulate the foreign exchange market",
+      "Finance exports and imports"
+    ],
+    "answer": 3,
+    "explanation": "EXIM Bank of India was set up in 1982 to provide financing for exports, imports and the development of infrastructure and other markets.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NHB' is the apex institution for:",
+    "options": [
+      "Housing finance",
+      "Agriculture",
+      "Education",
+      "Export credit"
+    ],
+    "answer": 0,
+    "explanation": "The National Housing Bank is the apex institution for housing finance in India and is wholly owned by the RBI.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'EPFO' administers:",
+    "options": [
+      "Gratuity only",
+      "Esic benefits",
+      "Provident fund for the employees in the organised sector",
+      "Pension for the armed forces"
+    ],
+    "answer": 2,
+    "explanation": "The Employees' Provident Fund Organisation administers the contributory provident fund for the employees in the organised sector.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'ESIC' provides:",
+    "options": [
+      "Provident fund",
+      "Medical care and cash benefits to the employees covered under the ESI scheme",
+      "Housing loans",
+      "Export credit"
+    ],
+    "answer": 1,
+    "explanation": "The Employees' State Insurance Corporation provides medical care and cash benefits in sickness, maternity, disablement and other contingencies.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Insolvency and Bankruptcy Code' was enacted in:",
+    "options": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "answer": 1,
+    "explanation": "The Insolvency and Bankruptcy Code, 2016 consolidated and amended the laws relating to the insolvency of individuals, companies and partnerships.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the IBC, the 'moratorium period' is:",
+    "options": [
+      "30 days",
+      "90 days",
+      "180 days",
+      "270 days"
+    ],
+    "answer": 2,
+    "explanation": "The Code declares a moratorium of 180 days on the institution of suits and proceedings against the corporate debtor from the date of admission of the application.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the IBC, the 'minimum liquidation value' of an insolvency resolution plan is:",
+    "options": [
+      "40 per cent of the admitted claims",
+      "50 per cent of the admitted claims",
+      "10 per cent of the admitted claims",
+      "25 per cent of the admitted claims"
+    ],
+    "answer": 3,
+    "explanation": "The Code requires that the liquidation value of the assets of the corporate debtor should not be less than 25 per cent of the admitted claims.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Financial Creditors Committee' and the 'Committee of Operational Creditors' are constituted under the IBC to:",
+    "options": [
+      "Monitor the insolvency resolution process and revive the business as a going concern",
+      "Impose penalties on the directors",
+      "Appoint the insolvency professional",
+      "Audit the books of the company"
+    ],
+    "answer": 0,
+    "explanation": "The committees of financial and operational creditors monitor the resolution process and try to revive the company as a going concern within the time limit.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Credit Information Companies Act' was enacted in:",
+    "options": [
+      "2000",
+      "1999",
+      "2005",
+      "2010"
+    ],
+    "answer": 1,
+    "explanation": "The Credit Information Companies (Regulation) Act, 2000, regulates the credit information companies in India and gave RBI the power to license them.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Banking Regulation Act, 1949' was amended in:",
+    "options": [
+      "2018",
+      "2009",
+      "2014",
+      "2020"
+    ],
+    "answer": 3,
+    "explanation": "The Banking Regulation Act, 1949 was comprehensively amended in 2020, which brought in the concept of a resolution framework for weak banks and strengthened the RBI's powers.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's Financial Inclusion Fund' was created in:",
+    "options": [
+      "2014",
+      "2016",
+      "2019",
+      "2020"
+    ],
+    "answer": 2,
+    "explanation": "The Financial Inclusion Fund was created in 2019 under the RBI's National Strategy for Financial Inclusion with an initial corpus contributed by the RBI, NABARD and SIDBI.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Debt Recovery Tribunals' in India were created under the:",
+    "options": [
+      "Recovery of Debts Due to Banks and Financial Institutions Act, 1994",
+      "Insolvency and Bankruptcy Code",
+      "SARFAESI Act, 2002",
+      "Companies Act"
+    ],
+    "answer": 0,
+    "explanation": "The Recovery of Debts Due to Banks and Financial Institutions Act, 1994 provides for the establishment of Debt Recovery Tribunals for the recovery of secured debts of banks and financial institutions.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'SARFAESI Act' relates to:",
+    "options": [
+      "Regulation of the stock market",
+      "Direct tax collection",
+      "The functioning of the RBI",
+      "Securitisation and reconstruction of financial assets and enforcement of security interest"
+    ],
+    "answer": 3,
+    "explanation": "The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, allows the enforcement of security interest without the intervention of the courts.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's Ombudsman' scheme for customers of banks was first introduced in:",
+    "options": [
+      "2000",
+      "1993",
+      "2006",
+      "2019"
+    ],
+    "answer": 1,
+    "explanation": "The first banking ombudsman was appointed in 1993 and the scheme was extended over time and consolidated under the RBI Ombudsman Scheme, 2006.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Financial Ombudsman' and the 'Securities and Exchange Board of India' run an online dispute resolution portal called:",
+    "options": [
+      "SEBI SCORES",
+      "NCH",
+      "CEDES",
+      "SAMAAN"
+    ],
+    "answer": 0,
+    "explanation": "The SEBI SCORES portal provides online dispute resolution for investors in the securities market and is one of the largest such platforms in the world.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mutual funds' in India are registered with:",
+    "options": [
+      "The NABARD",
+      "The RBI",
+      "The SEBI",
+      "The IRDAI"
+    ],
+    "answer": 2,
+    "explanation": "Mutual funds, including the Unit Trust of India and the AMCs, are registered with the Securities and Exchange Board of India under the SEBI Regulations.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Unit Trust of India' was established in:",
+    "options": [
+      "1964",
+      "1966",
+      "1969",
+      "1963"
+    ],
+    "answer": 0,
+    "explanation": "The Unit Trust of India was established in 1964 by the Unit Trust Act and is one of the oldest and largest mutual funds in the world.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SEBI Regulations on Insider Trading' came into force in:",
+    "options": [
+      "2014",
+      "1992",
+      "2000",
+      "2015"
+    ],
+    "answer": 3,
+    "explanation": "The SEBI (Insider Trading) Regulations were notified in 2015 and came into force on 1 April 2016, replacing the earlier voluntary guidelines of 1992.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Public Sector Banks' in India are governed by the:",
+    "options": [
+      "State Government enactments",
+      "Companies Act",
+      "Banking Regulation Act, 1949",
+      "SEBI Act"
+    ],
+    "answer": 2,
+    "explanation": "Public sector banks are governed by the Banking Regulation Act, 1949, and the Banking Companies Act, 1949, though they are not companies in the private sector sense.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Municipal Bonds' and the 'Tax Free Bonds' are issued by:",
+    "options": [
+      "The Central government",
+      "The state governments and the statutory bodies",
+      "Only the Union government",
+      "The Reserve Bank of India"
+    ],
+    "answer": 1,
+    "explanation": "Municipal bonds and tax free bonds are issued by state governments, statutory bodies like the LIC and the HUDCO, and also by the central government.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's Vision' and the 'Statement on Monetary Policy' are:",
+    "options": [
+      "Statutory requirements",
+      "Communications of the central bank",
+      "Judicial orders of the Supreme Court",
+      "Recommendations of the Parliament"
+    ],
+    "answer": 1,
+    "explanation": "The RBI's Vision, Mission and Core Values and the Statement on Monetary Policy are communications that articulate the bank's approach and the rationale for its policy decisions.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Financial Sector Literacy' and the 'RBI's School of Finance' relate to:",
+    "options": [
+      "Priority sector lending",
+      "Payment systems",
+      "Consumer education",
+      "Money laundering"
+    ],
+    "answer": 2,
+    "explanation": "The RBI conducts financial literacy programmes through the School of Finance, the Financial Inclusion Fund and the National Strategy for Financial Inclusion to improve consumer awareness.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Housing Bank' and the 'NHB' refinance:",
+    "options": [
+      "Crop loans",
+      "Export credit",
+      "Micro finance",
+      "Housing loans of banks and housing finance companies"
+    ],
+    "answer": 3,
+    "explanation": "The National Housing Bank refinance the housing loans of banks, housing finance companies and other institutions approved by the NHB.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SIDBI' and the 'NABARD' are:",
+    "options": [
+      "Apex institutions under the RBI's umbrella",
+      "Independent regulators",
+      "Private sector banks",
+      "RBI subsidiaries"
+    ],
+    "answer": 0,
+    "explanation": "SIDBI and NABARD are apex institutions for their respective sectors and function under the overall supervision of the RBI.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's Bank Supervision' is conducted through:",
+    "options": [
+      "The Office of the Deputy Governor",
+      "The Department of Supervision",
+      "The Monetary Policy Department",
+      "The Financial Markets Department"
+    ],
+    "answer": 1,
+    "explanation": "The Department of Supervision of the RBI is responsible for the supervision and regulation of banks, non-banking financial companies and other entities in the financial system.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "'Anti-Money Laundering' in India is governed principally by the:",
+    "options": [
+      "The Insolvency and Bankruptcy Code",
+      "The Indian Contract Act",
+      "The Prevention of Money Laundering Act, 2002",
+      "The Companies Act, 2013"
+    ],
+    "answer": 2,
+    "explanation": "The Prevention of Money Laundering Act, 2002, as amended in 2009, is the principal statute for the prevention of money laundering and the financing of terrorism in India.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Financial Action Task Force' on money laundering is headquartered at:",
+    "options": [
+      "Geneva",
+      "Paris",
+      "Vienna",
+      "New York"
+    ],
+    "answer": 3,
+    "explanation": "The FATF, an intergovernmental body, is based in Paris; the Egmont Group, the main informal network of financial intelligence units, is hosted in The Hague.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Income Tax Act' was enacted in:",
+    "options": [
+      "1961",
+      "1962",
+      "1960",
+      "1956"
+    ],
+    "answer": 0,
+    "explanation": "The Income Tax Act, 1961 replaced the Income Tax Act of 1922 and remains the principal statute governing direct taxation.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CAG Act' was amended in:",
+    "options": [
+      "2011",
+      "1996",
+      "2000",
+      "2006"
+    ],
+    "answer": 1,
+    "explanation": "The CAG (DPC) Act, 1996 gave the CAG statutory status and expanded its audit mandate over the autonomous bodies and the bodies substantially financed by the government.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Contract Act' and the 'Indian Partnership Act' relate to:",
+    "options": [
+      "Banking regulation",
+      "Taxation",
+      "Company law",
+      "Contract and partnership law"
+    ],
+    "answer": 3,
+    "explanation": "The Indian Contract Act, 1872 and the Indian Partnership Act, 1932 are among the oldest statutes of substantive law still in force.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's regulation of NBFC microfinance companies' requires them to:",
+    "options": [
+      "Disburse at least 75 per cent of the credit to the priority sector",
+      "Hold 25 per cent of the credit as reserves with the RBI",
+      "Restrict lending to the poor",
+      "Accept public deposits"
+    ],
+    "answer": 0,
+    "explanation": "Microfinance companies must ensure that at least 75 per cent of their credit is disbursed to the priority sector, that is, the poor and weaker sections.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SEBI's Corporate Governance Voluntary Guidelines, 2009' are:",
+    "options": [
+      "A guideline for the unlisted companies",
+      "Mandatory for all listed companies",
+      "Voluntary guidelines",
+      "A statutory rule"
+    ],
+    "answer": 2,
+    "explanation": "The corporate governance voluntary guidelines issued in 2009 contain recommendations for listed companies which voluntarily adopt them for the benefit of stakeholders.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PFRDA' and the 'National Pension System' allow investment in:",
+    "options": [
+      "Government securities and prescribed debt instruments",
+      "Only equity shares",
+      "Only real estate",
+      "Only government securities"
+    ],
+    "answer": 0,
+    "explanation": "Under the pension regulations, the funds can invest in government securities and a limited range of corporate and other prescribed debt instruments, but not in real estate or equities directly.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's Prompt Corrective Action' framework applies to:",
+    "options": [
+      "Only the foreign banks",
+      "Public sector banks only",
+      "Scheduled private sector banks and cooperative banks",
+      "All banks including small finance banks"
+    ],
+    "answer": 2,
+    "explanation": "The PCA framework is applicable to scheduled private sector banks and cooperative banks and prescribes escalating regulatory action based on the capital, asset quality and leverage indicators.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI's Universal Risk Based' and the 'Basel III capital adequacy' norms for banks were implemented in India from:",
+    "options": [
+      "2013",
+      "2016",
+      "2020",
+      "2010"
+    ],
+    "answer": 1,
+    "explanation": "The RBI phased in the Basel III capital adequacy norms for scheduled commercial banks from 1 April 2013, with full compliance by 1 April 2019 for the capital conservation buffer.",
+    "difficulty": "hard",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Financial Stability Report' and the 'Trend and Progress of Banking in India' are published by:",
+    "options": [
+      "The CAG",
+      "The SEBI",
+      "The Finance Ministry",
+      "The RBI"
+    ],
+    "answer": 3,
+    "explanation": "The RBI publishes the Financial Stability Report and the annual Trend and Progress of Banking in India report, which presents the performance of the banking sector.",
+    "difficulty": "medium",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Licensing and regulation' of the banks in India is the responsibility of:",
+    "options": [
+      "The RBI",
+      "The SEBI",
+      "The NABARD",
+      "The Ministry of Finance"
+    ],
+    "answer": 0,
+    "explanation": "The RBI licenses and supervises banks, NBFCs and other entities under the Banking Regulation Act, 1949, and the RBI Act, 1934.",
+    "difficulty": "easy",
+    "category": "rbi-and-financial-regulation",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

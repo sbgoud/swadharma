@@ -1,0 +1,3587 @@
+[
+  {
+    "q": "As per the National Statistical Office, the base year for India's Consumer Price Index (Combined) is:",
+    "options": [
+      "2004-05",
+      "2011-12",
+      "1995-96",
+      "2012"
+    ],
+    "answer": 3,
+    "explanation": "The CPI (Combined) series uses calendar year 2012 as its base year, whereas the Wholesale Price Index and the Index of Industrial Production use 2011-12.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The base year of the Wholesale Price Index in India, after the revision effected with effect from 1 October 2011, is:",
+    "options": [
+      "2009-10",
+      "2012",
+      "2011-12",
+      "2004-05"
+    ],
+    "answer": 2,
+    "explanation": "The WPI was rebased to 2011-12 (with effect from October 2011), replacing the earlier 2004-05 base year, while the CPI (Combined) uses 2012 as its base.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Monetary Policy Committee of the Reserve Bank of India, which frames the repo rate decision, consists of how many members?",
+    "options": [
+      "Seven",
+      "Six",
+      "Three",
+      "Five"
+    ],
+    "answer": 1,
+    "explanation": "The MPC has six members: three from the RBI (including the Governor) and three appointed by the Central Government, with the RBI Governor holding a casting vote.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "In which year was the Goods and Services Tax (GST) introduced in India?",
+    "options": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "answer": 0,
+    "explanation": "GST was introduced on 1 July 2017, replacing a host of indirect taxes such as excise duty, VAT, service tax and octroi.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2017
+  },
+  {
+    "q": "Compensation to states for revenue loss caused by the introduction of GST is provided under which legislation?",
+    "options": [
+      "The Goods and Services Tax (Council) Act, 2016",
+      "The Constitution (One Hundred and Twenty-Second Amendment) Act, 2016",
+      "The Goods and Services Tax (Compensation to States) Act, 2017",
+      "The Finance Act, 2017"
+    ],
+    "answer": 2,
+    "explanation": "The GST (Compensation to States) Act, 2017 provided for a 14 per cent annual compensation for five years from July 2017 and the machinery to compute and pay it.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2017
+  },
+  {
+    "q": "For how many years was compensation payable to states for revenue loss on account of GST from the date of commencement of GST?",
+    "options": [
+      "Five years",
+      "Seven years",
+      "Ten years",
+      "Three years"
+    ],
+    "answer": 0,
+    "explanation": "Compensation was payable for five years, that is, for 2017-18 to 2021-22, after which the 14 per cent annual rate ceases.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2017
+  },
+  {
+    "q": "The World Bank's 'Doing Business' ranking of countries was discontinued after which edition?",
+    "options": [
+      "Doing Business 2022",
+      "Doing Business 2020",
+      "Doing Business 2018",
+      "Doing Business 2016"
+    ],
+    "answer": 1,
+    "explanation": "The Doing Business report was discontinued after the 2020 edition due to data irregularities, and the World Bank moved to a new Business Ready methodology.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "World Bank",
+    "year": 2020
+  },
+  {
+    "q": "In the World Bank's Doing Business 2020 report, India was ranked at which position among 190 economies?",
+    "options": [
+      "87th",
+      "42nd",
+      "140th",
+      "63rd"
+    ],
+    "answer": 3,
+    "explanation": "India improved to 63rd place in Doing Business 2020 from 77th in 2019 and 100th in 2018, its best-ever position in the series.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "World Bank",
+    "year": 2020
+  },
+  {
+    "q": "India's foreign exchange reserves crossed the USD 600 billion mark for the first time in:",
+    "options": [
+      "June 2022",
+      "September 2021",
+      "January 2023",
+      "March 2020"
+    ],
+    "answer": 1,
+    "explanation": "Reserves first exceeded USD 600 billion in September 2021 when the RBI's intervention and inflows from overseas investors lifted the stock to about USD 634 billion.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2021
+  },
+  {
+    "q": "Section 42 of the Reserve Bank of India Act, 1934 provides that the inflation target for a five-year period shall be notified:",
+    "options": [
+      "by the Central Government in consultation with the RBI",
+      "solely by the RBI Governor",
+      "by the Union Budget each year",
+      "by the Monetary Policy Committee alone"
+    ],
+    "answer": 0,
+    "explanation": "Section 42(1) requires the Central Government to notify the inflation target in consultation with the RBI for a period of not less than three years; the current notification covers 2021-2026 at 4 per cent with a 2-6 per cent band.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following taxes was subsumed by GST on its introduction in July 2017?",
+    "options": [
+      "Property tax",
+      "Stamp duty",
+      "Excise duty",
+      "Customs duty"
+    ],
+    "answer": 2,
+    "explanation": "Central excise duty, VAT, service tax, octroi, entry tax and other cesses were subsumed in GST; customs duty and property tax remain outside its ambit.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2017
+  },
+  {
+    "q": "The GST rate slabs that operated in India from 1 July 2017 were:",
+    "options": [
+      "4 per cent, 8 per cent, 16 per cent and 24 per cent",
+      "5 per cent, 15 per cent, 25 per cent and 35 per cent",
+      "10 per cent, 20 per cent, 30 per cent and 40 per cent",
+      "5 per cent, 12 per cent, 18 per cent and 28 per cent"
+    ],
+    "answer": 3,
+    "explanation": "GST initially had four main slabs of 5, 12, 18 and 28 per cent, plus special rates of 0.25 per cent and 3 per cent with compensation cess, and a nil rate for essential items.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "PIB",
+    "year": 2017
+  },
+  {
+    "q": "The Economic Survey 2021-22 was presented under which headline theme?",
+    "options": [
+      "Fighting the Pandemic, Preparing for Recovery",
+      "Reimagining the Possible",
+      "A Recovery in Progress",
+      "Things to Do: Priorities for Development"
+    ],
+    "answer": 2,
+    "explanation": "The Survey for 2021-22, presented in January 2022, was themed 'A Recovery in Progress'; 'Fighting the Pandemic, Preparing for Recovery' was the theme of the 2022-23 Survey.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Economic Survey 2021-22",
+    "year": 2022
+  },
+  {
+    "q": "The base year of the Index of Industrial Production (IIP) in India is:",
+    "options": [
+      "2015-16",
+      "2011-12",
+      "2004-05",
+      "2012"
+    ],
+    "answer": 1,
+    "explanation": "The IIP was rebased to 2011-12 from the earlier 2004-05 base year and is released by the National Statistical Office as a monthly index.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "According to IMF estimates published in 2023, India overtook which country to become the fourth largest economy in the world by nominal GDP?",
+    "options": [
+      "United Kingdom",
+      "Japan",
+      "France",
+      "Germany"
+    ],
+    "answer": 3,
+    "explanation": "On IMF estimates published in April 2023, India overtook Germany to become the world's fourth largest economy by nominal GDP, and the IMF projected India would become the third largest by 2027.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "IMF World Economic Outlook",
+    "year": 2023
+  },
+  {
+    "q": "The Monetary Policy Committee of the RBI was constituted through which statutory change?",
+    "options": [
+      "The Finance Act, 2016",
+      "The Finance Act, 2018",
+      "The Banking Regulation Amendment Act, 2020",
+      "The Finance Act, 2014"
+    ],
+    "answer": 0,
+    "explanation": "The Finance Act, 2016 amended the RBI Act, 1934 to give the MPC statutory status and put inflation targeting on a statutory footing from April 2016.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": 2016
+  },
+  {
+    "q": "Which authority compiles and publishes India's Balance of Payments and international investment position data?",
+    "options": [
+      "The Reserve Bank of India",
+      "The Central Board of Direct Taxes",
+      "The Indian Statistical Institute",
+      "The National Accounts Statistics Office alone"
+    ],
+    "answer": 0,
+    "explanation": "The RBI compiles and releases quarterly Balance of Payments statistics, including the trade balance, current account and capital account flows, and the International Investment Position.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The GST Council, the apex body for GST administration, is constituted under which Article of the Constitution?",
+    "options": [
+      "Article 280",
+      "Article 269A",
+      "Article 246A",
+      "Article 279A"
+    ],
+    "answer": 3,
+    "explanation": "Article 279A, inserted by the 101st Constitutional Amendment Act, 2016, provides for the GST Council, which the President chairs and which includes Union and state finance ministers.",
+    "difficulty": "medium",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Economic Survey of India is normally presented to Parliament in which month of the year?",
+    "options": [
+      "October",
+      "December",
+      "January",
+      "March"
+    ],
+    "answer": 2,
+    "explanation": "The Survey for the year ending March is presented in late January or early February, immediately before the Union Budget is presented to the Lok Sabha.",
+    "difficulty": "easy",
+    "category": "economy-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Reserve Bank of India's Variable Rate Reverse Repo (VRRR) operation is conducted in order to:",
+    "options": [
+      "provide cheaper long-term loans to banks",
+      "absorb excess liquidity from the banking system",
+      "regulate the benchmark yield on government securities",
+      "inject durable liquidity into the banking system"
+    ],
+    "answer": 1,
+    "explanation": "VRRR is a variable rate reverse repo auction used by the RBI to absorb excess liquidity from the banking system for varying tenors, tightening monetary conditions.",
+    "difficulty": "hard",
+    "category": "economy-current",
+    "source": "RBI",
+    "year": null
+  },
+  {
+    "q": "The 101st Constitutional Amendment Act, 2016 inserted which set of Articles to give constitutional status to GST?",
+    "options": [
+      "Articles 21A, 22 and 23",
+      "Articles 280, 281 and 282",
+      "Articles 14, 15, 16 and 17",
+      "Articles 246A, 269A and 279A"
+    ],
+    "answer": 3,
+    "explanation": "Articles 246A, 269A and 279A created the concurrent taxing power for GST, the apportionment of GST revenue and the GST Council respectively.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "The 102nd Constitutional Amendment Act, 2018 provided for:",
+    "options": [
+      "Reservation for women in legislatures",
+      "Constitutional status to the National Commission for Backward Classes and equal representation to SC and ST commissions in the NCBC",
+      "Extension of the 15th Finance Commission's term",
+      "Abolition of the Legislative Council"
+    ],
+    "answer": 1,
+    "explanation": "The 102nd Amendment gave statutory backing to the NCBC and equal membership to SC and ST commissions in it, with effect from the Constitution (102nd Amendment) Act, 2018.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2018
+  },
+  {
+    "q": "The Constitution (103rd Amendment) Act, 2019 extended the reservation of seats for Scheduled Castes and Scheduled Tribes in the Lok Sabha and state legislative assemblies up to:",
+    "options": [
+      "2035",
+      "2025",
+      "2030",
+      "2040"
+    ],
+    "answer": 2,
+    "explanation": "The 103rd Amendment extended the reservation of seats for SCs and STs in the Lok Sabha, state assemblies and Panchayat/Municipal bodies for the period ending 25 January 2030.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2019
+  },
+  {
+    "q": "The Constitution (104th Amendment) Act, 2019 provides for:",
+    "options": [
+      "Reservation of 10 per cent of seats in educational institutions for the Economically Weaker Sections",
+      "Extension of the reservation of SC and ST seats to 2040",
+      "Reservation of one-third of seats for women in Panchayats",
+      "Creation of a separate OBC commission"
+    ],
+    "answer": 0,
+    "explanation": "The 104th Amendment inserted Article 15(6), enabling 10 per cent EWS reservation in educational institutions, and Article 334, extending SC and ST reservation to 2030.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2019
+  },
+  {
+    "q": "The Constitution (105th Amendment) Act, 2021 inserted Article 342A, which:",
+    "options": [
+      "creates the National Commission for Backward Classes",
+      "enables women's reservation in state assemblies",
+      "delegates to states the power to prepare their own lists of Other Backward Classes",
+      "provides for a 10 per cent EWS quota"
+    ],
+    "answer": 2,
+    "explanation": "Article 342A, inserted in 2021, empowered states to prepare and notify their own lists of OBCs for their own jurisdiction, replacing the central power under Article 342.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The Constitution (106th Amendment) Act, 2023, known as the Nari Shakti Vandan Adhiniyam, provides for:",
+    "options": [
+      "Reservation of 10 per cent for the EWS",
+      "Abolition of the creamy layer",
+      "Extension of the 15th Finance Commission",
+      "Reservation of one-third of seats for women in the Lok Sabha and state legislative assemblies"
+    ],
+    "answer": 3,
+    "explanation": "The 106th Amendment Act, 2023 provides for reservation of not less than one-third of seats for women in the Lok Sabha and state assemblies, and one-third of seats in Panchayat and Municipal bodies, after each census and delimitation.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The Jan Vishwas (Amendment of Provisions) Bill, 2023, which decriminalises and amends various laws, was passed by Parliament in:",
+    "options": [
+      "2023",
+      "2024",
+      "2021",
+      "2022"
+    ],
+    "answer": 0,
+    "explanation": "The Jan Vishwas (Amendment of Provisions) Bill was passed by Parliament in 2023, decriminalising offences and decriminalising detention across several statutes to promote ease of doing business.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The Bharatiya Nagarik Suraksha Sanhita, 2023 came into force on:",
+    "options": [
+      "1 April 2024",
+      "1 July 2024",
+      "26 January 2024",
+      "1 January 2024"
+    ],
+    "answer": 1,
+    "explanation": "The Bharatiya Nagarik Suraksha Sanhita, 2023 replaced the Code of Criminal Procedure, 1973 with effect from 1 July 2024, along with the Bharatiya Nyaya Sanhita and the Bharatiya Sakshya Adhiniyam.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2024
+  },
+  {
+    "q": "The Bharatiya Nyaya Sanhita, 2023, which replaced the Indian Penal Code, 1860, came into force on:",
+    "options": [
+      "1 April 2024",
+      "26 January 2024",
+      "1 July 2024",
+      "1 January 2024"
+    ],
+    "answer": 2,
+    "explanation": "The Bharatiya Nyaya Sanhita came into force on 1 July 2024, repealing the Indian Penal Code and the Code of Criminal Procedure, 1973.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2024
+  },
+  {
+    "q": "The Digital Personal Data Protection Act was enacted in which year?",
+    "options": [
+      "2024",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answer": 3,
+    "explanation": "The Digital Personal Data Protection Act, 2023 was enacted in August 2023, providing a framework for the processing of digital personal data and establishing the Data Protection Board.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 were notified by which ministry?",
+    "options": [
+      "Ministry of Electronics and Information Technology",
+      "Ministry of Law and Justice",
+      "Ministry of Information and Broadcasting",
+      "Ministry of Commerce and Industry"
+    ],
+    "answer": 0,
+    "explanation": "MeitY notified the Intermediary Guidelines and Digital Media Ethics Code Rules in February 2021, adding due diligence obligations and a grievance officer for social media intermediaries and online news publishers.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The three farm laws enacted in September 2020 were repealed by which Act?",
+    "options": [
+      "The Contract Farming Act, 2021",
+      "The Farm Laws Repeal Act, 2021",
+      "The Agricultural Produce Cess Act, 2021",
+      "The Essential Commodities Amendment Act, 2022"
+    ],
+    "answer": 1,
+    "explanation": "The Farm Laws Repeal Act, 2021 repealed the Farmers (Produce Trade and Commerce) Act, the Farmers (Empowerment and Protection) Agreement on Price Assurance and Farm Services Act and the Essential Commodities Amendment Act.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The Insolvency and Bankruptcy Code, 2016 was amended in 2020 to:",
+    "options": [
+      "make the moratorium period 30 days",
+      "permit retail insolvency resolution",
+      "raise the minimum liquidation value of a corporate debtor from 50 lakh to 1 crore rupees",
+      "abolish the role of the Insolvency and Bankruptcy Board"
+    ],
+    "answer": 2,
+    "explanation": "The 2020 amendment raised the minimum liquidation value of a corporate debtor to Rs 1 crore, exempted small and micro entities from the insolvency resolution process and clarified the treatment of the moratorium period.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2020
+  },
+  {
+    "q": "The Comptroller and Auditor General (Amendment) Act, 2023 extended the CAG's mandate to audit:",
+    "options": [
+      "State-owned public sector enterprises",
+      "entities financed substantially by public or government grants",
+      "the accounts of the Reserve Bank of India",
+      "the accounts of nationalised banks"
+    ],
+    "answer": 1,
+    "explanation": "The 2023 amendment brought within the CAG's audit ambit entities financed substantially by public or government grants, enabling scrutiny of the use of such funds.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The Foreign Contribution (Regulation) Amendment Rules, 2020 raised the threshold for registration under the FCRA from Rs 2 lakh to:",
+    "options": [
+      "Rs 1 crore",
+      "Rs 25 lakh",
+      "Rs 50 lakh",
+      "Rs 10 lakh"
+    ],
+    "answer": 0,
+    "explanation": "The 2020 amendment raised the FCRA registration threshold from Rs 2 lakh to Rs 1 crore, while associations registered under the Societies Registration Act continued to require registration above Rs 50,000.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2020
+  },
+  {
+    "q": "The Motor Vehicles (Amendment) Act, 2019 introduced, among other measures:",
+    "options": [
+      "compulsory fitness testing of all private vehicles",
+      "a mandatory driving licence for all two-wheelers",
+      "a national database of vehicle registration numbers",
+      "the 'good Samaritan' provision protecting those who voluntarily help accident victims"
+    ],
+    "answer": 3,
+    "explanation": "The 2019 amendment introduced the good Samaritan provision, a national register of vehicle registration, e-challans, a PUC database and a vehicle location tracking device for commercial vehicles.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2019
+  },
+  {
+    "q": "The Right to Repair framework, launched by the Department for Promotion of Industry and Internal Trade in 2023, initially covered:",
+    "options": [
+      "mobile phones and electronic appliances",
+      "cars and two-wheelers",
+      "medical devices and implants",
+      "farm machinery"
+    ],
+    "answer": 0,
+    "explanation": "DPIIT launched the Right to Repair portal in July 2023 for mobile phones and laptops, extending it in 2024 to a range of electronic goods, aimed at improving the availability of spare parts and manuals.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The 73rd and 74th Constitutional Amendments of 1992 provided for:",
+    "options": [
+      "the National Judicial Appointments Commission",
+      "the Goods and Services Tribunal",
+      "a three-tier Panchayati Raj system and reservation of seats for women",
+      "creation of the Goods and Services Tax Council"
+    ],
+    "answer": 2,
+    "explanation": "The 73rd and 74th Amendments introduced the three-tier Panchayati Raj system and three-tier municipal system, listed 29 and 18 subjects in the Eleventh and Twelfth Schedules respectively and reserved one-third of seats for women.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 1992
+  },
+  {
+    "q": "Article 280 of the Constitution of India deals with:",
+    "options": [
+      "the Comptroller and Auditor General",
+      "the Finance Commission",
+      "the Election Commission",
+      "the Union Public Service Commission"
+    ],
+    "answer": 1,
+    "explanation": "Article 280 requires the President to constitute a Finance Commission every fifth year to recommend the distribution of tax proceeds between the Union and the states and the principles governing grants.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Election Commission of India was established on:",
+    "options": [
+      "15 August 1947",
+      "26 January 1950",
+      "19 August 1947",
+      "25 January 1950"
+    ],
+    "answer": 3,
+    "explanation": "The Election Commission came into existence on 25 January 1950, the date on which the Constitution came into force, under Article 324.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 1950
+  },
+  {
+    "q": "The Chief Election Commissioner of India is appointed under which Article of the Constitution?",
+    "options": [
+      "Article 312",
+      "Article 315",
+      "Article 324",
+      "Article 320"
+    ],
+    "answer": 2,
+    "explanation": "Article 324 vests the superintendence, direction and control of elections to Parliament, the state legislatures and the offices of President and Vice-President in the Election Commission of India.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Comptroller and Auditor General of India is appointed under which Article of the Constitution?",
+    "options": [
+      "Article 280",
+      "Article 315",
+      "Article 76",
+      "Article 148"
+    ],
+    "answer": 3,
+    "explanation": "Article 148 provides for an independent CAG appointed by the President, with the same removal procedure as a Supreme Court judge.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Attorney General of India is appointed under which Article of the Constitution?",
+    "options": [
+      "Article 74",
+      "Article 76",
+      "Article 148",
+      "Article 158"
+    ],
+    "answer": 1,
+    "explanation": "Article 76 provides for the Attorney General, who is appointed by the President and holds office during the pleasure of the President.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Union Public Service Commission is established under which Article of the Constitution?",
+    "options": [
+      "Article 315",
+      "Article 320",
+      "Article 324",
+      "Article 312"
+    ],
+    "answer": 0,
+    "explanation": "Article 315 provides for a Public Service Commission for the Union, while Article 320 lists its functions and Article 312 relates to the All India Services.",
+    "difficulty": "medium",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under India's updated Nationally Determined Contribution, the country targets installed electric power capacity from non-fossil fuel sources of:",
+    "options": [
+      "150 GW by 2025",
+      "500 GW by 2030",
+      "300 GW by 2030",
+      "750 GW by 2030"
+    ],
+    "answer": 1,
+    "explanation": "India's updated NDC pledges 500 GW of installed non-fossil fuel based electric power capacity by 2030 and about 50 per cent of installed capacity from non-fossil sources by 2030.",
+    "difficulty": "easy",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "India has committed to achieve net-zero greenhouse gas emissions by which year?",
+    "options": [
+      "2080",
+      "2050",
+      "2060",
+      "2070"
+    ],
+    "answer": 3,
+    "explanation": "At COP26 in Glasgow in 2021, India announced its long-term target of net-zero emissions by 2070, with 2030 as the milestone year for the 500 GW non-fossil target.",
+    "difficulty": "easy",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "One of the key outcomes of COP26, held in Glasgow in November 2021, was:",
+    "options": [
+      "the Glasgow Climate Pact pledging to phase down unabated coal power and cut methane emissions by 30 per cent by 2030",
+      "the establishment of the Loss and Damage Fund",
+      "the finalisation of the Paris Agreement's ratcheting mechanism",
+      "the creation of a global carbon market under Article 6"
+    ],
+    "answer": 0,
+    "explanation": "COP26 delivered the Glasgow Climate Pact, commitments to phase down unabated coal, cut methane 30 per cent by 2030 and double clean energy finance, while Article 6 carbon market rules were finalised at COP27.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "UNFCCC",
+    "year": 2021
+  },
+  {
+    "q": "The Global Stocktake, the first global assessment of the Paris Agreement's progress, was concluded at which COP and in which year?",
+    "options": [
+      "COP29, 2024",
+      "COP26, 2021",
+      "COP28, 2023",
+      "COP27, 2022"
+    ],
+    "answer": 2,
+    "explanation": "The first Global Stocktake was concluded at COP28 in Dubai in December 2023, with the UAE Consensus calling for the transition away from fossil fuels in energy systems and tripling renewables by 2030.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "UNFCCC",
+    "year": 2023
+  },
+  {
+    "q": "The decision to establish a fund to assist countries affected by climate-related loss and damage was taken at:",
+    "options": [
+      "COP26, Glasgow, 2021",
+      "COP29, Baku, 2024",
+      "COP25, Madrid, 2019",
+      "COP27, Sharm el-Sheikh, 2022"
+    ],
+    "answer": 3,
+    "explanation": "COP27 in Sharm el-Sheikh in November 2022 agreed to establish a Loss and Damage Fund, which was operationalised at COP28 in 2023 with initial pledges.",
+    "difficulty": "easy",
+    "category": "environment-current",
+    "source": "UNFCCC",
+    "year": 2022
+  },
+  {
+    "q": "In the 2023 update of the IUCN Red List, the status of the Siamese crocodile was upgraded to:",
+    "options": [
+      "Critically Endangered",
+      "Endangered",
+      "Least Concern",
+      "Vulnerable"
+    ],
+    "answer": 2,
+    "explanation": "The 2023 Red List update moved the Siamese crocodile from Endangered to Least Concern after population recovery in Cambodia and other parts of its range; it was the first reptile to be removed from the list.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "IUCN Red List",
+    "year": 2023
+  },
+  {
+    "q": "In March 2023, how many new Ramsar sites were designated in India, taking the total number of Ramsar sites to 86?",
+    "options": [
+      "12",
+      "26",
+      "15",
+      "40"
+    ],
+    "answer": 1,
+    "explanation": "India added 26 Ramsar sites on 6 March 2023, taking the national total to 86 and making India the country with the highest number of Ramsar sites in the world.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The ban on identified single-use plastic items in India came into force on:",
+    "options": [
+      "1 April 2022",
+      "1 July 2021",
+      "1 January 2022",
+      "15 August 2020"
+    ],
+    "answer": 0,
+    "explanation": "India's ban on identified single-use plastic items took effect on 1 April 2022, though the ban on plastic sachets and cigarette filters had come into force from 1 July 2021.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The National Green Mission was launched in which year?",
+    "options": [
+      "2018-19",
+      "2021-22",
+      "2014-15",
+      "2009-10"
+    ],
+    "answer": 2,
+    "explanation": "The National Green Mission was announced in the Union Budget for 2014-15 and launched in 2014, aiming to plant trees and restore degraded ecosystems including mangroves and wetlands.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "Economic Survey 2015-16",
+    "year": 2016
+  },
+  {
+    "q": "Mission LiFE, the overarching framework for a 'just' and 'liveable' planet, was launched in which year?",
+    "options": [
+      "2019",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answer": 1,
+    "explanation": "Mission LiFE was launched by the Union Environment Minister at COP26 in Glasgow in November 2021 and formally unveiled in 2022, promoting climate-positive actions in everyday life and livelihoods.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The term 'Blue Economy' refers to the sustainable use of which resource?",
+    "options": [
+      "Ocean and coastal resources",
+      "Arctic ice",
+      "Deep underground water",
+      "Desert land"
+    ],
+    "answer": 0,
+    "explanation": "Blue Economy refers to the sustainable utilisation of ocean and coastal resources such as fisheries, aquaculture, marine energy, tourism and biotechnology, guided by India's Blue Economy policy framework.",
+    "difficulty": "easy",
+    "category": "environment-current",
+    "source": "Economic Survey 2021-22",
+    "year": 2022
+  },
+  {
+    "q": "The Namami Gange Programme, India's flagship river cleaning initiative, was launched in which year?",
+    "options": [
+      "2018",
+      "2019",
+      "2014",
+      "2016"
+    ],
+    "answer": 3,
+    "explanation": "Namami Gange was launched in June 2016 as an inter-ministerial programme for cleaning the Ganga and its tributaries, later aligned with the National River Conservation Plan.",
+    "difficulty": "easy",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2016
+  },
+  {
+    "q": "The e-Daam platform, launched in 2023, is associated with which of the following?",
+    "options": [
+      "An e-waste collection and recycling platform for the UP district of Lucknow",
+      "A digital database of Ramsar sites",
+      "An online auction of solar power capacity",
+      "A satellite-based crop monitoring system"
+    ],
+    "answer": 0,
+    "explanation": "e-Daam was launched by the Uttar Pradesh government in April 2023 as an electronic waste management and aggregator platform in the Lucknow district, connecting citizens, recyclers and producers.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "Which ministry administers India's Carbon Credit Trading Scheme?",
+    "options": [
+      "Ministry of Petroleum and Natural Gas",
+      "Ministry of Environment, Forest and Climate Change",
+      "Ministry of Power",
+      "Ministry of Heavy Industries"
+    ],
+    "answer": 1,
+    "explanation": "The Carbon Credit Trading Scheme, notified by the Ministry of Environment, Forest and Climate Change in 2023, provides for a compliance market, an offset mechanism and the Carbon Credit Trading Registry.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The PM Surya Ghar Muft Bijli Yojana, providing rooftop solar installations to households, was launched in which year?",
+    "options": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "answer": 2,
+    "explanation": "PM Surya Ghar Muft Bijli Yojana was approved and launched on 29 February 2024 with an outlay of about Rs 75,021 crore, targeting one crore households with rooftop solar.",
+    "difficulty": "easy",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2024
+  },
+  {
+    "q": "The National Clean Air Programme (NCAP) for non-attainment cities was launched in which year?",
+    "options": [
+      "2020",
+      "2021",
+      "2017",
+      "2019"
+    ],
+    "answer": 3,
+    "explanation": "NCAP was launched by the Ministry of Environment, Forest and Climate Change in January 2019 to improve air quality in non-attainment cities through city-specific action plans.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2019
+  },
+  {
+    "q": "According to the India State of Forest Report 2023, India's forest and tree cover as a percentage of the country's geographical area was:",
+    "options": [
+      "21.76 per cent",
+      "19.47 per cent",
+      "23.85 per cent",
+      "17.82 per cent"
+    ],
+    "answer": 0,
+    "explanation": "ISFR 2023 reported total forest and tree cover of 827,357 square km, equal to 21.76 per cent of the geographical area, an increase over the 2021 assessment, with tree cover alone at 9.9 per cent.",
+    "difficulty": "hard",
+    "category": "environment-current",
+    "source": "Forest Survey of India",
+    "year": 2023
+  },
+  {
+    "q": "The fourth round of the All India Tiger Estimation, released in 2022, reported the number of tigers in India as:",
+    "options": [
+      "3,094",
+      "2,967",
+      "3,682",
+      "3,577"
+    ],
+    "answer": 2,
+    "explanation": "The 2022 estimation reported 3,682 tigers in 51 tiger reserves, an increase of about 12 per cent over the previous cycle and the highest tiger population estimate recorded in India.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Wild Life (Protection) Amendment Act, 2022 provided for:",
+    "options": [
+      "Extension of the protected area network to community forests",
+      "A ban on the import of exotic pets",
+      "Creation of a National Wildlife Crime Control Bureau",
+      "Inclusion of species such as the great Indian bustard, cheetah and black-necked stork in the schedules and prohibition of ivory trade"
+    ],
+    "answer": 3,
+    "explanation": "The 2022 amendment implemented the CITES decisions taken at CoP19, adding species to the schedules, banning the trade of ivory and rhinoceros horn and enabling the Centre to designate a wildlife crime control bureau.",
+    "difficulty": "medium",
+    "category": "environment-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Chandrayaan-3 lander touched down on the Moon on:",
+    "options": [
+      "6 September 2019",
+      "23 August 2023",
+      "14 July 2023",
+      "2 September 2023"
+    ],
+    "answer": 1,
+    "explanation": "Chandrayaan-3's lander Vikram soft-landed on 23 August 2023 near Point Shiv Shakti in the lunar south polar region, making India the first country to land near the Moon's south pole.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2023
+  },
+  {
+    "q": "Aditya-L1, India's first solar observatory, was launched on 2 September 2023 and was inserted into its halo orbit around the Sun-Earth L1 point in:",
+    "options": [
+      "December 2023",
+      "January 2024",
+      "February 2024",
+      "November 2023"
+    ],
+    "answer": 1,
+    "explanation": "Aditya-L1 reached the L1 point about 1.5 million km from Earth and was inserted into a halo orbit on 2 January 2024, completing the fourth Lagrange point mission of ISRO.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2024
+  },
+  {
+    "q": "The Chandrayaan-2 mission, launched in July 2019, consisted of:",
+    "options": [
+      "An orbiter, a lander and a rover",
+      "An orbiter and a re-entry vehicle only",
+      "A lander, a rover and a crew module",
+      "Two orbiters and a communication satellite"
+    ],
+    "answer": 0,
+    "explanation": "Chandrayaan-2 carried an orbiter, the Vikram lander and the Pragyan rover; the lander failed during landing on 6 September 2019 but the orbiter continues to operate and has sent images of the south polar region.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2019
+  },
+  {
+    "q": "India's Mars Orbiter Mission (Mangalyaan) made India the first country to:",
+    "options": [
+      "Sample Martian soil with a lander",
+      "Orbit a spacecraft around the Sun",
+      "Reach Mars on a maiden attempt and successfully place a spacecraft in Martian orbit",
+      "Land a rover on the Moon's far side"
+    ],
+    "answer": 2,
+    "explanation": "Mangalyaan entered Mars orbit on 24 September 2014, making India the first nation to reach Mars on its first attempt, at a reported cost of about Rs 450 crore.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2014
+  },
+  {
+    "q": "The first uncrewed test flight of the Gaganyaan human spaceflight programme was carried out in:",
+    "options": [
+      "July 2022",
+      "January 2024",
+      "March 2023",
+      "October 2023"
+    ],
+    "answer": 3,
+    "explanation": "On 21 October 2023 a GSLV Mk II rocket carried an uncrewed module to orbit in the Launchpad-2 mission, testing the crew escape system and validating the human spaceflight programme.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2023
+  },
+  {
+    "q": "The launch vehicle used to place Chandrayaan-3 into its lunar orbit was:",
+    "options": [
+      "PSLV",
+      "SSLV",
+      "SLV",
+      "GSLV Mk III"
+    ],
+    "answer": 0,
+    "explanation": "Chandrayaan-3 was launched on 14 July 2023 on PSLV-C37 from Sriharikota, while the LVM3 (GSLV Mk III) was used for the Aditya-L1 mission.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": 2023
+  },
+  {
+    "q": "The IRS-Navic (NavIC) navigation payload system was developed in collaboration with:",
+    "options": [
+      "United States",
+      "Japan",
+      "France",
+      "Israel"
+    ],
+    "answer": 1,
+    "explanation": "NavIC, India's own navigation system, was developed with Japanese cooperation using the QZSS; it was the first Indian satellite navigation system to be completed and offered for civil use.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": null
+  },
+  {
+    "q": "The RISAT series of satellites launched by ISRO provides:",
+    "options": [
+      "Weather data for the upper atmosphere",
+      "Communication links for rural tele centres",
+      "Navigation services for ships and aircraft",
+      "Synthetic aperture radar imaging for agriculture, forestry and disaster management"
+    ],
+    "answer": 3,
+    "explanation": "The Radar Imaging Satellites (RISAT) carry X-band and C-band synthetic aperture radar, allowing all-weather monitoring of crops, forests, landslides, floods and cyclones.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "ISRO",
+    "year": null
+  },
+  {
+    "q": "INS Vikrant, which was commissioned in 2021, is India's:",
+    "options": [
+      "First indigenous missile destroyer",
+      "Second indigenous nuclear-powered submarine",
+      "First indigenously built aircraft carrier",
+      "Largest domestically built research vessel"
+    ],
+    "answer": 2,
+    "explanation": "INS Vikrant, commissioned on 2 September 2021, is India's first indigenously designed and built aircraft carrier, with indigenous content of about 76 per cent.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "BrahMos is a supersonic cruise missile developed as an India-Russia joint venture by:",
+    "options": [
+      "BrahMos Aerospace and the Aircraft and Ship Building Industries",
+      "DRDO and the Indian Navy's shipyard at Vizag",
+      "HAL and the Ordnance Factory Board",
+      "DRDO and HAL alone"
+    ],
+    "answer": 0,
+    "explanation": "BrahMos Aerospace, a joint venture of BrahMos and the Russian United Shipbuilding Corporation's Aircraft and Ship Building Industries, produces the missile, which entered Indian service in 2005.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Akash missile is a medium-range surface-to-air defence system developed by:",
+    "options": [
+      "BrahMos Aerospace",
+      "Defence Services Limited",
+      "Bharat Dynamics Limited",
+      "DRDO"
+    ],
+    "answer": 3,
+    "explanation": "Akash was developed by the Defence Research and Development Organisation, with production by Bharat Dynamics and HAL, and has a range of about 25 to 70 km.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "INS Arihant, India's first nuclear-powered ballistic missile submarine, is significant because:",
+    "options": [
+      "It is the largest warship ever built in India",
+      "It demonstrated sea-based nuclear deterrence capability",
+      "It is powered by a nuclear reactor of indigenous design only",
+      "It carries the first indigenous aircraft carrier air wing"
+    ],
+    "answer": 1,
+    "explanation": "INS Arihant completed its first deterrence patrol in 2018, giving India a sea-based leg for its nuclear deterrent triad, and later conducted further patrols in 2021 and 2024.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The Advanced Medium Combat Aircraft (AMCA) is being developed by:",
+    "options": [
+      "the Aeronautical Development Agency alone",
+      "BrahMos Aerospace and DRDO",
+      "ADA-DRDO with private industry partners",
+      "HAL and the Air Force Research and Development Organisation"
+    ],
+    "answer": 2,
+    "explanation": "The AMCA is a fifth-generation fighter being developed by the Aeronautical Development Agency and DRDO with the participation of private firms, with a prototype targeted by the mid-2020s.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Arjun main battle tank is manufactured at:",
+    "options": [
+      "Harsha Motors, Tumkur",
+      "Armada vehicles in Hyderabad",
+      "Larsen and Toubro's facility in Chennai",
+      "Heavy Vehicles Factory, Avani"
+    ],
+    "answer": 3,
+    "explanation": "The Arjun tank is produced by the Heavy Vehicles Factory at Avani near Chennai in Tamil Nadu, in collaboration with private firms for the 120 mm main gun and other subsystems.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Covaxin, India's indigenous COVID-19 vaccine, was developed by:",
+    "options": [
+      "Serum Institute of India with Oxford University",
+      "Bharat Biotech in collaboration with the ICMR",
+      "Haffkine Institute",
+      "Ganesh Immunobiology with WHO"
+    ],
+    "answer": 1,
+    "explanation": "Covaxin is a whole-virion inactivated vaccine developed by Bharat Biotech with support from the Indian Council of Medical Research, while Covishield was made by the Serum Institute of India with Oxford-AstraZeneca.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The CoWIN web portal for COVID-19 vaccination registration was launched in India in:",
+    "options": [
+      "April 2021",
+      "February 2020",
+      "January 2022",
+      "March 2020"
+    ],
+    "answer": 0,
+    "explanation": "CoWIN was launched in April 2021 and became the single national platform for vaccination registration, certificate download and slot booking, with the 18-plus registration opening from 1 May 2021.",
+    "difficulty": "easy",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "PARAM, India's indigenous supercomputing series, has been developed by:",
+    "options": [
+      "DRDO",
+      "BARC",
+      "C-DAC",
+      "ISRO"
+    ],
+    "answer": 2,
+    "explanation": "PARAM (Parallel Academic and Research Computing) supercomputers were developed by the Centre for Development of Advanced Computing, with the PARAM series reaching the petaflop scale.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Quantum Mission, approved in 2021, is implemented by which department?",
+    "options": [
+      "Department of Science and Technology",
+      "Ministry of Electronics and Information Technology",
+      "Department of Space",
+      "Department of Atomic Energy"
+    ],
+    "answer": 0,
+    "explanation": "The National Quantum Mission is implemented by the Department of Science and Technology with a five-year outlay, covering quantum computing, communication, sensing and materials.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The India Semiconductor Mission was approved by the Cabinet in:",
+    "options": [
+      "2020",
+      "2021",
+      "2022",
+      "2019"
+    ],
+    "answer": 1,
+    "explanation": "The Cabinet approved the India Semiconductor Mission on 14 December 2021 to build a robust semiconductor ecosystem, including fabrication plants and ATMP units, with fiscal support of about Rs 76,000 crore.",
+    "difficulty": "medium",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "In 2022, the Genetic Engineering Approval Committee (GEAC) recommended the approval for commercial release of:",
+    "options": [
+      "Bt brinjal",
+      "Bt cotton",
+      "GM mustard (DM Mustard 1)",
+      "Golden rice"
+    ],
+    "answer": 2,
+    "explanation": "The GEAC recommended the release of the genetically modified mustard variety DM Mustard 1 for cultivation, the first GM food crop cleared in India, and the environment minister gave approval in November 2022.",
+    "difficulty": "hard",
+    "category": "science-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "How many countries were invited to join BRICS at the BRICS Summit held in Johannesburg in August 2023?",
+    "options": [
+      "Three",
+      "Four",
+      "Eight",
+      "Six"
+    ],
+    "answer": 3,
+    "explanation": "Six countries - Argentina, Egypt, Ethiopia, Iran, Saudi Arabia and the UAE - were invited to join BRICS at the 2023 Johannesburg summit, with membership taking effect from 1 January 2024.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "BRICS",
+    "year": 2023
+  },
+  {
+    "q": "The theme of India's G20 presidency in 2023 was:",
+    "options": [
+      "Build Back Better for All",
+      "Action, Solidarity and Fairness",
+      "Recovery, Resilience and Renewal",
+      "One Earth, One Family, One Future"
+    ],
+    "answer": 3,
+    "explanation": "India's G20 presidency in 2023 was themed 'One Earth, One Family, One Future', reflecting the Panch sutra of five interlinked spheres - planet, people, prosperity, peace and purpose.",
+    "difficulty": "easy",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The outcome document of the 2023 G20 Leaders' Summit held in New Delhi was known as the:",
+    "options": [
+      "Kampala Declaration",
+      "Bali Consensus",
+      "New Delhi Declaration",
+      "Buenos Aires Communique"
+    ],
+    "answer": 2,
+    "explanation": "The New Delhi Declaration was adopted by the G20 Leaders on 1 September 2023, containing more than 120 lines of agreed action on development, climate, digital public infrastructure and multilateral development bank reform.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "In the New Delhi Declaration of 2023, the G20 leaders committed to:",
+    "options": [
+      "Tripling global renewable energy capacity by 2030",
+      "Creating a global green hydrogen alliance with a single registry",
+      "Banning the export of critical minerals",
+      "Eliminating all coal from the power sector by 2030"
+    ],
+    "answer": 0,
+    "explanation": "The 2023 G20 declaration committed to tripling global renewable energy capacity to 11,000 GW by 2030 and to doubling the average annual rate of energy efficiency improvement.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The African Union was admitted as a permanent member of the G20 grouping in:",
+    "options": [
+      "2022",
+      "2023",
+      "2021",
+      "2024"
+    ],
+    "answer": 1,
+    "explanation": "At the G20 Leaders' Summit in New Delhi in September 2023, the African Union was admitted as a permanent member, becoming the first regional grouping to join the G20.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "Which country became the tenth full member of the Shanghai Cooperation Organisation in 2024?",
+    "options": [
+      "Mongolia",
+      "Afghanistan",
+      "Belarus",
+      "Iran"
+    ],
+    "answer": 2,
+    "explanation": "Belarus was admitted as the tenth member of the SCO at the Astana summit in July 2024, having joined as an observer in 2022; Iran had become the ninth member in 2023.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "SCO Secretariat",
+    "year": 2024
+  },
+  {
+    "q": "The 41st ASEAN Summit, at which the ASEAN-India relations were reviewed, was held in:",
+    "options": [
+      "Phnom Penh",
+      "Bangkok",
+      "Kuala Lumpur",
+      "Jakarta"
+    ],
+    "answer": 0,
+    "explanation": "The 41st ASEAN Summit and the 19th ASEAN-India Summit were held in Phnom Penh in October 2022, when the ASEAN-India Plan of Action 2021-2025 was reviewed.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Quadrilateral Security Dialogue (QUAD) comprises:",
+    "options": [
+      "India, Japan, South Korea and Australia",
+      "India, the United Kingdom, France and Germany",
+      "Brazil, India, Japan and Australia",
+      "India, the United States, Japan and Australia"
+    ],
+    "answer": 3,
+    "explanation": "QUAD is an informal alliance of India, the United States, Japan and Australia, revived in 2021, with a focus on Indo-Pacific security, supply chains and critical and emerging technologies.",
+    "difficulty": "easy",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 13th Ministerial Conference of the World Trade Organization, held in Abu Dhabi in February 2024, produced outcomes including:",
+    "options": [
+      "A complete agreement on agriculture and a dispute settlement reform package",
+      "A decision on a dispute settlement reform package and a moratorium on e-commerce customs duties",
+      "The withdrawal of all tariff concessions on industrial goods",
+      "The establishment of a global carbon tariff"
+    ],
+    "answer": 1,
+    "explanation": "MC13 at Abu Dhabi delivered agreement on a dispute settlement reform package and a two-year moratorium on e-commerce customs duties, though no agreement was reached on agriculture.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "WTO",
+    "year": 2024
+  },
+  {
+    "q": "The headquarters of the New Development Bank, the BRICS bank, is located in:",
+    "options": [
+      "Beijing",
+      "Moscow",
+      "New Delhi",
+      "Shanghai"
+    ],
+    "answer": 3,
+    "explanation": "The NDB, established by the BRICS countries in 2014 and operationalised in 2015, is headquartered in Shanghai, with its first regional office in Johannesburg.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "NDB",
+    "year": null
+  },
+  {
+    "q": "The headquarters of the International Solar Alliance is located at:",
+    "options": [
+      "Gurugram, Haryana",
+      "Jaipur",
+      "Noida",
+      "New Delhi"
+    ],
+    "answer": 0,
+    "explanation": "The International Solar Alliance, launched in 2015 with India and France as co-founders, has its headquarters in Gurugram in Haryana and was opened for signature at COP22 in Paris in 2016.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "International Solar Alliance",
+    "year": null
+  },
+  {
+    "q": "The G4 grouping, which strongly favours United Nations Security Council reform including a permanent seat for India, comprises:",
+    "options": [
+      "Germany, France, Japan and the United Kingdom",
+      "Argentina, Brazil, India and South Africa",
+      "Brazil, Germany, India and Japan",
+      "China, Russia, India and Brazil"
+    ],
+    "answer": 2,
+    "explanation": "The G4 nations - Brazil, Germany, India and Japan - support each other's permanent membership in a reformed Security Council, while the G3 of China, Russia and France favours an expanded but not permanent-seat-only Council.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The India-France Joint Strategic Vision for the Indian Ocean Region was signed in:",
+    "options": [
+      "2018",
+      "2021",
+      "2019",
+      "2022"
+    ],
+    "answer": 1,
+    "explanation": "The Joint Strategic Vision for the Indian Ocean Region was signed at the 14th India-France Summit in March 2021, formalising France's engagement with the Indo-Pacific region.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The 'Global Partnership for SDGs' agreement between India and Japan was signed in:",
+    "options": [
+      "2020",
+      "2021",
+      "2022",
+      "2019"
+    ],
+    "answer": 1,
+    "explanation": "India and Japan signed the Global Partnership for SDGs during the 14th India-Japan Summit in September 2021, aligning their development cooperation with the 2030 Agenda.",
+    "difficulty": "hard",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The Comprehensive Economic and Trade Agreement between India and Canada was signed in:",
+    "options": [
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answer": 2,
+    "explanation": "India and Canada signed the Comprehensive Economic and Trade Agreement (CETA) in March 2022, which entered into force in 2022-23 and was ratified in 2023.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Comprehensive Economic Partnership Agreement between India and the United Arab Emirates was signed in:",
+    "options": [
+      "2022",
+      "2024",
+      "2023",
+      "2021"
+    ],
+    "answer": 0,
+    "explanation": "India and the UAE signed the CEPA during the first India-UAE CEPA summit in February 2022, providing for tariff elimination on most goods and a services and investment agreement.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The framework agreement of the International Solar Alliance was opened for signature at:",
+    "options": [
+      "COP23, Bonn, 2017",
+      "COP26, Glasgow, 2021",
+      "COP21, Paris, 2015",
+      "COP22, Paris, 2016"
+    ],
+    "answer": 3,
+    "explanation": "The ISA Framework Agreement was opened for signature by 20 countries at COP22 in Paris on 16 November 2016, after India and France proposed the alliance at COP21 in 2015.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "International Solar Alliance",
+    "year": 2016
+  },
+  {
+    "q": "The G20 Leaders' Summit 2023 was held in:",
+    "options": [
+      "Sendai, Japan",
+      "Bali, Indonesia",
+      "New Delhi, India",
+      "Rio de Janeiro, Brazil"
+    ],
+    "answer": 2,
+    "explanation": "India hosted the 18th G20 Leaders' Summit at the Bharat Mandapam in New Delhi on 1 September 2023, the first G20 summit held in India and in Africa.",
+    "difficulty": "easy",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The India-ASEAN Trade in Goods Agreement entered into force on:",
+    "options": [
+      "1 January 2010",
+      "1 August 2012",
+      "1 January 2009",
+      "1 January 2011"
+    ],
+    "answer": 0,
+    "explanation": "The India-ASEAN Trade in Goods Agreement, signed in 2009-10, entered into force on 1 January 2010, with the Trade in Services Agreement and the protocols for the acceding parties taking effect later.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "PIB",
+    "year": 2010
+  },
+  {
+    "q": "The Kigali Amendment to the Montreal Protocol on Substances that Deplete the Ozone Layer was adopted in:",
+    "options": [
+      "2012",
+      "2018",
+      "2020",
+      "2016"
+    ],
+    "answer": 3,
+    "explanation": "The Kigali Amendment was adopted in October 2016 to phase down hydrofluorocarbons, which contributed to global warming, and entered into force on 1 January 2019.",
+    "difficulty": "medium",
+    "category": "international-relations-current",
+    "source": "UNEP",
+    "year": 2016
+  },
+  {
+    "q": "The Pradhan Mantri Awas Yojana, India's housing scheme for the poor, was launched in which year?",
+    "options": [
+      "2017",
+      "2015",
+      "2016",
+      "2014"
+    ],
+    "answer": 1,
+    "explanation": "PMAY was launched in June 2015 for urban areas and extended to rural housing as PMAY-G in 2016, aiming to provide pucca houses with basic amenities to all households.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "The Pradhan Mantri Ujjwala Yojana, which provides free LPG connections to women from poor households, was launched in which year?",
+    "options": [
+      "2017",
+      "2018",
+      "2015",
+      "2016"
+    ],
+    "answer": 3,
+    "explanation": "PMUY was launched on 1 May 2016 with a target of one crore LPG connections to women in poor households, later expanded to include other benefits.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2016
+  },
+  {
+    "q": "The National Jal Jeevan Mission, aiming to provide a functional household tap connection in every rural household, was launched in which year?",
+    "options": [
+      "2019",
+      "2020",
+      "2017",
+      "2018"
+    ],
+    "answer": 0,
+    "explanation": "The Jal Jeevan Mission was launched in August 2019 to provide a functional household tap connection to every rural home, under which women are trained as Jal Sathis.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2019
+  },
+  {
+    "q": "The Swachh Bharat Mission was launched on which date?",
+    "options": [
+      "2 December 2014",
+      "15 August 2014",
+      "2 October 2014",
+      "26 January 2015"
+    ],
+    "answer": 2,
+    "explanation": "The Swachh Bharat Mission was formally launched on 2 October 2014, the birth anniversary of Mahatma Gandhi, with separate urban and rural components.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2014
+  },
+  {
+    "q": "The PM-KISAN scheme, providing income support of Rs 6,000 a year to landholding farmer families, was launched in which year?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2017"
+    ],
+    "answer": 1,
+    "explanation": "PM-KISAN was launched in February 2019 as a direct income support scheme, with the first instalment paid to eligible farmer families in the same year.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2019
+  },
+  {
+    "q": "The Pradhan Mantri Fasal Bima Yojana, the crop insurance scheme for farmers, was launched in which year?",
+    "options": [
+      "2015",
+      "2016",
+      "2014",
+      "2017"
+    ],
+    "answer": 1,
+    "explanation": "PMFBY was launched in the 2016 kharif season, replacing the National Agricultural Insurance Scheme, and provides cover against crop loss from natural calamities.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2016
+  },
+  {
+    "q": "The Ayushman Bharat Pradhan Mantri Jan Arogya Yojana, the flagship health assurance scheme, was launched on:",
+    "options": [
+      "26 January 2018",
+      "15 August 2018",
+      "23 September 2018",
+      "1 January 2019"
+    ],
+    "answer": 2,
+    "explanation": "PM-JAY was launched on 23 September 2018 with an outlay of about Rs 5,400 crore a year, providing health cover of Rs 5 lakh per family per year for about 55 crore people.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2018
+  },
+  {
+    "q": "The MUDRA loan scheme, providing collateral-free loans to micro enterprises, was launched on:",
+    "options": [
+      "8 April 2015",
+      "15 April 2016",
+      "1 April 2015",
+      "8 May 2016"
+    ],
+    "answer": 0,
+    "explanation": "PM MUDRA was launched on 8 April 2015 with three categories - Shishu, Kishor and Tarun - for loans up to Rs 50,000, Rs 5 lakh and Rs 10 lakh respectively.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "The Pradhan Mantri Jan Dhan Yojana, the national financial inclusion mission, was launched on:",
+    "options": [
+      "1 September 2014",
+      "2 October 2014",
+      "15 August 2014",
+      "28 August 2014"
+    ],
+    "answer": 3,
+    "explanation": "PMJDY was launched on 28 August 2014 with the goal of a bank account for every household and a basic RuPay card and insurance cover for every account holder.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2014
+  },
+  {
+    "q": "The PM Vishwakarma scheme, with 14 sub-schemes for traditional artisans and craftspeople, was launched in which year?",
+    "options": [
+      "2021",
+      "2024",
+      "2022",
+      "2023"
+    ],
+    "answer": 3,
+    "explanation": "The Union government launched 14 PM Vishwakarma schemes, including PM SVANidhi, PM Kaushal Vikas, PM Marksha Dhatu and PM Baglessa Dhan Vikas, on 2 November 2023.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The PM Kisan Maandhan Yojana, a contributory pension scheme for small and marginal farmers, was launched in which year?",
+    "options": [
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "answer": 2,
+    "explanation": "PM KMY was launched in September 2019 with a monthly contribution of Rs 55 to 200 by the farmer matched by the Central Government for old age pension after 60 years.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2019
+  },
+  {
+    "q": "The Sukanya Samriddhi Yojana, a small savings scheme for a girl child, was launched in which year?",
+    "options": [
+      "2017",
+      "2015",
+      "2016",
+      "2014"
+    ],
+    "answer": 1,
+    "explanation": "The Sukanya Samriddhi Yojana was launched on 22 January 2015 under the Balasakti Yojana, with a small deposit allowed for a girl below ten years of age.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "The Beti Bachao Beti Padhao campaign was launched in which year?",
+    "options": [
+      "2015",
+      "2016",
+      "2013",
+      "2014"
+    ],
+    "answer": 0,
+    "explanation": "The campaign was launched on 5 May 2015 to address sex-selective abortion and promote the survival, protection and education of the girl child.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "The Mid-Day Meal scheme was renamed as the PM POSHAN scheme in which year?",
+    "options": [
+      "2022",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "answer": 3,
+    "explanation": "The National Mid-Day Meal Programme was renamed PM POSHAN (Pradhan Mantri Poshan Shakti Nirman) on 29 September 2021, expanding it to include pre-primary and upper primary classes.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The Samagra Shiksha scheme, an integrated education programme, was launched in which year?",
+    "options": [
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "answer": 2,
+    "explanation": "Samagra Shiksha was launched in July 2021 by integrating and strengthening school education programmes from pre-primary to higher education under one mission.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The National Education Policy, which replaced the earlier 1986 policy framework, was adopted in which year?",
+    "options": [
+      "2019",
+      "2020",
+      "2021",
+      "2018"
+    ],
+    "answer": 1,
+    "explanation": "The National Education Policy 2020 was adopted on 29 July 2020, introducing a new 5+3+3+4 school structure with vocational education from grade 6 and multilingualism.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2020
+  },
+  {
+    "q": "The PM Gati Shakti National Master Plan was launched in which year?",
+    "options": [
+      "2021",
+      "2019",
+      "2022",
+      "2020"
+    ],
+    "answer": 0,
+    "explanation": "The PM Gati Shakti National Master Plan was launched on 13 October 2021 to coordinate infrastructure planning across roads, railways, waterways, airports, logistics and energy corridors.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The Bharatmala Pariyojana, India's road development programme, was approved in which year?",
+    "options": [
+      "2016",
+      "2014",
+      "2015",
+      "2013"
+    ],
+    "answer": 2,
+    "explanation": "Bharatmala Pariyojana was approved in February 2015 with an outlay for about 6,000 km of high-speed corridors, later expanded under the 'Atmanirbhar Bharat' road plan.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "The UDAN regional aviation connectivity scheme was launched in which year?",
+    "options": [
+      "2016",
+      "2017",
+      "2018",
+      "2015"
+    ],
+    "answer": 0,
+    "explanation": "UDAN was launched in October 2016 to stimulate regional air connectivity through viability gap funding and incentives for aircraft and routes.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2016
+  },
+  {
+    "q": "The Pradhan Mantri Krishi Sinchayee Yojana, for irrigation efficiency, was launched in which year?",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "answer": 1,
+    "explanation": "PMKSY was launched on 1 July 2015 with three components - Per Drop More Crop, Watershed Development and Farm Water Management.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "The Rashtriya Krishi Vikas Yojana was restructured in 2018 as:",
+    "options": [
+      "a crop insurance scheme",
+      "a minimum support price guarantee scheme",
+      "a long-term irrigation programme",
+      "a state-level flexible funding programme for agriculture and allied sectors"
+    ],
+    "answer": 3,
+    "explanation": "RKVY was restructured in 2018-19 from a centrally funded scheme to a state-level flexible intervention with additional long-term convergence sub-schemes.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2018
+  },
+  {
+    "q": "The Soil Health Card scheme, providing farmers with soil analysis-based recommendations, was launched in which year?",
+    "options": [
+      "2015",
+      "2016",
+      "2013",
+      "2014"
+    ],
+    "answer": 0,
+    "explanation": "The Soil Health Card scheme was launched in 2015, with the first phase covering 2.2 crore farmers across districts and issuing crop-wise soil nutrient and fertiliser recommendations.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "The electronic National Agricultural Market (e-NAM) platform was launched in which year?",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "answer": 2,
+    "explanation": "e-NAM was launched on 14 April 2016 as a national online trading platform connecting mandis across states for transparent price discovery in agri commodities.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2016
+  },
+  {
+    "q": "The One Stop Centre scheme, a support centre for women affected by violence, was launched in which year?",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "answer": 1,
+    "explanation": "The One Stop Centre scheme was launched in 2015 to integrate services such as medical aid, police assistance, legal aid, counselling and psychological support for affected women.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": 2015
+  },
+  {
+    "q": "In the Global Innovation Index 2023 published by the World Intellectual Property Organization, India was ranked:",
+    "options": [
+      "46th",
+      "81st",
+      "61st",
+      "39th"
+    ],
+    "answer": 3,
+    "explanation": "India ranked 39th in the GII 2023, its best position in the index, with strength in patents, trademarks and scientific publications.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "WIPO",
+    "year": 2023
+  },
+  {
+    "q": "According to the Human Development Report 2021-22, India was ranked in the human development index at which position?",
+    "options": [
+      "118th",
+      "126th",
+      "131st",
+      "142nd"
+    ],
+    "answer": 2,
+    "explanation": "The HDR 2021-22, published in March 2022, placed India 131st out of 191 countries with an HDI value of 0.660, a rise of one place over the previous report.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "UNDP",
+    "year": 2022
+  },
+  {
+    "q": "In the Global Hunger Index 2023, India was ranked at which position among the countries covered?",
+    "options": [
+      "111th",
+      "121st",
+      "104th",
+      "107th"
+    ],
+    "answer": 0,
+    "explanation": "The GHI 2023 ranked India 111th out of 125 countries, with 13.7 per cent of the population estimated to be undernourished and 16.6 per cent children under five stunted.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "Global Hunger Index",
+    "year": 2023
+  },
+  {
+    "q": "In the World Happiness Report 2024, India was ranked at which position?",
+    "options": [
+      "143rd",
+      "134th",
+      "118th",
+      "126th"
+    ],
+    "answer": 3,
+    "explanation": "The World Happiness Report 2024, based on the 2022-23 Gallup World Poll data, placed India 126th among 143 countries, improving from 143rd in the 2023 report.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "World Happiness Report",
+    "year": 2024
+  },
+  {
+    "q": "In the Environmental Performance Index 2024, India was ranked:",
+    "options": [
+      "167th",
+      "176th",
+      "148th",
+      "120th"
+    ],
+    "answer": 1,
+    "explanation": "The EPI 2024, released in June 2024, placed India 176th out of 180 countries, with a very low score in the air pollution category.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "Environmental Performance Index",
+    "year": 2024
+  },
+  {
+    "q": "The World Air Quality Report, published annually by IQAir, ranks countries and cities primarily on the basis of:",
+    "options": [
+      "Total greenhouse gas emissions",
+      "Average annual PM2.5 concentration",
+      "Number of days exceeding the AQI",
+      "Industrial sulphur dioxide emissions"
+    ],
+    "answer": 1,
+    "explanation": "The IQAir report ranks countries and cities by their average annual PM2.5 concentration measured by reference-grade monitoring stations, with the most polluted countries listed first.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "IQAir",
+    "year": null
+  },
+  {
+    "q": "In the IMD World Competitiveness Ranking 2023, India was ranked:",
+    "options": [
+      "49th",
+      "53rd",
+      "41st",
+      "34th"
+    ],
+    "answer": 2,
+    "explanation": "India ranked 41st out of 69 countries in the IMD World Competitiveness Ranking 2023, improving from 43rd place in the 2022 edition.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "IMD",
+    "year": 2023
+  },
+  {
+    "q": "In the World Economic Forum's Global Gender Gap Report 2023, India was ranked:",
+    "options": [
+      "143rd",
+      "129th",
+      "116th",
+      "102nd"
+    ],
+    "answer": 0,
+    "explanation": "The Global Gender Gap Report 2023 placed India 143rd out of 146 countries, with a gender gap of about 68.4 per cent closed, though economic participation and opportunity remained the weakest pillar.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "World Economic Forum",
+    "year": 2023
+  },
+  {
+    "q": "According to the India Multidimensional Poverty Index 2022, the number of people in multidimensional poverty in India in 2021-22 was:",
+    "options": [
+      "248 million",
+      "364 million",
+      "187 million",
+      "415 million"
+    ],
+    "answer": 3,
+    "explanation": "The India MPI 2022, prepared by NITI Aayog with UNDP and Oxford, estimated 415 million people (24.82 per cent) to be multidimensionally poor, with 248 million escaping poverty between 2015-16 and 2019-21.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "NITI Aayog",
+    "year": 2022
+  },
+  {
+    "q": "The first edition of the SDG India Index was published by NITI Aayog in which year?",
+    "options": [
+      "2018",
+      "2017",
+      "2019",
+      "2020"
+    ],
+    "answer": 0,
+    "explanation": "The SDG India Index, the first government-developed country-level SDG index, was released in 2018 with a baseline for 2017-18 and has been updated annually since.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "NITI Aayog",
+    "year": 2018
+  },
+  {
+    "q": "In the 2023 World Press Freedom Index published by Reporters Without Borders, India was ranked:",
+    "options": [
+      "142nd",
+      "161st",
+      "168th",
+      "150th"
+    ],
+    "answer": 1,
+    "explanation": "India slipped to 161st of 180 countries in the 2023 World Press Freedom Index, its lowest ranking in the series to date.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "Reporters Without Borders",
+    "year": 2023
+  },
+  {
+    "q": "The Wildlife Institute of India's 2024 assessment of wildlife population reported increases in the populations of:",
+    "options": [
+      "snow leopard, musk deer and blue sheep",
+      "gharial, mugger crocodile and otter",
+      "tiger, elephant and rhinoceros",
+      "lion-tailed macaque, spotted deer, wild pig and grizzled giant squirrel"
+    ],
+    "answer": 3,
+    "explanation": "The first-ever Wildlife Population Assessment in India, released in August 2024, found that the populations of the lion-tailed macaque, spotted deer, wild pig and grizzled giant squirrel had grown over two decades.",
+    "difficulty": "hard",
+    "category": "indices-and-reports",
+    "source": "Wildlife Institute of India",
+    "year": 2024
+  },
+  {
+    "q": "The first edition of the India Biodiversity Index was released in which year?",
+    "options": [
+      "2024",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answer": 2,
+    "explanation": "The India Biodiversity Index, the first such national assessment of 92 Biodiversity Indicators, was released in October 2022 by the Ministry of Environment, Forest and Climate Change.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The third Global Tiger Forum, hosted by India, was held in which year?",
+    "options": [
+      "2023",
+      "2021",
+      "2022",
+      "2024"
+    ],
+    "answer": 2,
+    "explanation": "The 3rd Global Tiger Forum was held in New Delhi in November 2022, launching the 'Tiger Reserve' and 'Future Tiger' roadmaps and reviewing progress on the Global Tiger Forum goals.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Synthesis Report of the IPCC's Sixth Assessment Cycle was released in which year?",
+    "options": [
+      "2022",
+      "2023",
+      "2024",
+      "2021"
+    ],
+    "answer": 1,
+    "explanation": "The IPCC AR6 Synthesis Report was released in March 2023, finding that human activities have unequivocally caused global warming of about 1.1 degrees Celsius above pre-industrial levels.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "IPCC",
+    "year": 2023
+  },
+  {
+    "q": "The Global Tiger Forum 2024 was held in which city?",
+    "options": [
+      "Bangkok",
+      "Geneva",
+      "Bhubaneswar",
+      "New Delhi"
+    ],
+    "answer": 3,
+    "explanation": "India hosted the Global Tiger Forum Summit in New Delhi in February 2024, which reviewed the progress of the four tiger range countries and launched the next phase of the programme.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "PIB",
+    "year": 2024
+  },
+  {
+    "q": "The annual report on air pollution in India titled 'State of India's Air' is published by:",
+    "options": [
+      "Centre for Science and Environment",
+      "CPCB",
+      "Ministry of Environment, Forest and Climate Change",
+      "NITI Aayog"
+    ],
+    "answer": 0,
+    "explanation": "The Centre for Science and Environment publishes the annual 'State of India's Air' report with data from its network of monitoring stations.",
+    "difficulty": "medium",
+    "category": "indices-and-reports",
+    "source": "CSE",
+    "year": null
+  },
+  {
+    "q": "The Corruption Perceptions Index is published by:",
+    "options": [
+      "World Justice Project",
+      "International Budget Partnership",
+      "Transparency International",
+      "World Bank"
+    ],
+    "answer": 2,
+    "explanation": "Transparency International publishes the annual Corruption Perceptions Index, scoring countries on perceived public-sector corruption, and the associated CPI 2023 report was released in February 2024.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "Transparency International",
+    "year": null
+  },
+  {
+    "q": "The Global Peace Index is produced by which organisation?",
+    "options": [
+      "Institute for Economics and Peace",
+      "Institute for Strategic Studies",
+      "International Peace Bureau",
+      "World Economic Forum"
+    ],
+    "answer": 0,
+    "explanation": "The Global Peace Index is produced by the Institute for Economics and Peace, ranking countries on indicators of ongoing conflict and societal safety and security.",
+    "difficulty": "easy",
+    "category": "indices-and-reports",
+    "source": "Institute for Economics and Peace",
+    "year": null
+  },
+  {
+    "q": "The Nobel Prize in Physics for 2023 was awarded to:",
+    "options": [
+      "Klaus Hasselmann and Syukuro Manabe",
+      "Pierre Agostini, Ferenc Krausz and Anne L'Huillier",
+      "John Hopfield and Geoffrey Hinton",
+      "Alain Aspect, John Clauser and Zeilinger"
+    ],
+    "answer": 1,
+    "explanation": "The 2023 Physics Nobel was awarded to Pierre Agostini, Ferenc Krausz and Anne L'Huillier for experimental methods generating attosecond pulses for the study of electron dynamics in matter.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Prize",
+    "year": 2023
+  },
+  {
+    "q": "The Nobel Prize in Chemistry for 2023 was awarded to:",
+    "options": [
+      "Barry Sharpless, Morten Meldal and Carolyn Bertozzi",
+      "Koichi Tanaka, Kurt Wuthrich and Richard Robson",
+      "John Goodenough, Stanley Whittingham and Akira Yoshino",
+      "Moungi Bawendi, Alexei Ekimov and Louis Brus"
+    ],
+    "answer": 3,
+    "explanation": "The 2023 Chemistry Nobel recognised the discovery and development of quantum dots, the nanoparticles used in displays, sensors and solar cells.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Prize",
+    "year": 2023
+  },
+  {
+    "q": "The Nobel Prize in Literature for 2023 was awarded to:",
+    "options": [
+      "Jon Fosse",
+      "Karl Ove Knausgaard",
+      "Geir Gulliksen",
+      "Peter Handke"
+    ],
+    "answer": 0,
+    "explanation": "The Norwegian playwright and novelist Jon Fosse received the 2023 Literature Nobel Prize for innovative plays and prose giving voice to the unsayable.",
+    "difficulty": "easy",
+    "category": "awards-and-honours",
+    "source": "Nobel Prize",
+    "year": 2023
+  },
+  {
+    "q": "The Nobel Peace Prize for 2023 was awarded to:",
+    "options": [
+      "Abiy Ahmed",
+      "Volodymyr Zelenskyy",
+      "Narges Mohammadi",
+      "Ales Bialiatski"
+    ],
+    "answer": 2,
+    "explanation": "Iranian human rights lawyer Narges Mohammadi received the 2023 Peace Nobel for her unyielding fight for the rights of women and for freedom of expression in Iran.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Prize",
+    "year": 2023
+  },
+  {
+    "q": "The Nobel Prize in Physics for 2024 was awarded to:",
+    "options": [
+      "Pierre Agostini and Ferenc Krausz",
+      "Reinhard Genzel and Roger Penrose",
+      "Alain Aspect and John Clauser",
+      "John Hopfield and Geoffrey Hinton"
+    ],
+    "answer": 3,
+    "explanation": "The 2024 Physics Nobel was awarded to John Hopfield and Geoffrey Hinton for foundational discoveries and inventions that enable machine learning with artificial neural networks.",
+    "difficulty": "easy",
+    "category": "awards-and-honours",
+    "source": "Nobel Prize",
+    "year": 2024
+  },
+  {
+    "q": "The Nobel Prize in Chemistry for 2024 was awarded to:",
+    "options": [
+      "Barry Sharpless and Ryoji Noyori",
+      "David Baker, Demis Hassabis and John Jumper",
+      "Moungi Bawendi and Louis Brus",
+      "Carolyn Bertozzi and Morten Meldal"
+    ],
+    "answer": 1,
+    "explanation": "The 2024 Chemistry Nobel honoured computational protein design and the prediction of protein structures with artificial intelligence, splitting the award between David Baker and the DeepMind scientists.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Prize",
+    "year": 2024
+  },
+  {
+    "q": "The Nobel Prize in Physiology or Medicine for 2024 was awarded to:",
+    "options": [
+      "Michael Houghton and Charles Rice",
+      "Katalin Kariko and Drew Weissman",
+      "Victor Ambros and Gary Ruvkun",
+      "Har Gobind Khorana and Marshall Nirenberg"
+    ],
+    "answer": 2,
+    "explanation": "Victor Ambros and Gary Ruvkun received the 2024 Medicine Nobel for the discovery of microRNA and its role in regulating gene expression after development.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Prize",
+    "year": 2024
+  },
+  {
+    "q": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel for 2024 was awarded to:",
+    "options": [
+      "Claudia Goldin",
+      "Oliver Hart and Bengt Holmstrom",
+      "Esther Duflo and Abhijit Banerjee",
+      "Daron Acemoglu, Simon Johnson and James Robinson"
+    ],
+    "answer": 3,
+    "explanation": "The 2024 Economics Nobel was awarded to Acemoglu, Johnson and Robinson for studies of how institutions are formed and affect prosperity, revisiting the role of democracy in economic development.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Prize",
+    "year": 2024
+  },
+  {
+    "q": "The Nobel Peace Prize for 2024 was awarded to:",
+    "options": [
+      "Nihon Hidankyo",
+      "Narges Mohammadi",
+      "ICAN",
+      "Samantha Power"
+    ],
+    "answer": 0,
+    "explanation": "The Japanese anti-nuclear group Nihon Hidankyo received the 2024 Peace Nobel Prize for its efforts to achieve a nuclear-free world and for its courage in protesting and conveying the consequences of atomic weapons to future generations.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Prize",
+    "year": 2024
+  },
+  {
+    "q": "The Nobel Prize in Literature for 2024 was awarded to:",
+    "options": [
+      "Annie Ernaux",
+      "Han Kang",
+      "Olga Tokarczuk",
+      "Jokha Alharthi"
+    ],
+    "answer": 1,
+    "explanation": "The South Korean author Han Kang won the 2024 Literature Nobel for her intense poetic prose confronting historical traumas and exposing the fragility of human life.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Nobel Prize",
+    "year": 2024
+  },
+  {
+    "q": "The Nobel Prize in Physiology or Medicine for 2023 was awarded to:",
+    "options": [
+      "David Julius and Ardem Patapoutian",
+      "Michael Houghton and Charles Rice",
+      "Katalin Kariko and Drew Weissman",
+      "William Kaelin and Gregg Semenza"
+    ],
+    "answer": 2,
+    "explanation": "Katalin Kariko and Drew Weissman received the 2023 Medicine Nobel for discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19.",
+    "difficulty": "easy",
+    "category": "awards-and-honours",
+    "source": "Nobel Prize",
+    "year": 2023
+  },
+  {
+    "q": "The Nobel Peace Prize for 2020 was awarded to:",
+    "options": [
+      "the United Nations Peacekeeping Mission",
+      "the World Food Programme",
+      "the International Committee of the Red Cross",
+      "Médecins Sans Frontières"
+    ],
+    "answer": 1,
+    "explanation": "The World Food Programme was awarded the 2020 Peace Nobel for its efforts to combat hunger and for its contribution to the highest ideals of humanitarianism, with a specific mention of its work during the pandemic.",
+    "difficulty": "easy",
+    "category": "awards-and-honours",
+    "source": "Nobel Prize",
+    "year": 2020
+  },
+  {
+    "q": "The Bharat Ratna awards conferred in 2019 were given to:",
+    "options": [
+      "Chaudhary Charan Singh and P.V. Narasimha Rao",
+      "M. S. Swaminathan and K. R. Narayanan",
+      "Lal Bahadur Shastri and V. K. Krishna Menon",
+      "Pranab Mukherjee, Nanaji Deshmukh, Bhupinder Singh Hooda and Asha Bhosle"
+    ],
+    "answer": 3,
+    "explanation": "The 2019 Bharat Ratna awards honoured former President Pranab Mukherjee, educationist Nanaji Deshmukh, former Haryana Chief Minister Bhupinder Singh Hooda and playback singer Asha Bhosle.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "PIB",
+    "year": 2019
+  },
+  {
+    "q": "The Bharat Ratna awards conferred in 2021 were given to:",
+    "options": [
+      "Chaudhary Charan Singh and P.V. Narasimha Rao",
+      "Bhupinder Singh Hooda and Asha Bhosle",
+      "Nelson Mandela and Mother Teresa",
+      "C. V. Raman and Rabindranath Tagore"
+    ],
+    "answer": 0,
+    "explanation": "The 2021 Bharat Ratna awards were conferred on former Prime Minister P.V. Narasimha Rao and former Prime Minister Chaudhary Charan Singh, the first non-Congress national leader to receive the honour.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "At the 69th National Film Awards, the Best Actress award was won by:",
+    "options": [
+      "Kangana Ranaut for Tanu Weds Manu Returns",
+      "Alia Bhatt for Gangubai Kathiawadi",
+      "Taapsee Pannu for Bhonsle",
+      "Mrunal Thakur for Sardar Ka Grandson"
+    ],
+    "answer": 0,
+    "explanation": "Kangana Ranaut won Best Actress at the 69th National Film Awards for Tanu Weds Manu Returns, while Manoj Bajpayee won Best Actor for Bhonsle and Lijo Jose Pellissery took Best Director for Jallikattu.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Best Feature Film award at the 69th National Film Awards was won by:",
+    "options": [
+      "12th Fail",
+      "Rocketry",
+      "Jallikattu",
+      "Soorarai Pottru"
+    ],
+    "answer": 3,
+    "explanation": "The Tamil film Soorarai Pottru won the Best Feature Film award at the 69th National Film Awards, which covered films certified in 2020 and were presented in 2022.",
+    "difficulty": "hard",
+    "category": "awards-and-honours",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Dadasaheb Phalke Award for 2022 was conferred on:",
+    "options": [
+      "Lata Mangeshkar",
+      "Smita Patil",
+      "Waheeda Rehman",
+      "Asha Parekh"
+    ],
+    "answer": 2,
+    "explanation": "Waheeda Rehman received the 54th Dadasaheb Phalke Award for the year 2022, honouring her outstanding contribution to Indian cinema.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "PIB",
+    "year": 2022
+  },
+  {
+    "q": "The Dadasaheb Phalke Award for 2023 was conferred on:",
+    "options": [
+      "Dharmendra",
+      "Mithun Chakraborty",
+      "Sharmila Tagore",
+      "Waheeda Rehman"
+    ],
+    "answer": 1,
+    "explanation": "Mithun Chakraborty was honoured with the 55th Dadasaheb Phalke Award for the year 2023 for his contribution to Indian cinema over five decades.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The 58th Jnanpith Award, presented in 2023, was conferred on:",
+    "options": [
+      "Girish Karnad",
+      "M. T. Vasudevan Nair",
+      "Jagadguru Rambhadracharya",
+      "V. S. Naipaul"
+    ],
+    "answer": 2,
+    "explanation": "Jagadguru Rambhadracharya received the 58th Jnanpith Award for his work 'Bante Katha' and for his contribution to Sanskrit literature, education and philosophy.",
+    "difficulty": "medium",
+    "category": "awards-and-honours",
+    "source": "Jnanpith",
+    "year": 2023
+  },
+  {
+    "q": "How many awards were conferred under the Padma Awards in 2021?",
+    "options": [
+      "386",
+      "262",
+      "449",
+      "104"
+    ],
+    "answer": 0,
+    "explanation": "The Padma Awards 2021 comprised 13 Padma Vibhushan, 104 Padma Bhushan and 269 Padma Shri, totalling 386 awards, including 21 women and 10 foreign recipients.",
+    "difficulty": "hard",
+    "category": "awards-and-honours",
+    "source": "PIB",
+    "year": 2021
+  },
+  {
+    "q": "The number of medals won by India at the Paris 2024 Olympic Games was:",
+    "options": [
+      "35",
+      "24",
+      "19",
+      "29"
+    ],
+    "answer": 3,
+    "explanation": "India won 29 medals at the Paris 2024 Olympics - seven gold, 10 silver and 12 bronze - its best performance at a single edition of the Games.",
+    "difficulty": "easy",
+    "category": "sports",
+    "source": "Olympics",
+    "year": 2024
+  },
+  {
+    "q": "Neeraj Chopra became the first individual Indian Olympic champion since Abhinav Bindra in:",
+    "options": [
+      "2000",
+      "2008",
+      "2012",
+      "2016"
+    ],
+    "answer": 1,
+    "explanation": "Abhinav Bindra won India's first individual Olympic gold in shooting in 2008, and Neeraj Chopra's javelin title at Tokyo 2020 was India's first individual gold in 12 years.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Olympics",
+    "year": 2021
+  },
+  {
+    "q": "Mirabai Chanu won the silver medal in the women's 49 kg weightlifting event at:",
+    "options": [
+      "Beijing 2008",
+      "Rio 2016",
+      "London 2012",
+      "Tokyo 2020"
+    ],
+    "answer": 3,
+    "explanation": "Mirabai Chanu won silver in the 49 kg category at Tokyo 2020, becoming the first Indian weightlifter to win an Olympic medal of any colour after Sushil Kumar's gold in 2012.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Olympics",
+    "year": 2021
+  },
+  {
+    "q": "The first individual World Championships title in badminton won by an Indian was secured by:",
+    "options": [
+      "P. V. Sindhu in 2019",
+      "Saina Nehwal in 2011",
+      "Lakshya Sen in 2021",
+      "Chetan Anand in 1981"
+    ],
+    "answer": 0,
+    "explanation": "P. V. Sindhu became the first Indian to win the BWF World Championships title in 2019 by defeating Carolina Marin in the final at Birmingham.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "BWF",
+    "year": 2019
+  },
+  {
+    "q": "The total number of medals won by India at the Asian Games held in Hangzhou in 2022 was:",
+    "options": [
+      "51",
+      "38",
+      "45",
+      "27"
+    ],
+    "answer": 1,
+    "explanation": "India won 38 medals at the Hangzhou 2022 Asian Games, its best ever performance at the Asian Games, including golds in shooting, athletics and archery.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Olympic Council of Asia",
+    "year": 2023
+  },
+  {
+    "q": "The number of medals won by India at the 2022 Commonwealth Games in Birmingham was:",
+    "options": [
+      "13",
+      "32",
+      "19",
+      "25"
+    ],
+    "answer": 2,
+    "explanation": "India won 19 medals, including eight golds, at the Birmingham 2022 Commonwealth Games, with four gold medals in athletics and four in shooting.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Commonwealth Games",
+    "year": 2022
+  },
+  {
+    "q": "India's medal haul at the 2018 Asian Games in Gold Coast included:",
+    "options": [
+      "70 medals including 22 gold medals",
+      "49 medals including 8 gold medals",
+      "65 medals including 15 gold medals",
+      "58 medals including 11 gold medals"
+    ],
+    "answer": 2,
+    "explanation": "India finished the 2018 Gold Coast Asian Games with 65 medals - 15 gold, 16 silver and 34 bronze - the country's best performance at the Asian Games until Hangzhou.",
+    "difficulty": "hard",
+    "category": "sports",
+    "source": "Olympic Council of Asia",
+    "year": 2018
+  },
+  {
+    "q": "India won the ICC Men's Cricket World Cup in 2023 by defeating which team in the final?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "England",
+      "New Zealand"
+    ],
+    "answer": 0,
+    "explanation": "India beat South Africa by five wickets in the final at the Wankhede Stadium in Mumbai on 19 November 2023, winning their second World Cup, six years after the 2011 triumph.",
+    "difficulty": "easy",
+    "category": "sports",
+    "source": "ICC",
+    "year": 2023
+  },
+  {
+    "q": "The ICC Men's T20 World Cup title was won by India in 2024 after defeating:",
+    "options": [
+      "Pakistan",
+      "South Africa",
+      "England",
+      "New Zealand"
+    ],
+    "answer": 1,
+    "explanation": "India won the 2024 T20 World Cup at the Kensington Oval in Barbados on 29 June 2024, defeating South Africa by seven runs after Virat Kohli's innings of 76.",
+    "difficulty": "easy",
+    "category": "sports",
+    "source": "ICC",
+    "year": 2024
+  },
+  {
+    "q": "The Indian Premier League title in 2024 was won by:",
+    "options": [
+      "Chennai Super Kings",
+      "Royal Challengers Bengaluru",
+      "Mumbai Indians",
+      "Kolkata Knight Riders"
+    ],
+    "answer": 3,
+    "explanation": "Kolkata Knight Riders won their third IPL title in 2024, defeating Sunrisers Hyderabad by four wickets in the final at Chennai.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "IPL",
+    "year": 2024
+  },
+  {
+    "q": "India won the inaugural ICC World Test Championship, the final of which was played in June 2023. In which year was the trophy first awarded?",
+    "options": [
+      "2023",
+      "2022",
+      "2021",
+      "2019"
+    ],
+    "answer": 2,
+    "explanation": "The 2019-2021 cycle of the World Test Championship was won by India, with the final played at Lord's in June 2023, making India the first holders of the mace.",
+    "difficulty": "hard",
+    "category": "sports",
+    "source": "ICC",
+    "year": 2023
+  },
+  {
+    "q": "The Major Dhyan Chand Khel Ratna Award for 2023 was conferred on:",
+    "options": [
+      "Sharath Kamal and Krishnan Guru",
+      "Satwiksairaj Rankireddy and Chirag Shetty",
+      "P. V. Sindhu and Saina Nehwal",
+      "D. Gukesh and R. Praggnanandhaa"
+    ],
+    "answer": 1,
+    "explanation": "Badminton doubles players Satwiksairaj Rankireddy and Chirag Shetty were jointly awarded the Khel Ratna for 2023, India's highest sporting honour.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The Major Dhyan Chand Khel Ratna Award for 2024 was conferred on:",
+    "options": [
+      "Avinash Kumar and Sumit Ankle",
+      "Neeraj Chopra and Murali Sriram",
+      "Manish Narwal and Krishnan Guru",
+      "Praveen Kumar and Mohit Suri"
+    ],
+    "answer": 3,
+    "explanation": "Shooting duo Praveen Kumar and Mohit Suri received the Khel Ratna for 2024 for their performances at the Paris 2024 Olympics, with para-athlete Avinash Kumar also receiving the honour.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "PIB",
+    "year": 2024
+  },
+  {
+    "q": "The Arjuna Award for 2023 was conferred on:",
+    "options": [
+      "Sharath Kamal",
+      "R. Praggnanandhaa",
+      "Swapnil Bhosale",
+      "Neeraj Chopra"
+    ],
+    "answer": 0,
+    "explanation": "Table tennis player Sharath Kamal received the Arjuna Award for 2023 for his outstanding contribution to the sport over two decades, having won four Olympic medals.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The FIDE World Chess Championship 2024, held in Singapore, was won by:",
+    "options": [
+      "Praggnanandhaa Rameshbabu",
+      "Pentala Harikrishna",
+      "Viswanathan Anand",
+      "D. Gukesh"
+    ],
+    "answer": 3,
+    "explanation": "Indian grandmaster D. Gukesh defeated Ding Liren to become the youngest undisputed World Chess Champion and the first Indian to hold the title.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "FIDE",
+    "year": 2024
+  },
+  {
+    "q": "Abhinav Bindra won India's first individual Olympic gold medal in which year and which event?",
+    "options": [
+      "2008, 10 m air rifle shooting",
+      "2000, 50 m rifle prone",
+      "2012, 25 m rapid fire pistol",
+      "2004, trap shooting"
+    ],
+    "answer": 0,
+    "explanation": "Abhinav Bindra won the men's 10 m air rifle gold at the 2008 Beijing Olympics, becoming India's first individual Olympic gold medallist in any sport.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Olympics",
+    "year": 2008
+  },
+  {
+    "q": "India's bronze medal in men's field hockey at the Tokyo 2020 Olympics came how many years after the previous Olympic hockey medal in 1972?",
+    "options": [
+      "52 years",
+      "56 years",
+      "48 years",
+      "40 years"
+    ],
+    "answer": 2,
+    "explanation": "The Tokyo 2020 hockey bronze was India's first Olympic hockey medal since the 1972 Munich bronze, a gap of 48 years, and the country's first Olympic medal of any sport since 1980.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Olympics",
+    "year": 2021
+  },
+  {
+    "q": "The number of medals won by India at the Paris 2024 Paralympic Games was:",
+    "options": [
+      "18",
+      "27",
+      "21",
+      "34"
+    ],
+    "answer": 1,
+    "explanation": "India won 27 medals at the Paris 2024 Paralympics - seven gold, 10 silver and 10 bronze - its best-ever Paralympic performance, double the eight medals won in Tokyo.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Paralympic Games",
+    "year": 2024
+  },
+  {
+    "q": "The first Indian badminton player to win an individual Olympic gold medal was:",
+    "options": [
+      "P. V. Sindhu at Rio 2016",
+      "Saina Nehwal at London 2012",
+      "Pusarla Sindhu at Tokyo 2020",
+      "Jwala Prasad at Athens 2004"
+    ],
+    "answer": 0,
+    "explanation": "P. V. Sindhu won the women's singles gold at Rio 2016, becoming the first Indian badminton player to win an individual Olympic gold medal and the first Indian woman to win two Olympic medals.",
+    "difficulty": "medium",
+    "category": "sports",
+    "source": "Olympics",
+    "year": 2016
+  },
+  {
+    "q": "The Pulitzer Prize for Fiction in 2023 was won by:",
+    "options": [
+      "Trust by Hernan Diaz",
+      "Demon Copperhead by Barbara Kingsolver",
+      "The Nickel Boys by Colson Whitehead",
+      "The Underground Railroad by Brit Bennett"
+    ],
+    "answer": 1,
+    "explanation": "Barbara Kingsolver's Demon Copperhead, a reimagining of Charles Dickens' David Copperfield set in Appalachia, won the 2023 Pulitzer Prize for Fiction.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "Pulitzer Prize",
+    "year": 2023
+  },
+  {
+    "q": "The Pulitzer Prize for Fiction in 2024 was won by:",
+    "options": [
+      "Demon Copperhead by Barbara Kingsolver",
+      "The Heaven & Earth Grocery Store by James McBride",
+      "Trust by Hernan Diaz",
+      "Night Watch by Jayne Anne Phillips"
+    ],
+    "answer": 3,
+    "explanation": "Jayne Anne Phillips won the 2024 Pulitzer Prize for Fiction for Night Watch, an historical novel set in the reconstruction-era American South.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "Pulitzer Prize",
+    "year": 2024
+  },
+  {
+    "q": "The Booker Prize for 2023 was won by:",
+    "options": [
+      "The Promise by Damon Galgut",
+      "Shuggie Bain by Douglas Stuart",
+      "Prophet Song by Paul Lynch",
+      "Orbital by Samantha Harvey"
+    ],
+    "answer": 2,
+    "explanation": "The Irish writer Paul Lynch won the 2023 Booker Prize for Prophet Song, a novel about a teacher in 19th century rural Ireland and his turbulent society.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "Booker Prize",
+    "year": 2023
+  },
+  {
+    "q": "The Booker Prize for 2024 was won by:",
+    "options": [
+      "The Safekeep by Yael van der Wouden",
+      "Orbital by Samantha Harvey",
+      "Prophet Song by Paul Lynch",
+      "Treacle Walker by Alan Garner"
+    ],
+    "answer": 1,
+    "explanation": "Samantha Harvey won the 2024 Booker Prize for Orbital, a slender novel set aboard the International Space Station, described by the judges as a profound meditation on our shared humanity.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "Booker Prize",
+    "year": 2024
+  },
+  {
+    "q": "The International Booker Prize for 2022 was won by:",
+    "options": [
+      "Tomb of Sand by Geetanjali Shree",
+      "At Night All Blood is Black by David Diop",
+      "Celestial Bodies by Jokha Alharthi",
+      "The Discomfort of Evening by Marieke Lucas Rijneveld"
+    ],
+    "answer": 0,
+    "explanation": "Geetanjali Shree's Tomb of Sand, translated by Daisy Rockwell, won the 2022 International Booker Prize, making her the first Indian author to receive it.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "International Booker Prize",
+    "year": 2022
+  },
+  {
+    "q": "The International Booker Prize for 2021 was won by:",
+    "options": [
+      "The Vegetarian by Han Kang",
+      "A Horse Walks into a Bar by David Grossman",
+      "At Night All Blood is Black by David Diop",
+      "Tomb of Sand by Geetanjali Shree"
+    ],
+    "answer": 2,
+    "explanation": "The French-Senegalese author David Diop won the 2021 International Booker Prize for At Night All Blood is Black, translated by Anna Moschovakis.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "International Booker Prize",
+    "year": 2021
+  },
+  {
+    "q": "The 2023 National Book Award for Fiction in the United States was won by:",
+    "options": [
+      "Trust by Hernan Diaz",
+      "The Great Reclamation by Rachel Heng",
+      "Demon Copperhead by Barbara Kingsolver",
+      "The Heaven & Earth Grocery Store by James McBride"
+    ],
+    "answer": 3,
+    "explanation": "James McBride won the 2023 National Book Award for Fiction for The Heaven & Earth Grocery Store, a multigenerational story set in West Virginia and the Black Mountain hills of North Carolina.",
+    "difficulty": "hard",
+    "category": "books-and-authors-current",
+    "source": "National Book Awards",
+    "year": 2023
+  },
+  {
+    "q": "The 2024 DSC Prize for South Asian Literature was won by:",
+    "options": [
+      "The Book of Legends by Kannan Gopinathan",
+      "The Hollow Places by Shubhangi Swarup",
+      "Family by S. Hareesh",
+      "Jadunath Sarkar Jejakane Badal Kahini by Ramchandra Guha"
+    ],
+    "answer": 2,
+    "explanation": "S. Hareesh's short story collection Family, translated from Malayalam by Deepa Bhasthi, won the 2024 DSC Prize for South Asian Literature, carrying a prize of Rs 25 lakh.",
+    "difficulty": "hard",
+    "category": "books-and-authors-current",
+    "source": "DSC Prize",
+    "year": 2024
+  },
+  {
+    "q": "The 2016 Man Booker International Prize was won by:",
+    "options": [
+      "Celestial Bodies by Jokha Alharthi",
+      "The Vegetarian by Han Kang",
+      "A Horse Walks into a Bar by David Grossman",
+      "Flights by Olga Tokarczuk"
+    ],
+    "answer": 1,
+    "explanation": "The Vegetarian by Han Kang, translated by Deborah Smith, won the 2016 Man Booker International Prize; Han Kang went on to receive the 2024 Nobel Prize in Literature.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "Booker Prize",
+    "year": 2016
+  },
+  {
+    "q": "The 2008 Man Booker Prize was won by:",
+    "options": [
+      "The Sea by John Banville",
+      "The Secret Scripture by Sebastian Barry",
+      "Brick Lane by Monica Ali",
+      "The White Tiger by Aravind Adiga"
+    ],
+    "answer": 3,
+    "explanation": "Aravind Adiga won the 2008 Man Booker Prize for The White Tiger, a satirical account of an ambitious driver who becomes a driver for the rich, written while the author was working on a newspaper job in India.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "Booker Prize",
+    "year": 2008
+  },
+  {
+    "q": "The 1997 Booker Prize was won by:",
+    "options": [
+      "The God of Small Things by Arundhati Roy",
+      "The English Patient by Michael Ondaatje",
+      "Every Man for Himself by Hugo Hamilton",
+      "Europa by Tim Parks"
+    ],
+    "answer": 0,
+    "explanation": "Arundhati Roy's debut novel The God of Small Things won the 1997 Booker Prize, a landmark for Indian writing in English.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "Booker Prize",
+    "year": 1997
+  },
+  {
+    "q": "The 2013 Pulitzer Prize for Fiction was won by:",
+    "options": [
+      "The Orphan Master's Son by Vendula Vida",
+      "Snow Flower by Shahriar Mandanipour",
+      "The Lowland by Jhumpa Lahiri",
+      "The Tiger's Wife by Téa Obreht"
+    ],
+    "answer": 2,
+    "explanation": "Jhumpa Lahiri's The Lowland won the 2013 Pulitzer Prize for Fiction; she had earlier won the same prize in 2000 for Interpreter of Maladies.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "Pulitzer Prize",
+    "year": 2013
+  },
+  {
+    "q": "The 2021 Pulitzer Prize for Fiction was won by:",
+    "options": [
+      "The Underground Railroad by Brit Bennett",
+      "The Nickel Boys by Colson Whitehead",
+      "Night Watch by Jayne Anne Phillips",
+      "The Heaven & Earth Grocery Store by James McBride"
+    ],
+    "answer": 0,
+    "explanation": "Brit Bennett won the 2021 Pulitzer Prize for Fiction for The Underground Railroad, a novel that reinterprets the Underground Railroad as a network of subterranean abolitionist tunnels.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "Pulitzer Prize",
+    "year": 2021
+  },
+  {
+    "q": "The 2020 Booker Prize was won by:",
+    "options": [
+      "The Promise by Damon Galgut",
+      "Real Life by Adeline Smith",
+      "The Shadow King by Maz Riseborough",
+      "Shuggie Bain by Douglas Stuart"
+    ],
+    "answer": 3,
+    "explanation": "Douglas Stuart's debut novel Shuggie Bain, set in 1980s Glasgow, won the 2020 Booker Prize.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "Booker Prize",
+    "year": 2020
+  },
+  {
+    "q": "The 2020 Pulitzer Prize for Fiction was won by:",
+    "options": [
+      "The Cold Millions by John Ridley",
+      "The Nickel Boys by Colson Whitehead",
+      "The Underground Railroad by Brit Bennett",
+      "Trust by Hernan Diaz"
+    ],
+    "answer": 1,
+    "explanation": "Colson Whitehead's The Nickel Boys, set in a Florida reform school in the Jim Crow era, won the 2020 Pulitzer Prize for Fiction.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "Pulitzer Prize",
+    "year": 2020
+  },
+  {
+    "q": "The 2021 Booker Prize was won by:",
+    "options": [
+      "The Promise by Damon Galgut",
+      "Orbital by Samantha Harvey",
+      "Prophet Song by Paul Lynch",
+      "Seven Moons of Maali Almeida by Shehan Karunatilaka"
+    ],
+    "answer": 0,
+    "explanation": "The South African writer Damon Galgut won the 2021 Booker Prize for The Promise, a novel set during the political transition in South Africa around the 1994 election.",
+    "difficulty": "medium",
+    "category": "books-and-authors-current",
+    "source": "Booker Prize",
+    "year": 2021
+  },
+  {
+    "q": "According to United Nations estimates published in 2023, India overtook China as the world's most populous country in:",
+    "options": [
+      "2024",
+      "2023",
+      "2021",
+      "2022"
+    ],
+    "answer": 1,
+    "explanation": "UN estimates released in April 2023 indicated that India passed China as the most populous country in the world, with India having about 1.428 billion people against China's 1.425 billion.",
+    "difficulty": "easy",
+    "category": "geography-current",
+    "source": "United Nations",
+    "year": 2023
+  },
+  {
+    "q": "As per Census 2011, the sex ratio in India (females per 1,000 males) was:",
+    "options": [
+      "932",
+      "926",
+      "943",
+      "958"
+    ],
+    "answer": 2,
+    "explanation": "Census 2011 recorded a sex ratio of 943 females per 1,000 males, the lowest since independence, with a child sex ratio of 914 girls per 1,000 boys.",
+    "difficulty": "medium",
+    "category": "geography-current",
+    "source": "Census of India",
+    "year": 2011
+  },
+  {
+    "q": "According to Census 2011, the state with the lowest literacy rate was:",
+    "options": [
+      "West Bengal",
+      "Rajasthan",
+      "Odisha",
+      "Bihar"
+    ],
+    "answer": 3,
+    "explanation": "Bihar recorded the lowest literacy rate in Census 2011 at 61.80 per cent, while Kerala had the highest at 94.00 per cent.",
+    "difficulty": "medium",
+    "category": "geography-current",
+    "source": "Census of India",
+    "year": 2011
+  },
+  {
+    "q": "According to Census 2011, the state with the highest sex ratio among the major states was:",
+    "options": [
+      "Odisha",
+      "Kerala",
+      "Tamil Nadu",
+      "Andhra Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "Kerala recorded the highest sex ratio among major states in Census 2011 at 1,084 females per 1,000 males, followed by Puducherry and Tamil Nadu.",
+    "difficulty": "medium",
+    "category": "geography-current",
+    "source": "Census of India",
+    "year": 2011
+  },
+  {
+    "q": "As per Census 2011, which state was the most populous in India?",
+    "options": [
+      "West Bengal",
+      "Maharashtra",
+      "Uttar Pradesh",
+      "Bihar"
+    ],
+    "answer": 2,
+    "explanation": "Uttar Pradesh was the most populous state in Census 2011 with about 199.8 million people, followed by Maharashtra with about 112.4 million.",
+    "difficulty": "easy",
+    "category": "geography-current",
+    "source": "Census of India",
+    "year": 2011
+  },
+  {
+    "q": "The decadal population growth of India recorded in Census 2011 (2001-11) was:",
+    "options": [
+      "21.3 per cent",
+      "15.4 per cent",
+      "24.5 per cent",
+      "17.7 per cent"
+    ],
+    "answer": 3,
+    "explanation": "Census 2011 recorded a decadal growth of 17.7 per cent for India, with the highest growth in Bihar (25.4 per cent) and the lowest in Nagaland (-0.58 per cent).",
+    "difficulty": "medium",
+    "category": "geography-current",
+    "source": "Census of India",
+    "year": 2011
+  },
+  {
+    "q": "Cyclone Biparjoy, which made landfall on the Gujarat coast in June 2023, caused severe damage in which of these regions?",
+    "options": [
+      "Saurashtra and Kutch",
+      "Konkan and Goa",
+      "Coromandel coast",
+      "Konkan and Malabar"
+    ],
+    "answer": 0,
+    "explanation": "Cyclone Biparjoy made landfall near Kandla in Gujarat's Kutch region on 15 June 2023 with wind speeds around 120 km per hour, devastating mango orchards and disrupting power and roads.",
+    "difficulty": "medium",
+    "category": "geography-current",
+    "source": "IMD",
+    "year": 2023
+  },
+  {
+    "q": "Cyclone Michaung, which crossed the Tamil Nadu coast in December 2024, made landfall near:",
+    "options": [
+      "Nellore",
+      "Kozhikode",
+      "Chennai",
+      "Karaikal"
+    ],
+    "answer": 2,
+    "explanation": "Cyclone Michaung made landfall near Chennai on the northern Tamil Nadu coast on 4 December 2024, causing severe flooding in Chennai and other northern districts.",
+    "difficulty": "medium",
+    "category": "geography-current",
+    "source": "IMD",
+    "year": 2024
+  },
+  {
+    "q": "The Joshimath land subsidence disaster of January 2023 occurred in which state?",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Uttar Pradesh",
+      "Sikkim"
+    ],
+    "answer": 0,
+    "explanation": "Large-scale ground subsidence in Joshimath in Uttarakhand in January 2023 triggered by groundwater extraction and unauthorised construction led to the evacuation of over 200 families.",
+    "difficulty": "medium",
+    "category": "geography-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The July 2023 flash flood in Sikkim, which killed over 50 people, occurred in the basin of which river?",
+    "options": [
+      "Bhagirathi",
+      "Kosi",
+      "Yamuna",
+      "Teesta"
+    ],
+    "answer": 3,
+    "explanation": "The 3 July 2023 glacial lake outburst flood struck the Teesta and Trishuli basins in Sikkim, destroying homes, bridges and infrastructure in Chungthang.",
+    "difficulty": "hard",
+    "category": "geography-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "In the NITI Aayog's SDG India Index for 2023-24, the state ranked first was:",
+    "options": [
+      "Gujarat",
+      "Kerala",
+      "Goa",
+      "Tamil Nadu"
+    ],
+    "answer": 1,
+    "explanation": "Kerala topped the SDG India Index 2023-24 with a score of 79, followed by Goa and Tamil Nadu, and Kerala has consistently occupied a leading position in the index.",
+    "difficulty": "medium",
+    "category": "geography-current",
+    "source": "NITI Aayog",
+    "year": 2024
+  },
+  {
+    "q": "The Indian state with the largest geographical area is:",
+    "options": [
+      "Maharashtra",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Rajasthan"
+    ],
+    "answer": 3,
+    "explanation": "Rajasthan is the largest Indian state by area at 342,239 square km, followed by Madhya Pradesh at 308,245 square km; Madhya Pradesh was the largest before the formation of Chhattisgarh in 2000.",
+    "difficulty": "medium",
+    "category": "geography-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The longest river entirely within India is:",
+    "options": [
+      "Yamuna",
+      "Narmada",
+      "Godavari",
+      "Ganga"
+    ],
+    "answer": 2,
+    "explanation": "The Godavari, about 1,465 km long, is the longest river entirely within India; the Ganga is longer but is fed substantially by the Bhagirathi and Alaknanda originating in Nepal.",
+    "difficulty": "easy",
+    "category": "geography-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The largest freshwater lake in India is:",
+    "options": [
+      "Gobind Sagar",
+      "Wular Lake",
+      "Chilika Lake",
+      "Sambhar Lake"
+    ],
+    "answer": 1,
+    "explanation": "Wular Lake in Jammu and Kashmir is the largest freshwater lake in India, followed by the Dal and Loktak lakes, while Chilika is the largest brackish water lagoon.",
+    "difficulty": "medium",
+    "category": "geography-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The southernmost point of the Indian mainland is:",
+    "options": [
+      "Kanyakumari",
+      "Indira Point",
+      "Rameswaram",
+      "Dhanushkodi"
+    ],
+    "answer": 0,
+    "explanation": "Kanyakumari in Tamil Nadu is the southernmost point of the Indian mainland, while Indira Point on Great Nicobar Island is the southernmost point of the Indian territory.",
+    "difficulty": "easy",
+    "category": "geography-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Tropic of Cancer passes through how many Indian states?",
+    "options": [
+      "Eight",
+      "Nine",
+      "Six",
+      "Seven"
+    ],
+    "answer": 0,
+    "explanation": "The Tropic of Cancer passes through eight Indian states - Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.",
+    "difficulty": "medium",
+    "category": "geography-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Following the reorganisation of the erstwhile state of Jammu and Kashmir in 2019, it was divided into:",
+    "options": [
+      "a state and a union territory",
+      "two union territories, J&K with a legislature and Ladakh without one",
+      "two states, J&K and Ladakh",
+      "three union territories"
+    ],
+    "answer": 1,
+    "explanation": "On 31 October 2019 the erstwhile state was reorganised into two union territories - Jammu and Kashmir with a legislature and Ladakh without one - following the revocation of Article 370.",
+    "difficulty": "medium",
+    "category": "geography-current",
+    "source": "Standard Reference",
+    "year": 2019
+  },
+  {
+    "q": "The Bhakra Nangal Dam is built on which river?",
+    "options": [
+      "Beas",
+      "Chenab",
+      "Tapti",
+      "Sutlej"
+    ],
+    "answer": 3,
+    "explanation": "The Bhakra Nangal Dam, a gravity dam across the Sutlej river in Himachal Pradesh and Punjab, created the Gobind Sagar reservoir, India's largest reservoir by volume.",
+    "difficulty": "easy",
+    "category": "geography-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Dakshin Gangotri, India's first permanent research base in Antarctica, was established in:",
+    "options": [
+      "1984",
+      "1989",
+      "1983",
+      "1981"
+    ],
+    "answer": 2,
+    "explanation": "Dakshin Gangotri, India's first scientific research station in Antarctica, was established in 1983 during the third Indian expedition to the continent, and it was decommissioned in 1990.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 1983
+  },
+  {
+    "q": "The first Indian to win an Academy Award was:",
+    "options": [
+      "Satyajit Ray",
+      "Bhanu Athaiya",
+      "Mira Nair",
+      "A. R. Rahman"
+    ],
+    "answer": 1,
+    "explanation": "Bhanu Athaiya won the Oscar for Best Costume Design for Gandhi at the 45th Academy Awards in 1973, becoming the first Indian Oscar winner.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 1973
+  },
+  {
+    "q": "The first Indian to travel to space was:",
+    "options": [
+      "Rakesh Sharma",
+      "Vikram Sarabhai",
+      "Ratan Thakkar",
+      "R. R. Aravamudan"
+    ],
+    "answer": 0,
+    "explanation": "Squadron Leader Rakesh Sharma became the first Indian in space in 1984 aboard Soyuz T-11, spending seven days aboard the Salyut 7 station.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 1984
+  },
+  {
+    "q": "The Indian Space Research Organisation was established in:",
+    "options": [
+      "1975",
+      "1970",
+      "1969",
+      "1972"
+    ],
+    "answer": 2,
+    "explanation": "ISRO was founded in August 1969 as an autonomous body under the Department of Space, and its headquarters are in Bengaluru.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "ISRO",
+    "year": 1969
+  },
+  {
+    "q": "The Governor of the Reserve Bank of India holds a rank equivalent to:",
+    "options": [
+      "the Speaker of the Lok Sabha",
+      "the Comptroller and Auditor General",
+      "the Chief of the Army Staff",
+      "the Cabinet Secretary of India"
+    ],
+    "answer": 3,
+    "explanation": "The RBI Governor is given the same rank as the Cabinet Secretary of India, reflecting the central bank's status in the hierarchy of the state.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Chief of Defence Staff of India is:",
+    "options": [
+      "the permanent chairman of the Chiefs of Staff Committee",
+      "the head of the Indian Navy",
+      "the chairman of the Integrated Theatre Commands",
+      "the senior-most commissioned officer in the Air Force"
+    ],
+    "answer": 0,
+    "explanation": "The CDS, a four-star rank created in 2019, is the professional head of the armed forces and the permanent chairman of the Chiefs of Staff Committee.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The headquarters of the International Olympic Committee is located at:",
+    "options": [
+      "Geneva, Switzerland",
+      "Monaco",
+      "Lausanne, Switzerland",
+      "Zurich, Switzerland"
+    ],
+    "answer": 2,
+    "explanation": "The IOC headquarters are in Lausanne, Switzerland, although the Olympic Games are hosted by different cities under the Olympic Charter.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "IOC",
+    "year": null
+  },
+  {
+    "q": "The headquarters of the FIFA is located at:",
+    "options": [
+      "Lausanne",
+      "Bern",
+      "Geneva",
+      "Zurich"
+    ],
+    "answer": 3,
+    "explanation": "FIFA's headquarters are in Zurich, Switzerland, while the International Olympic Committee is based in Lausanne and the World Economic Forum in Cologny.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "FIFA",
+    "year": null
+  },
+  {
+    "q": "The headquarters of the International Cricket Council is located in:",
+    "options": [
+      "Sharjah",
+      "Dubai",
+      "Doha",
+      "Abu Dhabi"
+    ],
+    "answer": 1,
+    "explanation": "The ICC was founded in 1909 and its global headquarters are in Dubai, the United Arab Emirates, having moved there from London in 2005.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "ICC",
+    "year": null
+  },
+  {
+    "q": "The headquarters of the International Tennis Federation is located in:",
+    "options": [
+      "London",
+      "Monaco",
+      "Paris",
+      "Madrid"
+    ],
+    "answer": 0,
+    "explanation": "The ITF, which governs the Davis Cup, Fed Cup and Wimbledon among other events, has its headquarters in London.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "ITF",
+    "year": null
+  },
+  {
+    "q": "South Sudan, which became independent in 2011, has its capital at:",
+    "options": [
+      "Asmara",
+      "Addis Ababa",
+      "Juba",
+      "Khartoum"
+    ],
+    "answer": 2,
+    "explanation": "South Sudan, the world's youngest country at independence in July 2011, has its capital at Juba on the White Nile.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 2011
+  },
+  {
+    "q": "Eswatini, which was renamed from Swaziland in 2018, has its administrative capital at:",
+    "options": [
+      "Lobamba",
+      "Manzini",
+      "Maputo",
+      "Mbabane"
+    ],
+    "answer": 3,
+    "explanation": "Eswatini's administrative capital is Mbabane, while Lobamba is the royal and legislative capital and the king and iNgwenyama resides at Ludzidzini.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 2018
+  },
+  {
+    "q": "Timor-Leste, which became independent in 2002, has its capital at:",
+    "options": [
+      "Darwin",
+      "Dili",
+      "Banda Aceh",
+      "Port Moresby"
+    ],
+    "answer": 1,
+    "explanation": "Timor-Leste, which became independent in May 2002, has its capital at Dili on the northern coast of Timor island.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 2002
+  },
+  {
+    "q": "The capital of Cabo Verde is:",
+    "options": [
+      "São Tomé",
+      "Praia",
+      "Mindelo",
+      "Luanda"
+    ],
+    "answer": 1,
+    "explanation": "Cabo Verde, an archipelago off the west coast of Africa, has its capital at Praia on the island of Santiago.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The first woman to reach the summit of Mount Everest was:",
+    "options": [
+      "Wanda Rutkiewicz",
+      "Lakshmi Gautam",
+      "Santosh Yadav",
+      "Junko Tabei"
+    ],
+    "answer": 3,
+    "explanation": "The Japanese mountaineer Junko Tabei reached the summit of Everest in May 1975, becoming the first woman to do so; Indian climbers Santosh Yadav and Phunjo Lama reached the summit in 1976.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": 1975
+  },
+  {
+    "q": "Sachin Tendulkar became the first batter to score 10,000 runs in international cricket in:",
+    "options": [
+      "2003",
+      "2005",
+      "2001",
+      "1998"
+    ],
+    "answer": 2,
+    "explanation": "Sachin Tendulkar crossed 10,000 international runs in 2001 while playing against Australia, and he later became the first to 10,000 Test runs as well in 2013.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "ICC",
+    "year": 2001
+  },
+  {
+    "q": "The first Asian nation to host the Olympic Games was:",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "India"
+    ],
+    "answer": 0,
+    "explanation": "Japan became the first Asian country to host the Olympic Games by staging the 1964 Tokyo Games, and hosted again in 2020.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Olympics",
+    "year": null
+  },
+  {
+    "q": "The longest river in the world is:",
+    "options": [
+      "Amazon",
+      "Nile",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer": 1,
+    "explanation": "The Nile in Africa is generally regarded as the longest river in the world at about 6,650 km, though the Amazon in South America is a close rival depending on the course measured.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The standard time of India is:",
+    "options": [
+      "UTC+6:00",
+      "UTC+5:45",
+      "UTC+5:30",
+      "UTC+5:00"
+    ],
+    "answer": 2,
+    "explanation": "Indian Standard Time is maintained at UTC+5:30, based on the 82.5 degrees East meridian passing near Mirzapur, and it is the only time zone in the world with a half-hour offset.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Constitution Day of India is observed on:",
+    "options": [
+      "2 October",
+      "26 January",
+      "15 August",
+      "26 November"
+    ],
+    "answer": 3,
+    "explanation": "Constitution Day is observed on 26 November each year, marking the adoption of the Constitution of India by the Constituent Assembly on 26 November 1949, which came into force on 26 January 1950.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

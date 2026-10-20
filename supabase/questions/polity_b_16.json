@@ -1,0 +1,362 @@
+[
+  {
+    "q": "The 'pardon' power of the President under Article 72:",
+    "options": [
+      "is exercised only after the Supreme Court's advice",
+      "is available only for offences punishable with death",
+      "cannot be exercised in respect of a court-martial sentence",
+      "extends to offences against the law of the State and to all proceedings, civil or criminal, in which the person is convicted"
+    ],
+    "answer": 3,
+    "explanation": "Article 72 allows the President to pardon, reprieve, respite, remission of punishment or suspension of sentence in all cases, and the power is wider than that of the Governor under Article 161.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ordinance' power of the President under Article 123:",
+    "options": [
+      "can be promulgated only in the last session of Parliament",
+      "requires the prior recommendation of the Deputy Prime Minister",
+      "can be promulgated only when both Houses of Parliament are not in session, and must be laid before Parliament within six weeks of reassembly",
+      "can be promulgated at any time and must be laid before Parliament within six months"
+    ],
+    "answer": 2,
+    "explanation": "Article 123 permits the President to promulgate an ordinance when either House is not in session, and every ordinance must be laid before Parliament and ceases to operate six weeks after Parliament reassembles unless approved.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "When a Bill is passed by a State legislature and presented to the Governor, the Governor may:",
+    "options": [
+      "assent, withhold assent, or reserve the Bill for the consideration of the President",
+      "only assent or withhold assent",
+      "send the Bill back for reconsideration only once",
+      "refer the Bill to the High Court"
+    ],
+    "answer": 0,
+    "explanation": "Under Article 200 the Governor has three options, namely to assent, to withhold assent, or to reserve the Bill for the consideration of the President, and the Court has held that the Governor should exercise discretion in favour of assent.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The pocket veto of the President:",
+    "options": [
+      "operates when the President rejects a private member's Bill",
+      "operates when the President assents to an amendment of a Money Bill",
+      "operates when the President returns a Money Bill",
+      "operates when the President neither approves, rejects nor returns a Bill passed by Parliament"
+    ],
+    "answer": 3,
+    "explanation": "Under the 24th Amendment of 1971, if the President neither approves, rejects nor returns a Bill, it is deemed to have been assented to, which is why the instrument is called the pocket veto and is widely criticised.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Article 75(3) of the Constitution provides that a minister:",
+    "options": [
+      "is not to remain in office if a no-confidence motion is passed against him",
+      "holds office during the pleasure of the Governor",
+      "may be dismissed by the President at any time",
+      "must consult the President on all matters"
+    ],
+    "answer": 0,
+    "explanation": "Article 75(3) makes the Council of Ministers collectively responsible to the Lok Sabha, and a minister who loses a no-confidence motion must vacate office, which is the basis of the doctrine of ministerial responsibility.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The Chief Minister of a State is appointed by:",
+    "options": [
+      "the Prime Minister",
+      "the Chief Justice of the High Court",
+      "the Governor",
+      "the President"
+    ],
+    "answer": 2,
+    "explanation": "Article 164 provides that the Chief Minister shall be appointed by the Governor and other Ministers by the Chief Minister, and the Council of Ministers is collectively responsible to the Legislative Assembly.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "A 'Money Bill' under Article 110 is a Bill which contains only provisions dealing with:",
+    "options": [
+      "the election of the President",
+      "taxation, government borrowing, the Consolidated Fund and appropriation of money",
+      "the administration of the States",
+      "the public service of the Union"
+    ],
+    "answer": 1,
+    "explanation": "Article 110 lists the six heads of a Money Bill, namely taxation, government borrowing, the Consolidated or Contingency Fund of India, appropriation, and expenditure charged on the Consolidated Fund, and a Bill containing any other provision is not a Money Bill.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "After the Speaker certifies a Bill as a Money Bill:",
+    "options": [
+      "the Bill can be amended only in the Rajya Sabha and cannot be amended in the Lok Sabha",
+      "the Bill must be sent to the Rajya Sabha for reconsideration",
+      "the Bill lapses if the Rajya Sabha rejects it within fourteen days",
+      "the Bill can be amended in either House"
+    ],
+    "answer": 0,
+    "explanation": "Once a Bill is certified as a Money Bill, it can be amended only in the Rajya Sabha, and the Rajya Sabha may only recommend changes within fourteen days, and failure to pass the Bill within that time does not cause it to lapse.",
+    "difficulty": "easy",
+    "category": "parliament",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'joint sitting' of the two Houses of Parliament is provided for under Article:",
+    "options": [
+      "117",
+      "110",
+      "113",
+      "108"
+    ],
+    "answer": 3,
+    "explanation": "Article 108 provides for a joint sitting of the two Houses in specified cases, and such a sitting is presided over by the Speaker of the Lok Sabha with the Deputy Chairman of the Rajya Sabha in the chair.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "A Financial Bill, other than a Money Bill, can be introduced in the Rajya Sabha:",
+    "options": [
+      "only if the Speaker certifies it",
+      "on the recommendation of the President, and the Rajya Sabha must pass it within fourteen days",
+      "without any recommendation",
+      "only during the first session"
+    ],
+    "answer": 1,
+    "explanation": "A Financial Bill other than a Money Bill can be introduced only in the Lok Sabha on the President's recommendation, but once passed by that House it goes to the Rajya Sabha, which must pass or reject it within fourteen days.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The minimum age for membership of the Rajya Sabha is:",
+    "options": [
+      "35 years",
+      "21 years",
+      "30 years",
+      "25 years"
+    ],
+    "answer": 2,
+    "explanation": "Article 84 prescribes the qualifications for both Houses, and the minimum age is thirty years for the Rajya Sabha and twenty-five years for the Lok Sabha.",
+    "difficulty": "medium",
+    "category": "parliament",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Whip' of the ruling party in the Lok Sabha is responsible for:",
+    "options": [
+      "ensuring the presence of the party's members for the votes of the government and maintaining party discipline",
+      "chairing the Public Accounts Committee",
+      "certifying whether a Bill is a Money Bill",
+      "preparing the list of business for the House"
+    ],
+    "answer": 0,
+    "explanation": "The Whip is a senior member of the ruling party in the House who is responsible for the attendance of the party members and for maintaining discipline, and the office is not mentioned in the Rules of Procedure but is a convention of the House.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Freedom of speech' in Parliament and its immunities are provided under Article:",
+    "options": [
+      "122",
+      "106",
+      "108",
+      "105"
+    ],
+    "answer": 3,
+    "explanation": "Article 105 gives freedom of speech in Parliament and prohibits any proceedings against a member for anything said in Parliament or any committee, while Article 122 provides a similar immunity in the State legislatures.",
+    "difficulty": "hard",
+    "category": "parliament",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The collegium for the appointment of judges of the Supreme Court consists of:",
+    "options": [
+      "the President and the two senior-most judges of the Supreme Court",
+      "the Chief Justice of India and the two senior-most judges of the Supreme Court",
+      "the President, the Chief Justice and the Law Minister",
+      "the Chief Justice and the senior-most judges of the High Courts"
+    ],
+    "answer": 1,
+    "explanation": "Under the 109th Amendment of 2024, the collegium for the Supreme Court consists of the Chief Justice of India and two senior-most judges, and for the High Courts a separate collegium headed by the Chief Justice of the concerned High Court recommends appointments.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A criminal appeal to the Supreme Court under Article 136A is heard by a bench of:",
+    "options": [
+      "at least two judges",
+      "a single judge",
+      "at least three judges",
+      "at least five judges"
+    ],
+    "answer": 2,
+    "explanation": "Article 136A requires that a criminal appeal under Article 136 involving a question of law be heard by a bench of at least three judges, which was inserted by the Fifteenth Amendment Act of 1963.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The power of the Supreme Court to grant special leave to appeal from any court is under Article:",
+    "options": [
+      "137",
+      "134",
+      "136",
+      "132"
+    ],
+    "answer": 2,
+    "explanation": "Article 136 empowers the Supreme Court to grant special leave to appeal from any court, tribunal or other authority, and the court exercises this discretion sparingly, usually in matters of public importance.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The power of the Supreme Court to do 'complete justice' is under Article:",
+    "options": [
+      "137",
+      "142",
+      "144",
+      "141"
+    ],
+    "answer": 1,
+    "explanation": "Article 142 enables the Supreme Court to pass such decree or order as is necessary for doing complete justice in any cause or matter before it, and the Court has used this power to remedy the injustice of delayed compensation and of excessive delays.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'National Judicial Data Grid' in India was launched in:",
+    "options": [
+      "2015",
+      "2009",
+      "2010",
+      "2021"
+    ],
+    "answer": 0,
+    "explanation": "The NJDG, an initiative of the Supreme Court with the National Judicial Data Grid portal of the National Law University, was launched in 2015 to bring together the databases of the courts and to provide a national judicial data platform.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The administrative supervision of the subordinate courts in a State is vested in the:",
+    "options": [
+      "State Government",
+      "District Collector",
+      "Supreme Court",
+      "High Court"
+    ],
+    "answer": 3,
+    "explanation": "Article 235 vests the administrative supervision of all subordinate courts in the High Court, while Article 233 provides for the appointment of district judges by the Governor in consultation with the High Court.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The decision of a constitutional bench of the Supreme Court requires the opinion of:",
+    "options": [
+      "at least seven judges",
+      "at least five judges",
+      "the Chief Justice alone",
+      "at least three judges"
+    ],
+    "answer": 1,
+    "explanation": "A judgment of a constitutional bench is delivered with the concurrence of at least five judges, and before the Third Judges case of 1998 a majority of the bench was also required for the conclusion but not for the reasoning.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "A judge of the Supreme Court holds office until he attains the age of:",
+    "options": [
+      "65 years",
+      "62 years",
+      "60 years",
+      "70 years"
+    ],
+    "answer": 0,
+    "explanation": "Article 124 provides that a Supreme Court judge holds office until he attains the age of sixty-five years, and a judge of a High Court until he attains the age of sixty-two years.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "NCERT Class XII (Polity)",
+    "year": null
+  },
+  {
+    "q": "The 'Mediation Act, 2023' designates the Supreme Court and the High Courts as:",
+    "options": [
+      "pre-trial settlement forums for commercial disputes",
+      "consumer dispute redressal commissions",
+      "mediation centres",
+      "arbitration tribunals"
+    ],
+    "answer": 2,
+    "explanation": "The Mediation Act, 2023 which came into force in 2024, makes the Supreme Court and the High Courts mediation centres and provides for the appointment of mediators, with the aim of easing the burden of the courts.",
+    "difficulty": "easy",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The power of the Supreme Court to punish for contempt is under Article:",
+    "options": [
+      "227",
+      "136",
+      "226",
+      "215"
+    ],
+    "answer": 3,
+    "explanation": "Article 215 gives the Supreme Court the power to punish for contempt of the Court, which the High Courts exercise under Article 227, and the contempt power in the Constitution itself is distinct from the statutory Contempt of Courts Act, 1971.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The concept of 'public interest litigation' in India is associated with:",
+    "options": [
+      "Kesavananda Bharati v. State of Kerala",
+      "Maneka Gandhi v. Union of India",
+      "Hussainara Khatoon v. Home Secretary, State of Delhi",
+      "Golak Nath v. State of Punjab"
+    ],
+    "answer": 2,
+    "explanation": "In Hussainara Khatoon (1979) the Supreme Court relaxed the rule of locus standi and directed the release of undertrioted prisoners, and later decisions such as Bandhua Mukti Morcha and Vishaka extended the practice of petitions in the public interest.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

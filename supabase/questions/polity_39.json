@@ -1,0 +1,1532 @@
+[
+  {
+    "q": "The 'Article 18' of the Constitution:",
+    "options": [
+      "Provides for the right to freedom of religion",
+      "Deals with the abolition of the untouchability",
+      "Abolishes the titles",
+      "Guarantees the right to equality"
+    ],
+    "answer": 2,
+    "explanation": "Article 18 abolishes the titles and it permits the military and the academic distinctions, and the National awards were held to be the titles until the 18th Amendment of 1997.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National awards were held:",
+    "options": [
+      "to be the titles until the 18th Amendment of 1997",
+      "never the awards",
+      "inserted in 1950",
+      "only to the states"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court held in the 1995 case that the Bharat Ratna, the Padma awards and the other national honours were the titles, and the 18th Amendment of 1997 excluded the awards from Article 18.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 17' of the Constitution:",
+    "options": [
+      "Deals with the right to education",
+      "Abolishes untouchability",
+      "Prohibits the trafficking in the human beings",
+      "Protects the monuments"
+    ],
+    "answer": 1,
+    "explanation": "Article 17 abolishes untouchability and forbids its practice in any form, and it is the only article that has been amended.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 16(3)' was inserted by the:",
+    "options": [
+      "44th Amendment of 1978",
+      "93rd Amendment of 2005",
+      "103rd Amendment of 2019",
+      "42nd Amendment of 1976"
+    ],
+    "answer": 3,
+    "explanation": "The Article 16(3), enabling the special provisions for the women, was inserted by the 42nd Amendment of 1976 and the 93rd Amendment of 2005 added the Article 16(4A) for the EWS.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 46' of the Constitution:",
+    "options": [
+      "Deals with the organisation of the panchayats",
+      "Deals with the protection of the environment",
+      "Directs the state to promote the educational and the economic interests of the weaker sections",
+      "Deals with the equal justice and the free legal aid"
+    ],
+    "answer": 2,
+    "explanation": "Article 46 directs the state to promote the educational and the economic interests of the weaker sections, the Scheduled Castes, the Scheduled Tribes and other disadvantaged groups.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 39(b)' of the Constitution:",
+    "options": [
+      "Deals with the cottage industries",
+      "Deals with the protection of the monuments",
+      "Directs the state to secure a distribution of the ownership of the material resources in the interest of the people",
+      "Deals with the free legal aid"
+    ],
+    "answer": 2,
+    "explanation": "Article 39(b) directs the state to secure a distribution of the ownership of the material resources of the community in the interest of the people.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Article 43, which of the following is correct?",
+    "options": [
+      "Was amended by the 42nd Amendment to add the cottage industries in the rural areas",
+      "Was amended by the 44th Amendment",
+      "It deals with the free and compulsory education",
+      "It deals with the uniform civil code"
+    ],
+    "answer": 0,
+    "explanation": "The 42nd Amendment of 1976 added the promotion of the cottage industries in the rural areas to the Article 43.",
+    "difficulty": "hard",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Article 48, which of the following is correct?",
+    "options": [
+      "Deals with the scientific research",
+      "Deals with the cottage industries",
+      "Deals with the education",
+      "Directs the state to organise the agriculture and the animal husbandry on the modern lines"
+    ],
+    "answer": 3,
+    "explanation": "The Article 48 directs the state to organise the agriculture and the animal husbandry on the modern lines and the prohibition of the slaughter of the cows was added by the 42nd Amendment.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 41' of the Constitution:",
+    "options": [
+      "Deals with the public health",
+      "Directs the state to secure the right to work, to education and to public assistance in certain cases",
+      "Deals with the living wage",
+      "Deals with the cottage industries"
+    ],
+    "answer": 1,
+    "explanation": "Article 41 directs the state to secure the right to work, to education and to public assistance in certain cases and the right to a living wage and the right to the public assistance in the 42nd Amendment.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 42' of the Constitution:",
+    "options": [
+      "Deals with the living wage",
+      "Deals with the free legal aid",
+      "Deals with the cottage industries",
+      "Directs the state to provide for the maternity relief"
+    ],
+    "answer": 3,
+    "explanation": "Article 42, added by the 42nd Amendment, directs the state to provide for the maternity relief and it was a significant advance for the women workers.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Originally provided:",
+    "options": [
+      "for the uniform civil code",
+      "for the free and compulsory education of the children up to the age of 14",
+      "the cottage industries",
+      "the environment"
+    ],
+    "answer": 1,
+    "explanation": "The original Article 45 directed the state to provide for the free and compulsory education of the children up to the age of 14 and the 86th Amendment of 2002 replaced it with the early childhood care.",
+    "difficulty": "medium",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Article 47?",
+    "options": [
+      "It deals with the environment",
+      "It deals with the uniform civil code",
+      "Directs the state to raise the level of nutrition and improve the standard of living",
+      "It deals with the free education"
+    ],
+    "answer": 2,
+    "explanation": "The Article 47, amended by the 42nd Amendment, directs the state to raise the level of nutrition and improve the standard of living and to promote the public health.",
+    "difficulty": "easy",
+    "category": "directive-principles",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 21A' was inserted by the:",
+    "options": [
+      "86th Amendment of 2002",
+      "42nd Amendment of 1976",
+      "44th Amendment of 1978",
+      "93rd Amendment of 2005"
+    ],
+    "answer": 0,
+    "explanation": "The Article 21A, providing for the free and compulsory education of the children of the age of six to fourteen, was inserted by the 86th Amendment of 2002.",
+    "difficulty": "easy",
+    "category": "fundamental-duties",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'right to education' in India became a fundamental right in:",
+    "options": [
+      "2010 with the 44th Amendment",
+      "2015 with the 104th Amendment",
+      "2002 with the 86th Amendment",
+      "1993 with the 93rd Amendment"
+    ],
+    "answer": 2,
+    "explanation": "The right to education became a fundamental right with the 86th Amendment of 2002 and the RTE Act of 2009 gave it the operational shape from 1 April 2010.",
+    "difficulty": "easy",
+    "category": "fundamental-duties",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The 21 fundamental duties is correct?",
+    "options": [
+      "The 21 fundamental duties",
+      "The 12 recognised languages",
+      "The 29 subjects of the Union List",
+      "The 9 powers of the Parliament"
+    ],
+    "answer": 0,
+    "explanation": "The Eleventh Schedule, added by the 42nd Amendment of 1976, lists the twenty-one fundamental duties of the citizen.",
+    "difficulty": "medium",
+    "category": "fundamental-duties",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 52' of the Constitution:",
+    "options": [
+      "The President is the head of the legislature",
+      "The President of India is the head of the Union executive",
+      "The Prime Minister is the head of the State",
+      "The President is the head of the judiciary"
+    ],
+    "answer": 1,
+    "explanation": "The Article 52 provides that the executive of the Union shall be exercised by the President and it vests the supreme command of the defence forces in him.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 53' of the Constitution:",
+    "options": [
+      "The President is elected by the electoral college",
+      "The President is the head of the Union executive",
+      "The President's oath is in the Third Schedule",
+      "The term of the President is five years"
+    ],
+    "answer": 3,
+    "explanation": "The Article 53 provides that the term of the President shall be five years from the date on which he enters into office and the Article 62 provides the same.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 74(2)' of the Constitution:",
+    "options": [
+      "Provides that the Council of Ministers shall aid and advise the President who shall act in accordance with that advice",
+      "It is about the oath of the ministers",
+      "It is about the impeachment of the President",
+      "It is about the qualifications of the President"
+    ],
+    "answer": 0,
+    "explanation": "The Article 74(2) makes the advice of the Council of Ministers binding on the President, except in the cases specified in Article 163, and the 42nd and the 44th Amendments modified it.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 163' of the Constitution:",
+    "options": [
+      "It is about the Union government",
+      "It is about the judiciary",
+      "Provides that the Council of Ministers shall aid and advise the Governor who shall act in accordance with that advice",
+      "It is about the President"
+    ],
+    "answer": 2,
+    "explanation": "The Article 163 provides that the Council of Ministers shall aid and advise the Governor and the Governor shall act in accordance with that advice, except as specified.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 200' of the Constitution:",
+    "options": [
+      "It is about the Public Account",
+      "The expenditure of the state is subject to the proviso of Article 256 and the annual statement of the estimates",
+      "It deals with the revenue expenditure",
+      "It is about the Consolidated Fund"
+    ],
+    "answer": 1,
+    "explanation": "The Article 200 provides that the expenditure of the state shall be subject to the provisions of the proviso to Article 256 and the annual statement of the estimates and it is presented before the legislature.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 280' of the Constitution deals with:",
+    "options": [
+      "The Election Commission",
+      "The Public Service Commissions",
+      "The CAG",
+      "The Finance Commission"
+    ],
+    "answer": 3,
+    "explanation": "The Article 280 provides for the constitution of a Finance Commission by the President every fifth year or earlier if necessary.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 263' of the Constitution deals with:",
+    "options": [
+      "The GST Council",
+      "The Planning Commission",
+      "The Inter-State Council",
+      "The Finance Commission"
+    ],
+    "answer": 2,
+    "explanation": "The Article 263 empowers the President to establish an Inter-State Council to inquire into and advise upon the disputes between the states and the subjects of the common interest.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 262' of the Constitution deals with:",
+    "options": [
+      "The adjudication of the inter-state water disputes",
+      "The GST",
+      "The election disputes",
+      "The fiscal deficit"
+    ],
+    "answer": 0,
+    "explanation": "The Article 262 provides for the adjudication of the disputes relating to the waters of the inter-state rivers and for the creation of the tribunals for that purpose.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 269' of the Constitution deals with:",
+    "options": [
+      "The taxes levied by the states",
+      "The GST",
+      "The customs duties",
+      "The taxes levied by the Union but collected and appropriated by the states"
+    ],
+    "answer": 3,
+    "explanation": "The Article 269 provides for the taxes levied by the Union but collected and appropriated by the states and the Article 269A for the inter-state trade of the goods and the services.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 268' of the Constitution deals with:",
+    "options": [
+      "The excise duty",
+      "The taxes levied by the Union but assigned to the states",
+      "The taxes levied by the states",
+      "The customs duty"
+    ],
+    "answer": 1,
+    "explanation": "The Article 268 provides for the taxes levied by the Union but assigned to the states and the stamp duties are the important ones under it.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Article 356 is correct?",
+    "options": [
+      "The presidential pardon",
+      "The emergency proclamation of the national emergency",
+      "The ordinance",
+      "The S.R. Bommai guidelines of the floor test and the judicial review of the proclamation"
+    ],
+    "answer": 3,
+    "explanation": "In the S.R. Bommai case the Supreme Court laid down the guidelines for the floor test and the judicial review of the proclamation of the President's Rule.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Emergency' under the Article 352 requires the approval of:",
+    "options": [
+      "A two-thirds majority of the Lok Sabha",
+      "Both the houses of the Parliament by a special majority",
+      "A simple majority of the Lok Sabha",
+      "The President alone"
+    ],
+    "answer": 1,
+    "explanation": "The proclamation of the national emergency must be approved by both the houses of the Parliament by a special majority and it can be revoked at any time by a simple majority.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 360' of the Constitution provides for the financial emergency and it has never been:",
+    "options": [
+      "Invoked in 1991",
+      "Invoked after the pandemic",
+      "Invoked in India",
+      "Invoked in 1971"
+    ],
+    "answer": 2,
+    "explanation": "The financial emergency under the Article 360 has never been invoked in India and it is a much-restrained power than the national emergency.",
+    "difficulty": "easy",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 359' of the Constitution:",
+    "options": [
+      "Allows the suspension of the right to move the courts for the enforcement of the specified fundamental rights during a national emergency",
+      "Allows the suspension of all the fundamental rights",
+      "Deals with the financial emergency",
+      "Deals with the President's Rule"
+    ],
+    "answer": 0,
+    "explanation": "The Article 359 allows the President to suspend the right to move the courts for the enforcement of the specified fundamental rights during a national emergency and the 44th Amendment limited the scope.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 365' of the Constitution:",
+    "options": [
+      "Provides that the governance of a state under the President's Rule vests in the President",
+      "Deals with the emergency",
+      "Deals with the ordinance",
+      "Deals with the budget"
+    ],
+    "answer": 0,
+    "explanation": "The Article 365 provides that whenever a state is under the President's Rule, the governance of the state shall vest in the President.",
+    "difficulty": "medium",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 366' of the Constitution:",
+    "options": [
+      "Deals with the emergency",
+      "Deals with the judiciary",
+      "Defines the terms of the Government of India and the State and the public servant",
+      "Deals with the election of the President"
+    ],
+    "answer": 2,
+    "explanation": "The Article 366 defines the expressions of the Government of India, the State, the public servant and the legal authority and it was amended by the 42nd Amendment.",
+    "difficulty": "hard",
+    "category": "union-and-states",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The '42nd Amendment' of 1976:",
+    "options": [
+      "It created the GST Council",
+      "Added the Articles 48A, 51A and the Tenth Schedule and the 14th, 15th, 16th, 17th and 18th Schedules",
+      "It created the Tenth Schedule only",
+      "It abolished the Legislative Council"
+    ],
+    "answer": 1,
+    "explanation": "The 42nd Amendment added the Articles 47A, 48A and 51A and the Tenth Schedule and it was the most sweeping amendment until the 44th.",
+    "difficulty": "hard",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The '43rd Amendment' of 1978:",
+    "options": [
+      "It created the Tenth Schedule",
+      "It removed the right to property",
+      "It created the GST Council",
+      "Restored the power of the Parliament and the states in the Eighth Schedule of the Official Languages Act"
+    ],
+    "answer": 3,
+    "explanation": "The 43rd Amendment of 1978 restored the power of the Parliament and the states in the Eighth Schedule of the Official Languages Act and it was done by the Janata government.",
+    "difficulty": "hard",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The '86th Amendment' of 2002:",
+    "options": [
+      "It created the GST Council",
+      "Inserted the Article 21A for the right to education",
+      "It created the Tenth Schedule",
+      "It added the Ninth Schedule"
+    ],
+    "answer": 1,
+    "explanation": "The 86th Amendment of 2002 inserted the Article 21A for the free and compulsory education of the children of the age of six to fourteen and it also changed the Article 45.",
+    "difficulty": "medium",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The '91st Amendment' of 2003:",
+    "options": [
+      "It lowered the voting age",
+      "It created the NITI Aayog",
+      "Froze the allocation of the seats in the Lok Sabha and the assemblies until the census of 2026",
+      "It added the Tenth Schedule"
+    ],
+    "answer": 2,
+    "explanation": "The 91st Amendment of 2003 read down the 84th Amendment and froze the allocation of the seats until the first census after 2026, and it was challenged in the 2008 case that was struck down in 2020.",
+    "difficulty": "hard",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The '97th Amendment' of 2011:",
+    "options": [
+      "It created the Tenth Schedule",
+      "It added the Article 21A",
+      "It created the GST Council",
+      "Gave the constitutional status to the cooperative societies"
+    ],
+    "answer": 3,
+    "explanation": "The 97th Amendment of 2011 gave the constitutional status to the cooperative societies and created the Part IXB in the Constitution.",
+    "difficulty": "medium",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The '103rd Amendment' of 2019:",
+    "options": [
+      "Provided for the 10 per cent reservation for the EWS",
+      "It created the Tenth Schedule",
+      "It amended the 91st Amendment",
+      "It created the GST Council"
+    ],
+    "answer": 0,
+    "explanation": "The 103rd Amendment of 2019 provided for the 10 per cent reservation for the economically weaker sections beyond the existing 49.5 per cent and the 77th and the 81st Amendments were also challenged.",
+    "difficulty": "medium",
+    "category": "constitutional-amendments",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the May examine the annual plan is correct?",
+    "options": [
+      "It approves the master plan of the district",
+      "It imposes the taxes",
+      "May examine the annual plan and the budget of the Gram Panchayat and the elected members of the ward",
+      "It elects the Sarpanch"
+    ],
+    "answer": 2,
+    "explanation": "The Gram Sabha may examine the annual plan and the prepared budget of the Panchayat and the elected members of the ward and it may make the recommendations on the allocation of the funds.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 243F' of the Constitution deals with:",
+    "options": [
+      "The District Planning Committee",
+      "The composition of the Panchayats",
+      "The Gram Sabha",
+      "The State Election Commission"
+    ],
+    "answer": 1,
+    "explanation": "The Article 243F provides for the composition of the Panchayats consisting of the Panch, the members of the ward and the Sarpanch elected directly by the people.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Article 243G?",
+    "options": [
+      "Lists the powers and the responsibilities of the Panchayats",
+      "Deals with the Gram Sabha",
+      "Deals with the composition",
+      "Deals with the State Election Commission"
+    ],
+    "answer": 0,
+    "explanation": "The Article 243G lists the powers and the responsibilities of the Panchayats and the Article 243H does the same for the municipalities.",
+    "difficulty": "easy",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 243H' of the Constitution:",
+    "options": [
+      "Deals with the Gram Sabha",
+      "Deals with the composition of the Panchayats",
+      "Deals with the State Election Commission",
+      "Lists the powers and the responsibilities of the municipalities"
+    ],
+    "answer": 3,
+    "explanation": "The Article 243H lists the powers and the responsibilities of the municipalities and it mirrors the Article 243G of the Panchayats.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 243ZD' of the Constitution:",
+    "options": [
+      "Provides for the State Election Commission",
+      "Provides for the Ward Committee",
+      "Provides for the District Planning Committee",
+      "Provides for the Gram Sabha"
+    ],
+    "answer": 2,
+    "explanation": "The Article 243ZD provides for a District Planning Committee in every district to consolidate the plans of the Panchayats and the municipalities.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 243ZE' of the Constitution:",
+    "options": [
+      "Provides for the Ward Committee",
+      "Provides for the Metropolitan Committees",
+      "Provides for the District Planning Committee",
+      "Provides for the Gram Sabha"
+    ],
+    "answer": 1,
+    "explanation": "The Article 243ZE provides for the constitution of the Metropolitan Committees in the metropolitan areas and the Article 243ZC for the metropolitan districts.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "73rd Amendment came:",
+    "options": [
+      "into force in 1992 with the three-year term",
+      "of the urban local bodies",
+      "the Gram Sabha",
+      "into force on 24 April 1993 with the Panchayats having a five-year term"
+    ],
+    "answer": 3,
+    "explanation": "The 73rd and the 74th Amendments came into force on 24 April 1993 and they gave the Panchayats and the municipalities a fixed five-year term and the constitutional status.",
+    "difficulty": "easy",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ward Committee' in a municipality:",
+    "options": [
+      "Consists of the elected members of the municipality and of the wards within its jurisdiction",
+      "Consists of the officials of the district administration",
+      "Consists of the nominees of the state government",
+      "Is optional for the municipalities with fewer than three wards"
+    ],
+    "answer": 0,
+    "explanation": "The 74th Amendment makes the constitution of the Ward Committees compulsory for every municipality with more than three wards and they consist of the elected members of the municipality and of the ward.",
+    "difficulty": "hard",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'municipal corporations' are the local bodies for the areas with a population of:",
+    "options": [
+      "Any area",
+      "More than one lakh",
+      "More than ten lakh",
+      "More than two lakh"
+    ],
+    "answer": 1,
+    "explanation": "A municipal corporation is constituted for the areas with a population of one lakh and above, and the 74th Amendment raised the threshold of the metropolitan areas to ten lakh.",
+    "difficulty": "medium",
+    "category": "local-government",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "the NITI Aayog is correct is:",
+    "options": [
+      "It is chaired by the President",
+      "It allocates the plan funds",
+      "It is a statutory body",
+      "Is chaired by the Prime Minister and it has the three-tier structure"
+    ],
+    "answer": 3,
+    "explanation": "The NITI Aayog, which replaced the Planning Commission in 2015, is chaired by the Prime Minister and it has the three-tier structure and it does not allocate the funds.",
+    "difficulty": "easy",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Is appointed by the President and can be:",
+    "options": [
+      "removed only like a Supreme Court judge",
+      "appointed by the Parliament",
+      "a statutory body of the CAG Act of 1971 only",
+      "the auditor of the states only"
+    ],
+    "answer": 0,
+    "explanation": "The CAG is a constitutional body under the Article 148, is appointed by the President and can be removed only in the manner of a Supreme Court judge.",
+    "difficulty": "easy",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "the UPSC is correct is:",
+    "options": [
+      "Its members hold office for five years",
+      "It is an executive body",
+      "Is a constitutional body and its chairman and the members hold office for six years",
+      "Is a statutory body"
+    ],
+    "answer": 2,
+    "explanation": "The UPSC is a constitutional body under the Article 315 and its chairman and the members hold office for six years or up to the age of 65.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 320' of the Constitution:",
+    "options": [
+      "Lists the specific functions of the UPSC",
+      "Provides for the composition of the UPSC",
+      "Provides for the tenure",
+      "Deals with the State PSCs"
+    ],
+    "answer": 0,
+    "explanation": "The Article 320 lists the specific functions of the Public Service Commissions and the Article 315 provides for their constitution.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 316' of the Constitution:",
+    "options": [
+      "Provides for their removal",
+      "Provides for their appointment",
+      "Deals with the functions",
+      "Provides for the tenure of the Election Commissioners"
+    ],
+    "answer": 3,
+    "explanation": "The Article 316 provides for the tenure of the Chief Election Commissioner and the Election Commissioners and the Article 317 for their removal.",
+    "difficulty": "hard",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The CEC and the ECs are appointed by the President and they can be:",
+    "options": [
+      "removable at will",
+      "elected",
+      "removed only like a Supreme Court judge after the 2023 law",
+      "appointed by the Parliament"
+    ],
+    "answer": 2,
+    "explanation": "After the 2023 amendment the CEC has the status of a Supreme Court judge and the other commissioners are removable on the CEC's recommendation.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NCW' was set up under:",
+    "options": [
+      "The Protection of Civil Rights Act, 1955",
+      "The National Commission for Women Act, 1990",
+      "The National Commission for Backward Classes Act, 1993",
+      "The National Human Rights Commission Act, 1993"
+    ],
+    "answer": 1,
+    "explanation": "The National Commission for Women was set up in 1990 under the NCW Act of 1990 and it was the outcome of the recommendations of the Committee on the Status of Women in India.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NCBC' has the powers of the:",
+    "options": [
+      "Tribunal",
+      "Civil court for the matters of the discrimination",
+      "Supreme Court",
+      "High Court"
+    ],
+    "answer": 1,
+    "explanation": "The National Commission for Backward Classes has the powers of a civil court in the matters of the discrimination and the 1993 Act gave it that status.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NHRC' can inquire into:",
+    "options": [
+      "Any violation at any time",
+      "Only the violations in the armed forces",
+      "Only the civil cases",
+      "The violations of the human rights within one year of the occurrence"
+    ],
+    "answer": 3,
+    "explanation": "The NHRC can inquire into the violations of the human rights that have occurred within one year of the occurrence and it can also take up the cases of the armed forces.",
+    "difficulty": "hard",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CVC Act' of 2003 gave the CVC:",
+    "options": [
+      "The statutory status",
+      "The constitutional status",
+      "The judicial status",
+      "The financial autonomy"
+    ],
+    "answer": 0,
+    "explanation": "The Central Vigilance Commission (DPC) Act of 2003 gave the statutory status to the CVC, its establishment and the general superintendence of the Government servants.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Article 148?",
+    "options": [
+      "All the three are statutory",
+      "All the three are executive",
+      "The CAG is a constitutional body and the CVC and the UPSC are the statutory bodies",
+      "All the three are constitutional"
+    ],
+    "answer": 2,
+    "explanation": "Only the CAG is a constitutional body under the Article 148 and the UPSC and the CVC are the statutory bodies.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Lokpal and the Lokayuktas Act of 2013 gave:",
+    "options": [
+      "the statutory basis to the two ombudsmen",
+      "of 1998",
+      "a constitutional body",
+      "under the NITI Aayog"
+    ],
+    "answer": 0,
+    "explanation": "The Lokpal and Lokayuktas Act of 2013 gave the statutory basis to the Lokpal and the Lokayuktas, which had existed only as the executive bodies.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RTI Act' was passed in:",
+    "options": [
+      "1999",
+      "2002",
+      "2008",
+      "2005"
+    ],
+    "answer": 3,
+    "explanation": "The Right to Information Act was passed in 2005 and it came into force on 21 October 2005 with the Central Information Commission in 2005.",
+    "difficulty": "easy",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Section 8(1)?",
+    "options": [
+      "Deals with the CIC",
+      "Deals with the penalties",
+      "Gives the citizens the right to the information from the public authorities",
+      "Deals with the disqualification of the members of the legislature"
+    ],
+    "answer": 2,
+    "explanation": "The Section 8(1) of the RTI Act gives the citizens the right to the information from the public authorities and the Section 8(3) for the life and the liberty of the information.",
+    "difficulty": "medium",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the CIC?",
+    "options": [
+      "It is a ministry",
+      "Was constituted in 2005 and the first information commissioner was the S.P. Gupta",
+      "It was constituted in 1997",
+      "It was constituted in 2009"
+    ],
+    "answer": 1,
+    "explanation": "The Central Information Commission was constituted in 2005 and the first Chief Information Commissioner was the S. P. Gupta.",
+    "difficulty": "hard",
+    "category": "governance-and-commissions",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Article 19(1)(a), which of the following is correct?",
+    "options": [
+      "Guarantees the freedom of speech and expression subject to the reasonable restrictions",
+      "It is absolute",
+      "It applies only to the press",
+      "It was repealed in 2020"
+    ],
+    "answer": 0,
+    "explanation": "The freedom of speech and expression under the Article 19(1)(a) is subject to the reasonable restrictions of the Article 19(2) and the Supreme Court has read it expansively in the media and the art cases.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The freedom of the press have:",
+    "options": [
+      "The Article 19(2) does not apply to the press",
+      "a part of the freedom of speech and expression and the restrictions are the reasonable ones",
+      "an absolute right under the Article 19(1)(a)",
+      "not a fundamental right"
+    ],
+    "answer": 1,
+    "explanation": "The freedom of the press is a part of the freedom of speech and expression under the Article 19(1)(a) and it is subject only to the reasonable restrictions of the Article 19(2).",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 19(2)' of the Constitution lists eight reasonable restrictions, of which:",
+    "options": [
+      "All relate to the morality and the decency",
+      "All relate to the contempt of the court and the the the",
+      "None of the restrictions are on the speech",
+      "Four relate to the sovereignty and the integrity of India, the friendly relations with the foreign states and the public order and the incitement to an offence"
+    ],
+    "answer": 3,
+    "explanation": "Of the eight restrictions in the Article 19(2), four relate to the sovereignty and the integrity of India, the friendly relations with the foreign states, the public order and the incitement to an offence and the rest to the contempt of the court, the defamation, the morality and the decency and the incitement to a religious offence.",
+    "difficulty": "hard",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 20(1)' of the Constitution:",
+    "options": [
+      "Prohibits the self-incrimination",
+      "Deals with the writs",
+      "Prohibits the ex-post facto criminal laws",
+      "Prohibits the double jeopardy"
+    ],
+    "answer": 2,
+    "explanation": "The Article 20(1) says that no person shall be convicted of an offence in respect of any act or omission which was not in force at the time when the act or omission was committed.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Article 20(2) is correct?",
+    "options": [
+      "Deals with the preventive detention",
+      "Prohibits the double jeopardy",
+      "Prohibits the self-incrimination",
+      "Prohibits the ex-post facto laws"
+    ],
+    "answer": 1,
+    "explanation": "The Article 20(2) says that no person shall be prosecuted and punished for the same offence more than once, and the narrower interpretation was given in the Sajjan Singh case.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 20(3)' of the Constitution:",
+    "options": [
+      "Prohibits the ex-post facto laws",
+      "Prohibits the double jeopardy",
+      "Deals with the preventive detention",
+      "Protects against the self-incrimination"
+    ],
+    "answer": 3,
+    "explanation": "The Article 20(3) says that no person accused of an offence shall be compelled to be a witness against himself.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Protects the life and the personal liberty and it has been:",
+    "options": [
+      "only to the citizens",
+      "not enforceable",
+      "read expansively by the Supreme Court",
+      "absolute"
+    ],
+    "answer": 2,
+    "explanation": "The Article 21, the right to life and the personal liberty, has been read expansively by the Supreme Court to include the privacy, the clean environment, the livelihood, the health, the shelter and the speedy trial.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Article 14, which of the following is correct?",
+    "options": [
+      "The equality before the law and the equal protection of the laws",
+      "The freedom of the religion",
+      "The right to the property",
+      "The right to the education"
+    ],
+    "answer": 0,
+    "explanation": "The Article 14 guarantees the equality before the law and the equal protection of the laws and the judicial review of the differential treatment is possible.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Article 15?",
+    "options": [
+      "Prohibits the discrimination on the grounds of the religion, the race, the caste, the sex or the place of birth and it permits the special provisions for the socially backward",
+      "It is absolute",
+      "It applies only to the private citizens",
+      "It was repealed in 2020"
+    ],
+    "answer": 0,
+    "explanation": "The Article 15 prohibits the discrimination on the specified grounds and it permits the special provisions for the women, the children and the socially and the educationally backward classes.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 15(4)' permits:",
+    "options": [
+      "The reservation for the minorities",
+      "The reservation for the socially and the educationally backward classes",
+      "The reservation for the EWS",
+      "The reservation for the women only"
+    ],
+    "answer": 1,
+    "explanation": "The Article 15(4) permits the reservation for the socially and the educationally backward classes and the Article 15(5) for the admission of the SC and the ST in the private institutions.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 16(4)' permits:",
+    "options": [
+      "The reservation for the EWS",
+      "The reservation for the women",
+      "The reservation in the promotions",
+      "The reservation in the appointments for the backward classes not adequately represented"
+    ],
+    "answer": 3,
+    "explanation": "The Article 16(4) permits the reservation in the appointments for the backward classes that are not adequately represented in the services of the Union and the states.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 29' of the Constitution:",
+    "options": [
+      "Deals with the freedom of the religion",
+      "Deals with the equality",
+      "Protects the interests of the minorities and the cultural and the educational rights",
+      "Protects the property"
+    ],
+    "answer": 2,
+    "explanation": "The Article 29 protects the interests of the minorities and the Article 30 guarantees the right of the minorities to establish the educational institutions of their choice.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 30' of the Constitution:",
+    "options": [
+      "Guarantees the right of the minorities to establish and administer the educational institutions of their choice",
+      "Deals with the right to the property",
+      "Deals with the freedom of the religion",
+      "Deals with the special provisions"
+    ],
+    "answer": 0,
+    "explanation": "The Article 30(1) guarantees to all the minorities, whether religious or linguistic, the right to establish and administer the educational institutions of their choice.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Prohibits traffic is correct?",
+    "options": [
+      "Deals with the child labour",
+      "Deals with the garment factories",
+      "Prohibits the traffic in the human beings and the forced labour",
+      "Prohibits the untouchability"
+    ],
+    "answer": 2,
+    "explanation": "The Article 23 prohibits the traffic in the human beings and the begar and the forced labour and the 103rd Amendment took the manual scavenging out of its ambit.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 25(1)' of the Constitution:",
+    "options": [
+      "Deals with the freedom of the speech",
+      "Deals with the equality",
+      "Deals with the education",
+      "Guarantees the freedom of conscience and the religion"
+    ],
+    "answer": 3,
+    "explanation": "The Article 25(1) guarantees the freedom of conscience and the religion and it is subject to the public order, the morality, the health and the other provisions of the Part III.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 26' of the Constitution:",
+    "options": [
+      "Deals with the property",
+      "Guarantees the freedom to manage the religious affairs of the religious communities",
+      "Deals with the freedom of the speech",
+      "Deals with the equality"
+    ],
+    "answer": 1,
+    "explanation": "The Article 26 guarantees the freedom to manage the religious affairs of the religious denominations in the matters of religion, the worship and the maintenance of the institutions.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 27' of the Constitution:",
+    "options": [
+      "Guarantees the freedom of the religion and the worship",
+      "Prohibits the untouchability",
+      "Deals with the property",
+      "Deals with the speech"
+    ],
+    "answer": 0,
+    "explanation": "The Article 27 guarantees the freedom of the religion and the worship and it was inserted by the 42nd Amendment.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 28' of the Constitution:",
+    "options": [
+      "Deals with the education",
+      "Guarantees the freedom of the religion and the worship and the freedom to profess and practise the religion",
+      "Prohibits the untouchability",
+      "Deals with the speech"
+    ],
+    "answer": 1,
+    "explanation": "The Article 28, added by the 42nd Amendment, guarantees the freedom of the religion and the worship and the freedom to profess and practise the religion.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 19(1)(f)' of the Constitution:",
+    "options": [
+      "It is about the movement",
+      "It is about the speech",
+      "It is about the residence",
+      "Guarantees the freedom to form the associations or the unions"
+    ],
+    "answer": 3,
+    "explanation": "The Article 19(1)(c) guarantees the freedom of the association and the Article 19(1)(f) the freedom of the movement.",
+    "difficulty": "medium",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Article 32?",
+    "options": [
+      "It is the right to the information",
+      "It is the right to the petition",
+      "It is the right to the enforcement of the fundamental rights by the Supreme Court",
+      "It is the right to the writs in the High Court"
+    ],
+    "answer": 2,
+    "explanation": "The Article 32 is the right to move the Supreme Court for the enforcement of the fundamental rights and the Article 226 is the corresponding right before the High Courts.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Article 226, which of the following is correct?",
+    "options": [
+      "It is about the finance commission",
+      "Empowers the High Courts to issue the writs for the enforcement of the fundamental rights and for any other purpose",
+      "It is the same as the Article 32",
+      "It is about the CAG"
+    ],
+    "answer": 1,
+    "explanation": "The Article 226 empowers the High Courts to issue the directions or the orders or the writs for the enforcement of the fundamental rights and for any other purpose, which is wider than the Article 32.",
+    "difficulty": "easy",
+    "category": "fundamental-rights",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The special leave to appeal is correct?",
+    "options": [
+      "The special leave to appeal to the Supreme Court from any court or tribunal in India",
+      "The appellate jurisdiction in the criminal cases",
+      "The advisory jurisdiction",
+      "The original jurisdiction"
+    ],
+    "answer": 0,
+    "explanation": "The Article 136 empowers the Supreme Court to grant the special leave to appeal from the judgment of any court or tribunal in India and it is an extraordinary discretionary power.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 141' of the Constitution:",
+    "options": [
+      "Provides for the advisory jurisdiction",
+      "Deals with the writs",
+      "Makes the law declared by the Supreme Court binding on all the courts in India",
+      "Provides for the appellate jurisdiction"
+    ],
+    "answer": 2,
+    "explanation": "The Article 141 provides that the law declared by the Supreme Court shall be binding on all the courts within the territory of India.",
+    "difficulty": "easy",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 144' of the Constitution:",
+    "options": [
+      "The President may act on his own discretion",
+      "The President appoints the Council of Ministers",
+      "The President is bound by the judiciary",
+      "The President shall act in accordance with the advice of the Council of Ministers"
+    ],
+    "answer": 3,
+    "explanation": "The Article 144 binds the President to the advice of the Council of Ministers, except in the cases specified in the Article 163.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 227' of the Constitution:",
+    "options": [
+      "Empowers the High Court to supervise all the courts and the tribunals in its jurisdiction",
+      "Empowers the Supreme Court to supervise the High Courts",
+      "Empowers the President to appoint the judges",
+      "Empowers the CAG to audit the courts"
+    ],
+    "answer": 0,
+    "explanation": "The Article 227 empowers the High Court to supervise all the courts and the tribunals in its jurisdiction and to issue the directions to them.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 235' of the Constitution:",
+    "options": [
+      "Gives the CAG the audit of the courts",
+      "Gives the High Court the control of the district and the subordinate courts",
+      "Gives the Supreme Court the control of the High Courts",
+      "Gives the President the power to appoint the judges"
+    ],
+    "answer": 1,
+    "explanation": "The Article 235 gives the High Court the control of the district and the subordinate courts in its jurisdiction.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 233' of the Constitution:",
+    "options": [
+      "Provides for the appointment of the High Court judges",
+      "Provides for the tenure of the judges",
+      "Deals with the impeachment",
+      "Provides for the appointment of the district judges by the Governor in consultation with the High Court"
+    ],
+    "answer": 3,
+    "explanation": "The Article 233 provides for the appointment of the district judges by the Governor in consultation with the High Court and the Article 234 for the High Court judges.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 217' of the Constitution:",
+    "options": [
+      "Provides for the appointment",
+      "Deals with the oath",
+      "Provides for the removal of a High Court judge by the address of the state legislature",
+      "Provides for the removal of a Supreme Court judge"
+    ],
+    "answer": 2,
+    "explanation": "The Article 217 provides for the removal of a High Court judge by the address of the legislature of the state concerned and the Article 124 for a Supreme Court judge.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 124(4)' of the Constitution:",
+    "options": [
+      "Provides for the removal of a High Court judge",
+      "Provides for the appointment of the judges",
+      "Deals with the qualifications",
+      "Provides for the impeachment of a Supreme Court judge by a two-thirds majority of each house"
+    ],
+    "answer": 3,
+    "explanation": "The Article 124(4) provides for the impeachment of a Supreme Court judge by an address passed in each house by a two-thirds majority of the total membership and by a majority of the total membership of the house.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 126' of the Constitution:",
+    "options": [
+      "Deals with the review",
+      "Empowers the Supreme Court to make the laws and to lay down the procedure",
+      "Provides for the appointment of the judges",
+      "Deals with the advisory jurisdiction"
+    ],
+    "answer": 1,
+    "explanation": "The Article 126 empowers the Supreme Court to make the laws and to lay down the procedure and the rules of the same nature as the rules of the Parliament.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 139A' of the Constitution:",
+    "options": [
+      "Deals with the review of the judgments",
+      "Deals with the advisory jurisdiction",
+      "Empowers the Supreme Court to withdraw and transfer the cases involving the same substantial question of law",
+      "Provides for the special leave to appeal"
+    ],
+    "answer": 2,
+    "explanation": "The Article 139A, inserted in 1987, empowers the Supreme Court to withdraw and transfer the cases involving the same substantial question of law that are pending before several High Courts.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 145' of the Constitution:",
+    "options": [
+      "Provides for the appointment of the judges of the Supreme Court",
+      "Deals with the salaries",
+      "Deals with the oath",
+      "Deals with the retirement"
+    ],
+    "answer": 0,
+    "explanation": "The Article 145 provides for the appointment of the judges of the Supreme Court by the President after consulting the CJI and the senior-most judge and the state Chief Justice.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 146' of the Constitution:",
+    "options": [
+      "Deals with the retirement",
+      "Deals with the salaries and the allowances of the Supreme Court judges",
+      "Deals with the appointment",
+      "Deals with the oath"
+    ],
+    "answer": 1,
+    "explanation": "The Article 146 provides that the salaries, the allowances and the pensions of the Supreme Court judges shall be charged on the Consolidated Fund and shall not be varied to their disadvantage after the appointment.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 132' of the Constitution:",
+    "options": [
+      "Provides for the appellate jurisdiction of the Supreme Court in the criminal cases",
+      "Provides for the civil cases",
+      "Deals with the advisory jurisdiction",
+      "Deals with the review"
+    ],
+    "answer": 0,
+    "explanation": "The Article 132 vests the appellate jurisdiction in the Supreme Court in the criminal cases and the Article 134 in the civil cases.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 131' of the Constitution:",
+    "options": [
+      "Provides for the appellate jurisdiction",
+      "Deals with the advisory jurisdiction",
+      "Deals with the writs",
+      "Provides for the original jurisdiction of the Supreme Court in the specified federal disputes"
+    ],
+    "answer": 3,
+    "explanation": "The Article 131 vests the original jurisdiction in the Supreme Court in the specified federal disputes and the rest is exercised by the High Courts under the Article 226.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Article 143' of the Constitution:",
+    "options": [
+      "Deals with the review",
+      "Deals with the writs",
+      "Empowers the President to refer the matters of the importance or the difficulty to the Supreme Court for its opinion",
+      "Deals with the appellate jurisdiction"
+    ],
+    "answer": 2,
+    "explanation": "The Article 143 empowers the President to refer any matter of importance or difficulty to the Supreme Court for its opinion and the opinion is not binding but is authoritative.",
+    "difficulty": "easy",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kesavananda Bharati' case of 1973:",
+    "options": [
+      "Laid down the basic structure doctrine",
+      "Established the absolute liability",
+      "Upheld the President's Rule",
+      "Gave the right to privacy"
+    ],
+    "answer": 0,
+    "explanation": "The Kesavananda Bharati case of 1973, by a 7-6 majority, laid down the basic structure doctrine and the Minerva Mills case of 1980 harmonised it with the judicial review.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Golaknath' case of 1967:",
+    "options": [
+      "Laid down the basic structure doctrine",
+      "Upheld the President's Rule",
+      "Recognised the right to privacy",
+      "Held that the fundamental rights could not be amended by the Parliament"
+    ],
+    "answer": 3,
+    "explanation": "In the Golaknath case the Supreme Court held that the Parliament could not amend the fundamental rights, and it introduced the doctrine of the eclipse.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Maneka Gandhi' case of 1978:",
+    "options": [
+      "Upheld the President's Rule",
+      "Recognised the right to privacy",
+      "Held that the Article 21 has the procedural and the substantive dimensions",
+      "Laid down the basic structure doctrine"
+    ],
+    "answer": 2,
+    "explanation": "In the Maneka Gandhi case the Supreme Court held that the Article 21 has the procedural and the substantive dimensions and that the procedure must be right, just and fair.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'S.R. Bommai' case of 1994:",
+    "options": [
+      "Upheld the presidential election",
+      "Held that the President's Rule is subject to the judicial review",
+      "Laid down the basic structure doctrine",
+      "Recognised the right to privacy"
+    ],
+    "answer": 1,
+    "explanation": "In the S.R. Bommai case the Supreme Court laid down the guidelines for the floor test and held that the proclamation of the President's Rule is subject to the judicial review.",
+    "difficulty": "medium",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Kesavananda?",
+    "options": [
+      "The Minerva Mills case of 1980 created the NJAC",
+      "The Minerva Mills case of 1980 made the right to property fundamental",
+      "The Minerva Mills case of 1980 harmonised the basic structure and the judicial review",
+      "The Minerva Mills case of 1980 abolished the judicial review"
+    ],
+    "answer": 2,
+    "explanation": "In the Minerva Mills case of 1980 the Supreme Court held that the harmony and the balance between the parts of the Constitution is a basic feature and that both the judicial review and the basic structure doctrine are complementary.",
+    "difficulty": "hard",
+    "category": "judiciary",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

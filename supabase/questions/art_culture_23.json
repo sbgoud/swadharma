@@ -1,0 +1,3167 @@
+[
+  {
+    "q": "The 'Bharatanatyam' is the classical dance of:",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Andhra Pradesh",
+      "Odisha"
+    ],
+    "answer": 0,
+    "explanation": "Bharatanatyam, the oldest of the classical dance forms of India, originated in the temples of Tamil Nadu and the modern form was shaped by Rukmini Devi Arundale and E. Krishna Iyer.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kathakali' is the classical dance-drama of:",
+    "options": [
+      "Odisha",
+      "Andhra Pradesh",
+      "Kerala",
+      "Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "Kathakali, the classical dance-drama of Kerala, combines the dance, the music, the acting and the elaborate costume and make-up.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kathak' is associated with the:",
+    "options": [
+      "Rajasthan",
+      "Lucknow and the other courts of north India",
+      "Kerala",
+      "Tamil Nadu"
+    ],
+    "answer": 1,
+    "explanation": "Kathak developed in the courts of Lucknow, Jaipur and Banaras, and the Lucknow gharana, the Jaipur gharana and the Banaras gharana are the principal schools.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Odissi' dance is recognised by its:",
+    "options": [
+      "Tribhanga posture and the temple dance of Odisha",
+      "Make-up of the Kathakali",
+      "The mudras of the Bharatanatyam",
+      "The costumes of the Kuchipudi"
+    ],
+    "answer": 0,
+    "explanation": "Odissi is characterised by the tribhanga, the three bends of the body, and the Lasya and the Bhanga or the tandava styles, and it is the temple dance of Odisha.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kuchipudi' is the dance-drama of:",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "Kuchipudi of Andhra Pradesh combines the dancing with the narration and the singing, and it is recognised by the characters of the dancer who also narrates the story.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Manipuri' dance is the classical dance of:",
+    "options": [
+      "Mizoram",
+      "Nagaland",
+      "Tripura",
+      "Manipur"
+    ],
+    "answer": 3,
+    "explanation": "Manipuri, or the Ras Lila dance of Manipur, is one of the oldest of the classical forms and it was given the classical status in 1974.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mohiniyattam' is the classical dance of:",
+    "options": [
+      "Andhra Pradesh",
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "answer": 1,
+    "explanation": "Mohiniyattam, the dance of the enchantress, is the classical dance of Kerala and it was popularised by the legendary dancer Guru Kalyanikutti Amma.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sattriya' dance was codified by:",
+    "options": [
+      "Srimanta Sankardeva",
+      "Shankaradeva",
+      "Krishnadevaraya",
+      "Rama"
+    ],
+    "answer": 0,
+    "explanation": "Sattriya, the neo-Vaishnava dance of Assam and Manipur, was codified by the poet-saint Srimanta Sankardeva in the 16th century, and it was recognised as a classical form in 2000.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chhau' dance of Purulia is a:",
+    "options": [
+      "A classical dance of Assam",
+      "A folk dance of Punjab",
+      "Mask dance of the tribal communities of eastern India",
+      "A temple dance of Kerala"
+    ],
+    "answer": 2,
+    "explanation": "Chhau is a semi-classical dance from the Seraikella, the Purulia and the Mayurbhanj regions, and the masked form of Seraikella was given the classical status in 2010.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gotipua' and the 'Chhau' of Odisha:",
+    "options": [
+      "Gotipua is a tribal dance of Arunachal Pradesh",
+      "Gotipua is a dramatic folk dance of the Mayurbhanj region",
+      "Gotipua is a temple dance of Kerala",
+      "Gotipua is a form of the martial dance of Manipur"
+    ],
+    "answer": 1,
+    "explanation": "Gotipua is a dramatic folk dance of the Mayurbhanj region of Odisha in which the dancers enact the episodes from the Puranas.",
+    "difficulty": "hard",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kathakali' makeup colours denote:",
+    "options": [
+      "The different seasons",
+      "The different regions",
+      "The different seasons of the dance",
+      "The different characters of the plays"
+    ],
+    "answer": 3,
+    "explanation": "The elaborate make-up of the Kathakali, the pacha, the chuvanna thaadi for the demonic and the kathi for the villain, denotes the character of the role.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lasya' and the 'Tandava':",
+    "options": [
+      "Are the two forms of the Kathakali",
+      "Are the two styles of the Bharatanatyam",
+      "Are the two forms of the yakshagana",
+      "Are the two styles of the classical dance of Odisha"
+    ],
+    "answer": 3,
+    "explanation": "The Odissi dance has two styles, the graceful Lasya of the temple tradition and the vigorous Tandava of the royal tradition.",
+    "difficulty": "hard",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mudras' in the classical dance are:",
+    "options": [
+      "The symbolic gestures of the hands",
+      "The footwork patterns",
+      "The costume designs",
+      "The musical compositions"
+    ],
+    "answer": 0,
+    "explanation": "The mudras are the hand gestures that convey the meaning of the abhinaya in the classical dance, and they are codified in the Natya Shastra.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kummattikali' is performed on the:",
+    "options": [
+      "Full moon of the Bengali month",
+      "Fifth day of the Malayalam month of Meenam",
+      "First day of the Malayalam calendar",
+      "Seventh day of the Tamil month"
+    ],
+    "answer": 1,
+    "explanation": "Kummattikali is performed on the fifth day of the Malayalam month of Meenam in the temple courtyards of the villages of Kerala.",
+    "difficulty": "hard",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Yakshagana' costumes and the 'Karnataka' are associated with:",
+    "options": [
+      "The Yakshagana of Kerala",
+      "The Terah Tali of Punjab",
+      "The elaborate headgear and the face painting of the coastal Karnataka theatre",
+      "The Kuchipudi of the Andhra coast"
+    ],
+    "answer": 2,
+    "explanation": "The Yakshagana of coastal Karnataka is known for the elaborate costumes, the towering headgear, the face painting and the vigorous singing of the chorus.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kutiyattam' is the ancient Sanskrit theatre of:",
+    "options": [
+      "Andhra Pradesh",
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "Kutiyattam, the oldest surviving Sanskrit theatre form, is practised in Kerala and was inscribed on the UNESCO list of the intangible heritage in 2001.",
+    "difficulty": "easy",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ramlila' of Ramnagar in Varanasi is:",
+    "options": [
+      "A classical dance form",
+      "A folk music genre",
+      "A painted scroll tradition",
+      "A traditional theatrical performance of the Ramayana"
+    ],
+    "answer": 3,
+    "explanation": "The Ramlila of Ramnagar, performed with the traditional wooden masks and the folk styles, was proclaimed a Masterpiece of the Oral and Intangible Heritage by UNESCO in 2003.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nautanki' is a folk theatre of:",
+    "options": [
+      "Bengal",
+      "North India, especially Uttar Pradesh",
+      "Kerala",
+      "Tamil Nadu"
+    ],
+    "answer": 1,
+    "explanation": "Nautanki, which evolved from the sung narration, is a folk theatre of northern India, particularly of the Awadh region of Uttar Pradesh.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tamasha' and the 'Bhavai' are the folk theatres of:",
+    "options": [
+      "Maharashtra and Gujarat",
+      "Bengal and Odisha",
+      "Rajasthan and Punjab",
+      "Kerala and Karnataka"
+    ],
+    "answer": 0,
+    "explanation": "Tamasha is the folk theatre of Maharashtra and Bhavai of Gujarat, and both are sung and danced forms with a strong improvisational character.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Yakshagana' and the 'Badagutittu':",
+    "options": [
+      "Are both the film industries",
+      "Are both forms of the folk theatre of coastal Karnataka",
+      "Are both classical dances",
+      "Are both from Kerala"
+    ],
+    "answer": 1,
+    "explanation": "Yakshagana and the closely related Badagutittu are the folk theatre forms of the coastal Karnataka region.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhaona' is the Assamese form of:",
+    "options": [
+      "A folk music of Punjab",
+      "A painting of Odisha",
+      "A martial art of Rajasthan",
+      "An ensemble of the classical dance-drama"
+    ],
+    "answer": 3,
+    "explanation": "The Bhaona of Assam is a classical dance-drama of the Vaishnava order, and it is a traditional folk theatre of the region.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ankiya Naat' and the 'Borgeet' are the Assamese:",
+    "options": [
+      "The folk dance-drama and the folk music traditions",
+      "A classical dance and a painting",
+      "A martial art and a film form",
+      "A festival and a cuisine"
+    ],
+    "answer": 0,
+    "explanation": "The Ankiya Naat is the folk dance-drama of Assam and the Borgeet is its traditional folk music, both with a strong Vaishnava content.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IPTA' was the theatre movement founded in:",
+    "options": [
+      "1950 in Delhi",
+      "1927 in Madras",
+      "1943 in Bombay",
+      "1930 in Calcutta"
+    ],
+    "answer": 2,
+    "explanation": "The Indian People's Theatre Association, founded in Bombay in 1943, was the most significant of the progressive theatre movements of the country.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Habib Tanvir' is known for his:",
+    "options": [
+      "The Rangayan and the Kalakshetra",
+      "The Theatre Group of the Delhi",
+      "The Naya Theatre and the street play Charandas",
+      "The Prithvi Theatre"
+    ],
+    "answer": 2,
+    "explanation": "Habib Tanvir founded the Naya Theatre in 1959 and the Charandas, with its rustic setting, was his most celebrated production.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Badal Sircar' is associated with:",
+    "options": [
+      "The Third Theatre and the street theatre",
+      "The Naya Theatre",
+      "The Kalakshetra",
+      "The Prithvi Theatre"
+    ],
+    "answer": 0,
+    "explanation": "Badal Sircar founded the Third Theatre in Calcutta in 1970 and his street plays brought the theatre to the common people.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Prithvi Theatre' in Mumbai was founded by:",
+    "options": [
+      "Girish Karnad",
+      "Zeenat and Naseeruddin Shah",
+      "Habib Tanvir",
+      "B.V. Karanth"
+    ],
+    "answer": 1,
+    "explanation": "The Prithvi Theatre, founded in Mumbai in 1977 by Zeenat and Naseeruddin Shah, is a famous centre of the parallel theatre movement.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'IPTA' and the 'Bhupen Hazarika':",
+    "options": [
+      "Bhupen Hazarika founded the IPTA",
+      "They worked in the film industry only",
+      "They were the rivals",
+      "The IPTA performed the musical plays and the ballads of Bhupen Hazarika"
+    ],
+    "answer": 3,
+    "explanation": "The IPTA staged the musical plays and the ballads of Bhupen Hazarika, the foremost Assamese musician of the movement.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The first Indian feature film 'Raja Harishchandra' was made in:",
+    "options": [
+      "1920",
+      "1905",
+      "1913",
+      "1910"
+    ],
+    "answer": 2,
+    "explanation": "Dadasaheb Phalke made the first Indian feature film, Raja Harishchandra, in 1913 and is known as the father of Indian cinema.",
+    "difficulty": "easy",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The first Indian talkie film was:",
+    "options": [
+      "Raja Harishchandra",
+      "Pundalik",
+      "Kisan Kanya",
+      "Alam Ara"
+    ],
+    "answer": 3,
+    "explanation": "Alam Ara, the first Indian talkie film, was released in 1931 and was directed by Ardeshir Irani.",
+    "difficulty": "easy",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kisan Kanya' was the first Indian:",
+    "options": [
+      "Talkie film",
+      "Colour film",
+      "Animated film",
+      "Documentary"
+    ],
+    "answer": 1,
+    "explanation": "Kisan Kanya, made in 1937 by the Imperial Films, was the first Indian colour film, and the first Indian film to be screened at the Cannes film festival.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pundalik' of 1912 was:",
+    "options": [
+      "The first Indian film made by a person with a disability",
+      "The first Indian documentary",
+      "The first Indian animation",
+      "The first Indian colour film"
+    ],
+    "answer": 0,
+    "explanation": "Pundalik, made in 1912 by thedhami Dadasaheb Phalke, is regarded as the first Indian film made by a person with a disability, and the National Film Awards introduced a special mention for it.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dadasaheb Phalke Award' is the:",
+    "options": [
+      "Award for the classical dance",
+      "Highest award in Indian cinema",
+      "Highest award in Indian sport",
+      "National award for the agriculture"
+    ],
+    "answer": 1,
+    "explanation": "The Dadasaheb Phalke Award, instituted in 1969, is the highest award in Indian cinema and the Swarna Kamal is the second highest.",
+    "difficulty": "easy",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Film Awards' are presented by:",
+    "options": [
+      "The National Film Development Corporation",
+      "The Ministry of Culture",
+      "The Film and Television Institute of India",
+      "The Directorate of Film Festivals under the Ministry of Information and Broadcasting"
+    ],
+    "answer": 3,
+    "explanation": "The Directorate of Film Festivals, under the Ministry of Information and Broadcasting, organises the National Film Awards, which were instituted in 1954.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Film Development Corporation' was set up in:",
+    "options": [
+      "1969",
+      "1954",
+      "1972",
+      "1958"
+    ],
+    "answer": 0,
+    "explanation": "The NFDC was set up in 1969 as a film finance corporation and it was merged with the Film Finance Corporation of India in 1972.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Satyajit Ray' received the first National Film Award for the best feature film for:",
+    "options": [
+      "Charulata",
+      "The Apu Trilogy",
+      "Pather Panchali",
+      "Aparajito"
+    ],
+    "answer": 2,
+    "explanation": "Pather Panchali won the Best Feature Film and the Best Cinematography awards in 1956 at the inaugural National Film Awards.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pather Panchali' was based on the novel of:",
+    "options": [
+      "Sarat Chandra Chattopadhyay",
+      "Tarashankar Bandyopadhyay",
+      "Bankim Chandra Chattopadhyay",
+      "Bibhutibhushan Bandyopadhyay"
+    ],
+    "answer": 3,
+    "explanation": "Pather Panchali was based on the novel of the same name by Bibhutibhushan Bandyopadhyay, and the Apu trilogy was based on the works of the same author.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhasha' films of Satyajit Ray were made in:",
+    "options": [
+      "Bengali",
+      "Hindi",
+      "Tamil",
+      "Malayalam"
+    ],
+    "answer": 0,
+    "explanation": "The Apu trilogy, the Pratidwandi, the Charulata and the others are the Bengali films of Satyajit Ray, who later made the Hindi films.",
+    "difficulty": "easy",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aadmi Aur Aurat' was the Hindi debut of:",
+    "options": [
+      "Mehboob Khan",
+      "Bimal Roy",
+      "Satyajit Ray",
+      "Guru Dutt"
+    ],
+    "answer": 2,
+    "explanation": "Aadmi Aur Aurat of 1969 was the Hindi debut of Satyajit Ray, who had earlier made a Hindi documentary, The Inner Eye.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Guru Dutt' and the 'Pyaasa':",
+    "options": [
+      "Guru Dutt directed the Mother India",
+      "Guru Dutt directed Pyaasa and Sahib Bibi Aur Ghulam",
+      "Guru Dutt directed the Mughal-e-Azam",
+      "Guru Dutt was the actor of the Pyaasa"
+    ],
+    "answer": 1,
+    "explanation": "Guru Dutt directed Pyaasa in 1957 and Sahib Bibi Aur Ghulam in 1960, and he was a legendary actor of the golden age of the Hindi cinema.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mother India' and the 'Bimal Roy':",
+    "options": [
+      "Bimal Roy directed Pather Panchali",
+      "Bimal Roy directed Pyaasa",
+      "Bimal Roy was a Bengali playwright",
+      "Bimal Roy directed Mother India and received the Best Director award for it"
+    ],
+    "answer": 3,
+    "explanation": "Bimal Roy directed Mother India of 1957, and he won the Best Director award for it at the Cannes film festival.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Meghna' and the 'Shyam Benegal' were:",
+    "options": [
+      "The documentaries of the Films Division",
+      "Films of the parallel cinema movement",
+      "The Hindi films of Raj Kapoor",
+      "The films of the Dadasaheb Phalke"
+    ],
+    "answer": 1,
+    "explanation": "Shyam Benagal's films, including Nishant, Manthan, Suraj Ka Satvan Ghoda and Meghna, are the landmarks of the parallel cinema movement.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Satyajit Ray' and the 'Feluda':",
+    "options": [
+      "A character of the Hindi cinema",
+      "A folk character of the Punjab",
+      "The detective character created by Satyajit Ray",
+      "A character of the Bengali literature by Bibhutibhushan"
+    ],
+    "answer": 2,
+    "explanation": "Feluda, the detective created by Satyajit Ray in the children's magazine Sandesh, became a hugely popular character of the Bengali literature and of the films.",
+    "difficulty": "easy",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mughal-e-Azam' of 1960 won the:",
+    "options": [
+      "Best Feature Film award at the National Film Awards",
+      "The Oscar for the best foreign film",
+      "The Best Actor award for Dilip Kumar",
+      "The Cannes Grand Prix"
+    ],
+    "answer": 0,
+    "explanation": "Mughal-e-Azam, directed by K. Asif, won the Best Feature Film award at the National Film Awards, and it remains the highest grossing Indian film of all time.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lagaan' of 2001:",
+    "options": [
+      "Won the National Award for the Best Popular Film",
+      "Was directed by Satyajit Ray",
+      "Won the Best Actor award for Shah Rukh Khan",
+      "Won the Best Foreign Language Film Oscar for India"
+    ],
+    "answer": 3,
+    "explanation": "Lagaan, directed by Ashutosh Gowariker, won the Academy Award for the Best Foreign Language Film in 2002, the only Indian film to do so.",
+    "difficulty": "easy",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RRR' of 2022:",
+    "options": [
+      "Was directed by S. S. Rajamouli of the Baahubali fame",
+      "Won the Best Original Song Oscar for Naatu Naatu",
+      "Won the Best Picture Oscar",
+      "Won the Best Director award at Cannes"
+    ],
+    "answer": 1,
+    "explanation": "RRR, directed by S. S. Rajamouli, won the Academy Award for the Best Original Song for Naatu Naatu in 2023, India's first Oscar in any category.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'All We Imagine as Light' of 2024:",
+    "options": [
+      "Was the first Indian film to win the Best Feature Film at Cannes",
+      "Won the Best Director award at the Venice",
+      "Won the Best Film at the National Awards",
+      "Was directed by Satyajit Ray"
+    ],
+    "answer": 0,
+    "explanation": "Payal Kapadia's All We Imagine as Light became the first Indian feature film to win the Best Feature Film award at Cannes in 2024.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Doordarshan' was founded in:",
+    "options": [
+      "1975",
+      "1949",
+      "1959",
+      "1956"
+    ],
+    "answer": 2,
+    "explanation": "Doordarshan, the national broadcaster, was founded in 1959 and replaced the private commercial broadcasting of the pre-independence era.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'All India Radio' (Akashvani) was founded in:",
+    "options": [
+      "1947",
+      "1939",
+      "1936",
+      "1930"
+    ],
+    "answer": 2,
+    "explanation": "The Indian State Broadcasting Service, renamed Akashvani in 1957, was founded in 1936 at the initiative of Rabindranath Tagore.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian People's Theatre Association' and the 'Bengali theatre' of Utpal Dutt:",
+    "options": [
+      "Utpal Dutt founded the Prithvi Theatre",
+      "Utpal Dutt was a Bengali poet",
+      "Utpal Dutt was the founder of the Naya Theatre",
+      "Utpal Dutt was the leader of the IPTA"
+    ],
+    "answer": 3,
+    "explanation": "Utpal Dutt was one of the leaders of the IPTA, and he was also a celebrated actor of the Bengali theatre and the films.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sangeet Natak Akademi' was set up in:",
+    "options": [
+      "1948",
+      "1952",
+      "1954",
+      "1956"
+    ],
+    "answer": 1,
+    "explanation": "The Sangeet Natak Akademi was set up in 1952 by the Government of India as the apex body for the performing arts, and it grants the Akademi Awards.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lalit Kala Akademi' was set up in:",
+    "options": [
+      "1954",
+      "1952",
+      "1956",
+      "1958"
+    ],
+    "answer": 0,
+    "explanation": "The Lalit Kala Akademi, the national academy of the visual arts, was set up in 1954 and it grants the Lalit Kala Akademi Fellowship.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sahitya Akademi' was set up in:",
+    "options": [
+      "1956",
+      "1958",
+      "1954",
+      "1952"
+    ],
+    "answer": 2,
+    "explanation": "The Sahitya Akademi was set up in 1954 as the national academy of the writers and it grants the Sahitya Akademi Award in 24 languages.",
+    "difficulty": "easy",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Karnataka Sangeetha Nritya Akademi' is at:",
+    "options": [
+      "Mysore",
+      "Hubli",
+      "Mangalore",
+      "Bangalore"
+    ],
+    "answer": 3,
+    "explanation": "The Karnataka Sangeetha Nritya Akademi is at Bangalore and it is the premier institution for the classical music and the dance of the state.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Madras Music Academy' was founded in:",
+    "options": [
+      "1928",
+      "1910",
+      "1930",
+      "1940"
+    ],
+    "answer": 0,
+    "explanation": "The Madras Music Academy was founded in 1928 by the leading musicians of the city, and it organised the first music conference in 1940.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gangubai Hangal' and the 'Hindustani music':",
+    "options": [
+      "She was a theatre pioneer",
+      "Gangubai Hangal was a leading Hindustani vocalist of the Kirana gharana",
+      "She was a Carnatic musician",
+      "She was a dancer"
+    ],
+    "answer": 1,
+    "explanation": "Gangubai Hangal of the Kirana gharana was among the foremost Hindustani vocalists of the twentieth century and she received the Padma Bhushan in 2002.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhimsen Joshi' was a:",
+    "options": [
+      "A violinist",
+      "Hindustani vocalist of the Gwalior gharana",
+      "Carnatic vocalist",
+      "A tabla player"
+    ],
+    "answer": 1,
+    "explanation": "Bhimsen Joshi was a Hindustani vocalist of the Gwalior gharana and a disciple of Hafiz Ali Khan.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Musiri Subramania Iyer' was a:",
+    "options": [
+      "Carnatic vocalist",
+      "Hindustani vocalist",
+      "A violinist of the Ravi Shankar gharana",
+      "A mridangam player"
+    ],
+    "answer": 0,
+    "explanation": "Musiri Subramania Iyer, a disciple of Parur Sundaram Iyer, was among the foremost Carnatic vocalists of the twentieth century.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ramdas' and the 'Khayal' and the 'Tansen':",
+    "options": [
+      "Tansen was a saint of the Bhakti movement",
+      "Tansen was a 20th-century composer",
+      "Tansen was a legendary musician of the court of Akbar",
+      "Tansen was a painter"
+    ],
+    "answer": 2,
+    "explanation": "Tansen, a legendary musician of the court of Akbar, was the greatest exponent of the khayal and the dhrupad styles in the Hindustani tradition.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Purandara Dasa' was the:",
+    "options": [
+      "Father of the Hindustani music",
+      "A playwright",
+      "A painter",
+      "Father of the Carnatic music"
+    ],
+    "answer": 3,
+    "explanation": "Purandara Dasa, a disciple of Vyasaraja and a follower of Vallabhacharya, is called the father of Carnatic music, and his compositions number in the thousands.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Karnatak' and the 'Hindustani' and the 'Dhrupad':",
+    "options": [
+      "Dhrupad is a form of the sitar",
+      "Dhrupad is the oldest vocal style of the Hindustani music",
+      "Dhrupad is a Carnatic form",
+      "Dhrupad is a folk song of the Punjab"
+    ],
+    "answer": 1,
+    "explanation": "Dhrupad, the oldest vocal style of the Hindustani music, is sung by the dhrupad singers of the Gwalior, the Kirana and the dhrupad traditions.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Varnas' of the Carnatic music are:",
+    "options": [
+      "The melodic scales with the specific intonation",
+      "The rhythmic patterns",
+      "The percussion instruments",
+      "The dance forms"
+    ],
+    "answer": 0,
+    "explanation": "The twelve varnas of the Carnatic system, with their specific intonation and the melakarta scheme, are the backbone of the ragas of the system.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'tanpura' is:",
+    "options": [
+      "A percussion instrument",
+      "A reed instrument",
+      "A bowed instrument",
+      "A four or five stringed drone instrument used to tune and to sustain the raga"
+    ],
+    "answer": 3,
+    "explanation": "The tanpura, with its four or five strings and the drone of the Pa, provides the harmonic background and the tuning of the raga in the Hindustani and the Carnatic systems.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'mridangam' is the:",
+    "options": [
+      "A string instrument",
+      "A wind instrument",
+      "A barrel-shaped double-headed drum of the Carnatic music",
+      "A pair of the cymbals"
+    ],
+    "answer": 2,
+    "explanation": "The mridangam is the principal percussion instrument of the Carnatic music, and its companion instruments are the ghatam, the kanjira, the morsing and the tavil.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'sarangi' is a:",
+    "options": [
+      "Bowed string instrument of the Hindustani music",
+      "A percussion instrument of the Carnatic music",
+      "A reed instrument",
+      "A bell metal cymbal"
+    ],
+    "answer": 0,
+    "explanation": "The sarangi, with three gut strings and a bow, is one of the principal bowed instruments of the Hindustani music, along with the sarangi, the dilruba and the violin.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rudra veena' and the 'surshringar':",
+    "options": [
+      "Are both the string instruments of the Carnatic music",
+      "Are both among the bowed instruments of the Hindustani music",
+      "Are both percussion instruments",
+      "Are both the vocal genres"
+    ],
+    "answer": 1,
+    "explanation": "The Rudra veena and the sursringar are the older bowed instruments of the Hindustani music, related to the modern violin.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vasant Desai' and the 'Ranjani' and the 'Gauhar Jaan':",
+    "options": [
+      "They were the founders of the music academy",
+      "They were the patrons of the Ustad Allauddin Khan",
+      "Vasant Desai and V. R. Bhatkhande revived the old raga and the dhrupad traditions",
+      "They were the film composers of the 1930s"
+    ],
+    "answer": 2,
+    "explanation": "Vasant Desai and V. R. Bhatkhande collected and published the old raga and the dhrupad material, and V. R. Bhatkhande wrote the Hindustani Sangeet Paddhati.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhatkhande' and the 'Sangeet Paddhati':",
+    "options": [
+      "Was the first dictionary of the Sanskrit",
+      "Was the first treatise of the Indian music in English",
+      "Was the first grammar of the Carnatic music",
+      "Was the first systematic documentation of the Hindustani music"
+    ],
+    "answer": 3,
+    "explanation": "Vishnu Narayan Bhatkhande's Hindustani Sangeet Paddhati of the 1920s was the first systematic documentation of the Hindustani music.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gharana' system in the Hindustani music refers to:",
+    "options": [
+      "The schools of the musical lineage and the style",
+      "The musical instruments of the region",
+      "The court rituals",
+      "The notation systems"
+    ],
+    "answer": 0,
+    "explanation": "The gharana system, the schools of the musical lineage, gives a lineage of the teachers and the distinctive style, and it was formalised in the nineteenth century.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Patiala gharana' of the Hindustani music was founded by:",
+    "options": [
+      "Baba Allauddin Khan",
+      "Ali Baksh and Fateh Ali Khan",
+      "Hasan Khan",
+      "Tansen"
+    ],
+    "answer": 1,
+    "explanation": "The Patiala gharana was founded by Ali Baksh and Fateh Ali Khan, and it is noted for the compositions in the dhrupad and the dhamar styles.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kirana gharana' was founded by:",
+    "options": [
+      "Baba Allauddin Khan",
+      "Ustad Faiyaz Khan",
+      "Abdul Karim Khan",
+      "Hasan Khan"
+    ],
+    "answer": 2,
+    "explanation": "Abdul Karim Khan, a court musician of the Nawab of Rampur, founded the Kirana gharana, which is the gharana of both Abdul Karim Khan and his sister Ratan Bai.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bansuri' is the:",
+    "options": [
+      "Bowed instrument",
+      "Percussion instrument",
+      "String instrument",
+      "Bamboo flute"
+    ],
+    "answer": 3,
+    "explanation": "The bansuri, the bamboo flute, is the most common wind instrument of the Hindustani music, and the shehnai is the double-reed one.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Santoor' and the 'Sarod':",
+    "options": [
+      "Both are the string instruments of the Carnatic music",
+      "The santoor is a string instrument of Kashmir and the sarod of the Ravi Shankar gharana",
+      "Both are the drums",
+      "Both are the flutes"
+    ],
+    "answer": 1,
+    "explanation": "The santoor is the hundred-stringed folk instrument of Kashmir and the sarod is the fretless string instrument popularised by Ravi Shankar.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hindustani music' and the 'Samagana':",
+    "options": [
+      "Both are the temple music of the south",
+      "Both are the film music",
+      "The Hindustani tradition and the Carnati Samagana are the two classical systems",
+      "Both are the folk music of the Punjab"
+    ],
+    "answer": 2,
+    "explanation": "The two classical systems of Indian music are the Hindustani and the Carnatic, the latter known as the Carnati Samagana in the Telugu tradition.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'film music' in India and the 'S.D. Burman':",
+    "options": [
+      "S.D. Burman and R.D. Burman were the famous music directors of the Hindi cinema",
+      "They were the classical musicians of Bengal",
+      "They were the founders of the Calcutta radio",
+      "They were the composers of the Bengali theatre"
+    ],
+    "answer": 0,
+    "explanation": "S.D. Burman and his son R.D. Burman created some of the most enduring Hindi film songs and the Ghazal and the thumri styles influenced the film music.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bhangra' is the dance of:",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Uttarakhand",
+      "Punjab"
+    ],
+    "answer": 3,
+    "explanation": "Bhangra is a Punjabi folk dance in which the dancers perform to the dhol while the dhadi and the dholi sing the boliyan.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Garba' of Gujarat is played during:",
+    "options": [
+      "Navratri",
+      "Holi",
+      "Diwali",
+      "Eid"
+    ],
+    "answer": 0,
+    "explanation": "The Garba and the Dandiya are the folk dances of Gujarat played during the nine nights of Navratri.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kalbelia' dance of Rajasthan:",
+    "options": [
+      "Is a war dance of the Rajputs",
+      "Is a devotional dance of the temple",
+      "Is a dance of the Brahmin community",
+      "Is a snake charmer's dance of the Thar desert"
+    ],
+    "answer": 3,
+    "explanation": "The Kalbelia, with the dholak and the sarangi and the pungi, is the dance of the snake charmers of Rajasthan, and it is on the UNESCO list.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ghoomar' and the 'Kalbelia' are the folk dances of:",
+    "options": [
+      "Punjab",
+      "Assam",
+      "Rajasthan",
+      "Gujarat"
+    ],
+    "answer": 2,
+    "explanation": "The Ghoomar, the Kalbelia and the Churanga are the best known folk dances of Rajasthan.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Theyyam' is a ritual dance of:",
+    "options": [
+      "Kerala",
+      "Tamil Nadu and Kerala",
+      "Karnataka only",
+      "Odisha"
+    ],
+    "answer": 1,
+    "explanation": "The Theyyam of north Kerala and the adjacent Tamil Nadu is a ritual performance in which the performer becomes the deity, and it is on the UNESCO list.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gidda' and the 'Sambalpuri' dances are of:",
+    "options": [
+      "Kerala",
+      "Odisha",
+      "Punjab",
+      "Rajasthan"
+    ],
+    "answer": 1,
+    "explanation": "The Gidda, the Dalkhai and the Sambalpuri are the folk dances of Odisha, with the Sambalpuri marked by the rhythmic use of the sticks.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lavani' and the 'Bihu' and the 'Ghoomar' are the dances of:",
+    "options": [
+      "Rajasthan, Assam and Kerala",
+      "Odisha, Bihar and Punjab",
+      "Kerala, Goa and Karnataka",
+      "Maharashtra, Assam and Rajasthan"
+    ],
+    "answer": 3,
+    "explanation": "The Lavani of Maharashtra, the Bihu of Assam and the Ghoomar of Rajasthan are among the most celebrated folk dances of the country.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kathakali' and the 'Mohiniyattam' and the 'Kuchipudi' and the 'Bharatanatyam' and the 'Odissi' and the 'Kathak' and the 'Manipuri' and the 'Sattriya':",
+    "options": [
+      "Are the eight styles of the Kathakali",
+      "Are the eight folk dances",
+      "Are the eight classical dance forms of India",
+      "Are the eight classical dances of the ancient India"
+    ],
+    "answer": 2,
+    "explanation": "The classical dances recognised by the Sangeet Natak Akademi are Bharatanatyam, Kathak, Kathakali, Kuchipudi, Manipuri, Mohiniyattam, Odissi and Sattriya.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sangeet Natak Akademi' has recognised the classical dance forms of India. The number of the recognised classical dances is:",
+    "options": [
+      "Eight",
+      "Nine",
+      "Seven",
+      "Six"
+    ],
+    "answer": 0,
+    "explanation": "The Sangeet Natak Akademi recognises eight classical dance forms, eight classical music traditions and several other folk traditions.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sursri' and the 'Kohinoor' are the dance styles of:",
+    "options": [
+      "Kathak",
+      "Bharatanatyam",
+      "Kuchipudi",
+      "Odissi"
+    ],
+    "answer": 0,
+    "explanation": "Kathak has the two principal styles, the Lucknow or Kathak and the Jaipur or the Rajasthan, and the terms sursri and kohinoor are used for the two schools.",
+    "difficulty": "hard",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ashtami' and the 'Guruvayur' are:",
+    "options": [
+      "A painting and a museum",
+      "A music school and a university",
+      "A dance and a temple in Kerala",
+      "A festival and a city in Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "The Ashtami, the classical dance of the Bharatanatyam, and the Guruvayur temple in Thrissur are the landmarks of the cultural Kerala.",
+    "difficulty": "hard",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kutiyattam' and the 'Koodiyattam':",
+    "options": [
+      "Are two theatre forms of Karnataka",
+      "Are the two names of the same ancient theatre form of Kerala",
+      "Are two classical dances",
+      "Are two music schools"
+    ],
+    "answer": 1,
+    "explanation": "Kutiyattam, also known as Koodiyattam, is the ancient Sanskrit theatre of Kerala and it was inscribed on the UNESCO list in 2001.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nangiar Koothu' and the 'Kerala Kalamandalam':",
+    "options": [
+      "The Nangiar Koothu is a Telugu dance",
+      "The Kalamandalam is a film school",
+      "The Nangiar Koothu is a folk music of Punjab",
+      "The Nangiar Koothu is a Sanskrit theatre of Kerala studied by the Kalamandalam"
+    ],
+    "answer": 3,
+    "explanation": "The Nangiar Koothu, a solo performance of the Sanskrit theatre, was studied and documented by the Kalamandalam of Vallathol Narayana Menon and later by Kapila Vatsyayan.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Khyal' and the 'Dhrupad' and the 'Thumri':",
+    "options": [
+      "Are the three major vocal genres of the Hindustani music",
+      "Are the three Carnatic genres",
+      "Are the three percussion instruments",
+      "Are the three classical dances"
+    ],
+    "answer": 0,
+    "explanation": "The khayal, the dhrupad and the thumri are the principal vocal genres of the Hindustani music, and the dhrupad is the oldest of them.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Varnam' of the Carnatic music:",
+    "options": [
+      "Is a dance solo",
+      "Is the improvised introductory composition in a raga",
+      "Is a percussion pattern",
+      "Is a fixed composed song"
+    ],
+    "answer": 1,
+    "explanation": "The Varnam precedes the main composition in a Carnatic concert and is an improvised elaboration of the raga, and the most famous is the kritis of Tyagaraja.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Thumri' is:",
+    "options": [
+      "A devotional genre of the Carnatic music",
+      "A form of the tabla solo",
+      "A type of the sitar music",
+      "A semi-classical vocal genre of the Hindustani music with the romantic lyrics"
+    ],
+    "answer": 3,
+    "explanation": "The thumri is a semi-classical genre of the Hindustani music, sung in the khamaj thaat, and it is the staple of the Uttar Pradesh and the Banaras gharana.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kafi' and the 'Khamaj' are:",
+    "options": [
+      "The percussion instruments",
+      "The dance forms",
+      "The thaats of the Hindustani music",
+      "The ragas of the Carnatic music"
+    ],
+    "answer": 2,
+    "explanation": "The Hindustani system has ten thaats, of which the Khamaj, the Kafi and the Khammaj are the most important, and the Carnatic system has the melakarta scheme.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sarod' was popularised by:",
+    "options": [
+      "Ravi Shankar",
+      "Vilayat Khan",
+      "Hazrat Ali Khan",
+      "Ali Akbar Khan"
+    ],
+    "answer": 0,
+    "explanation": "Ravi Shankar popularised the sarod, the sitar and the flute in the West and he was the director of the All India Radio Music College at Allahabad.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Allauddin Khan' was the guru of:",
+    "options": [
+      "Bismillah Khan and Vilayat Khan",
+      "Ravi Shankar and Ali Akbar Khan",
+      "Vilayat Khan and Bismillah Khan",
+      "Zubin Mehta and Ravi Shankar"
+    ],
+    "answer": 1,
+    "explanation": "Hafiz Ali Khan, the father of Ali Akbar Khan and Vilayat Khan, was the guru of Ravi Shankar and of the great shehnai player Bismillah Khan.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sangeet Natak Akademi Awards' are given for:",
+    "options": [
+      "The visual arts only",
+      "The literature only",
+      "The cinema only",
+      "The performing arts"
+    ],
+    "answer": 3,
+    "explanation": "The Akademi Awards are the highest national recognition for the practitioners of the performing arts, and they are given in more than a hundred categories.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kalamandalam' of Kerala is an institution for:",
+    "options": [
+      "The cinema",
+      "The folk painting",
+      "The classical dance and the music and the drama",
+      "The visual arts"
+    ],
+    "answer": 2,
+    "explanation": "The Kalamandalam, founded in 1930 by Vallathol Narayana Menon, is the premier institution for the classical dance, the music, the drama and the related arts of Kerala.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kalakshetra' at Chennai was founded by:",
+    "options": [
+      "Mylapore Gowri Amma",
+      "E. Krishna Iyer",
+      "K. Balasaraswati",
+      "Rukmini Devi Arundale"
+    ],
+    "answer": 3,
+    "explanation": "The Kalakshetra was founded in 1936 by Rukmini Devi Arundale, and it was instrumental in the revival of the Bharatanatyam.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Madras Music Academy' and the 'Kalakshetra' are both located in:",
+    "options": [
+      "Chennai",
+      "Bangalore",
+      "Hyderabad",
+      "Kolkata"
+    ],
+    "answer": 0,
+    "explanation": "Both the Madras Music Academy and the Kalakshetra are in Chennai, and the two institutions have been central to the Carnatic music and the Bharatanatyam.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ustad Alauddin Khan' and the 'Ali Akbar College of Music':",
+    "options": [
+      "It was founded by Ravi Shankar",
+      "It was founded by Bismillah Khan",
+      "Ustad Alauddin Khan founded the college in 1943",
+      "The college was founded by Rabindranath Tagore"
+    ],
+    "answer": 2,
+    "explanation": "Ustad Alauddin Khan founded the Ali Akbar College of Music in Calcutta in 1943, and it later moved to the Santiniketan in 1966.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rabindrasangeet' and the 'Visva-Bharati':",
+    "options": [
+      "Tagore was the founder of the Sangeet Natak Akademi",
+      "Tagore composed the Rabindrasangeet and founded the Visva-Bharati at Santiniketan",
+      "Tagore founded the Kalakshetra",
+      "Tagore composed the thumri"
+    ],
+    "answer": 1,
+    "explanation": "Rabindranath Tagore composed the Rabindrasangeet, a collection of 2,000 songs, and he founded the Visva-Bharati at Santiniketan in 1901.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kirtan' and the 'Kafi' and the 'Thumri' are the genres sung in the:",
+    "options": [
+      "North Indian tradition",
+      "South Indian tradition",
+      "The tribal traditions of the east",
+      "The folk music of Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "The kirtan, the kafi, the thumri and the khayal belong to the North Indian or the Hindustani tradition, while the varnam, the kritis and the padam belong to the South.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hindustani music' and the 'situation' of the 'Saraswati' and the 'Veena':",
+    "options": [
+      "Both are the flutes",
+      "Both are the bowed instruments",
+      "The sitar and the veena are the plucked string instruments of the Hindustani and the Carnatic traditions",
+      "Both are the drums"
+    ],
+    "answer": 2,
+    "explanation": "The sitar and the veena are the principal plucked string instruments of the Hindustani and the Carnatic music respectively.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian music' and the 'Gharana of the khayal' and the 'Sangam':",
+    "options": [
+      "The gharana system is a feature of the Arabic music",
+      "The gharana system is a feature of the Hindustani music and the Sangam the Tamil literature",
+      "The gharana system is a feature of the Carnatic music",
+      "The Sangam is a music school of Kerala"
+    ],
+    "answer": 1,
+    "explanation": "The gharana system of the music lineage is a feature of the Hindustani music, and the Sangam is the corpus of the ancient Tamil poetry.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Raga' in the Indian music is:",
+    "options": [
+      "A rhythmic cycle",
+      "A vocal ornament",
+      "A percussion pattern",
+      "A melodic framework with a characteristic scale and the mood"
+    ],
+    "answer": 3,
+    "explanation": "A raga is a melodic framework with a characteristic scale, the ascending and the descending pattern, the mood and the time of the day, and it is the central concept of the Indian music.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'tala' in the Indian music is:",
+    "options": [
+      "A ornamentation style",
+      "A vocal form",
+      "A rhythmic cycle with a fixed number of beats",
+      "A melodic scale"
+    ],
+    "answer": 2,
+    "explanation": "A tala is the rhythmic cycle of the music with a fixed number of beats arranged in a particular pattern, and the Hindustani has the six and the eight tala families.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rajasthani' and the 'Marwari' schools of the folk music:",
+    "options": [
+      "Are the two classical dance forms",
+      "Are the two folk theatre forms of Gujarat",
+      "Are the two styles of the painting",
+      "Are the two main schools of the Rajasthani folk music"
+    ],
+    "answer": 3,
+    "explanation": "The Rajasthani folk music has the two main schools, the Rajasthani and the Marwari, and the genres include the Dhrupad, the Dhrupad, the Caur and the Sohar.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lavani' of Maharashtra is sung in the:",
+    "options": [
+      "Persian only",
+      "Dravidian language dialect with the poetic and the folk traditions",
+      "Sanskrit",
+      "Arabic"
+    ],
+    "answer": 1,
+    "explanation": "The Lavani is sung in a Marathi dialect with the lavani boli, and it is a long narrative ballad of the wandering poet and the shepherd communities.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Baul' of Bengal:",
+    "options": [
+      "Are the mystic minstrels of Bengal and Bangladesh",
+      "Are the classical musicians of Kerala",
+      "Are the theatre troupes of Odisha",
+      "Are the temple musicians of Tamil Nadu"
+    ],
+    "answer": 0,
+    "explanation": "The Bauls are the mystic minstrel singers of Bengal and Bangladesh, whose songs reflect a syncretic philosophy of the body, the soul and the simple life.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cave Temples of Ajanta' were discovered by:",
+    "options": [
+      "V. S. Sambamurthy",
+      "John Marshall",
+      "Alexander Cunningham",
+      "James Burgess"
+    ],
+    "answer": 2,
+    "explanation": "The Ajanta caves were first documented in 1819 by a British army officer, and the ASI under John Marshall carried out the scientific excavation later.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gandhara' and the 'Mathura' schools of sculpture:",
+    "options": [
+      "Gandhara shows the indigenous and Mathura the Hellenistic",
+      "Both were the Greek colonies",
+      "Both were the schools of the south",
+      "Gandhara shows the Hellenistic influence and Mathura the indigenous"
+    ],
+    "answer": 3,
+    "explanation": "The Gandhara school of sculpture shows the Greco-Roman influence and the Mathura school the indigenous and the abstract treatment, and both flourished in the first few centuries of the common era.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Headless' and the 'Aihole' are:",
+    "options": [
+      "The headless Gautama of the Gandhara and the Chalukya temple in Karnataka",
+      "Two forms of the dance",
+      "Two painters",
+      "Two rivers"
+    ],
+    "answer": 0,
+    "explanation": "The famous headless Buddha of the Gandhara is in the Lahore Museum, and the Aihole temple of the Chalukyas in Karnataka is a key monument of the early Deccan architecture.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Didarganj' and the 'Harappan':",
+    "options": [
+      "A stupa of the Satavahana",
+      "The terracotta yakshi of the Maurya period",
+      "A Buddhist site of the Kushana period",
+      "A temple of the Vijayanagara"
+    ],
+    "answer": 1,
+    "explanation": "The famous polished terracotta yakshi from Didarganj near Patna, with the Art Deco treatment, belongs to the Maurya period.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bharhut' and the 'Sanchi' stupas:",
+    "options": [
+      "Both are the Buddhist stupas of the Shunga and the Satavahana periods",
+      "Both are the Jain temples of Rajasthan",
+      "Both are the rock-cut caves",
+      "Both are the stupas of the Kushana period"
+    ],
+    "answer": 0,
+    "explanation": "The Bharhut stupa of the Shunga period and the Sanchi stupa of the Satavahana period are the two great early Buddhist stupas.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Terracotta' and the 'Mauryan':",
+    "options": [
+      "The Mauryan terracotta is the finest in the world",
+      "The Mauryan terracotta is the finest in India",
+      "The Mauryan terracotta is found in the north only",
+      "The Mauryan terracotta is the finest in the world and it is found in the Maurya period"
+    ],
+    "answer": 3,
+    "explanation": "The terracotta figurines of the Mauryan period, the yakshis and the toy figures, are the finest terracotta in the world, and they are a hallmark of the Mauryan art.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Amaravati' and the 'Nagarjunakonda' stupas:",
+    "options": [
+      "Are the stupas of the Kushanas",
+      "Are the Buddhist stupas built under the Satavahanas and the Vakatakas",
+      "Are the Jain caves of Karnataka",
+      "Are the rock-cut temples of the Cholas"
+    ],
+    "answer": 1,
+    "explanation": "The Amaravati and the Nagarjunakonda stupas were built under the Satavahanas in the Krishna valley, and the Nagarjunakonda site was submerged by the Nagarjunsagar dam and the remains were moved to the museum.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sanchi' and the 'Bharhut' and the 'Mathura':",
+    "options": [
+      "The art of the Vakataka period",
+      "The art of the Sultanate",
+      "The art of the Shunga period",
+      "The art of the Gupta period"
+    ],
+    "answer": 2,
+    "explanation": "The Sanchi and the Bharhut stupas and the Mathura sculptures of the Kushana and the Gupta period show the trajectory of the Buddhist art from the Shunga period onwards.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sigiriya' frescoes of Sri Lanka:",
+    "options": [
+      "Belong to the Chola period",
+      "Belong to the Vijayanagara period",
+      "Belong to the Portuguese period",
+      "Belong to the reign of Kashyapa I of the Sigiriya dynasty"
+    ],
+    "answer": 3,
+    "explanation": "The Sigiriya frescoes of the fifth century CE were painted during the reign of King Kashyapa I, and they depict the court life and the religious scenes.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ananda Temple' at Bagan:",
+    "options": [
+      "Is a Sri Lankan temple",
+      "Is a masterpiece of the Burmese temple architecture",
+      "Is a Khmer temple",
+      "Is a Thai temple"
+    ],
+    "answer": 1,
+    "explanation": "The Ananda Temple at Bagan in Myanmar, built in the eleventh century, is one of the masterpieces of the Burmese temple architecture and the Buddhist art.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Polonnaruwa' and the 'Gal Vihara':",
+    "options": [
+      "Are in Thailand",
+      "Are in Cambodia",
+      "Are the Sri Lankan sites of the Sinhalese art",
+      "Are in Myanmar"
+    ],
+    "answer": 2,
+    "explanation": "The Gal Vihara rock monastery and the ruins of Polonnaruwa are the finest examples of the Sinhalese Buddhist art of Sri Lanka.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sanchi' and the 'Bhitarkanika':",
+    "options": [
+      "Sanchi is a Buddhist site and the Bhitarkanika a mangrove forest",
+      "Both are the Buddhist sites",
+      "Both are the mangrove forests",
+      "Both are the wildlife sanctuaries"
+    ],
+    "answer": 0,
+    "explanation": "Sanchi is the great Buddhist stupa site in Madhya Pradesh and the Bhitarkanika is the famous mangrove forest of Odisha.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kakatiya' and the 'Warangal':",
+    "options": [
+      "The Pandyas of Madurai",
+      "The Kakatiya dynasty of the Kakatiya and the temple of the Thousand Pillars",
+      "The Chalukyas of Badami",
+      "The Pallavas of Kanchipuram"
+    ],
+    "answer": 1,
+    "explanation": "The Kakatiya dynasty of the Kakatiya and the temple of the Thousand Pillars at Warangal is the finest example of the Kakatiya architecture.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hoysala' and the 'Chennakeshava':",
+    "options": [
+      "The Hoysala temple is at Madurai",
+      "The Hoysala temple is dedicated to Shiva at Khajuraho",
+      "The Hoysala temple is the Buddhist cave of Ajanta",
+      "The Hoysala temple at Belur is dedicated to Chennakeshava"
+    ],
+    "answer": 3,
+    "explanation": "The Chennakeshava temple at Belur, built by the Hoysala king Vishnuvardhana, is the finest of the Hoysala monuments.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Khajuraho' and the 'Chandela':",
+    "options": [
+      "The Khajuraho temples were built by the Pandyas",
+      "The Khajuraho temples were built by the Hoysalas",
+      "The temples at Khajuraho were built by the Chandela rulers",
+      "The Khajuraho temples were built by the Cholas"
+    ],
+    "answer": 2,
+    "explanation": "The Chandela rulers of Bundelkhand built the temples at Khajuraho, and the erotic sculptures there are a celebration of the life and the love.",
+    "difficulty": "easy",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hoysala' and the 'Bhadra' and the 'Amaralinga':",
+    "options": [
+      "The Chennakeshava temple at Belur has the Bhadra and the Amaralinga",
+      "The Hoysala temples are the Buddhist caves",
+      "The Hoysala temples are the Vijayanagara monuments",
+      "The Hoysala temples are the Jain temples of Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "The Chennakeshava temple at Belur has a circumambulatory corridor with the Bhadra and the Amaralinga, and the other Hoysala monuments are at Halebidu and Somnathpur.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mughal painting' and the 'Akbar' and the 'Hamzanama':",
+    "options": [
+      "The Akbar painted the Hamzanama himself",
+      "The Hamzanama is a Jain manuscript",
+      "The Hamzanama is a Pahari work",
+      "The Akbar commissioned the Hamzanama, the largest of the Mughal manuscripts"
+    ],
+    "answer": 3,
+    "explanation": "The Akbar commissioned the Hamzanama with the illustrations of the adventures of the hero Amir Hamza, and it is the largest of the Mughal manuscripts, while the Jahangir preferred the portrait and the allegorical subjects.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Akbar Nama' and the 'Abu'l Fazl':",
+    "options": [
+      "Abu'l Fazl wrote the Rajatarangini",
+      "Abu'l Fazl wrote the Akbar Nama and the Ain-i-Akbari",
+      "Abu'l Fazl wrote the Padshahnama",
+      "Abu'l Fazl wrote the Shah Nama"
+    ],
+    "answer": 1,
+    "explanation": "Abu'l Fazl wrote the Akbar Nama, the chronicle of the reign, and the Ain-i-Akbari, the third book of which describes the mansabdari system.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Padshahnama' of Abdul Hamid Lahori and the 'Alamgirnama' of Muhammad Kazim:",
+    "options": [
+      "Both are the histories of the Mughals of the Deccan",
+      "Both are the Persian translations of the Bible",
+      "Both are the court chronicles of Aurangzeb's reign",
+      "Both are the biographies of Akbar"
+    ],
+    "answer": 2,
+    "explanation": "The Padshahnama of Abdul Hamid Lahori and the Alamgirnama of Muhammad Kazim are the two principal court chronicles of the reign of Aurangzeb.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Shah Jahan' and the 'Taj Mahal':",
+    "options": [
+      "The Taj Mahal is a mausoleum built by Shah Jahan for Mumtaz Mahal",
+      "The Taj Mahal was built by Akbar for his mother",
+      "The Taj Mahal was built by Jahangir",
+      "The Taj Mahal is a temple"
+    ],
+    "answer": 0,
+    "explanation": "The Taj Mahal at Agra was commissioned by Shah Jahan in 1632 as a mausoleum for his beloved wife Mumtaz Mahal, and it is a UNESCO World Heritage site.",
+    "difficulty": "easy",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mughal' and the 'Peacock Throne':",
+    "options": [
+      "The Peacock Throne was made for the Shah Jahan",
+      "The Peacock Throne was made for the Akbar",
+      "The Peacock Throne was made by the French",
+      "The Peacock Throne is a painting"
+    ],
+    "answer": 0,
+    "explanation": "The Peacock Throne, with the precious stones, was made for the Shah Jahan and it was set up in the Diwan-i-Khas of the Red Fort.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mughal' and the 'Taj Mahal' and the 'charbagh':",
+    "options": [
+      "The garden of the Taj Mahal is a Japanese style",
+      "The garden of the Taj Mahal is laid out on the lines of the English landscape",
+      "The garden of the Taj Mahal is laid out in the charbagh style of the Persian gardens",
+      "The garden of the Taj Mahal is in the English style"
+    ],
+    "answer": 2,
+    "explanation": "The garden of the Taj Mahal is laid out in the charbagh, the four-part Persian style, divided by the waterways on the lines of the Quranic paradise.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jahangir' and the 'painting' and the 'golden apple':",
+    "options": [
+      "The Jahangir was a patron of the Western art",
+      "The Jahangir preferred the allegorical portraits and the golden apple image",
+      "The Jahangir painted the miniatures himself",
+      "The Jahangir only painted the portraits of the women"
+    ],
+    "answer": 1,
+    "explanation": "The Jahangir preferred the single figure portraits, the allegorical and the calligraphic compositions and the golden apple tree, in contrast to the Akbar's narrative approach.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bichitr' and the 'Padshahnama':",
+    "options": [
+      "The Bichitr painted the murals of the Ajanta",
+      "The Bichitr was a Mughal architect",
+      "The Bichitr painted the European portraits",
+      "The Padshahnama of the Shah Jahan was illustrated by the Bichitr"
+    ],
+    "answer": 3,
+    "explanation": "The Padshahnama of the Shah Jahan was illustrated with 116 miniatures by the Bichitr and the other painters of the atelier.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sultanate' architecture of the 'Tughlaq' and the 'Lodi':",
+    "options": [
+      "The Tughlaq and the Lodi styles are the Mughal architecture",
+      "The Tughlaq and the Lodi styles are the Rajput architecture",
+      "The Tughlaq and the Lodi styles are the Vijayanagara architecture",
+      "The Tughlaq and the Lodi styles are the two phases of the Delhi Sultanate architecture"
+    ],
+    "answer": 3,
+    "explanation": "The Delhi Sultanate architecture is divided into the four successive styles of the Mamluk or the Slave, the Khalji, the Tughlaq and the Lodi dynasties.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Fatehpur Sikri' and the 'Buland Darwaza':",
+    "options": [
+      "The Buland Darwaza was built by the Akbar as the tallest gateway in the world at the time",
+      "The Buland Darwaza was built by the Shah Jahan",
+      "The Buland Darwaza is a tomb",
+      "The Buland Darwaza is in Gujarat"
+    ],
+    "answer": 0,
+    "explanation": "The Buland Darwaza, completed in 1601, is the tallest gateway in the world, and it was built by the Akbar to commemorate the victory over the Deccan.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bibi ka Maqbara' at Aurangabad:",
+    "options": [
+      "Is the palace of the Nizam",
+      "Is the tomb of Aurangzeb's wife, built in the Mughal style",
+      "Is the tomb of the Emperor Aurangzeb",
+      "Is a Hindu temple"
+    ],
+    "answer": 1,
+    "explanation": "The Bibi ka Maqbara is the tomb of Dilras Banu Begum, the wife of Aurangzeb, built in 1660 in the Mughal style, and it is called the poor man's Taj Mahal.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tomb of Itmad-ud-Daulah' is at:",
+    "options": [
+      "Lahore",
+      "Fatehpur Sikri",
+      "Agra",
+      "Delhi"
+    ],
+    "answer": 2,
+    "explanation": "The tomb of Itmad-ud-Daulah at Agra, built by Nur Jahan for her father, is the first Mughal monument in the white marble.",
+    "difficulty": "easy",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Deccan' and the 'Bijapur' and the 'Gol Gumbaz':",
+    "options": [
+      "Are the monuments of the Nizam of Hyderabad",
+      "Are the monuments of the Bahmani of Bidar",
+      "Are the monuments of the Adil Shahi dynasty of Bijapur",
+      "Are the monuments of the Qutb Shahi dynasty of Golconda"
+    ],
+    "answer": 2,
+    "explanation": "The Gol Gumbaz, the Golconda mosque and the Ibrahim Rauza are the monuments of the Adil Shahi dynasty of Bijapur, and the Qutb Shahi of Golconda is the other Deccan sultanate.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Qutb Shahi' and the 'Golconda':",
+    "options": [
+      "The Qutb Shahi capital was at Bijapur",
+      "The Qutb Shahi were a Mughal clan",
+      "The Qutb Shahi ruled at Ahmedabad",
+      "The Qutb Shahi dynasty had its capital at Golconda with the Golconda mines"
+    ],
+    "answer": 3,
+    "explanation": "The Qutb Shahi dynasty ruled at Golconda near Hyderabad from 1518 and profited from the Golconda diamond mines, which produced the Koh-i-Noor.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nizam's' and the 'Chowmahalla' and the 'Charminar':",
+    "options": [
+      "The Charminar is the emblem of Hyderabad and the Chowmahalla the palace of the Nizams",
+      "The Charminar is the palace of the Nizams",
+      "The Chowmahalla is a temple",
+      "Both are in Ahmednagar"
+    ],
+    "answer": 0,
+    "explanation": "The Charminar, built by the Qutb Shahi, is the emblem of Hyderabad, and the Chowmahalla was the seat of the Nizams.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Safdarjung's Tomb' at Delhi was built by:",
+    "options": [
+      "Muhammad Shah",
+      "Safdar Jang, the Nawab of Oudh",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "answer": 1,
+    "explanation": "The Safdarjung's Tomb was built in 1739 by Safdar Jang, the Nawab of Oudh, for his father, and it was designed by the French architect Jean-Baptiste Tavernier.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ghiyath-ud-din' and the 'Tughlaq' and the 'Tughlaqabad':",
+    "options": [
+      "The Tughlaqabad was founded by Alauddin Khalji",
+      "The Tughlaqabad is a Mughal city",
+      "The Tughlaqabad is in Bengal",
+      "The Tughlaqabad was founded by Ghiyath-ud-din Tughlaq and is the third and the only entirely new city built by the Delhi Sultanate"
+    ],
+    "answer": 3,
+    "explanation": "Sultan Ghiyath-ud-din Tughlaq founded Tughlaqabad, the third and the only entirely new city built by the Delhi Sultanate, and it is a UNESCO World Heritage site.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lalbagh' and the 'Krishnaraja Wodeyar':",
+    "options": [
+      "The Lalbagh Garden of Bangalore was laid out by the Wodeyars in the 18th century",
+      "The Lalbagh is a Mughal garden of Delhi",
+      "The Lalbagh is in Kerala",
+      "The Lalbagh was built by the British"
+    ],
+    "answer": 0,
+    "explanation": "The Lalbagh Garden in Bangalore was laid out by the Wodeyar kings in the 18th century, and the layout is said to follow the plans of the Mughal garden at Delhi.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nizam' and the 'Purani Haveli':",
+    "options": [
+      "The Purani Haveli is a temple in Tamil Nadu",
+      "The Purani Haveli is a literary work",
+      "The Purani Haveli in Hyderabad was the seat of the Nizams",
+      "The Purani Haveli is in Mysore"
+    ],
+    "answer": 2,
+    "explanation": "The Purani Haveli was the seat of the Nizams of Hyderabad and it houses the collections of the Salar Jung Museum and the royal library.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Krishnadevaraya' and the 'Virupaksha' and the 'Hampi':",
+    "options": [
+      "The Virupaksha temple was built by the Pandyas",
+      "The Virupaksha temple at Hampi was built by Krishnadevaraya of the Vijayanagara empire",
+      "The Virupaksha temple was built by the Cholas",
+      "The Virupaksha temple is a Jain temple"
+    ],
+    "answer": 1,
+    "explanation": "The Virupaksha temple at Hampi was built by Krishnadevaraya, and it is the oldest of the monuments of the Vijayanagara capital.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hampi' and the 'Vitthala' and the 'stone chariot':",
+    "options": [
+      "The stone chariot is in Delhi",
+      "The Vitthala temple at Hampi has the famous stone chariot",
+      "The Vitthala temple is a Buddhist cave",
+      "The Vitthala temple is in Kerala"
+    ],
+    "answer": 1,
+    "explanation": "The Vitthala temple at Hampi, with the stone chariot in its courtyard, is one of the finest of the Vijayanagara monuments.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rajasthani' painting and the 'Kangra' and the 'Amrita':",
+    "options": [
+      "The Kangra paintings of the Amritotsava of the Darshan of the Lord are the finest of the Pahari school",
+      "The Amritotsava is a Pahari work of the eighteenth century",
+      "The Amritotsava was painted by the Mughal school",
+      "The Amritotsava is a textile"
+    ],
+    "answer": 0,
+    "explanation": "The Amritotsava or the Darshan of the Lord, painted in Kangra in the eighteenth century, is the finest of the Pahari painting school.",
+    "difficulty": "hard",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bundi' and the 'Bikaner' are:",
+    "options": [
+      "The folk theatre forms",
+      "The music schools",
+      "The Rajasthani miniature painting schools",
+      "The classical dance forms"
+    ],
+    "answer": 2,
+    "explanation": "Bundi, Kota, Kishangarh, Jaipur, Mewar and the Bikaner are among the principal schools of the Rajasthani miniature painting.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mughal painting' and the 'Mughal school' and the 'Padshahnama':",
+    "options": [
+      "The Mughal school is illustrated by the Ajanta caves",
+      "The Mughal school is illustrated by the Rajput paintings",
+      "The Mughal school is illustrated by the Tanjore paintings",
+      "The Mughal school of painting is illustrated by the Padshahnama and the Hamzanama"
+    ],
+    "answer": 3,
+    "explanation": "The Mughal school is documented by the illustrated manuscripts like the Padshahnama, the Hamzanama, the Akbarnama and the Razmnama.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Company painting' of India:",
+    "options": [
+      "Is a prehistoric art",
+      "Is a folk painting of the villagers",
+      "Is the mural tradition of the Ajanta",
+      "Developed in the late 18th century for the European patrons"
+    ],
+    "answer": 3,
+    "explanation": "The Company style, a hybrid of the Indian and the European techniques, was produced in the late eighteenth and the early nineteenth centuries for the European patrons.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kalighat' painting developed around:",
+    "options": [
+      "The Kalighat temple of the Sikhs",
+      "The Kalighat temple in Calcutta",
+      "The Kalighat temple in Varanasi",
+      "The Kalighat temple in Kerala"
+    ],
+    "answer": 1,
+    "explanation": "The Kalighat paintings developed in the 19th century around the Kalighat temple in Calcutta, with the bold brushwork and the use of the imported colours.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gond' painting of Madhya Pradesh:",
+    "options": [
+      "Uses the miniature of the Rajasthan",
+      "Is the scroll painting of Odisha",
+      "Uses a distinctive bold line work on the mud-plastered walls",
+      "Uses the gold foil on the wood panels"
+    ],
+    "answer": 2,
+    "explanation": "The Gond paintings of Madhya Pradesh use a bold line work and the simple colours on the mud-plastered walls, and the artists belong to the Gond tribe.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Warli' and the 'Chitrakala':",
+    "options": [
+      "The Chitrakala is the mural tradition of the coastal Karnataka",
+      "The Chitrakala is the mural tradition of the Warli of Maharashtra",
+      "The Chitrakala is the mural tradition of the Bhils",
+      "The Chitrakala is a miniatures of the Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "The Chitrakala is the mural tradition of the coastal Karnataka, the Warli of Maharashtra and the Saora of Odisha are the tribal mural traditions, and the Pattachitra of Odisha and the Bengal is the scroll painting.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sanchi' and the 'Bharhut' and the 'Amaravati' are:",
+    "options": [
+      "The three styles of the Gandhara school",
+      "The three Jain cave sites",
+      "The three capitals of the Satavahanas",
+      "The three great Buddhist stupas of the early India"
+    ],
+    "answer": 3,
+    "explanation": "The Sanchi, the Bharhut and the Amaravati are the three great early Buddhist stupas, and the Amaravati stupa was later enlarged under the Satavahanas.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Karnataka' and the 'Champa' and the 'Hoysala':",
+    "options": [
+      "The Hoysala is the style of the Cholas",
+      "The Champa is a Buddhist cave of Odisha",
+      "The temple architecture of Karnataka is a synthesis of the Chalukyan, the Hoysala and the Vijayanagara traditions",
+      "The Champa is a style of the Kerala temples"
+    ],
+    "answer": 2,
+    "explanation": "The Karnataka temple architecture shows the culmination of the Chalukyan, the Hoysala and the Vijayanagara phases, and the Hoysala and the Vijayanagara styles are the most noted.",
+    "difficulty": "hard",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mughal' and the 'Akbar' and the 'Mansabdari':",
+    "options": [
+      "The Mansabdari system of the Akbar was a ranking system of the military and the revenue",
+      "The Mansabdari system was a land settlement",
+      "The Mansabdari system was a judicial reform",
+      "The Mansabdari system was the tax farming"
+    ],
+    "answer": 0,
+    "explanation": "The mansabdari system of the Akbar assigned a rank, the mansab, to the officials and the military commanders, who were paid in the salaries and the jagirs.",
+    "difficulty": "easy",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rang Mahal' and the 'Lal Qila':",
+    "options": [
+      "The Rang Mahal is a mosque",
+      "The Rang Mahal of the Red Fort was the place of the royal ceremonies",
+      "The Rang Mahal is in Jaipur",
+      "The Rang Mahal is a tomb of the Nizams"
+    ],
+    "answer": 1,
+    "explanation": "The Rang Mahal of the Red Fort, with its marble pumice and the gilded carvings, was the setting of the ceremonial and the diplomatic receptions of the Mughal court.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hawa Mahal' and the 'City Palace' of Jaipur:",
+    "options": [
+      "The City Palace was built by Shah Jahan",
+      "The Hawa Mahal is a temple",
+      "The Hawa Mahal was built by Sawai Pratap Singh and the City Palace by Jai Singh II",
+      "The Hawa Mahal was built by Akbar"
+    ],
+    "answer": 2,
+    "explanation": "The Hawa Mahal, with the facade of the hundreds of the jharokhas, was built by Sawai Pratap Singh in 1799, and the City Palace complex by Maharaja Jai Singh II.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Meenakshi' temple and the 'Thousand pillars':",
+    "options": [
+      "The Thousand Pillars is a Hoysala temple",
+      "The Thousand Pillars is a Buddhist monastery",
+      "The Thousand Pillars is a Jain temple",
+      "The Meenakshi temple has the Hall of a Thousand Pillars"
+    ],
+    "answer": 3,
+    "explanation": "The Meenakshi temple at Madurai has the Golden Lotus tank, the Hall of a Thousand Pillars and the tall gopurams with the painted sculptures.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Shore temple' at Mahabalipuram was built by:",
+    "options": [
+      "The Pallava Narasimhavarman I",
+      "The Chola Rajaraja I",
+      "The Pandya Maravarman",
+      "The Vijayanagara Krishnadevaraya"
+    ],
+    "answer": 0,
+    "explanation": "The Shore Temple, with the pancha Rathas, was built by the Pallava king Narasimhavarman I in the early eighth century.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kailasa temple' at Ellora was built by:",
+    "options": [
+      "The Kadamba Shastivarman",
+      "The Rashtrakuta Krishna I",
+      "The Chalukya Vikramaditya VI",
+      "The Pallava Mahendravarman"
+    ],
+    "answer": 1,
+    "explanation": "The Kailasa temple, hewn out of a single rock in a pit, was commissioned by the Rashtrakuta king Krishna I in the eighth century.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dharmaraja Ratha' at Mahabalipuram:",
+    "options": [
+      "Is a Buddhist stupa",
+      "Is the largest of the pancha Rathas",
+      "Is the Kailasa temple",
+      "Is the Shore Temple"
+    ],
+    "answer": 1,
+    "explanation": "The Dharmaraja Ratha is the largest of the five monolithic rathas at Mahabalipuram and it was excavated under Narasimhavarman I.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Badami' cave and the 'Agastya' and the 'Karnataka':",
+    "options": [
+      "The Badami caves are a Jain site",
+      "The Badami caves are a Buddhist site of the Gangas",
+      "The Badami caves of the sixth century were excavated by the Chalukyas",
+      "The Badami caves were excavated by the Pallavas"
+    ],
+    "answer": 2,
+    "explanation": "The Badami cave temples of the sixth century were excavated under the Chalukya king Pulakeshin I and are dedicated to Shiva, Vishnu and the Jina.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chennakeshava' and the 'Hoysala' and the 'soapstone':",
+    "options": [
+      "The Hoysala temples are built of the granite and are plain",
+      "The Hoysala temples are built of the brick and are painted",
+      "The Hoysala temples are built of the marble",
+      "The Hoysala temples are built of the soapstone and are intricately carved"
+    ],
+    "answer": 3,
+    "explanation": "The Hoysala temples at Belur, Halebidu and Somnathpur are built of the soapstone, which is soft when quarried and hardens on exposure, allowing the intricate carving.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Qutb Minar' and the 'Iron Pillar':",
+    "options": [
+      "The Iron Pillar of Delhi is a testament to the corrosion resistance of the iron",
+      "The Iron Pillar is a Buddhist statue",
+      "The Iron Pillar is a royal column of the Vijayanagara",
+      "The Iron Pillar is a modern installation"
+    ],
+    "answer": 0,
+    "explanation": "The Iron Pillar of the Qutb complex, with the corrosion-resistant iron, has stood for about 1,600 years and testifies to the metallurgical skill of the period.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Khusro Bagh' and the 'Tomb of Bibi ka Maqbara' and the 'Tomb of Akbar':",
+    "options": [
+      "The tomb of Akbar is the largest in India and is in the Sikandra near Agra",
+      "The tomb of Akbar is in Delhi",
+      "The tomb of Akbar is a marble structure",
+      "The tomb of Akbar is at Fatehpur Sikri"
+    ],
+    "answer": 0,
+    "explanation": "The tomb of Akbar at Sikandra near Agra, completed by his son Jahangir, is the largest of the Mughal tombs in India.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bibi ka Maqbara' and the 'Taj Mahal' comparison:",
+    "options": [
+      "The Bibi ka Maqbara is in Delhi",
+      "The Bibi ka Maqbara is of the white marble",
+      "The Bibi ka Maqbara is called the poor man's Taj Mahal",
+      "The Bibi ka Maqbara is the largest of the Mughal tombs"
+    ],
+    "answer": 2,
+    "explanation": "The Bibi ka Maqbara at Aurangabad, built in 1660, is popularly called the poor man's Taj Mahal, though it is smaller and of a different style.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gwalior Fort' and the 'Man Mandir':",
+    "options": [
+      "The Man Mandir is a temple",
+      "The Man Mandir of the Gwalior Fort was built by the Man Singh I",
+      "The Gwalior Fort is in Rajasthan",
+      "The Gwalior Fort was built by the Akbar"
+    ],
+    "answer": 1,
+    "explanation": "The Man Mandir, the four-storeyed palace of the Gwalior Fort, was built by the Maharaja Man Singh I in 1486, and the fort also has the Teli ka Mandir of the 14th century.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ranthambore' and the 'Kumbhalgarh':",
+    "options": [
+      "Are the forts of the Mughals",
+      "Are the forts of the Marathas",
+      "Are the Buddhist monasteries",
+      "Are the hill forts of Rajasthan"
+    ],
+    "answer": 3,
+    "explanation": "The Ranthambore, the Kumbhalgarh, the Chittorgarh, the Gagron, the Amber and the Jaisalmer are the six hill forts of Rajasthan inscribed as a World Heritage site in 2013.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Agra Fort' was built by:",
+    "options": [
+      "Akbar",
+      "Shah Jahan",
+      "Humayun",
+      "Babur"
+    ],
+    "answer": 0,
+    "explanation": "The Agra Fort, called the Red Fort of Agra, was built by the Akbar in 1573 and it was the seat of the Mughal court till 1648.",
+    "difficulty": "easy",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jama Masjid' of Delhi was built by:",
+    "options": [
+      "Firoz Shah Tughlaq",
+      "Shah Jahan",
+      "Muhammad bin Tughlaq",
+      "Alauddin Khalji"
+    ],
+    "answer": 1,
+    "explanation": "The Jama Masjid was built by the Shah Jahan between 1650 and 1656 on a high plateau in Delhi, and it can accommodate about 25,000 worshippers.",
+    "difficulty": "easy",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Guru Gobind Singh' and the 'Hazuri Sahib':",
+    "options": [
+      "The Guru Gobind Singh built the Red Fort",
+      "The Guru Gobind Singh built the Charminar",
+      "The Guru Gobind Singh built the Golden Temple in Amritsar",
+      "The Guru Gobind Singh built the Qutb Minar"
+    ],
+    "answer": 2,
+    "explanation": "The fifth Sikh Guru, Guru Gobind Singh, completed the Harmandir Sahib or the Golden Temple at Amritsar in 1604, and he also founded the Khalsa in 1699.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sikh shrine of the Harmandir Sahib' is on the:",
+    "options": [
+      "A hilltop in the Shivaliks",
+      "The bank of the Sutlej",
+      "The bank of the Beas",
+      "An island in the Amrit Sarovar"
+    ],
+    "answer": 3,
+    "explanation": "The Golden Temple stands in the middle of the Amrit Sarovar, the pool constructed by the fourth Sikh Guru, Guru Ram Das.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mughal garden' of the 'Shalimar' of Lahore:",
+    "options": [
+      "Was laid out by the British",
+      "Was laid out by the Shah Jahan",
+      "Was laid out by the Akbar",
+      "Was laid out by the Jahangir"
+    ],
+    "answer": 1,
+    "explanation": "The Shalimar Bagh of Lahore, laid out by the Shah Jahan, was modelled on the gardens of the Taj Mahal and it had the water flowing through the terraces.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mughal painting' and the 'Falaknuma' and the 'Padshahnama':",
+    "options": [
+      "The Falaknuma is a Persian classic",
+      "The Falaknuma is a type of the carpet",
+      "The Falaknuma is a temple",
+      "The Falaknuma is a manuscript of the Akbar's reign"
+    ],
+    "answer": 3,
+    "explanation": "The Falaknuma, a manuscript of the Akbar's reign, was illustrated by the Bichitr and the other painters of the atelier.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian' and the 'Buddhist' and the 'Bodhisattva':",
+    "options": [
+      "The Bodhisattva is a Hindu god of the war",
+      "The Bodhisattva is the teacher of the Buddha",
+      "The Bodhisattva Avalokiteshvara became the Padmapani of the Indian art",
+      "The Bodhisattva is the Jain concept"
+    ],
+    "answer": 2,
+    "explanation": "In India the Bodhisattva Avalokiteshvara was transformed into the Padmapani, the lotus borne, and he was depicted with a distinctively Indian dress and ornamentation.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gandhara' and the 'Greco-Buddhist':",
+    "options": [
+      "The Gandhara art shows the Greco-Buddhist style of the Kushana period",
+      "The Gandhara art is a Jain style",
+      "The Gandhara art is the style of the Mauryan period",
+      "The Gandhara art is a style of the Vijayanagara"
+    ],
+    "answer": 0,
+    "explanation": "The Gandhara school of the Kushana period is often described as the Greco-Buddhist school because of the naturalistic and the Hellenistic treatment of the drapery and the facial features.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ravana' and the 'Chola bronzes':",
+    "options": [
+      "The Chola bronzes of the Ravana and the other figures were in the Chidambaram temple",
+      "The Chola bronzes are in the Thanjavur temple",
+      "The Chola bronzes are in the Khajuraho temples",
+      "The Chola bronzes are in the Ellora caves"
+    ],
+    "answer": 0,
+    "explanation": "The Chola bronzes, including the images of Ravana, Subrahmanya and the Dancing Shiva, are in the sanctum of the Nataraja temple at Chidambaram.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nataraja' of Chidambaram is a:",
+    "options": [
+      "A Vaishnava image of Vishnu",
+      "Dancing form of Shiva as the Lord of the dance",
+      "Seated Buddha of the Gandhara",
+      "A Jain tirthankara"
+    ],
+    "answer": 1,
+    "explanation": "The Nataraja, the dancing Shiva, is the central image of the Chidambaram temple and it embodies the cosmic dance of creation and destruction.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sanchi' and the 'Bharhut' and the 'Amaravati' and the 'Nagarjunakonda' are:",
+    "options": [
+      "The four forts of the Deccan",
+      "The four universities of the ancient India",
+      "The four great Buddhist stupa sites of India",
+      "The four cave sites of the Deccan"
+    ],
+    "answer": 2,
+    "explanation": "The Sanchi, the Bharhut, the Amaravati and the Nagarjunakonda are the four great Buddhist stupa sites, and the Sanchi and the Amaravati are the World Heritage sites.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lomas Rishi' and the 'Sanchi':",
+    "options": [
+      "The Lomas Rishi is a stupa of the Kushana period",
+      "The Lomas Rishi is a cave of the Ajanta",
+      "The Lomas Rishi is a Jain temple of Rajasthan",
+      "The Lomas Rishi stupa of the Sanchi is the earliest known stupa of the Maurya period"
+    ],
+    "answer": 3,
+    "explanation": "The Lomas Rishi, the brick stupa of the Sanchi, of the Maurya period with the lion capital on the top, is the earliest known stupa in India.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nalanda' and the 'Nalanda Mahavihara':",
+    "options": [
+      "The Nalanda Mahavihara was built by the Harishchandra",
+      "The Nalanda Mahavihara was a fort",
+      "The Nalanda Mahavihara was a Jain university",
+      "The Nalanda Mahavihara was excavated by the Kumaragupta I and Xuanzang studied there"
+    ],
+    "answer": 3,
+    "explanation": "The Nalanda Mahavihara, excavated under the Gupta ruler Kumaragupta I, was the great monastic university where the Xuanzang studied for several years.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ajanta' and the 'Vaghoda' and the 'Padmapani':",
+    "options": [
+      "The Vaghoda panel of the Ajanta Cave 1 shows the Padmapani Bodhisattva",
+      "The Vaghoda panel shows the Buddha preaching",
+      "The Vaghoda panel is in the Ajanta Cave 26",
+      "The Vaghoda panel is a Jain panel of the Ellora"
+    ],
+    "answer": 0,
+    "explanation": "The Vaghoda panel of the Cave 1 of the Ajanta, with the graceful Padmapani Bodhisattva, is the finest of the Indian murals.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ajanta' and the 'Cave 17':",
+    "options": [
+      "Cave 17 is the Buddhist temple of the Ellora",
+      "Cave 17 has the Nataraja painting",
+      "Cave 17 of the Ajanta has the famous painting of the Simhala Avadana",
+      "Cave 17 is the oldest of the Ajanta"
+    ],
+    "answer": 2,
+    "explanation": "Cave 17 of the Ajanta contains the Simhala Avadana panel, the death of the Buddha, and Cave 1 has the Padmapani, while the Hinayana caves are the earlier ones.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nalanda' and the 'Vikramashila':",
+    "options": [
+      "Both were the capitals of the Guptas",
+      "Both were the monastic universities of the Pala period",
+      "Both were the centres of the Islamic learning",
+      "Both were the centres of the Vedic learning"
+    ],
+    "answer": 1,
+    "explanation": "Nalanda and Vikramashila were the great monastic universities of the Pala period, and Vikramashila was founded by Dharmapala and later destroyed by the Turks.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gupta' and the 'Ajanta' and the 'Nalanda':",
+    "options": [
+      "The Ajanta Cave 17 and the Nalanda are the monuments of the Gupta age",
+      "The Ajanta and the Nalanda are the monuments of the Kushana period",
+      "The Ajanta and the Nalanda are the monuments of the Sultanate",
+      "The Ajanta and the Nalanda are the monuments of the Vijayanagara"
+    ],
+    "answer": 0,
+    "explanation": "The fifth-century murals of the Ajanta and the Nalanda Mahavihara are the monuments of the Gupta age, and the Gupta period is called the golden age of the Indian art.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kanishka' and the 'Gandhara' and the 'Bagram':",
+    "options": [
+      "The Kanishka was the Satavahana ruler",
+      "The Kanishka is the Kushana ruler who patronised the Gandhara art and the Bagram ivories",
+      "The Kanishka was the Mauryan ruler",
+      "The Kanishka was the Gupta ruler"
+    ],
+    "answer": 1,
+    "explanation": "Kanishka, the Kushana ruler, patronised the Gandhara art and the Bagram ivories, and he convened the fourth Buddhist council in Kashmir.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Harappan' and the 'Dholavira':",
+    "options": [
+      "Dholavira is a megalithic site in Kerala",
+      "Dholavira is a cave in Odisha",
+      "Dholavira is a Harappan site in Gujarat with a sophisticated water management system",
+      "Dholavira is a Buddhist site in Bihar"
+    ],
+    "answer": 2,
+    "explanation": "Dholavira in Kutch, Gujarat, is a large Harappan site famous for its sophisticated reservoir and the water conservation system and the signboard, and it is a World Heritage site.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lothal' and the 'dockyard':",
+    "options": [
+      "Lothal is a Buddhist site in Bihar",
+      "Lothal is a Gupta temple",
+      "Lothal is a megalithic site in Karnataka",
+      "Lothal is a Harappan port with a tidal dockyard"
+    ],
+    "answer": 3,
+    "explanation": "Lothal in Gujarat was a Harappan port with a tidal dockyard, the warehouse complex and the circular kiln, and the dockyard is on the Gulf of Kutch.",
+    "difficulty": "easy",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mohenjo-daro' and the 'Great Bath':",
+    "options": [
+      "The Great Bath is a temple of the Indus Valley",
+      "The Great Bath is a reservoir of the Vedic period",
+      "The Great Bath is the largest public bathing structure of the Harappan civilisation",
+      "The Great Bath is a Buddhist monastery"
+    ],
+    "answer": 2,
+    "explanation": "The Great Bath at Mohenjo-daro, with the watertight layer of bitumen and the side drains, is the finest example of the Harappan sanitation and the public bath.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Harappan' and the 'script':",
+    "options": [
+      "The Harappan script was the Avestan",
+      "The Harappan script remains undeciphered and is a logo-syllabic script",
+      "The Harappan script was deciphered in 1920",
+      "The Harappan script was the Brahmi"
+    ],
+    "answer": 1,
+    "explanation": "The Harappan script with about 400 signs is undeciphered, and the short inscriptions are read from right to left while the longer ones run boustrophedon.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Seals' of the Harappan civilisation:",
+    "options": [
+      "Most of them are of steatite and bear the short inscriptions",
+      "Most of them are of gold and are of the Vedic period",
+      "Most of them are of copper and are of the Kushana period",
+      "Most of them are of terracotta and are of the medieval period"
+    ],
+    "answer": 0,
+    "explanation": "Most of the Harappan seals are of the steatite, a soapstone, and the unicorn, the swastika and the figures of the deities and the animals are the common motifs.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Harpur' and the 'Kot Diji':",
+    "options": [
+      "Both are the sites of the Vedic period",
+      "Both are the Buddhist sites of the Gangas",
+      "Both are the medieval forts of Rajasthan",
+      "Kot Diji is a Harappan site in Sindh and Harpur is one in the Kutch"
+    ],
+    "answer": 3,
+    "explanation": "Kot Diji in Sindh and Harpur in the Kutch are among the Harappan sites, along with Kalibangan, Banawali, Lothal, Surkotada and Dholavira.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sanchi' and the 'donation' of the Jataka tales:",
+    "options": [
+      "The Sanchi gateways depict the Christian stories",
+      "The Sanchi gateways depict the Ramayana only",
+      "The Sanchi gateways depict the Greek myths",
+      "The Sanchi gateways depict the Jataka tales and the contemporary life"
+    ],
+    "answer": 3,
+    "explanation": "The four gateways of the Sanchi stupa depict the Jataka tales and the contemporary life of the period, and they are the earliest known representations of the narrative art of the Indian tradition.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ashokan' and the 'edicts':",
+    "options": [
+      "The Ashokan edicts were written in Persian only",
+      "The Ashokan edicts are inscribed on the pillars and the rocks in about 33 places",
+      "The Ashokan edicts are inscribed only at Sanchi",
+      "The Ashokan edicts are all in Sanskrit"
+    ],
+    "answer": 1,
+    "explanation": "The Ashokan edicts are inscribed at about 33 places, mostly on the pillars and the rocks, in the Prakrit and the Sanskrit and the Greek and the Aramaic, and the Major Rock Edicts are at Sanchi and Dhauli and Jaugada.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Lion Capital' of Sarnati and the 'Sarnath':",
+    "options": [
+      "The Lion Capital of Ashoka was originally erected at Sarnath",
+      "The Lion Capital is at Sanchi",
+      "The Lion Capital is in Delhi",
+      "The Lion Capital is of the Kushana period"
+    ],
+    "answer": 0,
+    "explanation": "The Lion Capital of Ashoka was erected at Sarnath, and the four lions back to back surmount an abacus of the dharma chakras.",
+    "difficulty": "easy",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pillar of Ashoka' and the 'Sarnath':",
+    "options": [
+      "The Ashokan pillars are all broken",
+      "The Ashokan pillars are of the Gupta period",
+      "The Ashokan pillar at Sarnath is the best preserved of the Delhi and the Sarnath pillars",
+      "The Ashokan pillar of Delhi is the best preserved"
+    ],
+    "answer": 2,
+    "explanation": "The Ashokan pillar at Sarnath is the best preserved of the Ashokan pillars, with the lion capital, the deer and the dharma chakra intact.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chandraketugarh' and the 'Mauryan':",
+    "options": [
+      "The Chandraketugarh pillar is a Hindu temple of the Gupta period",
+      "The Chandraketugarh pillar is a Buddhist stupa of the Kushana period",
+      "The Chandraketugarh pillar is in the Red Fort",
+      "The Chandraketugarh pillar of the Mauryan period is in the museum of Kolkata"
+    ],
+    "answer": 3,
+    "explanation": "The Chandraketugarh pillar with the abacus of the symbols, discovered in the Nainital district, is a fine example of the Mauryan period sculpture.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Terracotta' and the 'Maurya':",
+    "options": [
+      "The Mauryan terracotta is of the Gupta period",
+      "The Mauryan terracotta is the finest in the world",
+      "The Mauryan terracotta is the finest of the Buddhist art of the Gandhara",
+      "The Mauryan terracotta is only of the toys for the children"
+    ],
+    "answer": 1,
+    "explanation": "The Mauryan terracotta figures, the yakshis and the toys, are the finest terracotta in the world and they were widely distributed, and they reflect a keen observation of the everyday life.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Greek' influence and the 'Gandhara' and the 'Mediterranean':",
+    "options": [
+      "The Gandhara art shows the influence of the Greco-Roman art of the Mediterranean",
+      "The Gandhara art shows the influence of the Chinese art",
+      "The Gandhara art shows no foreign influence",
+      "The Gandhara art is the only Indian school without any influence"
+    ],
+    "answer": 0,
+    "explanation": "The Gandhara school shows a clear Mediterranean influence in the naturalistic drapery, the muscular figures and the wavy hair, which shows the Indo-Greek trade and the patronage of the Kushanas.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sanchi' and the ' Amaravati' and the 'Bharhut' and the 'Kausambi':",
+    "options": [
+      "The stupa of Kausambi is a Jain temple",
+      "The stupa of Kausambi is a stupa of the Sindhu Valley",
+      "The stupa of Kausambi is of the Mauryan period",
+      "The stupa of Kausambi is of the Gupta period"
+    ],
+    "answer": 2,
+    "explanation": "The stupa of Kausambi is among the early Buddhist stupas of the Maurya period, and it was the scene of the debate between the Buddha and the fire-worshipping Ajatashatru.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Gupta period is:",
+    "options": [
+      "the period of the Sultanate",
+      "the period of the Mughals",
+      "called the golden age of the Indian art",
+      "the period of the medieval India"
+    ],
+    "answer": 2,
+    "explanation": "The Gupta period, the fourth and the fifth centuries, is called the golden age of the Indian art and of the classical literature and the philosophy.",
+    "difficulty": "medium",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nataraja' and the 'Chidambaram' and the 'Bronze':",
+    "options": [
+      "The Nataraja of Chidambaram is a Pala sculpture of Bengal",
+      "The Nataraja of Chidambaram is a Chola bronze of the twelfth century",
+      "The Nataraja of Chidambaram is a stone image of the Vijayanagara",
+      "The Nataraja of Chidambaram is a Jain image"
+    ],
+    "answer": 1,
+    "explanation": "The dancing Shiva of Chidambaram is a Chola bronze of the twelfth century, and the image was allegedly taken from the ear of the statue of the temple.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mauryan' and the 'Ajanta' and the 'Bharhut':",
+    "options": [
+      "The Bharhut of the Gupta period and the Amaravati of the Mauryan",
+      "Both are the caves of the Deccan",
+      "Both are the stupas of the Kushanas",
+      "The Bharhut stupa of the Shunga period shows the Jataka scenes and the Amaravati of the Satavahana"
+    ],
+    "answer": 3,
+    "explanation": "The Bharhut stupa belongs to the Shunga period and the Amaravati to the Satavahana, and both show the narrative art of the Buddhist tradition.",
+    "difficulty": "hard",
+    "category": "ancient-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kakatiya' and the 'Ramappa' and the 'Warangal':",
+    "options": [
+      "The Ramappa temple at Warangal was built in 1213 CE",
+      "The Ramappa temple was built in 1513 CE",
+      "The Ramappa temple was built by the Vijayanagara",
+      "The Ramappa temple is a Jain temple"
+    ],
+    "answer": 0,
+    "explanation": "The Ramappa temple, also called the Rudreshwara or the Thousand Pillar temple at Warangal, was built in 1213 and it was inscribed as a World Heritage site in 2021.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kalinga' and the 'Konark':",
+    "options": [
+      "The Konark temple is a Jain temple of Rajasthan",
+      "The Konark temple is a Kalinga style temple of the Eastern Ganga",
+      "The Konark temple is a Dravidian temple of the Vijayanagara",
+      "The Konark temple is a Hoysala temple"
+    ],
+    "answer": 1,
+    "explanation": "The Konark temple is of the Kalinga style built under the Eastern Ganga Narasimhadeva I, and it is a World Heritage site since 1984.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vesara' style of the temple architecture:",
+    "options": [
+      "Is a blend of the northern and the southern styles seen at the Hoysala and the Kakatiya temples",
+      "Is a style of the Buddhist caves",
+      "Is a style of the Islamic architecture",
+      "Is a style of the colonial architecture"
+    ],
+    "answer": 0,
+    "explanation": "The Vesara style is a synthesis of the Nagara and the Dravida features, and the Hoysala and the Kakatiya temples of the Deccan are its finest examples.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bishnupur' and the 'Mangal Kumar':",
+    "options": [
+      "The Bishnupur temples are the Buddhist caves",
+      "The Bishnupur temples are of the Chola period",
+      "The terracotta temples of Bishnupur in West Bengal are the finest of the terracotta art",
+      "The Bishnupur temples are of the white marble"
+    ],
+    "answer": 2,
+    "explanation": "The terracotta temples of Bishnupur in West Bengal, of the eighteenth century, are the finest of the Indian terracotta temples.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chettinad' and the 'Salem':",
+    "options": [
+      "The Chettinad is a folk dance of the Telugu region",
+      "The Chettinad is a music school of Kerala",
+      "The Chettinad is a textile of Odisha",
+      "The Chettinad houses of Tamil Nadu are the mansions of the Chettiar merchants"
+    ],
+    "answer": 3,
+    "explanation": "The Chettinad region of Tamil Nadu, in the old Salem region, is famous for the grand mansions of the Chettiar merchants who traded with Southeast Asia.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mughal' and the 'Golconda':",
+    "options": [
+      "The Golconda diamonds were not traded at all",
+      "The Golconda diamonds went only to Persia",
+      "The Golconda diamonds were traded through the Portuguese at Goa",
+      "The Golconda diamonds were traded with the Dutch"
+    ],
+    "answer": 2,
+    "explanation": "The Golconda diamonds went to the European markets mainly through the Portuguese at Goa, and the Koh-i-Noor was among them.",
+    "difficulty": "hard",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Portuguese' and the 'Goa' and the 'Daman':",
+    "options": [
+      "The Portuguese held only Cochin",
+      "The Portuguese established the trading posts at Goa, Daman and Diu",
+      "The Portuguese had only the factory at Calicut",
+      "The Portuguese had no presence in India"
+    ],
+    "answer": 1,
+    "explanation": "The Portuguese established the trading posts at Calicut, Goa, Daman and Diu, and they were the first Europeans to use the Maratha sea route for the spice trade.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mahé' and the 'Pondicherry' and the 'French':",
+    "options": [
+      "The French had only Pondicherry",
+      "The French had only Chandernagore",
+      "The French had no Indian settlements",
+      "The French establishments in India were at Pondicherry, Karaikal, Mahe and Yanam"
+    ],
+    "answer": 3,
+    "explanation": "The French East India Company had the settlements at Pondicherry, Karaikal, Mahe, Yanam and Chandernagore, and they were all integrated with India in 1954 and 1962.",
+    "difficulty": "medium",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Hugli' and the 'Plassey':",
+    "options": [
+      "The Battle of Plassey in 1757 led to the British control of Bengal",
+      "The Battle of Plassey led to the French control of Bengal",
+      "The Battle of Plassey was fought in 1765",
+      "The Battle of Plassey led to the Dutch control of Bengal"
+    ],
+    "answer": 0,
+    "explanation": "The Battle of Plassey in 1757 established the political supremacy of the British in Bengal, and the Diwani of Bengal, Bihar and Orissa was granted in 1765.",
+    "difficulty": "easy",
+    "category": "medieval-art",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

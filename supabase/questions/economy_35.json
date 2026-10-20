@@ -1,0 +1,1337 @@
+[
+  {
+    "q": "The 'marginal cost' of a product is:",
+    "options": [
+      "The cost of the raw material only",
+      "The cost of producing one more unit of the output",
+      "The total cost of the production",
+      "The fixed cost of the production"
+    ],
+    "answer": 1,
+    "explanation": "The marginal cost is the additional cost of producing one more unit of the output and it is the relevant cost for the short run production decisions.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'law of increasing returns' applies to:",
+    "options": [
+      "The perfect competition",
+      "The decreasing cost industry",
+      "The short run with one variable input",
+      "The long run with all the inputs variable"
+    ],
+    "answer": 2,
+    "explanation": "The law of the increasing returns applies to the short run when one variable input is changed and the other factors are fixed, and the returns eventually diminish.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'price elasticity of demand' for a necessity is:",
+    "options": [
+      "High and elastic",
+      "Zero",
+      "Infinite",
+      "Low and inelastic"
+    ],
+    "answer": 3,
+    "explanation": "The price elasticity of demand of a necessity is low and the demand does not change much with the price, and the same is the case of the medicines.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'cross elasticity of demand' between the tea and the coffee:",
+    "options": [
+      "Is positive, as the two are substitutes",
+      "Is negative",
+      "Is zero",
+      "Is infinite"
+    ],
+    "answer": 0,
+    "explanation": "The tea and the coffee are the substitutes and a rise in the price of the tea raises the demand for the coffee, so the cross elasticity is positive.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'oligopoly' is a market structure with:",
+    "options": [
+      "Many small firms",
+      "No barriers to the entry",
+      "A few dominant firms and the barriers to the entry",
+      "Perfect competition"
+    ],
+    "answer": 2,
+    "explanation": "An oligopoly is the market with a few dominant firms and the high barriers to the entry and the examples are the Indian airlines, the steel and the oil refining.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the monopoly?",
+    "options": [
+      "The monopoly is the single buyer",
+      "The monopoly has many sellers",
+      "The monopoly has no barriers to the entry",
+      "The monopoly is the single seller and the price is determined by the market power"
+    ],
+    "answer": 3,
+    "explanation": "In a monopoly there is a single seller with a complete control over the supply and the price and the barriers to the entry are the highest.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'fiscal deficit' excludes the:",
+    "options": [
+      "Capital expenditure",
+      "Borrowings",
+      "The revenue deficit",
+      "The interest payments"
+    ],
+    "answer": 0,
+    "explanation": "The fiscal deficit is the total expenditure minus the total receipts excluding the borrowings and it includes the capital expenditure, unlike the primary deficit which excludes the interest payments.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'revenue deficit' of the government is:",
+    "options": [
+      "The capital expenditure minus the receipts",
+      "The revenue expenditure minus the revenue receipts",
+      "The total expenditure minus the total receipts",
+      "The borrowings minus the repayments"
+    ],
+    "answer": 1,
+    "explanation": "The revenue deficit is the excess of the revenue expenditure over the revenue receipts and it indicates that the government is borrowing to meet the current expenses.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'primary deficit' is computed by deducting the:",
+    "options": [
+      "Interest payments from the fiscal deficit",
+      "Capital expenditure from the fiscal deficit",
+      "Revenue receipts from the fiscal deficit",
+      "Borrowings from the fiscal deficit"
+    ],
+    "answer": 0,
+    "explanation": "The primary deficit is the fiscal deficit less the interest payments and it is a better measure of the current fiscal stance because it excludes the cost of the past borrowings.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'FRBM Act' requires the government to:",
+    "options": [
+      "Publish the GDP data",
+      "Audit the accounts of the states",
+      "Fix the repo rate",
+      "Present the fiscal policy targets in the budget and the medium term fiscal policy statement"
+    ],
+    "answer": 3,
+    "explanation": "The FRBM Act of 2003 requires the government to present the fiscal policy targets in the budget and to present the medium term fiscal policy statement with the targets of the fiscal deficit and the public debt.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'GST' was introduced in India in:",
+    "options": [
+      "2018",
+      "2015",
+      "2017",
+      "2016"
+    ],
+    "answer": 2,
+    "explanation": "The Goods and Services Tax was launched on 1 July 2017 with the 101st Amendment and it subsumed the excise duty, the service tax, the VAT and the several other indirect taxes.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'GST' is a:",
+    "options": [
+      "A tax on the exports",
+      "Destination based consumption tax",
+      "Origin based tax",
+      "A tax only on the services"
+    ],
+    "answer": 1,
+    "explanation": "The GST is a destination based consumption tax and the tax is collected in the state of the consumption, unlike the VAT which was the origin based.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'compensation to the states' for the GST revenue loss:",
+    "options": [
+      "Was given for ten years",
+      "Was never given",
+      "Was for five years and was extended to June 2022 with the health cess to March 2026",
+      "Was permanent from the start"
+    ],
+    "answer": 2,
+    "explanation": "The compensation of the GST revenue loss to the states was originally for five years and it was extended to June 2022 by the 53rd GST Council with the health cess extended to March 2026.",
+    "difficulty": "hard",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'CAG' has the power to:",
+    "options": [
+      "Audit the accounts of the Union, the states and the bodies financed by the public money and to report to the legislature",
+      "Audit only the Central ministries",
+      "Audit the private sector",
+      "Conduct the census"
+    ],
+    "answer": 0,
+    "explanation": "The CAG audits the accounts of the Union and of the states and of the bodies financed substantially from the public revenues and it reports to the legislature and it is a part of the general audit of India.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Laffer curve' was given by:",
+    "options": [
+      "Adam Smith",
+      "Milton Friedman",
+      "Keynes",
+      "Arthur Laffer"
+    ],
+    "answer": 3,
+    "explanation": "The Laffer curve of Arthur Laffer shows the inverted-U relationship between the tax rates and the tax revenue, and it is the base of the supply side economics.",
+    "difficulty": "medium",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'merit goods' are those:",
+    "options": [
+      "Which are the inferior goods",
+      "Which are under-consumed and the government subsidises them, like the vaccination and the education",
+      "Which are over-consumed and the government taxes them",
+      "Which are the luxury goods"
+    ],
+    "answer": 1,
+    "explanation": "The merit goods are under-consumed and the government promotes them through the subsidies and the awareness, and the immunisation and the primary education are the examples.",
+    "difficulty": "medium",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'demonetisation' of the November 2016:",
+    "options": [
+      "Was the banning of the 500 and the 1000 rupee notes and the issue of the new 200 rupee note",
+      "Was the change of the fiscal year",
+      "Was the abolition of the FERA",
+      "Was the merger of the banks"
+    ],
+    "answer": 0,
+    "explanation": "The demonetisation of 8 November 2016 banned the 500 and the 1,000 rupee notes, about 86 per cent of the currency in circulation, and the new 200 rupee note was issued in 2018.",
+    "difficulty": "easy",
+    "category": "fiscal-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'repo rate' is the rate at which:",
+    "options": [
+      "The public borrows from the banks",
+      "The government borrows from the market",
+      "The RBI lends to the commercial banks against the securities",
+      "The banks lend to the RBI"
+    ],
+    "answer": 2,
+    "explanation": "The repo rate is the rate at which the RBI lends to the commercial banks against the securities and the reverse repo is the rate at which the RBI borrows from them.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'open market operations' are conducted by the RBI:",
+    "options": [
+      "Only with the state banks",
+      "With the primary dealers in the government securities",
+      "With the public directly",
+      "With the foreign investors"
+    ],
+    "answer": 1,
+    "explanation": "The open market operations are the purchase and the sale of the government securities by the RBI with the primary dealers and they are the flexible instrument of the liquidity management.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bank Rate' is the rate at which the RBI:",
+    "options": [
+      "Lends to the farmers",
+      "Lends to the states",
+      "Charges on the foreign exchange",
+      "Can lend to the commercial banks against the commercial paper and the government securities"
+    ],
+    "answer": 3,
+    "explanation": "The bank rate is the rate at which the RBI can lend to the commercial banks against the commercial paper, the government securities and the bills and it is the oldest instrument of the monetary policy.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'MSF' or the Marginal Standing Facility:",
+    "options": [
+      "Is the refinancing of the agriculture",
+      "Allows the banks to borrow overnight from the RBI by dipping into the cash reserve ratio",
+      "Is a long term lending facility",
+      "Is a foreign exchange window"
+    ],
+    "answer": 1,
+    "explanation": "The Marginal Standing Facility allows the banks to borrow overnight from the RBI against the excess cash reserves and the rate is normally well above the repo rate as an emergency measure.",
+    "difficulty": "hard",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the CRR?",
+    "options": [
+      "The CRR is the share of the NDTL that the banks must hold as the cash with the RBI",
+      "The CRR is the share of the deposits that must be invested in the government securities",
+      "The CRR is the share of the loans that must be to the priority sector",
+      "The CRR is a tax on the banks"
+    ],
+    "answer": 0,
+    "explanation": "The Cash Reserve Ratio is the share of the Net Demand and Time Liabilities that the banks must hold as the cash with the RBI and it is not available for the lending and the SLR must be held in the cash, the gold or the approved securities.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SLR' is maintained by the banks in:",
+    "options": [
+      "Cash with the RBI only",
+      "The deposits with the other banks",
+      "The foreign reserves",
+      "Cash, gold or the approved securities"
+    ],
+    "answer": 3,
+    "explanation": "The Statutory Liquidity Ratio is maintained in cash, gold or the approved securities and the objective is the liquidity of the system and the availability of the funds to the government.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'inflation target' of 4 per cent with the band of 2 to 6 per cent:",
+    "options": [
+      "Was adopted in 2008",
+      "It is a recommendation of the IMF",
+      "Was adopted in 2016 with the notification of the Central Government in consultation with the RBI",
+      "Was adopted in 1991"
+    ],
+    "answer": 2,
+    "explanation": "The flexible inflation targeting was adopted in 2016 and the Central Government notified the 4 per cent target with the tolerance band of 2 to 6 per cent in consultation with the RBI.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "The 'MPC' of the RBI:",
+    "options": [
+      "Has five members with no casting vote",
+      "Is chaired by the Finance Minister",
+      "Has three members",
+      "Has six members with the Governor holding the casting vote in the event of a tie"
+    ],
+    "answer": 3,
+    "explanation": "The Monetary Policy Committee has six members, three from the RBI including the Governor and three from the Centre, and the Governor has the casting vote in the event of an equality of the votes.",
+    "difficulty": "easy",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'RBI Act, 1934' was amended in 2016 to give the RBI:",
+    "options": [
+      "The power to control the SEBI",
+      "A statutory mandate to operate the flexible inflation targeting",
+      "The power to control the stock exchanges",
+      "The power to regulate the insurance"
+    ],
+    "answer": 1,
+    "explanation": "The RBI Act of 1934 was amended in 2016 to give the RBI a statutory mandate to operate a flexible inflation targeting regime with the Central Government notifying the target.",
+    "difficulty": "medium",
+    "category": "monetary-policy",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "The 'Exchange reserves' of India are held by:",
+    "options": [
+      "The state governments",
+      "The public sector banks",
+      "The RBI and they include the foreign currency assets, the gold, the SDRs and the reserve position with the IMF",
+      "The Finance Ministry"
+    ],
+    "answer": 2,
+    "explanation": "The foreign exchange reserves of India are held by the RBI and they comprise the foreign currency assets, the gold, the SDRs and the reserve tranche position with the IMF.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the rupee?",
+    "options": [
+      "The rupee was devalued by about 18 to 19 per cent in July 1991",
+      "The rupee was appreciated in 1991",
+      "The rupee was devalued in 1998",
+      "There was no devaluation"
+    ],
+    "answer": 0,
+    "explanation": "The rupee was devalued by about 18 to 19 per cent in two stages in July 1991 to correct the overvaluation and the twin deficits.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 1991 reforms included:",
+    "options": [
+      "only the exchange rate",
+      "The 1991 reforms nationalised the banks",
+      "the Planning Commission",
+      "the delicensing, the ending of the MRTP and the reduction of the import duties"
+    ],
+    "answer": 3,
+    "explanation": "The 1991 reforms dismantled the licensing, the MRTP, the price controls and the import restrictions and it opened the economy to the foreign investment and the global competition.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'trade deficit' of India in 2023-24 was:",
+    "options": [
+      "It was in surplus",
+      "About $254 billion",
+      "About $40 billion",
+      "About $800 billion"
+    ],
+    "answer": 1,
+    "explanation": "The merchandise trade deficit of India was about $254 billion in 2023-24, though the services exports narrowed it and the CAD was about 2.1 per cent of the GDP.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The 'FDI' and the 'FPI' in the Indian economy:",
+    "options": [
+      "The FDI is the investment in the business assets and the FPI is the investment in the securities",
+      "They are the same",
+      "The FDI is in the government bonds",
+      "The FPI is banned in India"
+    ],
+    "answer": 0,
+    "explanation": "The foreign direct investment is the investment made in the business assets of a company and the foreign portfolio investment is the investment in the securities like the shares and the bonds.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the BoP?",
+    "options": [
+      "The capital account records the trade in the services",
+      "The reserve account records the imports",
+      "The current account records the trade in the goods and the services and the primary and the secondary income",
+      "The current account records only the trade in the goods"
+    ],
+    "answer": 2,
+    "explanation": "The current account records the trade in the goods and the services, the income receipts and the payments and the secondary income like the remittances and it is the sum of the trade balance, the services and the income.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Appellate Body of the WTO has been:",
+    "options": [
+      "reactivated in 2021",
+      "paralysed since December 2019",
+      "dissolved in 1995",
+      "no Appellate Body"
+    ],
+    "answer": 1,
+    "explanation": "The Appellate Body of the WTO has been paralysed since December 2019 with the United States blocking the appointments and the disputes are now appealed into the void.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The TRIPS agreement of the WTO allows:",
+    "options": [
+      "The TRIPS bans the generics",
+      "the patent for the seeds",
+      "no flexibility",
+      "the compulsory licensing of the drugs in the public interest"
+    ],
+    "answer": 3,
+    "explanation": "The TRIPS has the flexibility of the compulsory licensing and the 1999 and the 2005 amendments of the Indian patent law allowed the production of the generic versions of the essential drugs.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The India is:",
+    "options": [
+      "The India is not a member of the G20",
+      "The India is not a member of the IBSA",
+      "The India is a founder member of the SAARC, the BRICS, the G20 and the IBSA",
+      "The India is a member of only the SAARC"
+    ],
+    "answer": 2,
+    "explanation": "The India is a founder member of the SAARC, the BRICS, the IBSA and a permanent member of the G20 and it is a member of the Quad, the I2U2, the SCO and the ASEAN.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Export-Import Policy' of India is announced for the period of:",
+    "options": [
+      "Two years with the review in the middle",
+      "One year",
+      "Five years",
+      "Three years"
+    ],
+    "answer": 0,
+    "explanation": "The Export-Import Policy is announced for a two-year period with an mid-term review and it is governed by the Ministry of Commerce and Industry.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the more than 200 SEZs is correct?",
+    "options": [
+      "There are only five SEZs",
+      "The SEZs are only the geographical areas",
+      "The SEZs were abolished in 2020",
+      "There are more than 200 SEZs in India with the software and the services as the dominant sector"
+    ],
+    "answer": 3,
+    "explanation": "There are more than 200 SEZs in India and the software and the services SEZs dominate and the SEZ Act of 2005 provided the statutory framework.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the for the food security and is correct?",
+    "options": [
+      "the PDS of the states only",
+      "for the food security and the nutrition and the institutional machinery",
+      "for the subsidies only",
+      "a trade law"
+    ],
+    "answer": 1,
+    "explanation": "The National Food Security Act of 2013 provides for the food security and the nutrition and it institutionalises the right to food with the special focus on the children, the pregnant and the lactating women and the elderly.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The MSP is recommended:",
+    "options": [
+      "by the CACP and it is not legally mandated",
+      "fixed by the Parliament",
+      "only to the wheat",
+      "paid only in the Punjab"
+    ],
+    "answer": 0,
+    "explanation": "The Minimum Support Price is recommended by the Commission for Agricultural Costs and Prices and though it is announced there is no legal obligation on any agency to purchase at that price.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The three laws were:",
+    "options": [
+      "about the irrigation",
+      "about the cold chain",
+      "the Farmers' Production Trade Agreement, the Farmers Agreement on Price Assurance and the Farm Services Agreement",
+      "about the fertiliser"
+    ],
+    "answer": 2,
+    "explanation": "The three laws of 2020 were the Farmers' Production Trade Agreement, the Farmers Agreement on Price Assurance and the Farm Services Agreement and the Essential Commodities Act amendment and they were repealed in 2021.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Kisan Credit Card provides:",
+    "options": [
+      "the irrigation",
+      "the short term credit for the crops and the allied activities at a concessional rate",
+      "only the crop insurance",
+      "the marketing support"
+    ],
+    "answer": 1,
+    "explanation": "The Kisan Credit Card provides the short term credit for the crops and the allied activities at a concessional rate of 4 per cent with the interest subvention and it was revised in 2019.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "PM Fasal Bima Yojana is:",
+    "options": [
+      "the export subsidy",
+      "the fertiliser subsidy",
+      "the crop insurance with the subsidised premium and the technology-based yield assessment",
+      "the price support scheme"
+    ],
+    "answer": 2,
+    "explanation": "The PM Fasal Bima Yojana of 2016 provides the crop insurance with the subsidised premium of 2 per cent for the Kharif and 1.5 per cent for the Rabi and the technology-based assessment of the yield.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "It is the online trading platform of the APMC mandis launched:",
+    "options": [
+      "the land records portal",
+      "the crop insurance portal",
+      "the fertiliser subsidy portal",
+      "in 2016"
+    ],
+    "answer": 3,
+    "explanation": "The electronic National Agricultural Market, launched in 2016, integrates the online trading platforms of the APMC mandis and the network of the warehouses and the cold storages.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kharif crops are:",
+    "options": [
+      "sown with the onset of the monsoon and the Rabi in the winter",
+      "the winter crops",
+      "the summer cropping season",
+      "the foodgrains"
+    ],
+    "answer": 0,
+    "explanation": "The Kharif crops are sown with the onset of the monsoon in June-July and the Rabi crops are sown in the winter and the Zaid in the summer.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The 'Green Revolution' was mainly in the:",
+    "options": [
+      "Tea and coffee",
+      "Millets and pulses",
+      "Wheat and rice",
+      "Cotton and jute"
+    ],
+    "answer": 2,
+    "explanation": "The Green Revolution was concentrated in the wheat and the rice of the irrigated north-west and it also had the adverse effect of widening the regional disparities and of the soil exhaustion.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "It made the India the largest milk producer and it was:",
+    "options": [
+      "the fisheries programme",
+      "the world's largest milk cooperative programme",
+      "the rice programme",
+      "the foodgrain programme"
+    ],
+    "answer": 1,
+    "explanation": "The Operation Flood was the world's largest milk cooperative programme and it made the India the largest producer of the milk and it was the brainchild of the Verghese Kurien.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ICAR' is the apex organisation for the:",
+    "options": [
+      "Space research",
+      "Medical research",
+      "Defence research",
+      "Agricultural research"
+    ],
+    "answer": 3,
+    "explanation": "The Indian Council of Agricultural Research, founded in 1929, is the apex organisation for the agricultural research and it has 22 institutes and more than 60 agricultural universities under it.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'NABARD' was established in:",
+    "options": [
+      "1982",
+      "1954",
+      "1969",
+      "1991"
+    ],
+    "answer": 0,
+    "explanation": "The National Bank for Agriculture and Rural Development was set up on 12 July 1982 on the recommendation of the Sivaraman Committee and it is the apex institution for the agriculture and the rural development.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Land Use Planning and the Sustainable Land Use Management framework was:",
+    "options": [
+      "approved in 1991",
+      "approved in 2005",
+      "no such framework",
+      "approved in 2019"
+    ],
+    "answer": 3,
+    "explanation": "The framework of the National Land Use Planning and the Sustainable Land Use Management was approved in 2019 and it is the basis of the land resource management in the country.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the entitlements 75 per cent?",
+    "options": [
+      "for the entitlements of the 75 per cent of the rural and the 50 per cent of the urban population",
+      "for the 100 per cent coverage",
+      "for the 25 per cent coverage",
+      "not a legal right"
+    ],
+    "answer": 0,
+    "explanation": "The National Food Security Act of 2013 covers about 75 per cent of the rural and about 50 per cent of the urban population with the food entitlements.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rangarajan committee recommended the separate rural and the urban poverty lines based on:",
+    "options": [
+      "the 10 per cent of the poorest",
+      "the median expenditure",
+      "a uniform all-India line",
+      "the calorie norm"
+    ],
+    "answer": 1,
+    "explanation": "The Rangarajan committee of 2012 recommended the state-specific and the rural-urban poverty lines based on the median consumption expenditure, a departure from the Tendulkar approach.",
+    "difficulty": "hard",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The PLFS is the official source of the employment data in India and it is conducted:",
+    "options": [
+      "a census of the unemployed",
+      "discontinued in 2020",
+      "quarterly",
+      "every ten years"
+    ],
+    "answer": 2,
+    "explanation": "The Periodic Labour Force Survey is the official source of the employment data in India and it is conducted quarterly by the NSO in the rural and the urban areas.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ILO' definition of unemployment includes the persons who are:",
+    "options": [
+      "Without work, available for work and seeking work",
+      "Without work but not seeking work",
+      "Only the educated persons",
+      "Only the rural persons"
+    ],
+    "answer": 0,
+    "explanation": "The ILO defines the unemployment as the persons of the working age who are without work, are available for work and are seeking work, and the unemployment rate is the share of the labour force.",
+    "difficulty": "easy",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the EPFO is correct?",
+    "options": [
+      "It is the housing finance corporation",
+      "It administers the contributory provident fund for the employees in the organised sector",
+      "It administers the insurance of the crops",
+      "It is the apex of the cooperative banks"
+    ],
+    "answer": 1,
+    "explanation": "The Employees' Provident Fund Organisation administers the contributory provident fund for the employees of the organised sector drawing a wage up to the notified ceiling.",
+    "difficulty": "easy",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the It guarantees the 100 days is correct?",
+    "options": [
+      "It guarantees the 150 days",
+      "It is a urban scheme",
+      "It is a pension scheme",
+      "It guarantees the 100 days of the wage employment and the right to work"
+    ],
+    "answer": 3,
+    "explanation": "The MGNREGA is a law that guarantees the 100 days of the wage employment and the right to work to the rural households and it is the largest such law in the world.",
+    "difficulty": "easy",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'four labour codes' replace:",
+    "options": [
+      "The Income Tax Act",
+      "The Contract Act",
+      "The Industrial Disputes Act, the Factory Act, the Trade Unions Act and the Payment of Wages Act",
+      "The Companies Act"
+    ],
+    "answer": 2,
+    "explanation": "The four labour codes of 2019-2020 consolidate the Industrial Disputes Act of 1947, the Factory Act of 1948, the Trade Unions Act of 1926, the Payment of Wages Act of 1936 and the Apprentices Act.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'ESI' covers the employees with a wage of up to:",
+    "options": [
+      "Rs. 21,000 a month",
+      "Rs. 15,000 a month",
+      "Rs. 25,000 a month",
+      "There is no limit"
+    ],
+    "answer": 0,
+    "explanation": "The ESI scheme covers the employees with a wage of up to Rs. 21,000 a month and the contribution is shared equally by the employer and the employee.",
+    "difficulty": "hard",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "the PM SVANidhi is correct is:",
+    "options": [
+      "It is a scholarship scheme",
+      "It is the livelihood support scheme of the Ministry of Housing and Urban Affairs for the street vendors",
+      "It is a farm income support scheme",
+      "It is a skill development scheme"
+    ],
+    "answer": 1,
+    "explanation": "The PM SVANidhi, launched in June 2020, provides the collateral-free working capital loans of up to Rs. 20,000 to the street vendors of the country.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PM-JANMAN' is for the:",
+    "options": [
+      "Urban poor",
+      "Small farmers",
+      "Women entrepreneurs",
+      "Particularly Vulnerable Tribal Groups"
+    ],
+    "answer": 3,
+    "explanation": "The PM-JANMAN, the Janjatiya Nagari Abhiyan, is the scheme for the Particularly Vulnerable Tribal Groups with the Van Dhan Vikas Kendras as the units.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "the a monthly pension is correct provides:",
+    "options": [
+      "It is the crop insurance",
+      "It is the credit guarantee",
+      "It provides a monthly pension of Rs. 3,000 to the small and the marginal farmers",
+      "It provides a Rs. 6,000 annual income support"
+    ],
+    "answer": 2,
+    "explanation": "The PM Kisan Maandhan Yojana provides a monthly pension of Rs. 3,000 to the small and the marginal farmers on a voluntary contribution with the matching government contribution.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Economic Survey has 36 chapters and it is:",
+    "options": [
+      "presented on the last working day of January",
+      "presented in December",
+      "presented in March",
+      "presented with the budget"
+    ],
+    "answer": 0,
+    "explanation": "The Economic Survey is divided into 36 chapters and it is normally presented on the last working day of January, a day before the Budget.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Union Budget' of 2024-25 was presented on:",
+    "options": [
+      "26 January 2024",
+      "31 March 2024",
+      "1 February 2024",
+      "1 February 2023"
+    ],
+    "answer": 2,
+    "explanation": "The Union Budget for 2024-25 was presented on 1 February 2024 by the Finance Minister, the Nirmala Sitharaman, and it was the first budget of the coalition government.",
+    "difficulty": "easy",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The 'fiscal deficit target' for 2024-25 and 2025-26:",
+    "options": [
+      "Was 4.9 per cent and 3.5 per cent",
+      "Was 6.4 per cent and 5.9 per cent",
+      "Was 3.5 per cent and 3.0 per cent",
+      "Was 7.3 per cent and 4.9 per cent of the GDP"
+    ],
+    "answer": 3,
+    "explanation": "The fiscal deficit of the central government was projected at 7.3 per cent of the GDP for 2024-25 and 4.9 per cent for 2025-26, and the target of 3 per cent is now expected by 2026-27.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The 'capital expenditure' of the Union for 2024-25:",
+    "options": [
+      "Was raised to Rs. 3 lakh crore",
+      "Was raised to Rs. 11.21 lakh crore",
+      "Was cut to Rs. 6 lakh crore",
+      "Was kept unchanged"
+    ],
+    "answer": 1,
+    "explanation": "The capital expenditure of the Union for 2024-25 was raised to Rs. 11.21 lakh crore, about 3.4 per cent of the GDP, with the focus on the roads, the railways and the airports.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The 'primary deficit' of the Union for 2024-25 was projected at:",
+    "options": [
+      "2.6 per cent of the GDP",
+      "7.3 per cent of the GDP",
+      "0.4 per cent of the GDP",
+      "4.1 per cent of the GDP"
+    ],
+    "answer": 3,
+    "explanation": "The primary deficit for 2024-25 was projected at 4.1 per cent of the GDP and the revenue deficit at 2.8 per cent.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The 'disinvestment target' in the Union Budget 2024-25:",
+    "options": [
+      "Was Rs. 10,000 crore",
+      "There was no disinvestment target",
+      "Was Rs. 6,000 crore and the earlier target of Rs. 1.87 lakh crore was reduced",
+      "Was Rs. 1.87 lakh crore"
+    ],
+    "answer": 2,
+    "explanation": "The disinvestment target of the Budget 2024-25 was cut to Rs. 6,000 crore from the earlier Rs. 1.87 lakh crore, with the bulk of the receipts expected from the disinvestment of the IDBI and the RIL stake.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The 'tax to GDP ratio' of India:",
+    "options": [
+      "Is about 12 per cent and is among the lowest in the world",
+      "Is about 25 per cent",
+      "Is about 30 per cent",
+      "Is about 5 per cent"
+    ],
+    "answer": 0,
+    "explanation": "The tax to GDP ratio of India is about 12 per cent and it is among the lowest in the world because of the narrow tax base, the large informal sector and the low direct tax rates.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The NITI Aayog does not allocate the plan funds and it has:",
+    "options": [
+      "chaired by the President",
+      "the three-tier structure",
+      "it allocates the plan funds",
+      "a two-tier structure"
+    ],
+    "answer": 1,
+    "explanation": "The NITI Aayog, which replaced the Planning Commission in 2015, is a think tank without the fund allocation powers and it has the three-tier structure of the national, the state and the district.",
+    "difficulty": "easy",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The peak power demand of India crossed:",
+    "options": [
+      "the 250 GW in 2024",
+      "about 50 GW",
+      "about 100 GW",
+      "about 500 GW"
+    ],
+    "answer": 0,
+    "explanation": "The peak power demand of India crossed the 250 GW mark in 2024 and the country became the third largest in the world in the energy generation and the consumption.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "Which of the following statements regarding the an outlay of Rs. 19,744 is correct?",
+    "options": [
+      "a state scheme",
+      "an outlay of Rs. 19,744 crore and a target of 5 million tonnes of the green hydrogen a year by 2030",
+      "an outlay of Rs. 1,974 crore",
+      "the nuclear energy"
+    ],
+    "answer": 1,
+    "explanation": "The National Green Hydrogen Mission has an outlay of Rs. 19,744 crore and the target of a minimum of 5 million tonnes of the annual green hydrogen production by 2030 and the electrolysers of 100 kW and above are to be made in India.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The 'PM Surya Ghar Muft Bijli' has an outlay of:",
+    "options": [
+      "Rs. 7,502 crore",
+      "Rs. 1.50 lakh crore",
+      "Rs. 25,000 crore",
+      "Rs. 75,021 crore"
+    ],
+    "answer": 3,
+    "explanation": "The PM Surya Ghar Muft Bijli Yojana, launched in February 2024, has an outlay of Rs. 75,021 crore and the rooftop solar of up to 300 units per household.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The 'Bharatmala Pariyojana' is the project of:",
+    "options": [
+      "The inland waterways",
+      "The rail corridors only",
+      "About 6,000 km of the national highways",
+      "The ports"
+    ],
+    "answer": 2,
+    "explanation": "The Bharatmala Pariyojana is the project of the national highway network of about 6,000 km that is being implemented by the National Highways Authority of India.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Aurangabad-Hyderabad?",
+    "options": [
+      "It is a port project",
+      "It is a railway project",
+      "The Amaravati is the proposed financial city of the Andhra Pradesh on the Krishna river",
+      "The Amaravati is a temple city"
+    ],
+    "answer": 2,
+    "explanation": "The Amaravati, on the Krishna river, is the proposed capital of the Andhra Pradesh with the financial city and the capital city components, and it was affected by the Polavaram project.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Atal Bhujal Yojana' is for:",
+    "options": [
+      "The recharge of the groundwater in the water-stressed blocks",
+      "The drip irrigation",
+      "The rooftop solar",
+      "The desilting of the canals"
+    ],
+    "answer": 0,
+    "explanation": "The Atal Bhujal Yojana is the community-managed groundwater recharge programme of the Jal Shakti Ministry in the water-stressed blocks of the country.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Bharat Drone, which of the following is correct?",
+    "options": [
+      "It is a satellite series",
+      "Is the indigenous drone series of the DRDO with the puma and the ghatak",
+      "It is a ship series",
+      "It is a missile series"
+    ],
+    "answer": 1,
+    "explanation": "The Bharat Drone is the indigenous series of the drones developed by the DRDO with the Puma, the Ghatak, the Pushpak and the Rustom.",
+    "difficulty": "hard",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Make in India' Index of the NITI Aayog measures:",
+    "options": [
+      "The FDI of the states",
+      "The exports of the states",
+      "The employment of the states",
+      "The performance of the states on 45 parameters across the five pillars"
+    ],
+    "answer": 3,
+    "explanation": "The Make in India Index measures the performance and the competitiveness of the states on the 45 parameters across the five pillars of the manufacturing ecosystem.",
+    "difficulty": "hard",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Startup India Seed Fund Scheme':",
+    "options": [
+      "It is a loan scheme for the farmers",
+      "It is a subsidy for the exports",
+      "It is a fund for the PSUs",
+      "Provides the funding of up to Rs. 50 lakh for the proof of concept and up to Rs. 20 crore for the growth stage"
+    ],
+    "answer": 3,
+    "explanation": "The Startup India Seed Fund Scheme provides the funding of up to Rs. 50 lakh for the proof of concept and up to Rs. 20 crore for the scaling up of the startups.",
+    "difficulty": "hard",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The fabs, the display fabs is correct?",
+    "options": [
+      "The fabs, the display fabs, the design and the packaging",
+      "Only the design",
+      "Only the packaging",
+      "Only the assembly"
+    ],
+    "answer": 0,
+    "explanation": "The India Semiconductor Mission covers the semiconductor fabs, the display fabs, the design and the packaging, with the fiscal support of about Rs. 76,000 crore.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bureau of Indian Standards' is the body for:",
+    "options": [
+      "The labour regulation",
+      "Standardisation, the quality control and the certification",
+      "The trade policy",
+      "The industrial licensing"
+    ],
+    "answer": 1,
+    "explanation": "The Bureau of Indian Standards, under the Department of Promotion of Industry and Internal Trade, is the national body for the standardisation, the quality control and the certification.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Competition Commission of India' was created by the:",
+    "options": [
+      "The SEBI Act of 1992",
+      "The Insolvency Code",
+      "The Competition Act of 2002 which replaced the MRTP Act of 1969",
+      "The Companies Act of 2013"
+    ],
+    "answer": 2,
+    "explanation": "The Competition Commission of India was created by the Competition Act of 2002, which repealed the Monopolistic and Restrictive Trade Practices Act of 1969.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'MSME' definition after the 2020 revision:",
+    "options": [
+      "An investment of up to Rs. 25 crore and a turnover of up to Rs. 100 crore",
+      "An investment of up to Rs. 5 crore and a turnover of up to Rs. 20 crore",
+      "An investment of up to Rs. 100 crore",
+      "There is no limit"
+    ],
+    "answer": 0,
+    "explanation": "The revised MSME classification of 2020 raised the investment limit to Rs. 25 crore and the turnover limit to Rs. 100 crore for the enterprises.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": 2020
+  },
+  {
+    "q": "The 'National Logistics Policy' of 2022:",
+    "options": [
+      "It is a shipping subsidy",
+      "Aims at reducing the logistics costs and the time and it is complemented by the PM Gati Shakti",
+      "It is a port act",
+      "It is a railway policy"
+    ],
+    "answer": 1,
+    "explanation": "The National Logistics Policy of 2022 aims at reducing the logistics costs and the time and it is complemented by the PM Gati Shakti National Master Plan.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The 'ONDC' is:",
+    "options": [
+      "A satellite navigation system",
+      "A digital payments scheme",
+      "An open network for the digital commerce with the interoperable protocols",
+      "A state electricity grid"
+    ],
+    "answer": 2,
+    "explanation": "The Open Network for Digital Commerce is an initiative of the Department of Promotion of Industry and Internal Trade for the interoperability and the decentralisation of the digital commerce.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the India Stack, which of the following is correct?",
+    "options": [
+      "It is only the Aadhaar",
+      "It is only the UPI",
+      "It is the Digital India programme",
+      "It is the Aadhaar, the UPI, the Account Aggregator and the Merchants and the Payments and the Securities Depositories"
+    ],
+    "answer": 3,
+    "explanation": "The India Stack, the digital public infrastructure of the country, rests on the Aadhaar, the UPI, the Account Aggregator and the Merchants and the Payments and the Securities Depositories.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'UIDAI' became a statutory body under:",
+    "options": [
+      "The Aadhaar Act, 2016",
+      "The IT Act, 2000",
+      "The RTI Act, 2005",
+      "The Digital India Act"
+    ],
+    "answer": 0,
+    "explanation": "The UIDAI became a statutory body under the Aadhaar (Targeted Delivery of Benefits and Other Services) Act of 2016 and the Supreme Court upheld it in the 2018 judgment.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "The 'Bhashini' mission of 2022:",
+    "options": [
+      "It is a defence mission",
+      "It is a health mission",
+      "Is the MeitY mission to build the digital public infrastructure for the Indian languages with the AI assistance",
+      "It is a satellite mission"
+    ],
+    "answer": 2,
+    "explanation": "The Bhashini mission, launched in 2022 by the MeitY, aims at the creation of the digital public infrastructure for the Indian languages with the translation, the transcription and the AI assistance.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The 'Digital Krishi' launched in 2017:",
+    "options": [
+      "It is a digital payments platform",
+      "It is a satellite navigation system",
+      "It is a crop insurance portal",
+      "Is the digital platform that connects the farmers to the buyers and the inputs"
+    ],
+    "answer": 3,
+    "explanation": "The Digital Krishi, launched in 2017 and operated by the eNAM, is the digital platform that connects the farmers to the buyers and the inputs and the the advisory.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2017
+  },
+  {
+    "q": "The 'IndiaAI' mission approved in 2024:",
+    "options": [
+      "It is a health mission",
+      "Has an outlay of about Rs. 10,372 crore for the compute, the datasets, the applications and the innovation",
+      "It is a space mission",
+      "It is a defence mission"
+    ],
+    "answer": 1,
+    "explanation": "The IndiaAI Mission, approved in March 2024 with an outlay of about Rs. 10,372 crore, is the umbrella programme of the AI ecosystem with the compute, the datasets, the applications and the innovation.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The 'Sanchar' portal of 2022:",
+    "options": [
+      "Is the e-auction platform of the Department of Telecommunications for the spectrum",
+      "It is a payments platform",
+      "It is a satellite system",
+      "It is a digital identity portal"
+    ],
+    "answer": 0,
+    "explanation": "The Sanchar, the e-auction and the Sanchar portal, was launched in 2022 by the Department of Telecommunications to bring the transparency and the efficiency in the spectrum auctions.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2022
+  }
+]

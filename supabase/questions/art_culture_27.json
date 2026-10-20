@@ -1,0 +1,1802 @@
+[
+  {
+    "q": "The Bharatanatyam, with the araimandi and the adavu, is:",
+    "options": [
+      "It is the folk dance of the Punjab",
+      "It is the classical dance of the Tamil temples with the araimandi and the adavu and the jati",
+      "It is the dance of Kerala",
+      "It is the dance of Odisha"
+    ],
+    "answer": 1,
+    "explanation": "The Bharatanatyam, the classical dance of the Tamil country, is marked by the araimandi, the adavu and the jati and the ashtami and the araimandi of the older temple tradition.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Rukmini Devi Arundale is best known for:",
+    "options": [
+      "She founded the Kalakshetra in 1936 and she revived the Bharatanatyam",
+      "She was a noted singer of the Carnatic music",
+      "She was the founder of the Kalakshetra in 1948",
+      "She was a disciple of the Pandanallur Meenakshi Sundaram Pillai"
+    ],
+    "answer": 0,
+    "explanation": "The Rukmini Devi Arundale founded the Kalakshetra in Madras in 1936 and she was largely responsible for the revival of the Bharatanatyam on the stage.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kathak dance form developed in the:",
+    "options": [
+      "It developed in the caves of Ellora",
+      "It developed in the royal courts of Mysore",
+      "It developed in the courts of Lucknow, Jaipur and Banaras with the spins and the abhinaya",
+      "It developed in the temples of Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "The Kathak developed in the courts of Lucknow, Jaipur and Banaras with the spins of the Delhi gharana, the vocabulary of the Lucknow gharana and the abhinaya of the Jaipur gharana.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kathakali, with the chuvanna thaadi and the elaborate make-up, is:",
+    "options": [
+      "It is a martial dance of the Punjab",
+      "It is the classical dance-drama of Kerala with the elaborate make-up and the chuvanna thaadi",
+      "It is the classical dance of Tamil Nadu",
+      "It is the dance of Rajasthan"
+    ],
+    "answer": 1,
+    "explanation": "The Kathakali of Kerala combines the acting, the dance, the music and the costume with the elaborate make-up in which the chuvanna thaadi marks the demonic roles.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Koodiyattam is:",
+    "options": [
+      "Is the folk theatre of Karnataka",
+      "Is the dance of Odisha",
+      "Is a modern theatre form",
+      "Is the ancient Sanskrit theatre of Kerala and it is the only theatre form from the classical period still in existence"
+    ],
+    "answer": 3,
+    "explanation": "The Koodiyattam or the Kutiyattam, in which the performers speak in Sanskrit, is the only surviving theatre form from the classical period and it is inscribed on the UNESCO list.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mohiniyattam is:",
+    "options": [
+      "It is the dance of Odisha",
+      "It is the folk dance of the Punjab",
+      "Is the classical dance of Kerala with the lasya and the grace and it is called the dance of the enchantress",
+      "It is the dance of Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "The Mohiniyattam, the lasya and the most beautiful of the classical dances, is the dance of the enchantress and it is associated with the stories of the Krishna.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the Odissi dance is correct?",
+    "options": [
+      "Is the classical dance of Odisha with the tribhanga and the temple of the Jagannath at Puri",
+      "It is the dance of Kerala",
+      "It is the dance of Tamil Nadu",
+      "It is a folk dance of the Punjab"
+    ],
+    "answer": 0,
+    "explanation": "The Odissi is the classical dance of Odisha with the characteristic tribhanga and the Lasya and the Bhanga styles and it is the temple dance of the Jagannath at Puri.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Manipuri dance is:",
+    "options": [
+      "It is a temple dance of the south",
+      "Is the classical dance of Manipur with the Ras Lila and it was given the classical status in 1974",
+      "It is the dance of Kerala",
+      "It is the dance of the Rajputs"
+    ],
+    "answer": 1,
+    "explanation": "The Manipuri, with the Ras Lila of the Vaishnava tradition, was given the status of a classical dance in 1974 and it is the only classical dance of the North-East.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the Sattriya dance is correct?",
+    "options": [
+      "It is the dance of Manipur",
+      "It is the folk dance of the Punjab",
+      "It is a temple dance of Kerala",
+      "Is the neo-Vaishnava dance of Assam codified by the Srimanta Sankardeva and it was recognised in 2000"
+    ],
+    "answer": 3,
+    "explanation": "The Sattriya, the neo-Vaishnava dance of Assam and Manipur codified by the Srimanta Sankardeva in the sixteenth century, was given the classical status in 2000.",
+    "difficulty": "hard",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the Chhau dance is correct?",
+    "options": [
+      "It is the dance of Kerala",
+      "It is a martial dance of the Rajputs",
+      "It is the folk dance of the Punjab",
+      "Is the masked dance of the Seraikella, the Purulia and the Mayurbhanj and the Seraikella was given the classical status in 2010"
+    ],
+    "answer": 3,
+    "explanation": "The Chhau is a semi-classical dance from the Seraikella, the Purulia and the Mayurbhanj regions and the Seraikella Chhau was given the classical status in 2010.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the Gotipua dance is correct?",
+    "options": [
+      "It is the dance of Kerala",
+      "Is the dramatic folk dance of the Mayurbhanj in Odisha which enacts the Puranic stories",
+      "It is the masked dance of the Seraikella",
+      "It is the classical dance of Manipur"
+    ],
+    "answer": 1,
+    "explanation": "The Gotipua is a dramatic folk dance of the Mayurbhanj region of Odisha in which the dancers enact the episodes from the Puranas and the Indian mythology.",
+    "difficulty": "hard",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ghoomar dance is:",
+    "options": [
+      "It is a devotional dance of the Braj",
+      "It is a temple dance of Tamil Nadu",
+      "Is a folk dance of Rajasthan performed by the Bhil women",
+      "It is a Punjabi harvest dance"
+    ],
+    "answer": 2,
+    "explanation": "The Ghoomar is a folk dance of Rajasthan in which the women of the Bhil and the Garasia communities perform it in a circle with the clapping.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the Garba dance is correct?",
+    "options": [
+      "Is the folk dance of Gujarat played during the Navratri",
+      "It is the dance of the Kerala temples",
+      "It is a martial dance of the Rajputs",
+      "It is the dance of the Devadasis"
+    ],
+    "answer": 0,
+    "explanation": "The Garba and the Dandiya are the community folk dances of Gujarat and they are played during the nine nights of the Navratri with the garba and the dandiya.",
+    "difficulty": "easy",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the Lavani dance is correct?",
+    "options": [
+      "It is the dance of the Garhwal",
+      "It is a devotional dance of the temple",
+      "It is the folk dance of the Khasi hills",
+      "Is the folk dance of Maharashtra sung in a Marathi dialect"
+    ],
+    "answer": 3,
+    "explanation": "The Lavani of Maharashtra is a long narrative ballad of the wandering poet and the shepherd communities and it is sung in a Marathi dialect.",
+    "difficulty": "medium",
+    "category": "dance",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kummattikali' is:",
+    "options": [
+      "A temple dance of Tamil Nadu",
+      "A theatre of the Devadasis",
+      "A folk theatre of Kerala performed on the fifth day of the Malayalam month of Meenam",
+      "A folk dance of the Punjab"
+    ],
+    "answer": 2,
+    "explanation": "The Kummattikali is a folk theatre of Kerala performed on the fifth day of the Malayalam month of Meenam with the vigorous singing and the drumming and the make-up.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Yakshagana' of Karnataka:",
+    "options": [
+      "Is the dance-drama with the elaborate headgear and the face painting and the vigorous chorus",
+      "It is a folk theatre of Kerala",
+      "It is a devotional theatre of the Bhakti movement",
+      "It is the theatre of the Marathas"
+    ],
+    "answer": 0,
+    "explanation": "The Yakshagana of coastal Karnataka and north Kerala is a dance-drama with the elaborate headgear, the face painting, the singing of the chorus and the vigorous acting.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Badagutittu is:",
+    "options": [
+      "the folk theatre of the Punjab",
+      "the closely related folk theatre of the coastal Karnataka",
+      "a temple dance of Tamil Nadu",
+      "the dance of the Pattachitra"
+    ],
+    "answer": 1,
+    "explanation": "The Badagutittu, with its simpler costume and the use of the stringed instruments, is the closely related folk theatre of the coastal Karnataka.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ankiya Naat' was codifed by:",
+    "options": [
+      "Chandideva",
+      "Srimanta Sankardeva",
+      "Sankardeva's disciple",
+      "Madhavdeva"
+    ],
+    "answer": 1,
+    "explanation": "The Ankiya Naat, the Vaishnava neo-Vaishnavite musical play, was codified by the Srimanta Sankardeva and the Madhavdeva and the Chandideva followed him.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ramlila' of Ramnagar:",
+    "options": [
+      "It is the opera of the Tamil Nadu",
+      "It is a ritual dance of the tribal Odisha",
+      "Is the traditional performance of the Ramayana with the masks and it was declared a UNESCO masterpiece in 2003",
+      "It is a folk theatre of the Punjab"
+    ],
+    "answer": 2,
+    "explanation": "The Ramlila of Ramnagar in Varanasi, performed with the wooden masks and the traditional style, was proclaimed a Masterpiece of the Oral and Intangible Heritage by UNESCO in 2003.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nautanki' is:",
+    "options": [
+      "A ritual dance of the south",
+      "A musical form of the Punjab",
+      "A painting style of the Rajputs",
+      "A folk theatre of northern India, especially of Awadh"
+    ],
+    "answer": 3,
+    "explanation": "The Nautanki, which evolved from the sung narration, is a folk theatre of the northern India and it is the most popular in the Awadh region of Uttar Pradesh.",
+    "difficulty": "easy",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the Tamasha folk theatre is correct?",
+    "options": [
+      "Is the folk theatre of Maharashtra and the Bhavai is of Gujarat",
+      "It is the theatre of the Punjab",
+      "It is the temple theatre of Kerala",
+      "It is a ritual of the tribal Odisha"
+    ],
+    "answer": 0,
+    "explanation": "The Tamasha is the folk theatre of Maharashtra and the Bhavai of Gujarat, and both are the sung and the danced forms with the improvisation.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the IPTA is correct?",
+    "options": [
+      "It was founded in 1930 in Calcutta",
+      "It was founded by the Prithvi Theatre",
+      "It was a commercial theatre",
+      "Was the progressive theatre movement founded in 1943 in Bombay"
+    ],
+    "answer": 3,
+    "explanation": "The Indian People's Theatre Association, founded in Bombay in 1943, was the most significant of the progressive theatre movements of India and it staged the plays of the Bhupen Hazarika.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Habib Tanvir is best known for:",
+    "options": [
+      "He was a disciple of the Ebrahim Alkazi",
+      "He founded the Naya Theatre in 1959 and the Charandas was his most celebrated production",
+      "He founded the Prithvi Theatre",
+      "He founded the IPTA"
+    ],
+    "answer": 1,
+    "explanation": "The Habib Tanvir founded the Naya Theatre in 1959 and the Charandas, with its rustic setting of the village, was his most celebrated production.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Badal Sircar is:",
+    "options": [
+      "He founded the IPTA",
+      "He was a disciple of the B.V. Karanth",
+      "He founded the Third Theatre in Calcutta in 1970 and the street theatre for the common people",
+      "He founded the Naya Theatre"
+    ],
+    "answer": 2,
+    "explanation": "The Badal Sircar founded the Third Theatre in Calcutta in 1970 and his street plays brought the theatre to the common people in the rural Bengal.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Ebrahim Alkazi was:",
+    "options": [
+      "the pioneer of the modern Indian theatre and he directed the Darpana and the Theatre Unit of the NSD",
+      "a painter",
+      "a film director",
+      "a poet"
+    ],
+    "answer": 0,
+    "explanation": "The Ebrahim Alkazi, a disciple of the Abdur Rehman and the Kutubuddin Shaikh, was the pioneer of the modern Indian theatre and he directed the Darpana and the Theatre Unit of the National School of Drama.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National School of Drama of the India:",
+    "options": [
+      "set up in 1975",
+      "in the Mumbai",
+      "set up by the Badal Sircar",
+      "set up in 1959 in New Delhi"
+    ],
+    "answer": 3,
+    "explanation": "The National School of Drama was set up in 1959 in New Delhi and it became the foremost institution of the theatre training in India.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Raja Harishchandra' of 1913:",
+    "options": [
+      "Was the first Indian film with an actress",
+      "Was the first documentary",
+      "Was the first Indian feature film made by the Dadasaheb Phalke",
+      "Was the first Indian talkie"
+    ],
+    "answer": 2,
+    "explanation": "The Raja Harishchandra of 1913, made by the Dadasaheb Phalke, was the first Indian feature film and the Phalke is known as the father of Indian cinema.",
+    "difficulty": "easy",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Alam Ara' of 1931:",
+    "options": [
+      "Was the first Indian documentary",
+      "Was the first Indian talkie film and it was directed by the Ardeshir Irani",
+      "Was the first Indian silent feature",
+      "Was the first colour film"
+    ],
+    "answer": 1,
+    "explanation": "The Alam Ara, directed by the Ardeshir Irani and released in 1931, was the first Indian talkie film and it was a commercial success.",
+    "difficulty": "easy",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kisan Kanya' of 1937:",
+    "options": [
+      "Was the first Indian colour film and it was made by the Imperial Films",
+      "Was the first Indian talkie",
+      "Was the first Indian documentary",
+      "Was the first Indian animation"
+    ],
+    "answer": 0,
+    "explanation": "The Kisan Kanya of 1937, made by the Imperial Films, was the first Indian colour film and the first Indian film to be screened at the Cannes film festival.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pather Panchali' of 1955:",
+    "options": [
+      "Won the Golden Bear at Berlin",
+      "Was the first film of the Parallel Cinema",
+      "Was a documentary",
+      "Won the Best Feature Film and the Best Cinematography at the first National Film Awards"
+    ],
+    "answer": 3,
+    "explanation": "The Pather Panchali of the Satyajit Ray won the Best Feature Film and the Best Cinematography awards at the inaugural National Film Awards of 1956 and it was based on the novel of the Bibhutibhushan Bandyopadhyay.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Apu Trilogy' of the Satyajit Ray:",
+    "options": [
+      "Consists of the Pather Panchali, the Aparajito and the Apur Sansar",
+      "Consists of the Charulata and the Pratidwandi and the Ganashatru",
+      "Consists of the Mahanagar and the Charulata and the Shatranj",
+      "Consists of the Goopy Gyne and the Bagha Jatin and the Hirak Rajar Deshe"
+    ],
+    "answer": 0,
+    "explanation": "The Apu Trilogy consists of the Pather Panchali, the Aparajito and the Apur Sansar and the third part won the Golden Lion at the Venice film festival in 1959.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Golden Bear' of the Berlin film festival was won by:",
+    "options": [
+      "The Neecha Nagar",
+      "The Nagarik",
+      "The Pather Panchali",
+      "The Apur Sansar"
+    ],
+    "answer": 2,
+    "explanation": "The Pather Panchali won the Golden Bear at the Berlin International Film Festival in 1956 and the Apur Sansar won the Golden Lion at Venice in 1959.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Neecha Nagar' of 1946:",
+    "options": [
+      "Was the first documentary",
+      "Was the first Indian film to win the Grand Prix at the Cannes film festival",
+      "Was the first Indian talkie",
+      "Was the first Indian colour film"
+    ],
+    "answer": 1,
+    "explanation": "The Neecha Nagar of 1946, made by the Chetan Anand, was the first Indian film to win the Grand Prix at the Cannes film festival.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dadasaheb Phalke Award' was instituted in:",
+    "options": [
+      "1972",
+      "1961",
+      "1969",
+      "1954"
+    ],
+    "answer": 2,
+    "explanation": "The Dadasaheb Phalke Award, the highest Indian award in cinema, was instituted in 1969 and it is presented by the President of India.",
+    "difficulty": "easy",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Raja Ram Mohan Roy was:",
+    "options": [
+      "a pioneer of the Indian theatre and the founder of the Ballygunge theatre",
+      "a painter",
+      "the father of the Indian cinema",
+      "a musician"
+    ],
+    "answer": 0,
+    "explanation": "The Raja Ram Mohan Roy, a pioneer of the Indian theatre and the founder of the Ballygunge theatre, was the leading figure of the Bengali theatre of the nineteenth century.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Girish Karnad is best known as:",
+    "options": [
+      "He directed the first Hindi talkie",
+      "He wrote the Tughlaq and the Kaagaz Te Patte and the Tabbal and the Chowka Bage",
+      "He wrote the Naya Theatre plays",
+      "He founded the IPTA"
+    ],
+    "answer": 1,
+    "explanation": "The Girish Karnad, a doyen of the Indian theatre, wrote the Tughlaq, the Kaagaz Te Patte, the Tabbal and the Chowka Bage and he won the Jnanpith in 1998.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Guru Dutt is best known for directing:",
+    "options": [
+      "He directed the Aadmi Aur Aurat",
+      "He directed the first talkie",
+      "He was the father of the Indian parallel cinema",
+      "He directed the Pyaasa and the Sahib Bibi Aur Ghulam and he was a great actor of the golden age"
+    ],
+    "answer": 3,
+    "explanation": "The Guru Dutt, a legendary actor of the golden age of the Hindi cinema, directed the Pyaasa and the Sahib Bibi Aur Ghulam and he was the husband of the Geeta Dutt.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Bimal Roy is best known for directing:",
+    "options": [
+      "He directed the Pyaasa",
+      "He directed the Aadmi Aur Aurat",
+      "He was a music director",
+      "He directed the Mother India and the Do Bigha Zamin and the Devdas"
+    ],
+    "answer": 3,
+    "explanation": "The Bimal Roy, often called the Greta Garbo of Indian cinema, directed the Mother India, the Do Bigha Zamin and the Devdas and he won the Best Director at Cannes for the Mother India.",
+    "difficulty": "medium",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Satyajit Ray is best known for:",
+    "options": [
+      "He was a disciple of the Ritwik Ghatak",
+      "He composed the music of the Goopy Gyne, the Bagha Jatin and the Hirak Rajar Deshe and he won the Oscar for the Lifetime Achievement",
+      "He composed the music of the Mother India",
+      "He was the founder of the Film and Television Institute"
+    ],
+    "answer": 1,
+    "explanation": "The Satyajit Ray composed the music of his films like the Goopy Gyne, the Bagha Jatin and the Hirak Rajar Deshe and he received the honorary Academy Award in 1992.",
+    "difficulty": "hard",
+    "category": "theatre-and-cinema",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Bhupen Hazarika was:",
+    "options": [
+      "the director of the Pather Panchali",
+      "the founder of the Assamese cinema",
+      "the father of the Indian music and the film score of the Garm Hava",
+      "the founder of the Sangeet Natak Akademi"
+    ],
+    "answer": 2,
+    "explanation": "The Bhupen Hazarika is called the father of the Indian music and he composed the music of the Garm Hava and the Kal Aaj Aur Kal and he received the Bharat Ratna.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "R.D. Burman is best known as:",
+    "options": [
+      "He was a celebrated composer of the Hindi cinema and the son of the S.D. Burman",
+      "He was the director of the Mughal-e-Azam",
+      "He was a classical vocalist",
+      "He was a film producer"
+    ],
+    "answer": 0,
+    "explanation": "The R.D. Burman, the son of the S.D. Burman, was one of the most celebrated music directors of the Hindi cinema with the hits like the Mehbooba and the Chura Liya.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Semmangudi Srinivasa Iyer was:",
+    "options": [
+      "a theatre pioneer",
+      "a leading Carnatic vocalist of the Pallava era",
+      "a Hindustani vocalist",
+      "a violinist"
+    ],
+    "answer": 1,
+    "explanation": "The Semmangudi Srinivasa Iyer, a leading Carnatic vocalist of the 20th century, was the disciple of the Tiger of the East, the Chembai Vaidyanatha Bhagavatar.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gangubai Hangal' was a:",
+    "options": [
+      "Hindustani vocalist of the Kirana gharana",
+      "Carnatic vocalist",
+      "A violinist",
+      "A composer of the film music"
+    ],
+    "answer": 0,
+    "explanation": "The Gangubai Hangal of the Kirana gharana was among the foremost Hindustani vocalists of the twentieth century and she received the Padma Bhushan in 2002.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Hindustani music system is based on the:",
+    "options": [
+      "The five shrutis and the twelve ragas",
+      "The seven notes and the four shrutis",
+      "The ten talas and the twelve vinas",
+      "The six taats of the Hindustani system and the melakarta in the Carnatic"
+    ],
+    "answer": 3,
+    "explanation": "The Hindustani system has the ten thaats of which the six are recognised, and the Carnatic has the seventy two melakarta ragas in the twelve vinas.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Khayal in the Hindustani music is:",
+    "options": [
+      "It is a percussion style",
+      "It is a devotional song of the Punjab",
+      "Is the principal vocal genre of the Hindustani music and it is the improvisational",
+      "Is the oldest vocal style"
+    ],
+    "answer": 2,
+    "explanation": "The khayal, the principal vocal genre of the Hindustani music, is the most frequently performed and it is based on the improvisation within the raga.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Dhrupad of the Hindustani music is:",
+    "options": [
+      "It is the Carnatic genre",
+      "It is a drum composition",
+      "It is a devotional genre of the Tamil Nadu",
+      "Is the oldest vocal genre of the Hindustani music and it is in the Dhrupad and the Dhama styles"
+    ],
+    "answer": 3,
+    "explanation": "The dhrupad, the oldest vocal genre of the Hindustani music, is sung in the Dhrupad and the Dhama styles and it is the ancestor of the khayal.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the Varnam of the Carnatic music is correct?",
+    "options": [
+      "Is the improvised composition in the Carnatic music that precedes the main piece",
+      "Is a Hindustani genre",
+      "It is a percussion item",
+      "It is a temple ritual"
+    ],
+    "answer": 0,
+    "explanation": "The varnam, an improvised and an elaborate composition in the raga, precedes the main composition in a Carnatic concert and the most famous is the kritis of the Tyagaraja.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Krits of the Carnatic music are:",
+    "options": [
+      "Are the temple rituals",
+      "Are the compositions in the Carnatic music and the Trinity composed more than 4,000 of them",
+      "Are the drum compositions",
+      "Are the Hindustani thumris"
+    ],
+    "answer": 1,
+    "explanation": "The kritis, the composed pieces in the Carnatic music, number over 4,000 and the Tyagaraja, the Muthuswami Dikshitar and the Syama Sastri composed the bulk of them.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Trinity' of the Carnatic music:",
+    "options": [
+      "Balkavi and the Annamacharya",
+      "Venkatamakhin and the Sripandaraja",
+      "Tyagaraja, Muthuswami Dikshitar and Syama Sastri",
+      "Purandara Dasa, Kanaka Dasa and Vyasatirtha"
+    ],
+    "answer": 2,
+    "explanation": "The Trinity of the Carnatic music is the Tyagaraja, the Muthuswami Dikshitar and the Syama Sastri of the eighteenth century, and the Annamacharya is called the father of the Carnatic music.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Purandara Dasa' is known as the:",
+    "options": [
+      "Father of the Vedic music",
+      "Father of the Carnatic music",
+      "Father of the Hindustani music",
+      "Father of the Bharatanatyam"
+    ],
+    "answer": 1,
+    "explanation": "The Purandara Dasa, a disciple of the Vyasaraja and a follower of the Vallabhacharya, is known as the father of the Carnatic music and he composed more than 4,000 songs.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bansuri of the Hindustani music is:",
+    "options": [
+      "Is a percussion instrument",
+      "Is a bowed instrument",
+      "Is the bamboo flute of the Hindustani music",
+      "Is a string instrument"
+    ],
+    "answer": 2,
+    "explanation": "The bansuri, the bamboo flute, is the most common wind instrument of the Hindustani music and the shehnai is the double-reed one.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sarod of the Hindustani music is:",
+    "options": [
+      "Is a fretless string instrument popularised by the Ravi Shankar",
+      "Is a drum of the Punjab",
+      "It is a vocal genre",
+      "It is a wind instrument"
+    ],
+    "answer": 0,
+    "explanation": "The sarod, a fretless string instrument with a wide bridge, was popularised by the Ravi Shankar and it is a principal instrument of the Hindustani music.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ghatam of the Carnatic music is:",
+    "options": [
+      "Is a wind instrument",
+      "It is a bowed instrument",
+      "It is a vocal genre",
+      "Is the barrel-shaped percussion instrument of the Carnatic music"
+    ],
+    "answer": 3,
+    "explanation": "The ghatam, the clay pot with the drum stretched over it, is the principal percussion instrument of the Carnatic music along with the mridangam.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "V.N. Bhatkhande is best known for:",
+    "options": [
+      "He wrote the Natyashastra",
+      "He wrote the Sangita Ratnakari of the Carnatic",
+      "He wrote the Brihaddeshi",
+      "He wrote the Hindustani Sangeet Paddhati and the V.N. Bhatkhande’s Sangeet Ratnakari"
+    ],
+    "answer": 3,
+    "explanation": "The Vishnu Narayan Bhatkhande wrote the Hindustani Sangeet Paddhati and the Sangeet Ratnakari, the two foundational works of the Hindustani music, and the S.N. Ratanjankar wrote the Sangita Ratnakari of the Carnatic.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sangita Ratnakari' was written by:",
+    "options": [
+      "Purandara Dasa",
+      "S.N. Ratanjankar",
+      "V.N. Bhatkhande",
+      "Tyagaraja"
+    ],
+    "answer": 1,
+    "explanation": "The Sangita Ratnakari, the standard text of the Carnatic music, was written by the S.N. Ratanjankar and it is the companion of the Hindustani Sangeet Paddhati of the Bhatkhande.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bishnupur in Bengal is famous for its:",
+    "options": [
+      "Is famous for the granite temples",
+      "Is famous for the wooden architecture of the Himalayan region",
+      "Is famous for the terracotta temples of the eighteenth century",
+      "Is famous for the white marble temples"
+    ],
+    "answer": 2,
+    "explanation": "The Bishnupur in the Manipur is famous for the terracotta temples of the eighteenth century with the figures of the Vaishnava deities and it was a centre of the Vaishnavite culture.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Chettinad region of Tamil Nadu is famous for:",
+    "options": [
+      "Is the region of the Tamil Nadu with the grand mansions of the Chettiar merchants",
+      "Is a region of the Telugu with the temples",
+      "Is a region of the Kerala with the backwaters",
+      "Is a region of the Punjab with the forts"
+    ],
+    "answer": 0,
+    "explanation": "The Chettinad, in the old Salem region of the Tamil Nadu, is famous for the grand mansions of the Chettiar merchants who traded with Southeast Asia.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Vadutha style of architecture is:",
+    "options": [
+      "Is the Kerala style of the architecture with the sloped roofs and the laterite and the wooden carvings",
+      "It is a Rajput style",
+      "It is a Mughal style",
+      "It is a Dravidian style"
+    ],
+    "answer": 0,
+    "explanation": "The Vadutha or the Kerala style uses the sloped roofs, the laterite, the wooden carvings and the murals and it is adapted to the heavy monsoon rainfall.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Haveli houses of Rajasthan are:",
+    "options": [
+      "Is the Chettiar house",
+      "It is the Mughal tomb",
+      "It is the temple of the Cholas",
+      "Is the Rajput mansion house with the courtyards and the frescoes"
+    ],
+    "answer": 3,
+    "explanation": "The haveli, the Rajput mansion house, has the inner courtyards, the frescoes and the jharokhas and the typical examples are in the Shekhawati of the Rajasthan and the Marwar.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Shekhawati region of Rajasthan is known for:",
+    "options": [
+      "It is the region of the marble work",
+      "Is the region of the Rajasthan with the havelis and the frescoes of the merchants",
+      "Is the region of the temple architecture",
+      "It is the region of the blue pottery"
+    ],
+    "answer": 1,
+    "explanation": "The Shekhawati region of the Rajasthan, with the havelis of the wealthy merchants, is the most painted region of the state and it is known as the open-air art gallery of Rajasthan.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sanganer near Jaipur is:",
+    "options": [
+      "It is the terracotta of the Bishnupur",
+      "It is the marble of the Sikhs",
+      "Is the printing and the textile block printing centre of the Rajasthan near Jaipur",
+      "Is the temple architecture of the Rajputs"
+    ],
+    "answer": 2,
+    "explanation": "The Sanganer, near Jaipur, is the famous centre of the hand block printing and the bagru and the sanganeri prints are the pride of the Rajasthan.",
+    "difficulty": "hard",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bandhani craft is:",
+    "options": [
+      "It is the weaving of the Kanjeevaram",
+      "Is the tie and dye technique of the Gujarat and the Rajasthan",
+      "It is the block print of the Sanganer",
+      "It is the embroidery of the Phulkari"
+    ],
+    "answer": 1,
+    "explanation": "The Bandhani, the tie and dye technique in which the tiny knots are tied before the dyeing, is the traditional craft of the Gujarat and the Rajasthan.",
+    "difficulty": "easy",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Phulkari' of the Punjab:",
+    "options": [
+      "It is a block print",
+      "It is a wood carving",
+      "Is a counted thread embroidery of the geometric patterns",
+      "Is a tie and dye technique"
+    ],
+    "answer": 2,
+    "explanation": "The Phulkari, literally the flower garden, is a counted thread embroidery of the Punjab with the geometric patterns worked in the long stitches.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chikankari' of Lucknow:",
+    "options": [
+      "Is a tapestry of the Kashmir",
+      "It is a metal work of the Bidar",
+      "It is a wood carving of the Bihar",
+      "Is the shadow embroidery with the white thread on the muslin"
+    ],
+    "answer": 3,
+    "explanation": "The Chikankari, the shadow embroidery of Lucknow with the white thread on the fine muslin, is one of the oldest crafts of the Uttar Pradesh.",
+    "difficulty": "easy",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The shawls of the Kashmir are called the pashmina and the pashmina shawl is:",
+    "options": [
+      "the GI product",
+      "called the bandhani",
+      "called the phulkari",
+      "called the kasuti"
+    ],
+    "answer": 0,
+    "explanation": "The shawls of the Kashmir are called the pashmina and the pashmina shawl of the Kashmir was the first Indian product to be given the GI tag in 2006-07.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Toda embroidery' of the Nilgiris:",
+    "options": [
+      "Is the block print",
+      "Uses the black and the white geometric motifs on the red or the black base",
+      "Uses the gold thread of the zari",
+      "Is the tie and dye"
+    ],
+    "answer": 1,
+    "explanation": "The Toda embroidery of the Nilgiri hills uses the black and the white geometric motifs, with the characteristic black squares and stripes, on a red or a black base.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kalamkari' of Andhra Pradesh:",
+    "options": [
+      "Is the tie and dye",
+      "It is the embroidery of the Chettinad",
+      "It is the metal work of the Bidar",
+      "Is the hand painting or the block printing with the natural dyes"
+    ],
+    "answer": 3,
+    "explanation": "The Kalamkari of the Andhra Pradesh is the hand painting or the block printing of the cotton with the natural dyes, the indigo, the madder and the iron liquor.",
+    "difficulty": "easy",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Banarasi silk is:",
+    "options": [
+      "a wool of the Kashmir",
+      "a jute of the Bengal",
+      "a GI product of the Varanasi",
+      "a cotton of the Coimbatore"
+    ],
+    "answer": 2,
+    "explanation": "The Banarasi silk, with its zari brocade, is a GI tagged product of the Varanasi and the Kanjeevaram is the GI product of the Tamil Nadu.",
+    "difficulty": "easy",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Channapatna toys' of Karnataka:",
+    "options": [
+      "Are the GI tagged wooden toys painted with the natural colours",
+      "Are the GI tagged pottery",
+      "They are the GI tagged silk",
+      "They are the GI tagged jewellery"
+    ],
+    "answer": 0,
+    "explanation": "The Channapatna toys, made of the locally sourced wood and painted with the natural colours, were the first GI product of the Karnataka in 2009.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements about the Thanjavur painting is correct?",
+    "options": [
+      "It is the tie and dye",
+      "It is the block print",
+      "Uses the gold foil on the teak panels with the gesso base",
+      "Uses the mirror work"
+    ],
+    "answer": 2,
+    "explanation": "The Thanjavur or the Tanjore painting of the Tamil Nadu uses the gold foil on the teak panels over a gesso base and it is also called the Tanjore painting.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bidriware' of Bidar:",
+    "options": [
+      "Is the blackened alloy of zinc and copper with the silver inlay",
+      "Is the blue pottery of the Jaipur",
+      "It is the wooden toys of the Karnataka",
+      "It is the bronze of the Cholas"
+    ],
+    "answer": 0,
+    "explanation": "The Bidriware of the Bidar is the blackened alloy of the zinc and the copper with the silver inlay, and the craft is a GI product of the Karnataka.",
+    "difficulty": "hard",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Khurja pottery' of Khurja:",
+    "options": [
+      "Is the terracotta of the Bishnupur",
+      "It is the black pottery of the Khurja of the Assam",
+      "It is the pottery of the Pokkur",
+      "Is the glazed pottery of the Uttar Pradesh and it is a GI product"
+    ],
+    "answer": 3,
+    "explanation": "The Khurja pottery is the famous glazed pottery of the Khurja in the Uttar Pradesh and it is a GI product.",
+    "difficulty": "hard",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Blue pottery' of Jaipur:",
+    "options": [
+      "It is the blue glass",
+      "Is made of the quartz and the fuller earth with the cobalt oxide glaze",
+      "Is the blue and the white porcelain of the China",
+      "It is the blue dyed textile"
+    ],
+    "answer": 1,
+    "explanation": "The Jaipur blue pottery uses the quartz and the fuller earth instead of the kaolin and it is glazed with the cobalt oxide, and it is a GI product of the Rajasthan.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kullu shawls' of the Himachal:",
+    "options": [
+      "They are the pashmina",
+      "Are the GI tagged handwoven woollen shawls with the bold geometric patterns",
+      "Are the GI tagged silk shawls",
+      "They are the cotton shawls"
+    ],
+    "answer": 1,
+    "explanation": "The Kullu shawls are the GI tagged handwoven woollen shawls of the Kullu in the Himachal Pradesh with the bold geometric patterns in the bright colours.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bagru and the Sanganeri are:",
+    "options": [
+      "the block printing traditions of the Karnataka",
+      "of the Gujarat",
+      "the embroideries of the Punjab",
+      "the crafts of the Odisha"
+    ],
+    "answer": 0,
+    "explanation": "The Bagru and the Sanganeri are the two famous block printing traditions of the Rajasthan, not the Karnataka, and they are the pride of the Sanganer near Jaipur.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Toda community of the Nilgiris is famous for its:",
+    "options": [
+      "The Toda is a trading community of the Gujarat",
+      "The Toda is a fishing community of the Konkan",
+      "The Toda community of the Nilgiris is famous for the embroidery and the pashmina woollens",
+      "The Toda is a martial tribe of the Rajasthan"
+    ],
+    "answer": 2,
+    "explanation": "The Toda community of the Nilgiri hills is famous for its distinctive embroidery and for the pashmina woollen shawls that they weave.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kandangi and the Jamdani are:",
+    "options": [
+      "the embroideries of the Punjab",
+      "the tile works",
+      "the metal crafts",
+      "the weaves of the Odisha and the Bengal"
+    ],
+    "answer": 3,
+    "explanation": "The Kandangi of the Odisha and the Jamdani of the Bengal are the fine muslin weaves on the pit loom and the Jamdani was given the GI tag.",
+    "difficulty": "hard",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Pashmina wool is:",
+    "options": [
+      "It is the silk of the Assam",
+      "It is the cotton of the Gujarat",
+      "It is the jute of the Bengal",
+      "The pashmina is the fine wool of the Changthangi goats of the Ladakh and the Kashmir"
+    ],
+    "answer": 3,
+    "explanation": "The pashmina is the fine wool of the Changthangi goats of the Ladakh and the Kashmir and the shawls of the region are among the finest in the world.",
+    "difficulty": "easy",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Khadi is associated with the:",
+    "options": [
+      "The Khadi was promoted by the Mahatma Gandhi as a symbol of the Swadeshi and the self sufficiency",
+      "It is a silk of the Bengal",
+      "It is a cotton of the Punjab",
+      "It is a wool of the Kashmir"
+    ],
+    "answer": 0,
+    "explanation": "The Khadi, the handwoven cloth of the handspun yarn, was promoted by the Mahatma Gandhi as a symbol of the Swadeshi and the self-sufficiency and it is now a protected GI product.",
+    "difficulty": "easy",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gamosa' of Assam:",
+    "options": [
+      "It is the wool of the Kashmir",
+      "Is the traditional textile of the Assam worn with the white dhoti and the chador",
+      "It is a silk of the Varanasi",
+      "It is the cotton of the Coimbatore"
+    ],
+    "answer": 1,
+    "explanation": "The Gamosa, the traditional textile of the Assam, is worn with the white dhoti and the chador and it was given the GI tag in 2007.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kharvas of the Dal Lake are:",
+    "options": [
+      "They are the ships of the Bengal",
+      "They are the canoes of the Assam",
+      "The Kharvas are the traditional houseboats of the Dal Lake of Srinagar",
+      "They are the boats of the Kerala backwaters"
+    ],
+    "answer": 2,
+    "explanation": "The Kharvas, the traditional houseboats of the Dal Lake of Srinagar, are the floating homes of the Kashmiri people and a few remain in use.",
+    "difficulty": "medium",
+    "category": "handicrafts-and-folk",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Jali of the Mughal architecture is:",
+    "options": [
+      "Is the perforated stone screen of the Mughal architecture",
+      "It is a textile of the Bengal",
+      "It is a musical instrument",
+      "It is a type of the carpet"
+    ],
+    "answer": 0,
+    "explanation": "The jali, the perforated stone or the wood screen, is a distinctive feature of the Mughal architecture and it lets in the light while preserving the privacy.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chhatri' of Rajasthan:",
+    "options": [
+      "It is the enclosed courtyard",
+      "It is the vaulted chamber",
+      "It is the minaret",
+      "Is the small domed kiosk on the pillars of the Rajput architecture"
+    ],
+    "answer": 3,
+    "explanation": "The chhatri, the small domed kiosk on the pillars, is a distinctive feature of the Rajput architecture and it is placed on the corners of the courtyards and the terraces.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sarai' of the Mughal architecture:",
+    "options": [
+      "It is the tomb",
+      "Is the open hall of the serais for the travellers and the merchants",
+      "It is the royal chamber",
+      "It is the mosque"
+    ],
+    "answer": 1,
+    "explanation": "The sarai, the open hall with the surrounding rooms, was the rest house of the Mughal serais and it provided the accommodation to the travellers and the merchants and the animals.",
+    "difficulty": "medium",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Minaret of a mosque is:",
+    "options": [
+      "It is the domed chamber",
+      "It is the tomb",
+      "Is the tower from which the muezzin calls the faithful to the prayer",
+      "It is the entrance gateway"
+    ],
+    "answer": 2,
+    "explanation": "The minaret, the tower of the mosque from which the muezzin calls the faithful to the prayer, is a distinctive element of the Islamic architecture in India.",
+    "difficulty": "easy",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Iwan' of the Persian architecture:",
+    "options": [
+      "It is the gateway",
+      "It is the dome",
+      "Is the vaulted hall open on one side of the courtyard",
+      "It is the minaret"
+    ],
+    "answer": 2,
+    "explanation": "The iwan is the vaulted hall open on one side of the courtyard and it is a hallmark of the Persian architecture that was adopted in the Mughal buildings.",
+    "difficulty": "hard",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rabat of the Deccan palaces is:",
+    "options": [
+      "It is a garden pavilion",
+      "Is the residential quarters of the Qutb Shahi and the Adil Shahi palaces",
+      "It is a type of the minaret",
+      "It is a kind of the carpet"
+    ],
+    "answer": 1,
+    "explanation": "The rabat is the residential quarters of the Qutb Shahi and the Adil Shahi palaces and the Rabati Bagh of the Golconda is the finest of them.",
+    "difficulty": "hard",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Ashurkhana of the Deccan is:",
+    "options": [
+      "Is the royal congregation hall of the Qutb Shahi and the Adil Shahi palaces",
+      "It is a temple",
+      "It is a kitchen",
+      "It is a prison"
+    ],
+    "answer": 0,
+    "explanation": "The Ashurkhana, the royal congregation hall of the Qutb Shahi and the Adil Shahi palaces, was used for the prayer and it has the Persian style of the decoration.",
+    "difficulty": "hard",
+    "category": "architecture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Tavil' of the Tamil Nadu:",
+    "options": [
+      "Is a wind instrument",
+      "It is a string instrument",
+      "It is a clay vessel",
+      "Is a percussion instrument of the Carnatic music"
+    ],
+    "answer": 3,
+    "explanation": "The tavil, a large copper wind instrument, is used in the Carnatic music and it is played with the Venkatachalam and the Nattukara of the Tiruvallur tradition.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Morsing' of the Carnatic music:",
+    "options": [
+      "It is a string instrument",
+      "It is a clay drum",
+      "Is a percussion instrument of the South Indian tradition",
+      "Is a wind instrument of the north"
+    ],
+    "answer": 2,
+    "explanation": "The morsing is a percussion instrument of the South Indian tradition and the temple percussion of the Carnatic music includes the mridangam, the ghatam, the morsing, the kanjira and the tavil.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kanjira of the Carnatic music is:",
+    "options": [
+      "Is a small percussion instrument of the Carnatic music",
+      "It is a wind instrument",
+      "It is a string instrument",
+      "It is a bell"
+    ],
+    "answer": 0,
+    "explanation": "The kanjira, a small clay or the metal drum, is a percussion instrument of the Carnatic music and it is held in one hand and struck with the other.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rudra veena of the Hindustani music is:",
+    "options": [
+      "It is a percussion instrument",
+      "It is a wind instrument",
+      "It is a vocal genre",
+      "Is a bowed string instrument of the Hindustani music"
+    ],
+    "answer": 3,
+    "explanation": "The Rudra veena, with its twenty-four frets, is a bowed string instrument of the Hindustani music and it is the ancestor of the modern violin.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Sarangi of the Hindustani music is:",
+    "options": [
+      "It is a vocal genre",
+      "Is a bowed string instrument of the Hindustani music",
+      "It is a drum of the Punjab",
+      "It is a wind instrument"
+    ],
+    "answer": 1,
+    "explanation": "The sarangi, a three stringed bowed instrument with a skin-covered resonator, is the principal instrument of the Hindustani music for the imitation of the voice.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Esraj of the Hindustani music is:",
+    "options": [
+      "It is a percussion instrument",
+      "It is a wind instrument",
+      "It is a vocal genre",
+      "Is a bowed string instrument of the Hindustani music"
+    ],
+    "answer": 3,
+    "explanation": "The esraj, with its hundred sympathetic strings, is a bowed string instrument of the Hindustani music and it is used for the vocal and the instrumental styles.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Shehnai of the Hindustani music is:",
+    "options": [
+      "It is a string instrument",
+      "Is the double-reed wind instrument of the Hindustani music",
+      "It is a bowed instrument",
+      "It is a percussion instrument"
+    ],
+    "answer": 1,
+    "explanation": "The shehnai, the double-reed wind instrument, is a principal instrument of the Hindustani music and it is popularly known as the Indian oboe.",
+    "difficulty": "easy",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Chaturang composition is:",
+    "options": [
+      "Is the Carnatic composition in the praise of the Rama",
+      "It is a Hindustani genre",
+      "It is a percussion item",
+      "It is a temple ritual"
+    ],
+    "answer": 0,
+    "explanation": "The chaturang, the Carnatic composition in the praise of the Rama, is the most ancient of the compositions and it is followed by the varnam.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Thumri' of the Hindustani music:",
+    "options": [
+      "It is a drum composition",
+      "It is a Carnatic genre",
+      "Is a semi-classical genre with the romantic lyrics sung in the khamaj thaat",
+      "Is the oldest style"
+    ],
+    "answer": 2,
+    "explanation": "The thumri is a semi-classical genre of the Hindustani music with the romantic lyrics and it is sung in the khamaj thaat and it is the staple of the Banaras and the Lucknow gharana.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kafi of the Hindustani music is:",
+    "options": [
+      "It is a percussion style",
+      "It is a temple song",
+      "Is a thaat of the Hindustani music and a genre of the semi-classical",
+      "It is a raga of the Carnatic"
+    ],
+    "answer": 2,
+    "explanation": "The kafi is one of the six recognised thaats of the Hindustani music and it is also a semi-classical genre with the romantic and the Sufi poetry.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Patiala in the Hindustani music is:",
+    "options": [
+      "It is a musical instrument",
+      "Is a gharana of the Hindustani music founded by the Ali Baksh and the Fateh Ali Khan",
+      "It is a Carnatic school",
+      "It is a poetry genre"
+    ],
+    "answer": 1,
+    "explanation": "The Patiala gharana was founded by the Ali Baksh and the Fateh Ali Khan and it is noted for its compositions in the dhrupad and the dhamar styles.",
+    "difficulty": "hard",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Gwalior gharana' was founded by:",
+    "options": [
+      "Ali Baksh and the Fateh Ali Khan",
+      "Abdul Karim Khan",
+      "Nawab Fateh Ali Khan",
+      "Hasan Khan"
+    ],
+    "answer": 3,
+    "explanation": "The Gwalior gharana was founded by the Hasan Khan, a descendant of the Tansen, and it is known for the intricate bandish and the sargam style.",
+    "difficulty": "medium",
+    "category": "music",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nandalal Bose' was:",
+    "options": [
+      "A disciple of the Abanindranath Tagore and the principal designer of the national flag",
+      "A disciple of the Gandhi",
+      "The founder of the Bombay Progressive Artists' Group",
+      "A disciple of the M.F. Husain"
+    ],
+    "answer": 0,
+    "explanation": "The Nandalal Bose, a disciple of the Abanindranath Tagore, was the principal designer of the national flag of India and he was the founder of the Kala Bhavana at the Santiniketan.",
+    "difficulty": "medium",
+    "category": "modern-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bengal school' of painting was founded by:",
+    "options": [
+      "Abanindranath Tagore",
+      "Raja Ravi Varma",
+      "Nandalal Bose",
+      "Abanindranath and the Nandalal Bose"
+    ],
+    "answer": 0,
+    "explanation": "The Bengal school of painting was founded by the Abanindranath Tagore in the early twentieth century with the aim of reviving the Indian art tradition and it included the Nandalal Bose and the Ramkinkar Baij.",
+    "difficulty": "easy",
+    "category": "modern-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bombay Progressive Artists' Group' was formed in:",
+    "options": [
+      "1940",
+      "1947",
+      "1930",
+      "1955"
+    ],
+    "answer": 1,
+    "explanation": "The Progressive Artists' Group was formed in Bombay in 1947 with the M.F. Husain, the F.N. Souza, the S.H. Raza, the K.H. Ara and the H.A. Gade and it challenged the academic realism.",
+    "difficulty": "medium",
+    "category": "modern-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Raja Ravi Varma was:",
+    "options": [
+      "He founded the Bengal school",
+      "He founded the Madras Art Movement",
+      "He was a disciple of the Abanindranath Tagore",
+      "He reformed the Indian art with the academic realism and the oil technique and he painted the Bharat Mata"
+    ],
+    "answer": 3,
+    "explanation": "The Raja Ravi Varma, a painter of the Kerala palace, reformed the Indian art with the academic realism and the oil technique and his Bharat Mata became a national icon.",
+    "difficulty": "medium",
+    "category": "modern-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Amrita Sher-Gil' was:",
+    "options": [
+      "A sculptor of the Chola period",
+      "A painter of the Rajput school",
+      "An Indian painter of the modern period who studied in Paris and is known for the self portraits",
+      "A painter of the Bengal school"
+    ],
+    "answer": 2,
+    "explanation": "The Amrita Sher-Gil, who studied in Paris, is one of the pioneers of the modern Indian painting and her self portraits are celebrated for the psychological depth.",
+    "difficulty": "medium",
+    "category": "modern-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'K.G. Subramanyan' was:",
+    "options": [
+      "A painter of the Bengal school",
+      "A disciple of the Nandalal Bose",
+      "A painter of the Madhubani",
+      "A painter and a muralist of the modern India who was also a scholar of the Indian folk traditions"
+    ],
+    "answer": 3,
+    "explanation": "The K.G. Subramanyan, a painter, a muralist and a scholar of the Indian folk tradition and the epics, is one of the most important of the modern Indian painters.",
+    "difficulty": "hard",
+    "category": "modern-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ramkinkar Baij' was:",
+    "options": [
+      "A painter of the Western Ghats",
+      "A painter of the Company style",
+      "A painter of the Bengal school who painted the Santhal life",
+      "A painter of the Madhubani"
+    ],
+    "answer": 2,
+    "explanation": "The Ramkinkar Baij, a leading painter of the Bengal school, is known for his depictions of the Santhal life and the rural Bengal and he was also a sculptor.",
+    "difficulty": "hard",
+    "category": "modern-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Madras Movement' in art was led by:",
+    "options": [
+      "The Amrita Sher-Gil",
+      "D.P. Roy Chowdhury and the K.C.S. Paniker",
+      "The M.F. Husain",
+      "The F.N. Souza"
+    ],
+    "answer": 1,
+    "explanation": "The Madras Art Movement was led by the D.P. Roy Chowdhury, the K.C.S. Paniker and the S. Dhanapal and it championed the modern and the indigenous traditions.",
+    "difficulty": "hard",
+    "category": "modern-art",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Company painting' developed:",
+    "options": [
+      "In the late eighteenth century for the European patrons",
+      "In the Vijayanagara period",
+      "In the Mughal period",
+      "In the Pala period"
+    ],
+    "answer": 0,
+    "explanation": "The Company painting developed in the late eighteenth and the early nineteenth centuries as the Indian artists worked for the European traders and the administrators.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rajput painting' schools:",
+    "options": [
+      "Include only the Mughal",
+      "Include the Kangra and the Guler",
+      "Include only the Vijayanagara",
+      "Include the Mewar, the Bundi and the Kishangarh and the Kota"
+    ],
+    "answer": 3,
+    "explanation": "The Rajput schools include the Mewar, the Bundi, the Kishangarh, the Kota, the Jaipur, the Guler and the Kangra and they depict the courtly and the devotional themes.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mughal painting' reached its peak under:",
+    "options": [
+      "Jahangir",
+      "Akbar",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "answer": 0,
+    "explanation": "The Mughal painting reached its zenith under the Jahangir with the single figure portraits, the allegorical compositions and the calligraphic work and the Akbar favoured the narrative.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The paintings patronised by the Akbar are:",
+    "options": [
+      "The Akbar preferred only the religious paintings",
+      "The Akbar preferred the narrative and the historical paintings with the Persian and the Indian elements",
+      "The Akbar preferred only the portraits",
+      "The Akbar did not patronise the painting"
+    ],
+    "answer": 1,
+    "explanation": "The Akbar, who was a great patron of the painting, preferred the narrative and the historical paintings with a synthesis of the Persian and the Indian elements, and the Hamzanama was his biggest commission.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The paintings patronised by the Shah Jahan are:",
+    "options": [
+      "He was not a patron of the painting",
+      "He preferred the abstract",
+      "The Shah Jahan preferred the formal and the portraiture and the MUGHAL album was the model",
+      "The Shah Jahan preferred only the religious paintings"
+    ],
+    "answer": 2,
+    "explanation": "The Shah Jahan preferred the formal and the portraiture and his reign is considered the golden age of the Mughal art with the MUGHAL album as the model.",
+    "difficulty": "hard",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Kangra painting is:",
+    "options": [
+      "a Rajput school of the fifteenth century",
+      "a Mughal school",
+      "a Company style",
+      "a Pahari school of the eighteenth century and the Amritotsava is its finest work"
+    ],
+    "answer": 3,
+    "explanation": "The Kangra painting is a Pahari school of the eighteenth century and the Amritotsava, the Darshan of the Lord, is its finest work.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Rajput painting is known for the:",
+    "options": [
+      "It depicts only the portraits",
+      "The Rajput painting depicts the courtly and the devotional themes with the Krishna legend",
+      "It depicts only the battles",
+      "It depicts only the hunting"
+    ],
+    "answer": 1,
+    "explanation": "The Rajput painting depicts the courtly and the devotional themes with the Krishna legend and the romantic love of the Radha and the Krishna.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The Kalighat temple of Calcutta is correct?",
+    "options": [
+      "The temple of the Jagannath at Puri",
+      "The temple of the Minakshi at Madurai",
+      "The Kalighat temple of Calcutta in the nineteenth century",
+      "The Kalighat temple of Varanasi"
+    ],
+    "answer": 2,
+    "explanation": "The Kalighat painting developed in the nineteenth century around the Kalighat temple in Calcutta and it used the imported colours and the bold brushwork on the flat paper.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pattachitra' of Odisha and Bengal:",
+    "options": [
+      "Is the cloth scroll painting tradition",
+      "It is the mural tradition of the Karnataka",
+      "It is the miniature of the Rajasthan",
+      "It is the rock cut of the Ajanta"
+    ],
+    "answer": 0,
+    "explanation": "The Pattachitra, the cloth scroll painting of the Odisha and the Bengal, was traditionally used as the temple curtain of the Jagannath at Puri and the Chitrakala is the mural tradition of the Karnataka.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Madhubani painting' of Bihar:",
+    "options": [
+      "Uses the bold geometric patterns with the double line borders and the natural dyes",
+      "It uses the gold foil",
+      "It is the miniature of the Rajasthan",
+      "It is the mural of the tribal Bhils"
+    ],
+    "answer": 0,
+    "explanation": "The Madhubani or the Mithila painting of the Bihar uses the bold geometric patterns, the double line borders and the natural dyes and it is practised mainly by the women.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Warli painting' of Maharashtra:",
+    "options": [
+      "It uses the gold foil",
+      "It is the miniature of the Rajputs",
+      "It is the mural of the Bhils",
+      "Uses the simple stick figures of the white on the mud brown background"
+    ],
+    "answer": 3,
+    "explanation": "The Warli painting of the Maharashtra uses the simple stick figures of the white pigment on the mud brown background and it depicts the daily life and the deities.",
+    "difficulty": "easy",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kalamkari of the Srikalahasti and the Machilipatnam is:",
+    "options": [
+      "the embroidery of the Chettinad",
+      "the metal craft of the Bidar",
+      "the hand-painted and the block-printed cotton",
+      "the tie and dye"
+    ],
+    "answer": 2,
+    "explanation": "The Kalamkari of the Srikalahasti in the Andhra Pradesh and the Machilipatnam in the Telangana is the hand-painted and the block-printed cotton with the natural dyes.",
+    "difficulty": "medium",
+    "category": "painting",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

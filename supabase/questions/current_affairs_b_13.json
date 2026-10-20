@@ -1,0 +1,722 @@
+[
+  {
+    "q": "The 'National Green Hydrogen Mission' also promotes the production of:",
+    "options": [
+      "green steel exported to Europe",
+      "green silicon for solar cells only",
+      "green lithium from brines",
+      "green ammonia, used as a fertiliser and as a shipping fuel"
+    ],
+    "answer": 3,
+    "explanation": "The mission encourages green ammonia production, which is expected to be a key low-carbon fuel for the shipping and fertiliser industries, and it provides incentives for the electrolyser manufacturing and the associated R and D.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM E-DRIVE' scheme approved in 2024 is an incentive scheme for:",
+    "options": [
+      "charging stations in the highways",
+      "battery manufacturing plants",
+      "electric vehicles, with an outlay of Rs 10,900 crore for two years",
+      "electric two-wheelers only"
+    ],
+    "answer": 2,
+    "explanation": "PM E-DRIVE, with an outlay of Rs 10,900 crore for two years, offers demand incentives for electric vehicles, including e-2Ws, e-3Ws, e-4Ws, e-ambushers and e-trucks, along with the setting up of charging stations.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM-KUSUM' scheme and the 'PM Surya Ghar' together aim at:",
+    "options": [
+      "the export of solar modules",
+      "the electrification of the railways",
+      "decentralised renewable energy generation for farmers and for rooftop use in households",
+      "the expansion of the coal capacity in the east"
+    ],
+    "answer": 2,
+    "explanation": "PM-KUSUM supports the decentralised generation of solar power for the farming community, while PM Surya Ghar promotes rooftop solar for households, and together they support the target of 500 GW of non-fossil capacity by 2030.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Swachh Bharat Mission-Gramin' is implemented through:",
+    "options": [
+      "the Gram Panchayats with a funding pattern of 60:40 between the Centre and the States",
+      "the municipalities of the States",
+      "the District Planning Committees",
+      "the Central Sanitation Mission alone"
+    ],
+    "answer": 0,
+    "explanation": "The rural component of the Swachh Bharat Mission is implemented by the Gram Panchayats, with the Centre and the States sharing the cost in the ratio of 60:40, and the focus is on the construction of individual household toilets and the management of solid and liquid waste.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM Vishwakarma' and the 'PM SVANidhi' together belong to which broader programme?",
+    "options": [
+      "the Jal Jeevan Mission",
+      "the NIPUN Bharat mission",
+      "the Aspirational Districts Programme",
+      "Mission Shakti, which also covers the One Stop Centre and the women's helpline 181"
+    ],
+    "answer": 3,
+    "explanation": "Both PM Vishwakarma and PM SVANidhi operate under the umbrella of Mission Shakti, whose Samarthya vertical covers the economic empowerment of women and the Sambal vertical covers the safety and support of women.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'National Mission for the Mentally Disabled' is now a part of:",
+    "options": [
+      "the Ministry of Education",
+      "the Department of Empowerment of Persons with Disabilities under the Ministry of Social Justice and Empowerment",
+      "the NITI Aayog",
+      "the Ministry of Health and Family Welfare"
+    ],
+    "answer": 1,
+    "explanation": "The National Mission for the Mentally Disabled was merged with the two other national missions of the Department of Empowerment of Persons with Disabilities, which is under the Ministry of Social Justice and Empowerment.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM Integrated Nutrition Programme' and the 'POSHAN 2.0' are implemented by:",
+    "options": [
+      "the Ministry of Agriculture alone",
+      "the Ministry of Rural Development",
+      "the NITI Aayog",
+      "the Ministry of Women and Child Development in partnership with the Ministry of Health and Family Welfare and other departments"
+    ],
+    "answer": 3,
+    "explanation": "POSHAN 2.0 is implemented by the Ministry of Women and Child Development in partnership with the Ministry of Health and Family Welfare, the Ministry of Education, the Ministry of Tribal Affairs and the Ministry of Rural Development.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Pradhan Mantri Bharthiya Jana Aushadhi Pariyojana' was renamed as:",
+    "options": [
+      "the Jan Aushadhi scheme, with the Generic medicines priced at 50 to 90 per cent below the branded medicines",
+      "the e-Sanjeevani scheme",
+      "the Ayushman Arogya Mandir",
+      "the Arogya Seva Kendra"
+    ],
+    "answer": 0,
+    "explanation": "The scheme was renamed the Jan Aushadhi scheme in 2022, and it sells quality generic medicines at 50 to 90 per cent below the branded alternatives, along with the Suvidha quality testing and the app for the chemists.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the PM Fasal Bima?",
+    "options": [
+      "voluntary insurance for commercial crops only",
+      "a fixed state contribution of 50 per cent for all crops",
+      "crop insurance on a technology basis with an assessment of the crop damage through satellite imagery and drones",
+      "insurance linked to the purchase of inputs"
+    ],
+    "answer": 2,
+    "explanation": "The restructured scheme moves to a technology-based crop insurance with the assessment of crop loss through satellite imagery, drones and smartphone pictures, along with the standardisation of the claims process and a faster settlement of claims for the farmers.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'National Judicial Data Grid' seeks to:",
+    "options": [
+      "compile the pendency data of the lower courts only",
+      "create a national judicial data platform with a standard digital data architecture for all the courts",
+      "digitise only the Supreme Court records",
+      "replace the e-courts services of the High Courts"
+    ],
+    "answer": 1,
+    "explanation": "The NJDG, an initiative of the Supreme Court with the National Law University, aims to create a standard digital judicial data architecture for all the courts and to enable the monitoring of pendency, case status and the use of the data in policymaking.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Jan Samarth' portal launched in 2023 provides:",
+    "options": [
+      "the digital identity of the beneficiaries for the welfare schemes",
+      "the grievance redressal mechanism of the States",
+      "a single window of information on more than 400 government schemes and the eligibility criteria for the beneficiaries",
+      "the payment of subsidies directly to the bank accounts"
+    ],
+    "answer": 2,
+    "explanation": "Jan Samarth is a single national portal that gives information on more than 400 Central schemes and the eligibility criteria of the beneficiaries, so that a common man can know the scheme for which he can apply.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Pradhan Mantri Jeevan Jyoti Yojana' provides:",
+    "options": [
+      "a life insurance cover of Rs 2 lakh to the poor households through the annual premium of Rs 436",
+      "a pension of Rs 3,000 to the senior citizens",
+      "a crop insurance to the small farmers",
+      "a health insurance of Rs 5 lakh to the rural households"
+    ],
+    "answer": 0,
+    "explanation": "The PMJJY, launched in 2015, provides a life insurance cover of Rs 2 lakh per year to the poor households for the annual premium of Rs 436 that is shared between the government and the beneficiary.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM Vidyalaxmi' scheme launched in 2023 provides:",
+    "options": [
+      "the scholarships for the research scholars only",
+      "financial support to the girls from the weaker sections for the higher education in the top institutions",
+      "the digital literacy of the students of the government schools",
+      "the loans for the higher education abroad"
+    ],
+    "answer": 1,
+    "explanation": "The PM Vidyalaxmi, launched in 2023, provides the financial support to the meritorious girls from the weaker sections for the admission in the top higher education institutions of the country.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM YUVA' scheme launched in 2024 is designed to provide:",
+    "options": [
+      "the scholarships for the students of the classes 9 to 12",
+      "the startup funding for the young entrepreneurs of the tier 2 cities",
+      "the rural housing for the youth of the villages",
+      "the skilling, the apprenticeships and the job placement assistance for the youth in the age group of 15 to 29 years"
+    ],
+    "answer": 3,
+    "explanation": "The PM YUVA scheme of 2024 is a youth skilling and job placement programme for the youth between fifteen and twenty-nine years with the focus on the district level skilling and the apprenticeships.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM MANDHIR' scheme launched in 2024 aims at:",
+    "options": [
+      "the marketing of the rural produce in the export markets",
+      "the primary healthcare in the rural areas",
+      "the skilling, the training and the incubation of the rural youth for the local self employment",
+      "the urban housing for the migrant workers"
+    ],
+    "answer": 2,
+    "explanation": "The PM MANDHIR is a scheme of the Ministry of Rural Development for the skilling, the training and the incubation of the rural youth in the rural self employment hub and the entrepreneurship.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'PM Internship Scheme' launched in 2024 provides:",
+    "options": [
+      "the full time employment in the government for the graduates",
+      "a monthly stipend, a one-time grant and the accident insurance cover to the interns in the top companies",
+      "the repayment of the education loans of the students",
+      "the sponsorship of the research of the students in the universities"
+    ],
+    "answer": 1,
+    "explanation": "The PM Internship Scheme of 2024 engages the youth in the top companies with a monthly stipend, a one-time grant and the accident insurance under the PM Jeevan Jyoti Yojana for the interns.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Rashtriya Uchchatar Shiksha Abhiyan' (RUSA) is a scheme of the higher education for:",
+    "options": [
+      "the development of the universities, the colleges and the affiliated institutions with the participation of the States",
+      "the adult literacy of the rural women",
+      "the primary schools of the villages",
+      "the vocational training of the industrial workers"
+    ],
+    "answer": 0,
+    "explanation": "RUSA was launched in 2013 for the reform of the higher education and it works on the projects of the education infrastructure, the innovation and the inclusion with the full participation of the States.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Sector Scheme of Scholarship' in India is meant for:",
+    "options": [
+      "the students of the government schools of the classes 6 to 8",
+      "the research scholars of the universities only",
+      "the students of the vocational training institutes",
+      "the meritorious students of the colleges and the universities who need the financial assistance for the higher studies"
+    ],
+    "answer": 3,
+    "explanation": "The Central Sector Scheme of Scholarship provides the financial assistance to the meritorious students of the higher education who need it, and it is a centrally funded scheme with the State governments nominating the beneficiaries.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PM-SHRI' scheme of the education ministry provides for:",
+    "options": [
+      "the digital university campuses",
+      "the adult education of the rural women",
+      "the development of the school infrastructure including the laboratories, the libraries and the vocational training in the schools",
+      "the scholarship for the higher education students"
+    ],
+    "answer": 2,
+    "explanation": "The PM SHRI scheme, which includes the Samagra Shiksha and the Vidya Lakshmi, provides the infrastructure support to the schools for the laboratories, the libraries, the toilets, the drinking water and the vocational training.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Saksham' scholarship in India is for the students with:",
+    "options": [
+      "disabilities who are pursuing the higher education",
+      "the special performance in the arts",
+      "the children of the armed forces personnel",
+      "the exceptional ability in the sports"
+    ],
+    "answer": 0,
+    "explanation": "The Saksham scholarship, a central sector scheme, provides the financial assistance to the students with the disabilities who are pursuing the higher education, with the assistance of the National Trust.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Means-cum-Merit Scholarship' is for the students of the classes:",
+    "options": [
+      "the college students of the rural areas",
+      "I to VIII of the government and the aided schools",
+      "the research scholars of the universities",
+      "IX to XII of the schools"
+    ],
+    "answer": 1,
+    "explanation": "The NMMS is a central sector scholarship for the students of the classes I to VIII of the government and the government aided schools, and it was revised in 2019 to include the classes VI to VIII.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PM Vande Bharat' scheme relates to:",
+    "options": [
+      "the electrification of the last kilometre of the villages",
+      "the manufacture of the railway coaches in the private sector",
+      "the safety of the railway bridges",
+      "the restoration and the upgrade of the heritage railway stations of India"
+    ],
+    "answer": 3,
+    "explanation": "The PM Vande Bharat scheme of the Ministry of Railways is for the restoration and the upgrade of the selected heritage railway stations to their original glory with the modern amenities.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Construction and Demolition Waste Management Rules, 2016' require the local bodies to:",
+    "options": [
+      "hand over the entire waste to the private concessionaires",
+      "segregate the waste at the source and set up the material recovery facilities for the reuse and the recycling",
+      "burn the waste in the open pits",
+      "dump the waste in the rivers"
+    ],
+    "answer": 1,
+    "explanation": "The Rules require the waste to be segregated at the source by the waste generators and the local bodies to prepare the plans for the safe disposal and the reuse and the recycling of the material.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "MoEFCC",
+    "year": null
+  },
+  {
+    "q": "The 'Plastic Waste Management (Amendment) Rules, 2022' introduced:",
+    "options": [
+      "the tax on the manufacture of the plastic",
+      "the state of the ban on the single use plastic in the cities",
+      "the complete ban on the plastic packaging",
+      "the certificates of the plastic waste recycling for the brand owners and the enhanced responsibility of the producers"
+    ],
+    "answer": 3,
+    "explanation": "The 2022 amendment introduced the plastic waste recycling certificates and the enhanced responsibility of the producers and the brand owners with the targets for the recycled content in the packaging.",
+    "difficulty": "easy",
+    "category": "schemes-and-policies",
+    "source": "MoEFCC",
+    "year": null
+  },
+  {
+    "q": "The 'One Stop Centre' under the Mission Shakti provides:",
+    "options": [
+      "the financial support of the start-ups of the women",
+      "the housing of the working women in the cities",
+      "a single window of the integrated support to the women affected by the violence, including the medical, the legal, the police and the psychological help",
+      "the training of the women in the traditional crafts"
+    ],
+    "answer": 2,
+    "explanation": "The One Stop Centre is a converging point of the services of the medical, the police, the legal and the psychological support for the women affected by the violence, and the centre is run with the support of the NGO.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Sakhi' helpline of 181 in India is for:",
+    "options": [
+      "the women affected by the violence",
+      "the senior citizens",
+      "the children in the conflict areas",
+      "the migrant workers"
+    ],
+    "answer": 0,
+    "explanation": "The 181 Women Helpline provides the information and the support to the women affected by the violence and it operates with the support of the One Stop Centres across the country.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Working Women Hostel Scheme' provides:",
+    "options": [
+      "the maternity benefit of the women workers",
+      "the training of the women in the handicrafts",
+      "the social security of the women in the unorganised sector",
+      "safe accommodation for the working women away from their homes with the day care facilities for the children"
+    ],
+    "answer": 3,
+    "explanation": "The Working Women Hostel Scheme provides the safe accommodation to the working women away from their homes along with the day care centres for the children, and it is implemented through the central assistance to the States and the UTs.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Women Entrepreneurship Platform' of the NITI Aayog:",
+    "options": [
+      "provides the subsidised housing to the women of the cities",
+      "promotes the financial inclusion of the women SHGs and the market linkages for their products",
+      "conducts the free legal aid camps for the women",
+      "runs the adult literacy programme in the rural areas"
+    ],
+    "answer": 1,
+    "explanation": "The Women Entrepreneurship Platform works for the financial inclusion of the women in the SHGs, the market access and the capacity building, and it works with the Self Help Group Bank Linkage Programme.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "NITI Aayog",
+    "year": null
+  },
+  {
+    "q": "The 'Bank Linkage Programme' with the SHGs was started in:",
+    "options": [
+      "1992, by the NABARD and the State Cooperative Banks",
+      "1998, by the SIDBI",
+      "2005, by the Reserve Bank of India",
+      "2010, by the Ministry of Finance"
+    ],
+    "answer": 0,
+    "explanation": "The SHG-Bank Linkage Programme was started in 1992 by the NABARD and it became the largest network of the microfinance in the world with the linkage of the poor women groups with the banks.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'MGNREGA guarantees to the rural households:",
+    "options": [
+      "a house under the PMAY-G",
+      "a pension after the age of sixty",
+      "100 days of the unskilled manual work in a year and the unskilled work for the women with the childcare",
+      "a fixed wage of Rs 200 a day in every State"
+    ],
+    "answer": 2,
+    "explanation": "The MGNREGA guarantees a hundred days of the unskilled manual work in a year to every rural household whose adult members are willing to do the unskilled manual work, with the women counting as the workers and the provision of the childcare.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Social audit' of the MGNREGA works:",
+    "options": [
+      "is optional and is conducted only at the request of the workers",
+      "is done by the District Collector of every district",
+      "is conducted by the Gram Sabha or the recognised social audit institutions and is a mandatory part of the social audit of the scheme",
+      "is done only by the CAG of the State"
+    ],
+    "answer": 2,
+    "explanation": "The social audit of the MGNREGA is a mandatory part of the scheme and it is conducted by the Gram Sabha or by the social audit institutions of the State with the participation of the women, the SC and the ST communities.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pradhan Mantri Fasal Bima Yojana replaced:",
+    "options": [
+      "the National Agricultural Insurance Scheme of 1999",
+      "the Rashtriya Krishi Bima Yojana only",
+      "the weather based insurance of the states",
+      "the crop insurance of the private insurers"
+    ],
+    "answer": 0,
+    "explanation": "The PMFBY of 2016 replaced the National Agricultural Insurance Scheme of 1999 and the Modified Agricultural Insurance Scheme of 2013, with the objective of the coverage of the crop losses from the natural calamities.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PM-KISAN scheme:",
+    "options": [
+      "covers the insurance of the crops of the notified states",
+      "provides the income support of Rs 6,000 a year to the landholding farmer families in three instalments",
+      "provides the minimum support price to the procurement agencies",
+      "provides the subsidised credit of Rs 2 lakh to the small farmers"
+    ],
+    "answer": 1,
+    "explanation": "PM-KISAN provides the income support of Rs 6,000 a year in three instalments of Rs 2,000 each to the landholding farmer families with the direct transfer in the bank account, and the beneficiaries have to opt in for the payment through the PM-KISAN portal.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PM-KMY is a contributory pension scheme for:",
+    "options": [
+      "the agricultural labourers of the States",
+      "the women of the self help groups",
+      "the tenant farmers of the land lease markets",
+      "the small and the marginal farmers of the country"
+    ],
+    "answer": 3,
+    "explanation": "The PM-KMY provides a guaranteed monthly pension of Rs 3,000 after the age of sixty to the small and the marginal farmers, and the Government of India matches the monthly contribution of the farmer.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'interest subvention of the short term crop credit:",
+    "options": [
+      "has been discontinued with the 2024 budget",
+      "is provided for the loans of up to Rs 3 lakh at the effective rate of 4 per cent with the 2 per cent subvention",
+      "is available for the loans above Rs 10 lakh only",
+      "is available only for the horticulture crops"
+    ],
+    "answer": 1,
+    "explanation": "The Kisan Credit Card scheme provides the short term crop credit of up to Rs 3 lakh at 7 per cent with the 2 per cent subvention making the effective rate of 4 per cent for the timely repayment.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Agriculture Infrastructure Fund' of Rs 1 lakh crore provides:",
+    "options": [
+      "the procurement of the farm produce by the central agencies",
+      "the direct cash transfer of the income support to the farmers",
+      "the medium and the long term finance for the post harvest infrastructure and the community assets of the farmers",
+      "the interest free loans for the primary agriculture"
+    ],
+    "answer": 2,
+    "explanation": "The Agriculture Infrastructure Fund provides the interest subvention of 3 per cent on a loan of up to Rs 2 crore for a period of seven years for the post harvest management infrastructure and the community level assets.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'three components of the PM-KUSUM scheme:",
+    "options": [
+      "the solar street lights, the solar irrigation and the solar rooftops",
+      "the rooftop solar, the solar parks and the wind turbines",
+      "the biogas plants, the small hydro and the solar pumps",
+      "the small solar plants, the solar pumps with the subsidy and the solar cold storage"
+    ],
+    "answer": 3,
+    "explanation": "The three components of the PM-KUSUM are the setting up of 10,000 small solar power plants of up to 2 kW, the installation of 1.5 lakh solar pumps with the subsidy for the farmers, and the solar cold storage and the other post harvest infrastructure.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Pradhan Mantri Suraksha Bima Yojana provides:",
+    "options": [
+      "the accidental death cover of Rs 2 lakh to the subscribers of the government schemes",
+      "the life insurance of Rs 2 lakh to the elderly",
+      "the health cover of Rs 5 lakh to the families",
+      "the pension to the widow of the subscriber"
+    ],
+    "answer": 0,
+    "explanation": "The PM-SYM provides the accidental death and the disability cover of Rs 2 lakh to the subscribers of the government schemes like the Jan Dhan, the PM-JAY, the PM-KISAN and the PM-KMY.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Atal Pension Yojana' is administered by the:",
+    "options": [
+      "Pension Fund Regulatory and Development Authority",
+      "Ministry of Finance alone",
+      "Employees' Provident Fund Organisation",
+      "Reserve Bank of India"
+    ],
+    "answer": 0,
+    "explanation": "The Atal Pension Yojana is administered by the PFRDA with the pension managers appointed by it, and the National Pension System for the government employees is also under the PFRDA.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Family Benefit Scheme' provides:",
+    "options": [
+      "a pension of Rs 1,000 to the senior citizens",
+      "the insurance of the crops to the farmers",
+      "a benefit of Rs 3,000 to the widow or the widower of the family on the death of the breadwinner",
+      "the scholarship of the girls of the weaker sections"
+    ],
+    "answer": 2,
+    "explanation": "The National Family Benefit Scheme provides a benefit of Rs 3,000 to the widow or the widower of the family and it is a part of the social security net under the National Social Security Programme.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Garib Kalyan Anna Yojana' is administered through:",
+    "options": [
+      "the Panchayati Raj institutions",
+      "the public distribution system of the cooperative societies only",
+      "the rural employment guarantee offices",
+      "the fair price shops of the States and the Union Territories under the TPDS"
+    ],
+    "answer": 3,
+    "explanation": "The PMGKAY free foodgrains are distributed to the beneficiaries of the Antyodaya Anna Yojana and the Priority Households through the fair price shops under the TPDS, and the scheme also covers the beneficiaries of the PM POSHAN and the ICDS.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'DAY-NRLM' is implemented by:",
+    "options": [
+      "the NITI Aayog",
+      "the Ministry of Rural Development in association with the States",
+      "the Ministry of Finance alone",
+      "the Reserve Bank of India"
+    ],
+    "answer": 1,
+    "explanation": "The DAY-NRLM is implemented by the Ministry of Rural Development in association with the States and it is carried out by the State Rural Development Agencies and the Block Mission Management Units.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'National Urban Livelihoods Mission' focuses on:",
+    "options": [
+      "the construction of the houses for the urban poor",
+      "the social protection of the urban poor through the community organisations and the skill training with the placement support",
+      "the sanitation of the cities",
+      "the primary healthcare in the slums"
+    ],
+    "answer": 1,
+    "explanation": "The DAY-NULM addresses the livelihood vulnerability of the urban poor, the homeless and the destitute through the social protection, the community organisations, the training, the self employment and the placement through the Urban Employment and Poverty Alleviation institutions.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pradhan Mantri Awas Yojana-Urban 2.0' has the four verticals:",
+    "options": [
+      "the rural housing, the slum upgrading, the rental housing and the sanitation",
+      "the rental housing, the social housing, the affordable housing and the infrastructure",
+      "beneficiary Led Construction, Affordable Rental Housing, Affordable Housing through the Affordable Rental Housing Projects and the Enabling Infrastructure",
+      "the credit linked subsidy, the beneficiary construction, the rental housing and the slum upgrading"
+    ],
+    "answer": 2,
+    "explanation": "PMAY-U 2.0 has the four verticals, namely the Beneficiary Led Construction, the Affordable Rental Housing, the Affordable Housing in partnership with the eligible entities and the Enabling Infrastructure, with the interest subsidy of up to Rs 1.80 lakh.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'SBM-U' is implemented by:",
+    "options": [
+      "the Ministry of Housing and Urban Affairs directly",
+      "the rural panchayats",
+      "the Central Public Works Department",
+      "the urban local bodies with the funding and the support of the States"
+    ],
+    "answer": 3,
+    "explanation": "The Swachh Bharat Mission-U is implemented by the urban local bodies with the States providing the funding and the support, and the Centre is responsible for the guidelines, the funding and the monitoring.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Jal Jeevan Mission' requires the States to:",
+    "options": [
+      "certify the household water sources and the ongoing water quality monitoring",
+      "build the dams in the villages",
+      "privatise the water supply of the villages",
+      "provide the piped water only in the schools"
+    ],
+    "answer": 0,
+    "explanation": "Under the Jal Jeevan Mission every State has to certify the household water sources, monitor the water quality on a regular basis and ensure the 55 litres per capita per day of the prescribed quality at the household tap.",
+    "difficulty": "medium",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Saksham Anganwadi and the Poshan 2.0:",
+    "options": [
+      "provide the early childhood care and the education of the children below six years and the nutrition to the pregnant women and the lactating mothers",
+      "provide the free bus service to the school children",
+      "provide the digital literacy to the women of the villages",
+      "provide the primary healthcare in the rural areas"
+    ],
+    "answer": 0,
+    "explanation": "Saksham Anganwadi and Poshan 2.0 integrate the early childhood care and the education below six years with the nutrition for the pregnant women, the lactating mothers and the children, and it builds on the ICDS.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  },
+  {
+    "q": "The 'Ayushman Arogya Mandir and the Ayushman Bharat:",
+    "options": [
+      "the Ayushman Arogya Mandir is the hospital construction component",
+      "the Ayushman Arogya Mandir is the health and wellness centre component of the Ayushman Bharat mission",
+      "the Ayushman Arogya Mandir is the medical education component",
+      "the Ayushman Arogya Mandir is the insurance component of the mission"
+    ],
+    "answer": 1,
+    "explanation": "The Ayushman Bharat mission has two components, the Ayushman Arogya Mandir for the health and the wellness centres and the Ayushman Bharat PM-JAY for the cashless hospital cover of Rs 5 lakh a family.",
+    "difficulty": "hard",
+    "category": "schemes-and-policies",
+    "source": "PIB",
+    "year": null
+  }
+]

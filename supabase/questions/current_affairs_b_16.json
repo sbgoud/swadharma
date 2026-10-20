@@ -1,0 +1,752 @@
+[
+  {
+    "q": "In March 2024, the Supreme Court declared unconstitutional:",
+    "options": [
+      "the National Judicial Appointments Commission Act",
+      "the Goods and Services Tax",
+      "the reservation of seats for women",
+      "the electoral bonds scheme"
+    ],
+    "answer": 3,
+    "explanation": "The Supreme Court held that the electoral bonds scheme violated the right to information of the citizens and the principle of proportional equality, and the scheme was struck down with the deposits to be refunded.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Supreme Court judgment",
+    "year": 2024
+  },
+  {
+    "q": "The 'Electoral Bonds Act' was enacted in:",
+    "options": [
+      "2022",
+      "2018",
+      "2020",
+      "2024"
+    ],
+    "answer": 0,
+    "explanation": "The Electoral Bonds Act, 2022 provided for the issue of the electoral bonds by the banks and their use for the donation to the political parties and for the payment of the electoral expenses of the candidates.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The committee on the 'one nation, one election' was headed by:",
+    "options": [
+      "Justice D. Y. Chandrachud",
+      "Justice K. G. Chelliah",
+      "Justice K. N. Singh",
+      "Justice Ruma Pal"
+    ],
+    "answer": 0,
+    "explanation": "The committee on the conduct of the simultaneous elections to the Lok Sabha and the State Assemblies was headed by Justice D. Y. Chandrachud, and it submitted its report in early 2024 recommending the implementation in the 2029 general election.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2024
+  },
+  {
+    "q": "The 'Fact Check Unit' of the Press Information Bureau was set up in:",
+    "options": [
+      "2020",
+      "2021",
+      "2018",
+      "2023"
+    ],
+    "answer": 3,
+    "explanation": "The PIB set up the Fact Check Unit in 2023 to verify the claims of the government and the ministers, and the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 were amended in 2023 to provide for the due diligence by the intermediaries for the flagged content.",
+    "difficulty": "hard",
+    "category": "polity-current",
+    "source": "PIB",
+    "year": 2023
+  },
+  {
+    "q": "The 'Presidential and Vice-Presidential Elections Act, 2023' provides for:",
+    "options": [
+      "the abolition of the electoral college for the President",
+      "the creation of a national party fund",
+      "the consolidation of the previously separate statutes governing the elections to the two offices",
+      "the introduction of the NOTA in the presidential election"
+    ],
+    "answer": 2,
+    "explanation": "The Presidential and Vice-Presidential Elections Act, 2023 consolidated the Presidential and Vice-Presidential Elections Act, 1967 and the Rules of Business of the Lok Sabha relating to the election, and it also provides for the expenditure limit of Rs 15 lakh for the presidential election.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The Right to Education Act, 2009 provides for:",
+    "options": [
+      "the appointment of the teacher by the central government",
+      "reservation of at least 25 per cent of the seats in the private unaided schools for the children from the disadvantaged and the weaker sections",
+      "free of cost the higher education for all the students",
+      "the compulsory uniform and the mid-day meal in every school"
+    ],
+    "answer": 1,
+    "explanation": "Section 12 of the Right to Education Act, 2009 requires every private unaided school to reserve at least 25 per cent of the seats in the entry class for the children from the disadvantaged and the weaker sections, and it also lays down the pupil-teacher ratio and the qualifications of the teachers.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Child Labour (Prohibition and Regulation) Amendment Act, 2016 provides that:",
+    "options": [
+      "the employment of children below the age of fourteen is prohibited in all occupations and in all processes",
+      "the child labour is permitted in the agricultural operations after the age of twelve",
+      "the ban applies only to the hazardous industries",
+      "the child workers are to be paid the minimum wages of the adult workers"
+    ],
+    "answer": 0,
+    "explanation": "The 2016 amendment bans the employment of children below fourteen in all occupations and processes, including the hazardous ones, and it prohibits the employment of the adolescents in the hazardous occupations, with the exception of the helping of the family enterprise.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Airports Act, 2023' replaces:",
+    "options": [
+      "the Indian Aircraft Corporation Act, 1957",
+      "the National Airports Authority Act, 1985",
+      "the Civil Aviation Act, 1944",
+      "the Airports Authority of India Act, 1994"
+    ],
+    "answer": 3,
+    "explanation": "The Airports Act, 2023 replaces the Airports Authority of India Act, 1994 and provides for the establishment of the Airports Authority of India and the Airport Authority of India and for the regulation and the safety of the civil aviation in India.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The 'Legal Services Authorities Act, 1987' provides for the constitution of:",
+    "options": [
+      "the Central Vigilance Commission",
+      "the National Legal Services Authority and the State Legal Services Authorities",
+      "the National Consumer Disputes Redressal Commission",
+      "the National Human Rights Commission"
+    ],
+    "answer": 1,
+    "explanation": "The Legal Services Authorities Act, 1987 provides for the National Legal Services Authority, the State Legal Services Authorities and the District Legal Services Authorities to provide the free legal aid and the lok adalat and to run the mediation and the pre-litigation services.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Financial Reporting Authority' is:",
+    "options": [
+      "an independent set up by the Reserve Bank of India",
+      "a wing of the Serious Fraud Investigation Office",
+      "a statutory body set up under the Companies Act, 2013 to oversee the audit of the listed entities",
+      "a non-statutory body of the Ministry of Corporate Affairs"
+    ],
+    "answer": 2,
+    "explanation": "The NFRA was constituted in 2018 under the Companies Act, 2013 as an independent body to oversee the audit of the listed entities and to oversee the conduct of the audit of the entities that are not listed, and the auditors of the listed entities report to it.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Consumer Disputes Redressal Commission' is:",
+    "options": [
+      "an appellate body of the High Courts for the consumer cases",
+      "a body of the Ministry of Consumer Affairs for the price monitoring",
+      "a quasi-judicial body set up under the Consumer Protection Act to redress the consumer disputes",
+      "a statutory regulator of the food safety"
+    ],
+    "answer": 2,
+    "explanation": "The Consumer Protection Act, 2019 provides for the National and the State Consumer Disputes Redressal Commissions and the District Commissions as the three-tier quasi-judicial machinery for the redressal of the consumer disputes, and the appeals from them lie to the High Courts and the Supreme Court.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Foreigners Act, 1946' governs:",
+    "options": [
+      "the naturalisation of the foreign nationals",
+      "the census of the non-resident Indians",
+      "the citizenship of the persons of Indian origin",
+      "the registration and the control of the foreigners in India"
+    ],
+    "answer": 3,
+    "explanation": "The Foreigners Act, 1946 deals with the registration and the control of the foreigners in India, and the rules made under it, along with the Immigration and Foreigners Act, 1925, govern the entry and the stay of the foreign nationals.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Under the 'Election Symbols (Reservation and Allotment) Order, 1968':",
+    "options": [
+      "only the national parties are allotted the reserved symbols",
+      "a political party that fails to secure the required percentage of the total votes in a general election to the House loses the recognition and the reserved symbol",
+      "the symbols are allotted on the basis of the strength of the party in the legislature",
+      "the symbols are allotted by the President for a minimum of ten years"
+    ],
+    "answer": 1,
+    "explanation": "The Order provides for the recognition of a party and the allotment of a reserved symbol on the basis of the percentage of the votes polled, and a party that secures less than six per cent of the total valid votes in a general election to the House loses the recognition and the symbol.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Representation of the People Act, 1951' was renamed as the:",
+    "options": [
+      "Prevention of Election of Persons with Corrupt Practices Act, 1962",
+      "Election Commission Act, 1990",
+      "Electoral Reforms Act, 1975",
+      "Criminal Law Amendment Act, 1962"
+    ],
+    "answer": 0,
+    "explanation": "The Representation of the People Act, 1951 was renamed the Prevention of Election of Persons with Corrupt Practices Act, 1962 after the criminal law amendment of that year, and it deals with the disqualification of the candidates, the corrupt practices and the election disputes.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Supreme Court, in 2020, directed that the candidates with criminal cases must disclose:",
+    "options": [
+      "the criminal cases only if they are against the scheduled offences",
+      "the details of the criminal cases pending against them, along with the explanation, in the nomination papers and in the advertisements",
+      "only the convictions and not the pending cases",
+      "nothing, as the matter is left to the political parties"
+    ],
+    "answer": 1,
+    "explanation": "The Court in Lok Pravasi Mandal v. Union of India (2020) directed the full disclosure of the criminal cases, the pending ones and the convictions, along with the explanation, in the nomination papers and in the campaign material, and it also directed the rejection of the nomination papers of the candidates who did not comply.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "Supreme Court judgment",
+    "year": 2020
+  },
+  {
+    "q": "The 'Governing Council' of the NITI Aayog includes:",
+    "options": [
+      "all the Chief Ministers and the Union Minister of State for Planning",
+      "the Prime Minister and the Chief Justice of India",
+      "the Governors and the Lt. Governors",
+      "only the Union Cabinet"
+    ],
+    "answer": 0,
+    "explanation": "The Governing Council of the NITI Aayog comprises the Prime Minister as the Chairperson, all the Union Ministers, the Chief Minister of every State and the Union Minister of State for Planning, and the full Council meets once a year.",
+    "difficulty": "easy",
+    "category": "polity-current",
+    "source": "NITI Aayog",
+    "year": null
+  },
+  {
+    "q": "The 'Geological Survey of India' is a:",
+    "options": [
+      "a statutory regulator of the mining safety",
+      "autonomous body under the Department of Science and Technology",
+      "national institution under the Ministry of Earth Sciences",
+      "national organisation working under the Ministry of Mines and Minerals for the geoscientific data of the country"
+    ],
+    "answer": 3,
+    "explanation": "The Geological Survey of India, founded in 1851 and now a national organisation under the Ministry of Mines and Minerals, is the premier repository of the geoscientific data of the country and it operates the National Mineral Resources and the regional offices.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Archaeological Survey of India' is a:",
+    "options": [
+      "a body of the National Museum",
+      "a statutory body of the Ministry of Education",
+      "an organisation under the Ministry of Culture for the conservation and the exploration of the monuments",
+      "an organisation under the Ministry of Tourism"
+    ],
+    "answer": 2,
+    "explanation": "The Archaeological Survey of India, founded in 1861, is under the Ministry of Culture and it is responsible for the exploration, the conservation and the protection of the cultural monuments and the artefacts of the country.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Zoological Survey of India' and the 'Botanical Survey of India' are:",
+    "options": [
+      "organisations under the Ministry of Science and Technology",
+      "autonomous bodies of the National Biodiversity Authority",
+      "institutes under the Ministry of Education",
+      "organisations under the Ministry of Environment, Forest and Climate Change"
+    ],
+    "answer": 3,
+    "explanation": "Both the Zoological Survey of India and the Botanical Survey of India are organisations under the Ministry of Environment, Forest and Climate Change, and they maintain the national museums, the zoological and the botanical surveys and the wildlife and the plant species databases.",
+    "difficulty": "easy",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Gallery of Modern Art' is located at:",
+    "options": [
+      "New Delhi",
+      "Kolkata",
+      "Chennai",
+      "Mumbai"
+    ],
+    "answer": 0,
+    "explanation": "The NGMA, the premier art museum of the country, is located at New Delhi and it was established in 1954 with the collection of the art works acquired from the art of the partition period.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Museum' of India is located at:",
+    "options": [
+      "Kolkata",
+      "Mumbai",
+      "New Delhi",
+      "Hyderabad"
+    ],
+    "answer": 2,
+    "explanation": "The National Museum at New Delhi was founded in 1949 and it has one of the largest collections of the antiquities, the art objects and the artefacts of India across the periods.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sangeet Natak Akademi' and the 'Sahitya Akademi' and the 'Lalit Kala Akademi' are:",
+    "options": [
+      "the statutory bodies of the Ministry of Education",
+      "the national academies set up by the Ministry of Culture for the performing arts, the literature and the visual arts",
+      "the autonomous bodies of the National Academy of Letters",
+      "the cultural arms of the Sahitya Akademi"
+    ],
+    "answer": 1,
+    "explanation": "The three Akademies, the Sangeet Natak Akademi, the Sahitya Akademi and the Lalit Kala Akademi, were set up by the Government of India in the 1950s under the Ministry of Culture to promote the performing arts, the literature and the visual arts.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indira Gandhi National Centre for the Arts' is a:",
+    "options": [
+      "a national research institute of the Indian Council of Historical Research",
+      "a body under the Ministry of Education",
+      "an autonomous body under the Ministry of Culture for the promotion of the arts",
+      "a deemed university"
+    ],
+    "answer": 2,
+    "explanation": "The IGNCA is an autonomous body under the Ministry of Culture that documents, promotes and preserves the diverse heritage of the arts of India and it also runs the National Cultural Archive and the documentation programmes.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Council of Cultural Relations' is:",
+    "options": [
+      "the cultural wing of the Indian Council of Historical Research",
+      "a statutory body of the Ministry of Culture",
+      "a body of the Ministry of External Affairs",
+      "an autonomous organisation under the Ministry of Education that promotes the cultural exchanges with the foreign countries"
+    ],
+    "answer": 3,
+    "explanation": "The Indian Council of Cultural Relations, headquartered in New Delhi, promotes the cultural exchanges and the cultural relations with the countries of the world, and it publishes the 'Indian Culture' journal.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Forensic Laboratories' of India are located at:",
+    "options": [
+      "Chennai",
+      "New Delhi",
+      "Cochin",
+      "Hyderabad"
+    ],
+    "answer": 1,
+    "explanation": "The Central Forensic Laboratories, set up in 1953 in New Delhi, have branches in several States and they provide the scientific and the forensic assistance to the investigating agencies of the country.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Bureau of Investigation' is under the:",
+    "options": [
+      "Department of Revenue, with the Central Police Act made applicable to it",
+      "Ministry of Home Affairs",
+      "Ministry of Corporate Affairs",
+      "Department of Economic Affairs"
+    ],
+    "answer": 0,
+    "explanation": "The CBI is under the Department of Revenue in the Ministry of Finance, and the recommendations of the Santhanam Committee of 1961 led to its creation in 1963, and its cases are tried by the special courts under the Special Courts Act, 1971.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Survey of India' is a:",
+    "options": [
+      "body under the Ministry of Defence for the border maps",
+      "a division of the Geological Survey of India",
+      "national body under the Department of Science and Technology for the topographic and the geospatial data",
+      "body under the Ministry of Home Affairs"
+    ],
+    "answer": 2,
+    "explanation": "The Survey of India, the national authority for the topographic surveying and the geospatial data, is under the Department of Science and Technology, and the National Geospatial Policy of 2021 guides the modernisation of the national spatial data infrastructure.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Highways Authority of India' is responsible for:",
+    "options": [
+      "the development of the rural roads under the PMGSY",
+      "the development and the maintenance of the national highways",
+      "the inland waterways of the country",
+      "the maintenance of the national waterways"
+    ],
+    "answer": 1,
+    "explanation": "The NHAI, set up in 1988, is responsible for the development and the maintenance of the national highways, and it is also the authority for the expressways and the access-controlled highways under the Bharatmala Pariyojana.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Electricity Authority' is a:",
+    "options": [
+      "statutory body under the Electricity Act, 2003 for the technical standards and the regulation of the electricity sector",
+      "a body of the Central Electricity Regulatory Commission",
+      "statutory body of the Ministry of Coal",
+      "joint venture of the States and the Centre for the power plants"
+    ],
+    "answer": 0,
+    "explanation": "The Central Electricity Authority, constituted under the Electricity Act, 2003, is the apex technical body that deals with the standards of the performance, the supply of electricity, the safety and the technical aspects of the energy sector.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Water Commission' is a:",
+    "options": [
+      "body of the Ministry of Environment for the water quality monitoring",
+      "body of the Central Water Regulatory Authority",
+      "division of the National River Conservation Plan",
+      "national body under the Ministry of Jal Shakti for the regulation of the interstate water disputes and the river basin development"
+    ],
+    "answer": 3,
+    "explanation": "The Central Water Commission, under the Ministry of Jal Shakti, deals with the interstate water disputes, the river basin development and the assessment of the water resources, and it also operates the data of the National Hydrological Data Network.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bar Council of India' is a:",
+    "options": [
+      "a federation of the State bar councils with no statutory status",
+      "statutory body under the Advocates Act, 1961 for the regulation of the legal profession and the enrolment of the lawyers",
+      "body of the Supreme Court",
+      "autonomous body of the Ministry of Law and Justice"
+    ],
+    "answer": 1,
+    "explanation": "The Bar Council of India, established in 1988 under the Advocates Act, 1961, is the apex body of the bar councils of the States and the Union Territories and it certifies the degrees of the law and the recognition of the foreign law qualifications.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the Central Bureau of Investigation, which of the following is correct?",
+    "options": [
+      "a statutory body of the Ministry of Corporate Affairs",
+      "a unit of the Enforcement Directorate",
+      "a wing of the CBI",
+      "a premier agency for the investigation of the economic offences, under the Department of Revenue"
+    ],
+    "answer": 3,
+    "explanation": "The Serious Fraud Investigation Office, set up in 2004 under the Department of Revenue, is the premier agency for the investigation of the economic offences, and the Voluntary Disclosure Scheme of 2021-22 for the undisclosed income was administered by it.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Enforcement Directorate' is a:",
+    "options": [
+      "agency of the Department of Revenue that enforces the economic laws",
+      "body of the Ministry of Corporate Affairs",
+      "agency of the Ministry of Finance for the tax policy",
+      "branch of the CBI for the financial crimes"
+    ],
+    "answer": 0,
+    "explanation": "The Enforcement Directorate, a law enforcement agency under the Department of Revenue, is responsible for the enforcement of the Foreign Exchange Management Act, the Prevention of Money Laundering Act and the Fugitive Economic Offenders Act.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Security Guard' is a:",
+    "options": [
+      "force under the Ministry of Home Affairs for the counter-terrorism",
+      "body of the Intelligence Bureau",
+      "central armed police force under the Ministry of Home Affairs for the protection of the key installations",
+      "body under the Ministry of Defence for the border security"
+    ],
+    "answer": 2,
+    "explanation": "The NSG is a central armed police force under the Ministry of Home Affairs, raised in 1984, and it is responsible for the protection of the key installations, the counter-terrorism duties and the hostage rescue operations.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Special Protection Group' is:",
+    "options": [
+      "a unit of the NIA",
+      "a body under the Ministry of External Affairs for the diplomatic security",
+      "an armed force of the States for the VIP security",
+      "an elite security force of the Ministry of Home Affairs for the protection of the Prime Minister and the senior dignitaries"
+    ],
+    "answer": 3,
+    "explanation": "The SPG is an elite commando force under the Ministry of Home Affairs, raised in 1985 after the Operation Blue Star and the security of the Prime Minister and the other senior dignitaries, and it operates under the Research and Analysis Wing for the operational support.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Investigation Agency' is a:",
+    "options": [
+      "premier counter-terrorism agency under the Department of Internal Security",
+      "agency of the Central Bureau of Investigation for the financial crimes",
+      "unit of the Research and Analysis Wing",
+      "agency of the Ministry of Defence for the frontier security"
+    ],
+    "answer": 0,
+    "explanation": "The NIA, created in 2008 and headquartered in New Delhi, is the premier counter-terrorism agency under the Department of Internal Security of the Ministry of Home Affairs, and it also handles the cases relating to the secessionism and the CBI's special cases.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Research and Analysis Wing' is:",
+    "options": [
+      "a division of the Cabinet Secretariat",
+      "an agency of the Ministry of Home Affairs responsible for the collection and the analysis of the foreign information",
+      "the intelligence wing of the Bureau of Police Research and Development",
+      "an agency of the Ministry of External Affairs"
+    ],
+    "answer": 1,
+    "explanation": "The Research and Analysis Wing, headed by the Director General under the Ministry of Home Affairs, is the main agency for the collection and the analysis of the foreign information and it also handles the internal security related intelligence work.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Central Bureau of Police Research and Development' is located at:",
+    "options": [
+      "Bhopal",
+      "Chennai",
+      "Hyderabad",
+      "New Delhi"
+    ],
+    "answer": 2,
+    "explanation": "The CBPCRD, the premier research organisation of the Ministry of Home Affairs, is located at Hyderabad and it develops the forensic tools, the policing techniques and the training of the police personnel.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Human Rights Commission' can inquire into the violations of the human rights committed:",
+    "options": [
+      "only after the complaint of a High Court",
+      "only within two years of the occurrence",
+      "within one year of the occurrence of the violation",
+      "at any time irrespective of the period"
+    ],
+    "answer": 2,
+    "explanation": "The NHRC can inquire into the violations of the human rights that have occurred within one year of the occurrence, and the other statutory bodies have the corresponding limitation of one year, and the Commission may call for the reports of the State Governments.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Commission for the Protection of Child Rights' is:",
+    "options": [
+      "a statutory body set up under the Juvenile Justice Act, 2000",
+      "a body of the Supreme Court",
+      "a body created by the National Commission for Women",
+      "a non-statutory body of the Ministry of Women and Child Development"
+    ],
+    "answer": 0,
+    "explanation": "The NCPCR is a statutory body under the Juvenile Justice Act, 2000 that monitors the violations of the rights of the children, the monitoring of the juvenile justice institutions and the complaints of the rights violations.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Office of the Registrar General and Census Commissioner, India' is:",
+    "options": [
+      "under the Ministry of Health and Family Welfare",
+      "under the Ministry of Home Affairs and conducts the census and maintains the vital statistics",
+      "an autonomous body of the NITI Aayog",
+      "under the Ministry of Statistics and Programme Implementation"
+    ],
+    "answer": 1,
+    "explanation": "The Office of the Registrar General and Census Commissioner, under the Ministry of Home Affairs, conducts the census, prepares the reports on the vital statistics and functions as the national statistical registration authority for the births and the deaths.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bureau of Indian Standards' is:",
+    "options": [
+      "a statutory regulator of the weights and measures under the Legal Metrology Act",
+      "a body of the Ministry of Consumer Affairs",
+      "a division of the Bureau of Energy Efficiency",
+      "a national body under the Ministry of Commerce and Industry for the standardisation and the certification"
+    ],
+    "answer": 3,
+    "explanation": "The BIS, the national body for the standardisation, works under the Department for Promotion of Industry and Internal Trade in the Ministry of Commerce and Industry, and it formulates the Indian Standards and runs the conformity assessment and the certification schemes.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Legal Metrology?",
+    "options": [
+      "under the Ministry of Finance",
+      "under the Department of Consumer Affairs for the enforcement of the weights and the measures law",
+      "under the Ministry of Commerce and Industry",
+      "under the Bureau of Indian Standards"
+    ],
+    "answer": 1,
+    "explanation": "The Legal Metrology Act, 2009 and the Packaged Commodities Rules are administered by the Department of Consumer Affairs in the Ministry of Consumer Affairs, Food and Public Distribution, and the BIS is the standard making body.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Food Safety and Standards Authority of India' is:",
+    "options": [
+      "a body of the Bureau of Indian Standards",
+      "a body of the Ministry of Agriculture for the food processing",
+      "a statutory body under the Food Safety and Standards Act, 2006 for the regulation of the food standards and the safety",
+      "a body of the Ministry of Health for the hospital standards"
+    ],
+    "answer": 2,
+    "explanation": "The FSSAI, set up under the Food Safety and Standards Act, 2006, regulates the food standards, the licensing of the food businesses and the food safety in the country, and it also runs the food safety display and the FoSCoS system.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Serious Crime Investigation Bureau' of the India is:",
+    "options": [
+      "a bureau of the National Investigation Agency",
+      "a bureau under the CBI",
+      "a bureau of the Ministry of Finance",
+      "a bureau under the Ministry of Home Affairs for the investigation of the serious cases"
+    ],
+    "answer": 3,
+    "explanation": "The SCIB, set up in 1983 under the Ministry of Home Affairs, investigates the serious criminal cases and it operates the Crime and Criminal Tracking Network and the Intelligence Bureau, which was merged with it in 2004.",
+    "difficulty": "medium",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Cabinet Secretariat' of India:",
+    "options": [
+      "is the nodal agency for the management of the affairs of the Union Government, the Cabinet and the Secretariat",
+      "is a statutory body created by an Act of Parliament",
+      "functions under the Ministry of Home Affairs",
+      "is headed by the Secretary-General of the Parliament"
+    ],
+    "answer": 0,
+    "explanation": "The Cabinet Secretariat, under the Prime Minister, is the nodal agency for the management of the affairs of the Union Government and it provides the secretarial support to the Cabinet and the committees of the Cabinet, and it is not created by any statute.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Secretariat of the Lok Sabha' is headed by:",
+    "options": [
+      "the Secretary-General of the Lok Sabha, an officer of the Indian Administrative Service",
+      "the Speaker of the Lok Sabha",
+      "the Prime Minister",
+      "the Leader of the House in the Lok Sabha"
+    ],
+    "answer": 0,
+    "explanation": "The Secretariat of the Lok Sabha works under the direction of the Speaker and is headed by the Secretary-General, who is a senior officer of the Indian Administrative Service, and the secretariat is not a statutory body.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Estimates and Appropriations' — The Department of Economic Affairs of the Ministry of Finance:",
+    "options": [
+      "administers the direct taxes",
+      "looks after the disinvestment and the corporate governance",
+      "conducts the monetary policy",
+      "prepares the Union Budget and the Economic Survey and controls the expenditure of the ministries and the departments"
+    ],
+    "answer": 3,
+    "explanation": "The Department of Economic Affairs, the nodal department of the Ministry of Finance, prepares the Union Budget and the Economic Survey and it also controls the expenditure of the Union Government through the budgetary accounting and the financial rules.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Department of Revenue' of the Ministry of Finance administers:",
+    "options": [
+      "the economic survey and the budget preparation",
+      "the public debt and the accounts",
+      "the direct and the indirect taxes and the customs, the Central Excise and the Central Board of Direct Taxes",
+      "the disinvestment policy"
+    ],
+    "answer": 2,
+    "explanation": "The Department of Revenue administers the Central Board of Direct Taxes, the Central Board of Indirect Taxes and Customs and the Financial Intelligence Unit, and the CBDT and the CBIC are the apex bodies of the direct and the indirect taxes.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Department of Financial Services' of the Ministry of Finance looks after:",
+    "options": [
+      "the disinvestment and the privatisation",
+      "the financial sector, the banking, the capital markets, the insurance and the pensions",
+      "the customs and the excise",
+      "the public debt management"
+    ],
+    "answer": 1,
+    "explanation": "The Department of Financial Services deals with the financial sector, the financial stability and the inclusion, the insurance, the pensions and the capital markets, and it is the nodal department for the financial sector policies.",
+    "difficulty": "hard",
+    "category": "static-current",
+    "source": "Standard Reference",
+    "year": null
+  }
+]

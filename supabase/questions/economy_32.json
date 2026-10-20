@@ -1,0 +1,2312 @@
+[
+  {
+    "q": "The 'Minimum Support Price' in India is recommended by:",
+    "options": [
+      "The NITI Aayog",
+      "The Finance Commission",
+      "The Commission for Agricultural Costs and Prices",
+      "The Reserve Bank of India"
+    ],
+    "answer": 2,
+    "explanation": "The CACP, a body of the Ministry of Agriculture, recommends the MSP for the 22 mandated crops and the Fair and Reasonable Price for the sugarcane.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The number of crops for which the MSP is announced is:",
+    "options": [
+      "14",
+      "45",
+      "28",
+      "22"
+    ],
+    "answer": 3,
+    "explanation": "The MSP is announced for 22 mandated crops, of which 14 are the Kharif, 6 the Rabi and 2 the commercial crops, and the sugarcane has the FRP.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The MSP is calculated on the basis of the:",
+    "options": [
+      "The wholesale price index",
+      "The cost of production and the cost of the farm machinery",
+      "The market price of the previous year",
+      "The international price"
+    ],
+    "answer": 1,
+    "explanation": "The CACP recommends the MSP based on the cost of production, and the A2 plus the FL and the C2 plus the FL costs are the basis of the recommendation.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Swaminathan Commission' recommended:",
+    "options": [
+      "A minimum of 50 per cent of the net sown area under irrigation",
+      "A minimum of 25 per cent of the gross cropped area under food crops",
+      "A minimum of 75 per cent of the area under the high yielding varieties",
+      "A minimum of 30 per cent under the pulses"
+    ],
+    "answer": 1,
+    "explanation": "The National Commission on Farmers headed by M.S. Swaminathan recommended that at least 25 per cent of the gross cropped area should be under food crops and at least 50 per cent of the net sown area should be irrigated.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rampal Committee' was related to:",
+    "options": [
+      "The fertiliser subsidy",
+      "The crop insurance",
+      "The irrigation",
+      "The minimum support price and the procurement and the buffer stocks"
+    ],
+    "answer": 3,
+    "explanation": "The Rampal Committee of 2015 recommended the reform of the MSP, the procurement and the buffer stock management and it was critical of the open-ended procurement.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'FCI' was established in:",
+    "options": [
+      "1965",
+      "1955",
+      "1970",
+      "1947"
+    ],
+    "answer": 0,
+    "explanation": "The Food Corporation of India was set up in January 1965 and it handles the procurement, the storage, the transportation and the distribution of the foodgrains.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'MSP' and the 'procurement' and the 'FCI':",
+    "options": [
+      "The FCI does not procure for the buffer stocks",
+      "The MSP is not paid to the farmers",
+      "The FCI procures the foodgrains at the MSP in the surplus states and distributes them in the deficit states",
+      "The FCI procures in the deficit states"
+    ],
+    "answer": 2,
+    "explanation": "The FCI procures the wheat and the paddy at the MSP from the surplus states and distributes them through the Public Distribution System in the deficit states.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'buffer stock' of the foodgrains in India is kept by:",
+    "options": [
+      "The FCI and the State Government agencies",
+      "The NABARD only",
+      "The private traders",
+      "The state governments only"
+    ],
+    "answer": 0,
+    "explanation": "The buffer stock of the foodgrains is kept by the FCI and the State Government agencies, and the Centre bears the cost of the buffer stock for the rice and the wheat.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PDS' in India is:",
+    "options": [
+      "The Primary Distribution System of the fertiliser",
+      "The Private Distribution System",
+      "The Postal Distribution System",
+      "The Public Distribution System of the foodgrains through the fair price shops"
+    ],
+    "answer": 3,
+    "explanation": "The PDS supplies the foodgrains to the households at the subsidised prices through the Fair Price Shops, and the TPDS was the earlier household-oriented scheme that was reformed into the PDS.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'A2' and the 'FL' and the 'C2' costs in the MSP calculation:",
+    "options": [
+      "They are the import and the export costs",
+      "The A2 covers the paid out costs, the A2 plus the FL the family labour and the C2 plus the FL the full cost including the rental and the interest",
+      "The A2 is the full cost and the C2 is the paid out cost",
+      "They are the retail and the wholesale prices"
+    ],
+    "answer": 1,
+    "explanation": "The A2 covers the paid out costs like the seeds and the fertilisers, the A2 plus the FL adds the imputed value of the family labour and the C2 plus the FL adds the imputed land rent and the capital interest.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'agricultural marketing' and the 'APMC':",
+    "options": [
+      "The APMC is the fertiliser company",
+      "The APMC is the agricultural university",
+      "The APMC is the regulated market where the agricultural produce is sold under the state regulations",
+      "The APMC is the crop insurance body"
+    ],
+    "answer": 2,
+    "explanation": "The Agricultural Produce Market Committee is the regulated market mandi under the state Agricultural Produce Market Regulation Acts, and the 2020 laws proposed the reforms of the APMC and the e-NAM.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PM-KISAN' Samman Nidhi:",
+    "options": [
+      "Provides Rs. 2,000 a year",
+      "Provides Rs. 10,000 a year",
+      "Provides Rs. 4,000 a year",
+      "Provides Rs. 6,000 a year in three instalments to the landholding farmer families"
+    ],
+    "answer": 3,
+    "explanation": "The PM-KISAN provides Rs. 6,000 a year in three equal instalments of Rs. 2,000 to the landholding farmer families, with the direct benefit transfer to the bank account.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Interest Subvention Scheme' for the short term crop credit:",
+    "options": [
+      "Provides the 2 per cent interest subvention for the crop loans up to Rs. 3 lakh",
+      "Provides Rs. 6,000 of income support",
+      "Provides the loan waiver",
+      "Provides the insurance premium"
+    ],
+    "answer": 0,
+    "explanation": "The Interest Subvention Scheme provides the 2 per cent subvention for the short term crop credit up to Rs. 3 lakh, making the effective interest rate 4 per cent for the timely repaying farmers.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Pradhan Mantri Fasal Bima Yojana' was launched in:",
+    "options": [
+      "2014",
+      "2019",
+      "2016",
+      "2015"
+    ],
+    "answer": 2,
+    "explanation": "The PM Fasal Bima Yojana was launched in the Kharif of 2016 and it provides the crop insurance cover based on the technology and the yield data.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sole cultivator' or the 'modified sole cultivator' in the 'custom hiring centres':",
+    "options": [
+      "Are the cold storages",
+      "Are the farm machinery hubs that provide the machines on hire to the small farmers",
+      "Are the seed storage depots",
+      "Are the fertiliser plants"
+    ],
+    "answer": 1,
+    "explanation": "The custom hiring centres provide the farm machinery on hire to the small and the marginal farmers at the subsidised rates and the government supports them with the 40 per cent subsidy.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Golden Quadrilateral' of the highways:",
+    "options": [
+      "Is the super expressway project of the Delhi, Kolkata, Mumbai and Chennai",
+      "Is the four agro-climatic zones",
+      "Is the four major ports",
+      "Is the four rivers of the Ganga"
+    ],
+    "answer": 0,
+    "explanation": "The Golden Quadrilateral was the super expressway project connecting the four metros of Delhi, Kolkata, Mumbai and Chennai and it was later subsumed in the North-South and the East-West corridors.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'North-South East-West corridors':",
+    "options": [
+      "Are the four ports of the Delhi",
+      "Are the 8,000 km expressways of the Golden Quadrilateral",
+      "Are the four metro rail projects",
+      "Are the inland waterways"
+    ],
+    "answer": 1,
+    "explanation": "The North-South East-West corridor project, of about 8,000 km, was the largest highway project of India and it was later merged with the Golden Quadrilateral.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Sagar?",
+    "options": [
+      "The metro rail of the Delhi",
+      "The waterway project",
+      "The port project",
+      "The Setu Jayanti project of the four-lane divided highways"
+    ],
+    "answer": 3,
+    "explanation": "The Setu Jayanti project of the four-lane divided highways was one of the Golden Quadrilateral's components, along with the 1,000 km of the expressways and the 2,000 km of the road upgrade.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bharatmala Pariyojana':",
+    "options": [
+      "Is the metro rail project",
+      "Is the industrial corridor project of the north",
+      "Is the project of the national highways of about 6,000 km under the highway ministry",
+      "Is the inland waterway project"
+    ],
+    "answer": 2,
+    "explanation": "The Bharatmala Pariyojana is the project of the national highway network of about 6,000 km that is being implemented by the National Highways Authority of India.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sagarmala' project:",
+    "options": [
+      "Is the highway project",
+      "Is the inland waterway only",
+      "Is the airport modernisation",
+      "Is the port-led logistics development programme"
+    ],
+    "answer": 3,
+    "explanation": "The Sagarmala programme seeks to accelerate the port-led development by modernising the ports and strengthening the connectivity through the rail, the road and the inland waterways.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'PM Gati Shakti' National Master Plan:",
+    "options": [
+      "Has only the highways",
+      "Has 14 sectors with 20 key corridors",
+      "Has 7 sectors with 10 corridors",
+      "Has 21 sectors"
+    ],
+    "answer": 1,
+    "explanation": "The PM Gati Shakti National Master Plan has 14 sectors, 20 key multimodal corridors and about 100 projects to be integrated with the logistics and the industrial development.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'UDAN' scheme:",
+    "options": [
+      "Is the regional connectivity scheme of the civil aviation ministry",
+      "Is the highway scheme",
+      "Is the shipping subsidy",
+      "Is the port dredging project"
+    ],
+    "answer": 0,
+    "explanation": "The UDAN, the Udaan or the Regional Connectivity Scheme, was launched in 2016 to connect the underserved and the unconnected airports with the small airports.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Vande Bharat' and the '2023':",
+    "options": [
+      "It is a metro line",
+      "It is a freight corridor",
+      "It is the semi-high speed intercity train service of the Indian Railways",
+      "It is a coastal shipping service"
+    ],
+    "answer": 2,
+    "explanation": "The Vande Bharat, the semi-high speed intercity train service of the Indian Railways, was launched with the Vande Bharat Express on 30 January 2023.",
+    "difficulty": "easy",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The 'Amrit Bharat Station Scheme':",
+    "options": [
+      "Is the metro project",
+      "Is the port project",
+      "Is the modernisation of the railway stations with the amenities of the airport on the model of the Dadar and the Nagpur stations",
+      "Is the freight corridor project"
+    ],
+    "answer": 2,
+    "explanation": "The Amrit Bharat Station Scheme is the redevelopment of the railway stations with the modern amenities and the airport-like facilities and the model stations are the Dadar and the Nagpur in Mumbai.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Indian Railway?",
+    "options": [
+      "The Konkan Railway runs along the coast of Maharashtra, Goa and Karnataka",
+      "The Konkan Railway is in the Himalayan region",
+      "The Konkan Railway is the freight corridor of the coal",
+      "The Konkan Railway is in the Rajasthan"
+    ],
+    "answer": 0,
+    "explanation": "The Konkan Railway, a 760 km line along the coast of Maharashtra, Goa and Karnataka, was the most difficult project of the Indian Railways and it was opened in 1998.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Kashmir railway runs from Banihal to Katra and it was:",
+    "options": [
+      "in Tamil Nadu",
+      "a freight line of the coal",
+      "in the Rajasthan",
+      "extended to Banohal to Srinagar"
+    ],
+    "answer": 3,
+    "explanation": "The Kashmir railway, the Katra-Banihal section, was inaugurated in 2014 and the extension to the Srinagar-Banohal section was expected to be completed.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Eastern Dedicated Freight Corridor':",
+    "options": [
+      "Runs only in the Western Ghats",
+      "Runs from Ludhiana to Sonnagar and it is the first freight corridor on the high-speed rail",
+      "Runs from Delhi to Mumbai",
+      "Runs from Chennai to Kolkata"
+    ],
+    "answer": 1,
+    "explanation": "The Eastern Dedicated Freight Corridor runs from Ludhiana to Sonnagar with the route of about 1,800 km and it is the first of the three dedicated freight corridors.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The dedicated freight corridor allows:",
+    "options": [
+      "160 km an hour",
+      "60 km an hour",
+      "a passenger line",
+      "the trains at the speed of 100 km an hour"
+    ],
+    "answer": 3,
+    "explanation": "The dedicated freight corridor is designed for the freight trains at the speed of about 100 km an hour and it decongests the busy passenger routes.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Delhi Metro Rail Corporation is:",
+    "options": [
+      "a state undertaking of the Haryana",
+      "a project of the NITI Aayog",
+      "a joint venture of the Government of India and the Government of the Delhi",
+      "a private company"
+    ],
+    "answer": 2,
+    "explanation": "The Delhi Metro Rail Corporation is a joint venture of the Government of India and the Government of the National Capital Territory of Delhi and it was registered in 1991.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kochi Metro':",
+    "options": [
+      "Is the first and the only metro rail in Kerala and it was opened in 2017",
+      "Was the first metro of the country",
+      "Is in Tamil Nadu",
+      "Is a monorail"
+    ],
+    "answer": 0,
+    "explanation": "The Kochi Metro, the first metro rail system in Kerala, was opened in 2017 and it is the first and the only one in the state.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Namma Metro' of Bengaluru:",
+    "options": [
+      "It is a monorail",
+      "Is the metro of the Bengaluru and it was the first in India to use the longest underground corridor",
+      "Is the metro of the Mumbai",
+      "Was opened in 2014"
+    ],
+    "answer": 1,
+    "explanation": "The Namma Metro, the Bengaluru metro, was the first in India to use an underground corridor and the Purple Line, 37 km long, was opened in 2011.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the power sector, which of the following is correct?",
+    "options": [
+      "The thermal power still dominates the installed capacity in India despite the growth of the renewables",
+      "The renewables dominate the installed capacity",
+      "The nuclear is the largest",
+      "The hydro is the largest"
+    ],
+    "answer": 0,
+    "explanation": "The thermal power, the coal, the gas and the diesel, still dominates the installed capacity of India even as the renewable capacity has grown rapidly.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Peak Demand' of the power in India:",
+    "options": [
+      "Is about 50 GW",
+      "Is about 100 GW",
+      "Is about 400 GW",
+      "Crossed the 250 GW mark in 2024"
+    ],
+    "answer": 3,
+    "explanation": "The peak power demand of India crossed the 250 GW mark in 2024, and the country became the third largest in the world in the generation and the consumption of the energy.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The 'National Green Hydrogen Mission':",
+    "options": [
+      "Covers only the nuclear energy",
+      "Is a state scheme",
+      "Has an outlay of Rs. 19,744 crore for the green hydrogen and the associated infrastructure",
+      "Has an outlay of Rs. 1,974 crore"
+    ],
+    "answer": 2,
+    "explanation": "The National Green Hydrogen Mission, approved in January 2023, has an outlay of Rs. 19,744 crore with the target of a minimum of 5 million tonnes of the annual green hydrogen production by 2030.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2023
+  },
+  {
+    "q": "The 'PM Surya Ghar Muft Bijli Yojana':",
+    "options": [
+      "Is a state scheme of the Gujarat",
+      "Has an outlay of Rs. 75,021 crore for the rooftop solar in one crore households",
+      "Has an outlay of Rs. 7,502 crore",
+      "Covers the smart meters only"
+    ],
+    "answer": 1,
+    "explanation": "The PM Surya Ghar Muft Bijli Yojana, launched in February 2024, has an outlay of Rs. 75,021 crore and it provides the rooftop solar with a maximum of 300 units per household.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the Electricity?",
+    "options": [
+      "Is the gas pipeline of the west",
+      "Is the transmission project of about 50 GW of the renewable energy",
+      "Is the metro of the Delhi",
+      "Is the coal corridor of the east"
+    ],
+    "answer": 1,
+    "explanation": "The Green Energy Corridor, the national programme of about 50 GW of the renewable transmission, was launched in 2017 with the objective of the evacuation of the renewable energy.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The spectrum of the 5G was:",
+    "options": [
+      "auctioned in 2021 with a revenue of about Rs. 43,949 crore",
+      "launched in 2015",
+      "only in the private sector",
+      "in 2005"
+    ],
+    "answer": 0,
+    "explanation": "The spectrum of the 5G was auctioned in 2021 and the government got a revenue of about Rs. 43,949 crore, and the licences were for 25 years.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2021
+  },
+  {
+    "q": "The Telecom Regulatory Authority of India was established in 1997 and it became:",
+    "options": [
+      "statutory in 1995",
+      "established in 2003",
+      "a ministry",
+      "a statutory body in 2003"
+    ],
+    "answer": 3,
+    "explanation": "The TRAI was established in October 1997 and it became a statutory body in 2003 with the Telecom Regulatory Authority of India Act.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'BharatNet' project:",
+    "options": [
+      "Is the mobile tower project",
+      "Is the submarine cable project",
+      "Is the national optical fibre project to connect the villages",
+      "Is the satellite project"
+    ],
+    "answer": 2,
+    "explanation": "The BharatNet, the National Optical Fibre or NOFN project, aims to connect the more than 2 lakh villages with the optical fibre and it is the largest rural telecom project.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The UIDAI is a statutory body created:",
+    "options": [
+      "under the RBI",
+      "in 2005",
+      "by the Aadhaar Act, 2016",
+      "a ministry"
+    ],
+    "answer": 2,
+    "explanation": "The Unique Identification Authority of India became a statutory body under the Aadhaar (Targeted Delivery of Benefits and Other Services) Act of 2016 and it is under the MeitY.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Open Network for Digital Commerce is:",
+    "options": [
+      "a spectrum auction",
+      "an interoperable protocol for the digital commerce",
+      "a state electricity board",
+      "a digital payments protocol of the RBI"
+    ],
+    "answer": 1,
+    "explanation": "The ONDC is a network of interconnected digital commerce platforms with an interoperable protocol and it is aimed at the decentralisation of the digital commerce.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Digital Public Infrastructure':",
+    "options": [
+      "Is a private sector platform",
+      "Is a state e-governance project",
+      "Is the 5G network",
+      "Is the framework of the interoperable digital public goods like the digital identity, the payments and the data exchange"
+    ],
+    "answer": 3,
+    "explanation": "The Digital Public Infrastructure is the framework of the interoperable digital public goods, the digital identity, the payments and the data exchange, and it was a key outcome of the G20 presidency.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'account aggregator' in India:",
+    "options": [
+      "Is the financial information repository based system for the consent-based financial data sharing",
+      "Is a payment system",
+      "Is a credit information company",
+      "Is a digital identity provider"
+    ],
+    "answer": 0,
+    "explanation": "The Account Aggregator, with the Sahamati as the financial information repository, enables the consent-based sharing of the financial information of the citizens.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Nandan Nilekani is correct?",
+    "options": [
+      "He is a founder of the EkStep and a promoter of the digital public infrastructure in India",
+      "He was the governor of the RBI",
+      "He founded the ISRO",
+      "He was the chairman of the Election Commission"
+    ],
+    "answer": 0,
+    "explanation": "Nandan Nilekani, the co-founder of the Infosys, founded the EkStep and he has been a promoter of the digital public infrastructure of India.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "health infrastructure are:",
+    "options": [
+      "the multi-speciality hospitals of the cities",
+      "the medical colleges",
+      "the pharmacies",
+      "the health and the wellness centres at the sub-centre level"
+    ],
+    "answer": 3,
+    "explanation": "The Ayushman Arogya Mandir, the health and the wellness centres, are planned at the sub-centre level to deliver the primary health care to the community.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "education infrastructure is:",
+    "options": [
+      "the teacher recruitment programme",
+      "the school education programme of the Department of School Education and Literacy",
+      "the higher education policy",
+      "the adult literacy programme only"
+    ],
+    "answer": 1,
+    "explanation": "The Samagra Shiksha is the school education programme of the Department of School Education and Literacy and it subsumes the Sarva Shiksha Abhiyan, the Rashtriya Madhyamik Shiksha Abhiyan and the Teacher Education programmes.",
+    "difficulty": "medium",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the tourism?",
+    "options": [
+      "They are the coastal zone projects",
+      "They are the airport projects",
+      "Are the domestic and the international tourism circuits of the ministry",
+      "They are the heritage city programmes"
+    ],
+    "answer": 2,
+    "explanation": "The Swadesh Darshan and the Swadesh are the domestic and the international tourism circuits developed by the Ministry of Tourism with the circuit-wise thematic routes.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Logistics Policy was:",
+    "options": [
+      "no logistics policy",
+      "launched in 1991",
+      "launched in 2022",
+      "launched in 2015"
+    ],
+    "answer": 2,
+    "explanation": "The National Logistics Policy was launched in 2022 and it was followed by the PM Gati Shakti National Master Plan with the aim of reducing the logistics costs and the time.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the The FDI?",
+    "options": [
+      "The FDI is allowed in 51 per cent of the sectors",
+      "The FDI is not allowed in any sector",
+      "The FDI is allowed only in the IT",
+      "The FDI is allowed in 100 per cent of the sectors except the railways and the insurance"
+    ],
+    "answer": 3,
+    "explanation": "The FDI is allowed in 100 per cent of the sectors of the economy through the automatic route, except for the railways, the insurance and the defence, and the Press and the Atomic Energy.",
+    "difficulty": "hard",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Make in India' was launched in:",
+    "options": [
+      "2014",
+      "2011",
+      "2015",
+      "2016"
+    ],
+    "answer": 0,
+    "explanation": "Make in India was launched on 25 September 2014 with the objectives of the manufacturing, the job creation and the skill development, and it was later restructured with the National Manufacturing Mission in 2020.",
+    "difficulty": "easy",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Manufacturing Mission' and the '2020':",
+    "options": [
+      "It was a farm policy",
+      "It was an eight-sector programme of the PLI and the focus was on the electronics and the textiles",
+      "It was a state scheme",
+      "It replaced the Make in India brand"
+    ],
+    "answer": 1,
+    "explanation": "The National Manufacturing Mission, announced in 2020, focused on the eight sectors of the PLI and it emphasised the manufacturing of the electronics and the textiles and the quality of the products.",
+    "difficulty": "hard",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": 2020
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the Production Linked Incentive?",
+    "options": [
+      "The PLI covers 30 sectors",
+      "The PLI was for the services only",
+      "The PLI covers 14 sectors with an outlay of about Rs. 1.97 lakh crore",
+      "The PLI covers 5 sectors with Rs. 5,000 crore"
+    ],
+    "answer": 2,
+    "explanation": "The PLI schemes cover 14 sectors with an outlay of about Rs. 1.97 lakh crore and they include the mobile phones, the pharmaceuticals, the food processing, the textiles, the white goods and the automobiles.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The units in the SEZ are:",
+    "options": [
+      "not subject to the customs duty and the excise on the imports",
+      "The SEZ units pay the highest taxes",
+      "a state of India",
+      "a financial district"
+    ],
+    "answer": 0,
+    "explanation": "The Special Economic Zones offer the duty-free import of the capital goods and the raw materials and the exemption from the excise and the service tax on the domestic sales.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 32 industrial corridors across the country were:",
+    "options": [
+      "proposed in 1991",
+      "5 industrial corridors",
+      "proposed in 2021",
+      "proposed in the manufacturing policy of 2011"
+    ],
+    "answer": 3,
+    "explanation": "The Manufacturing Policy of 2011 proposed the setting up of the 32 industrial corridors across the country with the clusters of the manufacturing and the logistics.",
+    "difficulty": "hard",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Industrial policy resolution of 1991':",
+    "options": [
+      "Was a trade policy",
+      "Announced the de-licensing, the delicensing and the disinvestment and the public sector was made the focus of the strategic sectors",
+      "Abolished the public sector",
+      "Introduced the planning"
+    ],
+    "answer": 1,
+    "explanation": "The Industrial Policy Resolution of 1991 announced the industrial de-licensing, the delicensing of the foreign investment, the disinvestment of the public sector and the focus of the public sector in the strategic areas.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the public sector enterprises is correct?",
+    "options": [
+      "The disinvestment is the nationalisation",
+      "The disinvestment is the closure of the loss making units",
+      "The disinvestment is the dilution of the government's equity and it is different from the privatisation",
+      "The disinvestment is the sale of the public assets to the private players"
+    ],
+    "answer": 2,
+    "explanation": "The disinvestment means the dilution of the government's equity in the state owned enterprises, and the privatisation and the strategic disinvestment are the two forms of it.",
+    "difficulty": "hard",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Atmanirbhar Bharat Self-Reliant India is:",
+    "options": [
+      "a key concept of the NITI Aayog",
+      "a scheme of the Planning Commission",
+      "about the foreign trade",
+      "a state initiative of the Kerala"
+    ],
+    "answer": 0,
+    "explanation": "The Atmanirbhar Bharat, the self-reliant India, is a key concept of the NITI Aayog with the emphasis on the domestic manufacturing, the agriculture and the modern infrastructure.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the MSME?",
+    "options": [
+      "The enterprises with an investment of up to Rs. 500 crore",
+      "The enterprises with a turnover of up to Rs. 1,000 crore",
+      "There is no investment limit",
+      "The service and the manufacturing sector enterprises with an investment of up to Rs. 25 crore and the turnover of up to Rs. 100 crore"
+    ],
+    "answer": 3,
+    "explanation": "The revised MSME classification of 2020 raised the investment limit to Rs. 25 crore and the turnover limit to Rs. 100 crore for the enterprises.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the SIDBI?",
+    "options": [
+      "SIDBI is the regulator of the small finance banks",
+      "SIDBI is the apex lender of the MSME sector and the MUDRA is the refinancing institution",
+      "SIDBI is the apex lender of the agriculture",
+      "SIDBI is the stock exchange of the small enterprises"
+    ],
+    "answer": 1,
+    "explanation": "SIDBI is the apex institution for the MSME finance and the MUDRA Ltd is the refinancing institution for the MUDRA loans.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The ONGC and the OIL are:",
+    "options": [
+      "the public sector oil companies and the Reliance and the IOC are the private and the public refiners",
+      "a private company",
+      "a mining company",
+      "a gas distributor"
+    ],
+    "answer": 0,
+    "explanation": "The ONGC and the Oil India are the upstream public sector companies, the Reliance and the IOC are the refiners and the marketing companies, and the ONGC is the largest crude producer of India.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Golden Quadrilateral is:",
+    "options": [
+      "a crop pattern",
+      "a river system",
+      "a mining belt",
+      "the high density road network of the North-West and the East"
+    ],
+    "answer": 3,
+    "explanation": "The Golden Quadrilateral, the super expressway, connects the four metros and the 88 cities of the North-West and the East and it was later subsumed in the North-South and the East-West corridors.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'quality control' and the 'BIS':",
+    "options": [
+      "The BIS is the development finance institution",
+      "The Bureau of Indian Standards is the body for the standardisation and the quality control",
+      "The BIS is the stock exchange regulator",
+      "The BIS is the trade promotion body"
+    ],
+    "answer": 1,
+    "explanation": "The Bureau of Indian Standards is the national body for the standardisation, the quality control and the certification, and it is under the Ministry of Commerce and Industry.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Competition Commission of India':",
+    "options": [
+      "Is a statutory body of the 1956 Act",
+      "Is a ministry",
+      "Was set up in 2002 under the Competition Act, 2002 and it replaced the MRTP Commission",
+      "Was set up in 1969"
+    ],
+    "answer": 2,
+    "explanation": "The Competition Commission of India was set up in 2002 under the Competition Act, 2002 and it replaced the Monopolistic and the Restrictive Trade Practices Commission.",
+    "difficulty": "medium",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Recommendations of the Disinvestment Committee of 1990 led to:",
+    "options": [
+      "the disinvestment of the shares of the public sector",
+      "on the trade policy",
+      "on the agriculture",
+      "on the education"
+    ],
+    "answer": 0,
+    "explanation": "The Disinvestment Committee of 1990 under the chairmanship of Manmohan Singh and the valuations by the R. K. Nair Committee helped the Government of India disinvest in the public sector shares.",
+    "difficulty": "hard",
+    "category": "industry-and-manufacturing",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Balance of Payments' of India is compiled by the:",
+    "options": [
+      "The Central Statistical Organisation",
+      "The Ministry of Commerce",
+      "The Finance Commission",
+      "The Reserve Bank of India"
+    ],
+    "answer": 3,
+    "explanation": "The Reserve Bank of India compiles and releases the Balance of Payments statistics, the international investment position and the international reserves.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'current account balance' of India:",
+    "options": [
+      "Is the total of the exports",
+      "Is the reserve position",
+      "Is the sum of the trade balance, the services and the primary and the secondary income",
+      "Is the difference of the capital inflows and the outflows"
+    ],
+    "answer": 2,
+    "explanation": "The current account records the trade in goods and the services and the primary and the secondary income transactions, and a deficit is financed by the capital account.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'trade deficit' of India:",
+    "options": [
+      "Is the reserves",
+      "Is the excess of the imports over the exports of the merchandise",
+      "Is the excess of the exports over the imports",
+      "Is the difference of the FDI and the FPI"
+    ],
+    "answer": 1,
+    "explanation": "A trade deficit is the excess of the merchandise imports over the exports and India has run a merchandise trade deficit for most of the years since 1991.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'exchange rate' of the Indian rupee:",
+    "options": [
+      "Is a managed float and the RBI intervenes to check the volatility",
+      "Is fully free and the RBI does not intervene",
+      "Is a crawling peg fixed to the dollar",
+      "Is a fully convertible"
+    ],
+    "answer": 0,
+    "explanation": "The rupee operates on a managed float with the RBI intervening to check the excessive volatility, and the de facto the exchange rate is the crawling peg against a basket.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'REER' of the rupee:",
+    "options": [
+      "Is the rate of the inflation",
+      "Is the real effective exchange rate, the trade-weighted real exchange rate",
+      "Is the nominal rate against the dollar",
+      "Is the rate of the reserves"
+    ],
+    "answer": 1,
+    "explanation": "The REER, the real effective exchange rate, is the trade-weighted real exchange rate and it takes the inflation differentials into account.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'FDI' and the 'FPI':",
+    "options": [
+      "The FDI is in the government bonds",
+      "The FPI is in the real estate",
+      "The FDI is the investment in the business and the FPI is the investment in the securities",
+      "They are the same"
+    ],
+    "answer": 2,
+    "explanation": "The foreign direct investment is the investment made in the business assets of a company and the foreign portfolio investment is the investment in the securities like the shares and the bonds.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the WTO?",
+    "options": [
+      "The TRIPS banned the generics",
+      "The TRIPS required the patents for the drugs",
+      "There is no flexibility in the TRIPS",
+      "The TRIPS and the patent law amendment of 1999 and 2005 allowed the compulsory licensing of the drugs"
+    ],
+    "answer": 3,
+    "explanation": "The TRIPS has the flexibility for the compulsory licensing and the 1999 and the 2005 amendments of the Indian patent law enabled the production of the generic versions of the drugs.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Foreign Trade Development and Regulation (FTDPR) Act' of 1992:",
+    "options": [
+      "Is a state trade act",
+      "Replaced the Imports and Exports (Control) Order, 1957 and it provides for the liberalisation of the trade",
+      "Was the trade policy of 1957",
+      "Was the foreign exchange regulation"
+    ],
+    "answer": 1,
+    "explanation": "The FTDPR Act of 1992 replaced the Imports and Exports (Control) Order of 1957 and it provided the framework for the liberalisation of the trade and the tariffs.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the SEZ?",
+    "options": [
+      "The SEZ are the mining leases",
+      "The SEZ are the industrial corridors",
+      "The SEZ are the free trade zones of the WTO",
+      "The SEZ are the enclaves with the duty-free import for the export manufacture"
+    ],
+    "answer": 3,
+    "explanation": "The Special Economic Zones are the geographically delineated enclaves with the duty-free import of the raw materials and the capital goods and the simplified customs.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'foreign exchange reserves' of India are held in:",
+    "options": [
+      "The forex reserves of the RBI include the foreign currency assets, the gold, the SDRs and the reserve position with the IMF",
+      "The RBI only holds the gold",
+      "The reserves are held by the government",
+      "The reserves are held by the NABARD"
+    ],
+    "answer": 0,
+    "explanation": "The forex reserves of the RBI comprise the foreign currency assets, the gold, the SDRs and the reserve tranche position with the IMF.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The inward remittance of India is:",
+    "options": [
+      "only from the Gulf",
+      "no remittance",
+      "among the largest in the world at over $125 billion",
+      "the lowest in the world"
+    ],
+    "answer": 2,
+    "explanation": "The inward remittance of India is among the largest in the world at over 125 billion dollars and the remittance of the migrants is a major source of the foreign exchange.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the The services trade of India?",
+    "options": [
+      "The services trade is in deficit",
+      "The services trade of India is in surplus and the merchandise trade is in deficit",
+      "Both are in surplus",
+      "Both are in deficit"
+    ],
+    "answer": 1,
+    "explanation": "India runs a persistent merchandise trade deficit with a services trade surplus and the net services exports offset a part of the merchandise deficit.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The World Bank lends for is correct?",
+    "options": [
+      "The World Bank lends for the balance of payments",
+      "The IMF lends for the infrastructure",
+      "The World Bank lends only for the agriculture",
+      "The World Bank lends for the development projects and the IMF for the balance of payments"
+    ],
+    "answer": 3,
+    "explanation": "The World Bank provides the long term development finance and the IMF provides the short term balance of payments support, and the IDA is the concessional window of the World Bank.",
+    "difficulty": "easy",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'SDR' of the IMF:",
+    "options": [
+      "Is the special drawing of the World Bank",
+      "Is a digital currency of India",
+      "Is a basket of five currencies and an asset of the IMF",
+      "Is a currency of the European Union"
+    ],
+    "answer": 2,
+    "explanation": "The Special Drawing Right is an international reserve asset created by the IMF and it is a basket of the US dollar, the euro, the Chinese renminbi, the Japanese yen and the pound sterling.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Appellate Body was:",
+    "options": [
+      "paralysed from December 2019 because of the US blockage of the appointments",
+      "dissolved in 2000",
+      "The Appellate Body never existed",
+      "in 2020"
+    ],
+    "answer": 0,
+    "explanation": "The Appellate Body of the WTO has been paralysed since December 2019 because the United States blocked the appointments and the disputes are now being appealed into the void.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the India ECTA?",
+    "options": [
+      "India has only the agreements of the SAARC",
+      "India has no trade agreement",
+      "The agreements are with the neighbours only",
+      "India has the ECTA with Australia, the CEPA with the UAE and the CEPA with the EFTA in 2024"
+    ],
+    "answer": 3,
+    "explanation": "India has the ECTA with Australia, the CEPA with the UAE and the EFTA and the CEPA with the EFTA signed in 2024 to promote the trade and the investment.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the 1991, which of the following is correct?",
+    "options": [
+      "The tariffs were raised",
+      "There was no change",
+      "The rupee was devalued and the tariffs were reduced from about 300 per cent to about 60 per cent in the 1990-91 and the 1992-93 budgets",
+      "The rupee was appreciated"
+    ],
+    "answer": 2,
+    "explanation": "The 1991 reforms devalued the rupee by about 18 to 19 per cent and the peak customs duty was reduced from over 300 per cent to about 60 per cent in the two budgets of 1990-91 and 1992-93.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The FDI in the automatic route was:",
+    "options": [
+      "100 per cent in 1991",
+      "raised from 51 per cent to 74 per cent in 1991",
+      "banned in 1991",
+      "allowed only in the white goods"
+    ],
+    "answer": 1,
+    "explanation": "The 1991 policy raised the FDI in the automatic route from 51 to 74 per cent and the current policy allows 100 per cent of the FDI through the automatic route.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Make in India was:",
+    "options": [
+      "an invitation to the foreign companies to make in India and the electronics manufacturing was the focus",
+      "a fiscal policy",
+      "an agriculture policy",
+      "a social policy"
+    ],
+    "answer": 0,
+    "explanation": "The Make in India was an invitation to the foreign companies to make in India with the electronics manufacturing as the focus, and the India Ploght and the mobile assembly programmes were the flagship initiatives.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the export promotion, which of the following is correct?",
+    "options": [
+      "The SEEPZ, the Software Technology Parks and the IT-enabled services are the export drivers of India",
+      "The agriculture is the export driver",
+      "The iron and the steel are the export drivers",
+      "The petroleum is the export driver"
+    ],
+    "answer": 0,
+    "explanation": "The IT and the IT-enabled services, the SEEPZ and the Software Technology Parks are the main drivers of the Indian exports and of the services exports.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Reserve Bank of India announced:",
+    "options": [
+      "changed in 1991",
+      "changed in 2021",
+      "no change",
+      "a change in the symbol of the rupee in July 2019"
+    ],
+    "answer": 3,
+    "explanation": "The new rupee symbol, designed by D. Udaya Kumar, was adopted in July 2019, and the rupee was made the 19th currency of the IMF's SDR basket in 2016.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": 2019
+  },
+  {
+    "q": "The rupee was included:",
+    "options": [
+      "never included",
+      "in 2021",
+      "in the SDR basket of the IMF in 2016",
+      "in 1973"
+    ],
+    "answer": 2,
+    "explanation": "The Indian rupee was included in the currency basket of the SDR with effect from 1 October 2016, and the decision was taken in 2015.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": 2016
+  },
+  {
+    "q": "The India Account of the exports of the services is:",
+    "options": [
+      "only of the tourism",
+      "one of the largest in the world",
+      "the smallest",
+      "only of the software"
+    ],
+    "answer": 1,
+    "explanation": "The export of the services, the India Account, is one of the largest in the world and the software and the business services are the main components.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The anti-dumping duties are:",
+    "options": [
+      "the countervailing duties on the agriculture",
+      "levied to protect the domestic industry from the cheap imports",
+      "the tariffs on the imports",
+      "the export subsidies"
+    ],
+    "answer": 1,
+    "explanation": "The anti-dumping duties, provided under the Customs Act and the WTO, are levied on the imported goods that are dumped at a price below the normal value, and they are the trade remedies.",
+    "difficulty": "medium",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "countervailing duty is:",
+    "options": [
+      "levied on the dumped imports",
+      "a tariff on the exports",
+      "a tax on the digital goods",
+      "levied on the subsidised imports"
+    ],
+    "answer": 3,
+    "explanation": "The countervailing duty is an additional duty on the subsidised imports and it is meant to offset the benefit of the subsidy of the exporting country.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Trade Policy Review' of the WTO:",
+    "options": [
+      "Is the mechanism for the review of the trade policies of the members",
+      "Is a dispute settlement",
+      "Is a development programme",
+      "Is a statistical exercise"
+    ],
+    "answer": 0,
+    "explanation": "The Trade Policy Review is the WTO's mechanism for the systematic review of the trade policies of the members, and the review of India took place in 2019 and in 2021.",
+    "difficulty": "hard",
+    "category": "external-sector",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the poverty line?",
+    "options": [
+      "The MPI is computed by the World Bank",
+      "The MPI replaced the Census",
+      "The MPI of the UNDP and the OPHI measures the deprivations in the health, the education and the living standards",
+      "The MPI measures the income only"
+    ],
+    "answer": 2,
+    "explanation": "The MPI is a composite index of the three dimensions of the health, the education and the living standards, and it identifies the poor through the deprivation indicators.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "It is a law that gives:",
+    "options": [
+      "a skill development programme",
+      "the right to work and the unemployment allowance to the rural households",
+      "a scheme of the urban poor",
+      "a pension scheme"
+    ],
+    "answer": 1,
+    "explanation": "The MGNREGA is a law that provides a legal right to work for the rural households and it also provides the unemployment allowance if the work is not provided within the stipulated time.",
+    "difficulty": "easy",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The PMAY-U has the four verticals of the slum redevelopment, the credit linked:",
+    "options": [
+      "subsidy, the affordable housing and the beneficiary-led construction",
+      "two components",
+      "only for the slum dwellers",
+      "a rental scheme"
+    ],
+    "answer": 0,
+    "explanation": "The PMAY-U has the four verticals of the slum redevelopment, the credit linked subsidy, the affordable rental housing and the beneficiary led individual house construction.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the PMAY-G?",
+    "options": [
+      "It is a slum redevelopment scheme",
+      "It is for the urban poor",
+      "It aims at a pucca house with the basic amenities to the rural households with the assistance of the centre and the state",
+      "It is a rental housing scheme"
+    ],
+    "answer": 2,
+    "explanation": "The PMAY-G aims at a pucca house with the basic amenities to every rural household that does not have one, and the assistance is shared between the centre and the state.",
+    "difficulty": "easy",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the PM-JANMAN?",
+    "options": [
+      "It is a scheme for the urban poor",
+      "It is a scheme for the fisheries",
+      "It is a crop insurance scheme",
+      "It is the scheme for the Particularly Vulnerable Tribal Groups with the Van Dhan Vikas Kendras"
+    ],
+    "answer": 3,
+    "explanation": "The PM-JANMAN, the Janjatiya Nagari Abhiyan, is the scheme for the Particularly Vulnerable Tribal Groups with the Van Dhan Vikas Kendras as the units.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the revised POSHAN?",
+    "options": [
+      "a nutrition scheme of the state only",
+      "the revised POSHAN with the focus on the malnutrition and the maternal and the child health",
+      "a food processing scheme",
+      "a mid-day meal only in the private schools"
+    ],
+    "answer": 1,
+    "explanation": "The POSHAN 2 Abhiyaan, launched in 2018-19, is the revised POSHAN programme with the focus on the malnutrition and on the maternal and the child health and the adolescents.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'four labour codes' in India:",
+    "options": [
+      "The Code on Wages, the Industrial Relations Code, the Occupational Safety and the Social Security Code and the Apprentices Act",
+      "The Code on Wages, the Contract Labour Act and the Factory Act",
+      "The Industrial Disputes Act and the Trade Unions Act",
+      "The Bonded Labour Act and the Mines Act"
+    ],
+    "answer": 0,
+    "explanation": "The four labour codes are the Code on Wages of 2019, the Industrial Relations Code of 2020, the Occupational Safety, the Health and the Working Conditions Code of 2020 and the Apprenticeship Rules of 2019, and the Code on Social Security of 2020.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bharatiya Nyaya Sanhita' came into force on:",
+    "options": [
+      "1 April 2022",
+      "15 August 2024",
+      "1 July 2024",
+      "26 January 2023"
+    ],
+    "answer": 2,
+    "explanation": "The Bharatiya Nyaya Sanhita, the Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam came into force on 1 July 2024, replacing the IPC, the CrPC and the Evidence Act.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "Consider the following statements. Which of them is correct with regard to the EPF?",
+    "options": [
+      "The EPFO covers the informal sector",
+      "The EPFO covers the government employees only",
+      "The EPFO is a private body",
+      "The EPFO administers the contributory provident fund for the employees in the organised sector with a wage ceiling"
+    ],
+    "answer": 3,
+    "explanation": "The Employees' Provident Fund Organisation administers the contributory provident fund for the employees in the organised sector drawing a wage below the notified ceiling, and the ceiling has been periodically raised.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "In the context of the ESI, which of the following is correct?",
+    "options": [
+      "The ESI covers all the employees",
+      "The ESI covers only the employees below the poverty line",
+      "The ESI covers the government employees",
+      "The ESI covers the employees with a wage of up to Rs. 21,000 a month"
+    ],
+    "answer": 3,
+    "explanation": "The ESI covers the employees with a wage up to Rs. 21,000 a month and the contribution is shared by the employer and the employee.",
+    "difficulty": "hard",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the a monthly pension is correct?",
+    "options": [
+      "It is a loan waiver scheme",
+      "It provides a monthly pension of Rs. 3,000 on the contribution of the farmer and the matching government contribution",
+      "It provides Rs. 3,000 a year",
+      "It is a crop insurance scheme"
+    ],
+    "answer": 1,
+    "explanation": "The PM Kisan Maandhan Yojana, launched in 2019, provides a monthly pension of Rs. 3,000 to the small and the marginal farmers on a voluntary contribution and with the matching government contribution.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the PMSVY?",
+    "options": [
+      "It is a scheme for the artisans",
+      "It is a scheme for the small business loans",
+      "It provides the e-Shram cards and the voluntary registration portal for the gig and the platform workers",
+      "It is a scheme for the street vendors"
+    ],
+    "answer": 2,
+    "explanation": "The PM Shram Yogi Maandhan launched the e-Shram card and the registration portal for the gig, the platform and the unorganised sector workers, and the first tranche of Rs. 1,000 was released in 2022.",
+    "difficulty": "hard",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "Which of the following statements regarding the PMKVY is correct?",
+    "options": [
+      "It is the skill development scheme with the short term training and the recognition of the prior learning",
+      "It is a farm mechanisation scheme",
+      "It is a housing scheme",
+      "It is a digital literacy scheme"
+    ],
+    "answer": 0,
+    "explanation": "The PMKVY 4.0, the Pradhan Mantri Kaushal Vikay Yojana, is the largest skill development programme with the industry aligned training, the recognition of the prior learning and the apprenticeship.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'women's labour force participation' in India:",
+    "options": [
+      "Is the highest in the world",
+      "Has increased above 50 per cent",
+      "Is not measured",
+      "Has been among the lowest in the world at around 30 per cent or lower in the PLFS"
+    ],
+    "answer": 3,
+    "explanation": "The female labour force participation rate of India, at around 30 per cent or lower in the Periodic Labour Force Survey, is among the lowest in the world and the female unemployment is high.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The PLFS was conducted:",
+    "options": [
+      "in the rural areas only",
+      "in both the rural and the urban areas",
+      "a census",
+      "annual"
+    ],
+    "answer": 1,
+    "explanation": "The Periodic Labour Force Survey was conducted in both the rural and the urban areas from the 2017-18 cycle and it is the official source of the employment data.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The educated unemployment is:",
+    "options": [
+      "higher among the graduates in the rural areas",
+      "only in the urban areas",
+      "no educated unemployment",
+      "only among the secondary school"
+    ],
+    "answer": 0,
+    "explanation": "The educated unemployment is a significant problem in the rural areas where the number of graduates exceeds the demand and it is a matter of concern for the planning.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The individual households demand for work is:",
+    "options": [
+      "2 hectares",
+      "10 hectares",
+      "limited to 5 hectares of land per year",
+      "no limit"
+    ],
+    "answer": 2,
+    "explanation": "The MGNREGA guarantees the 100 days of work and the demand for work is limited to 5 hectares of land per individual household per year.",
+    "difficulty": "hard",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements is/are correct in relation to the SABLA?",
+    "options": [
+      "It is a skill scheme",
+      "It is the scheme of the Ministry of Women and Child Development for the women in the informal sector",
+      "It is a farm income scheme",
+      "It is a housing scheme"
+    ],
+    "answer": 1,
+    "explanation": "The Saksham Anganwadi Poshan 2 or the Samarthya is the scheme for the women and the children with the focus on the social security of the women in the informal sector.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the PM SVANidhi is correct?",
+    "options": [
+      "It is the scheme of the Ministry of Housing and Urban Affairs for the street vendors",
+      "It is a scheme of the agriculture",
+      "It is a scheme of the education",
+      "It is a scheme of the health"
+    ],
+    "answer": 0,
+    "explanation": "The PM SVANidhi, launched in June 2020, is the livelihood support scheme of the Ministry of Housing and Urban Affairs for the street vendors of the country.",
+    "difficulty": "medium",
+    "category": "poverty-and-employment",
+    "source": "Standard Reference",
+    "year": 2020
+  },
+  {
+    "q": "The Economic Survey has:",
+    "options": [
+      "100 chapters",
+      "no chapters",
+      "36 chapters divided into the sectors",
+      "5 chapters"
+    ],
+    "answer": 2,
+    "explanation": "The Economic Survey is divided into 36 chapters, each of the sectoral chapters beginning with the multi-dimensional overview of the sector, its policies, the performance and the outlook.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Economic Survey 2021-22 is correct?",
+    "options": [
+      "In the Union Budget 2021",
+      "India's Growth Roadmap",
+      "Reinvigorating the Financial Sector",
+      "Time to Move"
+    ],
+    "answer": 3,
+    "explanation": "The Economic Survey 2021-22 was titled 'Time to Move' and it was presented on 31 January 2022 with the five themes of the public investment, the financial stability, the climate, the demographic and the social sector and the agriculture.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": 2022
+  },
+  {
+    "q": "The 'Fiscal Consolidation Roadmap' of 2018:",
+    "options": [
+      "Was a state scheme",
+      "Committed to the reduction of the fiscal deficit by 0.5 per cent of the GDP every year",
+      "Committed to the reduction of the deficit by 2 per cent every year",
+      "Committed to the elimination of the deficit by 2022"
+    ],
+    "answer": 1,
+    "explanation": "The fiscal consolidation roadmap of the 2018 Budget commits to the reduction of the fiscal deficit by 0.5 per cent of the GDP every year until the 3 per cent target is achieved.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": 2018
+  },
+  {
+    "q": "The 'Medium Term Fiscal Policy Statement' is presented:",
+    "options": [
+      "With the Monetary Policy Statement",
+      "With the Fiscal Policy Statement of the states",
+      "With the Union Budget",
+      "With the Economic Survey"
+    ],
+    "answer": 2,
+    "explanation": "The Medium Term Fiscal Policy Statement is presented as a part of the Union Budget and it sets out the targets of the fiscal deficit, the debt and the capital expenditure.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the FRBM Act?",
+    "options": [
+      "It has no escape clause",
+      "The escape clause was removed in 2016",
+      "It is only for the states",
+      "The Act allows the deviation from the fiscal deficit target in the interest of the economy in the exceptional circumstances like a natural calamity"
+    ],
+    "answer": 3,
+    "explanation": "The FRBM Act has an escape clause that allows the deviation from the fiscal deficit targets in the exceptional circumstances like a war, a calamity and a collapse of the farm output.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'fiscal deficit' of India for 2024-25 as per the interim budget was:",
+    "options": [
+      "7.3 per cent of the GDP",
+      "4.9 per cent of the GDP",
+      "2.9 per cent of the GDP",
+      "10 per cent of the GDP"
+    ],
+    "answer": 0,
+    "explanation": "The fiscal deficit of 7.3 per cent of the GDP for 2024-25 was projected in the interim budget of February 2024 and the target of 4.9 per cent was set for 2025-26.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Union Budget 2024-25",
+    "year": 2024
+  },
+  {
+    "q": "The 'capital expenditure' in the Union Budget 2024-25 was raised to:",
+    "options": [
+      "Rs. 10 lakh crore",
+      "Rs. 5 lakh crore",
+      "Rs. 2 lakh crore",
+      "Rs. 11.21 lakh crore"
+    ],
+    "answer": 3,
+    "explanation": "The capital expenditure of the Union for 2024-25 was raised to Rs. 11.21 lakh crore, about 3.4 per cent of the GDP, with the focus on the roads, the railways and the airports.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Union Budget 2024-25",
+    "year": 2024
+  },
+  {
+    "q": "The 'tax to GDP ratio' of India is about:",
+    "options": [
+      "30 per cent",
+      "6 per cent",
+      "12 per cent",
+      "20 per cent"
+    ],
+    "answer": 2,
+    "explanation": "The tax to GDP ratio of India is about 12 per cent, which is among the lowest in the world, and the gross tax revenue is about 17 per cent.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The gross GST revenue has:",
+    "options": [
+      "not grown",
+      "crossed the Rs. 18 lakh crore mark annually",
+      "about Rs. 5 lakh crore",
+      "about Rs. 30 lakh crore"
+    ],
+    "answer": 1,
+    "explanation": "The gross GST revenue has crossed the Rs. 18 lakh crore mark and the net GST revenue after the refunds is about Rs. 16.5 lakh crore.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Taxation and the 115th and the 116th Finance Bills':",
+    "options": [
+      "The 115th Finance Bill reduced the corporate tax and the 116th brought the new income tax slabs",
+      "They were the education bills",
+      "They were the banking reforms",
+      "They were the insurance bills"
+    ],
+    "answer": 0,
+    "explanation": "The 115th Finance Act of 2020 reduced the corporate tax and the 116th Finance Act of 2021 brought the new income tax slabs with the standard deduction of Rs. 50,000.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'defence budget' of India in 2024-25:",
+    "options": [
+      "Was about Rs. 6.21 lakh crore with a revenue and a capital split",
+      "Was about Rs. 2 lakh crore",
+      "Was about Rs. 10 lakh crore",
+      "It was the highest ever with no capital component"
+    ],
+    "answer": 0,
+    "explanation": "The defence budget of India for 2024-25 was about Rs. 6.21 lakh crore, and the capital outlay of about Rs. 5.94 lakh crore was the highest ever.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Union Budget 2024-25",
+    "year": 2024
+  },
+  {
+    "q": "Which of the following statements regarding the fiscal policy is correct?",
+    "options": [
+      "It is a recommendation of the NITI Aayog",
+      "It is a state target",
+      "The target of the fiscal deficit at 3 per cent of the GDP is prescribed by the FRBM Act",
+      "It is prescribed by the RBI"
+    ],
+    "answer": 2,
+    "explanation": "The FRBM Act prescribes the fiscal deficit target of 3 per cent of the GDP and the 4 per cent of the GDP for the states, though the 2020 amendment allowed a higher target for the pandemic years.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'primary deficit' of India in 2024-25 was projected at about:",
+    "options": [
+      "1.2 per cent of the GDP",
+      "4.1 per cent of the GDP",
+      "2.6 per cent of the GDP",
+      "7.3 per cent of the GDP"
+    ],
+    "answer": 1,
+    "explanation": "The primary deficit for 2024-25 was projected at 4.1 per cent of the GDP and the revenue deficit at 2.8 per cent.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Union Budget 2024-25",
+    "year": 2024
+  },
+  {
+    "q": "The Incredible India campaign and the Swadesh Darshan are:",
+    "options": [
+      "the industrial corridors",
+      "the highway projects",
+      "the urban renewal projects",
+      "the tourism promotion programmes"
+    ],
+    "answer": 3,
+    "explanation": "The Incredible India campaign and the Swadesh Darshan and the Swadesh are the tourism promotion programmes of the Ministry of Tourism with the thematic circuits.",
+    "difficulty": "medium",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Fiscal Policy and the Monetary Policy Statements were:",
+    "options": [
+      "presented in the budget of 2021-22",
+      "presented in 1991",
+      "no such statements",
+      "presented in 2014"
+    ],
+    "answer": 0,
+    "explanation": "The Fiscal Policy Statement was presented with the Union Budget for the first time in 2021-22 and the Monetary Policy Statement is presented with the Statement on Monetary Policy by the RBI.",
+    "difficulty": "hard",
+    "category": "economic-survey-and-budget",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Is about 18 per cent and it provides:",
+    "options": [
+      "about 5 per cent",
+      "about 40 per cent",
+      "about 60 per cent",
+      "the employment to about 45 per cent of the workforce"
+    ],
+    "answer": 3,
+    "explanation": "The agriculture and the allied sectors contribute about 18 per cent of the GDP and provide the livelihood to about 45 per cent of the workforce, and the agriculture is the most important sector of the economy.",
+    "difficulty": "easy",
+    "category": "basic-concepts",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Raised the yields of the wheat and the rice and made:",
+    "options": [
+      "a trade policy",
+      "about the fertiliser",
+      "India self-sufficient in the foodgrains",
+      "raised the yields of the tea only"
+    ],
+    "answer": 2,
+    "explanation": "The Green Revolution, with the high yielding varieties of the wheat and the rice, raised the yields and made India self-sufficient in the foodgrains, though it was mainly confined to the wheat and the rice of the north-west.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Operation Flood was:",
+    "options": [
+      "of the 1970s",
+      "the world's largest milk production programme and the White Revolution was led by Dr. Kurien",
+      "about the wheat",
+      "in Kerala only"
+    ],
+    "answer": 1,
+    "explanation": "The Operation Flood, the world's largest milk production programme, was the brainchild of Dr. Verghese Kurien and the father of the White Revolution.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The high yielding varieties were:",
+    "options": [
+      "the imported varieties",
+      "the result of the hybridisation and the selection of the dwarf genes of the wheat from the Norin 10 of Japan",
+      "from the wild rice of the Assam",
+      "the result of the mutation breeding only"
+    ],
+    "answer": 1,
+    "explanation": "The high yielding varieties of the wheat resulted from the hybridisation with the dwarf genes of the Norin 10 of Japan and the rice varieties were the result of the hybridisation with the Taiwanese dwarf variety.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Golden Rice is:",
+    "options": [
+      "a hybrid of the maize",
+      "a transgenic of the cotton",
+      "rich in the vitamin A and it was developed by the Swiss scientist Ingo Potrykus",
+      "rich in the vitamin C"
+    ],
+    "answer": 2,
+    "explanation": "The Golden Rice, developed by Ingo Potrykus with the support of the Rockefeller Foundation, is rich in the beta-carotene, the precursor of the vitamin A.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Bt cotton has:",
+    "options": [
+      "the gene from the Pseudomonas",
+      "a hybrid of the wild species",
+      "the hybrid of the American cotton",
+      "the gene from the Bacillus thuringiensis that codes for the toxin protein"
+    ],
+    "answer": 3,
+    "explanation": "The Bt cotton carries the cry gene of the Bacillus thuringiensis that codes for the toxin protein that kills the bollworm and the pink bollworm.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Food Security Act of 2013 provides:",
+    "options": [
+      "for the food security, the nutrition and the institutional machinery",
+      "a trade law",
+      "a state scheme",
+      "a farm credit law"
+    ],
+    "answer": 0,
+    "explanation": "The National Food Security Act of 2013 provides for the food security and the nutrition and it institutionalises the right to food with the special focus on the children, the pregnant and the lactating women.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The MSP is announced:",
+    "options": [
+      "for the paddy and the procurement is by the FCI and the state agencies",
+      "for the paddy and the procurement is only by the private trade",
+      "no MSP for the paddy",
+      "only in the Kerala"
+    ],
+    "answer": 0,
+    "explanation": "The MSP is announced for the paddy and the wheat and the procurement is done by the FCI and the state agencies in the procurement centres, with the open market procurement scheme.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The National Disaster Damage and Restoration Fund was:",
+    "options": [
+      "a fund for the industry",
+      "a fund for the rural roads",
+      "a fund for the fertiliser subsidy",
+      "recommended by the 13th Finance Commission for the drought and the other disasters"
+    ],
+    "answer": 3,
+    "explanation": "The NDDRF was recommended by the 13th Finance Commission with an initial corpus of Rs. 28,000 crore for the drought and the other disasters, and it was constituted in 2019.",
+    "difficulty": "hard",
+    "category": "infrastructure-and-services",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is correct in the case of the Agriculture?",
+    "options": [
+      "The agriculture is not exported",
+      "The agriculture and the allied sectors contribute about 12 per cent of the exports",
+      "The agriculture contributes 50 per cent of the exports",
+      "The agriculture contributes 2 per cent of the exports"
+    ],
+    "answer": 1,
+    "explanation": "The agriculture and the allied sectors account for about 12 per cent of the total exports of India and about 18 per cent of the GDP, which shows the low value addition in the sector.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The three laws of 2020 were:",
+    "options": [
+      "about the irrigation",
+      "about the cold chain",
+      "the Farmers' Production Trade Agreement, the Farmers Agreement on Price Assurance and the Farm Services Agreement",
+      "about the fertiliser"
+    ],
+    "answer": 2,
+    "explanation": "The three laws of 2020 were the Farmers' Production Trade Agreement (the APMC law), the Farmers Agreement on Price Assurance and the Farm Services Agreement (the contract farming law) and the amendment of the Essential Commodities Act, and they were repealed in 2021.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The scheme was extended to all the landholding farmers including those who had held:",
+    "options": [
+      "the land in the past",
+      "restricted to the small and the marginal farmers only",
+      "withdrawn in 2021",
+      "limited to the 20 states"
+    ],
+    "answer": 0,
+    "explanation": "The PM-KISAN was extended in June 2020 to all the landholding farmer families including those who had held the land in the past but it does not cover the institutional landholders.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": 2020
+  },
+  {
+    "q": "The horticulture production is:",
+    "options": [
+      "a minor sector",
+      "nil",
+      "not needed in India",
+      "about 300 million tonnes and the post-harvest losses are about 5 to 16 per cent"
+    ],
+    "answer": 3,
+    "explanation": "India is the second largest producer of the fruits and the vegetables with a production of over 300 million tonnes and the post-harvest losses of 5 to 16 per cent are a major concern.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the Contract farming is correct?",
+    "options": [
+      "The law abolished the MSP",
+      "The law is a state law",
+      "The law provides for the agreement between the farmers and the buyers with the assured price and the payment of the minimum of 50 per cent of the agreed price",
+      "The law provides for the free sale of the produce"
+    ],
+    "answer": 2,
+    "explanation": "The Farmers' Agreement on Price Assurance of 2020 provides for the agreement between the farmers and the buyers with the assurance of a price and the payment of at least 50 per cent of the agreed price in the cropping season and the receipt of the payment within 30 days.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the e-NAM is correct?",
+    "options": [
+      "The 2020 laws were about the fertiliser",
+      "The 2020 laws allowed the sale of the produce outside the APMC mandis and the e-NAM expanded the online trade",
+      "The 2020 laws banned the e-NAM",
+      "The 2020 laws fixed the MSP at the mandis only"
+    ],
+    "answer": 1,
+    "explanation": "The 2020 laws allowed the sale of the produce outside the APMC mandis and the e-NAM platform was expanded to include the trade outside the mandis with the warehouses as the centres of the trade.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the The ICAR is correct?",
+    "options": [
+      "It is a private foundation",
+      "The ICAR is the apex organisation for the agricultural research with 22 institutes and more than 60 agricultural universities",
+      "It is a ministry",
+      "It is a state body"
+    ],
+    "answer": 1,
+    "explanation": "The Indian Council of Agricultural Research is the apex organisation for the agricultural research with the 22 institutes and the more than 60 agricultural universities under it.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following statements regarding the NABARD is correct?",
+    "options": [
+      "The RIDF is a fund for the industry",
+      "The RIDF is a fund for the fertiliser",
+      "The RIDF is a fund of the states",
+      "The RIDF is the main source of the rural infrastructure finance through the NABARD"
+    ],
+    "answer": 3,
+    "explanation": "The Rural Infrastructure Development Fund is the main source of the rural infrastructure finance and it is maintained by the NABARD with the banks and the financial institutions as the contributors.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The fertiliser subsidy of about Rs. 1.66 lakh crore was:",
+    "options": [
+      "for the foodgrains",
+      "given only to the private players",
+      "provided in 2024-25 and the Neem coated urea was promoted",
+      "abolished"
+    ],
+    "answer": 2,
+    "explanation": "The fertiliser subsidy of about Rs. 1.66 lakh crore was provided in the Union Budget of 2024-25, with the continued promotion of the neem coated urea and the urea in the retail outlets at the same price for the farmers.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Union Budget 2024-25",
+    "year": 2024
+  },
+  {
+    "q": "The 'food subsidy' of the Union Budget 2024-25:",
+    "options": [
+      "Was about Rs. 2.45 lakh crore",
+      "Was about Rs. 1 lakh crore",
+      "Was about Rs. 5 lakh crore",
+      "It was abolished"
+    ],
+    "answer": 0,
+    "explanation": "The food subsidy of the central government was about Rs. 2.45 lakh crore in the Union Budget of 2024-25, and the PMGKAY of the free foodgrains was extended to the December 2025 for the 80 crore beneficiaries.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Union Budget 2024-25",
+    "year": 2024
+  },
+  {
+    "q": "The free foodgrains to 80 crore beneficiaries were:",
+    "options": [
+      "only the urban areas",
+      "restricted to the BPL families",
+      "extended to December 2025",
+      "in 2024"
+    ],
+    "answer": 2,
+    "explanation": "The PMGKAY, launched during the pandemic, was extended to the December 2025 to continue the free foodgrains to about 80 crore beneficiaries.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Union Budget 2024-25",
+    "year": 2024
+  },
+  {
+    "q": "The Soil Health Card scheme provides:",
+    "options": [
+      "the free electricity",
+      "the crop insurance",
+      "the minimum wage",
+      "the soil testing and the crop-wise recommendations"
+    ],
+    "answer": 3,
+    "explanation": "The Soil Health Card scheme, launched in 2015, provides the farmers with the soil testing report and the crop-wise recommendations of the nutrients and the fertilisers.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": 2015
+  },
+  {
+    "q": "Which of the following is correct in the case of the Agriculture Infrastructure Fund?",
+    "options": [
+      "It finances the post-harvest management infrastructure and the community assets for the farmers",
+      "It finances the tractors",
+      "It finances the crop insurance",
+      "It finances the exports"
+    ],
+    "answer": 0,
+    "explanation": "The Agriculture Infrastructure Fund, launched in 2020 with a corpus of Rs. 1 lakh crore, finances the post-harvest management infrastructure, the primary processing centres, the cold chains and the warehouses.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": 2020
+  },
+  {
+    "q": "The 'per capita availability of foodgrains' in India:",
+    "options": [
+      "Is about 200 kg per month",
+      "Is about 21 kg per month",
+      "Is about 5 kg per month",
+      "Is about 50 kg per month"
+    ],
+    "answer": 1,
+    "explanation": "The per capita availability of foodgrains in India is about 21 kg per month or about 250 kg per year, and the minimum dietary requirement is about 15 kg per month.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Green Revolution was:",
+    "options": [
+      "in the wheat",
+      "the same",
+      "in the foodgrains and the White Revolution in the milk",
+      "in the milk"
+    ],
+    "answer": 2,
+    "explanation": "The Green Revolution was the effort to increase the foodgrain production and the White Revolution was the effort to increase the milk production and it was led by Dr. Verghese Kurien.",
+    "difficulty": "easy",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The MEP of the onions was fixed to check the price rise and the exports of the onions were banned:",
+    "options": [
+      "raised to help the farmers",
+      "abolished",
+      "only to the rice",
+      "at times"
+    ],
+    "answer": 3,
+    "explanation": "The government fixes the Minimum Export Price of the onions and the other essential commodities to check the domestic price rise, and the export bans are imposed when the prices cross a threshold.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": 2024
+  },
+  {
+    "q": "The micro irrigation covers:",
+    "options": [
+      "banned",
+      "about 11 million hectares in India",
+      "the whole country",
+      "only in the Punjab"
+    ],
+    "answer": 1,
+    "explanation": "The area under the micro irrigation, the drip and the sprinkler, has grown to about 11 million hectares in India and it is a key component of the Per Drop More Crop programme.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Zero Budget Natural Farming' and the 'Subhash Chandra':",
+    "options": [
+      "The Zero Budget Natural Farming was promoted by the Subhash Chandra and it is promoted in Andhra Pradesh",
+      "It was promoted by the M.S. Swaminathan",
+      "It is a fertiliser scheme",
+      "It is the corporate farming"
+    ],
+    "answer": 0,
+    "explanation": "The Zero Budget Natural Farming, promoted by the Subhash Chandra in the Andhra Pradesh, relies on the cow dung and the farm waste and the natural farming inputs with the zero external input.",
+    "difficulty": "medium",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Mission for the Integrated Development of the Horticulture has:",
+    "options": [
+      "13 clusters of the vegetables",
+      "3 clusters",
+      "a state scheme",
+      "the fisheries"
+    ],
+    "answer": 0,
+    "explanation": "The Mission for the Integrated Development of the Horticulture operates the vegetables in the clusters under the Integrated Cold Chain scheme and there are 13 clusters in the country.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The PLI in the food processing has:",
+    "options": [
+      "only the textiles",
+      "an outlay of about Rs. 1,400 crore",
+      "an outlay of Rs. 100 crore",
+      "discontinued"
+    ],
+    "answer": 1,
+    "explanation": "The PLI scheme for the food processing has an outlay of about Rs. 1,400 crore and it covers the categories of the milk, the fruit and the vegetables, the ready to eat and the grains.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Mission on Natural Farming' and the '2023:",
+    "options": [
+      "It was launched in 1991",
+      "It is a state scheme of the Kerala",
+      "It is the organic farming of the export",
+      "It was launched in 2023 with the goal of the promotion in 10 lakh hectares"
+    ],
+    "answer": 3,
+    "explanation": "The National Mission on Natural Farming was launched in 2023 with the objective of the promotion in about 10 lakh hectares across the 2,800 blocks of the country.",
+    "difficulty": "hard",
+    "category": "agriculture",
+    "source": "Standard Reference",
+    "year": 2023
+  }
+]

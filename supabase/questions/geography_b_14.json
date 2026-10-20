@@ -1,0 +1,767 @@
+[
+  {
+    "q": "The India Meteorological Department was established in:",
+    "options": [
+      "1951, with its headquarters at Mumbai",
+      "1875, with its headquarters at New Delhi",
+      "1925, with its headquarters at Pune",
+      "1901, with its headquarters at Kolkata"
+    ],
+    "answer": 1,
+    "explanation": "The India Meteorological Department, the national agency for weather and climate services, was established in 1875 and today functions from its headquarters in New Delhi with regional offices across the country.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The normal date of the onset of the South-West Monsoon over the Kerala coast is:",
+    "options": [
+      "15 June",
+      "21 May",
+      "1 June",
+      "15 May"
+    ],
+    "answer": 2,
+    "explanation": "The monsoon normally sets in over the Kerala coast on 1 June, and the India Meteorological Department declares the onset after a network of stations reports the required rainfall and wind pattern.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "The two branches of the South-West Monsoon over the Indian subcontinent are the:",
+    "options": [
+      "Arabian Sea branch and the Bay of Bengal branch",
+      "Mahanadi branch and the Ganga branch",
+      "Western Disturbance branch and the Bay of Bengal branch",
+      "Himalayan branch and the Deccan branch"
+    ],
+    "answer": 0,
+    "explanation": "The Arabian Sea branch strikes the Western Ghats and the Bay of Bengal branch advances up the Ganga plain, and the two together cause more than 90 per cent of India's annual rainfall.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "A monsoon season is described as 'normal' by the IMD when the seasonal rainfall is:",
+    "options": [
+      "exactly equal to the long period average",
+      "between 80 and 120 per cent of the long period average",
+      "between 96 and 104 per cent of the long period average",
+      "between 90 and 110 per cent of the long period average"
+    ],
+    "answer": 2,
+    "explanation": "The IMD classifies a monsoon season as normal when the seasonal rainfall is within 96 to 104 per cent of the long period average, with above normal and below normal departures outside that band.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The long period average of all-India rainfall used by the IMD for 1971-2020 is approximately:",
+    "options": [
+      "87 cm",
+      "120 cm",
+      "100 cm",
+      "75 cm"
+    ],
+    "answer": 0,
+    "explanation": "The long period average of all-India rainfall for the 1971-2020 period is about 87 cm, and the actual monsoon rainfall is always compared with this benchmark to assess its performance.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "IMD",
+    "year": null
+  },
+  {
+    "q": "The retreating monsoon in October and November brings most of the winter rain to:",
+    "options": [
+      "Assam and Meghalaya",
+      "Tamil Nadu and coastal Andhra Pradesh",
+      "Punjab and Haryana",
+      "Rajasthan and Gujarat"
+    ],
+    "answer": 1,
+    "explanation": "As the monsoon retreats from the north-west towards the southern peninsula, the rain-bearing winds reverse over the Bay of Bengal and bring the main share of the winter rain to Tamil Nadu and coastal Andhra Pradesh.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "NCERT Class XI",
+    "year": null
+  },
+  {
+    "q": "A 'cold wave' is declared by the IMD when the minimum temperature falls:",
+    "options": [
+      "2 degrees Celsius or more below the normal minimum temperature",
+      "6 degrees Celsius or more below the normal minimum temperature",
+      "4.5 degrees Celsius or more above the normal minimum temperature",
+      "4.5 degrees Celsius or more below the normal minimum temperature"
+    ],
+    "answer": 3,
+    "explanation": "The IMD declares a cold wave when the minimum temperature in a plain station falls to 4.5 degrees Celsius or below the normal minimum, and the criteria are stricter for hill stations.",
+    "difficulty": "easy",
+    "category": "climate-and-weather",
+    "source": "IMD",
+    "year": null
+  },
+  {
+    "q": "The Planning Commission recognised how many agro-climatic regions in India?",
+    "options": [
+      "Eight",
+      "Twenty",
+      "Five",
+      "Twelve"
+    ],
+    "answer": 0,
+    "explanation": "The Planning Commission divided India into eight agro-climatic regions on the basis of rainfall, temperature and soil characteristics, and the classification remains widely used for planning cropping patterns.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The state with the largest area under the rice-wheat cropping system in India is:",
+    "options": [
+      "West Bengal",
+      "Punjab",
+      "Uttar Pradesh",
+      "Haryana"
+    ],
+    "answer": 3,
+    "explanation": "Haryana has the largest area under the intensive rice-wheat system, supported by assured irrigation in the Indus-Ganga plain, and the cycle is known as the 'Haryana model' of cropping.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Ahar' cropping system is associated with:",
+    "options": [
+      "the coastal saline soils of Gujarat",
+      "the dry farming tracts of Rajasthan",
+      "Bihar and eastern Uttar Pradesh, where rice is grown in the monsoon and wheat in the winter",
+      "the flood plains of Assam"
+    ],
+    "answer": 2,
+    "explanation": "In the Ahar system of eastern India, especially Bihar and eastern Uttar Pradesh, the winter rice is sown in the monsoon season on the lowlands using the residual moisture, and wheat follows in the rabi season.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The rabi season of the Indian cropping year is:",
+    "options": [
+      "June to September",
+      "October to March",
+      "March to June",
+      "November to February"
+    ],
+    "answer": 1,
+    "explanation": "The rabi crops, chiefly wheat, gram and mustard, are sown in the cold season from October and harvested in March and April, while kharif crops are sown with the onset of the monsoon.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The main kharif crops of India include rice, maize, jowar, bajra, cotton, jute, groundnut and:",
+    "options": [
+      "soybean",
+      "gram",
+      "wheat",
+      "mustard"
+    ],
+    "answer": 0,
+    "explanation": "Soybean is a kharif oilseed sown with the onset of the monsoon, whereas wheat, mustard and gram are rabi crops that need the cool season.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "In the Indian cropping calendar, mustard is classified as a:",
+    "options": [
+      "Soybean",
+      "Sunflower",
+      "Mustard",
+      "Groundnut"
+    ],
+    "answer": 2,
+    "explanation": "Mustard, a rabi oilseed, is the dominant edible oil crop of India, whereas groundnut and soybean are kharif oilseeds and sunflower is largely a rabi crop in some regions.",
+    "difficulty": "easy",
+    "category": "agriculture-and-cropping",
+    "source": "NCERT Class XII",
+    "year": null
+  },
+  {
+    "q": "The Census of India 2021 could not be completed in the scheduled year because of:",
+    "options": [
+      "a Supreme Court order",
+      "the COVID-19 pandemic",
+      "a failure of the delimitation exercise",
+      "a change in the definition of the household"
+    ],
+    "answer": 1,
+    "explanation": "The house listing and the first phase of enumeration were completed, but the pandemic forced a postponement of the population enumeration, which was later completed and released in stages from 2022.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The earliest census in India that was both comprehensive and synchronous was conducted in:",
+    "options": [
+      "1872",
+      "1891",
+      "1901",
+      "1881"
+    ],
+    "answer": 3,
+    "explanation": "The non-synchronous census of 1872 was the first attempt, but the first systematic synchronous census, with a five-yearly cycle and a population of about 11.3 per cent, was held in 1881.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The most reliable source of data on births and deaths in India is the:",
+    "options": [
+      "Sample Registration System",
+      "Periodic Labour Force Survey",
+      "Census of India",
+      "National Family Health Survey"
+    ],
+    "answer": 0,
+    "explanation": "The Sample Registration System, with its intensive and continuous enumeration, provides the most reliable and timely data on births and deaths, and it also provides the basis for the infant mortality rate.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Data on migration in India is collected by the:",
+    "options": [
+      "Census of India every ten years",
+      "Registrar General of India",
+      "NITI Aayog",
+      "National Sample Survey in its quinquennial rounds"
+    ],
+    "answer": 3,
+    "explanation": "The National Sample Survey collects information on migration in its regular quinquennial rounds, since the census records place of last residence rather than place of migration.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The numerically largest Scheduled Tribe in India is the:",
+    "options": [
+      "Warli",
+      "Toda",
+      "Bhil",
+      "Gond"
+    ],
+    "answer": 2,
+    "explanation": "The Bhils are the largest Scheduled Tribe of India, spread across Rajasthan, Madhya Pradesh, Gujarat and Maharashtra, followed by the Gonds, Santhals, Munda and Tharu.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The Census of India 2021 was to be held in two phases; the first of these is called the:",
+    "options": [
+      "preparation of the electoral roll",
+      "house listing",
+      "enumeration",
+      "delimitation"
+    ],
+    "answer": 1,
+    "explanation": "The first phase, the house listing, records the number of structures and their use, while the second phase, the enumeration, counts every person, with the two together enabling the preparation of the population and housing data.",
+    "difficulty": "medium",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The number of languages included in the Eighth Schedule of the Constitution is:",
+    "options": [
+      "26",
+      "24",
+      "18",
+      "22"
+    ],
+    "answer": 3,
+    "explanation": "The Eighth Schedule lists 22 languages after the 92nd Amendment of 2003 added Bhojpuri, Maithili, Dogri and Sanskrit to the original 18.",
+    "difficulty": "easy",
+    "category": "human-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The flash flood in July 2013 that devastated Uttarakhand was triggered mainly by:",
+    "options": [
+      "the failure of a glacier lake dam in Sikkim",
+      "a cloudburst in the Kedarnath and Chorabari valleys",
+      "the failure of the Tehri dam",
+      "an earthquake in the Himalaya"
+    ],
+    "answer": 1,
+    "explanation": "Cloudbursts and the breach of a landslide-dammed lake at Chorabari near Kedarnath triggered the disaster in the Alaknanda and Mandakini catchments, which killed thousands of pilgrims and tourists.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Cyclone Amphan, which struck the eastern coast of India in May 2020, originated in the:",
+    "options": [
+      "Bay of Bengal",
+      "Arabian Sea",
+      "Indian Ocean south of Sri Lanka",
+      "Gulf of Mannar"
+    ],
+    "answer": 0,
+    "explanation": "Amphan was a very severe cyclonic storm that formed over the Bay of Bengal, intensified rapidly before striking the Sundarbans and West Bengal and causing extensive damage in Kolkata and the Sundarbans region.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Guidance on Management of Drought' was issued in India in:",
+    "options": [
+      "2018",
+      "2005",
+      "2016",
+      "2010"
+    ],
+    "answer": 2,
+    "explanation": "The National Disaster Management Authority issued guidance on drought management in 2016, which lays down the responsibilities of the central and state governments for drought assessment, declaration and relief.",
+    "difficulty": "hard",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "Which of the following is NOT a function of the National Disaster Management Authority?",
+    "options": [
+      "approving the national disaster management plan",
+      "issuing guidelines on the management of earthquakes and cyclones",
+      "directing the operations of the National Response Force",
+      "managing the finances of the State Disaster Response Fund"
+    ],
+    "answer": 2,
+    "explanation": "The NDMA lays down policy and guidelines and approves the national plan, but the National Response Force is an armed force of the Ministry of Home Affairs, and the State Disaster Response Fund is administered by the central government with the states.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Heat Wave Action Plan' in India is intended to:",
+    "options": [
+      "increase the green cover of cities during summer",
+      "promote the use of air conditioning in public buildings",
+      "regulate the working hours of outdoor labour only",
+      "reduce the health impact of extreme heat through early warning, public awareness and response measures"
+    ],
+    "answer": 3,
+    "explanation": "Heat wave action plans provide for an early warning system, public awareness campaigns, heat shelters and the identification of vulnerable groups such as outdoor workers, elderly people and pregnant women.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "NDMA",
+    "year": null
+  },
+  {
+    "q": "Which of the following hazards causes the largest number of deaths in India every year?",
+    "options": [
+      "Lightning",
+      "Earthquakes",
+      "Cyclones",
+      "Landslides"
+    ],
+    "answer": 0,
+    "explanation": "Lightning is the single largest cause of deaths related to natural hazards in India, killing hundreds of people annually, largely because of the low awareness of safety measures in the rural hinterland.",
+    "difficulty": "medium",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'National Earthquake Management Organisation' is headed by the:",
+    "options": [
+      "Prime Minister",
+      "National Executive Committee",
+      "Director General of the Geological Survey of India",
+      "Union Home Secretary"
+    ],
+    "answer": 1,
+    "explanation": "The National Earthquake Management Organisation functions under the chairmanship of the National Executive Committee, which is headed by the Prime Minister under the Disaster Management Act, 2005.",
+    "difficulty": "hard",
+    "category": "disaster-management",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Rajmahal hills' of eastern India are located in:",
+    "options": [
+      "Bihar",
+      "Odisha",
+      "West Bengal",
+      "Jharkhand"
+    ],
+    "answer": 3,
+    "explanation": "The Rajmahal hills, an extension of the Chota Nagpur plateau, lie in the north of Jharkhand, and the Damodar and the Subarnarekha flow through them before joining the Ganga and the Bay of Bengal respectively.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Mahadeo hills' of central India are located in:",
+    "options": [
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Chhattisgarh",
+      "Rajasthan"
+    ],
+    "answer": 1,
+    "explanation": "The Mahadeo hills form the northernmost part of the Satpura range in Madhya Pradesh, and the Narmada flows in the valley between them and the Vindhyas.",
+    "difficulty": "hard",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Dangs' plateau is located in:",
+    "options": [
+      "Madhya Pradesh",
+      "Odisha",
+      "Maharashtra",
+      "Gujarat"
+    ],
+    "answer": 2,
+    "explanation": "The Dangs are a small plateau in the Satpura range in eastern Maharashtra, a forested hilly tract drained by the tributaries of the Tapi.",
+    "difficulty": "hard",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Anaimalai hills' of the Western Ghats lie mainly in:",
+    "options": [
+      "Tamil Nadu and Kerala",
+      "Karnataka",
+      "Kerala and Karnataka",
+      "Maharashtra and Goa"
+    ],
+    "answer": 0,
+    "explanation": "The Anaimalai hills, with the Palni hills as their western continuation, lie along the Tamil Nadu-Kerala border, and the Anaimalai and the Palar rise from them.",
+    "difficulty": "medium",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Javadi hills' are located in:",
+    "options": [
+      "Odisha",
+      "Tamil Nadu",
+      "Sikkim",
+      "Kerala"
+    ],
+    "answer": 1,
+    "explanation": "The Javadi hills lie in the northern part of the Eastern Ghats in Tamil Nadu, forming a continuation of the hills of the Eastern Ghats south of the Telangana plateau.",
+    "difficulty": "hard",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Shevaroy hills' are located in:",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Odisha",
+      "Meghalaya"
+    ],
+    "answer": 0,
+    "explanation": "The Shevaroy hills form a small range in the Eastern Ghats in Tamil Nadu, between the Javadi hills and the Kollimalai hills, and the Yercaud hill station lies on them.",
+    "difficulty": "hard",
+    "category": "indian-physical-features",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Jharia' coalfield, the largest in India, is located in:",
+    "options": [
+      "Bihar",
+      "West Bengal",
+      "Jharkhand",
+      "Chhattisgarh"
+    ],
+    "answer": 2,
+    "explanation": "The Jharia coalfield in the Dhanbad region of Jharkhand is the largest in India and supplies coking coal used by the steel plants of the eastern region.",
+    "difficulty": "medium",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Talcher' coalfield is located in:",
+    "options": [
+      "Chhattisgarh",
+      "Assam",
+      "Jharkhand",
+      "Odisha"
+    ],
+    "answer": 3,
+    "explanation": "The Talcher coalfield of Odisha in the Mahanadi basin is a major source of coking coal and supports the coal-based industries of the region.",
+    "difficulty": "medium",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Singrauli' coalfield is located in:",
+    "options": [
+      "Madhya Pradesh",
+      "Chhattisgarh",
+      "Uttar Pradesh",
+      "Jharkhand"
+    ],
+    "answer": 0,
+    "explanation": "The Singrauli coalfield, spread across Madhya Pradesh and Uttar Pradesh in the Son Valley, is one of the largest coalfields in the country and the site of the major thermal power stations of eastern India.",
+    "difficulty": "hard",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Neyveli' lignite field, the largest lignite deposit in India, is located in:",
+    "options": [
+      "Rajasthan",
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka"
+    ],
+    "answer": 1,
+    "explanation": "The Neyveli lignite field in the Cuddalore district of Tamil Nadu is the largest lignite deposit in India and supplies the Neyveli Thermal Power Station.",
+    "difficulty": "medium",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The historic 'Kolar' gold field is located in:",
+    "options": [
+      "Jharkhand",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": 2,
+    "explanation": "The Kolar gold fields in Karnataka were among the richest in the world in the early twentieth century and are now nearly exhausted, though the region remains a landmark in Indian mining history.",
+    "difficulty": "hard",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chhotanagpur' and the 'Singhbhum' belts are the chief source of which group of minerals?",
+    "options": [
+      "Lignite and peat",
+      "Diamond and gold",
+      "Bauxite and limestone",
+      "Iron ore, mica and copper"
+    ],
+    "answer": 3,
+    "explanation": "The Chotanagpur plateau and the Singhbhum belt in Jharkhand and Odisha are the principal Indian source of iron ore, and also of copper, mica and uranium.",
+    "difficulty": "medium",
+    "category": "resources-and-minerals",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Indian Ocean Dipole' is a coupled ocean-atmosphere variability pattern in the:",
+    "options": [
+      "Southern Ocean",
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean"
+    ],
+    "answer": 3,
+    "explanation": "The Indian Ocean Dipole, a see-saw in the sea surface temperature of the western and eastern Indian Ocean, influences the strength of the Indian monsoon, with a positive IOD generally favouring a good monsoon.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Great Barrier Reef', the largest coral reef system in the world, lies off the coast of:",
+    "options": [
+      "the Northern Territory of Australia",
+      "Tasmania",
+      "Queensland, Australia",
+      "Cairns in Papua New Guinea"
+    ],
+    "answer": 2,
+    "explanation": "The Great Barrier Reef runs for more than 2,300 kilometres along the coast of Queensland in north-eastern Australia and is the largest coral reef system in the world, though it is under serious threat from coral bleaching.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Kalahari' desert lies mainly in:",
+    "options": [
+      "Zimbabwe and Mozambique",
+      "Botswana, Namibia and South Africa",
+      "Sahara and Sudan",
+      "Namibia and Angola only"
+    ],
+    "answer": 1,
+    "explanation": "The semi-arid Kalahari region covers Botswana, Namibia, northern South Africa and parts of Zambia and Angola, and it is the home of the San and other hunter-gatherer communities.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Sunda Strait' separates:",
+    "options": [
+      "Sumatra and Java",
+      "Borneo and Sulawesi",
+      "Sumatra and the Malay Peninsula",
+      "Java and Bali"
+    ],
+    "answer": 0,
+    "explanation": "The Sunda Strait separates the islands of Sumatra and Java and is the narrowest of the major Indonesian straits, and the Krakatoa eruption of 1883 took place in it.",
+    "difficulty": "hard",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The largest stretch of tropical rainforest in the world outside the Amazon is the:",
+    "options": [
+      "Sundaland forests",
+      "Mekong delta",
+      "Guiana Shield",
+      "Congo basin"
+    ],
+    "answer": 3,
+    "explanation": "The Congo basin of Central Africa holds the second largest tropical rainforest in the world after the Amazon, and it is home to gorillas and okapi as well as a huge diversity of forest species.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Aral Sea' shrank dramatically because:",
+    "options": [
+      "a rise in global sea levels",
+      "the construction of a large submarine canyon",
+      "the diversion of its inflowing rivers for cotton irrigation",
+      "an earthquake that opened a new channel"
+    ],
+    "answer": 2,
+    "explanation": "The diversion of the Amu Darya and Syr Darya for irrigating cotton in Central Asia caused the Aral Sea to shrink to a fraction of its former area, exposing salt-tainted soils and wrecking the local fisheries.",
+    "difficulty": "medium",
+    "category": "world-geography",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chumbi Valley' is located in:",
+    "options": [
+      "Sikkim",
+      "Arunachal Pradesh",
+      "Ladakh",
+      "Himachal Pradesh"
+    ],
+    "answer": 0,
+    "explanation": "The Chumbi Valley is a small valley in Sikkim between Sikkim and Tibet, through which the road to Lhasa passes, and its transfer to China was a long-standing India-China issue.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bum La' pass connects Tawang in Arunachal Pradesh with:",
+    "options": [
+      "Thimphu in Bhutan",
+      "Lhasa in Tibet",
+      "Dhaka in Bangladesh",
+      "Kabul in Afghanistan"
+    ],
+    "answer": 1,
+    "explanation": "The Bum La pass, at over 4,500 metres, is the route through the Himalayas from Tawang to Lhasa and is one of the highest used border crossings on the eastern frontier.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Namika La' pass, which links Leh with the Nubra Valley, lies in:",
+    "options": [
+      "Jammu and Kashmir",
+      "Sikkim",
+      "Uttarakhand",
+      "Ladakh"
+    ],
+    "answer": 3,
+    "explanation": "The Namika La pass in the Ladakh region connects Leh with the Nubra Valley and the Siachen area, and the 'Khardung La' pass serves a similar purpose further north.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Bara-Lacha' is a high pass in the:",
+    "options": [
+      "Himachal Pradesh",
+      "Karakoram of Pakistan",
+      "Siachen region of Ladakh",
+      "Sikkim"
+    ],
+    "answer": 2,
+    "explanation": "The Bara-Lacha lies on the route between the Nubra Valley and the Siachen Glacier area, and the nearby 'Bara-lacha' and 'Depsang' sectors form part of the most sensitive stretch of the India-China boundary.",
+    "difficulty": "hard",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Chang La' pass in Ladakh is notable because it is:",
+    "options": [
+      "the pass that links Nepal with Tibet",
+      "one of the highest motorable road passes in the world",
+      "the lowest pass on the Karakoram Highway",
+      "the only pass open year round in the Himalayas"
+    ],
+    "answer": 1,
+    "explanation": "The Chang La at over 5,000 metres on the road between Leh and Pangong Lake is among the highest motorable road passes in the world and is guarded by an Indian Army post.",
+    "difficulty": "medium",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  },
+  {
+    "q": "The 'Nathu La' and the 'Bum La' passes are located in which state?",
+    "options": [
+      "Arunachal Pradesh",
+      "Ladakh",
+      "Himachal Pradesh",
+      "Sikkim"
+    ],
+    "answer": 0,
+    "explanation": "Both Bum La and Nathu La lie in Arunachal Pradesh, and the Nathu La pass on the Sikkim-Tibet frontier is the more frequently used of the two.",
+    "difficulty": "easy",
+    "category": "map-locations",
+    "source": "Standard Reference",
+    "year": null
+  }
+]
