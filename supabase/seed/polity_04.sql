@@ -140,17 +140,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'polity' and c.slug = 'international-relations'),
-    'Which of the following statements regarding the The NAM is correct?',
+    'Which of the following statements regarding the NAM is correct?',
     'The Non-Aligned Movement was the largest of the three groups at the Bandung Conference of 1955 and it was formally initiated at the first summit of the heads of state at Belgrade in September 1961.',
     'medium',
     'Standard Reference',
     null,
-    '01752af89395b2cd563cb88289b265f9'
+    '0d201a71f4640695a7c1724f94a8f4cc'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '01752af89395b2cd563cb88289b265f9'
+select id, 'A' from public.questions where question_hash = '0d201a71f4640695a7c1724f94a8f4cc'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -162,7 +162,7 @@ select q.id, v.label, v.option_text
             ('C', 'It was a military alliance'),
             ('D', 'It was the group of the non-communist states')
            ) as v(label, option_text)
- where q.question_hash = '01752af89395b2cd563cb88289b265f9'
+ where q.question_hash = '0d201a71f4640695a7c1724f94a8f4cc'
 on conflict (question_id, label) do nothing;
 
 -- polity | international-relations | medium
@@ -748,17 +748,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'polity' and c.slug = 'fundamental-duties'),
-    'Which of the following statements regarding the The 21 fundamental duties is correct?',
+    'Which of the following statements regarding the 21 fundamental duties is correct?',
     'The Eleventh Schedule, added by the 42nd Amendment of 1976, lists the twenty-one fundamental duties of the citizen.',
     'medium',
     'Standard Reference',
     null,
-    '1b197574e627b4074d08da07f2ab06b2'
+    '543e220d7e17a7a36581116be0a070e8'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '1b197574e627b4074d08da07f2ab06b2'
+select id, 'A' from public.questions where question_hash = '543e220d7e17a7a36581116be0a070e8'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -770,7 +770,7 @@ select q.id, v.label, v.option_text
             ('C', 'The 29 subjects of the Union List'),
             ('D', 'The 9 powers of the Parliament')
            ) as v(label, option_text)
- where q.question_hash = '1b197574e627b4074d08da07f2ab06b2'
+ where q.question_hash = '543e220d7e17a7a36581116be0a070e8'
 on conflict (question_id, label) do nothing;
 
 -- polity | union-and-states | easy
@@ -2924,17 +2924,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'polity' and c.slug = 'judiciary'),
-    'Which of the following statements regarding the The special leave to appeal is correct?',
+    'Which of the following statements regarding the special leave to appeal is correct?',
     'The Article 136 empowers the Supreme Court to grant the special leave to appeal from the judgment of any court or tribunal in India and it is an extraordinary discretionary power.',
     'medium',
     'Standard Reference',
     null,
-    'cfec290bdcf45001cc71220efc0033f3'
+    'f5843bbbea9c5dcfac3ccebe998f26b8'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = 'cfec290bdcf45001cc71220efc0033f3'
+select id, 'A' from public.questions where question_hash = 'f5843bbbea9c5dcfac3ccebe998f26b8'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -2946,7 +2946,7 @@ select q.id, v.label, v.option_text
             ('C', 'The advisory jurisdiction'),
             ('D', 'The original jurisdiction')
            ) as v(label, option_text)
- where q.question_hash = 'cfec290bdcf45001cc71220efc0033f3'
+ where q.question_hash = 'f5843bbbea9c5dcfac3ccebe998f26b8'
 on conflict (question_id, label) do nothing;
 
 -- polity | judiciary | easy

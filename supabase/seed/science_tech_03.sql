@@ -1548,17 +1548,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'science_tech' and c.slug = 'physics'),
-    'Which of the following statements regarding the The charge carriers and their is correct?',
+    'Which of the following statements regarding the charge carriers is correct?',
     'The Hall effect, the development of a transverse voltage across a current-carrying conductor in a magnetic field, is used to study the carriers in semiconductors.',
     'hard',
     'Standard Reference',
     null,
-    '3ceef48c3166027332de338e284833e9'
+    '76ae34bafd85e5b891dfdf4133bec536'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '3ceef48c3166027332de338e284833e9'
+select id, 'A' from public.questions where question_hash = '76ae34bafd85e5b891dfdf4133bec536'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -1570,7 +1570,7 @@ select q.id, v.label, v.option_text
             ('C', 'The mass of an electron'),
             ('D', 'The temperature of a star')
            ) as v(label, option_text)
- where q.question_hash = '3ceef48c3166027332de338e284833e9'
+ where q.question_hash = '76ae34bafd85e5b891dfdf4133bec536'
 on conflict (question_id, label) do nothing;
 
 -- science_tech | physics | easy

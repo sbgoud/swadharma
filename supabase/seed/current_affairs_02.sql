@@ -7756,17 +7756,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'polity-current'),
-    'Which of the following is correct in the case of the The Election Commission?',
+    'Which of the following is correct in the case of the Election Commission?',
     'The Election Commission mandated the webcasting of the polling stations in the assembly elections in 2022, in the run up to the 2024 general election.',
     'hard',
     'Standard Reference',
     2022,
-    'c1e171b3bf8fa58e89a918e0de603e2e'
+    '83a5efb40ae14b3d6a223e121922c084'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'C' from public.questions where question_hash = 'c1e171b3bf8fa58e89a918e0de603e2e'
+select id, 'C' from public.questions where question_hash = '83a5efb40ae14b3d6a223e121922c084'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -7778,7 +7778,7 @@ select q.id, v.label, v.option_text
             ('C', 'The ECI mandated the webcasting of the polling stations in the assembly elections in 2022'),
             ('D', 'The webcasting started in 1990')
            ) as v(label, option_text)
- where q.question_hash = 'c1e171b3bf8fa58e89a918e0de603e2e'
+ where q.question_hash = '83a5efb40ae14b3d6a223e121922c084'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | polity-current | hard

@@ -5452,17 +5452,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'geography' and c.slug = 'oceanography'),
-    'The ''Oyashio'' is a:',
+    'The ''Oyashio'' current in the Pacific is a:',
     'The Oyashio flows south from the Bering Sea along the Kurils and Hokkaido, and where it meets the warm Kuroshio there are the rich fishing grounds of Hokkaido.',
     'easy',
     'Standard Reference',
     null,
-    'e851336f695e9a863228954110d7f3ee'
+    '2d10e99dc9ace317751e35d171cb508b'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'D' from public.questions where question_hash = 'e851336f695e9a863228954110d7f3ee'
+select id, 'D' from public.questions where question_hash = '2d10e99dc9ace317751e35d171cb508b'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -5474,7 +5474,7 @@ select q.id, v.label, v.option_text
             ('C', 'warm current flowing north along the coast of Japan'),
             ('D', 'cold current flowing south along the coast of Hokkaido and the Kurils')
            ) as v(label, option_text)
- where q.question_hash = 'e851336f695e9a863228954110d7f3ee'
+ where q.question_hash = '2d10e99dc9ace317751e35d171cb508b'
 on conflict (question_id, label) do nothing;
 
 -- geography | oceanography | medium

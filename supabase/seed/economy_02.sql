@@ -1004,17 +1004,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'economy' and c.slug = 'money-and-banking'),
-    'Which of the following statements regarding the The repo rate is correct?',
+    'Which of the following statements regarding the repo rate is correct?',
     'Repo rate, CRR, SLR and open market operations are quantitative instruments, while moral suasion and direct action are qualitative instruments.',
     'easy',
     'Standard Reference',
     null,
-    'fb73203276a9e6e2d9fac3511329e35f'
+    '94fd781e0d76f0f9d2bf794b37b41681'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = 'fb73203276a9e6e2d9fac3511329e35f'
+select id, 'A' from public.questions where question_hash = '94fd781e0d76f0f9d2bf794b37b41681'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -1026,7 +1026,7 @@ select q.id, v.label, v.option_text
             ('C', 'Direct action'),
             ('D', 'Selective credit control')
            ) as v(label, option_text)
- where q.question_hash = 'fb73203276a9e6e2d9fac3511329e35f'
+ where q.question_hash = '94fd781e0d76f0f9d2bf794b37b41681'
 on conflict (question_id, label) do nothing;
 
 -- economy | money-and-banking | medium
@@ -7020,17 +7020,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'economy' and c.slug = 'industry-and-manufacturing'),
-    'Which of the following statements is/are correct in relation to the The FDI?',
+    'Which of the following statements is/are correct in relation to the FDI?',
     'The FDI is allowed in 100 per cent of the sectors of the economy through the automatic route, except for the railways, the insurance and the defence, and the Press and the Atomic Energy.',
     'hard',
     'Standard Reference',
     null,
-    '9050a5a9e5061bf56e1ec317686ac962'
+    'c657884aea15e1cd327fdb911c1bf0ad'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'D' from public.questions where question_hash = '9050a5a9e5061bf56e1ec317686ac962'
+select id, 'D' from public.questions where question_hash = 'c657884aea15e1cd327fdb911c1bf0ad'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -7042,7 +7042,7 @@ select q.id, v.label, v.option_text
             ('C', 'The FDI is allowed only in the IT'),
             ('D', 'The FDI is allowed in 100 per cent of the sectors except the railways and the insurance')
            ) as v(label, option_text)
- where q.question_hash = '9050a5a9e5061bf56e1ec317686ac962'
+ where q.question_hash = 'c657884aea15e1cd327fdb911c1bf0ad'
 on conflict (question_id, label) do nothing;
 
 -- economy | industry-and-manufacturing | easy
@@ -7884,17 +7884,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'economy' and c.slug = 'external-sector'),
-    'Which of the following statements is/are correct in relation to the The services trade of India?',
+    'Which of the following statements is/are correct in relation to the services trade of India?',
     'India runs a persistent merchandise trade deficit with a services trade surplus and the net services exports offset a part of the merchandise deficit.',
     'medium',
     'Standard Reference',
     null,
-    '69ed54380cdf300a0b9d33326d2dee36'
+    '40295b47facfc68aea636fbb1c12f18f'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = '69ed54380cdf300a0b9d33326d2dee36'
+select id, 'B' from public.questions where question_hash = '40295b47facfc68aea636fbb1c12f18f'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -7906,7 +7906,7 @@ select q.id, v.label, v.option_text
             ('C', 'Both are in surplus'),
             ('D', 'Both are in deficit')
            ) as v(label, option_text)
- where q.question_hash = '69ed54380cdf300a0b9d33326d2dee36'
+ where q.question_hash = '40295b47facfc68aea636fbb1c12f18f'
 on conflict (question_id, label) do nothing;
 
 -- economy | external-sector | easy
@@ -7916,17 +7916,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'economy' and c.slug = 'external-sector'),
-    'Which of the following statements regarding the The World Bank lends for is correct?',
+    'Which of the following statements regarding the World Bank lends is correct?',
     'The World Bank provides the long term development finance and the IMF provides the short term balance of payments support, and the IDA is the concessional window of the World Bank.',
     'easy',
     'Standard Reference',
     null,
-    '9bc9d2fa088545b60c65b7af6106c24f'
+    '91e42c1458aff83dcd5e1a430417d827'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'D' from public.questions where question_hash = '9bc9d2fa088545b60c65b7af6106c24f'
+select id, 'D' from public.questions where question_hash = '91e42c1458aff83dcd5e1a430417d827'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -7938,7 +7938,7 @@ select q.id, v.label, v.option_text
             ('C', 'The World Bank lends only for the agriculture'),
             ('D', 'The World Bank lends for the development projects and the IMF for the balance of payments')
            ) as v(label, option_text)
- where q.question_hash = '9bc9d2fa088545b60c65b7af6106c24f'
+ where q.question_hash = '91e42c1458aff83dcd5e1a430417d827'
 on conflict (question_id, label) do nothing;
 
 -- economy | external-sector | medium

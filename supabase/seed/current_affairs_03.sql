@@ -300,17 +300,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'polity-current'),
-    'Which of the following is correct in the case of the The National Education Policy?',
+    'Which of the following is correct in the case of the National Education Policy?',
     'The 5+3+3+4 structure of the NEP covers the foundational stage of three years, the preparatory of five to eight, the middle of eight to eleven, the secondary of eleven to fourteen and the higher secondary of fourteen to eighteen.',
     'hard',
     'PIB',
     2021,
-    '8df18b84b9667ddd8e3140aaf10b32bc'
+    '3060b4d53bafc8b1605968c6f7ad45e6'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '8df18b84b9667ddd8e3140aaf10b32bc'
+select id, 'A' from public.questions where question_hash = '3060b4d53bafc8b1605968c6f7ad45e6'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -322,7 +322,7 @@ select q.id, v.label, v.option_text
             ('C', 'It is 3+4+4'),
             ('D', 'It is only for the higher education')
            ) as v(label, option_text)
- where q.question_hash = '8df18b84b9667ddd8e3140aaf10b32bc'
+ where q.question_hash = '3060b4d53bafc8b1605968c6f7ad45e6'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | polity-current | medium
@@ -396,17 +396,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'polity-current'),
-    'Which of the following statements regarding the It envisages the multidisciplinary and is correct?',
+    'Which of the following statements regarding the It envisages the multidisciplinary is correct?',
     'The NEP envisages a multidisciplinary and holistic education with the flexible and multiple entry and exit points in the academic and the vocational courses.',
     'medium',
     'PIB',
     2021,
-    'a8f1d13749c786bbb16f08126cf9092d'
+    '40e84ac0c749bac2fbd7739683199287'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'D' from public.questions where question_hash = 'a8f1d13749c786bbb16f08126cf9092d'
+select id, 'D' from public.questions where question_hash = '40e84ac0c749bac2fbd7739683199287'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -418,7 +418,7 @@ select q.id, v.label, v.option_text
             ('C', 'It is only for the school education'),
             ('D', 'It envisages the multidisciplinary and the holistic education with the flexible and the multiple entry and exit points in the academic and the vocational courses')
            ) as v(label, option_text)
- where q.question_hash = 'a8f1d13749c786bbb16f08126cf9092d'
+ where q.question_hash = '40e84ac0c749bac2fbd7739683199287'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | polity-current | easy
@@ -556,17 +556,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'polity-current'),
-    'Which of the following statements regarding the The National Emblem is correct?',
+    'Which of the following statements regarding the National Emblem is correct?',
     'The National Emblem of India, adopted on 26 January 1950, was designed by the Nandalal Bose, who was also the principal designer of the national flag.',
     'hard',
     'Standard Reference',
     null,
-    '2a35946fff955e2460c3ba4f0da2d323'
+    'e946ab60ef45acc4301153c0de62b78f'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '2a35946fff955e2460c3ba4f0da2d323'
+select id, 'A' from public.questions where question_hash = 'e946ab60ef45acc4301153c0de62b78f'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -578,7 +578,7 @@ select q.id, v.label, v.option_text
             ('C', 'The Nandalal Bose designed the Parliament logo'),
             ('D', 'The Nandalal Bose designed the national emblem of Nepal')
            ) as v(label, option_text)
- where q.question_hash = '2a35946fff955e2460c3ba4f0da2d323'
+ where q.question_hash = 'e946ab60ef45acc4301153c0de62b78f'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | polity-current | medium
@@ -716,29 +716,29 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'economy-current'),
-    'In the context of the The, which of the following is correct?',
-    'The Ministry of Tourism released the India Tourism Statistics 2021 showing the recovery of the domestic tourism with about 677 million visits, and the 2022 statistics showed 1731 million domestic visits.',
+    'The India Tourism Statistics of 2021 showed:',
+    'The India Tourism Statistics of 2021 released by the Ministry of Tourism showed a recovery in the domestic tourism with about 677 million visits, and the statistics of 2022 recorded about 1,731 million domestic visits.',
     'hard',
     'Ministry of Tourism',
     2022,
-    '2e494bff1233d18ba9702c7a5463daee'
+    'c522d5c6ffd0c090b13f79f1ef9d9528'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '2e494bff1233d18ba9702c7a5463daee'
+select id, 'A' from public.questions where question_hash = 'c522d5c6ffd0c090b13f79f1ef9d9528'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
 select q.id, v.label, v.option_text
   from public.questions q
   cross join (values
-            ('A', 'The tourism statistics for 2021 showed a recovery in the domestic tourism'),
-            ('B', 'The tourism was the highest ever in 2022'),
-            ('C', 'The international arrivals were the highest in 2021'),
-            ('D', 'The tourism statistics were not published')
+            ('A', 'a recovery in the domestic tourism with about 677 million visits'),
+            ('B', 'the highest ever number of the international arrivals in 2021'),
+            ('C', 'that the tourism statistics were not published'),
+            ('D', 'that the foreign tourist arrivals fell by half')
            ) as v(label, option_text)
- where q.question_hash = '2e494bff1233d18ba9702c7a5463daee'
+ where q.question_hash = 'c522d5c6ffd0c090b13f79f1ef9d9528'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | economy-current | hard
@@ -876,17 +876,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'economy-current'),
-    'Which of the following statements regarding the The National Monetisation Pipeline and is correct?',
+    'Which of the following statements regarding the National Monetisation Pipeline is correct?',
     'The government announced the National Monetisation Pipeline and the National Fund for the strategic sectors in 2021 as a part of the fiscal consolidation and the infrastructure development.',
     'hard',
     'Standard Reference',
     2021,
-    'b3658895bf279073220b61cc052a7158'
+    '45edaf42a426876fe2dbff26898ad2af'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = 'b3658895bf279073220b61cc052a7158'
+select id, 'A' from public.questions where question_hash = '45edaf42a426876fe2dbff26898ad2af'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -898,7 +898,7 @@ select q.id, v.label, v.option_text
             ('C', 'It was the privatisation of the airports only'),
             ('D', 'There was no such fund')
            ) as v(label, option_text)
- where q.question_hash = 'b3658895bf279073220b61cc052a7158'
+ where q.question_hash = '45edaf42a426876fe2dbff26898ad2af'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | international-relations-current | easy
@@ -1036,17 +1036,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'international-relations-current'),
-    'In the context of the The Quad, which of the following is correct?',
+    'In the context of the Quad, which of the following is correct?',
     'The Quad Leaders'' Summit in Bali in 2022 announced the food and the agriculture package with the India-led initiative for the resilient food systems.',
     'hard',
     'PIB',
     2022,
-    '4c0bead843d58f1ea00482dd1c311684'
+    'dc8af5904e2f3ebf4717b11f5deafd2b'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = '4c0bead843d58f1ea00482dd1c311684'
+select id, 'B' from public.questions where question_hash = 'dc8af5904e2f3ebf4717b11f5deafd2b'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -1058,7 +1058,7 @@ select q.id, v.label, v.option_text
             ('C', 'The Quad announced the nuclear deal'),
             ('D', 'The Quad was dissolved')
            ) as v(label, option_text)
- where q.question_hash = '4c0bead843d58f1ea00482dd1c311684'
+ where q.question_hash = 'dc8af5904e2f3ebf4717b11f5deafd2b'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | international-relations-current | hard
@@ -1420,17 +1420,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'static-current'),
-    'In the context of the The Odisha, which of the following is correct?',
+    'In the context of the Odisha, which of the following is correct?',
     'Odisha was the first state to declare itself open defection free with the 100 per cent coverage of the households, and the verification of this was done in 2022.',
     'hard',
     'Standard Reference',
     2022,
-    '803f98ad0361c92cbfbbeda598c9ac59'
+    'c7b2bb1484246b0f337052cb55b31792'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'D' from public.questions where question_hash = '803f98ad0361c92cbfbbeda598c9ac59'
+select id, 'D' from public.questions where question_hash = 'c7b2bb1484246b0f337052cb55b31792'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -1442,7 +1442,7 @@ select q.id, v.label, v.option_text
             ('C', 'No state has achieved the ODF'),
             ('D', 'The Odisha was the first state to achieve the 100 per cent of the ODF status')
            ) as v(label, option_text)
- where q.question_hash = '803f98ad0361c92cbfbbeda598c9ac59'
+ where q.question_hash = 'c7b2bb1484246b0f337052cb55b31792'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | static-current | easy
@@ -1516,17 +1516,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'static-current'),
-    'In the context of the The Trishul, which of the following is correct?',
+    'In the context of the Trishul, which of the following is correct?',
     'Operation Shakti of 1999, the Pokhran-II test, was codenamed Trishul, and the 1974 test was the Smiling Buddha.',
     'hard',
     'Standard Reference',
     null,
-    '5cc5051a5379ff4fb560715fbc4ad04c'
+    '4d5a4a25ffc603ff00b243c907fbc493'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '5cc5051a5379ff4fb560715fbc4ad04c'
+select id, 'A' from public.questions where question_hash = '4d5a4a25ffc603ff00b243c907fbc493'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -1538,7 +1538,7 @@ select q.id, v.label, v.option_text
             ('C', 'The Trishul was the SLV launch vehicle'),
             ('D', 'The Trishul was the 1974 test')
            ) as v(label, option_text)
- where q.question_hash = '5cc5051a5379ff4fb560715fbc4ad04c'
+ where q.question_hash = '4d5a4a25ffc603ff00b243c907fbc493'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | science-current | hard
@@ -1580,17 +1580,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'science-current'),
-    'Which of the following statements regarding the The MMM of the ISRO is correct?',
+    'Which of the following statements regarding the MMM of the ISRO is correct?',
     'The Moon Mineralogy Mapper of the ISRO and the NASA, on the Chandrayaan-1, confirmed the presence of the water molecules on the lunar surface in 2009.',
     'hard',
     'Standard Reference',
     2009,
-    '1bcfc13de44ff191c1b4c793a8e33577'
+    '454820931b394048b6e973a5d47e7d35'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = '1bcfc13de44ff191c1b4c793a8e33577'
+select id, 'B' from public.questions where question_hash = '454820931b394048b6e973a5d47e7d35'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -1602,7 +1602,7 @@ select q.id, v.label, v.option_text
             ('C', 'The MMM was of the ESA only'),
             ('D', 'The MMM was launched in 2013')
            ) as v(label, option_text)
- where q.question_hash = '1bcfc13de44ff191c1b4c793a8e33577'
+ where q.question_hash = '454820931b394048b6e973a5d47e7d35'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | indices-and-reports | easy
@@ -2092,17 +2092,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'awards-and-honours'),
-    'Which of the following statements regarding the The World Food Programme is correct?',
+    'Which of the following statements regarding the World Food Programme is correct?',
     'The 2020 Nobel Peace Prize was awarded to the World Food Programme for its work in combatting hunger and for its contribution to the peace and the food security.',
     'medium',
     'Nobel Foundation',
     2020,
-    '19bf01bdba55cea0ba646af6edc54ef8'
+    '462f5c7a9fd1d1b172a6cbb004b07223'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '19bf01bdba55cea0ba646af6edc54ef8'
+select id, 'A' from public.questions where question_hash = '462f5c7a9fd1d1b172a6cbb004b07223'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -2114,7 +2114,7 @@ select q.id, v.label, v.option_text
             ('C', 'Maria Ressa and Dmitry Muratov'),
             ('D', 'Narges Mohammadi')
            ) as v(label, option_text)
- where q.question_hash = '19bf01bdba55cea0ba646af6edc54ef8'
+ where q.question_hash = '462f5c7a9fd1d1b172a6cbb004b07223'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | awards-and-honours | medium
@@ -7884,17 +7884,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'schemes-and-policies'),
-    'The ''''Garib Kalyan Anna Yojana'' is administered through:',
+    'The ''Garib Kalyan Anna Yojana'' is administered through:',
     'The PMGKAY free foodgrains are distributed to the beneficiaries of the Antyodaya Anna Yojana and the Priority Households through the fair price shops under the TPDS, and the scheme also covers the beneficiaries of the PM POSHAN and the ICDS.',
     'hard',
     'PIB',
     null,
-    '3819579ef579c581eb12653d76635e87'
+    '971ae6866e702576e6938eaed12b0375'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'D' from public.questions where question_hash = '3819579ef579c581eb12653d76635e87'
+select id, 'D' from public.questions where question_hash = '971ae6866e702576e6938eaed12b0375'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -7906,7 +7906,7 @@ select q.id, v.label, v.option_text
             ('C', 'the rural employment guarantee offices'),
             ('D', 'the fair price shops of the States and the Union Territories under the TPDS')
            ) as v(label, option_text)
- where q.question_hash = '3819579ef579c581eb12653d76635e87'
+ where q.question_hash = '971ae6866e702576e6938eaed12b0375'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | schemes-and-policies | hard
@@ -7948,17 +7948,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'schemes-and-policies'),
-    'The ''''National Urban Livelihoods Mission'' focuses on:',
+    'The ''National Urban Livelihoods Mission'' focuses on:',
     'The DAY-NULM addresses the livelihood vulnerability of the urban poor, the homeless and the destitute through the social protection, the community organisations, the training, the self employment and the placement through the Urban Employment and Poverty Alleviation institutions.',
     'hard',
     'Standard Reference',
     null,
-    'c4f02f5be8016b631eb07d33c94a2b90'
+    '33d3e0cd497236a3791d0fb922490166'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = 'c4f02f5be8016b631eb07d33c94a2b90'
+select id, 'B' from public.questions where question_hash = '33d3e0cd497236a3791d0fb922490166'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -7970,7 +7970,7 @@ select q.id, v.label, v.option_text
             ('C', 'the sanitation of the cities'),
             ('D', 'the primary healthcare in the slums')
            ) as v(label, option_text)
- where q.question_hash = 'c4f02f5be8016b631eb07d33c94a2b90'
+ where q.question_hash = '33d3e0cd497236a3791d0fb922490166'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | schemes-and-policies | medium

@@ -3052,17 +3052,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'polity' and c.slug = 'local-government'),
-    'Which of the following statements regarding the It guarantees 100 days of is correct?',
+    'Which of the following statements regarding the It guarantees 100 days is correct?',
     'The MGNREGA guarantees 100 days of wage employment in a year to the rural households whose adult members volunteer for the unskilled manual work.',
     'easy',
     'Standard Reference',
     null,
-    '93e9124fbcb581d90967426941c6b68a'
+    '2b95ebe5d379d24e65812983f5211338'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '93e9124fbcb581d90967426941c6b68a'
+select id, 'A' from public.questions where question_hash = '2b95ebe5d379d24e65812983f5211338'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -3074,7 +3074,7 @@ select q.id, v.label, v.option_text
             ('C', 'It guarantees 200 days'),
             ('D', 'It guarantees 50 days')
            ) as v(label, option_text)
- where q.question_hash = '93e9124fbcb581d90967426941c6b68a'
+ where q.question_hash = '2b95ebe5d379d24e65812983f5211338'
 on conflict (question_id, label) do nothing;
 
 -- polity | local-government | hard
@@ -6092,17 +6092,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'polity' and c.slug = 'parliament'),
-    'Which of the following statements regarding the The President is correct?',
+    'Which of the following statements regarding the President is correct?',
     'The Speaker and the Deputy Speaker of the Lok Sabha submit their resignations to the President, while the Speaker of the Rajya Sabha submits his to the Chairman of the Rajya Sabha.',
     'medium',
     'Standard Reference',
     null,
-    '09dfa68bbf6543af9fecb50e9f10c4dc'
+    '341305bb115b8502bdb545104aee41e8'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'D' from public.questions where question_hash = '09dfa68bbf6543af9fecb50e9f10c4dc'
+select id, 'D' from public.questions where question_hash = '341305bb115b8502bdb545104aee41e8'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -6114,7 +6114,7 @@ select q.id, v.label, v.option_text
             ('C', 'The Chief Justice'),
             ('D', 'The President')
            ) as v(label, option_text)
- where q.question_hash = '09dfa68bbf6543af9fecb50e9f10c4dc'
+ where q.question_hash = '341305bb115b8502bdb545104aee41e8'
 on conflict (question_id, label) do nothing;
 
 -- polity | parliament | medium
@@ -7020,17 +7020,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'polity' and c.slug = 'governance-and-commissions'),
-    'Which of the following statements regarding the The accounts of the Union is correct?',
+    'Which of the following statements regarding the accounts of the Union is correct?',
     'The CAG audits the accounts of the Union and of the states and of the bodies and the authorities that are substantially financed from the public revenues.',
     'easy',
     'Standard Reference',
     null,
-    'd6b966cfaaff883acdb1f8b8efdfb7f7'
+    'd0cf5b975e0c87853b04bc871cc60dfd'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = 'd6b966cfaaff883acdb1f8b8efdfb7f7'
+select id, 'B' from public.questions where question_hash = 'd0cf5b975e0c87853b04bc871cc60dfd'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -7042,7 +7042,7 @@ select q.id, v.label, v.option_text
             ('C', 'Only the Union'),
             ('D', 'Only the companies')
            ) as v(label, option_text)
- where q.question_hash = 'd6b966cfaaff883acdb1f8b8efdfb7f7'
+ where q.question_hash = 'd0cf5b975e0c87853b04bc871cc60dfd'
 on conflict (question_id, label) do nothing;
 
 -- polity | governance-and-commissions | medium
@@ -7820,17 +7820,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'polity' and c.slug = 'local-government'),
-    'Which of the following statements regarding the The Governor is correct?',
+    'Which of the following statements regarding the Governor is correct?',
     'The State Election Commissioner is appointed by the Governor and he is removed in the manner of the Election Commissioner, and the Article 243K provides for the State Election Commission.',
     'medium',
     'Standard Reference',
     null,
-    'f3bb4818721a476aac7089e8ae143f32'
+    '87223868f8de35da9c6ed5d104e708fa'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'D' from public.questions where question_hash = 'f3bb4818721a476aac7089e8ae143f32'
+select id, 'D' from public.questions where question_hash = '87223868f8de35da9c6ed5d104e708fa'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -7842,7 +7842,7 @@ select q.id, v.label, v.option_text
             ('C', 'The state government'),
             ('D', 'The Governor')
            ) as v(label, option_text)
- where q.question_hash = 'f3bb4818721a476aac7089e8ae143f32'
+ where q.question_hash = '87223868f8de35da9c6ed5d104e708fa'
 on conflict (question_id, label) do nothing;
 
 -- polity | local-government | hard

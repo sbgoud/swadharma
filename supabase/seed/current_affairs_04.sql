@@ -12,17 +12,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'schemes-and-policies'),
-    'The ''''SBM-U'' is implemented by:',
+    'The ''SBM-U'' is implemented by:',
     'The Swachh Bharat Mission-U is implemented by the urban local bodies with the States providing the funding and the support, and the Centre is responsible for the guidelines, the funding and the monitoring.',
     'hard',
     'PIB',
     null,
-    '7666913308b869fcda0519f6ec054833'
+    '9f891f90dd427a0dd6f52082612cc59a'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'D' from public.questions where question_hash = '7666913308b869fcda0519f6ec054833'
+select id, 'D' from public.questions where question_hash = '9f891f90dd427a0dd6f52082612cc59a'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -34,7 +34,7 @@ select q.id, v.label, v.option_text
             ('C', 'the Central Public Works Department'),
             ('D', 'the urban local bodies with the funding and the support of the States')
            ) as v(label, option_text)
- where q.question_hash = '7666913308b869fcda0519f6ec054833'
+ where q.question_hash = '9f891f90dd427a0dd6f52082612cc59a'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | schemes-and-policies | medium
@@ -3308,17 +3308,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'economy-current'),
-    'The ''India''s multilateral trade'' — The ''''Trade deficit'' of India in a year:',
+    'The ''India''s multilateral trade'' — The ''Trade deficit'' of India in a year:',
     'The trade deficit is the excess of the merchandise imports over the merchandise exports in a year, and the current account also includes the services and the income and the transfers, so the two are not the same.',
     'hard',
     'Standard Reference',
     null,
-    'e95bb78ed9f173e78d593741f93b9aa5'
+    'cbb9a4dfc2faafafbcaf721907365d66'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = 'e95bb78ed9f173e78d593741f93b9aa5'
+select id, 'A' from public.questions where question_hash = 'cbb9a4dfc2faafafbcaf721907365d66'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -3330,7 +3330,7 @@ select q.id, v.label, v.option_text
             ('C', 'equals the current account deficit always'),
             ('D', 'is the difference between the exports and the imports of the services')
            ) as v(label, option_text)
- where q.question_hash = 'e95bb78ed9f173e78d593741f93b9aa5'
+ where q.question_hash = 'cbb9a4dfc2faafafbcaf721907365d66'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | economy-current | hard
@@ -5772,17 +5772,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'environment-current'),
-    'The ''Shoal of the Bay'' — The ''National Fishers'' — The ''PMMSY'' — The ''Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana'' (PM-MKSSY) approved in 2024 has an outlay of:',
+    'The ''National Fishers'' — The ''PMMSY'' — The ''Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana'' (PM-MKSSY) approved in 2024 has an outlay of:',
     'The PM-MKSSY, announced in the Union Budget for 2024-25, has an outlay of Rs 6,000 crore and it aims at the formalisation of about 12 lakh fishers in the fisheries sector with the support of the credit, the insurance, the traceability and the aquaculture infrastructure.',
     'easy',
     'PIB',
     null,
-    '47697d08e51caea3af9d490bcb3a3103'
+    '819f70d21fe1ed24687069ee3ebb4cea'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'C' from public.questions where question_hash = '47697d08e51caea3af9d490bcb3a3103'
+select id, 'C' from public.questions where question_hash = '819f70d21fe1ed24687069ee3ebb4cea'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -5794,7 +5794,7 @@ select q.id, v.label, v.option_text
             ('C', 'Rs 6,000 crore with the release of about 12 lakh fishers in the formal fisheries sector'),
             ('D', 'Rs 20,000 crore with the release of 35 lakh fishers')
            ) as v(label, option_text)
- where q.question_hash = '47697d08e51caea3af9d490bcb3a3103'
+ where q.question_hash = '819f70d21fe1ed24687069ee3ebb4cea'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | environment-current | medium
@@ -6604,17 +6604,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'environment-current'),
-    'The ''Pollution Control Board'' — The ''Central Pollution Control Board'' was constituted under the:',
+    'The ''Central Pollution Control Board'' was constituted under the:',
     'The Central Pollution Control Board was constituted under the Water Act, 1974 and it was later given the powers under the Air Act, 1981, and it is the apex body for the prevention and the control of the pollution in the country.',
     'hard',
     'MoEFCC',
     null,
-    '39be70f15addd478b8ce5dc9bb4e3c25'
+    '727d493141ef6dc3cfca1f9ef61c6fa9'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '39be70f15addd478b8ce5dc9bb4e3c25'
+select id, 'A' from public.questions where question_hash = '727d493141ef6dc3cfca1f9ef61c6fa9'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -6626,7 +6626,7 @@ select q.id, v.label, v.option_text
             ('C', 'Air (Prevention and Control of Pollution) Act, 1981'),
             ('D', 'Environment Protection Act, 1986')
            ) as v(label, option_text)
- where q.question_hash = '39be70f15addd478b8ce5dc9bb4e3c25'
+ where q.question_hash = '727d493141ef6dc3cfca1f9ef61c6fa9'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | environment-current | hard

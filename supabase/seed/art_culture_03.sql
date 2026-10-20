@@ -2860,17 +2860,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'art_culture' and c.slug = 'architecture'),
-    'Which of the following statements regarding the Qutbuddin Aibak and completed by is correct?',
+    'Which of the following statements regarding the Qutbuddin Aibak and completed is correct?',
     'The Qutb Minar, the red sandstone minaret of the Qutb complex in Delhi, was begun by the Qutbuddin Aibak and completed by his son Iltutmish with the addition of the top storey.',
     'easy',
     'Standard Reference',
     null,
-    '27216b4e06b2b9f904fdf79f7d12ac35'
+    '34edd00f2c7ffedda69ff2cf16950426'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = '27216b4e06b2b9f904fdf79f7d12ac35'
+select id, 'B' from public.questions where question_hash = '34edd00f2c7ffedda69ff2cf16950426'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -2882,7 +2882,7 @@ select q.id, v.label, v.option_text
             ('C', 'Alauddin Khalji'),
             ('D', 'Muhammad bin Tughlaq')
            ) as v(label, option_text)
- where q.question_hash = '27216b4e06b2b9f904fdf79f7d12ac35'
+ where q.question_hash = '34edd00f2c7ffedda69ff2cf16950426'
 on conflict (question_id, label) do nothing;
 
 -- art_culture | architecture | medium
@@ -6732,17 +6732,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'art_culture' and c.slug = 'painting'),
-    'Which of the following statements regarding the The Kalighat temple of Calcutta is correct?',
+    'Which of the following statements regarding the Kalighat temple of Calcutta is correct?',
     'The Kalighat painting developed in the nineteenth century around the Kalighat temple in Calcutta and it used the imported colours and the bold brushwork on the flat paper.',
     'medium',
     'Standard Reference',
     null,
-    'd3f431fd5c4f270df20faee26e8ac5a0'
+    'a86fd9932c551357f10e81411da35b8b'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'C' from public.questions where question_hash = 'd3f431fd5c4f270df20faee26e8ac5a0'
+select id, 'C' from public.questions where question_hash = 'a86fd9932c551357f10e81411da35b8b'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -6754,7 +6754,7 @@ select q.id, v.label, v.option_text
             ('C', 'The Kalighat temple of Calcutta in the nineteenth century'),
             ('D', 'The Kalighat temple of Varanasi')
            ) as v(label, option_text)
- where q.question_hash = 'd3f431fd5c4f270df20faee26e8ac5a0'
+ where q.question_hash = 'a86fd9932c551357f10e81411da35b8b'
 on conflict (question_id, label) do nothing;
 
 -- art_culture | painting | medium
@@ -7276,17 +7276,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'art_culture' and c.slug = 'literature'),
-    'Which of the following statements regarding the The Tiruvalluvar is correct?',
+    'Which of the following statements regarding the Tiruvalluvar is correct?',
     'The Tirukkural, the classic of the Tamil literature, is a work of the Tiruvalluvar, who is also the author of the Tiruppavai and the Tiruvempavai.',
     'easy',
     'Standard Reference',
     null,
-    '3aa2ab274bde6af8397a67b9d6086c36'
+    '94ecfb660ad280ffbcc96a8c844404aa'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = '3aa2ab274bde6af8397a67b9d6086c36'
+select id, 'B' from public.questions where question_hash = '94ecfb660ad280ffbcc96a8c844404aa'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -7298,7 +7298,7 @@ select q.id, v.label, v.option_text
             ('C', 'The Appar'),
             ('D', 'The Bharathi')
            ) as v(label, option_text)
- where q.question_hash = '3aa2ab274bde6af8397a67b9d6086c36'
+ where q.question_hash = '94ecfb660ad280ffbcc96a8c844404aa'
 on conflict (question_id, label) do nothing;
 
 -- art_culture | literature | medium

@@ -1036,17 +1036,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'economy' and c.slug = 'monetary-policy'),
-    'Which of the following statements regarding the The CRR is correct?',
+    'Which of the following statements regarding the CRR is correct?',
     'The Cash Reserve Ratio is the minimum reserve that the banks must keep with the RBI as a share of the NDTL and it earns no interest for the banks, unlike the SLR.',
     'medium',
     'Standard Reference',
     null,
-    'c1eca5d44b6b6b24d70f4eaf7eeee762'
+    '0a5786c37d2a25fe68524b38f2e8658d'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = 'c1eca5d44b6b6b24d70f4eaf7eeee762'
+select id, 'A' from public.questions where question_hash = '0a5786c37d2a25fe68524b38f2e8658d'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -1058,7 +1058,7 @@ select q.id, v.label, v.option_text
             ('C', 'It is the reserve of the government securities'),
             ('D', 'It is the cash reserve of the public')
            ) as v(label, option_text)
- where q.question_hash = 'c1eca5d44b6b6b24d70f4eaf7eeee762'
+ where q.question_hash = '0a5786c37d2a25fe68524b38f2e8658d'
 on conflict (question_id, label) do nothing;
 
 -- economy | monetary-policy | medium
@@ -3244,17 +3244,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'economy' and c.slug = 'economic-survey-and-budget'),
-    'Which of the following statements regarding the The agriculture is correct?',
+    'Which of the following statements regarding the agriculture is correct?',
     'The agriculture and the allied sectors contribute about 18 per cent of the GDP and provide the livelihood to about 45 per cent of the workforce, and the disparity is the core challenge of the Indian economy.',
     'easy',
     'Standard Reference',
     null,
-    'e3c1ac2f13f6a3136cf5558e252abdc5'
+    '0eace3e4796d0be5001d85be90ea59bd'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = 'e3c1ac2f13f6a3136cf5558e252abdc5'
+select id, 'B' from public.questions where question_hash = '0eace3e4796d0be5001d85be90ea59bd'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -3266,7 +3266,7 @@ select q.id, v.label, v.option_text
             ('C', 'It is 30 per cent of the GDP'),
             ('D', 'It employs 20 per cent of the workforce')
            ) as v(label, option_text)
- where q.question_hash = 'e3c1ac2f13f6a3136cf5558e252abdc5'
+ where q.question_hash = '0eace3e4796d0be5001d85be90ea59bd'
 on conflict (question_id, label) do nothing;
 
 -- economy | economic-survey-and-budget | medium

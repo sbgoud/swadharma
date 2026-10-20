@@ -1260,17 +1260,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'geography' and c.slug = 'rivers-and-lakes'),
-    'Which of the following statements regarding the The Rihand is correct?',
+    'Which of the following statements regarding the Rihand is correct?',
     'The Rihand, the largest tributary of the Son, joins the Son at the tri-junction of the Madhya Pradesh, the Chhattisgarh and the Uttar Pradesh.',
     'hard',
     'Standard Reference',
     null,
-    '6007437d96f7491541fce21be7753c03'
+    '234ccbddde74cb237693a2505dbbc159'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '6007437d96f7491541fce21be7753c03'
+select id, 'A' from public.questions where question_hash = '234ccbddde74cb237693a2505dbbc159'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -1282,7 +1282,7 @@ select q.id, v.label, v.option_text
             ('C', 'The Rihand is in Kerala'),
             ('D', 'The Rihand flows west')
            ) as v(label, option_text)
- where q.question_hash = '6007437d96f7491541fce21be7753c03'
+ where q.question_hash = '234ccbddde74cb237693a2505dbbc159'
 on conflict (question_id, label) do nothing;
 
 -- geography | rivers-and-lakes | hard
@@ -1292,17 +1292,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'geography' and c.slug = 'rivers-and-lakes'),
-    'Which of the following statements regarding the The Sind is correct?',
+    'Which of the following statements regarding the Sind is correct?',
     'The Sind, the largest tributary of the Chambal, joins the main river on the boundary of the Madhya Pradesh and the Rajasthan.',
     'hard',
     'Standard Reference',
     null,
-    '324cc8b3805e0b9e5d9b44bcb01739d6'
+    'cbc3b801c617658445066f9185da2c75'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '324cc8b3805e0b9e5d9b44bcb01739d6'
+select id, 'A' from public.questions where question_hash = 'cbc3b801c617658445066f9185da2c75'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -1314,7 +1314,7 @@ select q.id, v.label, v.option_text
             ('C', 'The Sind is in Kerala'),
             ('D', 'The Sind flows into the Arabian Sea')
            ) as v(label, option_text)
- where q.question_hash = '324cc8b3805e0b9e5d9b44bcb01739d6'
+ where q.question_hash = 'cbc3b801c617658445066f9185da2c75'
 on conflict (question_id, label) do nothing;
 
 -- geography | rivers-and-lakes | hard

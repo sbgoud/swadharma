@@ -908,17 +908,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'current_affairs' and c.slug = 'science-current'),
-    'The ''AstroSat'' is:',
+    'The ''AstroSat'' mission of India is:',
     'AstroSat, launched in September 2015, is a multi wavelength observatory that observes the different bands of the electromagnetic spectrum from X-rays to the optical and the infrared, and it is the first dedicated astronomy satellite of India.',
     'medium',
     'ISRO',
     null,
-    '2308e17f945b70b47f82c12447c0645e'
+    'f74f769e007ed9f151afb3909a4cd7ba'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = '2308e17f945b70b47f82c12447c0645e'
+select id, 'B' from public.questions where question_hash = 'f74f769e007ed9f151afb3909a4cd7ba'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -930,7 +930,7 @@ select q.id, v.label, v.option_text
             ('C', 'the first weather satellite of India'),
             ('D', 'the first communication satellite of India')
            ) as v(label, option_text)
- where q.question_hash = '2308e17f945b70b47f82c12447c0645e'
+ where q.question_hash = 'f74f769e007ed9f151afb3909a4cd7ba'
 on conflict (question_id, label) do nothing;
 
 -- current_affairs | science-current | medium

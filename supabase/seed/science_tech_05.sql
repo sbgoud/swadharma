@@ -140,17 +140,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'science_tech' and c.slug = 'defence-technology'),
-    'Which of the following statements regarding the The AI is correct?',
+    'Which of the following statements regarding the AI is correct?',
     'The AI is used in the surveillance, the autonomous systems, the electronic warfare, the logistics and the decision support, and the Centre has approved the AI projects of the defence with the private sector.',
     'medium',
     'Standard Reference',
     null,
-    'add0e67fcf71bb5a3ae6bce2f8305453'
+    'f85467d054a1c4effd7dc2801a6e8aa4'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = 'add0e67fcf71bb5a3ae6bce2f8305453'
+select id, 'B' from public.questions where question_hash = 'f85467d054a1c4effd7dc2801a6e8aa4'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -162,7 +162,7 @@ select q.id, v.label, v.option_text
             ('C', 'The AI is banned in the defence'),
             ('D', 'The AI is only for the logistics')
            ) as v(label, option_text)
- where q.question_hash = 'add0e67fcf71bb5a3ae6bce2f8305453'
+ where q.question_hash = 'f85467d054a1c4effd7dc2801a6e8aa4'
 on conflict (question_id, label) do nothing;
 
 -- science_tech | defence-technology | hard
@@ -236,17 +236,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'science_tech' and c.slug = 'defence-technology'),
-    'Which of the following statements regarding the The Astra is correct?',
+    'Which of the following statements regarding the Astra is correct?',
     'The long range missile of the DRDO was renamed the Astra in 2023 and it was test fired in the same year from the Integrated Test Range in Odisha.',
     'medium',
     'Standard Reference',
     2023,
-    'd869c1d56d93ab5998aa703d72d42631'
+    '00d56957e04c9df92e3289e6a0f154f3'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = 'd869c1d56d93ab5998aa703d72d42631'
+select id, 'A' from public.questions where question_hash = '00d56957e04c9df92e3289e6a0f154f3'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -258,7 +258,7 @@ select q.id, v.label, v.option_text
             ('C', 'Astra is the surface to air missile'),
             ('D', 'Astra is the air to air missile')
            ) as v(label, option_text)
- where q.question_hash = 'd869c1d56d93ab5998aa703d72d42631'
+ where q.question_hash = '00d56957e04c9df92e3289e6a0f154f3'
 on conflict (question_id, label) do nothing;
 
 -- science_tech | defence-technology | hard

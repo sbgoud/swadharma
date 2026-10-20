@@ -3404,17 +3404,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'history' and c.slug = 'post-independence'),
-    'Which of the following statements regarding the The Sagarmala is correct?',
+    'Which of the following statements regarding the Sagarmala is correct?',
     'The Sagarmala is the port-led logistics development programme and the PM Gati Shakti National Master Plan has the 14 sectors and the 20 key corridors.',
     'medium',
     'Standard Reference',
     null,
-    'be2311e31e888db2476fc64b83744cd0'
+    '7ac5543aa793dd472374641f03ce71c2'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = 'be2311e31e888db2476fc64b83744cd0'
+select id, 'B' from public.questions where question_hash = '7ac5543aa793dd472374641f03ce71c2'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -3426,7 +3426,7 @@ select q.id, v.label, v.option_text
             ('C', 'The Sagarmala is the highway project and the Gati Shakti is the ports project'),
             ('D', 'They are the same')
            ) as v(label, option_text)
- where q.question_hash = 'be2311e31e888db2476fc64b83744cd0'
+ where q.question_hash = '7ac5543aa793dd472374641f03ce71c2'
 on conflict (question_id, label) do nothing;
 
 -- history | post-independence | medium
@@ -4492,17 +4492,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'history' and c.slug = 'post-independence'),
-    'Which of the following statements regarding the The Hyderabad acceded to India is correct?',
+    'Which of the following statements regarding the Hyderabad acceded to India is correct?',
     'The Operation Polo of September 1948 secured the accession of the state of Hyderabad, the largest of the princely states by the area, and the Junagadh and the other states followed.',
     'medium',
     'Standard Reference',
     null,
-    '5b6f5c69b203f469a94fa8a2679079a2'
+    '9152fed4be8a42b9f7dbde687f5282b2'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'C' from public.questions where question_hash = '5b6f5c69b203f469a94fa8a2679079a2'
+select id, 'C' from public.questions where question_hash = '9152fed4be8a42b9f7dbde687f5282b2'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -4514,7 +4514,7 @@ select q.id, v.label, v.option_text
             ('C', 'The Hyderabad acceded to India in 1948 after the Operation Polo'),
             ('D', 'It acceded in 1947')
            ) as v(label, option_text)
- where q.question_hash = '5b6f5c69b203f469a94fa8a2679079a2'
+ where q.question_hash = '9152fed4be8a42b9f7dbde687f5282b2'
 on conflict (question_id, label) do nothing;
 
 -- history | post-independence | medium
@@ -5164,17 +5164,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'history' and c.slug = 'post-independence'),
-    'Which of the following statements regarding the The Ladakh is correct?',
+    'Which of the following statements regarding the Ladakh is correct?',
     'The Ladakh became a Union Territory in October 2019 along with the Jammu and Kashmir and it has a distinct culture and a sparse population.',
     'medium',
     'Standard Reference',
     null,
-    'b7caa2ca2f5c9a47e12b355c2a3b625a'
+    '9006764ba7018f261d479b2614c68739'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = 'b7caa2ca2f5c9a47e12b355c2a3b625a'
+select id, 'B' from public.questions where question_hash = '9006764ba7018f261d479b2614c68739'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -5186,7 +5186,7 @@ select q.id, v.label, v.option_text
             ('C', 'It was a state in 1991'),
             ('D', 'It is a part of the Himachal Pradesh')
            ) as v(label, option_text)
- where q.question_hash = 'b7caa2ca2f5c9a47e12b355c2a3b625a'
+ where q.question_hash = '9006764ba7018f261d479b2614c68739'
 on conflict (question_id, label) do nothing;
 
 -- history | post-independence | easy
@@ -5964,17 +5964,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'history' and c.slug = 'freedom-struggle'),
-    'Which of the following statements regarding the The Congress is correct?',
+    'Which of the following statements regarding the Congress is correct?',
     'The first session of the Congress to formally take up the demand of the Swaraj was the 1909 session and the 1929 Lahore session adopted the Purna Swaraj.',
     'medium',
     'Standard Reference',
     null,
-    '4e939b915d584092ebbab7f5309794f3'
+    'fc1db49d4744c56e5563569e8c9b09d2'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'D' from public.questions where question_hash = '4e939b915d584092ebbab7f5309794f3'
+select id, 'D' from public.questions where question_hash = 'fc1db49d4744c56e5563569e8c9b09d2'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -5986,7 +5986,7 @@ select q.id, v.label, v.option_text
             ('C', 'The Congress took it up in 1919'),
             ('D', 'The Congress was the first to take up the demand of the Swaraj in 1909')
            ) as v(label, option_text)
- where q.question_hash = '4e939b915d584092ebbab7f5309794f3'
+ where q.question_hash = 'fc1db49d4744c56e5563569e8c9b09d2'
 on conflict (question_id, label) do nothing;
 
 -- history | world-history | medium
@@ -7468,17 +7468,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'history' and c.slug = 'post-independence'),
-    'Which of the following statements regarding the The CoWIN is correct?',
+    'Which of the following statements regarding the CoWIN is correct?',
     'The CoWIN, the Co-Win Information Network, powered the world''s largest vaccination drive with more than 2 billion doses registered.',
     'easy',
     'Standard Reference',
     null,
-    '8fb0a477089f12d00eff73a6d5e52ad3'
+    '5cd8f16193fe6e0e000c49d8fe3e71ca'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'D' from public.questions where question_hash = '8fb0a477089f12d00eff73a6d5e52ad3'
+select id, 'D' from public.questions where question_hash = '5cd8f16193fe6e0e000c49d8fe3e71ca'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -7490,7 +7490,7 @@ select q.id, v.label, v.option_text
             ('C', 'It was the defence platform'),
             ('D', 'The CoWIN was the digital platform of the covid vaccination and it was the largest vaccination drive in the world')
            ) as v(label, option_text)
- where q.question_hash = '8fb0a477089f12d00eff73a6d5e52ad3'
+ where q.question_hash = '5cd8f16193fe6e0e000c49d8fe3e71ca'
 on conflict (question_id, label) do nothing;
 
 -- history | post-independence | medium

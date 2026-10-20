@@ -5900,17 +5900,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'science_tech' and c.slug = 'health-technology'),
-    'Which of the following statements regarding the A digital health identity that is correct?',
+    'Which of the following statements regarding the A digital health identity is correct?',
     'The ABHA is a 14-digit digital health identifier created under the Ayushman Bharat Digital Mission, and it allows a person to link and manage health records, reports and prescriptions from different healthcare providers.',
     'easy',
     'Standard Reference',
     null,
-    '1b266edcbc868123fbdae84f8e70bfed'
+    '22a4efbba045b7368422a341e3b99190'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'D' from public.questions where question_hash = '1b266edcbc868123fbdae84f8e70bfed'
+select id, 'D' from public.questions where question_hash = '22a4efbba045b7368422a341e3b99190'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -5922,7 +5922,7 @@ select q.id, v.label, v.option_text
             ('C', 'A bank account opened for senior citizens'),
             ('D', 'A digital health identity that links a person''s health records across providers')
            ) as v(label, option_text)
- where q.question_hash = '1b266edcbc868123fbdae84f8e70bfed'
+ where q.question_hash = '22a4efbba045b7368422a341e3b99190'
 on conflict (question_id, label) do nothing;
 
 -- science_tech | health-technology | easy

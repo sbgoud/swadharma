@@ -1932,17 +1932,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'economy' and c.slug = 'agriculture'),
-    'Which of the following statements regarding the The ICAR is correct?',
+    'Which of the following statements regarding the ICAR is correct?',
     'The Indian Council of Agricultural Research is the apex organisation for the agricultural research with the 22 institutes and the more than 60 agricultural universities under it.',
     'medium',
     'Standard Reference',
     null,
-    '202857101df1cc5bc63ddb724f2f0710'
+    '44d4ec2a6867a860d5097373ba955a35'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = '202857101df1cc5bc63ddb724f2f0710'
+select id, 'B' from public.questions where question_hash = '44d4ec2a6867a860d5097373ba955a35'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -1954,7 +1954,7 @@ select q.id, v.label, v.option_text
             ('C', 'It is a ministry'),
             ('D', 'It is a state body')
            ) as v(label, option_text)
- where q.question_hash = '202857101df1cc5bc63ddb724f2f0710'
+ where q.question_hash = '44d4ec2a6867a860d5097373ba955a35'
 on conflict (question_id, label) do nothing;
 
 -- economy | agriculture | hard
@@ -5164,17 +5164,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'economy' and c.slug = 'agriculture'),
-    'Which of the following statements regarding the for the food security and is correct?',
+    'Which of the following statements regarding the for the food security is correct?',
     'The National Food Security Act of 2013 provides for the food security and the nutrition and it institutionalises the right to food with the special focus on the children, the pregnant and the lactating women and the elderly.',
     'easy',
     'Standard Reference',
     null,
-    'a4ee7e6ee68e5d0e94a8f0eef5f74898'
+    'b30d4dfa60dd1c2582f99ca3caff0c37'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'B' from public.questions where question_hash = 'a4ee7e6ee68e5d0e94a8f0eef5f74898'
+select id, 'B' from public.questions where question_hash = 'b30d4dfa60dd1c2582f99ca3caff0c37'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -5186,7 +5186,7 @@ select q.id, v.label, v.option_text
             ('C', 'for the subsidies only'),
             ('D', 'a trade law')
            ) as v(label, option_text)
- where q.question_hash = 'a4ee7e6ee68e5d0e94a8f0eef5f74898'
+ where q.question_hash = 'b30d4dfa60dd1c2582f99ca3caff0c37'
 on conflict (question_id, label) do nothing;
 
 -- economy | agriculture | medium
@@ -6444,17 +6444,17 @@ values (
     (select c.id from public.categories c
        join public.subjects s on s.id = c.subject_id
       where s.slug = 'economy' and c.slug = 'industry-and-manufacturing'),
-    'Which of the following statements regarding the The fabs, the display fabs is correct?',
+    'Which of the following statements regarding the fabs, the display fabs is correct?',
     'The India Semiconductor Mission covers the semiconductor fabs, the display fabs, the design and the packaging, with the fiscal support of about Rs. 76,000 crore.',
     'medium',
     'Standard Reference',
     null,
-    '0747496d7107e69ff83c46acebc0cf36'
+    'f0735a786c7f8ecf3a8763ed5a15427e'
 )
 on conflict (question_hash) do nothing;
 
 insert into private.question_answers (question_id, correct_label)
-select id, 'A' from public.questions where question_hash = '0747496d7107e69ff83c46acebc0cf36'
+select id, 'A' from public.questions where question_hash = 'f0735a786c7f8ecf3a8763ed5a15427e'
 on conflict (question_id) do nothing;
 
 insert into public.question_options (question_id, label, option_text)
@@ -6466,7 +6466,7 @@ select q.id, v.label, v.option_text
             ('C', 'Only the packaging'),
             ('D', 'Only the assembly')
            ) as v(label, option_text)
- where q.question_hash = '0747496d7107e69ff83c46acebc0cf36'
+ where q.question_hash = 'f0735a786c7f8ecf3a8763ed5a15427e'
 on conflict (question_id, label) do nothing;
 
 -- economy | industry-and-manufacturing | easy
