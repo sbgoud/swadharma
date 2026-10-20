@@ -1,89 +1,99 @@
-import { BrowserRouter as Router, Routes, Route, useLocation, Navigate } from 'react-router-dom';
 import { lazy, Suspense } from 'react';
+import { BrowserRouter, Navigate, Route, Routes, useLocation } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import { AppProvider } from './context/AppContext';
+import ProtectedRoute from './components/ProtectedRoute';
+import { AuthProvider } from './context/AuthContext';
 import { ThemeProvider } from './context/ThemeContext';
-import { ToastProvider } from './components/Toast';
-import { supabase } from './lib/supabase';
 
-// Lazy load pages for code splitting
+/* Route level code splitting keeps the first paint small. */
 const Home = lazy(() => import('./pages/Home'));
 const About = lazy(() => import('./pages/About'));
-const Courses = lazy(() => import('./pages/Courses'));
-const Contact = lazy(() => import('./pages/Contact'));
 const Login = lazy(() => import('./pages/Login'));
-const WriteTest = lazy(() => import('./pages/WriteTest'));
-const TestResults = lazy(() => import('./pages/TestResults'));
+const ResetPassword = lazy(() => import('./pages/ResetPassword'));
+const Dashboard = lazy(() => import('./pages/Dashboard'));
+const Exam = lazy(() => import('./pages/Exam'));
+const Result = lazy(() => import('./pages/Result'));
+const Attempts = lazy(() => import('./pages/Attempts'));
 const Profile = lazy(() => import('./pages/Profile'));
-const InitializeDb = lazy(() => import('./pages/InitializeDb'));
-const CheckColumns = lazy(() => import('./pages/CheckColumns'));
-const AddQuestions = lazy(() => import('./pages/AddQuestions'));
-const AddQuestionsBulk = lazy(() => import('./pages/AddQuestionsBulk'));
-const Checkout = lazy(() => import('./pages/Checkout'));
 
-// Loading component for Suspense fallback
 const PageLoader = () => (
-  <div className="min-h-screen flex items-center justify-center bg-gray-50">
-    <div className="text-center">
-      <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
-      <p className="text-gray-600">Loading...</p>
-    </div>
+  <div className="min-h-[50vh] flex items-center justify-center">
+    <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600" />
   </div>
 );
 
-// Layout wrapper to conditionally hide Navbar/Footer if needed
 const Layout = ({ children }) => {
   const location = useLocation();
+  const isExam = location.pathname.startsWith('/exam/');
 
   return (
-    <div className="flex flex-col min-h-screen bg-slate-900 text-white">
+    <div className="flex flex-col min-h-screen bg-slate-50">
       <Navbar />
-      <main className="flex-grow">
-        {children}
-      </main>
-      <Footer />
+      <main className="flex-grow">{children}</main>
+      {!isExam && <Footer />}
     </div>
   );
 };
 
-// Logout component
-const Logout = () => {
-  supabase.auth.signOut();
-  return <Navigate to="/" replace />;
-};
-
-function App() {
-  return (
-    <ThemeProvider>
-      <ToastProvider>
-        <AppProvider>
-          <Router>
-            <Layout>
-              <Suspense fallback={<PageLoader />}>
-                <Routes>
-                  <Route path="/" element={<Home />} />
-                  <Route path="/about" element={<About />} />
-                  <Route path="/courses" element={<Courses />} />
-                  <Route path="/contact" element={<Contact />} />
-                  <Route path="/login" element={<Login />} />
-                  <Route path="/write-test" element={<WriteTest />} />
-                  <Route path="/test-results" element={<TestResults />} />
-                  <Route path="/profile" element={<Profile />} />
-                  <Route path="/logout" element={<Logout />} />
-                  <Route path="/initialize-db" element={<InitializeDb />} />
-                  <Route path="/check-columns" element={<CheckColumns />} />
-                  <Route path="/add-questions" element={<AddQuestions />} />
-                  <Route path="/add-questions-bulk" element={<AddQuestionsBulk />} />
-                  <Route path="/checkout" element={<Checkout />} />
-                </Routes>
-              </Suspense>
-            </Layout>
-          </Router>
-        </AppProvider>
-      </ToastProvider>
-    </ThemeProvider>
-  );
-}
+const App = () => (
+  <ThemeProvider>
+      <AuthProvider>
+        <BrowserRouter>
+          <Layout>
+            <Suspense fallback={<PageLoader />}>
+              <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/about" element={<About />} />
+                <Route path="/login" element={<Login />} />
+                <Route path="/reset-password" element={<ResetPassword />} />
+                <Route
+                  path="/dashboard"
+                  element={
+                    <ProtectedRoute>
+                      <Dashboard />
+                    </ProtectedRoute>
+                  }
+                />
+                <Route
+                  path="/exam/:attemptId"
+                  element={
+                    <ProtectedRoute>
+                      <Exam />
+                    </ProtectedRoute>
+                  }
+                />
+                <Route
+                  path="/result/:attemptId"
+                  element={
+                    <ProtectedRoute>
+                      <Result />
+                    </ProtectedRoute>
+                  }
+                />
+                <Route
+                  path="/attempts"
+                  element={
+                    <ProtectedRoute>
+                      <Attempts />
+                    </ProtectedRoute>
+                  }
+                />
+                <Route
+                  path="/profile"
+                  element={
+                    <ProtectedRoute>
+                      <Profile />
+                    </ProtectedRoute>
+                  }
+                />
+                <Route path="*" element={<Navigate to="/" replace />} />
+              </Routes>
+            </Suspense>
+          </Layout>
+        </BrowserRouter>
+      </AuthProvider>
+  </ThemeProvider>
+);
 
 export default App;
