@@ -6,11 +6,6 @@
 
 import { supabase } from '../lib/supabase';
 
-const unwrap = ({ data, error }) => {
-  if (error) throw error;
-  return data;
-};
-
 /** Subject statistics for the home page (public). */
 export const fetchSubjectCounts = async () => {
   const { data, error } = await supabase.rpc('subject_question_counts');
@@ -94,5 +89,3 @@ export const updateProfileName = async (userId, fullName) => {
   if (error) throw error;
   return data;
 };
-
-export { unwrap };

@@ -41,6 +41,26 @@ const Result = () => {
     return details;
   }, [details, filter]);
 
+  const bySubject = useMemo(() => {
+    const map = new Map();
+    details.forEach((item) => {
+      const key = item.subject || 'General Studies';
+      if (!map.has(key)) {
+        map.set(key, { subject: key, correct: 0, incorrect: 0, unanswered: 0, total: 0 });
+      }
+      const row = map.get(key);
+      row.total += 1;
+      if (item.is_correct) row.correct += 1;
+      else if (item.selected_label) row.incorrect += 1;
+      else row.unanswered += 1;
+    });
+    return [...map.values()].map((row) => ({
+      ...row,
+      score: Math.round((row.correct * 2 - row.incorrect * 0.66) * 100) / 100,
+      percentage: row.total ? (row.correct / row.total) * 100 : 0,
+    }));
+  }, [details]);
+
   if (loading) {
     return (
       <div className="min-h-[60vh] flex items-center justify-center">
@@ -139,6 +159,39 @@ const Result = () => {
           </Link>
         </div>
       </section>
+
+      {/* Subject-wise breakdown */}
+      {bySubject.length > 1 && (
+        <section className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6 mb-6">
+          <h2 className="text-lg font-semibold text-slate-900 mb-4">Subject-wise performance</h2>
+          <div className="overflow-x-auto -mx-6 px-6">
+            <table className="w-full text-sm min-w-[520px]">
+              <thead>
+                <tr className="text-left text-xs uppercase tracking-wide text-slate-500 border-b border-slate-100">
+                  <th className="font-medium pb-2">Subject</th>
+                  <th className="font-medium pb-2 text-right">Correct</th>
+                  <th className="font-medium pb-2 text-right">Wrong</th>
+                  <th className="font-medium pb-2 text-right">Skipped</th>
+                  <th className="font-medium pb-2 text-right">Accuracy</th>
+                  <th className="font-medium pb-2 text-right">Score</th>
+                </tr>
+              </thead>
+              <tbody>
+                {bySubject.map((row) => (
+                  <tr key={row.subject} className="border-b border-slate-50 last:border-0">
+                    <td className="py-2.5 pr-4 font-medium text-slate-900">{row.subject}</td>
+                    <td className="py-2.5 text-right text-emerald-700">{row.correct}</td>
+                    <td className="py-2.5 text-right text-rose-700">{row.incorrect}</td>
+                    <td className="py-2.5 text-right text-slate-500">{row.unanswered}</td>
+                    <td className="py-2.5 text-right text-slate-600">{row.percentage.toFixed(0)}%</td>
+                    <td className="py-2.5 text-right font-semibold text-slate-900">{row.score}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
 
       {/* Filters */}
       <div className="flex flex-wrap items-center gap-2 mb-4">
