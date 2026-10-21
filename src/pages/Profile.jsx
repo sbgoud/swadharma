@@ -176,8 +176,8 @@ const Profile = () => {
               <Stack direction="row" spacing={1.25} sx={{ alignItems: 'flex-start' }}>
                 <CheckCircleRoundedIcon sx={{ color: 'success.main', mt: 0.2 }} />
                 <Typography variant="body2" color="text.secondary" sx={{ lineHeight: 1.7 }}>
-                  There is no plan, invoice or payment method to manage here. Start practising free
-                  today and come back whenever you want another paper.
+                  There is nothing to pay or manage here. Start practising free today and come back
+                  whenever you want another paper.
                 </Typography>
               </Stack>
             </CardContent>

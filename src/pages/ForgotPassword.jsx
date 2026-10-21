@@ -31,7 +31,7 @@ const StepTrack = ({ current }) => (
           <Box
             sx={{
               height: 4,
-              borderRadius: 2,
+              borderRadius: '2px',
               bgcolor: active ? 'primary.main' : 'action.hover',
               transition: 'background-color 200ms ease',
             }}

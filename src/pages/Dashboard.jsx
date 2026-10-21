@@ -316,11 +316,15 @@ const Dashboard = () => {
                     Choose subjects, length and difficulty
                   </Typography>
                 </Box>
-                <Stack direction="row" spacing={0.5}>
-                  <Button size="small" onClick={() => setSelected(subjects.map((item) => item.slug))}>
+                <Stack direction="row" spacing={0.5} sx={{ flexShrink: 0 }}>
+                  <Button
+                    size="small"
+                    onClick={() => setSelected(subjects.map((item) => item.slug))}
+                    sx={{ whiteSpace: 'nowrap', px: 1 }}
+                  >
                     Select all
                   </Button>
-                  <Button size="small" onClick={() => setSelected([])}>
+                  <Button size="small" onClick={() => setSelected([])} sx={{ whiteSpace: 'nowrap', px: 1 }}>
                     Clear
                   </Button>
                 </Stack>
@@ -584,6 +588,7 @@ const Dashboard = () => {
                   borderRadius: '24px',
                   bgcolor: INK,
                   color: '#EAF2F1',
+                  border: '1px solid rgba(255, 255, 255, 0.08)',
                 }}
               >
                 <Typography

@@ -463,6 +463,7 @@ const PaperHero = ({ result, percentage, verdict, children }) => (
       borderRadius: '28px',
       bgcolor: INK,
       color: '#EAF2F1',
+      border: '1px solid rgba(255, 255, 255, 0.08)',
     }}
   >
     <Stack

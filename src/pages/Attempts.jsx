@@ -279,6 +279,9 @@ const Attempts = () => {
                           <Typography
                             className="tabular"
                             sx={{
+                              display: 'flex',
+                              alignItems: 'baseline',
+                              justifyContent: { xs: 'flex-start', md: 'flex-end' },
                               fontFamily: '"Fraunces Variable", Georgia, serif',
                               fontWeight: 600,
                               fontSize: '1.5rem',
@@ -287,7 +290,16 @@ const Attempts = () => {
                             }}
                           >
                             {attempt.score}
-                            <Box component="span" sx={{ fontSize: '0.9rem', color: 'text.disabled' }}>
+                            <Box
+                              component="span"
+                              sx={{
+                                fontFamily: 'inherit',
+                                fontSize: '0.9rem',
+                                fontWeight: 500,
+                                color: 'text.disabled',
+                                ml: 0.25,
+                              }}
+                            >
                               /{attempt.total * 2}
                             </Box>
                           </Typography>

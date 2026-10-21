@@ -369,18 +369,22 @@ const Exam = () => {
         }}
       >
         <Box sx={{ maxWidth: 1400, mx: 'auto', px: { xs: 2, md: 3 }, py: 1.5 }}>
-          <Stack direction="row" spacing={2} sx={{ alignItems: 'center' }}>
-            <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center', minWidth: 0 }}>
+          <Stack direction="row" spacing={{ xs: 1, sm: 2 }} sx={{ alignItems: 'center' }}>
+            <Stack direction="row" spacing={{ xs: 0.5, sm: 1.25 }} sx={{ alignItems: 'center', minWidth: 0 }}>
               <IconButton
                 onClick={() => setPaletteOpen(true)}
                 aria-label="Open question palette"
-                sx={{ display: { md: 'none' } }}
+                sx={{ display: { md: 'none' }, ml: -0.75 }}
               >
                 <GridOnRoundedIcon />
               </IconButton>
-              <SwanMark size={30} title="Swadharma IAS" />
+              <SwanMark size={30} title="Swadharma IAS" sx={{ display: { xs: 'none', sm: 'block' } }} />
               <Box sx={{ minWidth: 0 }}>
-                <Typography variant="caption" color="text.secondary" sx={{ fontWeight: 600 }}>
+                <Typography
+                  variant="caption"
+                  color="text.secondary"
+                  sx={{ fontWeight: 600, whiteSpace: 'nowrap' }}
+                >
                   Question {current + 1} of {questions.length}
                 </Typography>
                 <Typography
@@ -389,6 +393,7 @@ const Exam = () => {
                     fontWeight: 600,
                     color: 'text.primary',
                     lineHeight: 1.2,
+                    whiteSpace: 'nowrap',
                     display: { xs: 'none', sm: 'block' },
                   }}
                 >
