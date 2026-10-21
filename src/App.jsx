@@ -1,4 +1,4 @@
-import { lazy, Suspense } from 'react';
+import { lazy, Suspense, useEffect } from 'react';
 import { BrowserRouter, Navigate, Route, Routes, useLocation } from 'react-router-dom';
 import Box from '@mui/material/Box';
 import CircularProgress from '@mui/material/CircularProgress';
@@ -34,6 +34,42 @@ const PageLoader = () => (
   </Box>
 );
 
+/**
+ * The header links to sections of the landing page (`/#subjects`), so a hash
+ * in the URL has to be scrolled to once the page has actually rendered. A
+ * route change without a hash goes back to the top.
+ */
+const ScrollManager = () => {
+  const { pathname, hash } = useLocation();
+
+  useEffect(() => {
+    let frame = 0;
+    let attempt = 0;
+
+    const scroll = () => {
+      if (hash) {
+        const target = document.getElementById(hash.slice(1));
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          return;
+        }
+      }
+      if (attempt < 8) {
+        attempt += 1;
+        frame = window.setTimeout(scroll, 80);
+        return;
+      }
+      window.scrollTo({ top: 0 });
+    };
+
+    frame = window.setTimeout(scroll, 40);
+
+    return () => window.clearTimeout(frame);
+  }, [pathname, hash]);
+
+  return null;
+};
+
 const Layout = ({ children }) => {
   const location = useLocation();
   const isExam = location.pathname.startsWith('/exam/');
@@ -59,6 +95,7 @@ const Layout = ({ children }) => {
     >
       <Navbar />
       <Box component="main" sx={{ flexGrow: 1 }}>
+        <ScrollManager />
         <ErrorBoundary resetKey={location.pathname}>{children}</ErrorBoundary>
       </Box>
       <Footer />

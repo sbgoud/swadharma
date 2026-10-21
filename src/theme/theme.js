@@ -347,6 +347,16 @@ const darkPalette = {
   divider: 'rgba(233, 242, 241, 0.12)',
 };
 
+/**
+ * Turns a theme palette path such as `primary.main` into the actual colour
+ * value. `alpha()` only understands real CSS colours, never palette paths.
+ */
+export const resolveColor = (theme, color) => {
+  if (!color || typeof color !== 'string' || !color.includes('.')) return color;
+  const [group, key] = color.split('.');
+  return theme.palette?.[group]?.[key] ?? color;
+};
+
 export const buildTheme = (mode = 'light') =>
   createTheme({
     palette: mode === 'dark' ? darkPalette : lightPalette,

@@ -3,18 +3,15 @@ import { Link as RouterLink } from 'react-router-dom';
 import Accordion from '@mui/material/Accordion';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import AccordionSummary from '@mui/material/AccordionSummary';
-import Avatar from '@mui/material/Avatar';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import Chip from '@mui/material/Chip';
 import Container from '@mui/material/Container';
-import Divider from '@mui/material/Divider';
 import Grid from '@mui/material/Grid';
 import LinearProgress from '@mui/material/LinearProgress';
 import Paper from '@mui/material/Paper';
-import Rating from '@mui/material/Rating';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 import { alpha } from '@mui/material/styles';
@@ -28,13 +25,15 @@ import MenuBookRoundedIcon from '@mui/icons-material/MenuBookRounded';
 import PublicRoundedIcon from '@mui/icons-material/PublicRounded';
 import ScheduleRoundedIcon from '@mui/icons-material/ScheduleRounded';
 import SecurityRoundedIcon from '@mui/icons-material/SecurityRounded';
-import StarRoundedIcon from '@mui/icons-material/StarRounded';
 import TimerRoundedIcon from '@mui/icons-material/TimerRounded';
 import TuneRoundedIcon from '@mui/icons-material/TuneRounded';
 import WorkspacePremiumRoundedIcon from '@mui/icons-material/WorkspacePremiumRounded';
 import { fetchSubjectCounts } from '../services/examService';
 import { useAuth } from '../context/AuthContext';
-import { SectionHeading } from '../components/ui';
+import { CtaBand, Eyebrow, SectionHeading } from '../components/ui';
+import { resolveColor } from '../theme/theme';
+import ScoreDonut from '../components/charts/ScoreDonut';
+import SubjectBars from '../components/charts/SubjectBars';
 import { heroGradient } from '../theme/theme';
 
 const SUBJECT_ICONS = {
@@ -50,90 +49,65 @@ const SUBJECT_ICONS = {
 
 const FEATURES = [
   {
-    icon: <CheckCircleRoundedIcon />,
-    title: 'Free during launch',
-    body: 'Practice is free while the platform is in its launch period — no subscription, no coupon, no trial limit. Create an account and attempt as many papers as you want.',
-    accent: '#16A34A',
-  },
-  {
     icon: <TimerRoundedIcon />,
     title: 'Real CBT conditions',
-    body: 'A server-side timer, 100 questions in 120 minutes and an on-screen palette — exactly like the UPSC prelims console.',
-    accent: '#4F46E5',
+    body: 'A server-side clock, 100 questions in 120 minutes and an on-screen palette — the same shape as the prelims console.',
+    accent: 'primary.main',
   },
   {
     icon: <EmojiEventsRoundedIcon />,
     title: 'Official marking scheme',
-    body: '+2 for a correct answer, −0.66 for a wrong one, 0 for a blank. The server scores your paper, so the result can never be tampered with.',
-    accent: '#D97706',
+    body: '+2 for a correct answer, −0.66 for a wrong one, 0 for a blank. The server scores the paper, so a result cannot be tampered with.',
+    accent: 'warning.main',
   },
   {
     icon: <MenuBookRoundedIcon />,
-    title: 'Explanations for every question',
-    body: 'The answer key stays hidden until you submit, then every question comes with the correct option and a written explanation.',
-    accent: '#7C3AED',
+    title: 'An explanation for every question',
+    body: 'The answer key stays hidden until you submit. After that each question comes with the correct option, the source and a written explanation.',
+    accent: 'info.main',
   },
   {
     icon: <SecurityRoundedIcon />,
-    title: 'Fair, balanced papers',
-    body: 'Questions are sampled fresh from the server for every attempt and distributed evenly across the subjects you choose.',
-    accent: '#0EA5E9',
+    title: 'Fresh papers, fairly drawn',
+    body: 'Questions are sampled from the server for every attempt and spread evenly across the subjects you choose.',
+    accent: 'success.main',
   },
   {
     icon: <InsightsRoundedIcon />,
     title: 'Analytics and history',
-    body: 'Track your accuracy over time, compare subject-wise performance and revisit every question you attempted.',
-    accent: '#DB2777',
+    body: 'Track accuracy over time, compare subject-wise performance and revisit every question you have attempted.',
+    accent: 'primary.main',
+  },
+  {
+    icon: <BoltRoundedIcon />,
+    title: 'Your pace, your length',
+    body: 'One subject or a mixed paper, ten to a hundred and fifty questions, easy or hard. The timer scales to the paper you build.',
+    accent: 'info.main',
   },
 ];
 
 const STEPS = [
   {
+    icon: <SecurityRoundedIcon />,
     title: 'Create your account',
-    body: 'Sign up with an email address in under a minute. No payment details, no OTP, no waiting.',
+    body: 'Sign up with an e-mail address and verify it with a six-digit code. No card is needed to start.',
   },
   {
+    icon: <TuneRoundedIcon />,
     title: 'Build your paper',
-    body: 'Pick one subject or mix several, choose 10 to 150 questions and filter by difficulty.',
+    body: 'Pick one subject or mix several, choose the number of questions and filter by difficulty.',
   },
   {
+    icon: <EmojiEventsRoundedIcon />,
     title: 'Attempt and learn',
     body: 'Answer on a real timer, submit, and get an instant score with full solutions and explanations.',
   },
 ];
 
-const TESTIMONIALS = [
-  {
-    name: 'Ananya R.',
-    role: 'Civil Services aspirant, batch 2026',
-    quote:
-      'The timer and the palette behave exactly like the real prelims console. Being able to attempt full-length papers free during the launch period changed my preparation completely.',
-    initials: 'AR',
-  },
-  {
-    name: 'Imran S.',
-    role: 'UPSC CSE 2024 aspirant',
-    quote:
-      'I used to solve random PDFs. Here every paper is freshly sampled, marked on the official scheme and explained — the analytics page is what I check every week.',
-    initials: 'IS',
-  },
-  {
-    name: 'Kavya M.',
-    role: 'GS aspirant, tier-1 coaching candidate',
-    quote:
-      'Explanations are the highlight. After submitting I get the exact source and the reasoning, which is far more useful than just a score.',
-    initials: 'KM',
-  },
-];
-
 const FAQS = [
   {
-    q: 'Is Swadharma IAS free to use?',
-    a: 'During the launch period, yes — there is no pricing page, no checkout and no payment code anywhere in the product. Papers, explanations and analytics are available to any signed-in aspirant.',
-  },
-  {
     q: 'How is the question paper generated?',
-    a: 'When you start an exam the server samples questions at random from the pool of the subjects you selected, distributing them evenly across those subjects. The same question set is never repeated across two attempts.',
+    a: 'When you start a paper the server samples questions at random from the pool of the subjects you selected, distributing them evenly across those subjects. The same question set is never repeated across two attempts.',
   },
   {
     q: 'What is the marking scheme?',
@@ -145,7 +119,7 @@ const FAQS = [
   },
   {
     q: 'Can I attempt the same paper again?',
-    a: 'Every attempt draws a fresh random set of questions, so repeated practice always tests you on new questions. You can run as many papers as you like.',
+    a: 'Every attempt draws a fresh random set of questions, so repeated practice always tests you on new questions.',
   },
   {
     q: 'Do I get explanations for the questions?',
@@ -155,8 +129,13 @@ const FAQS = [
     q: 'Is this affiliated with UPSC?',
     a: 'No. Swadharma IAS is an independent practice platform. It is not affiliated with, endorsed by or connected to the Union Public Service Commission.',
   },
+  {
+    q: 'Which exams does the series cover?',
+    a: 'The question bank is built around the General Studies prelims syllabus shared by UPSC, TGPSC and APPSC, and papers can be drawn from any combination of the eight subjects.',
+  },
 ];
 
+/** A static preview of the exam console — markup only, no data behind it. */
 const HeroMock = () => {
   const options = [
     { label: 'A', text: 'Article 21 — Right to Life and Personal Liberty', active: true },
@@ -170,24 +149,22 @@ const HeroMock = () => {
       <Paper
         elevation={0}
         sx={{
-          borderRadius: 5,
+          borderRadius: '28px',
           border: '1px solid',
           borderColor: 'divider',
           overflow: 'hidden',
-          boxShadow: '0 40px 80px -40px rgba(15, 23, 42, 0.45)',
+          boxShadow: '0 40px 80px -44px rgba(16, 26, 28, 0.55)',
           bgcolor: 'background.paper',
         }}
       >
         <Stack
           direction="row"
-          
-          
-          sx={{ alignItems: 'center', justifyContent: 'space-between', px: 2.5, py: 1.75, borderBottom: '1px solid', borderColor: 'divider' }}
+          sx={{ alignItems: 'center', justifyContent: 'space-between', px: 2.5, py: 1.6, borderBottom: '1px solid', borderColor: 'divider' }}
         >
           <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center' }}>
-            <Box sx={{ width: 10, height: 10, borderRadius: '50%', bgcolor: '#F87171' }} />
-            <Box sx={{ width: 10, height: 10, borderRadius: '50%', bgcolor: '#FBBF24' }} />
-            <Box sx={{ width: 10, height: 10, borderRadius: '50%', bgcolor: '#34D399' }} />
+            <Box sx={{ width: 10, height: 10, borderRadius: '50%', bgcolor: '#E5756B' }} />
+            <Box sx={{ width: 10, height: 10, borderRadius: '50%', bgcolor: '#E0A33C' }} />
+            <Box sx={{ width: 10, height: 10, borderRadius: '50%', bgcolor: '#5FB08A' }} />
             <Typography variant="caption" color="text.secondary" sx={{ ml: 1, fontWeight: 600 }}>
               GS Paper I · Live console
             </Typography>
@@ -196,13 +173,21 @@ const HeroMock = () => {
             icon={<TimerRoundedIcon sx={{ fontSize: 16 }} />}
             label="01:47:22"
             size="small"
-            sx={{ bgcolor: (theme) => alpha(theme.palette.primary.main, 0.1), color: 'primary.main', fontVariantNumeric: 'tabular-nums' }}
+            sx={{
+              bgcolor: (theme) => alpha(theme.palette.primary.main, 0.1),
+              color: 'primary.main',
+              fontVariantNumeric: 'tabular-nums',
+            }}
           />
         </Stack>
 
         <Box sx={{ p: 2.5 }}>
           <Stack direction="row" spacing={1} sx={{ mb: 1.5 }}>
-            <Chip label="Polity" size="small" sx={{ bgcolor: (theme) => alpha(theme.palette.primary.main, 0.1), color: 'primary.main' }} />
+            <Chip
+              label="Polity"
+              size="small"
+              sx={{ bgcolor: (theme) => alpha(theme.palette.primary.main, 0.1), color: 'primary.main' }}
+            />
             <Chip label="Fundamental Rights" size="small" variant="outlined" />
           </Stack>
           <Typography sx={{ fontWeight: 600, color: 'text.primary', lineHeight: 1.6, fontSize: '0.95rem' }}>
@@ -216,10 +201,10 @@ const HeroMock = () => {
                 key={option.label}
                 direction="row"
                 spacing={1.5}
-                
-                sx={{ alignItems: 'center',
+                sx={{
+                  alignItems: 'center',
                   p: 1.25,
-                  borderRadius: 2.5,
+                  borderRadius: '12px',
                   border: '1.5px solid',
                   borderColor: option.active ? 'primary.main' : 'divider',
                   bgcolor: option.active ? (theme) => alpha(theme.palette.primary.main, 0.07) : 'transparent',
@@ -255,7 +240,7 @@ const HeroMock = () => {
               62 answered · 38 remaining
             </Typography>
             <Typography variant="caption" sx={{ color: 'success.main', fontWeight: 700 }}>
-              Save & next →
+              Save &amp; next →
             </Typography>
           </Stack>
         </Box>
@@ -266,24 +251,25 @@ const HeroMock = () => {
         className="float-soft"
         sx={{
           position: 'absolute',
-          bottom: -26,
-          left: -28,
+          bottom: -40,
+          left: -24,
           display: { xs: 'none', sm: 'flex' },
           alignItems: 'center',
           gap: 1.25,
           px: 2,
           py: 1.25,
-          borderRadius: 3,
+          borderRadius: '16px',
           border: '1px solid',
           borderColor: 'divider',
-          boxShadow: '0 24px 50px -28px rgba(15, 23, 42, 0.5)',
+          boxShadow: '0 24px 50px -30px rgba(16, 26, 28, 0.5)',
+          bgcolor: 'background.paper',
         }}
       >
         <Box
           sx={{
             width: 32,
             height: 32,
-            borderRadius: 2,
+            borderRadius: '10px',
             display: 'grid',
             placeItems: 'center',
             bgcolor: (theme) => alpha(theme.palette.success.main, 0.12),
@@ -304,6 +290,32 @@ const HeroMock = () => {
     </Box>
   );
 };
+
+/** A static preview of the result review — the payoff of submitting a paper. */
+const ResultMock = () => (
+  <Paper
+    variant="outlined"
+    sx={{ borderRadius: '20px', p: { xs: 2.5, md: 3 }, bgcolor: 'background.paper' }}
+    aria-hidden="true"
+  >
+    <Stack direction={{ xs: 'column', sm: 'row' }} spacing={3.5} sx={{ alignItems: 'center' }}>
+      <ScoreDonut value={72} size={132} stroke={12} caption="Paper 1" />
+      <Box sx={{ width: '100%' }}>
+        <Typography variant="subtitle2" sx={{ fontWeight: 700, color: 'text.primary', mb: 2 }}>
+          Subject-wise accuracy
+        </Typography>
+        <SubjectBars
+          valueLabel="Accuracy"
+          data={[
+            { label: 'Polity', value: 78, caption: '39 / 50' },
+            { label: 'History', value: 64, caption: '32 / 50' },
+            { label: 'Economy', value: 51, caption: '25 / 50' },
+          ]}
+        />
+      </Box>
+    </Stack>
+  </Paper>
+);
 
 const Home = () => {
   const { user } = useAuth();
@@ -332,14 +344,18 @@ const Home = () => {
   const ctaHref = user ? '/dashboard' : '/login';
 
   const stats = [
-    { label: 'General Studies subjects', value: subjects.length || '8', icon: <MenuBookRoundedIcon /> },
+    {
+      label: 'General Studies subjects',
+      value: subjects.length ? String(subjects.length) : '8',
+      icon: <MenuBookRoundedIcon />,
+    },
     {
       label: 'Practice questions',
       value: totalQuestions ? totalQuestions.toLocaleString('en-IN') : '8,000+',
       icon: <CheckCircleRoundedIcon />,
     },
-    { label: 'Price during launch', value: 'Free', icon: <EmojiEventsRoundedIcon /> },
-    { label: 'Papers during launch', value: 'Unlimited', icon: <BoltRoundedIcon /> },
+    { label: 'Minutes in a full paper', value: '120', icon: <TimerRoundedIcon /> },
+    { label: 'Marks per correct answer', value: '+2', icon: <EmojiEventsRoundedIcon /> },
   ];
 
   return (
@@ -354,38 +370,28 @@ const Home = () => {
           pb: { xs: 9, md: 14 },
           background: (theme) =>
             theme.palette.mode === 'dark'
-              ? 'radial-gradient(70% 60% at 15% 0%, rgba(79,70,229,0.35) 0%, transparent 60%), radial-gradient(60% 60% at 85% 10%, rgba(124,58,237,0.25) 0%, transparent 60%)'
-              : 'radial-gradient(70% 60% at 15% 0%, rgba(79,70,229,0.16) 0%, transparent 60%), radial-gradient(60% 60% at 85% 10%, rgba(124,58,237,0.12) 0%, transparent 60%)',
+              ? 'radial-gradient(90% 70% at 78% 8%, rgba(45, 212, 191, 0.10) 0%, transparent 62%)'
+              : 'radial-gradient(90% 70% at 78% 8%, rgba(15, 118, 110, 0.09) 0%, transparent 62%)',
         }}
       >
-        <Box className="soft-grid" sx={{ position: 'absolute', inset: 0, opacity: 0.6, maskImage: 'linear-gradient(180deg, rgba(0,0,0,0.6), transparent 70%)' }} />
         <Container maxWidth="xl" sx={{ position: 'relative' }}>
           <Grid container spacing={{ xs: 6, lg: 8 }} sx={{ alignItems: 'center' }}>
             <Grid size={{ xs: 12, md: 6 }}>
               <Box className="rise-in">
-                <Chip
-                  icon={<BoltRoundedIcon sx={{ fontSize: 16 }} />}
-                  label="UPSC Prelims test series · free during launch"
-                  sx={{
-                    bgcolor: (theme) => alpha(theme.palette.primary.main, 0.1),
-                    color: 'primary.main',
-                    fontWeight: 700,
-                    mb: 3,
-                    '& .MuiChip-icon': { color: 'primary.main' },
-                  }}
-                />
+                <Box sx={{ mb: 3 }}>
+                  <Eyebrow>UPSC · TGPSC · APPSC prelims</Eyebrow>
+                </Box>
 
                 <Typography variant="h1" sx={{ color: 'text.primary', mb: 2.5 }}>
-                  Practise the UPSC Prelims
-                  <Box component="span" className="gradient-text" sx={{ display: 'block' }}>
-                    the way the exam works.
-                  </Box>
+                  Practise the prelims the way they are actually run.
                 </Typography>
 
-                <Typography variant="body1" sx={{ color: 'text.secondary', fontSize: '1.075rem', maxWidth: 560, mb: 4 }}>
-                  Real timed papers, the official marking scheme, detailed explanations for every
-                  answer and a full attempt history. Server-sampled questions, honest scores and
-                  free practice during launch — for every aspirant.
+                <Typography
+                  variant="body1"
+                  sx={{ color: 'text.secondary', fontSize: '1.075rem', maxWidth: 560, mb: 4 }}
+                >
+                  Timed papers on a server clock, the official marking scheme, an explanation
+                  behind every answer and a history of every attempt you have made.
                 </Typography>
 
                 <Stack direction={{ xs: 'column', sm: 'row' }} spacing={1.75} sx={{ mb: 4 }}>
@@ -396,7 +402,7 @@ const Home = () => {
                     size="large"
                     endIcon={<ArrowForwardRoundedIcon />}
                   >
-                    {user ? 'Go to dashboard' : 'Start practising free'}
+                    {user ? 'Go to dashboard' : 'Start practising free today'}
                   </Button>
                   <Button
                     component={RouterLink}
@@ -410,23 +416,23 @@ const Home = () => {
                   </Button>
                 </Stack>
 
-                <Stack direction={{ xs: 'column', sm: 'row' }} spacing={{ xs: 1.5, sm: 4 }}>
-                  <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center' }}>
-                    <Stack direction="row" spacing={0.25}>
-                      {[0, 1, 2, 3, 4].map((star) => (
-                        <StarRoundedIcon key={star} sx={{ color: '#F59E0B', fontSize: 20 }} />
-                      ))}
+                <Stack
+                  direction={{ xs: 'column', sm: 'row' }}
+                  spacing={{ xs: 1, sm: 3 }}
+                  sx={{ rowGap: 1 }}
+                >
+                  {[
+                    'No card needed to start',
+                    'Scored on the server',
+                    'Explanations after you submit',
+                  ].map((item) => (
+                    <Stack key={item} direction="row" spacing={1} sx={{ alignItems: 'center' }}>
+                      <CheckCircleRoundedIcon sx={{ color: 'success.main', fontSize: 18 }} />
+                      <Typography variant="body2" color="text.secondary">
+                        {item}
+                      </Typography>
                     </Stack>
-                    <Typography variant="body2" color="text.secondary">
-                      4.8 average learner rating
-                    </Typography>
-                  </Stack>
-                  <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center' }}>
-                    <CheckCircleRoundedIcon sx={{ color: 'success.main', fontSize: 20 }} />
-                    <Typography variant="body2" color="text.secondary">
-                      No card needed to start
-                    </Typography>
-                  </Stack>
+                  ))}
                 </Stack>
               </Box>
             </Grid>
@@ -440,16 +446,17 @@ const Home = () => {
         </Container>
       </Box>
 
-      {/* -------------------------------------------------------------- Stats */}
+      {/* -------------------------------------------------------------- Facts */}
       <Container maxWidth="xl" sx={{ mt: { xs: -4, md: -6 }, position: 'relative' }}>
         <Paper
           elevation={0}
           sx={{
-            borderRadius: 5,
+            borderRadius: '28px',
             border: '1px solid',
             borderColor: 'divider',
             p: { xs: 2.5, md: 3.5 },
-            boxShadow: '0 30px 60px -40px rgba(15, 23, 42, 0.5)',
+            bgcolor: 'background.paper',
+            boxShadow: '0 30px 60px -44px rgba(16, 26, 28, 0.5)',
           }}
         >
           <Grid container spacing={2}>
@@ -460,7 +467,7 @@ const Home = () => {
                     sx={{
                       width: 42,
                       height: 42,
-                      borderRadius: 3,
+                      borderRadius: '16px',
                       display: 'grid',
                       placeItems: 'center',
                       bgcolor: (theme) => alpha(theme.palette.primary.main, 0.1),
@@ -472,11 +479,12 @@ const Home = () => {
                   </Box>
                   <Box sx={{ minWidth: 0 }}>
                     <Typography
+                      className="tabular"
                       sx={{
-                        fontFamily: '"Poppins", sans-serif',
-                        fontWeight: 700,
-                        fontSize: '1.25rem',
-                        lineHeight: 1.2,
+                        fontFamily: '"Fraunces Variable", Georgia, serif',
+                        fontWeight: 600,
+                        fontSize: '1.3rem',
+                        lineHeight: 1.25,
                         color: 'text.primary',
                       }}
                     >
@@ -497,36 +505,42 @@ const Home = () => {
       <Box component="section" sx={{ py: { xs: 8, md: 12 } }}>
         <Container maxWidth="xl">
           <SectionHeading
-            eyebrow="Why aspirants choose us"
-            title="Built like the real thing, open to everyone"
-            subtitle="Everything a serious UPSC aspirant needs to practise at the real exam standard — all of it open while the platform is in its launch period."
+            eyebrow="What you get"
+            title="A console, not a quiz app"
+            subtitle="Everything a serious aspirant needs to practise at the real exam standard, and nothing that gets in the way of a paper."
           />
 
           <Grid container spacing={2.5} sx={{ mt: { xs: 4, md: 6 } }}>
             {FEATURES.map((feature) => (
               <Grid key={feature.title} size={{ xs: 12, sm: 6, md: 4 }}>
                 <Card
+                  variant="outlined"
                   sx={{
                     height: '100%',
-                    '&:hover': { transform: 'translateY(-4px)', boxShadow: 6 },
+                    borderRadius: '20px',
+                    transition: 'transform 220ms ease, box-shadow 220ms ease, border-color 220ms ease',
+                    '&:hover': {
+                      transform: 'translateY(-3px)',
+                      borderColor: (theme) => alpha(resolveColor(theme, feature.accent), 0.4),
+                    },
                   }}
                 >
                   <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
                     <Box
                       sx={{
-                        width: 48,
-                        height: 48,
-                        borderRadius: 3,
+                        width: 46,
+                        height: 46,
+                        borderRadius: '16px',
                         display: 'grid',
                         placeItems: 'center',
                         mb: 2.25,
                         color: feature.accent,
-                        bgcolor: alpha(feature.accent, 0.12),
+                        bgcolor: (theme) => alpha(resolveColor(theme, feature.accent), 0.12),
                       }}
                     >
                       {feature.icon}
                     </Box>
-                    <Typography variant="h6" sx={{ fontWeight: 700, mb: 1, color: 'text.primary' }}>
+                    <Typography variant="h6" sx={{ fontWeight: 600, mb: 1, color: 'text.primary' }}>
                       {feature.title}
                     </Typography>
                     <Typography variant="body2" color="text.secondary" sx={{ lineHeight: 1.75 }}>
@@ -544,7 +558,12 @@ const Home = () => {
       <Box
         component="section"
         id="how-it-works"
-        sx={{ py: { xs: 8, md: 12 }, bgcolor: (theme) => (theme.palette.mode === 'dark' ? 'rgba(148,163,184,0.04)' : '#F1F3FB') }}
+        sx={{
+          py: { xs: 8, md: 12 },
+          bgcolor: (theme) => alpha(theme.palette.primary.main, theme.palette.mode === 'dark' ? 0.05 : 0.035),
+          borderBlock: '1px solid',
+          borderColor: 'divider',
+        }}
       >
         <Container maxWidth="xl">
           <SectionHeading
@@ -560,22 +579,23 @@ const Home = () => {
                   variant="outlined"
                   sx={{
                     p: 3.5,
-                    borderRadius: 4,
+                    borderRadius: '20px',
                     height: '100%',
                     position: 'relative',
                     overflow: 'hidden',
-                    borderColor: 'divider',
+                    bgcolor: 'background.paper',
                   }}
                 >
                   <Typography
+                    className="tabular"
                     sx={{
                       position: 'absolute',
                       right: 18,
-                      top: 6,
-                      fontFamily: '"Poppins", sans-serif',
-                      fontSize: '3.5rem',
-                      fontWeight: 800,
-                      color: (theme) => alpha(theme.palette.primary.main, 0.1),
+                      top: 4,
+                      fontFamily: '"Fraunces Variable", Georgia, serif',
+                      fontSize: '3.75rem',
+                      fontWeight: 600,
+                      color: (theme) => alpha(theme.palette.primary.main, 0.12),
                       lineHeight: 1,
                     }}
                   >
@@ -585,18 +605,18 @@ const Home = () => {
                     sx={{
                       width: 44,
                       height: 44,
-                      borderRadius: 3,
+                      borderRadius: '16px',
                       display: 'grid',
                       placeItems: 'center',
                       background: heroGradient,
                       color: '#fff',
                       mb: 2.25,
-                      boxShadow: '0 12px 24px -12px rgba(79,70,229,0.9)',
+                      boxShadow: '0 12px 24px -14px rgba(15, 118, 110, 0.9)',
                     }}
                   >
-                    {index === 0 ? <SecurityRoundedIcon /> : index === 1 ? <TuneRoundedIcon /> : <EmojiEventsRoundedIcon />}
+                    {step.icon}
                   </Box>
-                  <Typography variant="h6" sx={{ fontWeight: 700, mb: 1, color: 'text.primary' }}>
+                  <Typography variant="h6" sx={{ fontWeight: 600, mb: 1, color: 'text.primary' }}>
                     {step.title}
                   </Typography>
                   <Typography variant="body2" color="text.secondary" sx={{ lineHeight: 1.75 }}>
@@ -619,7 +639,7 @@ const Home = () => {
           />
 
           {status === 'error' && (
-            <Paper variant="outlined" sx={{ mt: 4, p: 3, borderRadius: 4, textAlign: 'center' }}>
+            <Paper variant="outlined" sx={{ mt: 4, p: 3, borderRadius: '20px', textAlign: 'center' }}>
               <Typography variant="body2" color="text.secondary">
                 The question bank is being prepared. Please refresh in a moment — the subjects and
                 their question counts appear here as soon as the database is ready.
@@ -633,25 +653,28 @@ const Home = () => {
               return (
                 <Grid key={subject.slug} size={{ xs: 12, sm: 6, md: 3 }}>
                   <Card
+                    variant="outlined"
                     sx={{
                       height: '100%',
-                      '&:hover': { transform: 'translateY(-4px)', boxShadow: 6 },
+                      borderRadius: '20px',
+                      transition: 'transform 220ms ease, box-shadow 220ms ease',
+                      '&:hover': { transform: 'translateY(-3px)' },
                     }}
                   >
                     <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
                       <Stack direction="row" sx={{ justifyContent: 'space-between', alignItems: 'flex-start', mb: 2 }}>
                         <Box
                           sx={{
-                            width: 46,
-                            height: 46,
-                            borderRadius: 3,
+                            width: 44,
+                            height: 44,
+                            borderRadius: '16px',
                             display: 'grid',
                             placeItems: 'center',
                             bgcolor: (theme) => alpha(theme.palette.primary.main, 0.1),
                             color: 'primary.main',
                           }}
                         >
-                          <Icon />
+                          <Icon fontSize="small" />
                         </Box>
                         <Chip
                           label={`${subject.question_count || 0} Q`}
@@ -659,7 +682,7 @@ const Home = () => {
                           sx={{ bgcolor: 'action.hover', color: 'text.secondary' }}
                         />
                       </Stack>
-                      <Typography variant="h6" sx={{ fontWeight: 700, color: 'text.primary', mb: 0.75 }}>
+                      <Typography variant="h6" sx={{ fontWeight: 600, color: 'text.primary', mb: 0.75 }}>
                         {subject.name}
                       </Typography>
                       {subject.description && (
@@ -673,7 +696,7 @@ const Home = () => {
                         size="small"
                         variant="text"
                         endIcon={<ArrowForwardRoundedIcon />}
-                        sx={{ px: 0 }}
+                        sx={{ px: 0, color: 'primary.main' }}
                       >
                         Practise this subject
                       </Button>
@@ -686,45 +709,43 @@ const Home = () => {
         </Container>
       </Box>
 
-      {/* ------------------------------------------------------ Testimonials */}
+      {/* --------------------------------------------------- After you submit */}
       <Box
         component="section"
-        sx={{ py: { xs: 8, md: 12 }, bgcolor: (theme) => (theme.palette.mode === 'dark' ? 'rgba(148,163,184,0.04)' : '#F1F3FB') }}
+        sx={{
+          py: { xs: 8, md: 12 },
+          bgcolor: (theme) => alpha(theme.palette.primary.main, theme.palette.mode === 'dark' ? 0.05 : 0.035),
+          borderBlock: '1px solid',
+          borderColor: 'divider',
+        }}
       >
         <Container maxWidth="xl">
-          <SectionHeading
-            eyebrow="Learner stories"
-            title="Aspirants who practise here every week"
-            subtitle="No paid testimonials — just how the platform fits into a daily preparation routine."
-          />
-
-          <Grid container spacing={2.5} sx={{ mt: { xs: 4, md: 6 } }}>
-            {TESTIMONIALS.map((item) => (
-              <Grid key={item.name} size={{ xs: 12, md: 4 }}>
-                <Card sx={{ height: '100%' }}>
-                  <CardContent sx={{ p: 3.25, '&:last-child': { pb: 3.25 } }}>
-                    <Rating value={5} readOnly size="small" sx={{ color: '#F59E0B', mb: 1.5 }} />
-                    <Typography variant="body2" color="text.primary" sx={{ lineHeight: 1.8, mb: 2.5 }}>
-                      “{item.quote}”
+          <Grid container spacing={{ xs: 5, md: 7 }} sx={{ alignItems: 'center' }}>
+            <Grid size={{ xs: 12, md: 5 }}>
+              <SectionHeading
+                eyebrow="After you submit"
+                title="A score is only the start"
+                subtitle="Every submitted paper opens into a full review: where the marks came from, which subjects need work and the reasoning behind each answer."
+              />
+              <Stack spacing={1.5} sx={{ mt: 3.5 }}>
+                {[
+                  'A score gauge and a subject-wise accuracy breakdown',
+                  'Every question, your answer and the correct one side by side',
+                  'A written explanation with the source and year where known',
+                  'A history entry you can compare against the next attempt',
+                ].map((item) => (
+                  <Stack key={item} direction="row" spacing={1.25} sx={{ alignItems: 'flex-start' }}>
+                    <CheckCircleRoundedIcon sx={{ color: 'primary.main', fontSize: 19, mt: 0.2 }} />
+                    <Typography variant="body2" color="text.secondary" sx={{ lineHeight: 1.7 }}>
+                      {item}
                     </Typography>
-                    <Divider sx={{ mb: 2 }} />
-                    <Stack direction="row" spacing={1.5} sx={{ alignItems: 'center' }}>
-                      <Avatar sx={{ bgcolor: 'primary.main', width: 42, height: 42 }}>
-                        {item.initials}
-                      </Avatar>
-                      <Box>
-                        <Typography variant="subtitle2" sx={{ fontWeight: 700, color: 'text.primary' }}>
-                          {item.name}
-                        </Typography>
-                        <Typography variant="caption" color="text.secondary">
-                          {item.role}
-                        </Typography>
-                      </Box>
-                    </Stack>
-                  </CardContent>
-                </Card>
-              </Grid>
-            ))}
+                  </Stack>
+                ))}
+              </Stack>
+            </Grid>
+            <Grid size={{ xs: 12, md: 7 }}>
+              <ResultMock />
+            </Grid>
           </Grid>
         </Container>
       </Box>
@@ -735,13 +756,17 @@ const Home = () => {
           <SectionHeading
             eyebrow="FAQ"
             title="Questions every aspirant asks"
-            subtitle="Everything about the papers, the timing, the marking and access."
+            subtitle="Everything about the papers, the timing, the marking and the questions."
           />
 
           <Stack spacing={1.25} sx={{ mt: { xs: 4, md: 5 } }}>
             {FAQS.map((item) => (
               <Accordion key={item.q} disableGutters>
-                <AccordionSummary expandIcon={<ExpandMoreRoundedIcon />} aria-controls={`faq-${item.q}`} id={`faq-${item.q}`}>
+                <AccordionSummary
+                  expandIcon={<ExpandMoreRoundedIcon />}
+                  aria-controls={`faq-${item.q}`}
+                  id={`faq-${item.q}`}
+                >
                   <Typography variant="subtitle1" sx={{ fontWeight: 600, color: 'text.primary' }}>
                     {item.q}
                   </Typography>
@@ -759,57 +784,14 @@ const Home = () => {
 
       {/* --------------------------------------------------------- Final CTA */}
       <Container maxWidth="xl" sx={{ pb: { xs: 2, md: 4 } }}>
-        <Paper
-          elevation={0}
-          sx={{
-            borderRadius: 6,
-            p: { xs: 4, md: 7 },
-            textAlign: 'center',
-            background: heroGradient,
-            color: '#fff',
-            position: 'relative',
-            overflow: 'hidden',
-            boxShadow: '0 40px 80px -40px rgba(79, 70, 229, 0.75)',
-          }}
-        >
-          <Box
-            sx={{
-              position: 'absolute',
-              inset: 0,
-              background:
-                'radial-gradient(60% 60% at 20% 10%, rgba(255,255,255,0.22) 0%, transparent 60%), radial-gradient(50% 50% at 85% 90%, rgba(255,255,255,0.16) 0%, transparent 60%)',
-            }}
-          />
-          <Box sx={{ position: 'relative' }}>
-            <Typography variant="h2" sx={{ color: '#fff', mb: 1.5 }}>
-              Your first paper is two clicks away
-            </Typography>
-            <Typography sx={{ color: 'rgba(255,255,255,0.85)', maxWidth: 620, mx: 'auto', mb: 4, fontSize: '1.05rem' }}>
-              Create your account, pick your subjects and start. Timed papers, official
-              marking and full explanations — free during launch for every aspirant.
-            </Typography>
-            <Stack direction={{ xs: 'column', sm: 'row' }} spacing={2} sx={{ justifyContent: 'center' }}>
-              <Button
-                component={RouterLink}
-                to={ctaHref}
-                variant="contained"
-                size="large"
-                sx={{ bgcolor: '#fff', color: '#312E81', '&:hover': { bgcolor: '#EEF2FF' } }}
-              >
-                {user ? 'Open dashboard' : 'Create your account'}
-              </Button>
-              <Button
-                component={RouterLink}
-                to="/#subjects"
-                variant="outlined"
-                size="large"
-                sx={{ borderColor: 'rgba(255,255,255,0.5)', color: '#fff' }}
-              >
-                Browse subjects
-              </Button>
-            </Stack>
-          </Box>
-        </Paper>
+        <CtaBand
+          title="Your first paper is two clicks away"
+          description="Create an account, pick your subjects and start. Timed papers, the official marking scheme and a full explanation behind every answer."
+          actionLabel={user ? 'Open dashboard' : 'Create a free account'}
+          actionHref={ctaHref}
+          secondaryLabel="Browse the subjects"
+          secondaryHref="/#subjects"
+        />
       </Container>
     </Box>
   );

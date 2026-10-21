@@ -1,3 +1,4 @@
+import { Link as RouterLink } from 'react-router-dom';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Paper from '@mui/material/Paper';
@@ -6,6 +7,7 @@ import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 import { alpha } from '@mui/material/styles';
 import ArrowForwardRoundedIcon from '@mui/icons-material/ArrowForwardRounded';
+import { resolveColor } from '../theme/theme';
 
 /**
  * The shared primitives every page is built from.
@@ -26,7 +28,7 @@ const TONES = {
 /** A small tracked label with a hairline rule in front of it. */
 export const Eyebrow = ({ children, tone = 'primary', sx }) => (
   <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center', ...sx }}>
-    <Box sx={{ width: 22, height: 2, borderRadius: 2, bgcolor: `${tone}.main`, flexShrink: 0 }} />
+    <Box sx={{ width: 22, height: 2, borderRadius: '2px', bgcolor: `${tone}.main`, flexShrink: 0 }} />
     <Typography
       component="span"
       variant="overline"
@@ -105,12 +107,13 @@ export const IconTile = ({ icon, color, tone = 'primary', size = 44, filled = fa
       sx={{
         width: size,
         height: size,
-        borderRadius: size > 40 ? 3 : 2.5,
+        borderRadius: size > 40 ? '16px' : '12px',
         display: 'grid',
         placeItems: 'center',
         flexShrink: 0,
-        color: filled ? '#FFFFFF' : shade,
-        bgcolor: filled ? shade : alpha(shade, 0.1),
+        color: (theme) => (filled ? '#FFFFFF' : resolveColor(theme, shade)),
+        bgcolor: (theme) =>
+          filled ? resolveColor(theme, shade) : alpha(resolveColor(theme, shade), 0.1),
         '& svg': { fontSize: size * 0.5 },
         ...sx,
       }}
@@ -126,13 +129,16 @@ export const StatCard = ({ icon, label, value, caption, accent = 'primary.main',
     variant="outlined"
     sx={{
       p: 2.5,
-      borderRadius: 3.5,
+      borderRadius: '20px',
       height: '100%',
       display: 'flex',
       gap: 2,
       alignItems: 'flex-start',
       transition: 'transform 200ms ease, box-shadow 200ms ease, border-color 200ms ease',
-      '&:hover': { transform: 'translateY(-2px)', borderColor: alpha(accent, 0.35) },
+      '&:hover': {
+        transform: 'translateY(-2px)',
+        borderColor: (theme) => alpha(resolveColor(theme, accent), 0.35),
+      },
       ...sx,
     }}
   >
@@ -175,7 +181,7 @@ export const StatCard = ({ icon, label, value, caption, accent = 'primary.main',
 export const EmptyState = ({ icon, title, description, action }) => (
   <Paper
     variant="outlined"
-    sx={{ p: { xs: 4, md: 6 }, textAlign: 'center', borderRadius: 4, borderStyle: 'dashed' }}
+    sx={{ p: { xs: 4, md: 6 }, textAlign: 'center', borderRadius: '24px', borderStyle: 'dashed' }}
   >
     {icon && (
       <Box sx={{ color: 'text.disabled', mb: 2, display: 'grid', placeItems: 'center' }}>{icon}</Box>
@@ -202,11 +208,20 @@ export const LoadingState = ({ lines = 3, height = 90 }) => (
 );
 
 /** A closing band that points at one action. */
-export const CtaBand = ({ title, description, actionLabel, actionHref, onAction, secondaryLabel, onSecondary }) => (
+export const CtaBand = ({
+  title,
+  description,
+  actionLabel,
+  actionHref,
+  onAction,
+  secondaryLabel,
+  secondaryHref,
+  onSecondary,
+}) => (
   <Paper
     variant="outlined"
     sx={{
-      borderRadius: 5,
+      borderRadius: '28px',
       p: { xs: 3.5, md: 5 },
       textAlign: { xs: 'left', md: 'center' },
       background: (theme) =>
@@ -236,7 +251,9 @@ export const CtaBand = ({ title, description, actionLabel, actionHref, onAction,
         <Button
           variant="contained"
           size="large"
-          href={actionHref}
+          component={actionHref ? RouterLink : 'button'}
+          to={actionHref}
+          href={actionHref && !actionHref.startsWith('/') ? actionHref : undefined}
           onClick={onAction}
           endIcon={<ArrowForwardRoundedIcon />}
           sx={{ minWidth: 220 }}
@@ -245,7 +262,15 @@ export const CtaBand = ({ title, description, actionLabel, actionHref, onAction,
         </Button>
       )}
       {secondaryLabel && (
-        <Button variant="outlined" size="large" onClick={onSecondary} sx={{ minWidth: 180 }}>
+        <Button
+          variant="outlined"
+          size="large"
+          component={secondaryHref ? RouterLink : 'button'}
+          to={secondaryHref}
+          href={secondaryHref && !secondaryHref.startsWith('/') ? secondaryHref : undefined}
+          onClick={onSecondary}
+          sx={{ minWidth: 180 }}
+        >
           {secondaryLabel}
         </Button>
       )}
