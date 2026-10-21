@@ -25,13 +25,12 @@ const Profile = lazy(() => import('./pages/Profile'));
 const PageLoader = () => (
   <Box
     sx={{
-      minHeight: '60vh',
+      minHeight: '62vh',
       display: 'grid',
       placeItems: 'center',
-      gap: 2,
     }}
   >
-    <CircularProgress size={38} thickness={4} />
+    <CircularProgress size={34} thickness={4} />
   </Box>
 );
 
@@ -39,6 +38,8 @@ const Layout = ({ children }) => {
   const location = useLocation();
   const isExam = location.pathname.startsWith('/exam/');
 
+  /* The exam console is deliberately chrome free — no header, no footer, no
+     distractions while the clock is running. */
   if (isExam) {
     return (
       <Box sx={{ minHeight: '100vh', bgcolor: 'background.default' }}>
@@ -48,7 +49,14 @@ const Layout = ({ children }) => {
   }
 
   return (
-    <Box sx={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', bgcolor: 'background.default' }}>
+    <Box
+      sx={{
+        minHeight: '100vh',
+        display: 'flex',
+        flexDirection: 'column',
+        bgcolor: 'background.default',
+      }}
+    >
       <Navbar />
       <Box component="main" sx={{ flexGrow: 1 }}>
         <ErrorBoundary resetKey={location.pathname}>{children}</ErrorBoundary>

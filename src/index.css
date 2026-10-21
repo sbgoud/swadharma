@@ -1,10 +1,10 @@
 /*
   Global styles.
 
-  Colours, typography, radii and shadows live in the MUI theme
+  Colour, typography, radii and shadows live in the MUI theme
   (src/theme/theme.js) — this file only carries what a component library
-  cannot express: the document reset, scrollbars, focus defaults and the
-  small set of decorative helpers used by the landing page.
+  cannot express: the document reset, scrollbars, focus defaults, the
+  selection colour and the few decorative helpers used across the app.
 */
 
 * {
@@ -20,6 +20,7 @@ body,
 html {
   -webkit-text-size-adjust: 100%;
   scroll-behavior: smooth;
+  scroll-padding-top: 88px;
 }
 
 body {
@@ -36,9 +37,26 @@ svg {
   max-width: 100%;
 }
 
+h1,
+h2,
+h3,
+h4 {
+  text-wrap: balance;
+}
+
+p {
+  text-wrap: pretty;
+}
+
 ::selection {
-  background-color: rgba(79, 70, 229, 0.85);
+  background-color: rgba(15, 118, 110, 0.9);
   color: #ffffff;
+}
+
+:focus-visible {
+  outline: 2px solid rgba(15, 118, 110, 0.75);
+  outline-offset: 2px;
+  border-radius: 6px;
 }
 
 /* Scrollbar ------------------------------------------------------------- */
@@ -52,36 +70,33 @@ svg {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(100, 116, 139, 0.35);
+  background: rgba(86, 101, 106, 0.32);
   border-radius: 999px;
   border: 2px solid transparent;
   background-clip: content-box;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(100, 116, 139, 0.55);
+  background: rgba(86, 101, 106, 0.55);
   background-clip: content-box;
 }
 
 /* Helpers --------------------------------------------------------------- */
-.gradient-text {
-  background-image: linear-gradient(120deg, #4f46e5 0%, #7c3aed 55%, #2563eb 100%);
+.text-gradient {
+  background-image: linear-gradient(120deg, #0f766e 0%, #0e7490 100%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
 }
 
-.soft-grid {
-  background-image:
-    linear-gradient(rgba(99, 102, 241, 0.08) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(99, 102, 241, 0.08) 1px, transparent 1px);
-  background-size: 36px 36px;
+.tabular {
+  font-variant-numeric: tabular-nums;
 }
 
 @keyframes rise-in {
   from {
     opacity: 0;
-    transform: translateY(18px);
+    transform: translateY(16px);
   }
   to {
     opacity: 1;
@@ -90,7 +105,7 @@ svg {
 }
 
 .rise-in {
-  animation: rise-in 600ms cubic-bezier(0.22, 1, 0.36, 1) both;
+  animation: rise-in 620ms cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 
 @keyframes float-soft {
@@ -99,12 +114,12 @@ svg {
     transform: translateY(0);
   }
   50% {
-    transform: translateY(-10px);
+    transform: translateY(-8px);
   }
 }
 
 .float-soft {
-  animation: float-soft 6s ease-in-out infinite;
+  animation: float-soft 7s ease-in-out infinite;
 }
 
 @media (prefers-reduced-motion: reduce) {
