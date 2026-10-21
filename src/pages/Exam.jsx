@@ -28,6 +28,7 @@ import HelpOutlineRoundedIcon from '@mui/icons-material/HelpOutlineRounded';
 import ScheduleRoundedIcon from '@mui/icons-material/ScheduleRounded';
 import TimerRoundedIcon from '@mui/icons-material/TimerRounded';
 import { fetchAttemptQuestions, submitExam } from '../services/examService';
+import { SwanMark } from '../components/SwanLogo';
 
 const LABELS = ['A', 'B', 'C', 'D'];
 const STORAGE_PREFIX = 'swadharma:attempt:';
@@ -53,7 +54,7 @@ const readCache = (key) => {
 };
 
 const PALETTE_STATES = {
-  answered: { bg: '#16A34A', color: '#fff', label: 'Answered' },
+  answered: { bg: '#0F766E', color: '#fff', label: 'Answered' },
   marked: { bg: '#F59E0B', color: '#fff', label: 'Marked for review' },
   unanswered: { bg: 'transparent', color: 'text.primary', label: 'Not answered' },
 };
@@ -259,19 +260,8 @@ const Exam = () => {
   if (loading) {
     return (
       <Box sx={{ minHeight: '60vh', display: 'grid', placeItems: 'center' }}>
-        <Stack spacing={2} sx={{ alignItems: 'center' }}>
-          <Box
-            sx={{
-              width: 46,
-              height: 46,
-              borderRadius: '50%',
-              border: '3px solid',
-              borderColor: (theme) => alpha(theme.palette.primary.main, 0.2),
-              borderTopColor: 'primary.main',
-              animation: 'spin 900ms linear infinite',
-              '@keyframes spin': { to: { transform: 'rotate(360deg)' } },
-            }}
-          />
+        <Stack spacing={2.5} sx={{ alignItems: 'center' }}>
+          <SwanMark size={52} />
           <Typography variant="body2" color="text.secondary">
             Preparing your paper…
           </Typography>
@@ -283,10 +273,10 @@ const Exam = () => {
   if (error && !questions.length) {
     return (
       <Box sx={{ minHeight: '60vh', display: 'grid', placeItems: 'center', px: 2 }}>
-        <Card sx={{ maxWidth: 480, textAlign: 'center' }}>
+        <Card variant="outlined" sx={{ maxWidth: 480, textAlign: 'center', borderRadius: '20px' }}>
           <CardContent sx={{ p: 4 }}>
-            <TimerRoundedIcon sx={{ fontSize: 44, color: 'warning.main', mb: 1.5 }} />
-            <Typography variant="h5" sx={{ fontWeight: 700, color: 'text.primary', mb: 1 }}>
+            <TimerRoundedIcon sx={{ fontSize: 40, color: 'warning.main', mb: 1.5 }} />
+            <Typography variant="h5" sx={{ fontWeight: 600, color: 'text.primary', mb: 1 }}>
               Exam unavailable
             </Typography>
             <Typography variant="body2" color="text.secondary" sx={{ mb: 3 }}>
@@ -321,14 +311,14 @@ const Exam = () => {
                 minWidth: 44,
                 height: 44,
                 p: 0,
-                borderRadius: 2.5,
+                borderRadius: '12px',
                 fontWeight: 700,
                 fontSize: 14,
                 color: state.color,
                 bgcolor: state.bg,
                 border: '1.5px solid',
                 borderColor: item.state === 'unanswered' ? 'divider' : state.bg,
-                boxShadow: isCurrent ? `0 0 0 3px ${alpha('#4F46E5', 0.35)}` : 'none',
+                boxShadow: isCurrent ? `0 0 0 3px ${alpha('#0F766E', 0.3)}` : 'none',
                 '&:hover': { filter: 'brightness(0.94)' },
               }}
             >
@@ -343,7 +333,7 @@ const Exam = () => {
           <Divider sx={{ my: 2.5 }} />
           <Stack spacing={1}>
             {[
-              { label: 'Answered', value: answeredCount, color: '#16A34A' },
+              { label: 'Answered', value: answeredCount, color: '#0F766E' },
               { label: 'Not answered', value: unansweredCount, color: 'text.disabled' },
               { label: 'Marked for review', value: markedCount, color: '#F59E0B' },
             ].map((row) => (
@@ -354,7 +344,7 @@ const Exam = () => {
                     {row.label}
                   </Typography>
                 </Stack>
-                <Typography variant="caption" sx={{ fontWeight: 700, color: 'text.primary' }}>
+                <Typography variant="caption" className="tabular" sx={{ fontWeight: 700, color: 'text.primary' }}>
                   {row.value}
                 </Typography>
               </Stack>
@@ -380,7 +370,7 @@ const Exam = () => {
       >
         <Box sx={{ maxWidth: 1400, mx: 'auto', px: { xs: 2, md: 3 }, py: 1.5 }}>
           <Stack direction="row" spacing={2} sx={{ alignItems: 'center' }}>
-            <Stack direction="row" spacing={1.5} sx={{ alignItems: 'center', minWidth: 0 }}>
+            <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center', minWidth: 0 }}>
               <IconButton
                 onClick={() => setPaletteOpen(true)}
                 aria-label="Open question palette"
@@ -388,13 +378,19 @@ const Exam = () => {
               >
                 <GridOnRoundedIcon />
               </IconButton>
+              <SwanMark size={30} title="Swadharma IAS" />
               <Box sx={{ minWidth: 0 }}>
                 <Typography variant="caption" color="text.secondary" sx={{ fontWeight: 600 }}>
                   Question {current + 1} of {questions.length}
                 </Typography>
                 <Typography
                   variant="h6"
-                  sx={{ fontWeight: 700, color: 'text.primary', lineHeight: 1.2, display: { xs: 'none', sm: 'block' } }}
+                  sx={{
+                    fontWeight: 600,
+                    color: 'text.primary',
+                    lineHeight: 1.2,
+                    display: { xs: 'none', sm: 'block' },
+                  }}
                 >
                   {attempt?.config?.subject_slugs?.length
                     ? `${attempt.config.subject_slugs.length} subject paper`
@@ -414,17 +410,17 @@ const Exam = () => {
             <Stack
               direction="row"
               spacing={1}
-              
-              sx={{ alignItems: 'center',
+              sx={{
+                alignItems: 'center',
                 px: 1.75,
                 py: 0.75,
-                borderRadius: 3,
+                borderRadius: '12px',
                 bgcolor: urgent ? (theme) => alpha(theme.palette.error.main, 0.12) : 'action.hover',
                 color: urgent ? 'error.main' : 'text.primary',
               }}
             >
               <ScheduleRoundedIcon sx={{ fontSize: 18 }} />
-              <Typography sx={{ fontWeight: 700, fontVariantNumeric: 'tabular-nums', fontSize: 15 }}>
+              <Typography className="tabular" sx={{ fontWeight: 700, fontSize: 15 }}>
                 {formatTime(remaining)}
               </Typography>
             </Stack>
@@ -439,7 +435,7 @@ const Exam = () => {
               sx={{
                 height: '100%',
                 width: `${questions.length ? ((current + 1) / questions.length) * 100 : 0}%`,
-                background: 'linear-gradient(90deg,#4F46E5,#7C3AED)',
+                background: 'linear-gradient(90deg, #0F766E 0%, #0E7490 100%)',
                 transition: 'width 300ms ease',
               }}
             />
@@ -456,7 +452,7 @@ const Exam = () => {
       <Box sx={{ maxWidth: 1400, mx: 'auto', px: { xs: 2, md: 3 }, py: 3 }}>
         <Box sx={{ display: 'grid', gridTemplateColumns: { xs: '1fr', md: 'minmax(0,1fr) 320px' }, gap: 3 }}>
           {/* ------------------------------------------------------ Question */}
-          <Card sx={{ alignSelf: 'start' }}>
+          <Card variant="outlined" sx={{ alignSelf: 'start', borderRadius: '24px' }}>
             <CardContent sx={{ p: { xs: 2.5, md: 4 }, '&:last-child': { pb: { xs: 2.5, md: 4 } } }}>
               <Stack direction="row" gap={1} sx={{ flexWrap: 'wrap', mb: 2.5 }}>
                 {question.subject && (
@@ -469,7 +465,12 @@ const Exam = () => {
                 {question.category && (
                   <Chip label={question.category} size="small" variant="outlined" />
                 )}
-                <Chip label={question.difficulty} size="small" variant="outlined" sx={{ textTransform: 'capitalize' }} />
+                <Chip
+                  label={question.difficulty}
+                  size="small"
+                  variant="outlined"
+                  sx={{ textTransform: 'capitalize' }}
+                />
                 {(question.source || question.year) && (
                   <Typography variant="caption" color="text.secondary" sx={{ alignSelf: 'center' }}>
                     {question.source}
@@ -509,15 +510,16 @@ const Exam = () => {
                         gap: 1.75,
                         textAlign: 'left',
                         cursor: 'pointer',
-                        borderRadius: 3,
+                        borderRadius: '16px',
                         border: '1.5px solid',
                         borderColor: selected ? 'primary.main' : 'divider',
-                        bgcolor: selected ? (theme) => alpha(theme.palette.primary.main, 0.07) : 'background.paper',
-                        transition: 'all 180ms ease',
+                        bgcolor: selected
+                          ? (theme) => alpha(theme.palette.primary.main, 0.06)
+                          : 'background.paper',
+                        transition: 'border-color 180ms ease, background-color 180ms ease',
                         font: 'inherit',
                         '&:hover': {
                           borderColor: 'primary.main',
-                          transform: 'translateX(2px)',
                         },
                       }}
                     >
@@ -528,7 +530,7 @@ const Exam = () => {
                           borderRadius: '50%',
                           display: 'grid',
                           placeItems: 'center',
-                          fontWeight: 800,
+                          fontWeight: 700,
                           fontSize: 15,
                           flexShrink: 0,
                           border: '1.5px solid',
@@ -551,9 +553,12 @@ const Exam = () => {
 
               <Stack
                 direction={{ xs: 'column', sm: 'row' }}
-                
-                
-                spacing={1.5} sx={{ justifyContent: 'space-between', alignItems: { xs: 'stretch', sm: 'center' } }}>
+                spacing={1.5}
+                sx={{
+                  justifyContent: 'space-between',
+                  alignItems: { xs: 'stretch', sm: 'center' },
+                }}
+              >
                 <Stack direction="row" spacing={2}>
                   <Button
                     onClick={toggleMark}
@@ -592,7 +597,11 @@ const Exam = () => {
                 </Stack>
               </Stack>
 
-              <Typography variant="caption" color="text.secondary" sx={{ display: { xs: 'none', sm: 'block' }, mt: 2 }}>
+              <Typography
+                variant="caption"
+                color="text.secondary"
+                sx={{ display: { xs: 'none', sm: 'block' }, mt: 2 }}
+              >
                 Shortcuts — A to D answer · ← and → move between questions · M marks for review
               </Typography>
             </CardContent>
@@ -600,9 +609,12 @@ const Exam = () => {
 
           {/* ------------------------------------------------------- Palette */}
           <Box sx={{ display: { xs: 'none', md: 'block' } }}>
-            <Card sx={{ position: 'sticky', top: 96 }}>
+            <Card
+              variant="outlined"
+              sx={{ position: 'sticky', top: 96, borderRadius: '24px' }}
+            >
               <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
-                <Typography variant="subtitle1" sx={{ fontWeight: 700, color: 'text.primary', mb: 2 }}>
+                <Typography variant="subtitle1" sx={{ fontWeight: 600, color: 'text.primary', mb: 2 }}>
                   Question palette
                 </Typography>
                 {renderPalette()}
@@ -629,7 +641,7 @@ const Exam = () => {
         slotProps={{ paper: { sx: { width: { xs: '92%', sm: 360 }, p: 2.5 } } }}
       >
         <Stack direction="row" sx={{ justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
-          <Typography variant="h6" sx={{ fontWeight: 700 }}>
+          <Typography variant="h6" sx={{ fontWeight: 600 }}>
             Question palette
           </Typography>
           <IconButton onClick={() => setPaletteOpen(false)} aria-label="Close palette">
@@ -660,11 +672,16 @@ const Exam = () => {
           borderColor: 'divider',
         }}
       >
-        <Typography variant="caption" color="text.secondary" sx={{ fontWeight: 600 }}>
+        <Typography variant="caption" color="text.secondary" className="tabular" sx={{ fontWeight: 600 }}>
           {answeredCount}/{questions.length} answered
         </Typography>
         <Stack direction="row" spacing={1}>
-          <Button variant="outlined" color="inherit" onClick={() => setPaletteOpen(true)} sx={{ borderColor: 'divider' }}>
+          <Button
+            variant="outlined"
+            color="inherit"
+            onClick={() => setPaletteOpen(true)}
+            sx={{ borderColor: 'divider' }}
+          >
             Palette
           </Button>
           <Button variant="contained" onClick={() => setConfirming(true)}>
@@ -675,9 +692,7 @@ const Exam = () => {
 
       {/* ------------------------------------------------------ Confirm */}
       <Dialog open={confirming} onClose={() => setConfirming(false)} maxWidth="xs" fullWidth>
-        <DialogTitle sx={{ fontWeight: 700, pb: 1 }}>
-          Submit the exam?
-        </DialogTitle>
+        <DialogTitle sx={{ fontWeight: 600, pb: 1 }}>Submit the exam?</DialogTitle>
         <DialogContent>
           <Typography variant="body2" color="text.secondary" sx={{ lineHeight: 1.75 }}>
             You have answered <strong>{answeredCount}</strong> of {questions.length} questions
@@ -706,7 +721,7 @@ const Exam = () => {
 
       {/* --------------------------------------------------- Shortcut help */}
       <Dialog open={helpOpen} onClose={() => setHelpOpen(false)} maxWidth="xs" fullWidth>
-        <DialogTitle sx={{ fontWeight: 700 }}>Keyboard shortcuts</DialogTitle>
+        <DialogTitle sx={{ fontWeight: 600 }}>Keyboard shortcuts</DialogTitle>
         <DialogContent>
           <Stack spacing={1.25}>
             {[

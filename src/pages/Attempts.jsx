@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import { Link as RouterLink } from 'react-router-dom';
+import Alert from '@mui/material/Alert';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
@@ -16,12 +17,12 @@ import { alpha } from '@mui/material/styles';
 import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
 import HistoryRoundedIcon from '@mui/icons-material/HistoryRounded';
 import InsightsRoundedIcon from '@mui/icons-material/InsightsRounded';
-import PlayCircleRoundedIcon from '@mui/icons-material/PlayCircleRounded';
+import PlayArrowRoundedIcon from '@mui/icons-material/PlayArrowRounded';
 import QuizRoundedIcon from '@mui/icons-material/QuizRounded';
 import TrendingUpRoundedIcon from '@mui/icons-material/TrendingUpRounded';
 import EmojiEventsRoundedIcon from '@mui/icons-material/EmojiEventsRounded';
 import { fetchMyAttempts, fetchSubjectCounts } from '../services/examService';
-import { StatCard, EmptyState } from '../components/ui';
+import { StatCard, EmptyState, PageHeader } from '../components/ui';
 
 const formatDate = (value) => {
   if (!value) return '—';
@@ -58,7 +59,11 @@ const Attempts = () => {
 
   const subjectLabel = (slugs) =>
     (slugs || [])
-      .map((slug) => names[slug] || slug.replace(/_/g, ' ').replace(/\b\w/g, (character) => character.toUpperCase()))
+      .map(
+        (slug) =>
+          names[slug] ||
+          slug.replace(/_/g, ' ').replace(/\b\w/g, (character) => character.toUpperCase())
+      )
       .join(', ');
 
   const finished = useMemo(() => attempts.filter((attempt) => attempt.submitted_at && attempt.total), [attempts]);
@@ -81,47 +86,64 @@ const Attempts = () => {
 
   return (
     <Container maxWidth="lg" sx={{ py: { xs: 4, md: 6 } }}>
-      <Stack
-        direction={{ xs: 'column', md: 'row' }}
-        
-        
-        spacing={2}
-        sx={{ justifyContent: 'space-between', alignItems: { xs: 'flex-start', md: 'center' }, mb: 3.5 }}
-      >
-        <Box>
-          <Typography variant="overline" sx={{ color: 'primary.main', fontWeight: 700, letterSpacing: '0.14em' }}>
-            My tests
-          </Typography>
-          <Typography variant="h3" sx={{ color: 'text.primary', mt: 0.5 }}>
-            Attempt history
-          </Typography>
-          <Typography variant="body2" color="text.secondary" sx={{ mt: 0.75 }}>
-            Every paper you have taken, with the score you achieved.
-          </Typography>
-        </Box>
-        <Button component={RouterLink} to="/dashboard" variant="contained" startIcon={<PlayCircleRoundedIcon />}>
-          New test
-        </Button>
-      </Stack>
+      <PageHeader
+        eyebrow="My tests"
+        title="Attempt history"
+        description="Every paper you have taken, with the score you achieved."
+        actions={
+          <Button
+            component={RouterLink}
+            to="/dashboard"
+            variant="contained"
+            startIcon={<PlayArrowRoundedIcon />}
+          >
+            New test
+          </Button>
+        }
+        sx={{ mb: 3.5 }}
+      />
 
       {error && (
-        <Box sx={{ p: 2, mb: 3, borderRadius: 3, bgcolor: (theme) => alpha(theme.palette.error.main, 0.08), color: 'error.main' }}>
+        <Alert severity="error" sx={{ mb: 3 }} onClose={() => setError(null)}>
           {error}
-        </Box>
+        </Alert>
       )}
 
-      <Grid container spacing={2.5} sx={{ mb: 3 }}>
+      <Grid container spacing={2} sx={{ mb: 3 }}>
         <Grid size={{ xs: 12, sm: 6, md: 3 }}>
-          <StatCard icon={<QuizRoundedIcon />} label="Papers attempted" value={stats.count} caption="Submitted papers" />
+          <StatCard
+            icon={<QuizRoundedIcon />}
+            label="Papers attempted"
+            value={stats.count}
+            caption="Submitted papers"
+          />
         </Grid>
         <Grid size={{ xs: 12, sm: 6, md: 3 }}>
-          <StatCard icon={<InsightsRoundedIcon />} label="Questions solved" value={stats.questions} caption="Total attempted" accent="#16A34A" />
+          <StatCard
+            icon={<InsightsRoundedIcon />}
+            label="Questions solved"
+            value={stats.questions}
+            caption="Total attempted"
+            accent="success.main"
+          />
         </Grid>
         <Grid size={{ xs: 12, sm: 6, md: 3 }}>
-          <StatCard icon={<TrendingUpRoundedIcon />} label="Average score" value={`${stats.average.toFixed(1)}%`} caption="Across all papers" />
+          <StatCard
+            icon={<TrendingUpRoundedIcon />}
+            label="Average score"
+            value={`${stats.average.toFixed(1)}%`}
+            caption="Across all papers"
+            accent="info.main"
+          />
         </Grid>
         <Grid size={{ xs: 12, sm: 6, md: 3 }}>
-          <StatCard icon={<EmojiEventsRoundedIcon />} label="Best score" value={`${stats.best.toFixed(1)}%`} caption="Personal record" accent="#D97706" />
+          <StatCard
+            icon={<EmojiEventsRoundedIcon />}
+            label="Best score"
+            value={`${stats.best.toFixed(1)}%`}
+            caption="Personal record"
+            accent="warning.main"
+          />
         </Grid>
       </Grid>
 
@@ -148,7 +170,12 @@ const Attempts = () => {
           title="You have not taken any test yet"
           description="Configure a paper on the dashboard and your first attempt will show up here."
           action={
-            <Button component={RouterLink} to="/dashboard" variant="contained" startIcon={<PlayCircleRoundedIcon />}>
+            <Button
+              component={RouterLink}
+              to="/dashboard"
+              variant="contained"
+              startIcon={<PlayArrowRoundedIcon />}
+            >
               Start your first test
             </Button>
           }
@@ -159,11 +186,24 @@ const Attempts = () => {
             const percent = attempt.total ? (Number(attempt.score || 0) / (attempt.total * 2)) * 100 : 0;
             const done = Boolean(attempt.submitted_at);
             return (
-              <Card key={attempt.id} sx={{ '&:hover': { borderColor: 'primary.main', transform: 'translateY(-2px)' } }}>
+              <Card
+                key={attempt.id}
+                variant="outlined"
+                sx={{
+                  borderRadius: '20px',
+                  transition: 'border-color 200ms ease, transform 200ms ease',
+                  '&:hover': { borderColor: 'primary.main', transform: 'translateY(-2px)' },
+                }}
+              >
                 <CardContent sx={{ p: { xs: 2.25, md: 3 }, '&:last-child': { pb: { xs: 2.25, md: 3 } } }}>
                   <Stack
                     direction={{ xs: 'column', md: 'row' }}
-                    spacing={2.5} sx={{ alignItems: { xs: 'stretch', md: 'center' }, justifyContent: 'space-between' }}>
+                    spacing={2.5}
+                    sx={{
+                      alignItems: { xs: 'stretch', md: 'center' },
+                      justifyContent: 'space-between',
+                    }}
+                  >
                     <Box sx={{ minWidth: 0 }}>
                       <Stack direction="row" spacing={1} useFlexGap sx={{ flexWrap: 'wrap', mb: 1 }}>
                         <Chip
@@ -180,7 +220,11 @@ const Attempts = () => {
                           />
                         )}
                         {attempt.config?.duration_minutes && (
-                          <Chip label={`${attempt.config.duration_minutes} min`} size="small" variant="outlined" />
+                          <Chip
+                            label={`${attempt.config.duration_minutes} min`}
+                            size="small"
+                            variant="outlined"
+                          />
                         )}
                         {done ? (
                           <Chip
@@ -195,7 +239,7 @@ const Attempts = () => {
                           />
                         ) : (
                           <Chip
-                            icon={<PlayCircleRoundedIcon sx={{ fontSize: 15 }} />}
+                            icon={<PlayArrowRoundedIcon sx={{ fontSize: 15 }} />}
                             label="In progress"
                             size="small"
                             sx={{ bgcolor: (theme) => alpha(theme.palette.info.main, 0.12), color: 'info.main' }}
@@ -216,27 +260,27 @@ const Attempts = () => {
                             variant="determinate"
                             value={Math.max(2, percent)}
                             aria-label={`Score ${percent.toFixed(0)} percent`}
-                            sx={{
-                              height: 8,
-                              '& .MuiLinearProgress-bar': {
-                                background: 'linear-gradient(90deg,#4F46E5,#7C3AED)',
-                              },
-                            }}
+                            sx={{ height: 8, borderRadius: 999 }}
                           />
                         </Box>
                       )}
                     </Box>
 
-                    <Stack direction="row" spacing={2} sx={{ alignItems: 'center', justifyContent: { xs: 'space-between', md: 'flex-end' } }}>
+                    <Stack
+                      direction="row"
+                      spacing={2}
+                      sx={{ alignItems: 'center', justifyContent: { xs: 'space-between', md: 'flex-end' } }}
+                    >
                       {done ? (
                         <Box sx={{ textAlign: { xs: 'left', md: 'right' } }}>
                           <Typography variant="caption" color="text.secondary" sx={{ fontWeight: 600 }}>
                             Score
                           </Typography>
                           <Typography
+                            className="tabular"
                             sx={{
-                              fontFamily: '"Poppins", sans-serif',
-                              fontWeight: 700,
+                              fontFamily: '"Fraunces Variable", Georgia, serif',
+                              fontWeight: 600,
                               fontSize: '1.5rem',
                               lineHeight: 1.2,
                               color: 'text.primary',
@@ -256,11 +300,22 @@ const Attempts = () => {
                       )}
 
                       {done ? (
-                        <Button component={RouterLink} to={`/result/${attempt.id}`} variant="outlined" color="inherit" sx={{ borderColor: 'divider' }}>
+                        <Button
+                          component={RouterLink}
+                          to={`/result/${attempt.id}`}
+                          variant="outlined"
+                          color="inherit"
+                          sx={{ borderColor: 'divider' }}
+                        >
                           Review
                         </Button>
                       ) : (
-                        <Button component={RouterLink} to={`/exam/${attempt.id}`} variant="contained" startIcon={<PlayCircleRoundedIcon />}>
+                        <Button
+                          component={RouterLink}
+                          to={`/exam/${attempt.id}`}
+                          variant="contained"
+                          startIcon={<PlayArrowRoundedIcon />}
+                        >
                           Resume
                         </Button>
                       )}

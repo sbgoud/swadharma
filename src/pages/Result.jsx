@@ -3,7 +3,6 @@ import { Link as RouterLink, useLocation, useParams } from 'react-router-dom';
 import Accordion from '@mui/material/Accordion';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import AccordionSummary from '@mui/material/AccordionSummary';
-import Alert from '@mui/material/Alert';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
@@ -12,7 +11,7 @@ import Chip from '@mui/material/Chip';
 import Container from '@mui/material/Container';
 import Divider from '@mui/material/Divider';
 import Grid from '@mui/material/Grid';
-import LinearProgress from '@mui/material/LinearProgress';
+import Paper from '@mui/material/Paper';
 import Stack from '@mui/material/Stack';
 import ToggleButton from '@mui/material/ToggleButton';
 import ToggleButtonGroup from '@mui/material/ToggleButtonGroup';
@@ -40,11 +39,13 @@ const FILTERS = [
   { value: 'unanswered', label: 'Skipped' },
 ];
 
+const INK = '#0F1819';
+
 const verdictFor = (percentage) => {
-  if (percentage >= 60) return { label: 'Excellent', color: '#16A34A' };
-  if (percentage >= 40) return { label: 'Good attempt', color: '#4F46E5' };
-  if (percentage >= 25) return { label: 'Needs revision', color: '#D97706' };
-  return { label: 'Keep practising', color: '#E11D48' };
+  if (percentage >= 60) return { label: 'Excellent', color: '#4ADE80' };
+  if (percentage >= 40) return { label: 'Good attempt', color: '#5EEAD4' };
+  if (percentage >= 25) return { label: 'Needs revision', color: '#FDB022' };
+  return { label: 'Keep practising', color: '#F97066' };
 };
 
 const Result = () => {
@@ -124,7 +125,9 @@ const Result = () => {
   if (loading) {
     return (
       <Container maxWidth="lg" sx={{ py: 6 }}>
-        <LinearProgress />
+        <Typography variant="body2" color="text.secondary">
+          Loading your result…
+        </Typography>
       </Container>
     );
   }
@@ -160,30 +163,54 @@ const Result = () => {
       </PaperHero>
 
       {/* ----------------------------------------------------------- Stats */}
-      <Grid container spacing={2.5} sx={{ mt: 1 }}>
+      <Grid container spacing={2} sx={{ mt: 1 }}>
         <Grid size={{ xs: 12, sm: 6, md: 3 }}>
-          <StatCard icon={<CheckCircleRoundedIcon />} label="Correct" value={counts.correct} caption={`${accuracy}% accuracy`} accent="#16A34A" />
+          <StatCard
+            icon={<CheckCircleRoundedIcon />}
+            label="Correct"
+            value={counts.correct}
+            caption={`${accuracy}% accuracy`}
+            accent="success.main"
+          />
         </Grid>
         <Grid size={{ xs: 12, sm: 6, md: 3 }}>
-          <StatCard icon={<CancelRoundedIcon />} label="Incorrect" value={counts.incorrect} caption={`−${negativeMarking} marks`} accent="#E11D48" />
+          <StatCard
+            icon={<CancelRoundedIcon />}
+            label="Incorrect"
+            value={counts.incorrect}
+            caption={`−${negativeMarking} marks`}
+            accent="error.main"
+          />
         </Grid>
         <Grid size={{ xs: 12, sm: 6, md: 3 }}>
-          <StatCard icon={<RemoveCircleRoundedIcon />} label="Skipped" value={counts.unanswered} caption="0 marks" accent="#D97706" />
+          <StatCard
+            icon={<RemoveCircleRoundedIcon />}
+            label="Skipped"
+            value={counts.unanswered}
+            caption="0 marks"
+            accent="warning.main"
+          />
         </Grid>
         <Grid size={{ xs: 12, sm: 6, md: 3 }}>
-          <StatCard icon={<ScheduleRoundedIcon />} label="Time taken" value={timeTaken !== null ? `${timeTaken} min` : '—'} caption={`of ${result.durationMinutes || 120} min allowed`} accent="#4F46E5" />
+          <StatCard
+            icon={<ScheduleRoundedIcon />}
+            label="Time taken"
+            value={timeTaken !== null ? `${timeTaken} min` : '—'}
+            caption={`of ${result.durationMinutes || 120} min allowed`}
+            accent="primary.main"
+          />
         </Grid>
       </Grid>
 
       {/* ---------------------------------------------------------- Charts */}
-      <Grid container spacing={2.5} sx={{ mt: 1 }}>
+      <Grid container spacing={2} sx={{ mt: 1 }}>
         <Grid size={{ xs: 12, md: 6 }}>
-          <Card sx={{ height: '100%' }}>
+          <Card variant="outlined" sx={{ height: '100%', borderRadius: '24px' }}>
             <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
               <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center', mb: 2 }}>
                 <InsightsRoundedIcon sx={{ color: 'primary.main' }} />
                 <Box>
-                  <Typography variant="h6" sx={{ fontWeight: 700, color: 'text.primary', lineHeight: 1.2 }}>
+                  <Typography variant="h6" sx={{ fontWeight: 600, color: 'text.primary', lineHeight: 1.2 }}>
                     Subject-wise accuracy
                   </Typography>
                   <Typography variant="caption" color="text.secondary">
@@ -203,12 +230,12 @@ const Result = () => {
         </Grid>
 
         <Grid size={{ xs: 12, md: 6 }}>
-          <Card sx={{ height: '100%' }}>
+          <Card variant="outlined" sx={{ height: '100%', borderRadius: '24px' }}>
             <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
               <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center', mb: 2 }}>
                 <EmojiEventsRoundedIcon sx={{ color: 'warning.main' }} />
                 <Box>
-                  <Typography variant="h6" sx={{ fontWeight: 700, color: 'text.primary', lineHeight: 1.2 }}>
+                  <Typography variant="h6" sx={{ fontWeight: 600, color: 'text.primary', lineHeight: 1.2 }}>
                     Your score trend
                   </Typography>
                   <Typography variant="caption" color="text.secondary">
@@ -217,7 +244,7 @@ const Result = () => {
                 </Box>
               </Stack>
               {trend.length > 1 ? (
-                <TrendChart data={trend} />
+                <TrendChart data={trend} height={236} />
               ) : (
                 <Box sx={{ py: 4, textAlign: 'center' }}>
                   <Typography variant="body2" color="text.secondary">
@@ -231,17 +258,19 @@ const Result = () => {
       </Grid>
 
       {/* --------------------------------------------------------- Review */}
-      <Card sx={{ mt: 2.5 }}>
+      <Card variant="outlined" sx={{ mt: 2, borderRadius: '24px' }}>
         <CardContent sx={{ p: { xs: 2.5, md: 3.5 }, '&:last-child': { pb: { xs: 2.5, md: 3.5 } } }}>
           <Stack
             direction={{ xs: 'column', md: 'row' }}
-            
-            
             spacing={2}
-            sx={{ justifyContent: 'space-between', alignItems: { xs: 'stretch', md: 'center' }, mb: 2.5 }}
+            sx={{
+              justifyContent: 'space-between',
+              alignItems: { xs: 'stretch', md: 'center' },
+              mb: 2.5,
+            }}
           >
             <Box>
-              <Typography variant="h5" sx={{ fontWeight: 700, color: 'text.primary' }}>
+              <Typography variant="h5" sx={{ fontWeight: 600, color: 'text.primary' }}>
                 Answer review
               </Typography>
               <Typography variant="body2" color="text.secondary">
@@ -260,7 +289,11 @@ const Result = () => {
                   {item.label}
                   {item.value !== 'all' && (
                     <Box component="span" sx={{ ml: 0.75, opacity: 0.6, fontSize: 12 }}>
-                      {item.value === 'correct' ? counts.correct : item.value === 'incorrect' ? counts.incorrect : counts.unanswered}
+                      {item.value === 'correct'
+                        ? counts.correct
+                        : item.value === 'incorrect'
+                          ? counts.incorrect
+                          : counts.unanswered}
                     </Box>
                   )}
                 </ToggleButton>
@@ -275,8 +308,8 @@ const Result = () => {
                   <Stack direction="row" spacing={1.5} sx={{ alignItems: 'center', width: '100%', minWidth: 0 }}>
                     <StatusIcon correct={item.is_correct} answered={Boolean(item.selected_label)} />
                     <Box sx={{ minWidth: 0, flexGrow: 1 }}>
-                      <Typography variant="subtitle2" sx={{ fontWeight: 700, color: 'text.primary' }} noWrap>
-                        Q{(item.position ?? index + 1)}. {item.question_text}
+                      <Typography variant="subtitle2" sx={{ fontWeight: 600, color: 'text.primary' }} noWrap>
+                        Q{item.position ?? index + 1}. {item.question_text}
                       </Typography>
                       <Typography variant="caption" color="text.secondary">
                         {item.subject} · your answer {item.selected_label || 'not answered'}
@@ -292,7 +325,11 @@ const Result = () => {
                           : item.selected_label
                             ? (theme) => alpha(theme.palette.error.main, 0.1)
                             : 'action.hover',
-                        color: item.is_correct ? 'success.main' : item.selected_label ? 'error.main' : 'text.secondary',
+                        color: item.is_correct
+                          ? 'success.main'
+                          : item.selected_label
+                            ? 'error.main'
+                            : 'text.secondary',
                       }}
                     />
                   </Stack>
@@ -316,10 +353,11 @@ const Result = () => {
                         <Chip
                           label={item.correct_label}
                           size="small"
-                          sx={{ bgcolor: 'success.main', color: '#fff', fontWeight: 800, width: 30 }}
+                          sx={{ bgcolor: 'success.main', color: '#fff', fontWeight: 700, width: 30 }}
                         />
                         <Typography variant="body2" sx={{ color: 'text.primary' }}>
-                          {item.options?.find((option) => option.label === item.correct_label)?.option_text || '—'}
+                          {item.options?.find((option) => option.label === item.correct_label)?.option_text ||
+                            '—'}
                         </Typography>
                       </Stack>
                     </Box>
@@ -333,17 +371,24 @@ const Result = () => {
                           <Chip
                             label={item.selected_label}
                             size="small"
-                            sx={{ bgcolor: 'error.main', color: '#fff', fontWeight: 800, width: 30 }}
+                            sx={{ bgcolor: 'error.main', color: '#fff', fontWeight: 700, width: 30 }}
                           />
                           <Typography variant="body2" sx={{ color: 'text.primary' }}>
-                            {item.options?.find((option) => option.label === item.selected_label)?.option_text || '—'}
+                            {item.options?.find((option) => option.label === item.selected_label)
+                              ?.option_text || '—'}
                           </Typography>
                         </Stack>
                       </Box>
                     )}
 
                     {item.explanation && (
-                      <Box sx={{ p: 2, borderRadius: 3, bgcolor: (theme) => alpha(theme.palette.primary.main, 0.06) }}>
+                      <Box
+                        sx={{
+                          p: 2,
+                          borderRadius: '16px',
+                          bgcolor: (theme) => alpha(theme.palette.primary.main, 0.06),
+                        }}
+                      >
                         <Typography variant="caption" sx={{ fontWeight: 700, color: 'primary.main' }}>
                           EXPLANATION
                         </Typography>
@@ -375,10 +420,21 @@ const Result = () => {
 
           <Divider sx={{ my: 3 }} />
           <Stack direction={{ xs: 'column', sm: 'row' }} spacing={1.5} sx={{ justifyContent: 'center' }}>
-            <Button component={RouterLink} to="/dashboard" variant="contained" endIcon={<ArrowForwardRoundedIcon />}>
+            <Button
+              component={RouterLink}
+              to="/dashboard"
+              variant="contained"
+              endIcon={<ArrowForwardRoundedIcon />}
+            >
               Take another test
             </Button>
-            <Button component={RouterLink} to="/attempts" variant="outlined" color="inherit" sx={{ borderColor: 'divider' }}>
+            <Button
+              component={RouterLink}
+              to="/attempts"
+              variant="outlined"
+              color="inherit"
+              sx={{ borderColor: 'divider' }}
+            >
               View all attempts
             </Button>
           </Stack>
@@ -399,51 +455,64 @@ const StatusIcon = ({ correct, answered }) => {
 };
 
 const PaperHero = ({ result, percentage, verdict, children }) => (
-  <Card
+  <Paper
+    elevation={0}
     sx={{
       mb: 1,
-      overflow: 'hidden',
-      background: 'linear-gradient(120deg, rgba(79,70,229,0.95) 0%, rgba(109,40,217,0.92) 55%, rgba(37,99,235,0.95) 100%)',
-      color: '#fff',
-      border: 0,
-      boxShadow: '0 40px 80px -45px rgba(79, 70, 229, 0.9)',
+      p: { xs: 3, md: 4.5 },
+      borderRadius: '28px',
+      bgcolor: INK,
+      color: '#EAF2F1',
     }}
   >
-    <CardContent sx={{ p: { xs: 3, md: 4.5 }, '&:last-child': { pb: { xs: 3, md: 4.5 } } }}>
-      <Stack
-        direction={{ xs: 'column', md: 'row' }}
-        spacing={4} sx={{ alignItems: { xs: 'flex-start', md: 'center' }, justifyContent: 'space-between' }}>
-        <Box sx={{ color: 'inherit' }}>
-          <Chip
-            label={verdict.label}
-            size="small"
-            sx={{ bgcolor: 'rgba(255,255,255,0.18)', color: '#fff', fontWeight: 700, mb: 2 }}
-          />
-          <Typography variant="h3" sx={{ color: '#fff', mb: 1 }}>
-            {result.score} / {result.maxScore} marks
-          </Typography>
-          <Typography sx={{ color: 'rgba(255,255,255,0.85)', maxWidth: 460, lineHeight: 1.7 }}>
-            {percentage.toFixed(1)}% of the maximum score — {result.correct} correct,{' '}
-            {result.incorrect} incorrect and{' '}
-            {result.unanswered} unattempted. Every question below is explained.
-          </Typography>
-          <Typography variant="caption" sx={{ color: 'rgba(255,255,255,0.7)', display: 'block', mt: 2 }}>
-            Attempted on{' '}
-            {new Date(result.startedAt).toLocaleString('en-IN', {
-              day: '2-digit',
-              month: 'short',
-              year: 'numeric',
-              hour: '2-digit',
-              minute: '2-digit',
-            })}
-          </Typography>
-        </Box>
-        <Box sx={{ bgcolor: 'rgba(255,255,255,0.96)', borderRadius: 4, p: 2 }}>
-          {children}
-        </Box>
-      </Stack>
-    </CardContent>
-  </Card>
+    <Stack
+      direction={{ xs: 'column', md: 'row' }}
+      spacing={4}
+      sx={{ alignItems: { xs: 'flex-start', md: 'center' }, justifyContent: 'space-between' }}
+    >
+      <Box>
+        <Chip
+          label={verdict.label}
+          size="small"
+          sx={{ bgcolor: 'rgba(255,255,255,0.12)', color: verdict.color, fontWeight: 700, mb: 2 }}
+        />
+        <Typography
+          className="tabular"
+          sx={{
+            fontFamily: '"Fraunces Variable", Georgia, serif',
+            fontWeight: 600,
+            fontSize: { xs: '2rem', md: '2.6rem' },
+            lineHeight: 1.15,
+            color: '#FFFFFF',
+            mb: 1,
+          }}
+        >
+          {result.score} / {result.maxScore} marks
+        </Typography>
+        <Typography sx={{ color: 'rgba(234, 242, 241, 0.72)', maxWidth: 460, lineHeight: 1.7 }}>
+          {percentage.toFixed(1)}% of the maximum score — {result.correct} correct,{' '}
+          {result.incorrect} incorrect and {result.unanswered} unattempted. Every question below is
+          explained.
+        </Typography>
+        <Typography
+          variant="caption"
+          sx={{ color: 'rgba(234, 242, 241, 0.5)', display: 'block', mt: 2 }}
+        >
+          Attempted on{' '}
+          {new Date(result.startedAt).toLocaleString('en-IN', {
+            day: '2-digit',
+            month: 'short',
+            year: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit',
+          })}
+        </Typography>
+      </Box>
+      <Box sx={{ bgcolor: 'background.paper', borderRadius: '20px', p: 2 }}>
+        {children}
+      </Box>
+    </Stack>
+  </Paper>
 );
 
 export default Result;
