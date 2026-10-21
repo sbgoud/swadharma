@@ -53,6 +53,17 @@ const BUILD_NOTES = [
   { icon: <BoltRoundedIcon />, text: 'Balanced answer key across A to D' },
 ];
 
+const PALETTE = [
+  { name: 'Ink', hex: '#101A1C', use: 'Body text' },
+  { name: 'Paper', hex: '#F6F4EF', use: 'Canvas' },
+  { name: 'Teal', hex: '#0F766E', use: 'Primary' },
+  { name: 'Cyan', hex: '#0E7490', use: 'Secondary' },
+  { name: 'Amber', hex: '#B45309', use: 'Caution' },
+  { name: 'Rose', hex: '#BE123C', use: 'Wrong answer' },
+  { name: 'Moss', hex: '#15803D', use: 'Correct answer' },
+  { name: 'Slate', hex: '#56656A', use: 'Secondary text' },
+];
+
 const About = () => {
   const { user } = useAuth();
   const ctaHref = user ? '/dashboard' : '/login';
@@ -142,6 +153,119 @@ const About = () => {
                       {item.text}
                     </Typography>
                   </Stack>
+                ))}
+              </Stack>
+            </Grid>
+          </Grid>
+        </Paper>
+
+        <Paper
+          variant="outlined"
+          sx={{
+            mt: { xs: 4, md: 6 },
+            p: { xs: 3, md: 4.5 },
+            borderRadius: '20px',
+            bgcolor: 'background.paper',
+          }}
+        >
+          <SectionHeading
+            align="left"
+            eyebrow="The palette"
+            title="Eight colours, one system"
+            subtitle="Every screen in the product is drawn from this set — a warm paper canvas, deep ink text and a teal that carries every action."
+            maxWidth={760}
+          />
+          <Grid container spacing={2} sx={{ mt: 1 }}>
+            {PALETTE.map((swatch) => (
+              <Grid key={swatch.name} size={{ xs: 6, sm: 4, md: 3 }}>
+                <Stack direction="row" spacing={1.5} sx={{ alignItems: 'center' }}>
+                  <Box
+                    sx={{
+                      width: 40,
+                      height: 40,
+                      borderRadius: '10px',
+                      bgcolor: swatch.hex,
+                      border: '1px solid',
+                      borderColor: 'divider',
+                      flexShrink: 0,
+                    }}
+                  />
+                  <Box sx={{ minWidth: 0 }}>
+                    <Typography variant="body2" sx={{ fontWeight: 600, color: 'text.primary' }}>
+                      {swatch.name}
+                    </Typography>
+                    <Typography
+                      variant="caption"
+                      color="text.secondary"
+                      className="tabular"
+                      sx={{ display: 'block' }}
+                    >
+                      {swatch.hex}
+                    </Typography>
+                    <Typography variant="caption" color="text.disabled" sx={{ display: 'block' }}>
+                      {swatch.use}
+                    </Typography>
+                  </Box>
+                </Stack>
+              </Grid>
+            ))}
+          </Grid>
+        </Paper>
+
+        <Paper
+          variant="outlined"
+          sx={{
+            mt: { xs: 4, md: 6 },
+            p: { xs: 3, md: 4.5 },
+            borderRadius: '20px',
+            bgcolor: 'background.paper',
+          }}
+        >
+          <Grid container spacing={4}>
+            <Grid size={{ xs: 12, md: 6 }}>
+              <SectionHeading
+                align="left"
+                eyebrow="Contact"
+                title="Write to us"
+                subtitle="Questions about a question, a paper or your account are welcome. We reply within one working day, in the order they arrive."
+                maxWidth={520}
+              />
+            </Grid>
+            <Grid size={{ xs: 12, md: 6 }}>
+              <Stack spacing={2}>
+                {[
+                  { label: 'Email', value: 'contact@swadharmaias.com', href: 'mailto:contact@swadharmaias.com' },
+                  { label: 'Academy', value: 'Swadharma IAS Academy, Ashok Nagar X Roads, Hyderabad — 500020' },
+                  { label: 'Support hours', value: 'Monday to Saturday, 9:00 to 20:00 IST' },
+                ].map((row) => (
+                  <Box key={row.label}>
+                    <Typography
+                      variant="caption"
+                      sx={{ fontWeight: 700, color: 'text.secondary', letterSpacing: '0.08em' }}
+                    >
+                      {row.label.toUpperCase()}
+                    </Typography>
+                    {row.href ? (
+                      <Typography
+                        component="a"
+                        href={row.href}
+                        variant="body2"
+                        sx={{
+                          display: 'block',
+                          mt: 0.25,
+                          color: 'primary.main',
+                          textDecoration: 'none',
+                          '&:hover': { textDecoration: 'underline' },
+                        }}
+                      >
+                        {row.value}
+                      </Typography>
+                    ) : (
+                      <Typography variant="body2" sx={{ display: 'block', mt: 0.25, color: 'text.primary' }}>
+                        {row.value}
+                      </Typography>
+                    )}
+                  </Box>
                 ))}
               </Stack>
             </Grid>
