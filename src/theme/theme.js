@@ -36,6 +36,11 @@ const shadowDark = '0 1px 2px rgba(0, 0, 0, 0.5), 0 18px 40px -28px rgba(0, 0, 0
 const baseComponents = {
   MuiCssBaseline: {
     styleOverrides: {
+      // Tell the browser which scheme the native controls (scrollbars, autofill,
+      // date pickers) should follow.
+      ':root': {
+        colorScheme: (theme) => theme.palette.mode,
+      },
       body: {
         fontFeatureSettings: '"cv02","cv03","cv04","cv11"',
         backgroundColor: (theme) => theme.palette.background.default,
@@ -324,11 +329,11 @@ const typography = {
 const lightPalette = {
   mode: 'light',
   primary: { main: brand.teal, light: brand.tealLight, dark: brand.tealDark, contrastText: '#FFFFFF' },
-  secondary: { main: brand.cyan, light: brand.cyanLight, dark: '#0A5A6E' },
-  success: { main: brand.green, light: '#22A06B', dark: '#14532D' },
-  warning: { main: brand.amber, light: '#E08A2E', dark: '#7C2D12' },
-  error: { main: brand.rose, light: '#E04A3E', dark: '#7A1D16' },
-  info: { main: brand.cyan, light: '#3BAFC8', dark: '#0A5A6E' },
+  secondary: { main: brand.cyan, light: brand.cyanLight, dark: '#0A5A6E', contrastText: '#FFFFFF' },
+  success: { main: brand.green, light: '#22A06B', dark: '#14532D', contrastText: '#FFFFFF' },
+  warning: { main: brand.amber, light: '#E08A2E', dark: '#7C2D12', contrastText: '#FFFFFF' },
+  error: { main: brand.rose, light: '#E04A3E', dark: '#7A1D16', contrastText: '#FFFFFF' },
+  info: { main: brand.cyan, light: '#3BAFC8', dark: '#0A5A6E', contrastText: '#FFFFFF' },
   background: { default: brand.paper, paper: '#FFFFFF' },
   text: { primary: brand.ink, secondary: '#56656A' },
   divider: 'rgba(16, 26, 28, 0.10)',
@@ -337,11 +342,11 @@ const lightPalette = {
 const darkPalette = {
   mode: 'dark',
   primary: { main: '#2DD4BF', light: '#5EEAD4', dark: '#14B8A6', contrastText: '#04211E' },
-  secondary: { main: '#38BDF8', light: '#7DD3FC', dark: '#0EA5E9' },
-  success: { main: '#4ADE80', light: '#86EFAC', dark: '#22C55E' },
-  warning: { main: '#FDB022', light: '#FEC84B', dark: '#F79009' },
-  error: { main: '#F97066', light: '#FDA29B', dark: '#F04438' },
-  info: { main: '#38BDF8', light: '#7DD3FC', dark: '#0EA5E9' },
+  secondary: { main: '#38BDF8', light: '#7DD3FC', dark: '#0EA5E9', contrastText: '#05283A' },
+  success: { main: '#4ADE80', light: '#86EFAC', dark: '#22C55E', contrastText: '#052E16' },
+  warning: { main: '#FDB022', light: '#FEC84B', dark: '#F79009', contrastText: '#3B2000' },
+  error: { main: '#F97066', light: '#FDA29B', dark: '#F04438', contrastText: '#4A0904' },
+  info: { main: '#38BDF8', light: '#7DD3FC', dark: '#0EA5E9', contrastText: '#05283A' },
   background: { default: '#0A1113', paper: '#111A1C' },
   text: { primary: '#EAF2F1', secondary: '#9BAFB0' },
   divider: 'rgba(233, 242, 241, 0.12)',

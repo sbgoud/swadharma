@@ -381,7 +381,7 @@ const Dashboard = () => {
                               border: '1.5px solid',
                               borderColor: active ? 'primary.main' : 'divider',
                               bgcolor: active ? 'primary.main' : 'transparent',
-                              color: '#fff',
+                              color: 'primary.contrastText',
                               flexShrink: 0,
                               mt: 0.25,
                             }}

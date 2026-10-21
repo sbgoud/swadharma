@@ -23,6 +23,8 @@ export const ThemeProvider = ({ children }) => {
 
   useEffect(() => {
     window.localStorage.setItem(STORAGE_KEY, mode);
+    // Keep the native UI (scrollbars, autofill, form controls) in step.
+    document.documentElement.style.colorScheme = mode;
   }, [mode]);
 
   const toggleTheme = useCallback(() => {

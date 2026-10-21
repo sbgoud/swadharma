@@ -353,7 +353,7 @@ const Result = () => {
                         <Chip
                           label={item.correct_label}
                           size="small"
-                          sx={{ bgcolor: 'success.main', color: '#fff', fontWeight: 700, width: 30 }}
+                          sx={{ bgcolor: 'success.main', color: 'success.contrastText', fontWeight: 700, width: 30 }}
                         />
                         <Typography variant="body2" sx={{ color: 'text.primary' }}>
                           {item.options?.find((option) => option.label === item.correct_label)?.option_text ||
@@ -371,7 +371,7 @@ const Result = () => {
                           <Chip
                             label={item.selected_label}
                             size="small"
-                            sx={{ bgcolor: 'error.main', color: '#fff', fontWeight: 700, width: 30 }}
+                            sx={{ bgcolor: 'error.main', color: 'error.contrastText', fontWeight: 700, width: 30 }}
                           />
                           <Typography variant="body2" sx={{ color: 'text.primary' }}>
                             {item.options?.find((option) => option.label === item.selected_label)

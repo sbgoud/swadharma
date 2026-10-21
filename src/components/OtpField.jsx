@@ -86,7 +86,7 @@ const OtpField = ({
           width: '100%',
           height: '100%',
           opacity: 0,
-          cursor: 'pointer',
+          cursor: 'text',
           border: 0,
           p: 0,
           fontSize: 16,

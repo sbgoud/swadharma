@@ -17,7 +17,7 @@ import Paper from '@mui/material/Paper';
 import Stack from '@mui/material/Stack';
 import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
-import { alpha } from '@mui/material/styles';
+import { alpha, useTheme as useMuiTheme } from '@mui/material/styles';
 import ArrowBackRoundedIcon from '@mui/icons-material/ArrowBackRounded';
 import ArrowForwardRoundedIcon from '@mui/icons-material/ArrowForwardRounded';
 import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
@@ -54,14 +54,15 @@ const readCache = (key) => {
 };
 
 const PALETTE_STATES = {
-  answered: { bg: '#0F766E', color: '#fff', label: 'Answered' },
-  marked: { bg: '#F59E0B', color: '#fff', label: 'Marked for review' },
-  unanswered: { bg: 'transparent', color: 'text.primary', label: 'Not answered' },
+  answered: { label: 'Answered' },
+  marked: { label: 'Marked for review' },
+  unanswered: { label: 'Not answered' },
 };
 
 const Exam = () => {
   const { attemptId } = useParams();
   const navigate = useNavigate();
+  const theme = useMuiTheme();
 
   const [attempt, setAttempt] = useState(null);
   const [questions, setQuestions] = useState([]);
@@ -291,69 +292,90 @@ const Exam = () => {
     );
   }
 
-  const renderPalette = (compact = false) => (
-    <Box>
-      <Box
-        role="group"
-        aria-label="Question palette"
-        sx={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(44px, 1fr))', gap: 1 }}
-      >
-        {palette.map((item) => {
-          const state = PALETTE_STATES[item.state];
-          const isCurrent = item.index === current;
-          return (
-            <Button
-              key={item.id}
-              onClick={() => goTo(item.index)}
-              aria-label={`Question ${item.index + 1}, ${state.label}`}
-              aria-current={isCurrent ? 'true' : undefined}
-              sx={{
-                minWidth: 44,
-                height: 44,
-                p: 0,
-                borderRadius: '12px',
-                fontWeight: 700,
-                fontSize: 14,
-                color: state.color,
-                bgcolor: state.bg,
-                border: '1.5px solid',
-                borderColor: item.state === 'unanswered' ? 'divider' : state.bg,
-                boxShadow: isCurrent ? `0 0 0 3px ${alpha('#0F766E', 0.3)}` : 'none',
-                '&:hover': { filter: 'brightness(0.94)' },
-              }}
-            >
-              {item.index + 1}
-            </Button>
-          );
-        })}
-      </Box>
+  const renderPalette = (compact = false) => {
+    const tones = {
+      answered: { bg: theme.palette.primary.main, color: theme.palette.primary.contrastText },
+      marked: { bg: theme.palette.warning.main, color: theme.palette.warning.contrastText },
+      unanswered: { bg: 'transparent', color: theme.palette.text.primary },
+    };
 
-      {!compact && (
-        <>
-          <Divider sx={{ my: 2.5 }} />
-          <Stack spacing={1}>
-            {[
-              { label: 'Answered', value: answeredCount, color: '#0F766E' },
-              { label: 'Not answered', value: unansweredCount, color: 'text.disabled' },
-              { label: 'Marked for review', value: markedCount, color: '#F59E0B' },
-            ].map((row) => (
-              <Stack key={row.label} direction="row" sx={{ justifyContent: 'space-between', alignItems: 'center' }}>
-                <Stack direction="row" spacing={1} sx={{ alignItems: 'center' }}>
-                  <Box sx={{ width: 12, height: 12, borderRadius: '50%', bgcolor: row.color }} />
-                  <Typography variant="caption" color="text.secondary">
-                    {row.label}
+    return (
+      <Box>
+        <Box
+          role="group"
+          aria-label="Question palette"
+          sx={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(auto-fill, minmax(44px, 1fr))',
+            gap: 1,
+          }}
+        >
+          {palette.map((item) => {
+            const state = tones[item.state];
+            const meta = PALETTE_STATES[item.state];
+            const isCurrent = item.index === current;
+            return (
+              <Button
+                key={item.id}
+                onClick={() => goTo(item.index)}
+                aria-label={`Question ${item.index + 1}, ${meta.label}`}
+                aria-current={isCurrent ? 'true' : undefined}
+                sx={{
+                  minWidth: 44,
+                  height: 44,
+                  p: 0,
+                  borderRadius: '12px',
+                  fontWeight: 700,
+                  fontSize: 14,
+                  color: state.color,
+                  bgcolor: state.bg,
+                  border: '1.5px solid',
+                  borderColor: item.state === 'unanswered' ? 'divider' : state.bg,
+                  boxShadow: isCurrent ? `0 0 0 3px ${alpha('#0F766E', 0.3)}` : 'none',
+                  '&:hover': { filter: 'brightness(0.94)' },
+                }}
+              >
+                {item.index + 1}
+              </Button>
+            );
+          })}
+        </Box>
+
+        {!compact && (
+          <>
+            <Divider sx={{ my: 2.5 }} />
+            <Stack spacing={1}>
+              {[
+                { label: 'Answered', value: answeredCount, color: theme.palette.primary.main },
+                { label: 'Not answered', value: unansweredCount, color: theme.palette.text.disabled },
+                { label: 'Marked for review', value: markedCount, color: theme.palette.warning.main },
+              ].map((row) => (
+                <Stack
+                  key={row.label}
+                  direction="row"
+                  sx={{ justifyContent: 'space-between', alignItems: 'center' }}
+                >
+                  <Stack direction="row" spacing={1} sx={{ alignItems: 'center' }}>
+                    <Box sx={{ width: 12, height: 12, borderRadius: '50%', bgcolor: row.color }} />
+                    <Typography variant="caption" color="text.secondary">
+                      {row.label}
+                    </Typography>
+                  </Stack>
+                  <Typography
+                    variant="caption"
+                    className="tabular"
+                    sx={{ fontWeight: 700, color: 'text.primary' }}
+                  >
+                    {row.value}
                   </Typography>
                 </Stack>
-                <Typography variant="caption" className="tabular" sx={{ fontWeight: 700, color: 'text.primary' }}>
-                  {row.value}
-                </Typography>
-              </Stack>
-            ))}
-          </Stack>
-        </>
-      )}
-    </Box>
-  );
+              ))}
+            </Stack>
+          </>
+        )}
+      </Box>
+    );
+  };
 
   return (
     <Box sx={{ minHeight: '100vh', bgcolor: 'background.default', pb: { xs: 10, md: 4 } }}>

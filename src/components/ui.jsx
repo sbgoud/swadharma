@@ -25,19 +25,35 @@ const TONES = {
   neutral: 'text.secondary',
 };
 
-/** A small tracked label with a hairline rule in front of it. */
-export const Eyebrow = ({ children, tone = 'primary', sx }) => (
-  <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center', ...sx }}>
-    <Box sx={{ width: 22, height: 2, borderRadius: '2px', bgcolor: `${tone}.main`, flexShrink: 0 }} />
-    <Typography
-      component="span"
-      variant="overline"
-      sx={{ color: `${tone}.main`, fontWeight: 700, lineHeight: 1 }}
-    >
-      {children}
-    </Typography>
-  </Stack>
-);
+/**
+ * A small tracked label with a hairline rule in front of it.
+ * `tone` accepts a palette group (`primary`) or a full palette path
+ * (`primary.main`).
+ */
+export const Eyebrow = ({ children, tone = 'primary', sx }) => {
+  const shade = tone.includes('.') ? tone : TONES[tone] || TONES.primary;
+
+  return (
+    <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center', ...sx }}>
+      <Box
+        sx={{
+          width: 22,
+          height: 2,
+          borderRadius: '2px',
+          bgcolor: (theme) => resolveColor(theme, shade),
+          flexShrink: 0,
+        }}
+      />
+      <Typography
+        component="span"
+        variant="overline"
+        sx={{ color: (theme) => resolveColor(theme, shade), fontWeight: 700, lineHeight: 1 }}
+      >
+        {children}
+      </Typography>
+    </Stack>
+  );
+};
 
 /** Section title with an optional eyebrow and subtitle. */
 export const SectionHeading = ({
@@ -111,7 +127,11 @@ export const IconTile = ({ icon, color, tone = 'primary', size = 44, filled = fa
         display: 'grid',
         placeItems: 'center',
         flexShrink: 0,
-        color: (theme) => (filled ? '#FFFFFF' : resolveColor(theme, shade)),
+        color: (theme) => {
+          if (!filled) return resolveColor(theme, shade);
+          const [group] = shade.split('.');
+          return theme.palette?.[group]?.contrastText ?? '#FFFFFF';
+        },
         bgcolor: (theme) =>
           filled ? resolveColor(theme, shade) : alpha(resolveColor(theme, shade), 0.1),
         '& svg': { fontSize: size * 0.5 },

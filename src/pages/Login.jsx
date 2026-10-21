@@ -19,59 +19,87 @@ import AuthShell from '../components/AuthShell';
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
-const SegmentedTabs = ({ value, onChange }) => (
-  <Box
-    role="tablist"
-    sx={{
-      display: 'grid',
-      gridTemplateColumns: '1fr 1fr',
-      gap: 0.5,
-      p: 0.5,
-      borderRadius: '12px',
-      bgcolor: 'action.hover',
-      mb: 3,
-    }}
-  >
-    {[
-      { id: 'signin', label: 'Sign in' },
-      { id: 'signup', label: 'Create account' },
-    ].map((tab) => {
-      const active = value === tab.id;
-      return (
-        <Box
-          key={tab.id}
-          role="tab"
-          aria-selected={active}
-          tabIndex={0}
-          onClick={() => onChange(tab.id)}
-          onKeyDown={(event) => {
-            if (event.key === 'Enter' || event.key === ' ') {
-              event.preventDefault();
-              onChange(tab.id);
-            }
-          }}
-          sx={{
-            py: 1.25,
-            minHeight: 44,
-            borderRadius: '10px',
-            textAlign: 'center',
-            fontSize: '0.9375rem',
-            fontWeight: 600,
-            cursor: 'pointer',
-            color: active ? 'text.primary' : 'text.secondary',
-            bgcolor: active ? 'background.paper' : 'transparent',
-            boxShadow: active ? '0 1px 2px rgba(16, 26, 28, 0.08)' : 'none',
-            transition: 'background-color 180ms ease, color 180ms ease',
-            userSelect: 'none',
-            '&:focus-visible': { outline: '2px solid rgba(15, 118, 110, 0.75)', outlineOffset: 2 },
-          }}
-        >
-          {tab.label}
-        </Box>
-      );
-    })}
-  </Box>
-);
+const SegmentedTabs = ({ value, onChange }) => {
+  const tabs = [
+    { id: 'signin', label: 'Sign in' },
+    { id: 'signup', label: 'Create account' },
+  ];
+  const activeIndex = Math.max(
+    0,
+    tabs.findIndex((tab) => tab.id === value)
+  );
+
+  const focusTab = (index) => {
+    const next = (index + tabs.length) % tabs.length;
+    onChange(tabs[next].id);
+    const node = document.getElementById(`auth-tab-${tabs[next].id}`);
+    if (node) node.focus();
+  };
+
+  return (
+    <Box
+      role="tablist"
+      aria-label="Sign in or create an account"
+      sx={{
+        display: 'grid',
+        gridTemplateColumns: '1fr 1fr',
+        gap: 0.5,
+        p: 0.5,
+        borderRadius: '12px',
+        bgcolor: 'action.hover',
+        mb: 3,
+      }}
+    >
+      {tabs.map((tab, index) => {
+        const active = value === tab.id;
+        return (
+          <Box
+            key={tab.id}
+            id={`auth-tab-${tab.id}`}
+            role="tab"
+            aria-selected={active}
+            aria-controls="auth-tabpanel"
+            tabIndex={index === activeIndex ? 0 : -1}
+            onClick={() => onChange(tab.id)}
+            onKeyDown={(event) => {
+              if (event.key === 'Enter' || event.key === ' ') {
+                event.preventDefault();
+                onChange(tab.id);
+                return;
+              }
+              if (event.key === 'ArrowRight') {
+                event.preventDefault();
+                focusTab(index + 1);
+                return;
+              }
+              if (event.key === 'ArrowLeft') {
+                event.preventDefault();
+                focusTab(index - 1);
+              }
+            }}
+            sx={{
+              py: 1.25,
+              minHeight: 44,
+              borderRadius: '10px',
+              textAlign: 'center',
+              fontSize: '0.9375rem',
+              fontWeight: 600,
+              cursor: 'pointer',
+              color: active ? 'text.primary' : 'text.secondary',
+              bgcolor: active ? 'background.paper' : 'transparent',
+              boxShadow: active ? '0 1px 2px rgba(16, 26, 28, 0.08)' : 'none',
+              transition: 'background-color 180ms ease, color 180ms ease',
+              userSelect: 'none',
+              '&:focus-visible': { outline: '2px solid rgba(15, 118, 110, 0.75)', outlineOffset: 2 },
+            }}
+          >
+            {tab.label}
+          </Box>
+        );
+      })}
+    </Box>
+  );
+};
 
 const Login = () => {
   const { user, loading } = useAuth();
@@ -211,7 +239,8 @@ const Login = () => {
         </Alert>
       )}
 
-      <Stack component="form" onSubmit={isSignUp ? handleSignUp : handleSignIn} spacing={2}>
+      <Box id="auth-tabpanel" role="tabpanel" aria-labelledby={`auth-tab-${mode}`}>
+        <Stack component="form" onSubmit={isSignUp ? handleSignUp : handleSignIn} spacing={2}>
         {isSignUp && (
           <TextField
             fullWidth
@@ -317,7 +346,8 @@ const Login = () => {
             </Button>
           </Box>
         )}
-      </Stack>
+        </Stack>
+      </Box>
     </AuthShell>
   );
 };
