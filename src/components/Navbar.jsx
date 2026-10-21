@@ -103,7 +103,7 @@ const Navbar = () => {
                     right: 14,
                     bottom: 4,
                     height: 2,
-                    borderRadius: 2,
+                    borderRadius: '8px',
                     bgcolor: 'primary.main',
                     opacity: isActive(link.to) ? 1 : 0,
                     transition: 'opacity 180ms ease',
@@ -236,7 +236,7 @@ const Navbar = () => {
               component={RouterLink}
               to={link.to}
               onClick={() => setDrawerOpen(false)}
-              sx={{ minHeight: 48, borderRadius: 2.5, mb: 0.25 }}
+              sx={{ minHeight: 48, borderRadius: '12px', mb: 0.25 }}
             >
               <ListItemText
                 primary={link.label}
@@ -253,7 +253,7 @@ const Navbar = () => {
                   component={RouterLink}
                   to={item.to}
                   onClick={() => setDrawerOpen(false)}
-                  sx={{ minHeight: 48, borderRadius: 2.5, mb: 0.25 }}
+                  sx={{ minHeight: 48, borderRadius: '12px', mb: 0.25 }}
                 >
                   <ListItemText
                     primary={item.label}
@@ -268,7 +268,7 @@ const Navbar = () => {
         <Box sx={{ mt: 'auto', pt: 3 }}>
           <ListItemButton
             onClick={toggleTheme}
-            sx={{ minHeight: 48, borderRadius: 2.5, mb: 1.5, border: '1px solid', borderColor: 'divider' }}
+            sx={{ minHeight: 48, borderRadius: '12px', mb: 1.5, border: '1px solid', borderColor: 'divider' }}
           >
             <Box sx={{ display: 'flex', alignItems: 'center', mr: 1.5, color: 'text.secondary' }}>
               {isDark ? <LightModeRoundedIcon fontSize="small" /> : <DarkModeRoundedIcon fontSize="small" />}

@@ -57,7 +57,7 @@ class ErrorBoundary extends Component {
 
     return (
       <Box sx={{ minHeight: '60vh', display: 'grid', placeItems: 'center', px: 2, py: 6 }}>
-        <Card variant="outlined" sx={{ maxWidth: 560, width: '100%', borderRadius: 4 }}>
+        <Card variant="outlined" sx={{ maxWidth: 560, width: '100%', borderRadius: '20px' }}>
           <CardContent sx={{ p: { xs: 3, sm: 4.5 }, '&:last-child': { pb: { xs: 3, sm: 4.5 } } }}>
             <Stack spacing={2.5} sx={{ alignItems: 'center', textAlign: 'center' }}>
               <Box sx={{ color: 'error.main' }}>
