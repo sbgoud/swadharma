@@ -3,18 +3,15 @@ import { Navigate, useNavigate } from 'react-router-dom';
 import Alert from '@mui/material/Alert';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
-import Card from '@mui/material/Card';
-import CardContent from '@mui/material/CardContent';
-import Container from '@mui/material/Container';
 import CircularProgress from '@mui/material/CircularProgress';
 import Divider from '@mui/material/Divider';
 import Stack from '@mui/material/Stack';
-import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
 import LogoutRoundedIcon from '@mui/icons-material/LogoutRounded';
-import MarkEmailReadRoundedIcon from '@mui/icons-material/MarkEmailReadRounded';
 import { useAuth } from '../context/AuthContext';
 import { sendVerificationCode, verifyEmailAddress } from '../services/otpService';
+import AuthShell from '../components/AuthShell';
+import OtpField from '../components/OtpField';
 
 const RESEND_COOLDOWN_SECONDS = 60;
 const CODE_RE = /^\d{6}$/;
@@ -99,7 +96,7 @@ const VerifyEmail = () => {
   if (loading || profileLoading) {
     return (
       <Box sx={{ minHeight: '60vh', display: 'grid', placeItems: 'center' }}>
-        <CircularProgress size={38} thickness={4} />
+        <CircularProgress size={34} thickness={4} />
       </Box>
     );
   }
@@ -113,114 +110,78 @@ const VerifyEmail = () => {
   }
 
   return (
-    <Box sx={{ minHeight: '100%', display: 'flex', alignItems: 'center', py: { xs: 5, md: 8 } }}>
-      <Container maxWidth="sm">
-        <Card>
-          <CardContent sx={{ p: { xs: 3, sm: 4.5 }, '&:last-child': { pb: { xs: 3, sm: 4.5 } } }}>
-            <Box
-              sx={{
-                width: 56,
-                height: 56,
-                borderRadius: 4,
-                display: 'grid',
-                placeItems: 'center',
-                mb: 2.5,
-                bgcolor: (theme) => theme.palette.primary.main,
-                color: '#fff',
-                boxShadow: '0 16px 30px -16px rgba(79, 70, 229, 0.9)',
-              }}
-            >
-              <MarkEmailReadRoundedIcon />
-            </Box>
+    <AuthShell
+      eyebrow="One more step"
+      title="Verify your e-mail"
+      subtitle={
+        email
+          ? `We sent a 6-digit code to ${email}. Enter it below to unlock your dashboard, the exam papers and your attempt history.`
+          : 'We sent a 6-digit code to your e-mail address. Enter it below to unlock your account.'
+      }
+      aside={{
+        heading: 'One code away',
+        body: 'Verifying your address keeps the attempt history and the paper timer tied to a real person — and stops anyone else answering your papers.',
+        points: [
+          'The code expires after a short while',
+          'You can ask for a new one at any time',
+          'Your papers stay exactly as you left them',
+        ],
+      }}
+      footer={
+        <Box sx={{ textAlign: 'center' }}>
+          <Typography variant="body2" color="text.secondary">
+            Wrong address or want to use another one?
+          </Typography>
+          <Button
+            onClick={handleSignOut}
+            startIcon={<LogoutRoundedIcon />}
+            sx={{ p: 0, minWidth: 0, mt: 0.25 }}
+          >
+            Sign out
+          </Button>
+        </Box>
+      }
+    >
+      {message && (
+        <Alert severity="success" sx={{ mb: 2.5 }} onClose={() => setMessage(null)}>
+          {message}
+        </Alert>
+      )}
+      {error && (
+        <Alert severity="error" sx={{ mb: 2.5 }} onClose={() => setError(null)}>
+          {error}
+        </Alert>
+      )}
 
-            <Typography variant="h4" sx={{ fontWeight: 700, color: 'text.primary', mb: 0.75 }}>
-              Verify your e-mail
-            </Typography>
-            <Typography variant="body2" color="text.secondary" sx={{ mb: 3 }}>
-              {email ? (
-                <>
-                  We sent a 6-digit code to <strong>{email}</strong>. Enter it below to unlock your
-                  dashboard, the exam papers and your attempt history.
-                </>
-              ) : (
-                'We sent a 6-digit code to your e-mail address. Enter it below to unlock your account.'
-              )}
-            </Typography>
+      <Stack component="form" onSubmit={handleVerify} spacing={2.5}>
+        <OtpField
+          id="verification-code"
+          value={code}
+          onChange={setCode}
+          autoFocus
+          disabled={verifying || sending}
+          ariaLabel="6-digit verification code"
+        />
 
-            {message && (
-              <Alert severity="success" sx={{ mb: 2.5 }} onClose={() => setMessage(null)}>
-                {message}
-              </Alert>
-            )}
-            {error && (
-              <Alert severity="error" sx={{ mb: 2.5 }} onClose={() => setError(null)}>
-                {error}
-              </Alert>
-            )}
+        <Button type="submit" variant="contained" size="large" disabled={verifying || sending}>
+          {verifying ? 'Verifying…' : 'Verify e-mail'}
+        </Button>
 
-            <Stack component="form" onSubmit={handleVerify} spacing={2.5}>
-              <TextField
-                fullWidth
-                required
-                id="verification-code"
-                label="6-digit code"
-                value={code}
-                onChange={(event) => {
-                  setCode(event.target.value.replace(/\D/g, '').slice(0, 6));
-                }}
-                autoFocus
-                slotProps={{
-                  htmlInput: {
-                    inputMode: 'numeric',
-                    pattern: '[0-9]*',
-                    maxLength: 6,
-                    autoComplete: 'one-time-code',
-                  },
-                }}
-                sx={{
-                  '& input': {
-                    letterSpacing: '0.6em',
-                    textAlign: 'center',
-                    fontSize: 22,
-                    fontWeight: 600,
-                    paddingLeft: '0.6em',
-                  },
-                }}
-              />
-
-              <Button type="submit" variant="contained" size="large" disabled={verifying || sending}>
-                {verifying ? 'Verifying…' : 'Verify e-mail'}
-              </Button>
-
-              <Button
-                type="button"
-                variant="text"
-                onClick={requestCode}
-                disabled={sending || cooldown > 0}
-                sx={{ alignSelf: 'center' }}
-              >
-                {cooldown > 0
-                  ? `Resend code in ${cooldown}s`
-                  : sending
-                    ? 'Sending…'
-                    : 'Resend code'}
-              </Button>
-            </Stack>
-
-            <Divider sx={{ my: 3 }} />
-
-            <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center', justifyContent: 'center' }}>
-              <Typography variant="body2" color="text.secondary">
-                Wrong address or want to use another one?
-              </Typography>
-              <Button onClick={handleSignOut} startIcon={<LogoutRoundedIcon />} sx={{ p: 0, minWidth: 0 }}>
-                Sign out
-              </Button>
-            </Stack>
-          </CardContent>
-        </Card>
-      </Container>
-    </Box>
+        <Button
+          type="button"
+          variant="text"
+          onClick={requestCode}
+          disabled={sending || cooldown > 0}
+          sx={{ alignSelf: 'center' }}
+        >
+          {cooldown > 0
+            ? `Resend code in ${cooldown}s`
+            : sending
+              ? 'Sending…'
+              : 'Resend code'}
+        </Button>
+      </Stack>
+    </AuthShell>
   );
 };
 

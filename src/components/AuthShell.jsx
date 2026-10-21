@@ -5,7 +5,6 @@ import Paper from '@mui/material/Paper';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
-import Logo from './Logo';
 import { SwanMark } from './SwanLogo';
 
 const INK = '#0F1819';
@@ -84,22 +83,17 @@ const AuthShell = ({ title, subtitle, eyebrow, children, footer, aside }) => (
 
         {/* Form */}
         <Grid size={{ xs: 12, md: 7 }}>
-          <Stack sx={{ height: '100%' }}>
-            <Box sx={{ display: { xs: 'flex', md: 'none' }, justifyContent: 'center', mb: 3 }}>
-              <Logo size={40} showWordmark={false} />
-            </Box>
-
-            <Paper
-              variant="outlined"
-              sx={{
-                p: { xs: 3, sm: 4 },
-                borderRadius: '24px',
-                bgcolor: 'background.paper',
-                flexGrow: 1,
-                display: 'flex',
-                flexDirection: 'column',
-              }}
-            >
+          <Paper
+            variant="outlined"
+            sx={{
+              p: { xs: 3, sm: 4 },
+              borderRadius: '24px',
+              bgcolor: 'background.paper',
+              height: '100%',
+              display: 'flex',
+              flexDirection: 'column',
+            }}
+          >
               <Box sx={{ mb: 3 }}>
                 {eyebrow && (
                   <Typography
@@ -126,7 +120,6 @@ const AuthShell = ({ title, subtitle, eyebrow, children, footer, aside }) => (
 
               {footer && <Box sx={{ mt: 3 }}>{footer}</Box>}
             </Paper>
-          </Stack>
         </Grid>
       </Grid>
     </Container>

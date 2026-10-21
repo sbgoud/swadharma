@@ -1,49 +1,83 @@
 import { useState } from 'react';
-import { Link as RouterLink, Navigate, useLocation, useNavigate } from 'react-router-dom';
+import { Navigate, useLocation, useNavigate } from 'react-router-dom';
 import Alert from '@mui/material/Alert';
-import AlertTitle from '@mui/material/AlertTitle';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
-import Card from '@mui/material/Card';
-import CardContent from '@mui/material/CardContent';
-import Chip from '@mui/material/Chip';
-import Container from '@mui/material/Container';
-import Divider from '@mui/material/Divider';
-import Grid from '@mui/material/Grid';
 import IconButton from '@mui/material/IconButton';
 import InputAdornment from '@mui/material/InputAdornment';
-import Paper from '@mui/material/Paper';
 import Stack from '@mui/material/Stack';
-import Tab from '@mui/material/Tab';
-import Tabs from '@mui/material/Tabs';
 import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
-import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
 import EmailRoundedIcon from '@mui/icons-material/EmailRounded';
 import LockRoundedIcon from '@mui/icons-material/LockRounded';
 import PersonRoundedIcon from '@mui/icons-material/PersonRounded';
 import VisibilityOffRoundedIcon from '@mui/icons-material/VisibilityOffRounded';
 import VisibilityRoundedIcon from '@mui/icons-material/VisibilityRounded';
-import VerifiedRoundedIcon from '@mui/icons-material/VerifiedRounded';
 import { supabase } from '../lib/supabase';
 import { useAuth } from '../context/AuthContext';
-import { heroGradient } from '../theme/theme';
+import AuthShell from '../components/AuthShell';
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
-const HIGHLIGHTS = [
-  'Unlimited timed prelims papers during launch',
-  'Official +2 / −0.66 marking',
-  'Written explanation for every question',
-  'Subject-wise analytics and history',
-];
+const SegmentedTabs = ({ value, onChange }) => (
+  <Box
+    role="tablist"
+    sx={{
+      display: 'grid',
+      gridTemplateColumns: '1fr 1fr',
+      gap: 0.5,
+      p: 0.5,
+      borderRadius: '12px',
+      bgcolor: 'action.hover',
+      mb: 3,
+    }}
+  >
+    {[
+      { id: 'signin', label: 'Sign in' },
+      { id: 'signup', label: 'Create account' },
+    ].map((tab) => {
+      const active = value === tab.id;
+      return (
+        <Box
+          key={tab.id}
+          role="tab"
+          aria-selected={active}
+          tabIndex={0}
+          onClick={() => onChange(tab.id)}
+          onKeyDown={(event) => {
+            if (event.key === 'Enter' || event.key === ' ') {
+              event.preventDefault();
+              onChange(tab.id);
+            }
+          }}
+          sx={{
+            py: 1.25,
+            minHeight: 44,
+            borderRadius: '10px',
+            textAlign: 'center',
+            fontSize: '0.9375rem',
+            fontWeight: 600,
+            cursor: 'pointer',
+            color: active ? 'text.primary' : 'text.secondary',
+            bgcolor: active ? 'background.paper' : 'transparent',
+            boxShadow: active ? '0 1px 2px rgba(16, 26, 28, 0.08)' : 'none',
+            transition: 'background-color 180ms ease, color 180ms ease',
+            userSelect: 'none',
+            '&:focus-visible': { outline: '2px solid rgba(15, 118, 110, 0.75)', outlineOffset: 2 },
+          }}
+        >
+          {tab.label}
+        </Box>
+      );
+    })}
+  </Box>
+);
 
 const Login = () => {
   const { user, loading } = useAuth();
   const navigate = useNavigate();
   const location = useLocation();
 
-  const [tab, setTab] = useState(0);
   const [mode, setMode] = useState('signin');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -120,10 +154,9 @@ const Login = () => {
       }
 
       setMessage(
-        'Account created. Confirm your address with the link we just mailed, then sign in — you will be asked for a 6-digit code.',
+        'Account created. Confirm your address with the link we just mailed, then sign in — you will be asked for a 6-digit code.'
       );
-      setTab(0);
-      setMode('signin');
+      switchMode('signin');
     } catch (err) {
       setError(err.message || 'Could not create the account.');
     } finally {
@@ -134,228 +167,158 @@ const Login = () => {
   const isSignUp = mode === 'signup';
 
   return (
-    <Box sx={{ minHeight: '100%', display: 'flex', alignItems: 'center', py: { xs: 5, md: 8 } }}>
-      <Container maxWidth="lg">
-        <Grid container spacing={4} sx={{ alignItems: 'stretch' }}>
-          {/* Brand panel */}
-          <Grid size={{ xs: 12, md: 5 }} sx={{ display: { xs: 'none', md: 'block' } }}>
-            <Paper
-              elevation={0}
-              sx={{
-                height: '100%',
-                borderRadius: 6,
-                p: 5,
-                position: 'relative',
-                overflow: 'hidden',
-                background: heroGradient,
-                color: '#fff',
-                boxShadow: '0 40px 80px -40px rgba(79, 70, 229, 0.8)',
-              }}
-            >
-              <Box
-                sx={{
-                  position: 'absolute',
-                  inset: 0,
-                  background:
-                    'radial-gradient(60% 60% at 15% 5%, rgba(255,255,255,0.22) 0%, transparent 60%), radial-gradient(50% 50% at 90% 95%, rgba(255,255,255,0.16) 0%, transparent 60%)',
-                }}
-              />
-              <Box sx={{ position: 'relative' }}>
-                <Chip
-                  icon={<VerifiedRoundedIcon sx={{ fontSize: 16 }} />}
-                  label="Free during launch for every aspirant"
-                  sx={{
-                    bgcolor: 'rgba(255,255,255,0.16)',
-                    color: '#fff',
-                    fontWeight: 600,
-                    mb: 3,
-                    '& .MuiChip-icon': { color: '#fff' },
-                  }}
-                />
-                <Typography variant="h3" sx={{ color: '#fff', mb: 2 }}>
-                  Your UPSC prelims practice starts here
-                </Typography>
-                <Typography sx={{ color: 'rgba(255,255,255,0.85)', lineHeight: 1.75, mb: 4 }}>
-                  Create an account and attempt server-sampled, timed papers with the official UPSC
-                  marking scheme — no payment details needed to start.
-                </Typography>
-                <Stack spacing={1.75}>
-                  {HIGHLIGHTS.map((item) => (
-                    <Stack key={item} direction="row" spacing={1.25} sx={{ alignItems: 'center' }}>
-                      <CheckCircleRoundedIcon sx={{ color: '#86EFAC', fontSize: 20 }} />
-                      <Typography sx={{ color: 'rgba(255,255,255,0.92)', fontSize: 14.5, fontWeight: 500 }}>
-                        {item}
-                      </Typography>
-                    </Stack>
-                  ))}
-                </Stack>
-              </Box>
-            </Paper>
-          </Grid>
+    <AuthShell
+      eyebrow={isSignUp ? 'Create an account' : 'Welcome back'}
+      title={isSignUp ? 'Create your account' : 'Sign in to Swadharma IAS'}
+      subtitle={
+        isSignUp
+          ? 'One e-mail address and a password. We will send a 6-digit code to confirm it.'
+          : 'Sign in to build a paper, sit a timed attempt and review your answers.'
+      }
+      aside={{
+        heading: 'Your prelims practice starts here',
+        body: 'Create an account and attempt server-sampled, timed papers with the official UPSC marking scheme. No card is needed to start.',
+        points: [
+          'Timed papers on a server clock',
+          'Official +2 / −0.66 marking scheme',
+          'A written explanation behind every question',
+        ],
+      }}
+      footer={
+        <Box sx={{ textAlign: 'center' }}>
+          <Typography variant="body2" color="text.secondary">
+            {isSignUp ? 'Already registered?' : 'New to Swadharma IAS?'}
+          </Typography>
+          <Button
+            onClick={() => switchMode(isSignUp ? 'signin' : 'signup')}
+            sx={{ p: 0, minWidth: 0, mt: 0.25 }}
+          >
+            {isSignUp ? 'Sign in instead' : 'Create a free account'}
+          </Button>
+        </Box>
+      }
+    >
+      <SegmentedTabs value={mode} onChange={switchMode} />
 
-          {/* Form */}
-          <Grid size={{ xs: 12, md: 7 }}>
-            <Card sx={{ height: '100%' }}>
-              <CardContent sx={{ p: { xs: 3, sm: 4.5 }, '&:last-child': { pb: { xs: 3, sm: 4.5 } } }}>
-                <Typography variant="h4" sx={{ fontWeight: 700, color: 'text.primary', mb: 0.75 }}>
-                  {isSignUp ? 'Create your account' : 'Welcome back'}
-                </Typography>
-                <Typography variant="body2" color="text.secondary" sx={{ mb: 3 }}>
-                  UPSC Prelims practice, free during launch. No payment required to start.
-                </Typography>
+      {message && (
+        <Alert severity="success" sx={{ mb: 2.5 }} onClose={() => setMessage(null)}>
+          {message}
+        </Alert>
+      )}
+      {error && (
+        <Alert severity="error" sx={{ mb: 2.5 }} onClose={() => setError(null)}>
+          {error}
+        </Alert>
+      )}
 
-                <Tabs
-                  value={tab}
-                  onChange={(_, value) => {
-                    setTab(value);
-                    switchMode(value === 1 ? 'signup' : 'signin');
-                  }}
-                  variant="fullWidth"
-                  sx={{ mb: 3, borderBottom: '1px solid', borderColor: 'divider' }}
-                >
-                  <Tab label="Sign in" />
-                  <Tab label="Create account" />
-                </Tabs>
+      <Stack component="form" onSubmit={isSignUp ? handleSignUp : handleSignIn} spacing={2}>
+        {isSignUp && (
+          <TextField
+            fullWidth
+            id="full-name"
+            label="Full name"
+            value={fullName}
+            onChange={(event) => setFullName(event.target.value)}
+            autoComplete="name"
+            slotProps={{
+              input: {
+                startAdornment: (
+                  <InputAdornment position="start">
+                    <PersonRoundedIcon color="action" />
+                  </InputAdornment>
+                ),
+              },
+            }}
+          />
+        )}
 
-                {message && (
-                  <Alert severity="success" sx={{ mb: 2.5 }} onClose={() => setMessage(null)}>
-                    {message}
-                  </Alert>
-                )}
-                {error && (
-                  <Alert severity="error" sx={{ mb: 2.5 }} onClose={() => setError(null)}>
-                    {error}
-                  </Alert>
-                )}
+        <TextField
+          fullWidth
+          required
+          id="email"
+          label="Email address"
+          type="email"
+          autoComplete="email"
+          value={email}
+          onChange={(event) => setEmail(event.target.value)}
+          slotProps={{
+            input: {
+              startAdornment: (
+                <InputAdornment position="start">
+                  <EmailRoundedIcon color="action" />
+                </InputAdornment>
+              ),
+            },
+          }}
+        />
 
-                <Stack component="form" onSubmit={isSignUp ? handleSignUp : handleSignIn} spacing={2.5}>
-                  {isSignUp && (
-                    <TextField
-                      fullWidth
-                      id="full-name"
-                      label="Full name"
-                      value={fullName}
-                      onChange={(event) => setFullName(event.target.value)}
-                      slotProps={{
-                        input: {
-                          startAdornment: (
-                            <InputAdornment position="start">
-                              <PersonRoundedIcon color="action" />
-                            </InputAdornment>
-                          ),
-                        },
-                      }}
-                    />
-                  )}
-
-                  <TextField
-                    fullWidth
-                    required
-                    id="email"
-                    label="Email address"
-                    type="email"
-                    autoComplete="email"
-                    value={email}
-                    onChange={(event) => setEmail(event.target.value)}
-                    slotProps={{
-                      input: {
-                        startAdornment: (
-                          <InputAdornment position="start">
-                            <EmailRoundedIcon color="action" />
-                          </InputAdornment>
-                        ),
-                      },
-                    }}
-                  />
-
-                  <TextField
-                    fullWidth
-                    required
-                    id="password"
-                    label="Password"
-                    type={showPassword ? 'text' : 'password'}
-                    autoComplete={isSignUp ? 'new-password' : 'current-password'}
-                    value={password}
-                    onChange={(event) => setPassword(event.target.value)}
-                    helperText={isSignUp ? 'At least 8 characters' : undefined}
-                    slotProps={{
-                      input: {
-                        startAdornment: (
-                          <InputAdornment position="start">
-                            <LockRoundedIcon color="action" />
-                          </InputAdornment>
-                        ),
-                        endAdornment: (
-                          <InputAdornment position="end">
-                            <IconButton
-                              onClick={() => setShowPassword((value) => !value)}
-                              edge="end"
-                              aria-label={showPassword ? 'Hide password' : 'Show password'}
-                            >
-                              {showPassword ? <VisibilityOffRoundedIcon /> : <VisibilityRoundedIcon />}
-                            </IconButton>
-                          </InputAdornment>
-                        ),
-                      },
-                    }}
-                  />
-
-                  {isSignUp && (
-                    <TextField
-                      fullWidth
-                      required
-                      id="confirm-password"
-                      label="Confirm password"
-                      type={showPassword ? 'text' : 'password'}
-                      autoComplete="new-password"
-                      value={confirmPassword}
-                      onChange={(event) => setConfirmPassword(event.target.value)}
-                      slotProps={{
-                        input: {
-                          startAdornment: (
-                            <InputAdornment position="start">
-                              <LockRoundedIcon color="action" />
-                            </InputAdornment>
-                          ),
-                        },
-                      }}
-                    />
-                  )}
-
-                  <Button type="submit" variant="contained" size="large" disabled={busy}>
-                    {busy ? 'Please wait…' : isSignUp ? 'Create your account' : 'Sign in'}
-                  </Button>
-
-                  {!isSignUp && (
-                    <Box sx={{ display: 'flex', justifyContent: 'flex-end' }}>
-                      <Button onClick={() => navigate('/forgot-password')} sx={{ px: 0 }}>
-                        Forgot password?
-                      </Button>
-                    </Box>
-                  )}
-                </Stack>
-
-                <Divider sx={{ my: 3 }} />
-                <Stack direction="row" spacing={1} sx={{ justifyContent: 'center', alignItems: 'center' }}>
-                  <Typography variant="body2" color="text.secondary">
-                    {isSignUp ? 'Already registered?' : 'New to Swadharma IAS?'}
-                  </Typography>
-                  <Button
-                    onClick={() => {
-                      setTab(isSignUp ? 0 : 1);
-                      switchMode(isSignUp ? 'signin' : 'signup');
-                    }}
-                    sx={{ p: 0, minWidth: 0 }}
+        <TextField
+          fullWidth
+          required
+          id="password"
+          label="Password"
+          type={showPassword ? 'text' : 'password'}
+          autoComplete={isSignUp ? 'new-password' : 'current-password'}
+          value={password}
+          onChange={(event) => setPassword(event.target.value)}
+          helperText={isSignUp ? 'At least 8 characters' : undefined}
+          slotProps={{
+            input: {
+              startAdornment: (
+                <InputAdornment position="start">
+                  <LockRoundedIcon color="action" />
+                </InputAdornment>
+              ),
+              endAdornment: (
+                <InputAdornment position="end">
+                  <IconButton
+                    onClick={() => setShowPassword((value) => !value)}
+                    edge="end"
+                    aria-label={showPassword ? 'Hide password' : 'Show password'}
                   >
-                    {isSignUp ? 'Sign in' : 'Create your account'}
-                  </Button>
-                </Stack>
-              </CardContent>
-            </Card>
-          </Grid>
-        </Grid>
-      </Container>
-    </Box>
+                    {showPassword ? <VisibilityOffRoundedIcon /> : <VisibilityRoundedIcon />}
+                  </IconButton>
+                </InputAdornment>
+              ),
+            },
+          }}
+        />
+
+        {isSignUp && (
+          <TextField
+            fullWidth
+            required
+            id="confirm-password"
+            label="Confirm password"
+            type={showPassword ? 'text' : 'password'}
+            autoComplete="new-password"
+            value={confirmPassword}
+            onChange={(event) => setConfirmPassword(event.target.value)}
+            slotProps={{
+              input: {
+                startAdornment: (
+                  <InputAdornment position="start">
+                    <LockRoundedIcon color="action" />
+                  </InputAdornment>
+                ),
+              },
+            }}
+          />
+        )}
+
+        <Button type="submit" variant="contained" size="large" disabled={busy} sx={{ mt: 0.5 }}>
+          {busy ? 'Please wait…' : isSignUp ? 'Create your account' : 'Sign in'}
+        </Button>
+
+        {!isSignUp && (
+          <Box sx={{ display: 'flex', justifyContent: 'flex-end', mt: -1 }}>
+            <Button onClick={() => navigate('/forgot-password')} sx={{ px: 0, minWidth: 0 }}>
+              Forgot password?
+            </Button>
+          </Box>
+        )}
+      </Stack>
+    </AuthShell>
   );
 };
 
