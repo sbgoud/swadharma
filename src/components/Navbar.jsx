@@ -73,7 +73,7 @@ const Navbar = () => {
 
   return (
     <AppBar position="sticky">
-      <Container maxWidth="xl">
+      <Container maxWidth="lg">
         <Toolbar disableGutters sx={{ minHeight: { xs: 62, md: 70 }, gap: 2 }}>
           <Logo size={38} />
 

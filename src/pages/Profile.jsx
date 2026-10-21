@@ -76,7 +76,7 @@ const Profile = () => {
 
       <Grid container spacing={2.5}>
         <Grid size={{ xs: 12, md: 4 }}>
-          <Card variant="outlined" sx={{ borderRadius: '24px', height: '100%' }}>
+          <Card variant="outlined" sx={{ borderRadius: '20px', height: '100%' }}>
             <CardContent sx={{ p: 3, textAlign: 'center', '&:last-child': { pb: 3 } }}>
               <Avatar
                 sx={{
@@ -114,7 +114,7 @@ const Profile = () => {
         </Grid>
 
         <Grid size={{ xs: 12, md: 8 }}>
-          <Card variant="outlined" sx={{ borderRadius: '24px' }}>
+          <Card variant="outlined" sx={{ borderRadius: '20px' }}>
             <CardContent sx={{ p: { xs: 2.5, md: 3.5 }, '&:last-child': { pb: { xs: 2.5, md: 3.5 } } }}>
               <Typography variant="h6" sx={{ fontWeight: 600, color: 'text.primary', mb: 2.5 }}>
                 Account details

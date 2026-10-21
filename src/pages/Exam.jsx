@@ -368,7 +368,7 @@ const Exam = () => {
           borderColor: 'divider',
         }}
       >
-        <Box sx={{ maxWidth: 1400, mx: 'auto', px: { xs: 2, md: 3 }, py: 1.5 }}>
+        <Box sx={{ maxWidth: 1280, mx: 'auto', px: { xs: 2, md: 3 }, py: 1.5 }}>
           <Stack direction="row" spacing={{ xs: 1, sm: 2 }} sx={{ alignItems: 'center' }}>
             <Stack direction="row" spacing={{ xs: 0.5, sm: 1.25 }} sx={{ alignItems: 'center', minWidth: 0 }}>
               <IconButton
@@ -449,15 +449,15 @@ const Exam = () => {
       </Box>
 
       {notice && (
-        <Box sx={{ maxWidth: 1400, mx: 'auto', px: { xs: 2, md: 3 }, pt: 2 }}>
+        <Box sx={{ maxWidth: 1280, mx: 'auto', px: { xs: 2, md: 3 }, pt: 2 }}>
           <Alert severity="warning">{notice}</Alert>
         </Box>
       )}
 
-      <Box sx={{ maxWidth: 1400, mx: 'auto', px: { xs: 2, md: 3 }, py: 3 }}>
+      <Box sx={{ maxWidth: 1280, mx: 'auto', px: { xs: 2, md: 3 }, py: 3 }}>
         <Box sx={{ display: 'grid', gridTemplateColumns: { xs: '1fr', md: 'minmax(0,1fr) 320px' }, gap: 3 }}>
           {/* ------------------------------------------------------ Question */}
-          <Card variant="outlined" sx={{ alignSelf: 'start', borderRadius: '24px' }}>
+          <Card variant="outlined" sx={{ alignSelf: 'start', borderRadius: '20px' }}>
             <CardContent sx={{ p: { xs: 2.5, md: 4 }, '&:last-child': { pb: { xs: 2.5, md: 4 } } }}>
               <Stack direction="row" gap={1} sx={{ flexWrap: 'wrap', mb: 2.5 }}>
                 {question.subject && (
@@ -616,7 +616,7 @@ const Exam = () => {
           <Box sx={{ display: { xs: 'none', md: 'block' } }}>
             <Card
               variant="outlined"
-              sx={{ position: 'sticky', top: 96, borderRadius: '24px' }}
+              sx={{ position: 'sticky', top: 96, borderRadius: '20px' }}
             >
               <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
                 <Typography variant="subtitle1" sx={{ fontWeight: 600, color: 'text.primary', mb: 2 }}>

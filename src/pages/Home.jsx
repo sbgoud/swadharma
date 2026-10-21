@@ -374,7 +374,7 @@ const Home = () => {
               : 'radial-gradient(90% 70% at 78% 8%, rgba(15, 118, 110, 0.09) 0%, transparent 62%)',
         }}
       >
-        <Container maxWidth="xl" sx={{ position: 'relative' }}>
+        <Container maxWidth="lg" sx={{ position: 'relative' }}>
           <Grid container spacing={{ xs: 6, lg: 8 }} sx={{ alignItems: 'center' }}>
             <Grid size={{ xs: 12, md: 6 }}>
               <Box className="rise-in">
@@ -417,9 +417,10 @@ const Home = () => {
                 </Stack>
 
                 <Stack
-                  direction={{ xs: 'column', sm: 'row' }}
+                  direction="row"
                   spacing={{ xs: 1, sm: 3 }}
-                  sx={{ rowGap: 1 }}
+                  useFlexGap
+                  sx={{ flexWrap: 'wrap', rowGap: 0.75 }}
                 >
                   {[
                     'No card needed to start',
@@ -428,7 +429,7 @@ const Home = () => {
                   ].map((item) => (
                     <Stack key={item} direction="row" spacing={1} sx={{ alignItems: 'center' }}>
                       <CheckCircleRoundedIcon sx={{ color: 'success.main', fontSize: 18 }} />
-                      <Typography variant="body2" color="text.secondary">
+                      <Typography variant="body2" color="text.secondary" sx={{ whiteSpace: 'nowrap' }}>
                         {item}
                       </Typography>
                     </Stack>
@@ -447,7 +448,7 @@ const Home = () => {
       </Box>
 
       {/* -------------------------------------------------------------- Facts */}
-      <Container maxWidth="xl" sx={{ mt: { xs: -4, md: -6 }, position: 'relative' }}>
+      <Container maxWidth="lg" sx={{ mt: { xs: -4, md: -6 }, position: 'relative' }}>
         <Paper
           elevation={0}
           sx={{
@@ -503,7 +504,7 @@ const Home = () => {
 
       {/* ----------------------------------------------------------- Features */}
       <Box component="section" sx={{ py: { xs: 8, md: 12 } }}>
-        <Container maxWidth="xl">
+        <Container maxWidth="lg">
           <SectionHeading
             eyebrow="What you get"
             title="A console, not a quiz app"
@@ -565,7 +566,7 @@ const Home = () => {
           borderColor: 'divider',
         }}
       >
-        <Container maxWidth="xl">
+        <Container maxWidth="lg">
           <SectionHeading
             eyebrow="How it works"
             title="Three steps to your next paper"
@@ -631,7 +632,7 @@ const Home = () => {
 
       {/* ---------------------------------------------------------- Subjects */}
       <Box component="section" id="subjects" sx={{ py: { xs: 8, md: 12 } }}>
-        <Container maxWidth="xl">
+        <Container maxWidth="lg">
           <SectionHeading
             eyebrow="Question bank"
             title="Eight General Studies subjects"
@@ -719,7 +720,7 @@ const Home = () => {
           borderColor: 'divider',
         }}
       >
-        <Container maxWidth="xl">
+        <Container maxWidth="lg">
           <Grid container spacing={{ xs: 5, md: 7 }} sx={{ alignItems: 'center' }}>
             <Grid size={{ xs: 12, md: 5 }}>
               <SectionHeading
@@ -783,7 +784,7 @@ const Home = () => {
       </Box>
 
       {/* --------------------------------------------------------- Final CTA */}
-      <Container maxWidth="xl" sx={{ pb: { xs: 2, md: 4 } }}>
+      <Container maxWidth="lg" sx={{ pb: { xs: 2, md: 4 } }}>
         <CtaBand
           title="Your first paper is two clicks away"
           description="Create an account, pick your subjects and start. Timed papers, the official marking scheme and a full explanation behind every answer."

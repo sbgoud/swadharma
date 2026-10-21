@@ -205,7 +205,7 @@ const Result = () => {
       {/* ---------------------------------------------------------- Charts */}
       <Grid container spacing={2} sx={{ mt: 1 }}>
         <Grid size={{ xs: 12, md: 6 }}>
-          <Card variant="outlined" sx={{ height: '100%', borderRadius: '24px' }}>
+          <Card variant="outlined" sx={{ height: '100%', borderRadius: '20px' }}>
             <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
               <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center', mb: 2 }}>
                 <InsightsRoundedIcon sx={{ color: 'primary.main' }} />
@@ -230,7 +230,7 @@ const Result = () => {
         </Grid>
 
         <Grid size={{ xs: 12, md: 6 }}>
-          <Card variant="outlined" sx={{ height: '100%', borderRadius: '24px' }}>
+          <Card variant="outlined" sx={{ height: '100%', borderRadius: '20px' }}>
             <CardContent sx={{ p: 3, '&:last-child': { pb: 3 } }}>
               <Stack direction="row" spacing={1.25} sx={{ alignItems: 'center', mb: 2 }}>
                 <EmojiEventsRoundedIcon sx={{ color: 'warning.main' }} />
@@ -258,7 +258,7 @@ const Result = () => {
       </Grid>
 
       {/* --------------------------------------------------------- Review */}
-      <Card variant="outlined" sx={{ mt: 2, borderRadius: '24px' }}>
+      <Card variant="outlined" sx={{ mt: 2, borderRadius: '20px' }}>
         <CardContent sx={{ p: { xs: 2.5, md: 3.5 }, '&:last-child': { pb: { xs: 2.5, md: 3.5 } } }}>
           <Stack
             direction={{ xs: 'column', md: 'row' }}

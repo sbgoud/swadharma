@@ -201,7 +201,7 @@ const Dashboard = () => {
 
   return (
     <Box sx={{ bgcolor: 'background.default', minHeight: '100%' }}>
-      <Box sx={{ maxWidth: 1440, mx: 'auto', px: { xs: 2, sm: 3, lg: 5 }, py: { xs: 4, md: 6 } }}>
+      <Box sx={{ maxWidth: 1280, mx: 'auto', px: { xs: 2, sm: 3, lg: 5 }, py: { xs: 4, md: 6 } }}>
         <PageHeader
           eyebrow="Dashboard"
           title={`Good to see you, ${firstName}`}
@@ -302,7 +302,7 @@ const Dashboard = () => {
           <Grid size={{ xs: 12, lg: 8 }}>
             <Paper
               variant="outlined"
-              sx={{ p: { xs: 2.5, md: 3.5 }, borderRadius: '24px', bgcolor: 'background.paper' }}
+              sx={{ p: { xs: 2.5, md: 3.5 }, borderRadius: '20px', bgcolor: 'background.paper' }}
             >
               <Stack
                 direction="row"
@@ -525,7 +525,7 @@ const Dashboard = () => {
               <Grid size={{ xs: 12, md: 7 }}>
                 <Paper
                   variant="outlined"
-                  sx={{ p: 3, borderRadius: '24px', height: '100%', bgcolor: 'background.paper' }}
+                  sx={{ p: 3, borderRadius: '20px', height: '100%', bgcolor: 'background.paper' }}
                 >
                   <Stack direction="row" sx={{ justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
                     <Box>
@@ -554,7 +554,7 @@ const Dashboard = () => {
               <Grid size={{ xs: 12, md: 5 }}>
                 <Paper
                   variant="outlined"
-                  sx={{ p: 3, borderRadius: '24px', height: '100%', bgcolor: 'background.paper' }}
+                  sx={{ p: 3, borderRadius: '20px', height: '100%', bgcolor: 'background.paper' }}
                 >
                   <Typography variant="h6" sx={{ fontWeight: 600, color: 'text.primary', mb: 0.5 }}>
                     Subject performance
@@ -585,7 +585,7 @@ const Dashboard = () => {
                 elevation={0}
                 sx={{
                   p: 3,
-                  borderRadius: '24px',
+                  borderRadius: '20px',
                   bgcolor: INK,
                   color: '#EAF2F1',
                   border: '1px solid rgba(255, 255, 255, 0.08)',
@@ -623,7 +623,7 @@ const Dashboard = () => {
 
               <Paper
                 variant="outlined"
-                sx={{ p: 3, borderRadius: '24px', bgcolor: 'background.paper' }}
+                sx={{ p: 3, borderRadius: '20px', bgcolor: 'background.paper' }}
               >
                 <Stack direction="row" sx={{ justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
                   <Typography variant="h6" sx={{ fontWeight: 600, color: 'text.primary' }}>

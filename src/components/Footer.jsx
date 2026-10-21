@@ -42,7 +42,7 @@ const Footer = () => (
       borderTop: '1px solid rgba(226, 236, 235, 0.10)',
     }}
   >
-    <Container maxWidth="xl">
+    <Container maxWidth="lg">
       <Grid container spacing={{ xs: 4, md: 5 }} sx={{ py: { xs: 6, md: 8 } }}>
         <Grid size={{ xs: 12, md: 4 }}>
           <Logo size={44} tone="light" />

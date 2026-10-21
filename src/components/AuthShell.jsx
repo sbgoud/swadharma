@@ -88,7 +88,7 @@ const AuthShell = ({ title, subtitle, eyebrow, children, footer, aside }) => (
             variant="outlined"
             sx={{
               p: { xs: 3, sm: 4 },
-              borderRadius: '24px',
+              borderRadius: '20px',
               bgcolor: 'background.paper',
               height: '100%',
               display: 'flex',

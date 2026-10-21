@@ -87,7 +87,7 @@ const About = () => {
         </Container>
       </Box>
 
-      <Container maxWidth="xl" sx={{ pb: { xs: 6, md: 10 } }}>
+      <Container maxWidth="lg" sx={{ pb: { xs: 6, md: 10 } }}>
         <Grid container spacing={2.5}>
           {PILLARS.map((pillar) => (
             <Grid key={pillar.title} size={{ xs: 12, sm: 6, md: 3 }}>

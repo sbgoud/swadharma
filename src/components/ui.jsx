@@ -181,7 +181,7 @@ export const StatCard = ({ icon, label, value, caption, accent = 'primary.main',
 export const EmptyState = ({ icon, title, description, action }) => (
   <Paper
     variant="outlined"
-    sx={{ p: { xs: 4, md: 6 }, textAlign: 'center', borderRadius: '24px', borderStyle: 'dashed' }}
+    sx={{ p: { xs: 4, md: 6 }, textAlign: 'center', borderRadius: '20px', borderStyle: 'dashed' }}
   >
     {icon && (
       <Box sx={{ color: 'text.disabled', mb: 2, display: 'grid', placeItems: 'center' }}>{icon}</Box>
