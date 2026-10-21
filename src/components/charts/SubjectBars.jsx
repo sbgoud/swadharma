@@ -20,7 +20,7 @@ const SubjectBars = ({ data = [], valueLabel = 'Accuracy' }) => {
               <Typography variant="body2" sx={{ fontWeight: 600, color: 'text.primary' }} noWrap>
                 {row.label}
               </Typography>
-              <Typography variant="caption" color="text.secondary" sx={{ fontWeight: 600 }}>
+              <Typography variant="caption" color="text.secondary" className="tabular" sx={{ fontWeight: 600 }}>
                 {row.caption ?? `${Math.round(row.value || 0)}%`}
               </Typography>
             </Stack>
@@ -34,7 +34,7 @@ const SubjectBars = ({ data = [], valueLabel = 'Accuracy' }) => {
                 bgcolor: 'action.hover',
                 '& .MuiLinearProgress-bar': {
                   borderRadius: 999,
-                  background: row.color || 'linear-gradient(90deg, #4F46E5 0%, #7C3AED 100%)',
+                  background: row.color || 'linear-gradient(90deg, #0F766E 0%, #0E7490 100%)',
                 },
               }}
             />

@@ -1,7 +1,10 @@
 import { Navigate, useLocation } from 'react-router-dom';
 import Box from '@mui/material/Box';
 import CircularProgress from '@mui/material/CircularProgress';
+import Stack from '@mui/material/Stack';
+import Typography from '@mui/material/Typography';
 import { useAuth } from '../context/AuthContext';
+import { SwanMark } from './SwanLogo';
 
 /**
  * Guards the signed-in area of the app. Unauthenticated visitors are sent to
@@ -19,7 +22,13 @@ const ProtectedRoute = ({ children, requireVerified = true }) => {
   if (loading || profileLoading) {
     return (
       <Box sx={{ minHeight: '60vh', display: 'grid', placeItems: 'center' }}>
-        <CircularProgress size={38} thickness={4} />
+        <Stack spacing={2.5} sx={{ alignItems: 'center' }}>
+          <SwanMark size={52} />
+          <CircularProgress size={28} thickness={4} />
+          <Typography variant="caption" color="text.secondary">
+            Checking your session…
+          </Typography>
+        </Stack>
       </Box>
     );
   }

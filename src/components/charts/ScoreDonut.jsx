@@ -1,3 +1,4 @@
+import { useId } from 'react';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 
@@ -10,7 +11,7 @@ const ScoreDonut = ({ value = 0, size = 168, stroke = 14, label = 'Score', capti
   const radius = (size - stroke) / 2;
   const circumference = 2 * Math.PI * radius;
   const offset = circumference * (1 - safe / 100);
-  const gradientId = `donut-${label.replace(/\s+/g, '-').toLowerCase()}`;
+  const gradientId = `donut-${useId().replace(/:/g, '')}`;
 
   return (
     <Box
@@ -21,9 +22,8 @@ const ScoreDonut = ({ value = 0, size = 168, stroke = 14, label = 'Score', capti
       <svg width={size} height={size} viewBox={`0 0 ${size} ${size}`}>
         <defs>
           <linearGradient id={gradientId} x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stopColor="#4F46E5" />
-            <stop offset="60%" stopColor="#7C3AED" />
-            <stop offset="100%" stopColor="#2563EB" />
+            <stop offset="0%" stopColor="#0F766E" />
+            <stop offset="100%" stopColor="#0E7490" />
           </linearGradient>
         </defs>
         <circle
@@ -32,7 +32,7 @@ const ScoreDonut = ({ value = 0, size = 168, stroke = 14, label = 'Score', capti
           r={radius}
           fill="none"
           stroke="currentColor"
-          strokeOpacity={0.12}
+          strokeOpacity={0.1}
           strokeWidth={stroke}
         />
         <circle
@@ -59,10 +59,11 @@ const ScoreDonut = ({ value = 0, size = 168, stroke = 14, label = 'Score', capti
         }}
       >
         <Typography
+          className="tabular"
           sx={{
-            fontFamily: '"Poppins", sans-serif',
-            fontWeight: 800,
-            fontSize: size * 0.24,
+            fontFamily: '"Fraunces Variable", Georgia, serif',
+            fontWeight: 600,
+            fontSize: size * 0.23,
             lineHeight: 1,
             color: 'text.primary',
           }}

@@ -7,7 +7,7 @@ import Typography from '@mui/material/Typography';
  * the bundle stays small and the colours follow the theme.
  */
 const TrendChart = ({ data = [], height = 190, unit = '%' }) => {
-  const gradientId = useId();
+  const gradientId = `trend-${useId().replace(/:/g, '')}`;
   if (!data.length) return null;
 
   const width = 640;
@@ -44,8 +44,8 @@ const TrendChart = ({ data = [], height = 190, unit = '%' }) => {
       >
         <defs>
           <linearGradient id={gradientId} x1="0" y1="0" x2="0" y2="1">
-            <stop offset="0%" stopColor="#4F46E5" stopOpacity="0.28" />
-            <stop offset="100%" stopColor="#4F46E5" stopOpacity="0" />
+            <stop offset="0%" stopColor="#0F766E" stopOpacity="0.26" />
+            <stop offset="100%" stopColor="#0F766E" stopOpacity="0" />
           </linearGradient>
         </defs>
 
@@ -57,7 +57,7 @@ const TrendChart = ({ data = [], height = 190, unit = '%' }) => {
               y1={y(tick)}
               y2={y(tick)}
               stroke="currentColor"
-              strokeOpacity={0.12}
+              strokeOpacity={0.1}
               strokeDasharray="4 6"
             />
             <text
@@ -66,7 +66,7 @@ const TrendChart = ({ data = [], height = 190, unit = '%' }) => {
               textAnchor="end"
               fontSize="11"
               fill="currentColor"
-              fillOpacity={0.55}
+              fillOpacity={0.5}
             >
               {Math.round(tick)}
             </text>
@@ -77,7 +77,7 @@ const TrendChart = ({ data = [], height = 190, unit = '%' }) => {
         <polyline
           points={points}
           fill="none"
-          stroke="#4F46E5"
+          stroke="#0F766E"
           strokeWidth="2.5"
           strokeLinecap="round"
           strokeLinejoin="round"
@@ -85,7 +85,7 @@ const TrendChart = ({ data = [], height = 190, unit = '%' }) => {
 
         {data.map((point, index) => (
           <g key={point.label ?? index}>
-            <circle cx={x(index)} cy={y(Number(point.value) || 0)} r="4" fill="#fff" stroke="#4F46E5" strokeWidth="2.5">
+            <circle cx={x(index)} cy={y(Number(point.value) || 0)} r="4" fill="#fff" stroke="#0F766E" strokeWidth="2.5">
               <title>{`${point.label}: ${point.value}${unit}`}</title>
             </circle>
             {data.length <= 8 && (
@@ -95,7 +95,7 @@ const TrendChart = ({ data = [], height = 190, unit = '%' }) => {
                 textAnchor="middle"
                 fontSize="11"
                 fill="currentColor"
-                fillOpacity={0.55}
+                fillOpacity={0.5}
               >
                 {point.label}
               </text>

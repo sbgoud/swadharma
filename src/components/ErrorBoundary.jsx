@@ -7,6 +7,9 @@ import CardContent from '@mui/material/CardContent';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 import ErrorOutlineRoundedIcon from '@mui/icons-material/ErrorOutlineRounded';
+import RefreshRoundedIcon from '@mui/icons-material/RefreshRounded';
+import HomeRoundedIcon from '@mui/icons-material/HomeRounded';
+import { SwanGlyph } from './SwanLogo';
 
 /**
  * Catches render-time errors so a broken page shows a readable message
@@ -20,7 +23,7 @@ class ErrorBoundary extends Component {
     super(props);
     this.state = { error: null };
     this.handleReload = this.handleReload.bind(this);
-    this.handleDashboard = this.handleDashboard.bind(this);
+    this.handleHome = this.handleHome.bind(this);
   }
 
   static getDerivedStateFromError(error) {
@@ -42,8 +45,8 @@ class ErrorBoundary extends Component {
     window.location.reload();
   }
 
-  handleDashboard() {
-    window.location.assign('/dashboard');
+  handleHome() {
+    window.location.assign('/');
   }
 
   render() {
@@ -53,12 +56,14 @@ class ErrorBoundary extends Component {
     if (!error) return children;
 
     return (
-      <Box sx={{ minHeight: '60vh', display: 'grid', placeItems: 'center', px: 2, py: 4 }}>
-        <Card sx={{ maxWidth: 560, width: '100%' }}>
-          <CardContent sx={{ p: 4, '&:last-child': { pb: 4 } }}>
-            <Stack spacing={2} sx={{ alignItems: 'center', textAlign: 'center' }}>
-              <ErrorOutlineRoundedIcon sx={{ fontSize: 44, color: 'error.main' }} />
-              <Typography variant="h5" sx={{ fontWeight: 700, color: 'text.primary' }}>
+      <Box sx={{ minHeight: '60vh', display: 'grid', placeItems: 'center', px: 2, py: 6 }}>
+        <Card variant="outlined" sx={{ maxWidth: 560, width: '100%', borderRadius: 4 }}>
+          <CardContent sx={{ p: { xs: 3, sm: 4.5 }, '&:last-child': { pb: { xs: 3, sm: 4.5 } } }}>
+            <Stack spacing={2.5} sx={{ alignItems: 'center', textAlign: 'center' }}>
+              <Box sx={{ color: 'error.main' }}>
+                <ErrorOutlineRoundedIcon sx={{ fontSize: 40 }} />
+              </Box>
+              <Typography variant="h4" sx={{ color: 'text.primary' }}>
                 This page could not be displayed
               </Typography>
               <Typography variant="body2" color="text.secondary" sx={{ lineHeight: 1.75 }}>
@@ -68,18 +73,29 @@ class ErrorBoundary extends Component {
               <Alert severity="error" sx={{ width: '100%', textAlign: 'left' }}>
                 {error?.message || 'Unexpected error'}
               </Alert>
-              <Stack direction="row" spacing={1.5}>
-                <Button variant="contained" onClick={this.handleReload}>
+              <Stack direction={{ xs: 'column', sm: 'row' }} spacing={1.5} sx={{ width: '100%' }}>
+                <Button
+                  variant="contained"
+                  onClick={this.handleReload}
+                  startIcon={<RefreshRoundedIcon />}
+                  sx={{ flex: 1 }}
+                >
                   Reload page
                 </Button>
                 <Button
                   variant="outlined"
-                  color="inherit"
-                  onClick={this.handleDashboard}
-                  sx={{ borderColor: 'divider' }}
+                  onClick={this.handleHome}
+                  startIcon={<HomeRoundedIcon />}
+                  sx={{ flex: 1 }}
                 >
-                  Go to dashboard
+                  Back to home
                 </Button>
+              </Stack>
+              <Stack direction="row" spacing={1} sx={{ alignItems: 'center', opacity: 0.5 }}>
+                <SwanGlyph size={16} color="currentColor" />
+                <Typography variant="caption" color="text.secondary">
+                  Swadharma IAS
+                </Typography>
               </Stack>
             </Stack>
           </CardContent>
